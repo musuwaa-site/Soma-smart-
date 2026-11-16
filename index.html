@@ -13,7 +13,28 @@
     <title>SomaSmart • Learn a little, grow a lot</title>
   </head>
   <body>
-    <div id="app"></div>
+    <div id="app"><main style="max-width:40rem;margin:12vh auto;padding:1.5rem;font-family:system-ui;color:#142f28">
+      <h1>SomaSmart</h1>
+      <p id="startup-status" role="status" aria-live="polite">Opening your learning library…</p>
+      <p id="startup-help">The first visit loads the library before the complete offline installation begins.</p>
+      <p><a href="" style="color:#125b4b">Retry opening SomaSmart</a></p>
+      <noscript><p>JavaScript is required. Open this preview in a browser with JavaScript enabled.</p></noscript>
+    </main></div>
+    <script>
+      window.addEventListener('error', function(event) {
+        if (event.target && event.target.tagName === 'SCRIPT') {
+          var status = document.getElementById('startup-status');
+          var help = document.getElementById('startup-help');
+          if(status) status.textContent='The application files could not be loaded.';
+          if(help) help.textContent='Reconnect and retry. This private preview needs a browser signed into your ChatGPT account.';
+        } else if(event.message) {
+          var status = document.getElementById('startup-status');
+          var help = document.getElementById('startup-help');
+          if(status) status.textContent='SomaSmart encountered a startup error.';
+          if(help) help.textContent='Retry opening the preview in your browser. Your saved work has not been cleared.';
+        }
+      }, true);
+    </script>
     <script type="module" src="/src/app.js"></script>
   </body>
 </html>

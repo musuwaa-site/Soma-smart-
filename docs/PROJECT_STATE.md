@@ -18,6 +18,8 @@ Canonical editorial data: content/library.json. Authored exact-source batches: c
 
 ## Evidence and continuation
 
-58 automated tests passed (34 Node + 24 Python). Build and 689-asset offline inclusion/hash checks passed. Browser/canvas/IndexedDB and physical Android acceptance remain unperformed; no APK exists. Separate protected owner studio remains server-side. Build ZIPs are generated locally/CI, not committed large binaries.
+64 automated tests passed (40 Node + 24 Python). Build and 689-asset offline inclusion/hash checks passed. Browser/canvas/IndexedDB and physical Android acceptance remain unperformed; no APK exists. Separate protected owner studio remains server-side. Build ZIPs are generated locally/CI, not committed large binaries.
 
 All assigned transcription assets are integrated. Next executable content task: inspect and transcribe Morogoro Form One Chemistry source-ea77027104de0364 with its associated guide, then Dar es Salaam Chemistry source-1b61ec27372553a6. Continue the remaining untranscribed correctly attributed sourceDocuments; 37 currently have no scored selection. Preserve completed batches and stable IDs. Run inventory/tests/build/package, commit and publish exact source milestones. Obtain genuine individual allocation evidence for the Form Two section-only Biology/Geography/Kiswahili papers rather than fabricating official per-item weights. Retain every held question unchanged for resolution. Complete remaining curriculum/books and browser/Android/update/migration acceptance; the overall readiness gate must still fail. Never count full PDFs as fully scored papers.
+
+Latest repair: visible startup/progress and bounded network/storage waits replace blank loading; authenticated production HTTP checks pass. The user’s reported connection error is not yet reproduced in their browser. See ACCESS_DIAGNOSIS.md.

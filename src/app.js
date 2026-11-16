@@ -2,6 +2,7 @@ import "./style.css";
 import { verbatimContent, originalOptionLabel } from "./exam-format.js";
 import { eligible, generate, result, weakTopics } from "./engine.js";
 import { get, set } from "./storage.js";
+import { loadLibrary, withStorageTimeout } from './startup.js';
 const app = document.querySelector("#app");
 let sourceAnswers = {};
 const esc = (v) =>
@@ -553,23 +554,25 @@ async function provision() {
 }
 async function boot() {
   try {
-    const response = await fetch("/library.json");
-    if (!response.ok) throw Error("Learning library could not be loaded.");
-    data = await response.json();
-    profile = await get("profile", {
+    data = await loadLibrary({onProgress(bytes) {
+      const status=document.querySelector('#startup-status');
+      if(status)status.textContent=`Loading learning library… ${(bytes/1048576).toFixed(1)} MB received`;
+    }});
+    const status=document.querySelector('#startup-status');
+    if(status)status.textContent='Opening your saved progress…';
+    profile = await withStorageTimeout(get("profile", {
       form: 1,
       completed: [],
       recent: [],
       lastLesson: null,
-    });
-    attempts = await get("attempts", []);
-    draft = await get("draft", null);
-    privateDocs = await get("privateDocuments", []);
-    sourceAnswers = await get("sourceAnswers", {});
+    }));
+    [attempts,draft,privateDocs,sourceAnswers] = await withStorageTimeout(Promise.all([
+      get('attempts',[]),get('draft',null),get('privateDocuments',[]),get('sourceAnswers',{})
+    ]));
     await render();
     await provision();
   } catch (e) {
-    app.innerHTML = `<main class="shell"><h1>SomaSmart needs setup</h1><p>${esc(e.message)}</p><p>Check storage space and reconnect to finish installation.</p><button onclick="location.reload()">Retry setup</button></main>`;
+    app.innerHTML = `<main class="shell"><h1>SomaSmart could not open</h1><p role="alert">${esc(e.message)}</p><p>Retrying does not delete your saved work.</p><button onclick="location.reload()">Retry opening SomaSmart</button></main>`;
   }
 }
 window.addEventListener("hashchange", render);

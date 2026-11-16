@@ -6,3 +6,5 @@ admin/workspace/
 public/library.json
 acquisition/documents/
 acquisition/*.html
+
+acquisition/curriculum-review.json

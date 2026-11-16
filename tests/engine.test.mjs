@@ -131,3 +131,35 @@ test("a draft subpart makes its entire group ineligible", () => {
     0,
   );
 });
+
+test('prepared original papers stay separate from authentic past-paper inventory', () => {
+  const originals = data.papers.filter(p => p.sourceType === 'original');
+  assert.equal(originals.length, 18);
+  for (const p of originals) {
+    assert.equal(new Set(p.questionIds).size, p.questionIds.length);
+    const questions = p.questionIds.map(id => data.questions.find(q => q.id === id));
+    assert(questions.every(q => q && q.sourceType === 'original' && q.form === p.form && q.subjectId === p.subjectId));
+    assert.equal(questions.reduce((n,q) => n + q.maximumMarks, 0), p.maximumMarks);
+  }
+});
+test('every workbook has distinct exercises and a mixed revision selection', () => {
+  for (const b of data.books.filter(b => b.kind === 'workbook')) {
+    assert(b.mixedTestQuestionIds.length >= 5);
+    for (const id of b.lessonIds) assert(data.questions.some(q => q.topicIds.includes(id) && q.resourceKind === 'workbook'));
+    assert(b.mixedTestQuestionIds.every(id => data.questions.find(q => q.id === id)?.resourceKind === 'workbook'));
+  }
+});
+test('published partial curriculum references point to the correct official form and subject', () => {
+  const activities = new Map(data.curriculum.activities.map(a => [a.id,a]));
+  for (const l of data.lessons) for (const ref of l.curriculumRefs || []) {
+    const a = activities.get(ref.activityId);
+    assert(a); assert.equal(a.form,l.form); assert.equal(a.subjectId,l.subjectId);
+    assert.deepEqual(a.pdfPages,ref.pdfPages); assert.equal(ref.scope,'partial-support');
+  }
+});
+test('corrected form placements preserve stable chapter IDs', () => {
+  for (const [id,form] of [['physics-f2-01',1],['mathematics-f2-01',1],['geography-f1-01',2]]) {
+    assert.equal(data.lessons.find(l=>l.id===id).form,form);
+    assert(data.questions.filter(q=>q.topicIds.includes(id)).every(q=>q.form===form));
+  }
+});

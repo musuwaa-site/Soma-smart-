@@ -99,7 +99,7 @@ function study(sid) {
     (b) => b.form === profile.form && b.subjectId === sid,
   );
   frame(
-    `${link("study", "← All subjects", "")}<h1>${esc(s.name)}</h1><p class="muted">Form ${profile.form} • ${s.language === "sw" ? "Kiswahili" : "English"} • Official topic mapping pending</p><div class="split">${books.map((b) => `<section class="card"><span class="pill">Partial manuscript</span><h2>${esc(b.title)}</h2><p>${b.kind === "textbook" ? "Explanations, worked examples and glossary." : "Topic exercises, model answers and a short revision test."}</p>${b.lessonIds.map((id) => link((b.kind === "textbook" ? "lesson/" : "workbook/") + id, lesson(id).title)).join("")}</section>`).join("")}</div><h2>Chapters</h2>${data.lessons
+    `${link("study", "← All subjects", "")}<h1>${esc(s.name)}</h1><p class="muted">Form ${profile.form} • ${s.language === "sw" ? "Kiswahili" : "English"} • Official topic mapping pending</p><div class="split">${books.map((b) => `<section class="card"><span class="pill">Partial manuscript</span><h2>${esc(b.title)}</h2><p>${b.kind === "textbook" ? "Explanations, worked examples and glossary." : "Topic exercises, model answers and a short revision test."}</p>${b.introduction ? `<p>${esc(b.introduction)}</p>` : ""}${b.lessonIds.map((id) => link((b.kind === "textbook" ? "lesson/" : "workbook/") + id, lesson(id).title)).join("")}${b.mixedTestQuestionIds?.length ? `<p><button data-workbook-test="${b.id}">Mixed chapter revision test</button></p>` : ""}</section>`).join("")}</div><h2>Chapters</h2>${data.lessons
       .filter((l) => l.form === profile.form && l.subjectId === sid)
       .map(
         (l) =>
@@ -108,6 +108,10 @@ function study(sid) {
       .join("")}`,
     "study",
   );
+  document.querySelectorAll('[data-workbook-test]').forEach(button => button.onclick = () => {
+    const book = data.books.find(b => b.id === button.dataset.workbookTest);
+    startExam(book.mixedTestQuestionIds.map(id => data.questions.find(q => q.id === id)), book.title + ' • mixed revision');
+  });
 }
 async function reader(id, workbook = false) {
   const l = lesson(id);
@@ -122,7 +126,7 @@ async function reader(id, workbook = false) {
     `<article class="reader" lang="${l.language}">${link("study/" + l.subjectId, "← " + subject(l.subjectId).name, "")}<span class="pill">Form ${l.form} • Starter chapter</span><h1>${esc(l.title)}</h1><div class="book-tabs">${link("lesson/" + id, "Read", "button " + (workbook ? "secondary" : ""))}${link("workbook/" + id, "Revision workbook", "button " + (!workbook ? "secondary" : ""))}</div>${
       workbook
         ? `<p>Try these activities before revealing the model answers. Use the rubric to assess your reasoning; more than one valid wording may be possible.</p><button id="start-practice">Start chapter revision test</button>`
-        : `<h2>Learning objectives</h2><ul>${l.objectives.map((o) => `<li>${esc(o)}</li>`).join("")}</ul>${l.paragraphs.map((p) => `<p>${esc(p)}</p>`).join("")}${l.diagram ? `<figure><img src="${esc(l.diagram)}" alt="${l.subjectId === "biology" ? "Simplified plant cell showing cell wall, membrane, vacuole and nucleus." : "Particle model of solid, liquid and gas."}"><figcaption class="muted">Original SomaSmart schematic; not to scale.</figcaption></figure>` : ""}<h2>Key terms · Tap to explore</h2>${data.glossary
+        : `<h2>Learning objectives</h2><ul>${l.objectives.map((o) => `<li>${esc(o)}</li>`).join("")}</ul>${l.paragraphs.map((p) => `<p>${esc(p)}</p>`).join("")}${l.diagram ? `<figure><img src="${esc(l.diagram)}" alt="${l.diagramAlt || (l.subjectId === "biology" ? "Simplified plant cell showing cell wall, membrane, vacuole and nucleus." : "Particle model of solid, liquid and gas.")}"><figcaption class="muted">Original SomaSmart schematic; not to scale.</figcaption></figure>` : ""}<h2>Key terms · Tap to explore</h2>${data.glossary
             .filter((g) => g.lessonId === id)
             .map(
               (g) =>
@@ -132,10 +136,10 @@ async function reader(id, workbook = false) {
               "",
             )}<h2>Worked examples</h2>${l.examples.map((x, i) => `<div class="example"><strong>${l.language === "sw" ? "Mfano" : "Example"} ${i + 1}</strong><p>${esc(x)}</p></div>`).join("")}<h2>Remember</h2><p>${esc(l.summary)}</p><button id="complete">${profile.completed.includes(id) ? "✓ Chapter completed" : "Mark chapter complete"}</button>`
     }<h2>${workbook ? "Practice activities & model answers" : "Check your understanding"}</h2>${data.questions
-      .filter((q) => q.topicIds.includes(id))
+      .filter((q) => q.topicIds.includes(id) && (workbook ? q.resourceKind === "workbook" : q.resourceKind !== "workbook"))
       .map(
         (q, i) =>
-          `<section class="card question"><h3>${i + 1}. ${esc(q.content)}</h3>${q.options.length ? `<p>${q.options.map(esc).join(" / ")}</p>` : ""}<details><summary>Model answer & explanation</summary><p>${esc(q.answerKey)}</p><p class="muted">${esc(q.markingGuide)}</p></details></section>`,
+          `<section class="card question"><h3>${i + 1}. ${esc(q.content)}</h3>${q.options.length ? `<p>${q.options.map(esc).join(" / ")}</p>` : ""}<details><summary>Model answer & explanation</summary><p>${esc(typeof q.answerKey === "object" ? Object.entries(q.answerKey).map(([k,v]) => k + ": " + v).join("; ") : q.answerKey)}</p><p class="muted">${esc(q.markingGuide)}</p></details></section>`,
       )
       .join(
         "",
@@ -160,7 +164,7 @@ async function reader(id, workbook = false) {
     };
   document.querySelector("#start-practice").onclick = () =>
     startExam(
-      data.questions.filter((q) => q.topicIds.includes(id)),
+      data.questions.filter((q) => q.topicIds.includes(id) && (workbook ? q.resourceKind === "workbook" : q.resourceKind !== "workbook")),
       `Chapter revision: ${l.title}`,
     );
 }
@@ -201,7 +205,7 @@ function exams() {
       )
       .join(
         "",
-      )}</fieldset><div class="formgrid"><label>Number of question parts<input id="count" type="number" min="1" max="${Math.max(1, list.length)}" value="${Math.min(5, list.length) || 1}"></label><label>Selection seed<input id="seed" type="number" value="2027"></label></div><p><strong>${list.length}</strong> eligible question parts</p>${list.length ? '<button id="generate">Create examination →</button>' : `<div class="empty">No eligible embedded questions match this source. Genuine papers require source, rights, extraction and marking verification. ${link("exams", "Choose original practice", "")}</div>`}<div id="exam-message" role="alert"></div></section><h2>Private source documents</h2><section class="card"><p>Import a PDF you may lawfully use. Files stay on this device and are never published. These reference documents are not automatically transcribed or eligible for scored exams.</p><label>Choose a private PDF<input id="private-file" type="file" accept="application/pdf"></label><div id="private-status" role="status"></div>${privateDocs.map((p, i) => `<p><button class="secondary" data-private="${i}">${esc(p.name)}</button></p>`).join("")}</section><h2>Previous attempts</h2>${
+      )}</fieldset><div class="formgrid"><label>Number of question parts<input id="count" type="number" min="1" max="${Math.max(1, list.length)}" value="${Math.min(5, list.length) || 1}"></label><label>Selection seed<input id="seed" type="number" value="2027"></label></div><p><strong>${list.length}</strong> eligible question parts</p>${list.length ? '<button id="generate">Create examination →</button>' : `<div class="empty">No eligible embedded questions match this source. Genuine papers require source, rights, extraction and marking verification. ${link("exams", "Choose original practice", "")}</div>`}<div id="exam-message" role="alert"></div></section><h2>Prepared revision papers</h2><p class="muted">Original SomaSmart tests covering the published chapters; these are not past school or NECTA papers.</p><div class="grid">${data.papers.filter(p => p.sourceType === "original" && p.form === profile.form && p.publicationStatus === "published").map(p => `<section class="card"><h3>${esc(p.title)}</h3><p>${p.questionIds.length} items · ${p.maximumMarks} marks</p><button data-paper="${p.id}">Start revision paper</button></section>`).join("")}</div><h2>Private source documents</h2><section class="card"><p>Import a PDF you may lawfully use. Files stay on this device and are never published. These reference documents are not automatically transcribed or eligible for scored exams.</p><label>Choose a private PDF<input id="private-file" type="file" accept="application/pdf"></label><div id="private-status" role="status"></div>${privateDocs.map((p, i) => `<p><button class="secondary" data-private="${i}">${esc(p.name)}</button></p>`).join("")}</section><h2>Previous attempts</h2>${
       attempts.length
         ? attempts
             .slice()
@@ -215,6 +219,10 @@ function exams() {
     }`,
     "exams",
   );
+  document.querySelectorAll('[data-paper]').forEach(button => button.onclick = () => {
+    const paper = data.papers.find(p => p.id === button.dataset.paper);
+    startExam(paper.questionIds.map(id => data.questions.find(q => q.id === id)), paper.title);
+  });
   document.querySelector("#private-file").onchange = async (e) => {
     try {
       const file = e.target.files[0];

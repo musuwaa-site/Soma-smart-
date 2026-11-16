@@ -1,0 +1,2826 @@
+{
+  "status": "partial-mapping",
+  "scopeNote": "251 extracted learning-activity locators, not a verified complete count of individual subtopics. References indicate partial chapter support only. Full detailed subtopic decomposition and cohort verification remain incomplete.",
+  "sources": [
+    {
+      "id": "06537e79ec6d005a",
+      "url": "https://www.tie.go.tz/uploads/documents/sw-1727192422-BIOLOGY SYLLABUS ORDINARY SECONDARY FINAL .pdf",
+      "sourceTitle": "sw-1727192422-BIOLOGY SYLLABUS ORDINARY SECONDARY FINAL .pdf",
+      "sha256": "06537e79ec6d005a804e9d911748bc2c45c0b45b139b70a0b331058affb563c6"
+    },
+    {
+      "id": "a666f9276704c2d0",
+      "url": "https://www.tie.go.tz/uploads/documents/sw-1727256902-MATHEMATICS SYLLABUS - O level final.pdf",
+      "sourceTitle": "sw-1727256902-MATHEMATICS SYLLABUS - O level final.pdf",
+      "sha256": "a666f9276704c2d0c4f73870262165573e0c8d479021fcad6345444c2ff55e50"
+    },
+    {
+      "id": "882332bb296bc693",
+      "url": "https://www.tie.go.tz/uploads/documents/sw-1741937359-MUHTASARI WA KISWAHILI KIDATO  I-IV FINAL.pdf",
+      "sourceTitle": "sw-1741937359-MUHTASARI WA KISWAHILI KIDATO  I-IV FINAL.pdf",
+      "sha256": "882332bb296bc6934a773e885b84696f2d50e48c4e411b04196d15c11677110b"
+    },
+    {
+      "id": "302a9bb91147e4ce",
+      "url": "https://www.tie.go.tz/uploads/documents/sw-1727192697-BUSINESS STUDIES SYLLABUS FOR ORDINARY LEVEL SECONDARY EDUCATION.pdf",
+      "sourceTitle": "sw-1727192697-BUSINESS STUDIES SYLLABUS FOR ORDINARY LEVEL SECONDARY EDUCATION.pdf",
+      "sha256": "302a9bb91147e4ce4294a839e3c3d7906b7868cc841ad2487b5fc7fb59129edf"
+    },
+    {
+      "id": "f6b93b5819e5c582",
+      "url": "https://www.tie.go.tz/uploads/documents/sw-1727192894-CHEMISTRY O'LEVEL EDUCATION FINAL.pdf",
+      "sourceTitle": "sw-1727192894-CHEMISTRY O'LEVEL EDUCATION FINAL.pdf",
+      "sha256": "f6b93b5819e5c582ca3d190a81725a322f07890cb35b77d0b1375ca999877fea"
+    },
+    {
+      "id": "5510fd3e38500baf",
+      "url": "https://www.tie.go.tz/uploads/documents/sw-1788264155-Muht. Historia ya Tanzania & Maadili 2.pdf",
+      "sourceTitle": "sw-1788264155-Muht. Historia ya Tanzania & Maadili 2.pdf",
+      "sha256": "5510fd3e38500baf77161d858c8581deae5b1c6d93ce80bb9a7f9994745ee879"
+    },
+    {
+      "id": "6daa1f44f86bd186",
+      "url": "https://www.tie.go.tz/uploads/documents/sw-1756459411-ENGLISH lANGUAGE FINAL.pdf",
+      "sourceTitle": "sw-1756459411-ENGLISH lANGUAGE FINAL.pdf",
+      "sha256": "6daa1f44f86bd186c4e78e24c716038e04f8da82555013e33cac0a5af8e0f3e9"
+    },
+    {
+      "id": "89a9dd3eb858f8d0",
+      "url": "https://www.tie.go.tz/uploads/documents/sw-1727255849-GEOGRAPHY O-Level.pdf",
+      "sourceTitle": "sw-1727255849-GEOGRAPHY O-Level.pdf",
+      "sha256": "89a9dd3eb858f8d04152cd2cdba70d9b7fbf62c1bdc89517a8e49705434e9fc3"
+    },
+    {
+      "id": "0e0f96e61e9ec349",
+      "url": "https://www.tie.go.tz/uploads/documents/sw-1727257838-PHYSICS FOR ORDINARY SECONDARY EDUCATION FINAL.pdf",
+      "sourceTitle": "sw-1727257838-PHYSICS FOR ORDINARY SECONDARY EDUCATION FINAL.pdf",
+      "sha256": "0e0f96e61e9ec349deb3f46933e4a6d045aa58c5a12c7c450c9247521f33669f"
+    }
+  ],
+  "activities": [
+    {
+      "id": "chemistry-f1-activity-01",
+      "form": 1,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        15
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f1-activity-02",
+      "form": 1,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        16
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f1-activity-03",
+      "form": 1,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        17
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f1-activity-04",
+      "form": 1,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        18
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f1-activity-05",
+      "form": 1,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        19
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f1-activity-06",
+      "form": 1,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f1-activity-07",
+      "form": 1,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f1-activity-08",
+      "form": 1,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        22
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f1-activity-09",
+      "form": 1,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-01",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        24
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-02",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        25
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-03",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        26
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-04",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        27
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-05",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        28
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-06",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        29
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-07",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        30
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-08",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        31
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-09",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        32
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-10",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        33
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-11",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        33
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-12",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        34
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "chemistry-f2-activity-13",
+      "form": 2,
+      "subjectId": "chemistry",
+      "sourceId": "f6b93b5819e5c582",
+      "pdfPages": [
+        35
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-01",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        15
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-02",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        16
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-03",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        17
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-04",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        18
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-05",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        19
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-06",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-07",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-08",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        22
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-09",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-10",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-11",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        24
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-12",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        25
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-13",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        26
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-14",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        27
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-15",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        28
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-16",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        29
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f1-activity-17",
+      "form": 1,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        30
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f2-activity-01",
+      "form": 2,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        31
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f2-activity-02",
+      "form": 2,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        32
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f2-activity-03",
+      "form": 2,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        33
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f2-activity-04",
+      "form": 2,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        34
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f2-activity-05",
+      "form": 2,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        35
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f2-activity-06",
+      "form": 2,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        36
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f2-activity-07",
+      "form": 2,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        37
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f2-activity-08",
+      "form": 2,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        38
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f2-activity-09",
+      "form": 2,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        39
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f2-activity-10",
+      "form": 2,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        40
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f2-activity-11",
+      "form": 2,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        41
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "physics-f2-activity-12",
+      "form": 2,
+      "subjectId": "physics",
+      "sourceId": "0e0f96e61e9ec349",
+      "pdfPages": [
+        42
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f1-activity-01",
+      "form": 1,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        15
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f1-activity-02",
+      "form": 1,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        16
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f1-activity-03",
+      "form": 1,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        16
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f1-activity-04",
+      "form": 1,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        17,
+        18
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f1-activity-05",
+      "form": 1,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        19
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f1-activity-06",
+      "form": 1,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f1-activity-07",
+      "form": 1,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f1-activity-08",
+      "form": 1,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f1-activity-09",
+      "form": 1,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        22
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f2-activity-01",
+      "form": 2,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f2-activity-02",
+      "form": 2,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        24
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f2-activity-03",
+      "form": 2,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        25
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f2-activity-04",
+      "form": 2,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        26
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f2-activity-05",
+      "form": 2,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        28
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f2-activity-06",
+      "form": 2,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        28
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f2-activity-07",
+      "form": 2,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        29
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f2-activity-08",
+      "form": 2,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        30
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f2-activity-09",
+      "form": 2,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        30
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "biology-f2-activity-10",
+      "form": 2,
+      "subjectId": "biology",
+      "sourceId": "06537e79ec6d005a",
+      "pdfPages": [
+        31
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-01",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        14
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-02",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        15
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-03",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        16
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-04",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        16
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-05",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        17
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-06",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        17
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-07",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        17
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-08",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        18
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-09",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        18
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-10",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        19
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-11",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        19
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-12",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-13",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-14",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-15",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-16",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        22
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-17",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        22
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-18",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        22
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-19",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-20",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f1-activity-21",
+      "form": 1,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        24
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-01",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        25
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-02",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        25
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-03",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        26
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-04",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        26
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-05",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        27
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-06",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        28
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-07",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        29
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-08",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        29
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-09",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        30
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-10",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        30
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-11",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        30
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-12",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        31
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-13",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        31
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-14",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        32
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-15",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        32
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-16",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        32
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-17",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        33
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-18",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        33
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-19",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        34
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "mathematics-f2-activity-20",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceId": "a666f9276704c2d0",
+      "pdfPages": [
+        34
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-01",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        15
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-02",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        16
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-03",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        16
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-04",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        17
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-05",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        18
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-06",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        19
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-07",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        19
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-08",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-09",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-10",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-11",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-12",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        22
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-13",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        22
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-14",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-15",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f1-activity-16",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        24
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f2-activity-01",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        25
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f2-activity-02",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        26
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f2-activity-03",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        26
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f2-activity-04",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        27
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f2-activity-05",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        28
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f2-activity-06",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        29
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f2-activity-07",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        29
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f2-activity-08",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        30
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f2-activity-09",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        30
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f2-activity-10",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        31
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "kiswahili-f2-activity-11",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "sourceId": "882332bb296bc693",
+      "pdfPages": [
+        32
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "geography-f1-activity-01",
+      "form": 1,
+      "subjectId": "geography",
+      "sourceId": "89a9dd3eb858f8d0",
+      "pdfPages": [
+        15
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "geography-f1-activity-02",
+      "form": 1,
+      "subjectId": "geography",
+      "sourceId": "89a9dd3eb858f8d0",
+      "pdfPages": [
+        16
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "geography-f1-activity-03",
+      "form": 1,
+      "subjectId": "geography",
+      "sourceId": "89a9dd3eb858f8d0",
+      "pdfPages": [
+        17
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "geography-f2-activity-01",
+      "form": 2,
+      "subjectId": "geography",
+      "sourceId": "89a9dd3eb858f8d0",
+      "pdfPages": [
+        18
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "geography-f2-activity-02",
+      "form": 2,
+      "subjectId": "geography",
+      "sourceId": "89a9dd3eb858f8d0",
+      "pdfPages": [
+        19
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "geography-f2-activity-03",
+      "form": 2,
+      "subjectId": "geography",
+      "sourceId": "89a9dd3eb858f8d0",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "geography-f2-activity-04",
+      "form": 2,
+      "subjectId": "geography",
+      "sourceId": "89a9dd3eb858f8d0",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "geography-f2-activity-05",
+      "form": 2,
+      "subjectId": "geography",
+      "sourceId": "89a9dd3eb858f8d0",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "geography-f2-activity-06",
+      "form": 2,
+      "subjectId": "geography",
+      "sourceId": "89a9dd3eb858f8d0",
+      "pdfPages": [
+        22
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "business-f1-activity-01",
+      "form": 1,
+      "subjectId": "business",
+      "sourceId": "302a9bb91147e4ce",
+      "pdfPages": [
+        14
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "business-f1-activity-02",
+      "form": 1,
+      "subjectId": "business",
+      "sourceId": "302a9bb91147e4ce",
+      "pdfPages": [
+        16
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "business-f1-activity-03",
+      "form": 1,
+      "subjectId": "business",
+      "sourceId": "302a9bb91147e4ce",
+      "pdfPages": [
+        17
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "business-f2-activity-01",
+      "form": 2,
+      "subjectId": "business",
+      "sourceId": "302a9bb91147e4ce",
+      "pdfPages": [
+        19
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "business-f2-activity-02",
+      "form": 2,
+      "subjectId": "business",
+      "sourceId": "302a9bb91147e4ce",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "business-f2-activity-03",
+      "form": 2,
+      "subjectId": "business",
+      "sourceId": "302a9bb91147e4ce",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "business-f2-activity-04",
+      "form": 2,
+      "subjectId": "business",
+      "sourceId": "302a9bb91147e4ce",
+      "pdfPages": [
+        24
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "business-f2-activity-05",
+      "form": 2,
+      "subjectId": "business",
+      "sourceId": "302a9bb91147e4ce",
+      "pdfPages": [
+        25
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "business-f2-activity-06",
+      "form": 2,
+      "subjectId": "business",
+      "sourceId": "302a9bb91147e4ce",
+      "pdfPages": [
+        27
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-01",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        17
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-02",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        18
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-03",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        18
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-04",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        19
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-05",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-06",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-07",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-08",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        22
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-09",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        22
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-10",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-11",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        24
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-12",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        24
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-13",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        25
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-14",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        26
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-15",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        26,
+        27
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-16",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        27
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-17",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        28
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f1-activity-18",
+      "form": 1,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        29
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-01",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        30
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-02",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        31
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-03",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        31
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-04",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        32
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-05",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        32
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-06",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        33
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-07",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        34
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-08",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        34
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-09",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        35
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-10",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        35,
+        36
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-11",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        36
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-12",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        37
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-13",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        37
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "historia-f2-activity-14",
+      "form": 2,
+      "subjectId": "historia",
+      "sourceId": "5510fd3e38500baf",
+      "pdfPages": [
+        38
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-01",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        14
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-02",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        14
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-03",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        14
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-04",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        15
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-05",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        15
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-06",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        16
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-07",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        16
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-08",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        17
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-09",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        17
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-10",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        18
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-11",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        18
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-12",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        19
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-13",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        19
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-14",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-15",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        20
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-16",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-17",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        21
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-18",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        22
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-19",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-20",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-21",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        23
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-22",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        24
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-23",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        24
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-24",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        24
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-25",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        25
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-26",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        25
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-27",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        25
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-28",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        26
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-29",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        26
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-30",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        27
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-31",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        28
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-32",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        28
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-33",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        29
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-34",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        29
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-35",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        29
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f1-activity-36",
+      "form": 1,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        30
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-01",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        31
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-02",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        31
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-03",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        32
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-04",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        33
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-05",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        33
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-06",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        34
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-07",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        35
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-08",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        35
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-09",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        36
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-10",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        36
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-11",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        37
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-12",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        37
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-13",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        37
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-14",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        38
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-15",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        38
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-16",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        39
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-17",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        40
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-18",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        40
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-19",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        41
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-20",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        41
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-21",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        41
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-22",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        42
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-23",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        42
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-24",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        43
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-25",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        43
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-26",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        44
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    },
+    {
+      "id": "english-f2-activity-27",
+      "form": 2,
+      "subjectId": "english",
+      "sourceId": "6daa1f44f86bd186",
+      "pdfPages": [
+        44
+      ],
+      "scopeType": "official-learning-activity",
+      "coverageStatus": "not-fully-covered"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+"""Publish factual source/page locators, while full extracted syllabus prose stays private."""
+import pathlib,json
+ROOT=pathlib.Path(__file__).resolve().parents[1];raw=json.loads((ROOT/'acquisition/curriculum-review.json').read_text());sources=json.loads((ROOT/'acquisition/source-register.json').read_text());by_id={x['id']:x for x in sources}
+rows=[dict(id=x['id'],form=x['form'],subjectId=x['subjectId'],sourceId=x['sourceId'],pdfPages=x['pdfPages'],scopeType='official-learning-activity',coverageStatus='not-fully-covered') for x in raw]
+used={x['sourceId'] for x in raw};catalogue=dict(status='partial-mapping',scopeNote='251 extracted learning-activity locators, not a verified complete count of individual subtopics. References indicate partial chapter support only. Full detailed subtopic decomposition and cohort verification remain incomplete.',sources=[{k:v for k,v in x.items() if k in ['id','url','sourceTitle','sha256']} for x in sources if x['id'] in used],activities=rows)
+(ROOT/'content/curriculum-map.json').write_text(json.dumps(catalogue,ensure_ascii=False,indent=2));p=ROOT/'content/library.json';d=json.loads(p.read_text());d['curriculum']['activities']=rows;d['curriculum']['sources']=catalogue['sources'];p.write_text(json.dumps(d,ensure_ascii=False,indent=2));print('Official learning-activity locators:',len(rows))

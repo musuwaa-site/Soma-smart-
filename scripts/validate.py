@@ -26,11 +26,20 @@ def validate(d):
    path=ROOT/'public'/media['path'].lstrip('/')
    if not path.is_file():errors.append(f'{q["id"]}: missing media {path}')
   if q.get('parentQuestionId') and q['parentQuestionId'] not in {x['id'] for x in d['questions']}:errors.append(f'{q["id"]}: orphan group')
+ for paper in d['papers']:
+  if paper.get('publicationStatus')!='published':continue
+  items=[next((q for q in d['questions'] if q['id']==id),None) for id in paper.get('questionIds',[])]
+  if not items or any(q is None for q in items) or len({q['id'] for q in items if q})!=len(items):errors.append(f'{paper["id"]}: empty, missing or duplicate paper items');continue
+  if any(q['form']!=paper['form'] or q['subjectId']!=paper['subjectId'] or q['publicationStatus']!='published' for q in items):errors.append(f'{paper["id"]}: incompatible paper items')
+  if paper.get('sourceType')=='original' and (paper.get('rightsStatus')!='original' or any(q['sourceType']!='original' for q in items)):errors.append(f'{paper["id"]}: false original provenance')
+  if paper.get('sourceType')!='original' and (paper.get('rightsStatus') not in CLEAR or paper.get('verificationStatus')!='verified'):errors.append(f'{paper["id"]}: uncleared source paper')
+  if paper.get('maximumMarks')!=sum(q['maximumMarks'] for q in items):errors.append(f'{paper["id"]}: incorrect paper total')
  for l in d['lessons']:
   if not l.get('paragraphs') or not l.get('examples'):errors.append(f'{l["id"]}: empty lesson')
   if l.get('diagram') and not (ROOT/'public'/l['diagram'].lstrip('/')).is_file():errors.append(f'{l["id"]}: missing diagram')
  for b in d['books']:
   if not b.get('lessonIds') or any(x not in lesson_ids for x in b['lessonIds']):errors.append(f'{b["id"]}: empty/invalid book')
+  elif any(next(l for l in d['lessons'] if l['id']==id)['form']!=b['form'] or next(l for l in d['lessons'] if l['id']==id)['subjectId']!=b['subjectId'] for id in b['lessonIds']):errors.append(f'{b["id"]}: book contains an incompatible chapter')
  return errors
 if __name__=='__main__':
  import sys

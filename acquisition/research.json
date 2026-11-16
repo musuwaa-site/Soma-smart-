@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://www.tie.go.tz/",
+    "checkedAt": "2026-11-16T05:11:38.982919+00:00",
+    "rightsStatus": "unresolved",
+    "category": "official-source-page",
+    "status": "acquired-page",
+    "file": "acquisition/page-0.html",
+    "links": [
+      "https://www.tie.go.tz/publications/audited-financial-reoprts",
+      "https://www.tie.go.tz/events/the-african-curriculum-association-conference-aca",
+      "https://www.tie.go.tz/publications",
+      "https://www.tie.go.tz/publications/newsletter",
+      "https://www.tie.go.tz/publications/guidlines",
+      "https://www.tie.go.tz/publications/academic-publications",
+      "https://www.tie.go.tz/publications/curriculum-syllabus-for-pre-primary-education",
+      "https://www.tie.go.tz/publications/mtaala-wa-elimu-ya-msingi"
+    ]
+  },
+  {
+    "url": "https://www.tie.go.tz/pages/secondary-education",
+    "checkedAt": "2026-11-16T05:11:43.758745+00:00",
+    "rightsStatus": "unresolved",
+    "category": "official-source-page",
+    "status": "acquired-page",
+    "file": "acquisition/page-1.html",
+    "links": [
+      "https://www.tie.go.tz/publications/audited-financial-reoprts"
+    ]
+  },
+  {
+    "url": "https://www.necta.go.tz/",
+    "checkedAt": "2026-11-16T05:11:45.906108+00:00",
+    "rightsStatus": "unresolved",
+    "category": "official-source-page",
+    "status": "acquired-page",
+    "file": "acquisition/page-2.html",
+    "links": [
+      "https://www.necta.go.tz/pages/ftna",
+      "https://www.necta.go.tz/results/view/ftna",
+      "https://www.necta.go.tz/publications/all",
+      "https://www.necta.go.tz/publications/all",
+      "https://www.necta.go.tz/publications/all"
+    ]
+  },
+  {
+    "url": "https://www.necta.go.tz/publications",
+    "checkedAt": "2026-11-16T05:11:49.174236+00:00",
+    "rightsStatus": "unresolved",
+    "category": "official-source-page",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

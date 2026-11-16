@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>SomaSmart • Owner studio</title>
+    <link rel="stylesheet" href="/admin.css" />
+  </head>
+  <body>
+    <main>
+      <h1>SomaSmart owner studio</h1>
+      <p>
+        Separate authenticated authoring service. Not part of the student
+        application.
+      </p>
+      <form id="login">
+        <label
+          >Owner password<input
+            type="password"
+            id="password"
+            autocomplete="current-password"
+            required /></label
+        ><button>Sign in</button>
+      </form>
+      <p id="status" role="status"></p>
+      <section id="studio" hidden>
+        <div class="bar">
+          <button id="save">Save draft</button
+          ><button id="publish">Validate & publish source</button>
+        </div>
+        <p id="counts"></p>
+        <label
+          >Collection<select id="collection">
+            <option>lessons</option>
+            <option>questions</option>
+            <option>glossary</option>
+            <option>papers</option>
+            <option>books</option>
+          </select></label
+        ><label>Record<select id="record"></select></label
+        ><button id="add">Add record</button
+        ><label
+          >Record JSON · edit text, mappings, marking, media and publication
+          state<textarea
+            id="editor"
+            rows="20"
+            spellcheck="false"
+          ></textarea></label
+        ><button id="apply">Apply record edit</button>
+        <h2>Student text preview</h2>
+        <div id="preview"></div>
+        <h2>Source metadata</h2>
+        <pre id="sources"></pre>
+        <h2>Import reviewed content release</h2>
+        <input type="file" id="import" accept="application/json" />
+        <p>
+          Imports stay draft until validated. Published third-party questions
+          require cleared rights, verified extraction, marking and a registered
+          paper. Uploaded PDFs are processed using scripts/documents.py;
+          extraction remains private.
+        </p>
+      </section>
+    </main>
+    <script src="/admin.js"></script>
+  </body>
+</html>

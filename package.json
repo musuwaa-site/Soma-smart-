@@ -1,0 +1,16 @@
+{
+  "name": "somasmart",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python scripts/prepare_dev.py && vite --host 0.0.0.0",
+    "build": "node scripts/build.mjs",
+    "test": "node --test --test-isolation=none tests/*.test.mjs && python -m unittest discover -s tests -p \"test_*.py\"",
+    "inventory": "python scripts/inventory.py",
+    "release-check": "python scripts/inventory.py --release"
+  },
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}

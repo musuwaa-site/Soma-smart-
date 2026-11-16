@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://www.tie.go.tz/publications/academic-publications",
+    "file": "acquisition/discovery-0.html",
+    "links": []
+  },
+  {
+    "url": "https://www.necta.go.tz/publications/all",
+    "file": "acquisition/discovery-1.html",
+    "links": [
+      "https://www.necta.go.tz/pages/ftna",
+      "https://www.necta.go.tz/results/view/ftna"
+    ]
+  },
+  {
+    "url": "https://www.necta.go.tz/pages/ftna",
+    "file": "acquisition/discovery-2.html",
+    "links": [
+      "https://www.necta.go.tz/pages/ftna",
+      "https://www.necta.go.tz/results/view/ftna",
+      "https://necta.go.tz/exam_formarts/FTNA.pdf"
+    ]
+  }
+]

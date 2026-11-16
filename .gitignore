@@ -1,0 +1,8 @@
+node_modules/
+dist/
+__pycache__/
+.env
+admin/workspace/
+public/library.json
+acquisition/documents/
+acquisition/*.html

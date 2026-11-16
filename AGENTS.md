@@ -1,0 +1,2 @@
+# SomaSmart
+Work in this checkout. Preserve truthful counts; never label seed content complete or generated questions authentic. Run npm test and npm run build after software changes. Keep acquired originals and metadata; never publish third-party text without explicit clearance. Update docs/PROJECT_STATE.md and generated inventory at milestones. Student data stays local. Admin authorization must be server-side. Do not commit credentials.

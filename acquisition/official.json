@@ -1,0 +1,68 @@
+[
+  {
+    "id": "official-0",
+    "url": "https://www.tie.go.tz/publications/syllabus-for-lower-secondary-academics",
+    "checkedAt": "2026-11-16T05:19:37.478265+00:00",
+    "rightsStatus": "unresolved",
+    "publicationStatus": "draft",
+    "status": "acquired",
+    "file": "acquisition/official-0.html",
+    "sha256": "b56b90d67385ba719fad3ac9e5ac8a59b61364ea237cce4e7c5b20ab60fbf3a1",
+    "kind": "source-page",
+    "links": [
+      "https://www.tie.go.tz/uploads/documents/sw-1741937359-MUHTASARI WA KISWAHILI KIDATO  I-IV FINAL.pdf",
+      "https://www.tie.go.tz/uploads/documents/sw-1727258000-THEATRE ARTS SYLLABUS FOR ORDINARY SECONDARY EDUCATION.pdf",
+      "https://www.tie.go.tz/uploads/documents/sw-1727257915-SPORT STUDIES O-LEVEL FINAL.pdf",
+      "https://www.tie.go.tz/uploads/documents/sw-1727257838-PHYSICS FOR ORDINARY SECONDARY EDUCATION FINAL.pdf",
+      "https://www.tie.go.tz/uploads/documents/sw-1727257608-ORDINARY- TEXTILE AND GARMENT CONSTRUCTION-RESTRUCTURED.pdf",
+      "https://www.tie.go.tz/uploads/documents/sw-1727257534-MUSIC ORDINARY SYLLABUS FINAL.pdf",
+      "https://www.tie.go.tz/uploads/documents/sw-1727257430-MUHTASARI WA ELIMU YA DINI YA KIISLAM KWA SHULE ZA SEKONDARI KIDATO CHA I - IV.pdf",
+      "https://www.tie.go.tz/uploads/documents/sw-1788264155-Muht. Historia ya Tanzania & Maadili 2.pdf",
+      "https://www.tie.go.tz/uploads/documents/sw-1727256902-MATHEMATICS SYLLABUS - O level final.pdf",
+      "https://www.tie.go.tz/uploads/documents/sw-1727256752-LITERATURE IN ENGLISH O-LEVEL FINAL.pdf",
+      "https://www.tie.go.tz/uploads/documents/sw-1727256307-Kiswahili Kidato I-IV FINAL.pdf",
+      "https://www.tie.go.tz/uploads/documents/sw-1727256074-KIARABU ELIMU YA SEKONDARI KIDATO CHA I-IV FINAL.pdf"
+    ]
+  },
+  {
+    "id": "official-1",
+    "url": "https://www.tie.go.tz/publications/curriculum-for-lower-secondary-academic",
+    "checkedAt": "2026-11-16T05:19:42.020394+00:00",
+    "rightsStatus": "unresolved",
+    "publicationStatus": "draft",
+    "status": "acquired",
+    "file": "acquisition/official-1.html",
+    "sha256": "7f26bc6cd5111973995c62046dfe6556a09e940f1ef7bfc671be5ef41369fb82",
+    "kind": "source-page",
+    "links": [
+      "https://www.tie.go.tz/uploads/documents/sw-1788706937-CURRICULUM FOR SECONDARY EDUCATION FORM I-IV -CORRECTED  2026 (1).pdf"
+    ]
+  },
+  {
+    "id": "official-2",
+    "url": "https://onlinesys.necta.go.tz/cira/ftna/2023/",
+    "checkedAt": "2026-11-16T05:19:45.033174+00:00",
+    "rightsStatus": "unresolved",
+    "publicationStatus": "draft",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "official-3",
+    "url": "https://onlinesys.necta.go.tz/cira/ftna/2022/",
+    "checkedAt": "2026-11-16T05:19:51.205419+00:00",
+    "rightsStatus": "unresolved",
+    "publicationStatus": "draft",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "official-4",
+    "url": "https://necta.go.tz/exam_formarts/FTNA.pdf",
+    "checkedAt": "2026-11-16T05:19:55.037153+00:00",
+    "rightsStatus": "unresolved",
+    "publicationStatus": "draft",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

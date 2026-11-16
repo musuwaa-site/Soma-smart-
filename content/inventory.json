@@ -1,0 +1,184 @@
+{
+  "status": "unfinished",
+  "counts": {
+    "completedTextbooks": 0,
+    "completedWorkbooks": 0,
+    "partialBooks": 36,
+    "starterLessons": 18,
+    "workedExamples": 54,
+    "originalPracticeQuestions": 126,
+    "candidatePaperURLsInvestigated": 360,
+    "candidatePaperDocumentsAcquired": 10,
+    "acquiredOfficialReferencePDFs": 11,
+    "extractedPapers": 10,
+    "publishedPapers": 0,
+    "authenticMainQuestions": 0,
+    "authenticAnswerableParts": 0,
+    "scoredQuestionsWithMarking": 126
+  },
+  "coverage": [
+    {
+      "form": 1,
+      "subjectId": "chemistry",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 1,
+      "subjectId": "physics",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 1,
+      "subjectId": "biology",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 1,
+      "subjectId": "mathematics",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 1,
+      "subjectId": "kiswahili",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 1,
+      "subjectId": "geography",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 1,
+      "subjectId": "business",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 1,
+      "subjectId": "historia",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 1,
+      "subjectId": "english",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 2,
+      "subjectId": "chemistry",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 2,
+      "subjectId": "physics",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 2,
+      "subjectId": "biology",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 2,
+      "subjectId": "mathematics",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 2,
+      "subjectId": "kiswahili",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 2,
+      "subjectId": "geography",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 2,
+      "subjectId": "business",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 2,
+      "subjectId": "historia",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    },
+    {
+      "form": 2,
+      "subjectId": "english",
+      "officialSubtopics": null,
+      "verifiedCoveredSubtopics": 0,
+      "starterChapters": 1,
+      "practiceQuestions": 7,
+      "status": "unverified-incomplete"
+    }
+  ],
+  "integrityErrors": []
+}

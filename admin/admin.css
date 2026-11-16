@@ -1,0 +1,55 @@
+body {
+  font: 16px/1.6 system-ui;
+  background: #f4f6ef;
+  color: #244438;
+  margin: 0;
+}
+main {
+  max-width: 850px;
+  margin: auto;
+  padding: 24px;
+}
+button {
+  background: #125b4b;
+  color: white;
+  padding: 12px;
+  border: 0;
+  border-radius: 8px;
+  min-height: 48px;
+  cursor: pointer;
+  margin: 5px;
+}
+label {
+  display: block;
+  margin: 14px 0;
+}
+input,
+select,
+textarea {
+  display: block;
+  padding: 12px;
+  max-width: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #b9cdb9;
+  border-radius: 8px;
+  font: inherit;
+}
+textarea {
+  font: 14px/1.5 monospace;
+}
+pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  font-size: 12px;
+}
+#preview {
+  white-space: pre-wrap;
+  background: white;
+  padding: 16px;
+  border-radius: 10px;
+}
+.bar {
+  display: flex;
+  flex-wrap: wrap;
+}

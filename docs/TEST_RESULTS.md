@@ -15,3 +15,11 @@ The production-format build and SHA-256 package validation include 88 assets: al
 Not run: real-browser navigation, IndexedDB persistence and installation, physical Android, storage eviction, complete offline acceptance scenario, prior-version schema migration and browser-controlled interrupted upgrades. The managed environment has no CUA browser tool. No browser/Android acceptance claim is made.
 
 Final run: **38 tests passed** (22 Node + 16 Python). Build passed. All 88 required offline assets passed hash/inclusion validation. The readiness command returned failure as expected: incomplete detailed curriculum, incomplete books, 2298 missing original questions, unresolved genuine inventory and unrun browser/Android/migration acceptance. Both delivery archives were regenerated after these checks; SHA256SUMS records their hashes.
+
+## Private preview and first genuine selection (0.3.1)
+
+The owner confirmed permission; it is recorded as owner attestation, not falsely described as inspection of an uploaded document. The private Site was published successfully at https://somasmart-study.astuteegret257.chatgpt.site . Source helper scripts were not mounted in this environment, so source was pushed with ordinary Git using the short-lived Sites credential only through hidden stdin and process-memory HTTP headers. The deployed archive contains the exact pushed source's hosting manifest and built dist directory.
+
+First source review inspected all relevant Mathematics page renders, then transcribed seven whole main questions with 18 labelled parts. Tests check the source PDF hash, verified 10-mark whole-question allocation, preserved grouping, independently calculated numeric solutions, pending written marking, and exclusion of ambiguous/misordered source items. Source diagrams were also visually checked after cropping. Whole-question marks are from the paper; detailed rubric increments/weights are explicitly independent self-assessment, not an official NECTA scheme. This is a partial source selection, not a claim that all ten paper questions passed review.
+
+Browser/Android acceptance remains unperformed. A refresh button now appears when a previously installed worker is replaced, so an already-open preview can load newly published content without discarding the locally saved profile.

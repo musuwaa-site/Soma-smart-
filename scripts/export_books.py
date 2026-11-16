@@ -18,7 +18,7 @@ for b in D['books']:
  intro=f'<h1>{e(title)}</h1><p>{e(status)}</p><p>Original SomaSmart content • {e(D["version"])} • Form {b["form"]}</p><p>{e(b.get("introduction","Jifunze maelezo, mifano na mazoezi katika sura zinazofuata." if lang=="sw" else "Read explanations, examples and exercises in the chapters below."))}</p>'
  files['text/introduction.xhtml']=page(title,intro,lang);nav.append(('text/introduction.xhtml','About this manuscript'));spine.append('text/introduction.xhtml')
  for n,lid in enumerate(b['lessonIds']):
-  l=lessons[lid];qs=[q for q in D['questions'] if lid in q['topicIds'] and q['publicationStatus']=='published' and ((q.get('resourceKind')=='workbook')==(b['kind']=='workbook'))]
+  l=lessons[lid];qs=[q for q in D['questions'] if lid in q['topicIds'] and q['sourceType']=='original' and q['publicationStatus']=='published' and ((q.get('resourceKind')=='workbook')==(b['kind']=='workbook'))]
   body=f'<h1>{e(l["title"])}</h1>'
   if b['kind']=='textbook':
    body+='<h2>Learning objectives</h2><ul>'+''.join(f'<li>{e(x)}</li>' for x in l['objectives'])+'</ul>'+''.join(f'<p>{e(x)}</p>' for x in l['paragraphs'])

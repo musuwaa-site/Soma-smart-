@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "status": "development-partial",
   "subjects": [
     {
@@ -2554,6 +2554,90 @@
       ],
       "publicationStatus": "published",
       "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "mathematics-f2-number-revision",
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicId": "mathematics-f2-number-revision",
+      "title": "Number skills: prerequisite revision",
+      "language": "en",
+      "objectives": [
+        "Review compatible prerequisite skills.",
+        "Use the original source question and independent solution carefully."
+      ],
+      "paragraphs": [
+        "Legacy Form Two papers can revisit number skills now introduced earlier in the curriculum. This supplemental revision chapter supports arithmetic, approximation, ratio and percentages. It does not add a new official Form Two syllabus requirement or claim complete curriculum coverage.",
+        "Evaluate brackets first, then powers, multiplication and division at the same precedence from left to right, then addition and subtraction from left to right. The word of in a fraction expression means multiplication. Keep the sign of a bracketed result: multiplying a positive fraction by a negative number gives a negative result.",
+        "For rounding to thousands, compare the remainder after complete thousands with 500. For a percentage loss, use loss divided by the original cost price, then multiply by 100%. In a ratio division, add the ratio terms to find the total number of equal shares before multiplying by the required term."
+      ],
+      "examples": [
+        "(20 ÷ 4 + 3) − 10 = 8 − 10 = −2; one half of this is −1.",
+        "A total of 78,650 rounded to the nearest thousand is 79,000 because the final 650 is at least 500.",
+        "Divide 24 kg in ratio 1:2:3: total terms 6, one share 4 kg; the largest share is 12 kg."
+      ],
+      "summary": "Legacy Form Two papers can revisit number skills now introduced earlier in the curriculum. This supplemental revision chapter supports arithmetic, approximation, ratio and percentages. It does not add a new official Form Two syllabus requirement or claim complete curriculum coverage.",
+      "glossary": [],
+      "diagram": null,
+      "curriculumStatus": "supplemental-legacy-prerequisite",
+      "publicationStatus": "published",
+      "completionStatus": "supplemental-revision"
+    },
+    {
+      "id": "mathematics-f2-geometry-review",
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicId": "mathematics-f2-geometry-review",
+      "title": "Angles and algebra: prerequisite revision",
+      "language": "en",
+      "objectives": [
+        "Review compatible prerequisite skills.",
+        "Use the original source question and independent solution carefully."
+      ],
+      "paragraphs": [
+        "This supplemental chapter revisits parallel-line angle reasoning and elementary algebra used in legacy examination questions. Use the original diagram when identifying an angle: labels and marked right angles are part of the mathematical information, not decoration.",
+        "Vertically opposite angles are equal. Angles on a straight line sum to 180°. A transversal crossing parallel lines creates equal corresponding angles and equal alternate angles. Name the angle relationship before inserting a value; a visual estimate of a drawing is not a proof.",
+        "For a perimeter problem, add all side expressions, equate the sum to the stated perimeter and solve. For expressions, distribute a negative multiplier across every bracket term before collecting like terms. Check numerical solutions in the original conditions, including whether proposed side lengths can form a triangle."
+      ],
+      "examples": [
+        "An angle adjacent on a straight line to 65° is 180°−65°=115°; its vertically opposite partner is also 115°.",
+        "If triangle sides are x+1, x+3 and 6 with perimeter 18, then 2x+10=18, x=4 and the sides are 5,7,6.",
+        "4p−2(3q−p)=4p−6q+2p=6p−6q."
+      ],
+      "summary": "This supplemental chapter revisits parallel-line angle reasoning and elementary algebra used in legacy examination questions. Use the original diagram when identifying an angle: labels and marked right angles are part of the mathematical information, not decoration.",
+      "glossary": [],
+      "diagram": null,
+      "curriculumStatus": "supplemental-legacy-prerequisite",
+      "publicationStatus": "published",
+      "completionStatus": "supplemental-revision"
+    },
+    {
+      "id": "mathematics-f2-coordinate-review",
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicId": "mathematics-f2-coordinate-review",
+      "title": "Straight lines: prerequisite revision",
+      "language": "en",
+      "objectives": [
+        "Review compatible prerequisite skills.",
+        "Use the original source question and independent solution carefully."
+      ],
+      "paragraphs": [
+        "Legacy assessment questions on coordinate geometry are provided as labelled prerequisite revision. A line y=mx+c has gradient m and vertical-axis intercept c. The intercept is the value of y when x=0; it is not necessarily the constant appearing in an unsimplified equation.",
+        "If an equation is ky=kx+x+d, first consider k=0 separately. When that case is incompatible with a stated finite gradient, divide by nonzero k to obtain y=((k+1)/k)x+d/k. Only then compare its coefficients with y=mx+c.",
+        "A line containing a stated point must satisfy its equation when the coordinates are substituted. Two points can provide two equations in unknown coefficients. Solve simultaneously, then verify both original point conditions. Keep negative coordinates and signs intact when substituting."
+      ],
+      "examples": [
+        "For 2y=6x+8, divide by 2: y=3x+4. The gradient is 3 and y-intercept is 4.",
+        "If y=mx+2 passes through (3,8), then 8=3m+2 and m=2.",
+        "The line y=2x−1 contains (0,−1) and (2,3), because both substitutions satisfy the equation."
+      ],
+      "summary": "Legacy assessment questions on coordinate geometry are provided as labelled prerequisite revision. A line y=mx+c has gradient m and vertical-axis intercept c. The intercept is the value of y when x=0; it is not necessarily the constant appearing in an unsimplified equation.",
+      "glossary": [],
+      "diagram": null,
+      "curriculumStatus": "supplemental-legacy-prerequisite",
+      "publicationStatus": "published",
+      "completionStatus": "supplemental-revision"
     }
   ],
   "questions": [
@@ -41925,6 +42009,1167 @@
       "verificationStatus": "author-reviewed",
       "publicationStatus": "published",
       "resourceKind": "workbook"
+    },
+    {
+      "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q1",
+      "paperId": "necta-ftna-2025-mathematics-200032d2d5376daf",
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Basic Mathematics • reviewed selection",
+      "institution": "National Examinations Council of Tanzania (source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible current topics or clearly labelled prerequisite revision only",
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "Keep all linked subparts together. Write labelled working for every part. The source allocates 10 marks to the whole main question. Written scoring uses independent SomaSmart guidance, not an official NECTA marking scheme.",
+      "content": "(a) Evaluate 1/5 of ((50 ÷ 5 + 5) − (8 × 4 − 2)).\n\n(b) The population of three towns are 65600, 13400 and 29700 to the nearest hundreds. Approximate the total population of the three towns to the nearest thousands.",
+      "subquestions": [
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q1-a",
+          "label": "a",
+          "content": "Evaluate 1/5 of ((50 ÷ 5 + 5) − (8 × 4 − 2)).",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q1"
+        },
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q1-b",
+          "label": "b",
+          "content": "The population of three towns are 65600, 13400 and 29700 to the nearest hundreds. Approximate the total population of the three towns to the nearest thousands.",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q1"
+        }
+      ],
+      "options": [],
+      "media": [
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/page-2.png",
+          "alt": "Original source page 2, preserving printed wording, figures and units.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "marksProvenance": "Source PDF page 1, instruction 3: each question carries ten (10) marks.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment rubric; official subpart weights are not asserted.",
+      "answerKey": "(a) −3. (b) Approximately 109,000 people.",
+      "markingGuide": "Independent SomaSmart self-assessment rubric (not an official NECTA scheme). (a) Five marks: division 10; first bracket 15; second bracket 30; difference −15; final −3 (one each). (b) Five marks: first sum 79,000; full sum 108,700; identify rounding to thousands; apply the ≥500 rule; give 109,000 people (one each). Accept valid equivalent methods and apply reasonable follow-through without double-penalising one arithmetic slip.",
+      "workedSolution": "(a) 50÷5=10; 10+5=15; 8×4−2=30; 15−30=−15; (1/5)×(−15)=−3. (b) 65,600+13,400+29,700=108,700; rounding to thousands gives 109,000.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart; no official answer key claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/math/BasicMath-F2-2025.pdf",
+      "sourcePdf": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "200032d2d5376daf1882823a8847b9d4f17ac21fe1309f63062cc8ffbda099fb",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Wording compared visually with source-page images; numbers/formulae/diagrams retained; independent solutions checked. Archive attribution checked against the printed cover, not separately certified by NECTA.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q3",
+      "paperId": "necta-ftna-2025-mathematics-200032d2d5376daf",
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Basic Mathematics • reviewed selection",
+      "institution": "National Examinations Council of Tanzania (source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible current topics or clearly labelled prerequisite revision only",
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "Keep all linked subparts together. Write labelled working for every part. The source allocates 10 marks to the whole main question. Written scoring uses independent SomaSmart guidance, not an official NECTA marking scheme.",
+      "content": "(a) A text book was bought at shs. 8,500 and then sold at shs. 6,000. Calculate the percentage loss.\n\n(b(i)) Four families A, B, C and D have to share 33 kilograms of meat in the ratio 4:5:6:7 respectively. What is the largest share?\n\n(b(ii)) Which family will get the largest share?",
+      "subquestions": [
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q3-a",
+          "label": "a",
+          "content": "A text book was bought at shs. 8,500 and then sold at shs. 6,000. Calculate the percentage loss.",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q3"
+        },
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q3-bi",
+          "label": "b(i)",
+          "content": "Four families A, B, C and D have to share 33 kilograms of meat in the ratio 4:5:6:7 respectively. What is the largest share?",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q3"
+        },
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q3-bii",
+          "label": "b(ii)",
+          "content": "Which family will get the largest share?",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q3"
+        }
+      ],
+      "options": [],
+      "media": [
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/page-4.png",
+          "alt": "Original source page 4, preserving printed wording, figures and units.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "marksProvenance": "Source PDF page 1, instruction 3: each question carries ten (10) marks.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment rubric; official subpart weights are not asserted.",
+      "answerKey": "(a) 500/17% ≈ 29.41%. (b)(i) 10.5 kg. (ii) Family D.",
+      "markingGuide": "Independent SomaSmart self-assessment rubric (not an official NECTA scheme). (a) Five marks: identify original cost; calculate loss 2500; divide loss by original cost; multiply by 100; give a valid exact or rounded percentage (one each). (b) Five marks: ratio sum 22; unit share 1.5; identify largest term 7; mass 10.5 kg; family D (one each). Accept valid equivalent methods and apply reasonable follow-through without double-penalising one arithmetic slip.",
+      "workedSolution": "(a) Loss=8500−6000=2500; percentage loss=(2500/8500)×100=500/17%. (b) Total ratio=22; one share=33/22=1.5 kg; largest term is 7, so 7×1.5=10.5 kg for family D.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart; no official answer key claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/math/BasicMath-F2-2025.pdf",
+      "sourcePdf": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "200032d2d5376daf1882823a8847b9d4f17ac21fe1309f63062cc8ffbda099fb",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Wording compared visually with source-page images; numbers/formulae/diagrams retained; independent solutions checked. Archive attribution checked against the printed cover, not separately certified by NECTA.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q4",
+      "paperId": "necta-ftna-2025-mathematics-200032d2d5376daf",
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Basic Mathematics • reviewed selection",
+      "institution": "National Examinations Council of Tanzania (source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible current topics or clearly labelled prerequisite revision only",
+      "questionNumber": "4",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "Keep all linked subparts together. Write labelled working for every part. The source allocates 10 marks to the whole main question. Written scoring uses independent SomaSmart guidance, not an official NECTA marking scheme.",
+      "content": "(a) In the following figure, AB is parallel to PQ and RS is a transversal. Find the angles marked a, b, w, x, y and z.\n\n(b) The perimeter of triangle ABC is 16 cm. If the lengths AB=(5+x) cm, AC=(2+x) cm and BC=5 cm, find the value of x and hence the actual lengths of AB and AC.",
+      "subquestions": [
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q4-a",
+          "label": "a",
+          "content": "In the following figure, AB is parallel to PQ and RS is a transversal. Find the angles marked a, b, w, x, y and z.",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q4"
+        },
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q4-b",
+          "label": "b",
+          "content": "The perimeter of triangle ABC is 16 cm. If the lengths AB=(5+x) cm, AC=(2+x) cm and BC=5 cm, find the value of x and hence the actual lengths of AB and AC.",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q4"
+        }
+      ],
+      "options": [],
+      "media": [
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/q4-angles.png",
+          "alt": "Original source angle diagram, labels and given 120°/60° angles.",
+          "role": "diagram"
+        },
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/page-5.png",
+          "alt": "Original source page 5, preserving printed wording, figures and units.",
+          "role": "source-page"
+        },
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/page-6.png",
+          "alt": "Original source page 6, preserving printed wording, figures and units.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "marksProvenance": "Source PDF page 1, instruction 3: each question carries ten (10) marks.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment rubric; official subpart weights are not asserted.",
+      "answerKey": "(a) a=60°, b=120°, w=120°, x=60°, y=120°, z=60°. (b) x=2; AB=7 cm; AC=4 cm.",
+      "markingGuide": "Independent SomaSmart self-assessment rubric (not an official NECTA scheme). (a) Six marks, one for each correct labelled angle. (b) Four marks: correct perimeter equation; x=2; AB=7 cm; AC=4 cm (one each). Accept valid equivalent methods and apply reasonable follow-through without double-penalising one arithmetic slip.",
+      "workedSolution": "(a) Use vertically opposite angles and straight-line sums; corresponding angles agree across the parallel lines. (b) (5+x)+(2+x)+5=16; 2x+12=16; x=2. Hence AB=7 cm and AC=4 cm.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart; no official answer key claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/math/BasicMath-F2-2025.pdf",
+      "sourcePdf": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/original.pdf",
+      "sourcePages": [
+        5,
+        6
+      ],
+      "sourceSha256": "200032d2d5376daf1882823a8847b9d4f17ac21fe1309f63062cc8ffbda099fb",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Wording compared visually with source-page images; numbers/formulae/diagrams retained; independent solutions checked. Archive attribution checked against the printed cover, not separately certified by NECTA.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q5",
+      "paperId": "necta-ftna-2025-mathematics-200032d2d5376daf",
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-geometry-review",
+        "mathematics-f2-quadratics"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-geometry-review",
+        "mathematics-f2-quadratics"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Basic Mathematics • reviewed selection",
+      "institution": "National Examinations Council of Tanzania (source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible current topics or clearly labelled prerequisite revision only",
+      "questionNumber": "5",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "Keep all linked subparts together. Write labelled working for every part. The source allocates 10 marks to the whole main question. Written scoring uses independent SomaSmart guidance, not an official NECTA marking scheme.",
+      "content": "(a(i)) Simplify 7m − 2(5n − 4m) + 11n − 5m.\n\n(a(ii)) Simplify (5x − 2y) − 2(4x − 3y).\n\n(b) The sum of two numbers is 19 and their difference is 5. Find the numbers.",
+      "subquestions": [
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q5-ai",
+          "label": "a(i)",
+          "content": "Simplify 7m − 2(5n − 4m) + 11n − 5m.",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q5"
+        },
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q5-aii",
+          "label": "a(ii)",
+          "content": "Simplify (5x − 2y) − 2(4x − 3y).",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q5"
+        },
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q5-b",
+          "label": "b",
+          "content": "The sum of two numbers is 19 and their difference is 5. Find the numbers.",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q5"
+        }
+      ],
+      "options": [],
+      "media": [
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/page-6.png",
+          "alt": "Original source page 6, preserving printed wording, figures and units.",
+          "role": "source-page"
+        },
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/page-7.png",
+          "alt": "Original source page 7, preserving printed wording, figures and units.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "marksProvenance": "Source PDF page 1, instruction 3: each question carries ten (10) marks.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment rubric; official subpart weights are not asserted.",
+      "answerKey": "(a)(i) 10m+n. (ii) −3x+4y. (b) 12 and 7.",
+      "markingGuide": "Independent SomaSmart self-assessment rubric (not an official NECTA scheme). (a) Three marks per expression: distribute to each bracket term correctly (two marks), then collect correctly (one mark). (b) Four marks: sum equation; difference equation; elimination/substitution step; both correct numbers (one each). Accept valid equivalent methods and apply reasonable follow-through without double-penalising one arithmetic slip.",
+      "workedSolution": "(i) 7m−10n+8m+11n−5m=10m+n. (ii) 5x−2y−8x+6y=−3x+4y. (b) Let u+v=19 and u−v=5; adding gives 2u=24, so u=12 and v=7.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart; no official answer key claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/math/BasicMath-F2-2025.pdf",
+      "sourcePdf": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/original.pdf",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "sourceSha256": "200032d2d5376daf1882823a8847b9d4f17ac21fe1309f63062cc8ffbda099fb",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Wording compared visually with source-page images; numbers/formulae/diagrams retained; independent solutions checked. Archive attribution checked against the printed cover, not separately certified by NECTA.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q6",
+      "paperId": "necta-ftna-2025-mathematics-200032d2d5376daf",
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Basic Mathematics • reviewed selection",
+      "institution": "National Examinations Council of Tanzania (source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible current topics or clearly labelled prerequisite revision only",
+      "questionNumber": "6",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "Keep all linked subparts together. Write labelled working for every part. The source allocates 10 marks to the whole main question. Written scoring uses independent SomaSmart guidance, not an official NECTA marking scheme.",
+      "content": "(a(i)) The gradient of the line ky=kx+x+7 is 2. Find the value of k.\n\n(a(ii)) Write down its y-intercept.\n\n(b) The graph of straight line Kx−My−4=0 passes through the points A(−2,−5) and B(2,−3). Find the values of K and M.",
+      "subquestions": [
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q6-ai",
+          "label": "a(i)",
+          "content": "The gradient of the line ky=kx+x+7 is 2. Find the value of k.",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q6"
+        },
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q6-aii",
+          "label": "a(ii)",
+          "content": "Write down its y-intercept.",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q6"
+        },
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q6-b",
+          "label": "b",
+          "content": "The graph of straight line Kx−My−4=0 passes through the points A(−2,−5) and B(2,−3). Find the values of K and M.",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q6"
+        }
+      ],
+      "options": [],
+      "media": [
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/page-7.png",
+          "alt": "Original source page 7, preserving printed wording, figures and units.",
+          "role": "source-page"
+        },
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/page-8.png",
+          "alt": "Original source page 8, preserving printed wording, figures and units.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "marksProvenance": "Source PDF page 1, instruction 3: each question carries ten (10) marks.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment rubric; official subpart weights are not asserted.",
+      "answerKey": "(a)(i) k=1. (ii) y-intercept=7. (b) K=1/2, M=1.",
+      "markingGuide": "Independent SomaSmart self-assessment rubric (not an official NECTA scheme). (a) Five marks: rearranged slope form; correct gradient equation; solve k=1; identify intercept expression 7/k; obtain intercept 7 (one each). (b) Five marks: substitute A; substitute B; solve M=1; solve K=1/2; verify both points (one each). Accept valid equivalent methods and apply reasonable follow-through without double-penalising one arithmetic slip.",
+      "workedSolution": "(a) For k≠0, y=((k+1)/k)x+7/k. Set (k+1)/k=2, giving k=1 and intercept 7. k=0 gives a vertical condition rather than the stated finite gradient. (b) −2K+5M=4 and 2K+3M=4; addition gives M=1, then K=1/2. Both source points satisfy the resulting line.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart; no official answer key claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/math/BasicMath-F2-2025.pdf",
+      "sourcePdf": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/original.pdf",
+      "sourcePages": [
+        7,
+        8
+      ],
+      "sourceSha256": "200032d2d5376daf1882823a8847b9d4f17ac21fe1309f63062cc8ffbda099fb",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Wording compared visually with source-page images; numbers/formulae/diagrams retained; independent solutions checked. Archive attribution checked against the printed cover, not separately certified by NECTA.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q7",
+      "paperId": "necta-ftna-2025-mathematics-200032d2d5376daf",
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-quadratics"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-quadratics"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Basic Mathematics • reviewed selection",
+      "institution": "National Examinations Council of Tanzania (source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible current topics or clearly labelled prerequisite revision only",
+      "questionNumber": "7",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "Keep all linked subparts together. Write labelled working for every part. The source allocates 10 marks to the whole main question. Written scoring uses independent SomaSmart guidance, not an official NECTA marking scheme.",
+      "content": "(a) Find the value of 8^(−2/3) + (3^(−2))/(2^(−3)).\n\n(b) Rationalize the denominator of √2/(√3+√2).",
+      "subquestions": [
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q7-a",
+          "label": "a",
+          "content": "Find the value of 8^(−2/3) + (3^(−2))/(2^(−3)).",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q7"
+        },
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q7-b",
+          "label": "b",
+          "content": "Rationalize the denominator of √2/(√3+√2).",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q7"
+        }
+      ],
+      "options": [],
+      "media": [
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/page-8.png",
+          "alt": "Original source page 8, preserving printed wording, figures and units.",
+          "role": "source-page"
+        },
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/page-9.png",
+          "alt": "Original source page 9, preserving printed wording, figures and units.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "marksProvenance": "Source PDF page 1, instruction 3: each question carries ten (10) marks.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment rubric; official subpart weights are not asserted.",
+      "answerKey": "(a) 41/36. (b) √6−2.",
+      "markingGuide": "Independent SomaSmart self-assessment rubric (not an official NECTA scheme). (a) Five marks: cube root of 8 is 2; first term 1/4; 3^−2=1/9; quotient term 8/9; correct sum 41/36 (one each). (b) Five marks: choose conjugate; multiply numerator; evaluate denominator as 3−2; simplify denominator to 1; obtain √6−2 with valid working (one each). Accept valid equivalent methods and apply reasonable follow-through without double-penalising one arithmetic slip.",
+      "workedSolution": "(a) 8^(−2/3)=1/4 and (3^−2)/(2^−3)=(1/9)/(1/8)=8/9. Sum=9/36+32/36=41/36. (b) Multiply numerator and denominator by √3−√2: (√6−2)/(3−2)=√6−2.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart; no official answer key claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/math/BasicMath-F2-2025.pdf",
+      "sourcePdf": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/original.pdf",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "sourceSha256": "200032d2d5376daf1882823a8847b9d4f17ac21fe1309f63062cc8ffbda099fb",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Wording compared visually with source-page images; numbers/formulae/diagrams retained; independent solutions checked. Archive attribution checked against the printed cover, not separately certified by NECTA.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q9",
+      "paperId": "necta-ftna-2025-mathematics-200032d2d5376daf",
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-sets-trigonometry"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-sets-trigonometry"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Basic Mathematics • reviewed selection",
+      "institution": "National Examinations Council of Tanzania (source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible current topics or clearly labelled prerequisite revision only",
+      "questionNumber": "9",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "Keep all linked subparts together. Write labelled working for every part. The source allocates 10 marks to the whole main question. Written scoring uses independent SomaSmart guidance, not an official NECTA marking scheme.",
+      "content": "(a) Calculate the length y in the following figure. Give the correct answer to one decimal place.\n\n(b(i)) A ladder on the ground leans against a vertical wall whose height is 5 metres. The ground distance between the ladder and the wall is 12 metres. Draw a diagram to represent this information.\n\n(b(ii)) By using the diagram in part (b)(i), find the length of the ladder.",
+      "subquestions": [
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q9-a",
+          "label": "a",
+          "content": "Calculate the length y in the following figure. Give the correct answer to one decimal place.",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q9"
+        },
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q9-bi",
+          "label": "b(i)",
+          "content": "A ladder on the ground leans against a vertical wall whose height is 5 metres. The ground distance between the ladder and the wall is 12 metres. Draw a diagram to represent this information.",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q9"
+        },
+        {
+          "id": "necta-ftna-2025-mathematics-200032d2d5376daf-q9-bii",
+          "label": "b(ii)",
+          "content": "By using the diagram in part (b)(i), find the length of the ladder.",
+          "parentQuestionId": "necta-ftna-2025-mathematics-200032d2d5376daf-q9"
+        }
+      ],
+      "options": [],
+      "media": [
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/q9-triangle.png",
+          "alt": "Original right triangle: hypotenuse 30 cm, angle 70°, and opposite length y.",
+          "role": "diagram"
+        },
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/page-10.png",
+          "alt": "Original source page 10, preserving printed wording, figures and units.",
+          "role": "source-page"
+        },
+        {
+          "path": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/page-11.png",
+          "alt": "Original source page 11, preserving printed wording, figures and units.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "marksProvenance": "Source PDF page 1, instruction 3: each question carries ten (10) marks.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment rubric; official subpart weights are not asserted.",
+      "answerKey": "(a) y=28.2 cm. (b) A right triangle with vertical side 5 m, horizontal side 12 m and ladder as hypotenuse; ladder=13 m.",
+      "markingGuide": "Independent SomaSmart self-assessment rubric (not an official NECTA scheme). (a) Five marks: identify opposite side; sine ratio; rearrange to y=30sin70°; correct numerical evaluation; rounding and cm (one each). (b) Five marks: correctly labelled right-triangle sketch; Pythagorean equation; sum 169; square root 13; metres and interpretation of the sketch (one each). Accept valid equivalent methods and apply reasonable follow-through without double-penalising one arithmetic slip.",
+      "workedSolution": "(a) sin70°=y/30, so y=30sin70°≈28.1908 cm, giving 28.2 cm. (b) Interpreting the ladder as reaching the stated 5 m height, L²=5²+12²=169, so L=13 m. The wall and ground are perpendicular as the stated vertical/ground model requires.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart; no official answer key claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/math/BasicMath-F2-2025.pdf",
+      "sourcePdf": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/original.pdf",
+      "sourcePages": [
+        10,
+        11
+      ],
+      "sourceSha256": "200032d2d5376daf1882823a8847b9d4f17ac21fe1309f63062cc8ffbda099fb",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Wording compared visually with source-page images; numbers/formulae/diagrams retained; independent solutions checked. Archive attribution checked against the printed cover, not separately certified by NECTA.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mathematics-f2-number-revision-original-1",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Evaluate one half of ((24÷6+7)−(3×5−2)).",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "−1",
+      "markingGuide": "First brackets: 4+7=11 and 15−2=13; difference −2, half −1. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "textbook"
+    },
+    {
+      "id": "mathematics-f2-number-revision-original-2",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Round 73,480 to the nearest thousand.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "73,000",
+      "markingGuide": "The final 480 is below 500. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "textbook"
+    },
+    {
+      "id": "mathematics-f2-number-revision-original-3",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "A cost of 4000 becomes a selling price of 3500. Find percentage loss.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "12.5%",
+      "markingGuide": "Loss500; 500/4000×100. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "textbook"
+    },
+    {
+      "id": "mathematics-f2-number-revision-original-4",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "4",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Divide 42 kg in ratio 2:5. Give the larger share.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "30 kg",
+      "markingGuide": "Seven shares; each is 6 kg, larger is 5×6. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f2-number-revision-original-5",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "5",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Evaluate one third of (18−27).",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "−3",
+      "markingGuide": "18−27=−9 and one third is −3. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f2-number-revision-original-6",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-number-revision"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "6",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Round 286,750 to the nearest thousand.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "287,000",
+      "markingGuide": "750 is at least 500, so round up. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f2-geometry-review-original-1",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Two adjacent angles on a straight line include 38°. Find the other.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "142°",
+      "markingGuide": "180−38. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "textbook"
+    },
+    {
+      "id": "mathematics-f2-geometry-review-original-2",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Expand 6r−3(2s−r).",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "9r−6s",
+      "markingGuide": "Distribute −3, then collect r terms. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "textbook"
+    },
+    {
+      "id": "mathematics-f2-geometry-review-original-3",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Triangle sides are x+2, x+4 and 8 with perimeter 24. Find x.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "x=5",
+      "markingGuide": "2x+14=24. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "textbook"
+    },
+    {
+      "id": "mathematics-f2-geometry-review-original-4",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "4",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "An angle is vertically opposite 117°. Find it.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "117°",
+      "markingGuide": "Vertically opposite angles are equal. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f2-geometry-review-original-5",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "5",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Simplify 2(a−3b)+4a+b.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "6a−5b",
+      "markingGuide": "Expand to 2a−6b+4a+b. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f2-geometry-review-original-6",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-geometry-review"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "6",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Find two numbers whose sum is 26 and difference is 8.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "17 and 9",
+      "markingGuide": "Add the equations to get the larger number. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f2-coordinate-review-original-1",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "State the gradient and intercept of 3y=9x+12.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Gradient3; y-intercept4.",
+      "markingGuide": "Divide every term by three. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "textbook"
+    },
+    {
+      "id": "mathematics-f2-coordinate-review-original-2",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Does (2,5) lie on y=3x−1?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Yes.",
+      "markingGuide": "3×2−1=5. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "textbook"
+    },
+    {
+      "id": "mathematics-f2-coordinate-review-original-3",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Find m if y=mx+1 contains (4,9).",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "m=2",
+      "markingGuide": "9=4m+1. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "textbook"
+    },
+    {
+      "id": "mathematics-f2-coordinate-review-original-4",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "4",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Find the y-intercept of 2y=8x−6.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "−3",
+      "markingGuide": "Rearrange to y=4x−3. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f2-coordinate-review-original-5",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "5",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "Find the gradient through (0,2) and (3,8).",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "2",
+      "markingGuide": "(8−2)/(3−0). Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f2-coordinate-review-original-6",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-coordinate-review"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Supplemental prerequisite revision",
+      "questionNumber": "6",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "",
+      "content": "A line is y=−2x+5. Find y when x=−1.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "7",
+      "markingGuide": "−2×(−1)+5=7. Two marks for correct method and result; one for a sound method with an arithmetic slip.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original supplemental revision exercises",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
     }
   ],
   "books": [
@@ -42215,7 +43460,10 @@
       "title": "Mathematics • Form 2 • Textbook",
       "lessonIds": [
         "mathematics-f2-quadratics",
-        "mathematics-f2-sets-trigonometry"
+        "mathematics-f2-sets-trigonometry",
+        "mathematics-f2-number-revision",
+        "mathematics-f2-geometry-review",
+        "mathematics-f2-coordinate-review"
       ],
       "completionStatus": "partial",
       "curriculumVerified": false
@@ -42228,7 +43476,10 @@
       "title": "Mathematics • Form 2 • Revision workbook",
       "lessonIds": [
         "mathematics-f2-quadratics",
-        "mathematics-f2-sets-trigonometry"
+        "mathematics-f2-sets-trigonometry",
+        "mathematics-f2-number-revision",
+        "mathematics-f2-geometry-review",
+        "mathematics-f2-coordinate-review"
       ],
       "completionStatus": "partial",
       "curriculumVerified": false,
@@ -42241,7 +43492,16 @@
         "mathematics-f2-quadratics-wb-05",
         "mathematics-f2-sets-trigonometry-wb-01",
         "mathematics-f2-sets-trigonometry-wb-02",
-        "mathematics-f2-sets-trigonometry-wb-03"
+        "mathematics-f2-sets-trigonometry-wb-03",
+        "mathematics-f2-number-revision-original-4",
+        "mathematics-f2-number-revision-original-5",
+        "mathematics-f2-number-revision-original-6",
+        "mathematics-f2-geometry-review-original-4",
+        "mathematics-f2-geometry-review-original-5",
+        "mathematics-f2-geometry-review-original-6",
+        "mathematics-f2-coordinate-review-original-4",
+        "mathematics-f2-coordinate-review-original-5",
+        "mathematics-f2-coordinate-review-original-6"
       ]
     },
     {
@@ -43450,6 +44710,60 @@
       "term": "negotiation",
       "definition": "Discussion aimed at reaching an agreement on terms.",
       "lessonId": "english-f2-formal-writing"
+    },
+    {
+      "id": "mathematics-f2-number-revision-term-1",
+      "lessonId": "mathematics-f2-number-revision",
+      "term": "prerequisite",
+      "definition": "Earlier knowledge needed for a later task."
+    },
+    {
+      "id": "mathematics-f2-number-revision-term-2",
+      "lessonId": "mathematics-f2-number-revision",
+      "term": "equivalent method",
+      "definition": "A different valid approach producing the same mathematical result."
+    },
+    {
+      "id": "mathematics-f2-number-revision-term-3",
+      "lessonId": "mathematics-f2-number-revision",
+      "term": "verification",
+      "definition": "Checking a result against the original conditions."
+    },
+    {
+      "id": "mathematics-f2-geometry-review-term-1",
+      "lessonId": "mathematics-f2-geometry-review",
+      "term": "prerequisite",
+      "definition": "Earlier knowledge needed for a later task."
+    },
+    {
+      "id": "mathematics-f2-geometry-review-term-2",
+      "lessonId": "mathematics-f2-geometry-review",
+      "term": "equivalent method",
+      "definition": "A different valid approach producing the same mathematical result."
+    },
+    {
+      "id": "mathematics-f2-geometry-review-term-3",
+      "lessonId": "mathematics-f2-geometry-review",
+      "term": "verification",
+      "definition": "Checking a result against the original conditions."
+    },
+    {
+      "id": "mathematics-f2-coordinate-review-term-1",
+      "lessonId": "mathematics-f2-coordinate-review",
+      "term": "prerequisite",
+      "definition": "Earlier knowledge needed for a later task."
+    },
+    {
+      "id": "mathematics-f2-coordinate-review-term-2",
+      "lessonId": "mathematics-f2-coordinate-review",
+      "term": "equivalent method",
+      "definition": "A different valid approach producing the same mathematical result."
+    },
+    {
+      "id": "mathematics-f2-coordinate-review-term-3",
+      "lessonId": "mathematics-f2-coordinate-review",
+      "term": "verification",
+      "definition": "Checking a result against the original conditions."
     }
   ],
   "papers": [
@@ -43992,6 +45306,64 @@
       ],
       "maximumMarks": 23,
       "instructions": "Answer all questions. Objective items are automatically marked; use the independently authored guidance to self-mark written responses. This revision test covers only the available published chapters."
+    },
+    {
+      "id": "necta-ftna-2025-mathematics-200032d2d5376daf",
+      "title": "NECTA FTNA 2025 • Basic Mathematics • reviewed selection",
+      "form": 2,
+      "subjectId": "mathematics",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania (source cover)",
+      "year": 2025,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/math/BasicMath-F2-2025.pdf",
+      "sourcePdf": "/past-papers/necta-ftna-2025-mathematics-200032d2d5376daf/original.pdf",
+      "sourceSha256": "200032d2d5376daf1882823a8847b9d4f17ac21fe1309f63062cc8ffbda099fb",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Only the listed selected main questions, not the entire paper.",
+      "publicationStatus": "published",
+      "publicationScope": "selected-questions",
+      "completePaper": false,
+      "questionIds": [
+        "necta-ftna-2025-mathematics-200032d2d5376daf-q1",
+        "necta-ftna-2025-mathematics-200032d2d5376daf-q3",
+        "necta-ftna-2025-mathematics-200032d2d5376daf-q4",
+        "necta-ftna-2025-mathematics-200032d2d5376daf-q5",
+        "necta-ftna-2025-mathematics-200032d2d5376daf-q6",
+        "necta-ftna-2025-mathematics-200032d2d5376daf-q7",
+        "necta-ftna-2025-mathematics-200032d2d5376daf-q9"
+      ],
+      "maximumMarks": 70,
+      "sourceInstructions": [
+        "This paper consists of ten (10) questions.",
+        "Answer all questions.",
+        "Each question carries ten (10) marks.",
+        "Show clearly all the working and answers in the space provided.",
+        "All writing must be in blue or black ink, except drawings which must be in pencil.",
+        "NECTA mathematical tables, geometric instruments and graph papers may be used where necessary.",
+        "Communication devices, calculators and any unauthorised materials are not allowed in the assessment room.",
+        "Write your Assessment Number at the top right corner of every page."
+      ],
+      "excludedQuestions": [
+        {
+          "number": "2",
+          "reason": "Part (a) omits whether tea/coffee sets overlap. Six drink tea and five coffee; number drinking neither can range from four to nine. Do not silently assume mutual exclusion."
+        },
+        {
+          "number": "8",
+          "reason": "Part (a) prints a triangle similarity ordering that conflicts with the marked right-angle correspondence. Hold the full linked question for editorial review."
+        },
+        {
+          "number": "10",
+          "reason": "Transcription/data and current-curriculum mapping review pending for the entire linked statistics question."
+        }
+      ]
     }
   ],
   "curriculum": {

@@ -21,7 +21,7 @@ node scripts/verify_release.mjs
 python scripts/package.py
 ```
 
-The ZIP is `artifacts/somasmart-development-web.zip`. Serve **all** of `dist/` at the root of an HTTPS static host, with SPA fallback to `index.html`; `sw.js` should use `Cache-Control: no-cache`. Localhost also supports service workers. Do not open `index.html` as a file. `npm run dev` is for development, not offline acceptance. No deployed URL or APK has been produced.
+The ZIP is `artifacts/somasmart-development-web.zip`. Serve **all** of `dist/` at the root of an HTTPS static host, with SPA fallback to `index.html`; `sw.js` should use `Cache-Control: no-cache`. Localhost also supports service workers. Do not open `index.html` as a file. `npm run dev` is for development, not offline acceptance. A private ChatGPT Sites preview is available at https://somasmart-study.astuteegret257.chatgpt.site . No APK has been produced.
 
 ## Installation
 
@@ -59,3 +59,5 @@ When resuming in a fresh environment, `python scripts/restore_acquisition.py --e
 The current content release has 45 readable chapters, 702 original questions and 18 original revision tests. All 36 book manuscripts remain partial. Building exports each manuscript as EPUB and each revision test as a question PDF plus an independently authored answer-guide PDF; downloads appear in Study and Exams and are bundled for offline use. The separate `artifacts/somasmart-original-content-development.zip` contains these original educational files without the application. It contains no redistributed genuine past papers. The application ZIP includes them as well.
 
 Authored text/exercise batches are kept under `content/batches/`; `content/library.json` is the canonical integrated release. `scripts/regenerate_content.py` deliberately rebuilds from authoring scripts and may replace manual owner edits, so do not use it as an ordinary update command. For new material, upsert reviewed stable IDs or use the validated importer.
+
+The owner has confirmed permission for genuine papers. The first reviewed selection is in Exams → Form Two → Verified past-paper selections: seven linked Mathematics main questions (18 labelled parts), with source images and independent solutions. Source whole-question marks are retained; self-assessment rubrics are clearly distinguished from official marking. Full manuscript coverage and the remaining paper reviews are still unfinished.

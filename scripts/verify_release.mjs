@@ -22,7 +22,7 @@ console.log(
   data.lessons.length,
   "readable chapters;",
   data.questions.length,
-  "embedded question parts. This does not certify syllabus completeness or browser behaviour.",
+  "embedded question records. This does not certify syllabus completeness or browser behaviour.",
 );
 for (const b of data.books) {
   const path = '/books/' + b.id + '.epub';

@@ -286,16 +286,16 @@
       "questionIds": [
         "chemistry-f2-atoms-q01",
         "chemistry-f2-atoms-q02",
+        "chemistry-f2-bonding-reactions-q01",
         "chemistry-f2-atoms-q03",
+        "chemistry-f2-bonding-reactions-q02",
         "chemistry-f2-atoms-q04",
+        "chemistry-f2-bonding-reactions-q03",
         "chemistry-f2-atoms-q05",
+        "chemistry-f2-bonding-reactions-q04",
         "chemistry-f2-atoms-q06",
-        "chemistry-f2-atoms-q07",
-        "chemistry-f2-atoms-q08",
-        "chemistry-f2-atoms-q09",
-        "chemistry-f2-atoms-q10",
-        "chemistry-f2-atoms-q11",
-        "chemistry-f2-atoms-q12"
+        "chemistry-f2-bonding-reactions-q05",
+        "chemistry-f2-atoms-q07"
       ],
       "maximumMarks": 23,
       "instructions": "Answer all questions. Objective items are automatically marked; use the independently authored guidance to self-mark written responses. This revision test covers only the available published chapters."
@@ -315,17 +315,17 @@
       "publicationStatus": "published",
       "questionIds": [
         "physics-f2-light-q01",
+        "physics-f2-current-electricity-q01",
         "physics-f2-light-q02",
+        "physics-f2-current-electricity-q02",
         "physics-f2-light-q03",
+        "physics-f2-current-electricity-q03",
         "physics-f2-light-q04",
+        "physics-f2-current-electricity-q04",
         "physics-f2-light-q05",
+        "physics-f2-current-electricity-q05",
         "physics-f2-light-q06",
-        "physics-f2-light-q07",
-        "physics-f2-light-q08",
-        "physics-f2-light-q09",
-        "physics-f2-light-q10",
-        "physics-f2-light-q11",
-        "physics-f2-light-q12"
+        "physics-f2-current-electricity-q06"
       ],
       "maximumMarks": 24,
       "instructions": "Answer all questions. Objective items are automatically marked; use the independently authored guidance to self-mark written responses. This revision test covers only the available published chapters."
@@ -347,17 +347,17 @@
         "biology-f2-01-q2",
         "biology-f2-01-q1",
         "biology-f2-nutrition-q01",
+        "biology-f2-transport-q01",
         "biology-f2-01-q3",
         "biology-f2-nutrition-q02",
+        "biology-f2-transport-q02",
         "biology-f2-01-q4",
         "biology-f2-nutrition-q03",
+        "biology-f2-transport-q03",
         "biology-f2-01-q5",
-        "biology-f2-nutrition-q04",
-        "biology-f2-01-q6",
-        "biology-f2-nutrition-q05",
-        "biology-f2-01-extended"
+        "biology-f2-nutrition-q04"
       ],
-      "maximumMarks": 22,
+      "maximumMarks": 21,
       "instructions": "Answer all questions. Objective items are automatically marked; use the independently authored guidance to self-mark written responses. This revision test covers only the available published chapters."
     },
     {
@@ -375,17 +375,17 @@
       "publicationStatus": "published",
       "questionIds": [
         "mathematics-f2-quadratics-q01",
+        "mathematics-f2-sets-trigonometry-q01",
         "mathematics-f2-quadratics-q02",
+        "mathematics-f2-sets-trigonometry-q02",
         "mathematics-f2-quadratics-q03",
+        "mathematics-f2-sets-trigonometry-q03",
         "mathematics-f2-quadratics-q04",
+        "mathematics-f2-sets-trigonometry-q04",
         "mathematics-f2-quadratics-q05",
+        "mathematics-f2-sets-trigonometry-q05",
         "mathematics-f2-quadratics-q06",
-        "mathematics-f2-quadratics-q07",
-        "mathematics-f2-quadratics-q08",
-        "mathematics-f2-quadratics-q09",
-        "mathematics-f2-quadratics-q10",
-        "mathematics-f2-quadratics-q11",
-        "mathematics-f2-quadratics-q12"
+        "mathematics-f2-sets-trigonometry-q06"
       ],
       "maximumMarks": 24,
       "instructions": "Answer all questions. Objective items are automatically marked; use the independently authored guidance to self-mark written responses. This revision test covers only the available published chapters."
@@ -407,15 +407,15 @@
         "kiswahili-f2-01-q1",
         "kiswahili-f2-01-q2",
         "kiswahili-f2-upatanisho-q01",
+        "kiswahili-f2-insha-muhtasari-q01",
         "kiswahili-f2-01-q3",
         "kiswahili-f2-upatanisho-q02",
+        "kiswahili-f2-insha-muhtasari-q02",
         "kiswahili-f2-01-q4",
         "kiswahili-f2-upatanisho-q03",
+        "kiswahili-f2-insha-muhtasari-q03",
         "kiswahili-f2-01-q5",
-        "kiswahili-f2-upatanisho-q04",
-        "kiswahili-f2-01-q6",
-        "kiswahili-f2-upatanisho-q05",
-        "kiswahili-f2-01-extended"
+        "kiswahili-f2-upatanisho-q04"
       ],
       "maximumMarks": 24,
       "instructions": "Answer all questions. Objective items are automatically marked; use the independently authored guidance to self-mark written responses. This revision test covers only the available published chapters."
@@ -438,14 +438,14 @@
         "geography-f1-01-q1",
         "geography-f2-01-q1",
         "geography-f2-earth-systems-q01",
+        "geography-f2-photographs-q01",
         "geography-f1-01-q3",
         "geography-f2-01-q2",
         "geography-f2-earth-systems-q02",
+        "geography-f2-photographs-q02",
         "geography-f1-01-q4",
         "geography-f2-01-q3",
-        "geography-f2-earth-systems-q03",
-        "geography-f1-01-q5",
-        "geography-f2-01-q4"
+        "geography-f2-earth-systems-q03"
       ],
       "maximumMarks": 20,
       "instructions": "Answer all questions. Objective items are automatically marked; use the independently authored guidance to self-mark written responses. This revision test covers only the available published chapters."
@@ -467,17 +467,17 @@
         "business-f2-01-q3",
         "business-f2-01-q1",
         "business-f2-production-capital-q01",
+        "business-f2-management-q01",
         "business-f2-01-q2",
         "business-f2-production-capital-q02",
+        "business-f2-management-q02",
         "business-f2-01-q4",
         "business-f2-production-capital-q03",
+        "business-f2-management-q03",
         "business-f2-01-q5",
-        "business-f2-production-capital-q04",
-        "business-f2-01-q6",
-        "business-f2-production-capital-q05",
-        "business-f2-01-extended"
+        "business-f2-production-capital-q04"
       ],
-      "maximumMarks": 22,
+      "maximumMarks": 21,
       "instructions": "Answer all questions. Objective items are automatically marked; use the independently authored guidance to self-mark written responses. This revision test covers only the available published chapters."
     },
     {
@@ -497,17 +497,17 @@
         "historia-f2-01-q1",
         "historia-f2-01-q2",
         "historia-f2-ukoloni-upinzani-q01",
+        "historia-f2-uhuru-taifa-q01",
         "historia-f2-01-q3",
         "historia-f2-ukoloni-upinzani-q02",
+        "historia-f2-uhuru-taifa-q02",
         "historia-f2-01-q4",
         "historia-f2-ukoloni-upinzani-q03",
+        "historia-f2-uhuru-taifa-q03",
         "historia-f2-01-q5",
-        "historia-f2-ukoloni-upinzani-q04",
-        "historia-f2-01-q6",
-        "historia-f2-ukoloni-upinzani-q05",
-        "historia-f2-01-extended"
+        "historia-f2-ukoloni-upinzani-q04"
       ],
-      "maximumMarks": 23,
+      "maximumMarks": 22,
       "instructions": "Answer all questions. Objective items are automatically marked; use the independently authored guidance to self-mark written responses. This revision test covers only the available published chapters."
     },
     {
@@ -526,18 +526,18 @@
       "questionIds": [
         "english-f2-inference-summary-q02",
         "english-f2-inference-summary-q01",
+        "english-f2-formal-writing-q01",
         "english-f2-inference-summary-q03",
+        "english-f2-formal-writing-q02",
         "english-f2-inference-summary-q04",
+        "english-f2-formal-writing-q03",
         "english-f2-inference-summary-q05",
+        "english-f2-formal-writing-q04",
         "english-f2-inference-summary-q06",
-        "english-f2-inference-summary-q07",
-        "english-f2-inference-summary-q08",
-        "english-f2-inference-summary-q09",
-        "english-f2-inference-summary-q10",
-        "english-f2-inference-summary-q11",
-        "english-f2-inference-summary-q12"
+        "english-f2-formal-writing-q05",
+        "english-f2-inference-summary-q07"
       ],
-      "maximumMarks": 22,
+      "maximumMarks": 23,
       "instructions": "Answer all questions. Objective items are automatically marked; use the independently authored guidance to self-mark written responses. This revision test covers only the available published chapters."
     }
   ]

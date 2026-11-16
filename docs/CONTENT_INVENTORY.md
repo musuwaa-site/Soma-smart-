@@ -5,16 +5,16 @@ Generated from published student data and locally available acquisition metadata
 - completedTextbooks: 0
 - completedWorkbooks: 0
 - partialBooks: 36
-- readableChapters: 36
+- readableChapters: 45
 - starterLessons: 18
-- expandedChapters: 18
-- workedExamples: 108
-- originalPracticeQuestions: 540
-- workbookActivities: 144
+- expandedChapters: 27
+- workedExamples: 135
+- originalPracticeQuestions: 702
+- workbookActivities: 171
 - originalRevisionPapers: 18
 - officialLearningActivityLocators: 251
-- partiallySupportedLearningActivities: 78
-- glossaryDefinitions: 108
+- partiallySupportedLearningActivities: 115
+- glossaryDefinitions: 135
 - originalDiagrams: 6
 - candidatePaperURLsInvestigated: 360
 - candidatePaperDocumentsAcquired: 10
@@ -23,7 +23,7 @@ Generated from published student data and locally available acquisition metadata
 - publishedPapers: 0
 - authenticMainQuestions: 0
 - authenticAnswerableParts: 0
-- scoredQuestionsWithMarking: 540
+- scoredQuestionsWithMarking: 702
 
 | Form | Subject | Chapters | Textbook words¹ | Original questions | Distinct workbook tasks | Partially supported official activities |
 |---|---|---:|---:|---:|---:|---:|
@@ -36,14 +36,14 @@ Generated from published student data and locally available acquisition metadata
 | 1 | business | 2 | 595 | 30 | 8 | 3/3 |
 | 1 | historia | 2 | 507 | 30 | 8 | 8/18 |
 | 1 | english | 3 | 806 | 40 | 11 | 7/36 |
-| 2 | chemistry | 1 | 352 | 20 | 5 | 4/13 |
-| 2 | physics | 1 | 397 | 20 | 5 | 3/12 |
-| 2 | biology | 2 | 627 | 30 | 8 | 3/10 |
-| 2 | mathematics | 1 | 360 | 20 | 5 | 4/20 |
-| 2 | kiswahili | 2 | 435 | 30 | 8 | 3/11 |
-| 2 | geography | 3 | 730 | 40 | 11 | 2/6 |
-| 2 | business | 2 | 631 | 30 | 8 | 4/6 |
-| 2 | historia | 2 | 578 | 30 | 8 | 9/14 |
-| 2 | english | 1 | 445 | 20 | 5 | 7/27 |
+| 2 | chemistry | 2 | 721 | 38 | 8 | 9/13 |
+| 2 | physics | 2 | 732 | 38 | 8 | 5/12 |
+| 2 | biology | 3 | 1057 | 48 | 11 | 7/10 |
+| 2 | mathematics | 2 | 702 | 38 | 8 | 13/20 |
+| 2 | kiswahili | 3 | 751 | 48 | 11 | 7/11 |
+| 2 | geography | 4 | 1059 | 58 | 14 | 4/6 |
+| 2 | business | 3 | 963 | 48 | 11 | 6/6 |
+| 2 | historia | 3 | 906 | 48 | 11 | 13/14 |
+| 2 | english | 2 | 876 | 38 | 8 | 12/27 |
 
 ¹Explanations and worked examples, excluding exercises, glossary and repeated book references. All books remain partial; no 100% curriculum coverage is claimed. Original revision papers reuse references to existing original items and do not increase the distinct-question total. Original revision papers are never counted as genuine past papers.

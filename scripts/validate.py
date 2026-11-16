@@ -1,4 +1,4 @@
-import json,pathlib,math
+import json,pathlib,math,re
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 CLEAR={'cleared','public-domain','open-license'}
 def validate(d):
@@ -7,6 +7,7 @@ def validate(d):
   seen=set()
   for x in d[collection]:
    if not x.get('id') or x['id'] in seen:errors.append(f'{collection}: missing or duplicate id {x.get("id")}')
+   if not isinstance(x.get('id'),str) or not re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9._-]{0,179}',x.get('id','')):errors.append(f'{collection}: unsafe identifier')
    seen.add(x.get('id'))
  for q in d['questions']:
   if q.get('publicationStatus')!='published':continue
@@ -33,11 +34,21 @@ def validate(d):
   if any(q['form']!=paper['form'] or q['subjectId']!=paper['subjectId'] or q['publicationStatus']!='published' for q in items):errors.append(f'{paper["id"]}: incompatible paper items')
   if paper.get('sourceType')=='original' and (paper.get('rightsStatus')!='original' or any(q['sourceType']!='original' for q in items)):errors.append(f'{paper["id"]}: false original provenance')
   if paper.get('sourceType')!='original' and (paper.get('rightsStatus') not in CLEAR or paper.get('verificationStatus')!='verified'):errors.append(f'{paper["id"]}: uncleared source paper')
+  if paper.get('sourceType')!='original' and (not paper.get('rightsEvidence') or any(q['sourceType']=='original' or q.get('paperId')!=paper['id'] for q in items)):errors.append(f'{paper["id"]}: missing rights evidence or false authentic attribution')
   if paper.get('maximumMarks')!=sum(q['maximumMarks'] for q in items):errors.append(f'{paper["id"]}: incorrect paper total')
+ activity_by_id={a['id']:a for a in d.get('curriculum',{}).get('activities',[])}
  for l in d['lessons']:
+  for ref in l.get('curriculumRefs',[]):
+   activity=activity_by_id.get(ref.get('activityId'))
+   if not activity or activity['form']!=l['form'] or activity['subjectId']!=l['subjectId'] or activity['pdfPages']!=ref.get('pdfPages'):errors.append(f'{l["id"]}: invalid curriculum reference')
+
   if not l.get('paragraphs') or not l.get('examples'):errors.append(f'{l["id"]}: empty lesson')
   if l.get('diagram') and not (ROOT/'public'/l['diagram'].lstrip('/')).is_file():errors.append(f'{l["id"]}: missing diagram')
  for b in d['books']:
+  if b.get('completionStatus')=='complete':
+   required=[x for x in d.get('curriculum',{}).get('subtopics',[]) if x.get('form')==b['form'] and x.get('subjectId')==b['subjectId']]
+   if not b.get('curriculumVerified') or not required or any(x.get('coverageStatus')!='complete' for x in required):errors.append(f'{b["id"]}: completion claim lacks verified subtopic coverage')
+
   if not b.get('lessonIds') or any(x not in lesson_ids for x in b['lessonIds']):errors.append(f'{b["id"]}: empty/invalid book')
   elif any(next(l for l in d['lessons'] if l['id']==id)['form']!=b['form'] or next(l for l in d['lessons'] if l['id']==id)['subjectId']!=b['subjectId'] for id in b['lessonIds']):errors.append(f'{b["id"]}: book contains an incompatible chapter')
  return errors

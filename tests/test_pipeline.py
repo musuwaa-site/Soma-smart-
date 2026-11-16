@@ -18,6 +18,12 @@ class ContentTests(unittest.TestCase):
   # Synthetic fixture tests parser behaviour; never counted as an authentic paper.
   with tempfile.TemporaryDirectory() as d:
    p=pathlib.Path(d);doc=fitz.open();page=doc.new_page();page.insert_text((60,60),'1. Calculate the density of a 60 g object with volume 20 cm3.');doc.save(p/'original.pdf');doc.close();pages,n=extract(p);self.assertEqual(pages,1);self.assertEqual(n,1);q=json.loads((p/'extraction.json').read_text())['questions'][0];self.assertEqual(q['publicationStatus'],'draft');self.assertTrue((p/'page-1.png').exists())
+ def test_complete_book_claim_requires_verified_detailed_coverage(self):
+  self.d['books'][0]['completionStatus']='complete';self.d['books'][0]['curriculumVerified']=True;self.assertTrue(any('completion claim' in e for e in validate(self.d)))
+ def test_original_items_cannot_be_relabelled_as_an_authentic_paper(self):
+  p=self.d['papers'][0];p.update(sourceType='necta',rightsStatus='cleared',verificationStatus='verified',rightsEvidence='owner-supplied evidence');self.assertTrue(any('false authentic attribution' in e for e in validate(self.d)))
+ def test_export_identifiers_cannot_escape_output_folder(self):
+  self.d['books'][0]['id']='../../outside';self.assertTrue(any('unsafe identifier' in e for e in validate(self.d)))
 class AdminTests(unittest.TestCase):
  @classmethod
  def setUpClass(cls):

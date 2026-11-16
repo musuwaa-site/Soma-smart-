@@ -8,3 +8,7 @@ acquisition/documents/
 acquisition/*.html
 
 acquisition/curriculum-review.json
+
+public/books/
+
+public/exams/

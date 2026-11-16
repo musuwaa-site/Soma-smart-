@@ -24,3 +24,13 @@ console.log(
   data.questions.length,
   "embedded question parts. This does not certify syllabus completeness or browser behaviour.",
 );
+for (const b of data.books) {
+  const path = '/books/' + b.id + '.epub';
+  if (!manifest.assets.some(a => a.url === path)) throw Error('Unbundled book: ' + path);
+}
+for (const p of data.papers.filter(p => p.sourceType === 'original' && p.publicationStatus === 'published')) {
+  for (const suffix of ['.pdf','-answers.pdf']) {
+    const path = '/exams/' + p.id + suffix;
+    if (!manifest.assets.some(a => a.url === path)) throw Error('Unbundled revision paper: ' + path);
+  }
+}

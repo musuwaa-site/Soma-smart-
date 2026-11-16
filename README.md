@@ -53,3 +53,9 @@ See [administration](docs/ADMINISTRATION.md). The Python server is separate from
 Scanned PDFs require the `tesseract` executable (English language data installed); install Kiswahili language data and adjust OCR language for Kiswahili sources before relying on its transcription. OCR output is never automatically verified. Generate Android PNG icons from the original SVG with `python scripts/icons.py`.
 
 When resuming in a fresh environment, `python scripts/restore_acquisition.py --extract` restores the ignored acquisition workspace from tracked source URLs and verifies each original SHA-256. Use `--id SOURCE_ID` for a single document. Changed or inaccessible sources are reported rather than silently substituted.
+
+## Current book and exam files
+
+The current content release has 45 readable chapters, 702 original questions and 18 original revision tests. All 36 book manuscripts remain partial. Building exports each manuscript as EPUB and each revision test as a question PDF plus an independently authored answer-guide PDF; downloads appear in Study and Exams and are bundled for offline use. The separate `artifacts/somasmart-original-content-development.zip` contains these original educational files without the application. It contains no redistributed genuine past papers. The application ZIP includes them as well.
+
+Authored text/exercise batches are kept under `content/batches/`; `content/library.json` is the canonical integrated release. `scripts/regenerate_content.py` deliberately rebuilds from authoring scripts and may replace manual owner edits, so do not use it as an ordinary update command. For new material, upsert reviewed stable IDs or use the validated importer.

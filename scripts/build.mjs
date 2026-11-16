@@ -8,6 +8,8 @@ import {
 } from "node:fs";
 import { createHash } from "node:crypto";
 execFileSync("python", ["scripts/validate.py"], { stdio: "inherit" });
+execFileSync("python", ["scripts/export_books.py"], { stdio: "inherit" });
+execFileSync("python", ["scripts/export_exams.py"], { stdio: "inherit" });
 execFileSync("node", ["node_modules/vite/bin/vite.js", "build"], {
   stdio: "inherit",
 });

@@ -447,7 +447,7 @@ add('english',2,'inference-summary','Inference, summaries and connected ideas',[
 ('Why should a summary normally omit personal opinions?','They add the writer’s evaluation rather than report the source’s main ideas.','Include evaluation only when the task requires it.'),
 ('How should conflicting oral accounts be summarised?','Attribute each claim, identify agreement and differences, and avoid presenting an unresolved claim as fact.','Keep the source of each claim clear.')],['Distinguish stated facts, inferences and unsupported assumptions.','Write concise summaries and paraphrases.','Use vocabulary and cohesive devices accurately.'])
 
-def apply():
+def apply(batch_name="002-expansion", version="0.2.0"):
  p=ROOT/'content/library.json';d=json.loads(p.read_text());scope=json.loads((ROOT/'acquisition/curriculum-review.json').read_text()) if (ROOT/'acquisition/curriculum-review.json').exists() else json.loads((ROOT/'content/curriculum-map.json').read_text())['activities'];source={x['id']:x for x in scope}
  # Correct original form placement without changing stable lesson/question IDs.
  moves={'chemistry-f2-01':1,'physics-f2-01':1,'mathematics-f2-01':1,'geography-f1-01':2,'english-f2-01':1}
@@ -472,7 +472,7 @@ def apply():
    if row['id'] in existing:d[collection][existing[row['id']]]=row
    else:d[collection].append(row)
  for b in d['books']:b['lessonIds']=[l['id'] for l in d['lessons'] if l['subjectId']==b['subjectId'] and l['form']==b['form']]
- d['version']='0.2.0';d['curriculum']['note']='Official Form I–II activity cells extracted for all nine subjects. New chapters carry page-level partial-support references. Full activity and subtopic coverage remains unfinished.'
- (ROOT/'content/batches/002-expansion.json').write_text(json.dumps(additions,ensure_ascii=False,indent=2));p.write_text(json.dumps(d,ensure_ascii=False,indent=2))
+ d['version']=version;d['curriculum']['note']='Official Form I–II activity cells extracted for all nine subjects. New chapters carry page-level partial-support references. Full activity and subtopic coverage remains unfinished.'
+ (ROOT/f'content/batches/{batch_name}.json').write_text(json.dumps(additions,ensure_ascii=False,indent=2));p.write_text(json.dumps(d,ensure_ascii=False,indent=2))
  print('Imported',len(additions['lessons']),'chapters and',len(additions['questions']),'original questions. Total:',len(d['lessons']),'chapters,',len(d['questions']),'questions.')
 if __name__=='__main__':apply()

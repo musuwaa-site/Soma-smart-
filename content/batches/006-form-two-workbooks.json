@@ -1,0 +1,1912 @@
+{
+  "questions": [
+    {
+      "id": "chemistry-f2-bonding-reactions-wb-01",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-bonding-reactions"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-bonding-reactions"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "chemistry-f2-activity-04",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            27
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f2-activity-05",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            28
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f2-activity-06",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f2-activity-07",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            30
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f2-activity-08",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            31
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Find the simplest formula ratio for C₃H₆O₃.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "CH₂O",
+      "markingGuide": "Divide each subscript by three.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "chemistry-f2-bonding-reactions-wb-02",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-bonding-reactions"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-bonding-reactions"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "chemistry-f2-activity-04",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            27
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f2-activity-05",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            28
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f2-activity-06",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f2-activity-07",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            30
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f2-activity-08",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            31
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Balance K + Cl₂ → KCl.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "2K + Cl₂ → 2KCl",
+      "markingGuide": "Count potassium and chlorine on both sides.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "chemistry-f2-bonding-reactions-wb-03",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-bonding-reactions"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-bonding-reactions"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "chemistry-f2-activity-04",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            27
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f2-activity-05",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            28
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f2-activity-06",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f2-activity-07",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            30
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f2-activity-08",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            31
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Explain why describing every covalent substance as a small molecule is inaccurate.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Some covalent substances form extended networks, for example diamond.",
+      "markingGuide": "State the exception and its structural meaning.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "physics-f2-current-electricity-wb-01",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "subtopicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "physics-f2-activity-04",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            34
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f2-activity-05",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            35
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f2-activity-06",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            36
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f2-activity-10",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            40
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "A 15 Ω resistor has 3 V across it. Find current and power.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "0.2 A and 0.6 W.",
+      "markingGuide": "I=3/15; P=3×0.2.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "physics-f2-current-electricity-wb-02",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "subtopicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "physics-f2-activity-04",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            34
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f2-activity-05",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            35
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f2-activity-06",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            36
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f2-activity-10",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            40
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Find energy in joules for a 10 W device operating for 2 minutes.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "1200 J",
+      "markingGuide": "Convert two minutes to 120 seconds.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "physics-f2-current-electricity-wb-03",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "subtopicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "physics-f2-activity-04",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            34
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f2-activity-05",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            35
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f2-activity-06",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            36
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f2-activity-10",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            40
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Why can replacing an ammeter with a voltmeter without changing the connection give a bad circuit?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "The instruments are designed for different connection roles; current is measured in series and potential difference across components.",
+      "markingGuide": "Use proper instruments and safe low voltage.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "biology-f2-transport-wb-01",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-transport"
+      ],
+      "subtopicIds": [
+        "biology-f2-transport"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "biology-f2-activity-02",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f2-activity-03",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            25
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f2-activity-07",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f2-activity-08",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            30
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "A pulse count is 21 beats in 20 seconds. Estimate beats/min.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "63 beats/min.",
+      "markingGuide": "Multiply by three.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "biology-f2-transport-wb-02",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-transport"
+      ],
+      "subtopicIds": [
+        "biology-f2-transport"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "biology-f2-activity-02",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f2-activity-03",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            25
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f2-activity-07",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f2-activity-08",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            30
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Explain why comparing different plant species under different wind conditions does not isolate wind alone.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Species and wind both change, so either could contribute to the observed difference.",
+      "markingGuide": "Control competing variables.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "biology-f2-transport-wb-03",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-transport"
+      ],
+      "subtopicIds": [
+        "biology-f2-transport"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "biology-f2-activity-02",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f2-activity-03",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            25
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f2-activity-07",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f2-activity-08",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            30
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Trace blood from a body vein through the heart and lungs back to the body.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Body vein → right heart → pulmonary artery → lungs → pulmonary vein → left heart → body arteries.",
+      "markingGuide": "Check direction and oxygenation separately.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f2-sets-trigonometry-wb-01",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-sets-trigonometry"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-sets-trigonometry"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "mathematics-f2-activity-12",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            31
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-13",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            31
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-14",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            32
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-15",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            32
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-16",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            32
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-17",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            33
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-18",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            33
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-19",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            34
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-20",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            34
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "n(A)=18, n(B)=14 and n(A∩B)=6. Find n(A∪B).",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "26",
+      "markingGuide": "18+14−6.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f2-sets-trigonometry-wb-02",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-sets-trigonometry"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-sets-trigonometry"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "mathematics-f2-activity-12",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            31
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-13",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            31
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-14",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            32
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-15",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            32
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-16",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            32
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-17",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            33
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-18",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            33
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-19",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            34
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-20",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            34
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "U={a,b,c,d,e}, A={b,d}. Find A′.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "{a,c,e}",
+      "markingGuide": "Remove A from the stated universe.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f2-sets-trigonometry-wb-03",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f2-sets-trigonometry"
+      ],
+      "subtopicIds": [
+        "mathematics-f2-sets-trigonometry"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "mathematics-f2-activity-12",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            31
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-13",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            31
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-14",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            32
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-15",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            32
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-16",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            32
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-17",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            33
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-18",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            33
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-19",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            34
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f2-activity-20",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            34
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "In a right triangle, opposite=8 and adjacent=15 for θ. Find tan θ.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "8/15",
+      "markingGuide": "The tangent uses opposite/adjacent.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "geography-f2-photographs-wb-01",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-photographs"
+      ],
+      "subtopicIds": [
+        "geography-f2-photographs"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "geography-f2-activity-05",
+          "sourceId": "89a9dd3eb858f8d0",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "geography-f2-activity-06",
+          "sourceId": "89a9dd3eb858f8d0",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "A cropped photograph shows a road but no destination. Can it prove the road leads to a hospital?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "No. Destination information requires additional evidence.",
+      "markingGuide": "Do not invent what lies outside the frame.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "geography-f2-photographs-wb-02",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-photographs"
+      ],
+      "subtopicIds": [
+        "geography-f2-photographs"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "geography-f2-activity-05",
+          "sourceId": "89a9dd3eb858f8d0",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "geography-f2-activity-06",
+          "sourceId": "89a9dd3eb858f8d0",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Suggest two checks before attributing vegetation change to land clearance.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Compare dates/seasons and viewpoints; also check rainfall or other evidence.",
+      "markingGuide": "Consider alternative causes.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "geography-f2-photographs-wb-03",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-photographs"
+      ],
+      "subtopicIds": [
+        "geography-f2-photographs"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "geography-f2-activity-05",
+          "sourceId": "89a9dd3eb858f8d0",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "geography-f2-activity-06",
+          "sourceId": "89a9dd3eb858f8d0",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Write an observation and a separate interpretation about a visible bridge over water.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Observation: a structure crosses the water. Interpretation: it may provide a transport crossing.",
+      "markingGuide": "Label the direct evidence and inferred function.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "business-f2-management-wb-01",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f2-management"
+      ],
+      "subtopicIds": [
+        "business-f2-management"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "business-f2-activity-04",
+          "sourceId": "302a9bb91147e4ce",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "business-f2-activity-06",
+          "sourceId": "302a9bb91147e4ce",
+          "pdfPages": [
+            27
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "A business has 16,000 cash, receives 21,000 and pays 28,500. Find closing cash.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "TSh 8500",
+      "markingGuide": "16,000+21,000−28,500.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "business-f2-management-wb-02",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f2-management"
+      ],
+      "subtopicIds": [
+        "business-f2-management"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "business-f2-activity-04",
+          "sourceId": "302a9bb91147e4ce",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "business-f2-activity-06",
+          "sourceId": "302a9bb91147e4ce",
+          "pdfPages": [
+            27
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "A customer owes 13,000 and pays 4000 twice. Find the remaining debt.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "TSh 5000",
+      "markingGuide": "13,000−4000−4000.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "business-f2-management-wb-03",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f2-management"
+      ],
+      "subtopicIds": [
+        "business-f2-management"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "business-f2-activity-04",
+          "sourceId": "302a9bb91147e4ce",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "business-f2-activity-06",
+          "sourceId": "302a9bb91147e4ce",
+          "pdfPages": [
+            27
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "A low actual cost came with half the planned sales. Why investigate before celebrating?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Lower activity may explain lower costs, while revenue and profit may also be lower.",
+      "markingGuide": "Assess performance in context, not one number alone.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "historia-f2-uhuru-taifa-wb-01",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f2-uhuru-taifa"
+      ],
+      "subtopicIds": [
+        "historia-f2-uhuru-taifa"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "historia-f2-activity-11",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            36
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f2-activity-12",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            37
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f2-activity-13",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            37
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f2-activity-14",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            38
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Panga jamhuri ya Tanganyika, Muungano na Azimio la Arusha kwa miaka.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Jamhuri 1962; Muungano 1964; Azimio 1967.",
+      "markingGuide": "Hifadhi tofauti za kipindi.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "historia-f2-uhuru-taifa-wb-02",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f2-uhuru-taifa"
+      ],
+      "subtopicIds": [
+        "historia-f2-uhuru-taifa"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "historia-f2-activity-11",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            36
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f2-activity-12",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            37
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f2-activity-13",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            37
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f2-activity-14",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            38
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Eleza tofauti ya kutangaza mpango wa afya na kuthibitisha mafanikio yake.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Mpango unaeleza lengo; mafanikio yanahitaji ushahidi wa huduma, upatikanaji na athari.",
+      "markingGuide": "Tumia vigezo vinavyoweza kuchunguzwa.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "historia-f2-uhuru-taifa-wb-03",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f2-uhuru-taifa"
+      ],
+      "subtopicIds": [
+        "historia-f2-uhuru-taifa"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "historia-f2-activity-11",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            36
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f2-activity-12",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            37
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f2-activity-13",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            37
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f2-activity-14",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            38
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Kwa nini ujenzi wa utaifa ulenge ushirikiano bila kudharau tofauti?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Mshikamano endelevu unahitaji kuheshimu haki na utambulisho wa watu tofauti.",
+      "markingGuide": "Unganisha maadili na ushirikiano.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "kiswahili-f2-insha-muhtasari-wb-01",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f2-insha-muhtasari"
+      ],
+      "subtopicIds": [
+        "kiswahili-f2-insha-muhtasari"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "kiswahili-f2-activity-06",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f2-activity-07",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f2-activity-10",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            31
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f2-activity-11",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            32
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Andika kumbukumbu fupi inayoonyesha kuwa pendekezo bado halijaamuliwa.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Pendekezo la kuongeza vipindi litajadiliwa baada ya kukagua ratiba ya shule.",
+      "markingGuide": "Usiliwasilishe kama kibali kilichotolewa.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "kiswahili-f2-insha-muhtasari-wb-02",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f2-insha-muhtasari"
+      ],
+      "subtopicIds": [
+        "kiswahili-f2-insha-muhtasari"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "kiswahili-f2-activity-06",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f2-activity-07",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f2-activity-10",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            31
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f2-activity-11",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            32
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Tunga hoja na ushahidi kutoka katika matini ya kikundi.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Kutoa taarifa husaidia ushiriki; baada ya ratiba kuwekwa, washiriki waliongezeka.",
+      "markingGuide": "Unganisha dai na ushahidi unaotajwa.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "kiswahili-f2-insha-muhtasari-wb-03",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f2-insha-muhtasari"
+      ],
+      "subtopicIds": [
+        "kiswahili-f2-insha-muhtasari"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "kiswahili-f2-activity-06",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f2-activity-07",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f2-activity-10",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            31
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f2-activity-11",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            32
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Tofautisha insha ya hoja na insha ya wasifu.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Ya hoja hujenga msimamo kwa sababu na ushahidi; ya wasifu hufafanua mtu, mahali, kitu au hali kwa mpangilio.",
+      "markingGuide": "Taja lengo la kila aina.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "english-f2-formal-writing-wb-01",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "english",
+      "topicIds": [
+        "english-f2-formal-writing"
+      ],
+      "subtopicIds": [
+        "english-f2-formal-writing"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "english-f2-activity-22",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            42
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f2-activity-23",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            42
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f2-activity-24",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            43
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f2-activity-25",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            43
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f2-activity-26",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            44
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Write a two-sentence request to borrow sports equipment, without assuming approval.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Our team requests permission to borrow two footballs on Friday afternoon. Please let us know whether they are available and what return arrangements are required.",
+      "markingGuide": "State what is requested and invite confirmation.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "english-f2-formal-writing-wb-02",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "english",
+      "topicIds": [
+        "english-f2-formal-writing"
+      ],
+      "subtopicIds": [
+        "english-f2-formal-writing"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "english-f2-activity-22",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            42
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f2-activity-23",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            42
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f2-activity-24",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            43
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f2-activity-25",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            43
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f2-activity-26",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            44
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Rewrite politely: Give my money back now, you cheated me.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "The item supplied is damaged. I would like to request a refund and can provide the receipt.",
+      "markingGuide": "State the issue and remedy without unsupported accusations.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "english-f2-formal-writing-wb-03",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "english",
+      "topicIds": [
+        "english-f2-formal-writing"
+      ],
+      "subtopicIds": [
+        "english-f2-formal-writing"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "english-f2-activity-22",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            42
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f2-activity-23",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            42
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f2-activity-24",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            43
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f2-activity-25",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            43
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f2-activity-26",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            44
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "What should you check before writing Thank you for agreeing?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "That the other person has actually accepted the proposal and that the terms are clear.",
+      "markingGuide": "Do not confuse an offer or silence with agreement.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form Two workbook expansion",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    }
+  ]
+}

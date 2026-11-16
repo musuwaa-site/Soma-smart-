@@ -1,0 +1,2485 @@
+{
+  "paper": {
+    "id": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+    "title": "Moshi District Council • Form One Physics • May 2026 • scored selection",
+    "form": 1,
+    "subjectId": "physics",
+    "sourceType": "district",
+    "institution": "Moshi District Council (printed paper heading)",
+    "year": 2026,
+    "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+    "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+    "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+    "sourceDocumentId": "source-74559a7e0a8b9a75",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "publicationStatus": "published",
+    "publicationScope": "selected-questions",
+    "completePaper": false,
+    "completeTranscription": true,
+    "sourceMaximumMarks": 100,
+    "maximumMarks": 84.0,
+    "questionIds": [
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-i",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-ii",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-iii",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-iv",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-v",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-vi",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-vii",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-ix",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-x",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q2",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q3-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q3-B-i",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q3-B-ii",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q3-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q4-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q4-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q5-a-i",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q5-a-ii",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q5-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q6-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q6-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q7-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q7-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q8-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q8-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q9-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q9-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q9-c"
+    ],
+    "allTranscribedQuestionIds": [
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-i",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-ii",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-iii",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-iv",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-v",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-vi",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-vii",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-viii",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-ix",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-x",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q2",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q3-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q3-B-i",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q3-B-ii",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q3-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q4-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q4-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q5-a-i",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q5-a-ii",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q5-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q6-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q6-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q7-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q7-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q8-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q8-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q9-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q9-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q9-c",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-c-i",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-c-ii"
+    ],
+    "heldQuestionIds": [
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-viii",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-a",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-b",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-c-i",
+      "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-c-ii"
+    ],
+    "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+    "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+    "sourceInstructions": [
+      "This paper consists of ten (10) questions.",
+      "Answer all questions.",
+      "All work done and answers of each question must be shown clearly in the space provided.",
+      "Communication devices and any unauthorized materials are not allowed in the examination room.",
+      "Non-programmable calculators and mathematical tables may be used.",
+      "Write your Index number at the top right corner in the space provided."
+    ],
+    "sectionInstructions": [
+      {
+        "section": "A",
+        "maximumMarks": 15,
+        "instructions": "Answer all questions in this section"
+      },
+      {
+        "section": "B",
+        "maximumMarks": 70,
+        "instructions": "Answer all questions in this section"
+      },
+      {
+        "section": "C",
+        "maximumMarks": 15,
+        "instructions": "Answer question number ten (10)"
+      }
+    ],
+    "verificationScope": "All original paper pages and all five source guide pages visually inspected. All source questions/options/figures transcribed, including held items. Scored inventory excludes unresolved source-guide defects and linked question groups.",
+    "excludedQuestions": [
+      {
+        "number": "1(viii)",
+        "reason": "Source guide selects B although heat, optics, mechanics and electronics are valid physics branches. Alternatives C and D also contain non-branch terms, so a unique alternative cannot be verified. Source wording/options/key retained; withheld."
+      },
+      {
+        "number": "10(a)",
+        "reason": "Linked question 10 held: 10(c)(i) cannot uniquely identify the instrument used from the printed dimensions alone; source guide asserts vernier caliper without further information. Guide 10(b) also reverses initial/final volume labels (correct diagram is 300 mL initially and 700 mL after immersion, giving 400 cm³). Full source question and figure preserved without editing."
+      },
+      {
+        "number": "10(b)",
+        "reason": "Linked question 10 held: 10(c)(i) cannot uniquely identify the instrument used from the printed dimensions alone; source guide asserts vernier caliper without further information. Guide 10(b) also reverses initial/final volume labels (correct diagram is 300 mL initially and 700 mL after immersion, giving 400 cm³). Full source question and figure preserved without editing."
+      },
+      {
+        "number": "10(c)(i)",
+        "reason": "Linked question 10 held: 10(c)(i) cannot uniquely identify the instrument used from the printed dimensions alone; source guide asserts vernier caliper without further information. Guide 10(b) also reverses initial/final volume labels (correct diagram is 300 mL initially and 700 mL after immersion, giving 400 cm³). Full source question and figure preserved without editing."
+      },
+      {
+        "number": "10(c)(ii)",
+        "reason": "Linked question 10 held: 10(c)(i) cannot uniquely identify the instrument used from the printed dimensions alone; source guide asserts vernier caliper without further information. Guide 10(b) also reverses initial/final volume labels (correct diagram is 300 mL initially and 700 mL after immersion, giving 400 cm³). Full source question and figure preserved without editing."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-i",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "1(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-i",
+      "type": "mcq",
+      "instructions": "For each of the items (i)-(x), choose the correct answer from the given alternatives and write its letter besides the item number in the space provided.",
+      "content": "Physics is a fundamental branch of science because the knowledge obtained in studying physics is strongly connected to other branches of science. Which among the following statements describes how physics is connected to other disciplines like chemistry and biology?",
+      "sharedContent": "",
+      "options": [
+        "A. Physics studies the properties of matter and energy which are fundamental to all sciences",
+        "B. Physics focuses solely on celestial bodies and space exploration",
+        "C. Physics deals with the human mind and cognitive process",
+        "D. Physics have many applications in medical field"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-002.jpg",
+          "alt": "Unchanged original Physics question paper, page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source item allocation.",
+      "answerKey": "A. Physics studies the properties of matter and energy which are fundamental to all sciences",
+      "markingGuide": "Source guide: A. Physics studies the properties of matter and energy which are fundamental to all sciences. Matter, energy and their interactions underpin the physical processes studied in other sciences.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        2
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "1(i)",
+      "transcriptionDigest": "1cef9b541f1c1360be51178dd5336ba8b718a653475851bdae2834de9f618d8e"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-ii",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "1(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-ii",
+      "type": "mcq",
+      "instructions": "For each of the items (i)-(x), choose the correct answer from the given alternatives and write its letter besides the item number in the space provided.",
+      "content": "Which of the following best describes a variable?",
+      "sharedContent": "",
+      "options": [
+        "A. A trend that show an experimental relationship",
+        "B. Something whose value can change over multiple measurements",
+        "C. A measure of how much a plot line changes along the y-axis",
+        "D. Something that remains constant over multiple measurements"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-002.jpg",
+          "alt": "Unchanged original Physics question paper, page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source item allocation.",
+      "answerKey": "B. Something whose value can change over multiple measurements",
+      "markingGuide": "Source guide: B. Something whose value can change over multiple measurements. A variable can take different measured or assigned values.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        2
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "1(ii)",
+      "transcriptionDigest": "2dbf18d7d731fbe5b675ac9ca51397ec55c8d323628036084c6a86b480b54d76"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-iii",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "1(iii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-iii",
+      "type": "mcq",
+      "instructions": "For each of the items (i)-(x), choose the correct answer from the given alternatives and write its letter besides the item number in the space provided.",
+      "content": "A cuboid with length 4cm , width 5cm and height 10 cm is made from wood. What is the actual volume of the cuboid?",
+      "sharedContent": "",
+      "options": [
+        "A. 200cm³.",
+        "B. 120cm³.",
+        "C. 240ml.",
+        "D. 120cm³."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-002.jpg",
+          "alt": "Unchanged original Physics question paper, page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source item allocation.",
+      "answerKey": "A. 200cm³.",
+      "markingGuide": "Source guide: A. 200cm³.. Volume=4×5×10=200 cm³. Original duplicate alternatives B and D are preserved by their distinct printed letters.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        2
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "1(iii)",
+      "transcriptionDigest": "562532a4a599250350f0e46bdc29d54e6b80592c6fd3b2503b6736943fe76cc6"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-iv",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "1(iv)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-iv",
+      "type": "mcq",
+      "instructions": "For each of the items (i)-(x), choose the correct answer from the given alternatives and write its letter besides the item number in the space provided.",
+      "content": "Which of the following is true if the mass of an object is reduced",
+      "sharedContent": "",
+      "options": [
+        "A. State of an object changes",
+        "B. Amount of matter is reduced",
+        "C. Volume of an object is reduced",
+        "D. Density of an object increases"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-002.jpg",
+          "alt": "Unchanged original Physics question paper, page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source item allocation.",
+      "answerKey": "B. Amount of matter is reduced",
+      "markingGuide": "Independent correction of the source guide: B is correct because mass measures the amount of matter. The guide selects C without a constant-density condition. Award the source allocation of 1 mark only for B. Question and options are unchanged.",
+      "solutionProvenance": "SomaSmart independently verified correction of an erroneous district/archive source key; source question unchanged.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        2
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "1(iv)",
+      "guideDiscrepancy": "Source guide page 1 selects C. Correct definition-based answer is B; no assumption of constant density is stated.",
+      "transcriptionDigest": "05021b2f9e8507ecb3771b992bcb0162ea819226f8e64ae22607bb9449ca415e"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-v",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "1(v)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-v",
+      "type": "mcq",
+      "instructions": "For each of the items (i)-(x), choose the correct answer from the given alternatives and write its letter besides the item number in the space provided.",
+      "content": "Which instrument will you use to measure accurately the inside diameter of a bottle neck?",
+      "sharedContent": "",
+      "options": [
+        "A. Micrometer screw gauge",
+        "B. Meter rule",
+        "C. Vernier caliper",
+        "D. Tape measure"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-002.jpg",
+          "alt": "Unchanged original Physics question paper, page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source item allocation.",
+      "answerKey": "C. Vernier caliper",
+      "markingGuide": "Source guide: C. Vernier caliper. The internal jaws of a vernier caliper measure internal diameters.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        2
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "1(v)",
+      "transcriptionDigest": "61b1d12e86d0dd31668981870a579ff452dae717b1ebcc3aace445681047a952"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-vi",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "1(vi)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-vi",
+      "type": "mcq",
+      "instructions": "For each of the items (i)-(x), choose the correct answer from the given alternatives and write its letter besides the item number in the space provided.",
+      "content": "A cylindrical container has a diameter of 10 cm and a height of 12 cm . the actual volume of this cylinder is",
+      "sharedContent": "",
+      "options": [
+        "A. 942 cm³",
+        "B. 120 cm³",
+        "C. 22 cm³",
+        "D. 120 cm³"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-002.jpg",
+          "alt": "Unchanged original Physics question paper, page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source item allocation.",
+      "answerKey": "A. 942 cm³",
+      "markingGuide": "Source guide: A. 942 cm³. Volume=πr²h=π×5²×12=300π cm³, approximately 942 cm³ using π≈3.14; the source alternative is A. Duplicate alternatives B and D are retained.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        2
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "1(vi)",
+      "transcriptionDigest": "b5c96c7185a256bfb4cff3ee8083fce3f2e062deccfd72f056a2b1e7de854e82"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-vii",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "1(vii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-vii",
+      "type": "mcq",
+      "instructions": "For each of the items (i)-(x), choose the correct answer from the given alternatives and write its letter besides the item number in the space provided.",
+      "content": "to measure the length using a meter rule, wrong position of the eye leads",
+      "sharedContent": "",
+      "options": [
+        "A. parallax error",
+        "B. eye error",
+        "C. zero error",
+        "D. meter error"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-002.jpg",
+          "alt": "Unchanged original Physics question paper, page 2.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-003.jpg",
+          "alt": "Unchanged original Physics question paper, page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source item allocation.",
+      "answerKey": "A. parallax error",
+      "markingGuide": "Source guide: A. parallax error. Viewing a scale from the wrong position causes parallax.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        2,
+        3
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "1(vii)",
+      "transcriptionDigest": "784211cde5c6c61c018c5f56bce153e8f51ade42544394c4aa55598923a93ed6"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-viii",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "1(viii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-viii",
+      "type": "mcq",
+      "instructions": "For each of the items (i)-(x), choose the correct answer from the given alternatives and write its letter besides the item number in the space provided.",
+      "content": "For the aims of physics to be attained,physicists have divided physics into a number of branches. The following set represents branches of physics except.",
+      "sharedContent": "",
+      "options": [
+        "A. Biophysics,geophysics,chemophysics and astronophysics",
+        "B. Heat, optics,mechanics and electronics",
+        "C. Wave, physics of the atom and physikos",
+        "D. Agribusiness,.mechanics and molecules"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-003.jpg",
+          "alt": "Unchanged original Physics question paper, page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source item allocation.",
+      "answerKey": "B. Heat, optics,mechanics and electronics",
+      "markingGuide": "Source guide: B. Heat, optics,mechanics and electronics. Source guide selects B although heat, optics, mechanics and electronics are valid physics branches. Alternatives C and D also contain non-branch terms, so a unique alternative cannot be verified. Source wording/options/key retained; withheld.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        3
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceIssue": "Source guide selects B although heat, optics, mechanics and electronics are valid physics branches. Alternatives C and D also contain non-branch terms, so a unique alternative cannot be verified. Source wording/options/key retained; withheld.",
+      "sourceQuestionLabel": "1(viii)",
+      "transcriptionDigest": "8fcf647b0952c46542b995a7ed1ba09aed06e758972353095a5ae24b59cbbaa5"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-ix",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "1(ix)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-ix",
+      "type": "mcq",
+      "instructions": "For each of the items (i)-(x), choose the correct answer from the given alternatives and write its letter besides the item number in the space provided.",
+      "content": "Astronomy deals with the study of the universe and everything contained in it. The word astronomy comes from two greek words which are:",
+      "sharedContent": "",
+      "options": [
+        "A. Astro and star",
+        "B. Nomos and star",
+        "C. Astron and nomos.",
+        "D. Laws and star"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-003.jpg",
+          "alt": "Unchanged original Physics question paper, page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source item allocation.",
+      "answerKey": "C. Astron and nomos.",
+      "markingGuide": "Source guide: C. Astron and nomos.. Astron refers to star and nomos to law or arrangement.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        3
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "1(ix)",
+      "transcriptionDigest": "a09e578d8fe20361a60e98bd6e82b18542b17ba6c61fb1ea6ffe9859b9c3ebec"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-x",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "1(x)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-x",
+      "type": "mcq",
+      "instructions": "For each of the items (i)-(x), choose the correct answer from the given alternatives and write its letter besides the item number in the space provided.",
+      "content": "Physics involves the study of matter energy and their mutual interaction. What is the advantage of the interaction between matter and energy in physics",
+      "sharedContent": "",
+      "options": [
+        "A. It helps to explain the behaviour of objects and phenomena in the universe",
+        "B. It allows us to explore different planets and their atmosphere",
+        "C. It is not relevant to the study of physics",
+        "D. It helps to understand human body and its function"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-003.jpg",
+          "alt": "Unchanged original Physics question paper, page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source item allocation.",
+      "answerKey": "A. It helps to explain the behaviour of objects and phenomena in the universe",
+      "markingGuide": "Source guide: A. It helps to explain the behaviour of objects and phenomena in the universe. Matter–energy interactions help explain physical behaviour and phenomena.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        3
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "1(x)",
+      "transcriptionDigest": "018a5660e2e3b019baadfb0365d852d11e8b59c801fca5be7c81ef0fe958f4f2"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q2",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-elastic-materials",
+        "physics-f1-floating-upthrust",
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-elastic-materials",
+        "physics-f1-floating-upthrust",
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q2",
+      "type": "matching",
+      "instructions": "",
+      "content": "Match the item in list A with the correct responses from list B by writing the letter of the correct answer in the space provided.",
+      "sharedContent": "",
+      "options": [
+        "A. Ohms law",
+        "B. Law of floatation",
+        "C. Hookes law",
+        "D. Law of conservation of energy",
+        "E. Archimedes' principle",
+        "F. Pascal principle",
+        "G. Law of motion"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-003.jpg",
+          "alt": "Unchanged original Physics question paper, page 3.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-004.jpg",
+          "alt": "Unchanged original Physics question paper, page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source item allocation.",
+      "answerKey": {
+        "I": "C. Hookes law",
+        "II": "B. Law of floatation",
+        "III": "E. Archimedes' principle",
+        "IV": "F. Pascal principle",
+        "V": "D. Law of conservation of energy"
+      },
+      "markingGuide": "Source guide awards 1 mark to each correctly matched item: I–C, II–B, III–E, IV–F, V–D. No marks for an unmatched or incorrect item.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        3,
+        4
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "pairs": [
+        {
+          "id": "I",
+          "left": "I. Provided the elastic limit is not exceeded, the extension is directly proportional to the force applied"
+        },
+        {
+          "id": "II",
+          "left": "II. A floating body displaces its own weight of fluid in which it floats"
+        },
+        {
+          "id": "III",
+          "left": "III. Any object partially or totally immersed in a fluid experiences an upthrust which is equal to the weight of the fluid displaced by the object"
+        },
+        {
+          "id": "IV",
+          "left": "IV. When pressure is applied at any point on the surface of a fluid contained in a closed container, the pressure is transmitted undiminished to all parts of the fluid and to the walls of the container"
+        },
+        {
+          "id": "V",
+          "left": "V. Energy can neither be created nor destroyed but it can be transformed from one form to another"
+        }
+      ],
+      "subquestions": [
+        {
+          "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q2-I",
+          "label": "I",
+          "content": "Provided the elastic limit is not exceeded, the extension is directly proportional to the force applied",
+          "parentQuestionId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q2"
+        },
+        {
+          "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q2-II",
+          "label": "II",
+          "content": "A floating body displaces its own weight of fluid in which it floats",
+          "parentQuestionId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q2"
+        },
+        {
+          "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q2-III",
+          "label": "III",
+          "content": "Any object partially or totally immersed in a fluid experiences an upthrust which is equal to the weight of the fluid displaced by the object",
+          "parentQuestionId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q2"
+        },
+        {
+          "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q2-IV",
+          "label": "IV",
+          "content": "When pressure is applied at any point on the surface of a fluid contained in a closed container, the pressure is transmitted undiminished to all parts of the fluid and to the walls of the container",
+          "parentQuestionId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q2"
+        },
+        {
+          "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q2-V",
+          "label": "V",
+          "content": "Energy can neither be created nor destroyed but it can be transformed from one form to another",
+          "parentQuestionId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q2"
+        }
+      ],
+      "sourceQuestionLabel": "2",
+      "transcriptionDigest": "586f3eeb76b29718eae7539cab230a136c8ccf2c8e796757718682847167d805"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q3-a",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "3(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q3",
+      "type": "short",
+      "instructions": "",
+      "content": "what is physics?",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-004.jpg",
+          "alt": "Unchanged original Physics question paper, page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "Physics is the branch of science that deals with the study of matter,energy and the mutual interactions between them.",
+      "markingGuide": "Source allocation: 2 marks. Independent assessment: 1 for matter and energy, 1 for their mutual interactions. Accept equivalent scientifically correct wording.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        4
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "3(a)",
+      "transcriptionDigest": "575c5c6a2c8a8e5dbf02f47e5e9ade95a35e59c384ad736c9b9e5bd605760fbd"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q3-B-i",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "3-B-i",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q3",
+      "type": "short",
+      "instructions": "",
+      "content": "(i) At home:",
+      "sharedContent": "B) Discoveries in physics has led to various inventions that influence our lives. Briefly explain how physics is applied in the following fields",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-004.jpg",
+          "alt": "Unchanged original Physics question paper, page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "Crowbars and hammers used at home simplify work by applying mechanics: a crowbar acts as a lever to multiply an applied turning effect, and a hammer transfers momentum and energy to drive a nail.",
+      "markingGuide": "Source allocation: 2 marks. Independent assessment: 1 for a relevant household application and 1 for a valid physical explanation.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        4
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "3-B-i",
+      "transcriptionDigest": "a55323c62804a7dc7e98eabf42d18fa9d16a294d1966b7c28e058d2125854c0b"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q3-B-ii",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "3-B-ii",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q3",
+      "type": "short",
+      "instructions": "",
+      "content": "(ii) In hospitals",
+      "sharedContent": "B) Discoveries in physics has led to various inventions that influence our lives. Briefly explain how physics is applied in the following fields",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-004.jpg",
+          "alt": "Unchanged original Physics question paper, page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2.5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "Hospital diagnosis and treatment equipment applies physics: X-ray imaging uses penetrating electromagnetic radiation to reveal internal structures, and ultrasound imaging uses reflected high-frequency sound waves. Accept another correct physical application.",
+      "markingGuide": "Source allocation: 2.5 marks. Independently allow up to 1 mark for a relevant machine/example and up to 1.5 for a correct physical application; use half-mark increments and accept equivalent valid responses.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        4
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "3-B-ii",
+      "transcriptionDigest": "96e5aeea05f30dbcedf2fc560ebbb873b2cc47b78b28fd0faf4297d73ecfec56"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q3-b",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "3(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q3",
+      "type": "short",
+      "instructions": "",
+      "content": "Scientists including physicists are always looking for scientific evidence. As a physics expert assist a form one student to outline the steps followed when carrying out a scientific investigation.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-004.jpg",
+          "alt": "Unchanged original Physics question paper, page 4.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-005.jpg",
+          "alt": "Unchanged original Physics question paper, page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3.5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 1,2.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "1. Problem identification. 2. Formulating a testable hypothesis. 3. Conducting an experiment. 4. Data collection and analysis. 5. Data presentation and interpretation. 6. Drawing a conclusion. 7. Reporting results.",
+      "markingGuide": "Source guide: 3.5 marks, 0.5 for each of the seven steps. Preserve a coherent scientific sequence. The printed response lines jump from IV to VI; the missing V label is a source layout defect, not a changed question.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        4,
+        5
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        1,
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "3(b)",
+      "transcriptionDigest": "7924d4aa7ce987f3beacfded04c72489acc81e41abea564e55b025b4469b5aec"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q4-a",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "4(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q4",
+      "type": "short",
+      "instructions": "",
+      "content": "Micrometer screw gauge usually used to measure the diameters of thin objects like wires and ball bearings. Briefly explain why we use Micrometer screw gauge instead of vernier caliper?",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-005.jpg",
+          "alt": "Unchanged original Physics question paper, page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "A micrometer screw gauge gives better precision than a typical vernier caliper and can measure to the nearest thousandth of a centimetre (0.001 cm = 0.01 mm).",
+      "markingGuide": "Source allocation: 3 marks. Independent assessment: identify better precision (1), smaller measurable increment (1), correct 0.001 cm / 0.01 mm precision statement (1).",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        5
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "4(a)",
+      "transcriptionDigest": "2c7536b7919a43689f29a7a97596d8a826611e35e20a5370c9b466727b643847"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q4-b",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "4(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q4",
+      "type": "calculation",
+      "instructions": "",
+      "content": "What is the reading of a Micrometer screw gauge from the figure below",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-005.jpg",
+          "alt": "Unchanged original Physics question paper, page 5.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 7,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "Main scale reading = 2.50 mm. Thimble scale = 38 × 0.01 mm = 0.38 mm. Reading = 2.50 mm + 0.38 mm = 2.88 mm.",
+      "markingGuide": "Source guide allocates 7 marks. Independent self-assessment: main scale 2.50 mm (2), thimble division 38 (1), least count 0.01 mm (1), contribution 0.38 mm (1), addition (1), final 2.88 mm with unit (1). Consult the unchanged source diagram.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        5
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "4(b)",
+      "transcriptionDigest": "181d07c9b0e3e9fbee86923ed73e934a63ed9ecaddca7a98f176114a772d957f"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q5-a-i",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "5(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q5",
+      "type": "short",
+      "instructions": "",
+      "content": "(i) Chemistry :",
+      "sharedContent": "Physics relates to many subjects in terms of either direct applications or the principles governing the working of instruments. Explain how physics is related to the following subjects",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-005.jpg",
+          "alt": "Unchanged original Physics question paper, page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "Chemistry principles produce substances such as pesticides, insecticides, perfumes and fertilizers; physics principles enable packaging and controlled release. Physics also supplies measurement and energy concepts used in chemistry.",
+      "markingGuide": "Source allocation: 4 marks. Independently assess a valid chemistry example (1) and a coherent physics connection (up to 3); accept equivalent sound explanations.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        5
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "5(a)(i)",
+      "transcriptionDigest": "b8df85f5533a42baa35950994b57e83de41773158470994957208c63085c8647"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q5-a-ii",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "5(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q5",
+      "type": "short",
+      "instructions": "",
+      "content": "(ii) Biology.",
+      "sharedContent": "Physics relates to many subjects in terms of either direct applications or the principles governing the working of instruments. Explain how physics is related to the following subjects",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-005.jpg",
+          "alt": "Unchanged original Physics question paper, page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "Instruments used in biology, such as a microscope, are designed and constructed using principles of physics.",
+      "markingGuide": "Source allocation: 3 marks. Independent assessment: relevant instrument (1), physical principle such as optical lenses (1), biological use such as viewing cells (1).",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        5
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "5(a)(ii)",
+      "transcriptionDigest": "778216258ee151725ca6050adde368f73191664311a984190f7277d7bf922f43"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q5-b",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "5(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q5",
+      "type": "short",
+      "instructions": "",
+      "content": "Sources of energy contribute to the development of modern society batteries, generators and solar cells are good examples of these source of energy what are the contributions of the sources of energy in our daily life",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-005.jpg",
+          "alt": "Unchanged original Physics question paper, page 5.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-006.jpg",
+          "alt": "Unchanged original Physics question paper, page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "They supply electrical energy for charging mobile phones, powering radios and televisions, and starting or operating vehicle systems.",
+      "markingGuide": "Source allocation: 3 marks. Independently award 1 per distinct correct daily-life contribution, up to 3. Accept other valid uses of energy sources.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        5,
+        6
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "5(b)",
+      "transcriptionDigest": "1d1f0a613e26310a0f1192dea46ad2f5516c65ed3a28285dd125906b8b9ef5f7"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q6-a",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "6(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q6",
+      "type": "short",
+      "instructions": "",
+      "content": "What is scientific theory:",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-006.jpg",
+          "alt": "Unchanged original Physics question paper, page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "A scientific theory is a well-supported explanation of natural behaviour based on evidence and testing.",
+      "markingGuide": "Source allocation: 2 marks. Source guide describes an explanation developed by scientists to describe natural behaviour. Independent assessment: explanation (1), natural behaviour supported by scientific evidence (1).",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        6
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "6(a)",
+      "transcriptionDigest": "12baa7cef9543e47d0fdca4e277094ab290d57f76d53b046f8714e2721e66fae"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q6-b",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "6(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q6",
+      "type": "short",
+      "instructions": "",
+      "content": "Theory of gravity explains the force of attraction between two objects that have mass. For our daily activities this force is very important. Mention four significance of the theory of gravity",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-006.jpg",
+          "alt": "Unchanged original Physics question paper, page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 8,
+      "markIncrement": 2,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "1. Explains the arrangement and motion of planets, moons and other celestial bodies. 2. Helps explain tides and Earth’s motion around the Sun. 3. Provides a basis for space exploration and satellite technology. 4. Explains everyday phenomena from remaining on Earth’s surface to spacecraft launches.",
+      "markingGuide": "Source guide: four valid significances, 2 marks each. Accept equivalent correct applications; do not double-count the same application.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        6
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "6(b)",
+      "transcriptionDigest": "0fe4f423932c424990f43a013bc2fa163fb72d9d12aabfa5aaa97d693f3ef47c"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q7-a",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "7(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q7",
+      "type": "short",
+      "instructions": "",
+      "content": "With examples give the meaning of measurement of a physical quantity",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-006.jpg",
+          "alt": "Unchanged original Physics question paper, page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "Measurement assigns a numerical value and a unit to a physical quantity; examples are 100 km and 2 kg.",
+      "markingGuide": "Source allocation: 4 marks. Independent assessment: numerical comparison/value (1), unit (1), two complete valid numerical examples with units (1 each).",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        6
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "7(a)",
+      "transcriptionDigest": "30da8f1009438f2b803b70cfdf166ffd233d55fd1687ea97abbc85f146bf8aad"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q7-b",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "7(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q7",
+      "type": "short",
+      "instructions": "",
+      "content": "Draw a well labelled diagram of a micrometer screw gauge",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-006.jpg",
+          "alt": "Unchanged original Physics question paper, page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 3.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "A recognisable micrometer screw gauge labelled with frame, anvil, spindle, sleeve/main scale, thimble/vernier scale division, and ratchet knob. See the source guide page 3 model diagram.",
+      "markingGuide": "Source allocation: 6 marks. Independent self-assessment: recognisable structure and six correctly located key labels; award up to 6 for accurate parts/labels without double-counting. The source guide provides a diagram rather than explicit per-label allocations.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        6
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "answerMedia": [
+        {
+          "path": "/source-papers/guide-5b190daf4574a0e4/page-003.jpg",
+          "alt": "Source guide page 3 with model labelled micrometer diagram.",
+          "role": "answer-guide"
+        }
+      ],
+      "sourceQuestionLabel": "7(b)",
+      "transcriptionDigest": "194b7aaac8a0842c926933182ba0ceeb89b811f2f7474b55c0a00fcb0b3b5a98"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q8-a",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "8(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q8",
+      "type": "short",
+      "instructions": "",
+      "content": "A form one student uses a vernier caliper to measure the internal diameter of a 100ml measuring cylinder. What are the steps used by this student to get the readings?",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-006.jpg",
+          "alt": "Unchanged original Physics question paper, page 6.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-007.jpg",
+          "alt": "Unchanged original Physics question paper, page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 7,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 3.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "1. Close the jaws to check zero and note any zero correction. 2. Insert the internal jaws inside the measuring cylinder. 3. Open them gently until they touch opposite inner walls across a diameter, without forcing them. 4. Keep the caliper aligned across the diameter and read the main scale just before the vernier zero. 5. Find the vernier division that coincides with a main-scale line. 6. Multiply that division by the least count. 7. Add the main-scale and vernier contributions and apply the zero correction, recording the internal diameter with its unit.",
+      "markingGuide": "Source allocation: 7 marks. Independently corrected internal-diameter rubric: 1 each for zero check/correction, use of internal jaws, gentle contact across opposite inner walls, aligned main-scale reading, coinciding vernier division, division×least count, and corrected total with unit. Accept equivalent valid measurement procedures. This replaces the defective external-jaw procedure in the source guide, not the question.",
+      "solutionProvenance": "SomaSmart independently prepared and checked internal-diameter procedure, correcting the external-jaw procedure in the source guide; source maximum retained.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "8(a)",
+      "guideDiscrepancy": "Source guide page 3 describes external measurement by placing the object between jaws and touching its end. The source question explicitly asks for an internal diameter. The question is unchanged; the independent solution correctly uses internal jaws.",
+      "transcriptionDigest": "6818eec4b3fa3c8a2d18c26157a6e4400b7980018b3c0de885e2a9712687f16c"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q8-b",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "8(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q8",
+      "type": "short",
+      "instructions": "",
+      "content": "Errors usually arise due to several reasons. Briefly explain the three common errors caused by improper reading of an instrument",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-007.jpg",
+          "alt": "Unchanged original Physics question paper, page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 3.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "1. Parallax error: viewing a pointer or graduation from an oblique direction makes it appear aligned with the wrong mark; place the eye normal to the scale. 2. Scale-interval reading error: assuming each minor graduation has the wrong value produces an incorrect reading; determine the value of a division from labelled graduations before reading. 3. Unit or decimal-place reading error: reading a centimetre scale as millimetres or recording a misplaced decimal changes the reported measurement; use the printed scale unit and correct place value.",
+      "markingGuide": "Source maximum: 3 marks. Independent correction: award 1 mark for each distinct valid error caused by improper reading together with an explanation, up to 3. The model gives parallax, misinterpreted scale intervals, and wrong unit/place value. Accept equivalent valid reading errors. The source guide names zero and instrumental errors, which need not be caused by reading; its unqualified list is not used as the scoring key.",
+      "solutionProvenance": "SomaSmart independently prepared reading-error explanations matching the unchanged question, correcting the source guide’s causal mismatch; source maximum retained.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        7
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "8(b)",
+      "guideDiscrepancy": "Source guide page 3 lists parallax, zero and instrumental errors without the requested explanations. Zero and instrumental errors can arise in the instrument independently of improper reading. The independent rubric accepts actual reading errors without changing the question.",
+      "transcriptionDigest": "7ad8ad84aa1415e351e186123b7a6398f9b1309cbbf32470d47d39aab83cc4e1"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q9-a",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "9(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q9",
+      "type": "short",
+      "instructions": "",
+      "content": "Why volume is said to be a derived quantity?",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-007.jpg",
+          "alt": "Unchanged original Physics question paper, page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 3.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "Volume is obtained by combining fundamental length measurements: length × width × height. It therefore has dimension L³ and SI unit m³.",
+      "markingGuide": "Source allocation: 3 marks. Independent assessment: combination of fundamental quantities (1), length × length × length (1), correct derived dimension/unit (1).",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        7
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "9(a)",
+      "transcriptionDigest": "00a4fafbf6e41b7ee54edfdfd41c46dab2d11fc4967027882c67572164ba7198"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q9-b",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "9(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q9",
+      "type": "calculation",
+      "instructions": "",
+      "content": "Calculate the volume of a rectangular block of sides 15 cm, 8cm and 7 cm",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-007.jpg",
+          "alt": "Unchanged original Physics question paper, page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 3,4.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "Volume = length × width × height = 15 × 8 × 7 cm³ = 840 cm³.",
+      "markingGuide": "Source guide: 4 marks. Independent assessment: correct formula (1), substitution (1), correct multiplication (1), final 840 cm³ including unit (1).",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        7
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        3,
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "9(b)",
+      "transcriptionDigest": "e654a9cd41749ad6c8fc5e110fcb2c1a9bfb1fda760ddda4fba0ace4df1cc526"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q9-c",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01",
+        "physics-f1-floating-upthrust"
+      ],
+      "subtopicIds": [
+        "physics-f1-01",
+        "physics-f1-floating-upthrust"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "9(c)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q9",
+      "type": "short",
+      "instructions": "",
+      "content": "Measuring the volume of an irregular shaped solid object is based on the archimedes principle which state that when an object is completely submerged in water, it displaces a volume of water equal to its own volume, the apparatus that can be used to measure volume of an irregular object are:",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-007.jpg",
+          "alt": "Unchanged original Physics question paper, page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1.5,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 4.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "A measuring cylinder and a eureka can (overflow can).",
+      "markingGuide": "Source guide awards 1.5 marks each for measuring cylinder and eureka/overflow can. Source preamble describes volume displacement; Archimedes’ principle itself states an upthrust–weight relationship. This explanatory qualification does not alter the source question or its requested apparatus.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        7
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceQuestionLabel": "9(c)",
+      "transcriptionDigest": "d2a8abd486922b276246df7d4e22fd81a2a071a8095c0d4e7d90a2040f2f138d"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-a",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "10(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q10",
+      "type": "short",
+      "instructions": "",
+      "content": "Differentiate between mass and volume of a substance (give three points)",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-008.jpg",
+          "alt": "Unchanged original Physics question paper, page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 2,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 4.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "Mass is the quantity of matter while volume is the space occupied. SI units are kg and m³ respectively. Mass is measured with a balance while volume may be measured with a measuring cylinder.",
+      "markingGuide": "Source guide: 6 marks, 2 per valid contrasting point. Held with the linked question because of 10(c)(i).",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        8
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceIssue": "Linked question 10 held: 10(c)(i) cannot uniquely identify the instrument used from the printed dimensions alone; source guide asserts vernier caliper without further information. Guide 10(b) also reverses initial/final volume labels (correct diagram is 300 mL initially and 700 mL after immersion, giving 400 cm³). Full source question and figure preserved without editing.",
+      "sourceQuestionLabel": "10(a)",
+      "transcriptionDigest": "40cb7df3e82b9a39ea9a7d289b8cba378f733ca05d124200773cdf30ffa643a4"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-b",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "10(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q10",
+      "type": "calculation",
+      "instructions": "",
+      "content": "A figure below shows a measuring cylinder containing water before and after a stone is immersed.what is the volume of the stone?",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-008.jpg",
+          "alt": "Unchanged original Physics question paper, page 8.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 4.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "400 cm³. The original figure shows 300 mL before and 700 mL after immersion: 700−300=400 mL=400 cm³.",
+      "markingGuide": "Source guide allocates 4 marks and arrives at 400 cm³ but reverses its written initial/final labels. Independent interpretation of the unchanged diagram is explicitly identified; the source question is not changed. Held with linked question 10.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        8
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceIssue": "Linked question 10 held: 10(c)(i) cannot uniquely identify the instrument used from the printed dimensions alone; source guide asserts vernier caliper without further information. Guide 10(b) also reverses initial/final volume labels (correct diagram is 300 mL initially and 700 mL after immersion, giving 400 cm³). Full source question and figure preserved without editing.",
+      "sourceQuestionLabel": "10(b)",
+      "transcriptionDigest": "a487d12691347d58130dfffac5334dc0546c0542d5eb6430be8af514b2ddede2"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-c-i",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "10(c)(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q10",
+      "type": "short",
+      "instructions": "",
+      "content": "What instrument was used to measure the sides of the rectangular block?",
+      "sharedContent": "A rectangular block measures height 1.00cm, width 2.50 cm and length 4.00cm",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-008.jpg",
+          "alt": "Unchanged original Physics question paper, page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 4.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "Source guide: a vernier caliper. The source question does not uniquely establish the instrument actually used.",
+      "markingGuide": "Source guide allocates 1 mark. Withheld because numerical precision alone cannot uniquely identify an instrument. No changed question or invented certainty is published.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        8
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceIssue": "Linked question 10 held: 10(c)(i) cannot uniquely identify the instrument used from the printed dimensions alone; source guide asserts vernier caliper without further information. Guide 10(b) also reverses initial/final volume labels (correct diagram is 300 mL initially and 700 mL after immersion, giving 400 cm³). Full source question and figure preserved without editing.",
+      "sourceQuestionLabel": "10(c)(i)",
+      "transcriptionDigest": "3c9796a0f127aa96144cf3f0f4e0f43f7cea6bd75ac9b4000b44aae641f1a561"
+    },
+    {
+      "id": "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-c-ii",
+      "paperId": "moshi-dc-2026-physics-74559a7e0a8b9a75",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Physics • Form One • 2026",
+      "institution": "Moshi District Council (printed paper heading)",
+      "year": 2026,
+      "curriculumEdition": "Moshi DC Form One terminal examination, May 2026; compatible source topics mapped to available lessons",
+      "questionNumber": "10(c)(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-physics-74559a7e0a8b9a75-q10",
+      "type": "calculation",
+      "instructions": "",
+      "content": "Calculate the volume of the rectangular block",
+      "sharedContent": "A rectangular block measures height 1.00cm, width 2.50 cm and length 4.00cm",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-008.jpg",
+          "alt": "Unchanged original Physics question paper, page 8.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-74559a7e0a8b9a75/page-009.jpg",
+          "alt": "Unchanged original Physics question paper, page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Moshi DC accompanying source marking guide, page(s) 4,5.",
+      "markIncrementProvenance": "Source explicit half-mark allocations where indicated; otherwise independently prepared self-assessment increments within the source maximum.",
+      "answerKey": "Volume = 1.00 × 2.50 × 4.00 cm³ = 10.0 cm³ (10 cm³ is accepted by the source guide).",
+      "markingGuide": "Source allocation: 4 marks. Independent assessment: formula (1), substitution (1), multiplication (1), answer/unit (1). Held with linked question 10.",
+      "solutionProvenance": "Moshi District Council/archive source marking guide; independently checked by SomaSmart. Self-assessment elaboration is independent, not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48053092736.pdf&t=20c5a6fa8bc59121a2f7bdede404f7f97389f4a938a0ace1cb022d911e919853",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "answerGuideReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48053092a14.pdf&t=acea07878299c698a3be28909d86e42e60fe31b0fe8b0e83e9f01a515bc2c178",
+      "answerGuidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "answerGuideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "answerGuidePages": [
+        4,
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question wording, original option letters, units and figures compared with every relevant printed page; source allocations and guide answers cross-checked. Printed spelling and grammatical defects retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceIssue": "Linked question 10 held: 10(c)(i) cannot uniquely identify the instrument used from the printed dimensions alone; source guide asserts vernier caliper without further information. Guide 10(b) also reverses initial/final volume labels (correct diagram is 300 mL initially and 700 mL after immersion, giving 400 cm³). Full source question and figure preserved without editing.",
+      "sourceQuestionLabel": "10(c)(ii)",
+      "transcriptionDigest": "0d88937d0949047c2d72313c22a24fd4dc9ed6a4cffa27b98014375f23f8cf82"
+    }
+  ],
+  "verificationNotes": [
+    "Question text is a complete transcription of the printed question wording, normalising only line breaks, blank answer spaces and typographic superscripts. Source spelling, grammatical errors, duplicate option wording and unusual labels are preserved.",
+    "MCQ option letters are retained in option strings so the duplicate B/D alternatives in 1(iii) and 1(vi) remain distinguishable without changing their text.",
+    "Independent MCQs do not share data and are individually selectable. Written subparts retain their full shared parent wording and group IDs.",
+    "Source 3 prints uppercase B) for application questions and then repeats lowercase (b) for scientific investigation; distinct source labels and stable IDs preserve the source defect.",
+    "Question 9(c) preamble misnames the volume-displacement rule as Archimedes principle. The requested apparatus and source allocation are still clear; the marking explanation explicitly distinguishes the concepts without altering the question.",
+    "Question 10(b) source guide reverses initial/final text labels but gives correct volume difference. The source figure is preserved; the independently verified interpretation is identified. Linked question 10 remains held for underdetermined instrument identification.",
+    "Source key 1(iv) and the question8 guide are independently corrected, explicitly recording each original guide discrepancy while keeping source question wording unchanged. Original source maximum allocations retained; corrected rubric is not attributed to the issuing district."
+  ]
+}

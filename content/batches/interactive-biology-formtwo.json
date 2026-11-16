@@ -1,0 +1,1834 @@
+{
+  "paper": {
+    "id": "necta-ftna-2025-biology-ee22e64d18597ebd",
+    "title": "NECTA FTNA 2025 • Biology • verified scored selection",
+    "form": 2,
+    "subjectId": "biology",
+    "sourceType": "necta",
+    "institution": "National Examinations Council of Tanzania (printed cover)",
+    "year": 2025,
+    "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+    "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+    "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+    "sourceDocumentId": "source-ee22e64d18597ebd",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "scope": "Use of genuine examination papers in SomaSmart",
+      "confirmedBy": "owner",
+      "verification": "Owner assertion; no document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "publicationStatus": "published",
+    "publicationScope": "selected-questions",
+    "completePaper": false,
+    "transcriptionComplete": true,
+    "totalSourceMainQuestions": 10,
+    "allTranscribedQuestionIds": [
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q1-i",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q1-ii",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q1-iii",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q1-iv",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q1-v",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q1-vi",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q1-vii",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q1-viii",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q1-ix",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q1-x",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q2",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q3-a",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q3-b",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q4-a",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q4-b",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q5-a-i",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q5-a-ii",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q5-b",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q6",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q7",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q8-a",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q8-b",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q9-a",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q9-b",
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q10"
+    ],
+    "questionIds": [
+      "necta-ftna-2025-biology-ee22e64d18597ebd-q10"
+    ],
+    "maximumMarks": 15,
+    "sourceMaximumMarks": 100,
+    "sourceInstructions": [
+      "This paper consists of sections A, B and C with a total of ten (10) questions.",
+      "Answer all questions in each section.",
+      "Section A carries fifteen (15) marks, section B seventy (70) marks and section C carries fifteen (15) marks.",
+      "All writing must be in blue or black ink except drawing which must be in pencil.",
+      "Communication devices and any unauthorised materials are not allowed in the assessment room.",
+      "Write your Assessment Number at the top right corner of every page."
+    ],
+    "sourceSectionHeaders": [
+      "SECTION A (15 Marks)",
+      "Answer all questions in this section.",
+      "SECTION B (70 Marks)",
+      "Answer all questions in this section.",
+      "SECTION C (15 Marks)",
+      "Answer question ten (10)."
+    ],
+    "timeAllowed": "2:30 Hours",
+    "excludedQuestions": [
+      {
+        "number": "1(i)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "1(ii)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "1(iii)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "1(iv)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "1(v)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "1(vi)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "1(vii)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "1(viii)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "1(ix)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "1(x)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "2",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "3(a)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "3(b)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "4(a)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "4(b)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "5(a)(i)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "5(a)(ii)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests. In addition, “Yeast” is a growth form spanning multiple fungal phyla; no species is stated. Preserve this uncertainty rather than silently inserting Saccharomyces into the question."
+      },
+      {
+        "number": "5(b)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "6",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "7",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "8(a)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "8(b)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "9(a)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+      },
+      {
+        "number": "9(b)",
+        "reason": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests. The source asks about all three hazards but prints only (i) Flammable and (ii) Toxic response sublabels; no third sublabel is visible."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q1-i",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-plant-gaseous-exchange"
+      ],
+      "subtopicIds": [
+        "biology-f2-plant-gaseous-exchange"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "1(i)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-1(i)",
+      "type": "mcq",
+      "instructions": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter in the box provided.",
+      "sharedContent": "",
+      "content": "Which respiratory surface is responsible for gaseous exchange in the tadpole?",
+      "options": [
+        "A Book lung",
+        "B Skin",
+        "C Gills",
+        "D Lungs"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-002.jpg",
+          "alt": "Unchanged original 2025 Biology source page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "C Gills",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Which respiratory surface is responsible for gaseous exchange in the tadpole?",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "independentAnswerExplanation": "Tadpoles use gills for aquatic gaseous exchange; skin can also contribute, but gills are the expected listed principal surface."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q1-ii",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-respiration-investigations"
+      ],
+      "subtopicIds": [
+        "biology-f2-respiration-investigations"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "1(ii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-1(ii)",
+      "type": "mcq",
+      "instructions": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter in the box provided.",
+      "sharedContent": "",
+      "content": "Which procedure in a scientific investigation involves a series of activities which are done to discover relationships or facts that may lead to the acceptance or rejection of a hypothesis?",
+      "options": [
+        "A Data interpretation",
+        "B Problem identification",
+        "C Data recording",
+        "D Experimentation"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-002.jpg",
+          "alt": "Unchanged original 2025 Biology source page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "D Experimentation",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Which procedure in a scientific investigation involves a series of activities which are done to discover relationships or facts that may lead to the acceptance or rejection of a hypothesis?",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "independentAnswerExplanation": "An experiment tests a hypothesis by planned activities and evidence."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q1-iii",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [],
+      "subtopicIds": [],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "1(iii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-1(iii)",
+      "type": "mcq",
+      "instructions": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter in the box provided.",
+      "sharedContent": "",
+      "content": "A person suffering from meningitis shows the following pair of symptoms:",
+      "options": [
+        "A Stiff neck and delirium",
+        "B Weight loss and stiff neck",
+        "C Diarrhoea and seizures",
+        "D Prolonged cough and fever"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-002.jpg",
+          "alt": "Unchanged original 2025 Biology source page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "A Stiff neck and delirium",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "A person suffering from meningitis shows the following pair of symptoms:",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "independentAnswerExplanation": "Stiff neck and altered mental state, including delirium, are recognised meningitis symptoms."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q1-iv",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-transport"
+      ],
+      "subtopicIds": [
+        "biology-f2-transport"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "1(iv)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-1(iv)",
+      "type": "mcq",
+      "instructions": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter in the box provided.",
+      "sharedContent": "",
+      "content": "Why is the cell wall important to a plant cell?",
+      "options": [
+        "A Controls activities of the cell",
+        "B Produces energy for the cell",
+        "C Protects and support the cell",
+        "D Absorbs sunlight energy"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-002.jpg",
+          "alt": "Unchanged original 2025 Biology source page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "C Protects and support the cell",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Why is the cell wall important to a plant cell?",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "independentAnswerExplanation": "A cell wall provides structural support and protection."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q1-v",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-food-transport-pulse-practicals"
+      ],
+      "subtopicIds": [
+        "biology-f2-food-transport-pulse-practicals"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "1(v)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-1(v)",
+      "type": "mcq",
+      "instructions": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter in the box provided.",
+      "sharedContent": "",
+      "content": "A Form Two student measured weight of different food substances and recorded the results as follows:\n1. Maize flour 10 kg\n2. A bag of beans 50 kg\n3. A bag of rice 5000 g\n4. Cassava flour 2000 g\nWhich one was the heaviest?",
+      "options": [
+        "A 4",
+        "B 2",
+        "C 1",
+        "D 3"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-002.jpg",
+          "alt": "Unchanged original 2025 Biology source page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "B 2",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "A Form Two student measured weight of different food substances and recorded the results as follows:\n1. Maize flour 10 kg\n2. A bag of beans 50 kg\n3. A bag of rice 5000 g\n4. Cassava flour 2000 g\nWhich one was the heaviest?",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "independentAnswerExplanation": "Convert to kg: maize 10, beans 50, rice 5, cassava 2. The beans listed as item 2 are heaviest."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q1-vi",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-transport"
+      ],
+      "subtopicIds": [
+        "biology-f2-transport"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "1(vi)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-1(vi)",
+      "type": "mcq",
+      "instructions": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter in the box provided.",
+      "sharedContent": "",
+      "content": "How would a person suffering from high blood pressure control the disorder?",
+      "options": [
+        "A Eating food with high levels of fats",
+        "B Engaging in regular physical exercises",
+        "C Taking a high salt diet and enough fibre",
+        "D Drinking alcohol and smoking cigarette"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-002.jpg",
+          "alt": "Unchanged original 2025 Biology source page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "B Engaging in regular physical exercises",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "How would a person suffering from high blood pressure control the disorder?",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "independentAnswerExplanation": "Regular suitable exercise can help control blood pressure; the other listed options increase relevant risks. Exercise should be appropriate to medical advice."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q1-vii",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-nutrition"
+      ],
+      "subtopicIds": [
+        "biology-f2-nutrition"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "1(vii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-1(vii)",
+      "type": "mcq",
+      "instructions": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter in the box provided.",
+      "sharedContent": "",
+      "content": "Which one would you recommend to prevent dental caries disease?",
+      "options": [
+        "A Limiting amounts of lipids and carbohydrates in the diet",
+        "B Taking antacids and eating very hot and cold foods",
+        "C Eating foods with fibres such as fruits and vegetables",
+        "D Brushing teeth regularly with recommended tooth paste"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-002.jpg",
+          "alt": "Unchanged original 2025 Biology source page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "D Brushing teeth regularly with recommended tooth paste",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Which one would you recommend to prevent dental caries disease?",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "independentAnswerExplanation": "Regular toothbrushing with recommended fluoride toothpaste removes plaque and helps prevent dental caries."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q1-viii",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [],
+      "subtopicIds": [],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "1(viii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-1(viii)",
+      "type": "mcq",
+      "instructions": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter in the box provided.",
+      "sharedContent": "",
+      "content": "The following are communicable disease:\n(i) Bilharzia, malaria and tuberculosis\n(ii) Tuberculosis, cholera and gonorrhoea\n(iii) Common cold, HIV/AIDS and cholera\n(iv) Syphilis, gonorrhoea and typhoid\nWhich sets of diseases are caused by bacteria?",
+      "options": [
+        "A (iii) and (iv)",
+        "B (i) and (ii)",
+        "C (i) and (iv)",
+        "D (ii) and (iv)"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-003.jpg",
+          "alt": "Unchanged original 2025 Biology source page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "D (ii) and (iv)",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "The following are communicable disease:\n(i) Bilharzia, malaria and tuberculosis\n(ii) Tuberculosis, cholera and gonorrhoea\n(iii) Common cold, HIV/AIDS and cholera\n(iv) Syphilis, gonorrhoea and typhoid\nWhich sets of diseases are caused by bacteria?",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "independentAnswerExplanation": "All conditions in sets (ii) and (iv) are bacterial. Bilharzia/malaria are parasitic; common cold and HIV are viral."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q1-ix",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-transport"
+      ],
+      "subtopicIds": [
+        "biology-f2-transport"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "1(ix)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-1(ix)",
+      "type": "mcq",
+      "instructions": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter in the box provided.",
+      "sharedContent": "",
+      "content": "How do arteries differ from veins?",
+      "options": [
+        "A Arteries have valves at regular intervals while veins lack valves",
+        "B Arteries have thin walls while veins have thick muscular walls",
+        "C Arteries carry carbondioxide gas while veins carry oxygen gas",
+        "D Arteries have narrow lumens while veins have wide lumens"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-003.jpg",
+          "alt": "Unchanged original 2025 Biology source page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "D Arteries have narrow lumens while veins have wide lumens",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "How do arteries differ from veins?",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "independentAnswerExplanation": "Compared with corresponding veins, arteries have thicker walls and relatively narrower lumens; systemic gas-content generalisations have pulmonary exceptions."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q1-x",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-01"
+      ],
+      "subtopicIds": [
+        "biology-f2-01"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "1(x)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-1(x)",
+      "type": "mcq",
+      "instructions": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter in the box provided.",
+      "sharedContent": "",
+      "content": "Which food chain depicts the correct flow of energy in the ecosystem?",
+      "options": [
+        "A Grasses → Bacteria → Antelope → Leopard",
+        "B Grasses → Leopard → Antelope → Bacteria",
+        "C Grasses → Antelope → Leopard → Bacteria",
+        "D Leopard → Antelope → Bacteria → Grasses"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-003.jpg",
+          "alt": "Unchanged original 2025 Biology source page 3.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "C Grasses → Antelope → Leopard → Bacteria",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Which food chain depicts the correct flow of energy in the ecosystem?",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "independentAnswerExplanation": "Energy passes from grasses to antelope to leopard, then decomposers obtain energy from dead material. The original arrow figure is preserved on source page 3."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q2",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-nutrition"
+      ],
+      "subtopicIds": [
+        "biology-f2-nutrition"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-2",
+      "type": "matching",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Match the functions of the parts of the human digestive system in List A with the corresponding parts in List B by writing the letter of the correct response below the item number in a table provided.",
+      "options": [
+        "A Stomach",
+        "B Duodenum",
+        "C Colon",
+        "D Oesophagus",
+        "E Pharynx",
+        "F Ileum",
+        "G Mouth",
+        "H Rectum"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-003.jpg",
+          "alt": "Unchanged original 2025 Biology source page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": {
+        "i": "F Ileum",
+        "ii": "G Mouth",
+        "iii": "H Rectum",
+        "iv": "A Stomach",
+        "v": "D Oesophagus"
+      },
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Match the functions of the parts of the human digestive system in List A with the corresponding parts in List B by writing the letter of the correct response below the item number in a table provided.",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "table": [
+        [
+          "List A",
+          "List B"
+        ],
+        [
+          "(i) Allows absorption of the end products of digestion into the blood.",
+          "A Stomach"
+        ],
+        [
+          "(ii) Allows food within it to be broken down into small particles by teeth.",
+          "B Duodenum"
+        ],
+        [
+          "(iii) Stores undigested and indigested food temporarily.",
+          "C Colon"
+        ],
+        [
+          "(iv) Stores food temporarily before further digestion.",
+          "D Oesophagus"
+        ],
+        [
+          "(v) Allows food to pass into the stomach by a series of wave like-muscular contractions.",
+          "E Pharynx"
+        ],
+        [
+          "",
+          "F Ileum"
+        ],
+        [
+          "",
+          "G Mouth"
+        ],
+        [
+          "",
+          "H Rectum"
+        ]
+      ],
+      "pairs": [
+        {
+          "id": "i",
+          "left": "(i) Allows absorption of the end products of digestion into the blood."
+        },
+        {
+          "id": "ii",
+          "left": "(ii) Allows food within it to be broken down into small particles by teeth."
+        },
+        {
+          "id": "iii",
+          "left": "(iii) Stores undigested and indigested food temporarily."
+        },
+        {
+          "id": "iv",
+          "left": "(iv) Stores food temporarily before further digestion."
+        },
+        {
+          "id": "v",
+          "left": "(v) Allows food to pass into the stomach by a series of wave like-muscular contractions."
+        }
+      ],
+      "answerablePartCount": 5
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q3-a",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [],
+      "subtopicIds": [],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "3(a)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-3(a)",
+      "type": "short-answer",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Briefly explain three proper ways of waste disposal in the environment.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-004.jpg",
+          "alt": "Unchanged original 2025 Biology source page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "Examples: separate suitable organic waste and compost it under managed conditions; send recyclable materials for proper recycling; dispose of remaining waste in a properly engineered sanitary landfill, with controlled treatment of hazardous waste. Other environmentally appropriate and justified methods may be accepted.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Briefly explain three proper ways of waste disposal in the environment.",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q3-b",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [],
+      "subtopicIds": [],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "3(b)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-3(b)",
+      "type": "short-answer",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Outline four effects of poor waste disposal.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-004.jpg",
+          "alt": "Unchanged original 2025 Biology source page 4.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-005.jpg",
+          "alt": "Unchanged original 2025 Biology source page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "Examples: contamination of water or soil; breeding of disease vectors and spread of infections; blocked drains and flooding; air pollution or offensive odours. Give four distinct effects.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        4,
+        5
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Outline four effects of poor waste disposal.",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q4-a",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-transport"
+      ],
+      "subtopicIds": [
+        "biology-f2-transport"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "4(a)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-4",
+      "type": "short-answer",
+      "instructions": "A student took a half cut piece of peeled raw Irish potato and made a shallow hole on it. He placed it in a beaker that contained water which did not cover the potato. Then he put 1 ml of sugar solution in a hole. After 30 minutes the volume of water on the potato hole increased.",
+      "sharedContent": "",
+      "content": "What was the process being investigated?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-005.jpg",
+          "alt": "Unchanged original 2025 Biology source page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "Osmosis. Water moves through selectively permeable membranes of the potato tissue from the surrounding dilute solution toward the more concentrated sugar solution.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "What was the process being investigated?",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q4-b",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-transport"
+      ],
+      "subtopicIds": [
+        "biology-f2-transport"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "4(b)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-4",
+      "type": "short-answer",
+      "instructions": "A student took a half cut piece of peeled raw Irish potato and made a shallow hole on it. He placed it in a beaker that contained water which did not cover the potato. Then he put 1 ml of sugar solution in a hole. After 30 minutes the volume of water on the potato hole increased.",
+      "sharedContent": "",
+      "content": "How is the process identified in 4(a) important to living organisms? Give four points.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-005.jpg",
+          "alt": "Unchanged original 2025 Biology source page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "Osmosis enables water uptake by root hair cells; movement of water from cell to cell in plants; maintenance of turgor for support in herbaceous tissues; and changes in guard-cell turgor that control stomatal opening. Other accurate distinct biological roles may be accepted.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "How is the process identified in 4(a) important to living organisms? Give four points.",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q5-a-i",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [],
+      "subtopicIds": [],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "5(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-5(a)(i)",
+      "type": "short-answer",
+      "instructions": "Classify the following organisms from Kingdom to Phylum/Division level.",
+      "sharedContent": "",
+      "content": "Moss",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-006.jpg",
+          "alt": "Unchanged original 2025 Biology source page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "Kingdom Plantae; Division Bryophyta in the conventional school classification.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Moss",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q5-a-ii",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [],
+      "subtopicIds": [],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "5(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-5(a)(ii)",
+      "type": "short-answer",
+      "instructions": "Classify the following organisms from Kingdom to Phylum/Division level.",
+      "sharedContent": "",
+      "content": "Yeast",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-006.jpg",
+          "alt": "Unchanged original 2025 Biology source page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "For the usual school example, baker’s yeast (Saccharomyces): Kingdom Fungi; Phylum/Division Ascomycota. Yeasts are not a single taxonomic group; some belong to Basidiomycota, so species clarification is required for a unique modern classification.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Yeast",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests. In addition, “Yeast” is a growth form spanning multiple fungal phyla; no species is stated. Preserve this uncertainty rather than silently inserting Saccharomyces into the question."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q5-b",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [],
+      "subtopicIds": [],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "5(b)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-5(b)",
+      "type": "short-answer",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Why is classification an important process? Give three reasons.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-006.jpg",
+          "alt": "Unchanged original 2025 Biology source page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "Classification organises organism diversity to make study and identification easier; provides shared groups and names for communication; and reveals similarities, differences and relationships among organisms.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Why is classification an important process? Give three reasons.",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q6",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-mammal-ventilation-exchange"
+      ],
+      "subtopicIds": [
+        "biology-f2-mammal-ventilation-exchange"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "6",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-6",
+      "type": "short-answer",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Describe the mechanism of taking air into the human lungs.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-007.jpg",
+          "alt": "Unchanged original 2025 Biology source page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "During inhalation, the external intercostal muscles contract, lifting the ribs and sternum upwards and outwards. The diaphragm contracts and flattens downward. Thoracic volume increases and the lungs expand with the thoracic wall. Intrapulmonary pressure falls below atmospheric pressure, so air flows through the airways into the lungs. These linked actions explain inspiration rather than gaseous diffusion across the alveolar wall.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        7
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Describe the mechanism of taking air into the human lungs.",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q7",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [],
+      "subtopicIds": [],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "7",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-7",
+      "type": "short-answer",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Briefly explain five ways of transmitting Human Immunodeficiency Virus (HIV).",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-007.jpg",
+          "alt": "Unchanged original 2025 Biology source page 7.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-008.jpg",
+          "alt": "Unchanged original 2025 Biology source page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "Examples of five exposure routes: unprotected vaginal or anal sexual contact with an infected person; transfusion of infected unscreened blood; sharing contaminated injection needles or syringes; unsafe piercing, tattooing or cutting with instruments contaminated by infected blood; and transmission from an infected parent to a child during pregnancy, childbirth or breastfeeding. HIV is not transmitted by ordinary touching, sharing food, or mosquito bites.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        7,
+        8
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Briefly explain five ways of transmitting Human Immunodeficiency Virus (HIV).",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q8-a",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-food-transport-pulse-practicals"
+      ],
+      "subtopicIds": [
+        "biology-f2-food-transport-pulse-practicals"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "8(a)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-8",
+      "type": "short-answer",
+      "instructions": "Form Two students were provided with Irish potato, knife, mortar and pestle, sieve, test tube, water, dropper and iodine solution to carry out food test experiment.",
+      "sharedContent": "",
+      "content": "Outline four steps they will follow to prepare food solution.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-008.jpg",
+          "alt": "Unchanged original 2025 Biology source page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "Cut a small piece of potato into small pieces; crush/grind it with a mortar and pestle; add a little water and mix thoroughly; strain the mixture through the sieve into a clean test tube to obtain the food extract. Iodine is used for the test after extract preparation, not as the extraction solvent.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        8
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Outline four steps they will follow to prepare food solution.",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q8-b",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-food-transport-pulse-practicals"
+      ],
+      "subtopicIds": [
+        "biology-f2-food-transport-pulse-practicals"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "8(b)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-8",
+      "type": "short-answer",
+      "instructions": "Form Two students were provided with Irish potato, knife, mortar and pestle, sieve, test tube, water, dropper and iodine solution to carry out food test experiment.",
+      "sharedContent": "",
+      "content": "Write an experimental report to confirm the presence of a starch in the solution prepared in (a). Present your report in the following table:",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-008.jpg",
+          "alt": "Unchanged original 2025 Biology source page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "Food Tested: Irish potato food extract. Procedure: add a few drops of iodine solution to a small sample of the extract in a clean test tube. Observation: colour changes from yellow-brown iodine to blue-black. Inference: starch is present.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        8
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Write an experimental report to confirm the presence of a starch in the solution prepared in (a). Present your report in the following table:",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "table": [
+        [
+          "Food Tested",
+          "Procedure",
+          "Observation",
+          "Inference"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q9-a",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [],
+      "subtopicIds": [],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "9(a)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-9(a)",
+      "type": "short-answer",
+      "instructions": "You have entered the biology laboratory and found three chemical containers on the table labelled: Flammable, Toxic and Corrosive respectively.",
+      "sharedContent": "",
+      "content": "Draw the warnings signs that represent the labels.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-009.jpg",
+          "alt": "Unchanged original 2025 Biology source page 9.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "Flammable: a flame symbol. Toxic: a skull and crossbones symbol. Corrosive: liquid from test tubes eating into a hand and a metal surface. A clear recognised warning pictogram should communicate each stated hazard; original blank labelled boxes are preserved on source page 9.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        9
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Draw the warnings signs that represent the labels.",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests.",
+      "table": [
+        [
+          "Flammable",
+          "Toxic"
+        ],
+        [
+          "Corrosive",
+          ""
+        ]
+      ]
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q9-b",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [],
+      "subtopicIds": [],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "9(b)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-9(b)",
+      "type": "short-answer",
+      "instructions": "You have entered the biology laboratory and found three chemical containers on the table labelled: Flammable, Toxic and Corrosive respectively.",
+      "sharedContent": "",
+      "content": "Why are flammable, toxic and corrosive chemicals dangerous to human beings?\n(i) Flammable\n(ii) Toxic",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-009.jpg",
+          "alt": "Unchanged original 2025 Biology source page 9.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-010.jpg",
+          "alt": "Unchanged original 2025 Biology source page 10.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "marksProvenance": "Not verified: source gives section totals only, without explicit individual-question or item allocations.",
+      "markIncrementProvenance": "Unverified; no scoring permitted.",
+      "answerKey": "Flammable chemicals ignite readily and can cause fire and burns. Toxic chemicals can poison people through inhalation, ingestion or absorption. Corrosive chemicals can destroy tissue, causing severe skin or eye burns. The original stem asks about all three, although it prints only Flammable and Toxic answer sublabels; the missing Corrosive sublabel is not invented in the transcription.",
+      "markingGuide": "Independent educational solution only. This question is excluded from scored tests until its actual mark allocation is verified.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        9,
+        10
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceContent": "Why are flammable, toxic and corrosive chemicals dangerous to human beings?\n(i) Flammable\n(ii) Toxic",
+      "curriculumCompatibilityNote": "Legacy source question; topic mapping remains incomplete where no compatible published Form Two lesson is listed.",
+      "sourceIssue": "Individual/item marks are not printed or otherwise verified. Section totals cannot establish a unique allocation; retained fully transcribed outside scored tests. The source asks about all three hazards but prints only (i) Flammable and (ii) Toxic response sublabels; no third sublabel is visible."
+    },
+    {
+      "id": "necta-ftna-2025-biology-ee22e64d18597ebd-q10",
+      "paperId": "necta-ftna-2025-biology-ee22e64d18597ebd",
+      "form": 2,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f2-01",
+        "biology-f2-nutrition"
+      ],
+      "subtopicIds": [
+        "biology-f2-01",
+        "biology-f2-nutrition"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Biology • complete transcription; verified scored selection",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible topic mapping or prerequisite scope identified separately",
+      "questionNumber": "10",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-biology-ee22e64d18597ebd-10",
+      "type": "essay",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "In six points, support the statement that “Bacteria are important organisms to human being.”",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-010.jpg",
+          "alt": "Unchanged original 2025 Biology source page 10.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-ee22e64d18597ebd/page-011.jpg",
+          "alt": "Unchanged original 2025 Biology source page 11.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 15,
+      "markIncrement": 1,
+      "marksProvenance": "Source cover page 1 gives Section C 15 marks; page 10 shows Question 10 is its only question.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment rubric within the verified 15-mark question maximum; not an official NECTA subpart scheme.",
+      "answerKey": "Six beneficial roles include decomposition and nutrient recycling; nitrogen fixation that improves soil fertility; fermentation in food production such as yoghurt; useful gut bacteria that assist normal intestinal function and synthesise some vitamins; treatment of sewage and biodegradation of suitable wastes; and production of useful medicines or biotechnology products such as insulin by engineered bacteria. Explain each role and its benefit to people rather than merely naming bacteria.",
+      "markingGuide": "Verified source maximum: 15 marks because Question 10 is the only Section C question. Independently prepared self-assessment allocation, not official NECTA marking: 1 mark for a relevant introduction identifying bacteria as microorganisms with useful roles; 2 marks for each of six distinct explained beneficial roles (1 for the valid role and 1 for a clear explanation/example, maximum 12); 1 mark for coherent organisation; 1 mark for a relevant concluding statement. Accept other scientifically valid explained roles; do not count one role twice.",
+      "solutionProvenance": "Independently prepared and biology-checked SomaSmart solution; no official or source-provided marking scheme is available or claimed.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-ee22e64d18597ebd/original.pdf",
+      "sourcePages": [
+        10,
+        11
+      ],
+      "sourceSha256": "ee22e64d18597ebd2b2ceb2a97cabd573b1d9612e00fa962a0429acc479b529b",
+      "sourceDocumentId": "source-ee22e64d18597ebd",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eleven original source pages visually inspected. Printed wording, full stems/options, labels, tables and question relationships preserved; original pages are authoritative.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceContent": "In six points, support the statement that “Bacteria are important organisms to human being.”",
+      "curriculumCompatibilityNote": "Compatible ecosystem/nutrition applications of microorganisms; the legacy paper is not a claim of current full syllabus coverage.",
+      "workedSolution": "Bacteria are microscopic organisms, many of which benefit humans. (1) Decomposing bacteria break down dead material and return mineral nutrients to ecosystems. (2) Nitrogen-fixing bacteria, such as those associated with legume root nodules, convert atmospheric nitrogen into compounds plants can use, supporting farming. (3) Lactic-acid bacteria ferment milk to make yoghurt and other foods. (4) Normal intestinal bacteria contribute to intestinal function and produce some vitamins, although bacterial roles and health effects vary. (5) Suitable bacteria break down organic matter during sewage treatment and can help degrade pollutants. (6) Bacteria are used in biotechnology to manufacture useful products, including insulin from genetically engineered strains. These examples show how bacterial activities support food production, health, industry and environmental management. This is an independent model answer, not a recovered official marking scheme."
+    }
+  ],
+  "verificationNotes": [
+    "All eleven pages of the original source were visually inspected. Page 11 is continuation answer space only. Assessment-number lines, assessor boxes, answer boxes and ruled response lines remain in the complete source pages; question wording, choices, matching data, full shared experimental stems and report-table headers are transcribed.",
+    "No associated answer guide is available for this source. All model answers and rubrics are independently prepared, with no official NECTA solution provenance asserted.",
+    "The cover gives section totals A15/B70/C15 only. The ten MCQs and five matching items do not explicitly state per-item marks; Section B does not explicitly say each main question carries 10. No equal allocation is invented. All A/B questions therefore remain draft pending actual mark evidence.",
+    "Question 10 is the only Section C question, so its maximum 15 is verified directly. Only the internal rubric is independently prepared, clearly labelled.",
+    "The printed spelling/grammar, such as carbondioxide, indigested, a starch, warnings signs and human being, is retained. Scientific explanations in answers do not replace or edit question wording.",
+    "Question 1(x) arrow options are transcribed with the same organism order and rightward arrows; the complete original figure is also shown. Q8 report headers and Q9 blank labelled pictogram boxes are preserved, with complete original pages available.",
+    "The source Question 9(b) asks about three chemicals but prints response sublabels only for Flammable and Toxic. The missing third response label is not silently added.",
+    "The generic source word Yeast does not state species. A conventional Saccharomyces classification is explained conditionally; the wider modern taxonomic ambiguity remains recorded, not hidden.",
+    "Published Q10 is compatible with existing ecosystem/nutrition lessons through nutrient recycling, fermentation and bacterial roles. Draft legacy questions with no compatible published Form Two chapter have empty mapping rather than fabricated current-curriculum coverage."
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "questions": [
+    {
+      "id": "physics-f2-mechanics-revision-wb1",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Original supplemental prerequisite practice; not an official new Form Two subtopic",
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "Original SomaSmart practice, not a past-examination question. Show your working and units.",
+      "content": "A crate exerts a downward force of 360 N on a level floor. Its contact area is 0.12 m². Calculate the pressure on the floor, then calculate the pressure if the same crate is turned onto a face of area 0.08 m². Explain the change.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "answerKey": "P₁=F/A₁=360/0.12=3000 Pa. P₂=360/0.08=4500 Pa. With the force unchanged, decreasing contact area increases pressure.",
+      "markingGuide": "Independent SomaSmart rubric. Award 1 for 3000 Pa, 1 for 4500 Pa, and 1 for explaining the inverse area relationship at fixed force. Accept equivalent correct working.",
+      "solutionProvenance": "SomaSmart independently authored and calculation-checked original practice.",
+      "sourceReference": "Original supplemental revision workbook activity",
+      "rightsStatus": "original",
+      "verificationStatus": "original-authored",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "physics-f2-mechanics-revision-wb2",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Original supplemental prerequisite practice; not an official new Form Two subtopic",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "Original SomaSmart practice, not a past-examination question. Show your working and units.",
+      "content": "A machine raises a load of 720 N using an effort of 180 N. Its velocity ratio is 5. Find its actual mechanical advantage and efficiency. Explain why multiplying the actual mechanical advantage by the efficiency again would be incorrect.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "answerKey": "MA=load/effort=720/180=4. Efficiency=MA/VR=4/5=0.80=80%. Actual MA already describes the measured load-to-effort ratio; applying efficiency to it again would double-count losses.",
+      "markingGuide": "Independent SomaSmart rubric. Award 1 for MA=4, 1 for efficiency 80%, and 1 for a correct explanation distinguishing actual MA from velocity ratio. Do not accept MA=3.2 as the measured mechanical advantage.",
+      "solutionProvenance": "SomaSmart independently authored and calculation-checked original practice.",
+      "sourceReference": "Original supplemental revision workbook activity",
+      "rightsStatus": "original",
+      "verificationStatus": "original-authored",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "physics-f2-mechanics-revision-wb3",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Original supplemental prerequisite practice; not an official new Form Two subtopic",
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "Original SomaSmart practice, not a past-examination question. Show your working and units.",
+      "content": "A 60 kg platform accelerates vertically upward at 0.5 m/s². Take g=10 m/s². Calculate its weight and the upward cable tension. A cable is rated for 650 N. State whether the calculated tension is within that rating.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "answerKey": "Weight=mg=60×10=600 N. T−mg=ma, so T=60(10+0.5)=630 N. This is 20 N below 650 N and is within the stated rating for this idealised calculation; no unstated safety factor is assumed.",
+      "markingGuide": "Independent SomaSmart rubric. Award 1 for weight 600 N, 1 for tension 630 N with a valid force relation, and 1 for comparing 630 N with 650 N correctly.",
+      "solutionProvenance": "SomaSmart independently authored and calculation-checked original practice.",
+      "sourceReference": "Original supplemental revision workbook activity",
+      "rightsStatus": "original",
+      "verificationStatus": "original-authored",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "physics-f2-measurement-thermal-revision-wb1",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Original supplemental prerequisite practice; not an official new Form Two subtopic",
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "Original SomaSmart practice, not a past-examination question. Show your working and units.",
+      "content": "A micrometer has a main-scale reading of 4.00 mm and a thimble reading of 27 divisions. Each thimble division is 0.01 mm. When its jaws are closed it reads +0.02 mm. Find the indicated reading and the zero-corrected diameter.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "answerKey": "Thimble contribution=27×0.01=0.27 mm. Indicated reading=4.00+0.27=4.27 mm. The positive zero error must be subtracted: corrected diameter=4.27−0.02=4.25 mm.",
+      "markingGuide": "Independent SomaSmart rubric. Award 1 for thimble contribution 0.27 mm, 1 for indicated reading 4.27 mm, and 1 for corrected diameter 4.25 mm with the correct correction sign.",
+      "solutionProvenance": "SomaSmart independently authored and calculation-checked original practice.",
+      "sourceReference": "Original supplemental revision workbook activity",
+      "rightsStatus": "original",
+      "verificationStatus": "original-authored",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "physics-f2-measurement-thermal-revision-wb2",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Original supplemental prerequisite practice; not an official new Form Two subtopic",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "Original SomaSmart practice, not a past-examination question. Show your working and units.",
+      "content": "A Eureka can is filled until water drains from its spout. A student immediately places a measuring cylinder beneath the still-dripping spout, then fully submerges a non-absorbing metal object. The collected volume is 48 mL. Explain why 48 mL may overestimate the object’s volume and describe how to repeat the measurement reliably.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "answerKey": "Some of the 48 mL may be excess water that was already draining before the object entered, so it need not all be displaced by the object. Let the filled can drain until dripping stops at the spout level; place an empty measuring cylinder beneath the spout; gently immerse the object completely without trapped air and collect all overflow. Read its volume at eye level.",
+      "markingGuide": "Independent SomaSmart rubric. Award 1 for identifying the pre-existing drainage as extra collected water, 1 for waiting until dripping stops before placing the empty collector, and 1 for complete immersion, full collection and a valid volume reading.",
+      "solutionProvenance": "SomaSmart independently authored and calculation-checked original practice.",
+      "sourceReference": "Original supplemental revision workbook activity",
+      "rightsStatus": "original",
+      "verificationStatus": "original-authored",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "physics-f2-measurement-thermal-revision-wb3",
+      "paperId": null,
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original prerequisite revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "Original supplemental prerequisite practice; not an official new Form Two subtopic",
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "calculation",
+      "instructions": "Original SomaSmart practice, not a past-examination question. Show your working and units.",
+      "content": "An object has a mass of 0.25 kg and a velocity of 8 m/s. Calculate its momentum. State the SI units of mass and momentum and explain why they are different.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "answerKey": "Momentum p=mv=0.25×8=2 kg m/s. Mass has SI unit kg. Momentum has SI unit kg m/s because it is mass multiplied by velocity, whose unit is m/s.",
+      "markingGuide": "Independent SomaSmart rubric. Award 1 for momentum 2 kg m/s, 1 for distinguishing kg from kg m/s, and 1 for explaining the mass-times-velocity unit combination.",
+      "solutionProvenance": "SomaSmart independently authored and calculation-checked original practice.",
+      "sourceReference": "Original supplemental revision workbook activity",
+      "rightsStatus": "original",
+      "verificationStatus": "original-authored",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    }
+  ]
+}

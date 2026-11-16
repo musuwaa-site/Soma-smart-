@@ -19,12 +19,11 @@ test("18 form-subject combinations have usable learning and practice", () => {
       assert(eligible(data, { subjectId: s.id, form }).length >= 6);
     }
 });
-test("authentic filter never includes originals", () =>
-  assert.equal(
-    eligible(data, { form: 1, subjectId: "chemistry", source: "authentic" })
-      .length,
-    0,
-  ));
+test("authentic filter never includes originals", () => {
+  const genuine = eligible(data, { form: 1, subjectId: "chemistry", source: "authentic" });
+  assert(genuine.length > 0);
+  assert(genuine.every(q => q.sourceType !== "original" && q.verificationStatus === "verified"));
+});
 test("deterministic selection has no repeated ids", () => {
   const a = generate(data.questions, 10, 42);
   assert.deepEqual(a, generate(data.questions, 10, 42));

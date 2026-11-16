@@ -1,0 +1,2064 @@
+{
+  "paper": {
+    "id": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+    "title": "Mkalama District Council • Form One Geography • May 2025 • scored selection",
+    "form": 1,
+    "subjectId": "geography",
+    "sourceType": "district",
+    "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+    "year": 2025,
+    "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+    "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+    "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+    "sourceDocumentId": "source-c20befea88f5eb2c",
+    "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+    "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "verificationScope": "Complete source question transcription; only the listed scored selection has resolved scoring. Source guide errors and source wording are recorded separately.",
+    "publicationStatus": "published",
+    "publicationScope": "selected-questions",
+    "completePaper": false,
+    "completeTranscription": true,
+    "sourceMainQuestionCount": 10,
+    "sourceAnswerableParts": 31,
+    "questionIds": [
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q2",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q3-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q3-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q5-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q5-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q6-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q6-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q7-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q7-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q7-c",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q8-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q8-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q9-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q9-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q10"
+    ],
+    "allQuestionIds": [
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-i",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-ii",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-iii",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-iv",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-v",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-vi",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-vii",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-viii",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-ix",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-x",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q2",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q3-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q3-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q5-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q5-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q6-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q6-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q7-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q7-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q7-c",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q8-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q8-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q9-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q9-b",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q10"
+    ],
+    "heldQuestionIds": [
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-i",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-ii",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-iii",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-iv",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-v",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-vi",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-vii",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-viii",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-ix",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-x",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-a",
+      "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-b"
+    ],
+    "maximumMarks": 80.0,
+    "sourceMaximumMarks": 100,
+    "sourceInstructions": [
+      "This paper consists three sections A, B and C with total of ten quations",
+      "Answer all questions from each section",
+      "All writings must be in blue or black ink, use pencil in drawings"
+    ],
+    "sourceSections": [
+      {
+        "label": "SECTION A (15 Marks)",
+        "instructions": "Answer all questions in this section"
+      },
+      {
+        "label": "SECTION B (70 Marks)",
+        "instructions": "Answer all questions in this section"
+      },
+      {
+        "label": "SECTION C (15marks)"
+      }
+    ],
+    "sourceHeading": "MKALAMA DISTRICT COUNCIL - SINGIDA\nFORM ONE–TERMINAL EXAMINATION\nGEOGRAPHY\nTime: 2:30 Hours\nMay, 2025",
+    "excludedQuestions": [
+      {
+        "number": "1",
+        "reason": "The source guide prints “10Marks @ 2 = 10 marks.” while Section A is 15 and matching is 5. The implied one-mark MCQs conflict with the printed @2; per-item scored allocation is held pending source correction. Original question text is unchanged."
+      },
+      {
+        "number": "4",
+        "reason": "Five requested benefits conflict with four-mark/four-benefit source guide; linked question held."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-i",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-1",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "1(i)",
+      "type": "mcq",
+      "instructions": "Answer all questions from each section",
+      "content": "The study of the interrelationship between human beings and the environment over time and space",
+      "sharedContent": "For each of the following items  (I-X) choose the most correct answer from the given alternatives and write its letter in the box provided",
+      "options": [
+        "A. Geography",
+        "B. Solar system",
+        "C. Agriculture",
+        "D. Solar power"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-001.jpg",
+          "alt": "Unchanged original examination page 1, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A. Geography",
+      "markingGuide": "",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        1
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The source guide prints “10Marks @ 2 = 10 marks.” while Section A is 15 and matching is 5. The implied one-mark MCQs conflict with the printed @2; per-item scored allocation is held pending source correction. Original question text is unchanged.",
+      "scoringEligible": false,
+      "sourceMarkText": "10Marks @ 2 = 10 marks.",
+      "sourceAnswerLetter": "A",
+      "mainQuestionNumber": "1"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-ii",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-1",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "1(ii)",
+      "type": "mcq",
+      "instructions": "Answer all questions from each section",
+      "content": ".................................................is the biggest planet in the solar system",
+      "sharedContent": "For each of the following items  (I-X) choose the most correct answer from the given alternatives and write its letter in the box provided",
+      "options": [
+        "A. Earth",
+        "B. Saturn",
+        "C. Jupiter",
+        "D. Uranus"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-001.jpg",
+          "alt": "Unchanged original examination page 1, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "C. Jupiter",
+      "markingGuide": "",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        1
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The source guide prints “10Marks @ 2 = 10 marks.” while Section A is 15 and matching is 5. The implied one-mark MCQs conflict with the printed @2; per-item scored allocation is held pending source correction. Original question text is unchanged.",
+      "scoringEligible": false,
+      "sourceMarkText": "10Marks @ 2 = 10 marks.",
+      "sourceAnswerLetter": "C",
+      "mainQuestionNumber": "1"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-iii",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-1",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "1(iii)",
+      "type": "mcq",
+      "instructions": "Answer all questions from each section",
+      "content": "The main source of heat and light in the solar system is ……………………..",
+      "sharedContent": "For each of the following items  (I-X) choose the most correct answer from the given alternatives and write its letter in the box provided",
+      "options": [
+        "A. The sun",
+        "B. The moon",
+        "C. The planet",
+        "D. Electricity"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-001.jpg",
+          "alt": "Unchanged original examination page 1, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A. The sun",
+      "markingGuide": "",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        1
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The source guide prints “10Marks @ 2 = 10 marks.” while Section A is 15 and matching is 5. The implied one-mark MCQs conflict with the printed @2; per-item scored allocation is held pending source correction. Original question text is unchanged.",
+      "scoringEligible": false,
+      "sourceMarkText": "10Marks @ 2 = 10 marks.",
+      "sourceAnswerLetter": "A",
+      "mainQuestionNumber": "1"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-iv",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-1",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "1(iv)",
+      "type": "mcq",
+      "instructions": "Answer all questions from each section",
+      "content": "The path used by the Earth and other planets when going around the sun is known as",
+      "sharedContent": "For each of the following items  (I-X) choose the most correct answer from the given alternatives and write its letter in the box provided",
+      "options": [
+        "A. Revolution",
+        "B. Rotation",
+        "C. Axis",
+        "D. Orbit"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-001.jpg",
+          "alt": "Unchanged original examination page 1, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "D. Orbit",
+      "markingGuide": "",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        1
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The source guide prints “10Marks @ 2 = 10 marks.” while Section A is 15 and matching is 5. The implied one-mark MCQs conflict with the printed @2; per-item scored allocation is held pending source correction. Original question text is unchanged.",
+      "scoringEligible": false,
+      "sourceMarkText": "10Marks @ 2 = 10 marks.",
+      "sourceAnswerLetter": "D",
+      "mainQuestionNumber": "1"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-v",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-1",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "1(v)",
+      "type": "mcq",
+      "instructions": "Answer all questions from each section",
+      "content": "Places on the East of Greenwich experience sunrise before places on West because the Earth ………….",
+      "sharedContent": "For each of the following items  (I-X) choose the most correct answer from the given alternatives and write its letter in the box provided",
+      "options": [
+        "A. Rotate from West to East",
+        "B. Revolution around the Earth",
+        "C. Rotates from East to West",
+        "D. Rotates from south to north"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-001.jpg",
+          "alt": "Unchanged original examination page 1, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A. Rotate from West to East",
+      "markingGuide": "",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        1
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The source guide prints “10Marks @ 2 = 10 marks.” while Section A is 15 and matching is 5. The implied one-mark MCQs conflict with the printed @2; per-item scored allocation is held pending source correction. Original question text is unchanged.",
+      "scoringEligible": false,
+      "sourceMarkText": "10Marks @ 2 = 10 marks.",
+      "sourceAnswerLetter": "A",
+      "mainQuestionNumber": "1"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-vi",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-1",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "1(vi)",
+      "type": "mcq",
+      "instructions": "Answer all questions from each section",
+      "content": "Spinning of a body on its own axis is known as ………………",
+      "sharedContent": "For each of the following items  (I-X) choose the most correct answer from the given alternatives and write its letter in the box provided",
+      "options": [
+        "A. Revolution",
+        "B. Tilting",
+        "C. Rotation",
+        "D. Axis"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-001.jpg",
+          "alt": "Unchanged original examination page 1, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "C. Rotation",
+      "markingGuide": "",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        1
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The source guide prints “10Marks @ 2 = 10 marks.” while Section A is 15 and matching is 5. The implied one-mark MCQs conflict with the printed @2; per-item scored allocation is held pending source correction. Original question text is unchanged.",
+      "scoringEligible": false,
+      "sourceMarkText": "10Marks @ 2 = 10 marks.",
+      "sourceAnswerLetter": "C",
+      "mainQuestionNumber": "1"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-vii",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-1",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "1(vii)",
+      "type": "mcq",
+      "instructions": "Answer all questions from each section",
+      "content": "If the time recorded in Accra 0° was 05:00 pm, what will be the time at Bujumbura 30° east?",
+      "sharedContent": "For each of the following items  (I-X) choose the most correct answer from the given alternatives and write its letter in the box provided",
+      "options": [
+        "A. 7:00 PM",
+        "B. 07:00 AM",
+        "C. 02:00 PM",
+        "D. 02:00 AM"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-001.jpg",
+          "alt": "Unchanged original examination page 1, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A. 7:00 PM",
+      "markingGuide": "",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        1
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The source guide prints “10Marks @ 2 = 10 marks.” while Section A is 15 and matching is 5. The implied one-mark MCQs conflict with the printed @2; per-item scored allocation is held pending source correction. Original question text is unchanged.",
+      "scoringEligible": false,
+      "sourceMarkText": "10Marks @ 2 = 10 marks.",
+      "sourceAnswerLetter": "A",
+      "mainQuestionNumber": "1"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-viii",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-1",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "1(viii)",
+      "type": "mcq",
+      "instructions": "Answer all questions from each section",
+      "content": "Which of the following theories explain that the solar system was formed from cold spinning clouds of gases?",
+      "sharedContent": "For each of the following items  (I-X) choose the most correct answer from the given alternatives and write its letter in the box provided",
+      "options": [
+        "A. Big bag theory",
+        "B. Nebular hypothesis",
+        "C. Interstellar dust hypothesis",
+        "D. Creation theory"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-001.jpg",
+          "alt": "Unchanged original examination page 1, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "B. Nebular hypothesis",
+      "markingGuide": "",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        1
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The source guide prints “10Marks @ 2 = 10 marks.” while Section A is 15 and matching is 5. The implied one-mark MCQs conflict with the printed @2; per-item scored allocation is held pending source correction. Original question text is unchanged.",
+      "scoringEligible": false,
+      "sourceMarkText": "10Marks @ 2 = 10 marks.",
+      "sourceAnswerLetter": "B",
+      "mainQuestionNumber": "1"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-ix",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-1",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "1(ix)",
+      "type": "mcq",
+      "instructions": "Answer all questions from each section",
+      "content": "Which of the following is not true about earth rotation?",
+      "sharedContent": "For each of the following items  (I-X) choose the most correct answer from the given alternatives and write its letter in the box provided",
+      "options": [
+        "A. 1° to 4 minutes",
+        "B. 15° to 60 minutes",
+        "C. 15° to 24 hours",
+        "D. 360°to 24 hours"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-001.jpg",
+          "alt": "Unchanged original examination page 1, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "B. 15° to 60 minutes",
+      "markingGuide": "",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        1
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The source guide prints “10Marks @ 2 = 10 marks.” while Section A is 15 and matching is 5. The implied one-mark MCQs conflict with the printed @2; per-item scored allocation is held pending source correction. Original question text is unchanged. The guide gives B, but 15° corresponds to 60 minutes; the false statement is C (15° to 24 hours).",
+      "scoringEligible": false,
+      "sourceMarkText": "10Marks @ 2 = 10 marks.",
+      "sourceAnswerLetter": "B",
+      "independentlyCheckedAnswer": "C. 15° to 24 hours",
+      "mainQuestionNumber": "1"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-x",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-1",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "1(x)",
+      "type": "mcq",
+      "instructions": "Answer all questions from each section",
+      "content": "The sun is central body made up of …………………..",
+      "sharedContent": "For each of the following items  (I-X) choose the most correct answer from the given alternatives and write its letter in the box provided",
+      "options": [
+        "A. Carbon, air and soil",
+        "B. Helium, oxygen and hydrogen",
+        "C. Planets, asteroids and earth",
+        "D. Sun, solar energy and solar"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-001.jpg",
+          "alt": "Unchanged original examination page 1, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "B. Helium, oxygen and hydrogen",
+      "markingGuide": "",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        1
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The source guide prints “10Marks @ 2 = 10 marks.” while Section A is 15 and matching is 5. The implied one-mark MCQs conflict with the printed @2; per-item scored allocation is held pending source correction. Original question text is unchanged.",
+      "scoringEligible": false,
+      "sourceMarkText": "10Marks @ 2 = 10 marks.",
+      "sourceAnswerLetter": "B",
+      "answerCaveat": "B is the best listed option: the Sun is predominantly hydrogen and helium, with only a small amount of oxygen and other elements.",
+      "mainQuestionNumber": "1"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q2",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-2",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "2",
+      "type": "matching",
+      "instructions": "Answer all questions from each section",
+      "content": "Match the explanations of various contents from the solar system in List A with the correct respective answer in List B and write its letter in the table provided below",
+      "sharedContent": "",
+      "options": [
+        "A. Aphelion",
+        "B. Axis",
+        "C. Perihelion",
+        "D. Solar energy",
+        "E. Solar system",
+        "F. Umbra",
+        "G. Earth"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-001.jpg",
+          "alt": "Unchanged original examination page 1, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "answerKey": {
+        "i": "D. Solar energy",
+        "ii": "B. Axis",
+        "iii": "A. Aphelion",
+        "iv": "G. Earth",
+        "v": "E. Solar system"
+      },
+      "markingGuide": "Source guide page 1 gives i–D, ii–B, iii–A, iv–G, v–E. Award 1 mark for each correct match; total 5. All matches were checked against the printed lists.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        1,
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "pairs": [
+        {
+          "id": "i",
+          "left": ".Is needed everywhere in our lives"
+        },
+        {
+          "id": "ii",
+          "left": "An imaginary line joining North pole and South pole"
+        },
+        {
+          "id": "iii",
+          "left": "The furthest position of the Earth to the sun"
+        },
+        {
+          "id": "iv",
+          "left": "The only planet which support human life"
+        },
+        {
+          "id": "v",
+          "left": "Composed of the Sun, planets and other heavy bodies"
+        }
+      ],
+      "table": [
+        [
+          "LIST A",
+          "LIST B"
+        ],
+        [
+          "i. .Is needed everywhere in our lives",
+          "A. Aphelion"
+        ],
+        [
+          "ii. An imaginary line joining North pole and South pole",
+          "B. Axis"
+        ],
+        [
+          "iii. The furthest position of the Earth to the sun",
+          "C. Perihelion"
+        ],
+        [
+          "iv. The only planet which support human life",
+          "D. Solar energy"
+        ],
+        [
+          "v. Composed of the Sun, planets and other heavy bodies",
+          "E. Solar system"
+        ],
+        [
+          "",
+          "F. Umbra"
+        ],
+        [
+          "",
+          "G. Earth"
+        ]
+      ],
+      "subquestions": [
+        {
+          "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q2-i",
+          "label": "i",
+          "content": ".Is needed everywhere in our lives",
+          "parentQuestionId": "mkalama-f1-2025-geography-c20befea88f5eb2c-q2",
+          "maximumMarks": 1
+        },
+        {
+          "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q2-ii",
+          "label": "ii",
+          "content": "An imaginary line joining North pole and South pole",
+          "parentQuestionId": "mkalama-f1-2025-geography-c20befea88f5eb2c-q2",
+          "maximumMarks": 1
+        },
+        {
+          "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q2-iii",
+          "label": "iii",
+          "content": "The furthest position of the Earth to the sun",
+          "parentQuestionId": "mkalama-f1-2025-geography-c20befea88f5eb2c-q2",
+          "maximumMarks": 1
+        },
+        {
+          "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q2-iv",
+          "label": "iv",
+          "content": "The only planet which support human life",
+          "parentQuestionId": "mkalama-f1-2025-geography-c20befea88f5eb2c-q2",
+          "maximumMarks": 1
+        },
+        {
+          "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q2-v",
+          "label": "v",
+          "content": "Composed of the Sun, planets and other heavy bodies",
+          "parentQuestionId": "mkalama-f1-2025-geography-c20befea88f5eb2c-q2",
+          "maximumMarks": 1
+        }
+      ],
+      "mainQuestionNumber": "2"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q3-a",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-surface-features"
+      ],
+      "subtopicIds": [
+        "geography-f1-surface-features"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-3",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "3(a)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "Explain the origin of the term GEOGRAPHY",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "answerKey": "The term comes from Greek geo, meaning Earth, and graphein, meaning to draw, describe or write.",
+      "markingGuide": "Source allocation: 4 marks. Independent partial-credit breakdown: identify geo and its Earth meaning (2), identify graphein and its writing/describing meaning (2). Accept accurate equivalent wording.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "3"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q3-b",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-surface-features"
+      ],
+      "subtopicIds": [
+        "geography-f1-surface-features"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-3",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "3(b)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "Explain any three (3) branches of geography.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 2,
+      "answerKey": "Physical geography studies natural features and processes; human geography studies people, their activities and their relationship with the environment; mathematical geography applies measurement, mapping and Earth location/shape methods.",
+      "markingGuide": "Source guide allocates 6 marks for three explained branches. Award 2 for each correctly identified and explained branch; 0 if not correct. Accept other genuinely recognised branches explained accurately.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "3"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-a",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-surface-features"
+      ],
+      "subtopicIds": [
+        "geography-f1-surface-features"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-4",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "4(a)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "Patrick does not want to study Geography since he is not aware on the importance of the subject . You as a student of teacher Juma express to him five benefits of studying Geography",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "answerKey": "Examples include understanding weather and climate, disaster preparedness, settlement planning, natural-resource management, and tourism/conservation knowledge.",
+      "markingGuide": "Held: the question asks five benefits, but the guide supplies only four and allocates four marks; no unverified fifth-point weighting is imposed.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Question requests five benefits; the source guide lists four and gives 4 marks. A consistent five-point partial-credit allocation is unresolved.",
+      "scoringEligible": false,
+      "mainQuestionNumber": "4"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-b",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-surface-features"
+      ],
+      "subtopicIds": [
+        "geography-f1-surface-features"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-4",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "4(b)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "Explain any three relationships between geography and other disciplines.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 2,
+      "answerKey": "Biology links through ecosystems and distribution of organisms; history links through locations of historical events and settlements; economics links through resources, production, distribution and trade.",
+      "markingGuide": "Source guide allocates 6 marks to three relationships. 2 marks for each correct, explained relationship.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 1,2. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        1,
+        2
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Linked Question 4 is held as a whole because part (a) has an unresolved five-benefit/four-mark mismatch.",
+      "scoringEligible": false,
+      "mainQuestionNumber": "4"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q5-a",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-5",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "5(a)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "what is the difference between rotation and revolution of the Earth?",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Rotation is the spinning of Earth about its axis; revolution is Earth’s orbital motion around the Sun.",
+      "markingGuide": "Source allocation 2 marks. One mark for rotation about the axis and one for revolution around the Sun.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 2. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        2
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "5"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q5-b",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-5",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "5(b)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "Name any four outcomes of the earth’s rotation",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 8,
+      "markIncrement": 2,
+      "answerKey": "Day and night; apparent daily movement of the Sun and stars; differences in local solar time with longitude; Coriolis deflection of moving air and ocean water.",
+      "markingGuide": "Source guide allocation is 4 × 2 = 8 marks. Award 2 per distinct valid outcome, up to 8. This independently checked answer does not repeat the source guide’s unsupported “tide” point: tides are chiefly caused by differential lunar/solar gravity. Do not count the same outcome twice.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 2. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Independently checked SomaSmart answer and self-assessment guidance; source guide referenced but scientific errors are not adopted.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        2
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "5"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q6-a",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-6",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "6(a)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "Define the term “Earth’s structure”",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2.5,
+      "markIncrement": 2.5,
+      "answerKey": "Earth’s structure means its internal layered arrangement, including the crust, mantle and core.",
+      "markingGuide": "Source guide allocates 2.5 marks for the definition. Award 2.5 for a correct internal-layer definition, otherwise 0; no unverified finer official increments are claimed.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 2. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        2
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "6"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q6-b",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-6",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "6(b)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "Mention and explain the three (3) layers of the Earth.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 7.5,
+      "markIncrement": 2.5,
+      "answerKey": "Crust: Earth’s thin, outer solid rocky layer. Mantle: thick hot rocky layer below the crust, mostly solid but capable of slow flow. Core: innermost metallic region, with a liquid outer core and a solid inner core.",
+      "markingGuide": "Source guide gives 2.5 marks × 3 = 7.5 for the three named/explained layers. Award 2.5 per correctly named and explained layer. The mantle is not generally a liquid sea; this scientific clarification is independent of the source guide wording.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 2. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Independently checked SomaSmart answer and self-assessment guidance; source guide referenced but scientific errors are not adopted.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        2
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "6"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q7-a",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-7",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "7(a)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "what is revolution of the earth",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "answerKey": "Earth’s movement around the Sun along its orbit.",
+      "markingGuide": "Source allocation 3 marks. Independent whole-mark self-assessment: Earth is the moving body (1), motion is around the Sun (1), follows an orbit (1).",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 2. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        2
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "7"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q7-b",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-7",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "7(b)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "Name four seasons of the year",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "answerKey": "Summer, autumn, winter and spring.",
+      "markingGuide": "Source guide: 1 mark each for summer, autumn, winter and spring, total 4. These are the four temperate-zone seasons intended by the source question; tropical local seasons differ.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 2. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Source-provided Mkalama marking guide, independently checked against the printed question; not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        2
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "7"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q7-c",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-7",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "7(c)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "Apart from seasons name any other three effect of revolution",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "answerKey": "Annual change in the latitude of the overhead Sun (combined with Earth’s axial tilt); annual changes in day and night length (combined with axial tilt); periodic changes in Earth–Sun distance, including perihelion and aphelion, because the orbit is elliptical.",
+      "markingGuide": "Source guide gives 1 mark per effect, total 3. Accept the three accurate effects above or valid equivalents. Do not award the guide’s “Eclipses” point without the additional orbital-alignment conditions: eclipses are not a simple annual effect of Earth’s revolution. The explanation is independently checked and does not change the question.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 2,3. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Independently checked SomaSmart answer and self-assessment guidance; source guide referenced but scientific errors are not adopted.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        2,
+        3
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "7"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q8-a",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-8",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "8(a)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "Explain any three (3) factors that determine the size and shape of the Earth",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 2,
+      "answerKey": "Gravity attracts matter toward the centre, producing an approximately spherical body; rotation produces an equatorial bulge and polar flattening; internal temperature, pressure and material properties affect Earth’s volume and deformation.",
+      "markingGuide": "Source allocation: three factors at 2 marks each. Give 2 for each valid named factor with a relevant explanation; up to 6.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 3. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Independently checked SomaSmart answer and self-assessment guidance; source guide referenced but scientific errors are not adopted.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        3
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "8"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q8-b",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-8",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "8(b)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "Mention any four evidences to proofs that the Earth’s rotation.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "answerKey": "The changing plane of a Foucault pendulum; Coriolis deflection of moving bodies; apparent daily star trails around the celestial poles; direct space-based observations of Earth turning relative to fixed directions.",
+      "markingGuide": "Source allocation is 1 mark × 4 = 4. Award one for each distinct valid observation. The source guide’s “shape of the earth” is not by itself a conclusive proof of rotation; this independently checked guidance replaces that weak answer without altering the source question.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 3. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Independently checked SomaSmart answer and self-assessment guidance; source guide referenced but scientific errors are not adopted.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        3
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "8"
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q9-a",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-9",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "9(a)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "Define Earth the term “Earth’s position”",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Earth’s position refers to its location as the third planet from the Sun in the solar system.",
+      "markingGuide": "Source allocation 2 marks. Independent self-assessment: identify Earth as a planet in the solar system (1), located third from the Sun (1).",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 3. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Independently prepared and scientifically checked SomaSmart solution; not an official correction to the district source guide.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        3
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "9",
+      "guideDiscrepancy": "The source guide lists seasons and “gravitational balance” as consequences of Earth’s position. Those depend on additional causes and are not used as verified source answers. The independent model instead makes the orbital-location interpretation explicit, while retaining the original question unchanged."
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q9-b",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-9",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "9(b)",
+      "type": "short",
+      "instructions": "Answer all questions from each section",
+      "content": "List any four consequences of the earth’s position in the solar system.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 8,
+      "markIncrement": 2,
+      "answerKey": "Taking “position” to refer to Earth’s orbital location and mean distance from the Sun: (1) solar energy reaches Earth and powers processes such as photosynthesis; (2) incoming solar heating permits generally moderate surface temperatures compared with much closer or more distant orbits; (3) together with suitable atmospheric pressure, these temperatures allow liquid surface water; (4) Earth’s orbital distance around the Sun corresponds to an orbital period of about 365¼ days, giving the year. These outcomes have additional physical conditions; position alone does not guarantee life or create the seasons.",
+      "markingGuide": "Source guide allocates four points at 2 marks each, total 8. Independent guidance: award 2 for each distinct scientifically correct consequence with an appropriate qualification, up to 8. The four model categories are solar energy, heating, liquid-water conditions, and orbital period. Accept valid alternatives. Do not award the unqualified claim that third-planet position causes seasons; axial tilt combined with revolution is required.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 3. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Independently prepared and scientifically checked SomaSmart solution; not an official correction to the district source guide.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        3
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "mainQuestionNumber": "9",
+      "guideDiscrepancy": "The source guide lists seasons and “gravitational balance” as consequences of Earth’s position. Those depend on additional causes and are not used as verified source answers. The independent model instead makes the orbital-location interpretation explicit, while retaining the original question unchanged."
+    },
+    {
+      "id": "mkalama-f1-2025-geography-c20befea88f5eb2c-q10",
+      "paperId": "mkalama-f1-2025-geography-c20befea88f5eb2c",
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "subtopicIds": [
+        "geography-f1-earth-solar"
+      ],
+      "groupId": "mkalama-f1-2025-geography-c20befea88f5eb2c-group-10",
+      "parentQuestionId": null,
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One terminal examination • Geography • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL - SINGIDA (printed paper heading)",
+      "year": 2025,
+      "curriculumEdition": "2025 district source; mapped only to compatible Form One learning content",
+      "questionNumber": "10",
+      "type": "essay",
+      "instructions": "Answer all questions from each section",
+      "content": "There was a debate on the shape of the Earth. As a Geography expert, with the help of diagrams discuss five (5) evidence to prove that the earth is spherical.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-c20befea88f5eb2c/page-002.jpg",
+          "alt": "Unchanged original examination page 2, preserving source wording, numbering and layout.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 15,
+      "markIncrement": 1,
+      "answerKey": "Five defensible examples: (1) Earth casts a curved shadow during a lunar eclipse; draw Sun–Earth–Moon alignment and the curved shadow edge. (2) A ship travelling away disappears hull first; draw a curved sea surface and two ship positions. (3) Circumnavigation returns a traveller to the starting point along a continuous route; sketch a globe and route. (4) Space photographs show Earth’s rounded outline; sketch the observed globe. (5) The visible horizon changes with observer height and Earth’s surface curves; draw observers at two heights with tangent sight lines. The Earth is slightly oblate rather than a perfect mathematical sphere.",
+      "markingGuide": "Source guide: five points at 3 marks each, total 15. For each distinct valid evidence, award 1 for stating it, 1 for explaining how it supports a rounded Earth, and 1 for a relevant labelled diagram. The source specifically requires diagrams. Accept valid alternatives; do not award unexplained claims as if they were proofs. This independently checked model avoids treating sunrise alone as conclusive evidence.",
+      "marksProvenance": "Source-provided Mkalama Geography marking guide, page(s) 3. Allocations are district-source marks, not NECTA marks.",
+      "markIncrementProvenance": "Source guide point allocation where explicit; otherwise independently stated partial-credit rubric, not an assertion of official finer weights.",
+      "solutionProvenance": "Independently checked SomaSmart answer and self-assessment guidance; source guide referenced but scientific errors are not adopted.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "answerGuidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "answerGuidePages": [
+        3
+      ],
+      "answerGuideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All paper pages and all three associated guide pages visually inspected. Original wording retained, including source grammar and spelling. Written responses require self-assessment.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "scoringEligible": true,
+      "requiresDrawing": true,
+      "mainQuestionNumber": "10"
+    }
+  ],
+  "verificationNotes": [
+    "All two question-paper pages and all three guide pages were visually inspected in full. The source issuer and May 2025 are printed, not merely archive attribution.",
+    "Transcription retains source grammar, spelling, names, quantities, option ordering and printed subpart labels. Whole-page source images preserve exact typography and answer spaces; text is not a summary.",
+    "Guide scientific weaknesses in Q5(b), Q6(b), Q7(c), Q8(b) and Q10 are addressed in explicitly independent model guidance; source question wording is unchanged.",
+    "The guide MCQ ix answer B conflicts with the scientifically correct C; this is recorded in the held source record. No unverified corrected source key is published.",
+    "Q10 needs student diagrams as requested by the source. The paper supplies no diagram to transcribe.",
+    "All 10 main questions are transcribed in 27 records / 31 answerable parts. Twelve records remain held: all ten MCQs for inconsistent per-item marking, plus both Q4 parts.",
+    "Fifteen published records / 19 answerable parts / 80 source-allocated marks. Q9 has independently prepared orbital-location guidance, explicitly identifying qualifications and source-guide discrepancies without changing its questions."
+  ]
+}

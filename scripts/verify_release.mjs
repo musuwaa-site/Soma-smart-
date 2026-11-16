@@ -8,6 +8,7 @@ for (const a of manifest.assets) {
   if (sha !== a.sha256) throw Error("Corrupted offline asset " + a.url);
 }
 const data = JSON.parse(readFileSync("dist/library.json"));
+if(data.questions.some(q=>q.publicationStatus!=='published') || data.sourceDocuments.some(d=>d.publicationStatus!=='published'))throw Error('Unpublished source content leaked into student release');
 for (const l of data.lessons)
   if (l.diagram && !manifest.assets.some((a) => a.url === l.diagram))
     throw Error("Unbundled diagram: " + l.diagram);

@@ -2,20 +2,20 @@
 
 Generated from published student data and locally available acquisition metadata. Learning activities are broader than individual subtopics; partial support is not full coverage.
 
-- bundledSourcePaperDocuments: 52
-- bundledSourcePages: 369
-- bundledSourceAnswerGuides: 33
-- bundledSourceAnswerGuidePages: 141
+- bundledSourcePaperDocuments: 51
+- bundledSourcePages: 364
+- bundledSourceAnswerGuides: 32
+- bundledSourceAnswerGuidePages: 137
 - completedTextbooks: 0
 - completedWorkbooks: 0
 - partialBooks: 36
-- readableChapters: 120
+- readableChapters: 122
 - starterLessons: 18
 - expandedChapters: 99
-- workedExamples: 360
-- originalPracticeQuestions: 3020
+- workedExamples: 366
+- originalPracticeQuestions: 3026
 - generatedOriginalDrillVariants: 1009
-- workbookActivities: 1405
+- workbookActivities: 1411
 - originalRevisionPapers: 18
 - officialLearningActivityLocators: 251
 - partiallySupportedLearningActivities: 235
@@ -25,12 +25,17 @@ Generated from published student data and locally available acquisition metadata
 - candidatePaperDocumentsAcquired: 53
 - acquiredOfficialReferencePDFs: 11
 - extractedPapers: 10
-- publishedPapers: 1
-- fullyPublishedPapers: 0
-- partiallyPublishedPaperSources: 1
-- authenticMainQuestions: 7
-- authenticAnswerableParts: 18
-- scoredQuestionsWithMarking: 3027
+- publishedPapers: 13
+- fullyPublishedPapers: 3
+- partiallyPublishedPaperSources: 10
+- authenticMainQuestions: 99
+- authenticAnswerableParts: 350
+- scoredQuestionsWithMarking: 3324
+- completeAuthenticTranscriptions: 12
+- transcribedAuthenticRecords: 421
+- heldAuthenticRecords: 130
+- automaticallyScoredAuthenticRecords: 85
+- authenticScoredRecords: 298
 
 | Form | Subject | Chapters | Textbook words¹ | Original questions | Distinct workbook tasks | Partially supported official activities |
 |---|---|---:|---:|---:|---:|---:|
@@ -44,7 +49,7 @@ Generated from published student data and locally available acquisition metadata
 | 1 | historia | 7 | 2824 | 120 | 23 | 18/18 |
 | 1 | english | 7 | 2983 | 112 | 23 | 31/36 |
 | 2 | chemistry | 8 | 3451 | 244 | 126 | 13/13 |
-| 2 | physics | 6 | 2441 | 210 | 120 | 12/12 |
+| 2 | physics | 8 | 2968 | 216 | 126 | 12/12 |
 | 2 | biology | 8 | 3546 | 138 | 26 | 10/10 |
 | 2 | mathematics | 12 | 3316 | 382 | 238 | 20/20 |
 | 2 | kiswahili | 6 | 2390 | 102 | 20 | 11/11 |

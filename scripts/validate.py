@@ -1,4 +1,5 @@
 import json,pathlib,math,re,hashlib
+from source_integrity import text_hash
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 CLEAR={'cleared','public-domain','open-license'}
 def validate(d):
@@ -10,7 +11,12 @@ def validate(d):
    if not isinstance(x.get('id'),str) or not re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9._-]{0,179}',x.get('id','')):errors.append(f'{collection}: unsafe identifier')
    seen.add(x.get('id'))
  for q in d['questions']:
+  if q.get('sourceTextSha256') and text_hash(q)!=q['sourceTextSha256']:errors.append(f'{q["id"]}: original source transcription changed')
   if q.get('publicationStatus')!='published':continue
+  if q.get('sourceTextSha256'):
+   source=next((s for s in d.get('sourceDocuments',[]) if s.get('id')==q.get('sourceDocumentId')),None)
+   if not source or source.get('publicationStatus')!='published' or source.get('sha256')!=q.get('sourceSha256') or source.get('form')!=q.get('form') or source.get('subjectId')!=q.get('subjectId'):errors.append(f'{q["id"]}: mismatched or quarantined source')
+   elif any(not isinstance(p,int) or p<1 or p>source['pageCount'] or not any(m.get('path')==source['pageImages'][p-1] for m in q.get('media',[])) for p in q.get('sourcePages',[])):errors.append(f'{q["id"]}: incomplete original source-page references')
   if q.get('sourceType')!='original' and (q.get('rightsStatus') not in CLEAR or q.get('verificationStatus')!='verified' or q.get('paperId') not in paper_ids or not q.get('sourceReference')):errors.append(f'{q["id"]}: source not cleared/verified')
   if q.get('sourceType')=='original' and (q.get('rightsStatus')!='original' or q.get('paperId')):errors.append(f'{q["id"]}: original provenance invalid')
   if q.get('form') not in [1,2] or q.get('subjectId') not in subject_ids:errors.append(f'{q["id"]}: invalid form/subject')

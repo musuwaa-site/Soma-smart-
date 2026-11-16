@@ -412,3 +412,5 @@ summary {
     font-size: 24px;
   }
 }
+
+.source-stem, .question blockquote { white-space: pre-wrap; }

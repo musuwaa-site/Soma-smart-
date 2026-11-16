@@ -1,4 +1,5 @@
 import "./style.css";
+import { verbatimContent, originalOptionLabel } from "./exam-format.js";
 import { eligible, generate, result, weakTopics } from "./engine.js";
 import { get, set } from "./storage.js";
 const app = document.querySelector("#app");
@@ -145,7 +146,7 @@ async function reader(id, workbook = false) {
       .filter((q) => q.sourceType === "original" && q.topicIds.includes(id) && (workbook ? q.resourceKind === "workbook" : q.resourceKind !== "workbook"))
       .map(
         (q, i) =>
-          `<section class="card question"><h3>${i + 1}. ${esc(q.content).replaceAll("\n", "<br>")}</h3>${questionContext(q)}${q.options.length ? `<p>${q.options.map(esc).join(" / ")}</p>` : ""}<details><summary>Model answer & explanation</summary><p>${esc(typeof q.answerKey === "object" ? Object.entries(q.answerKey).map(([k,v]) => k + ": " + v).join("; ") : q.answerKey)}</p><p class="muted">${esc(q.markingGuide)}</p></details></section>`,
+          `<section class="card question"><h3>${i + 1}. ${verbatimContent(q)}</h3>${questionContext(q)}${q.options.length ? `<p>${q.options.map(esc).join(" / ")}</p>` : ""}<details><summary>Model answer & explanation</summary><p>${esc(typeof q.answerKey === "object" ? Object.entries(q.answerKey).map(([k,v]) => k + ": " + v).join("; ") : q.answerKey)}</p><p class="muted">${esc(q.markingGuide)}</p></details></section>`,
       )
       .join(
         "",
@@ -168,11 +169,11 @@ async function reader(id, workbook = false) {
       await saveProfile();
       complete.textContent = "✓ Chapter completed";
     };
-  document.querySelector("#start-practice").onclick = () =>
-    startExam(
-      data.questions.filter((q) => q.sourceType === "original" && q.topicIds.includes(id) && (workbook ? q.resourceKind === "workbook" : q.resourceKind !== "workbook")),
-      `Chapter revision: ${l.title}`,
-    );
+  document.querySelector("#start-practice").onclick = () => {
+    const all = data.questions.filter(q => q.sourceType === "original" && q.topicIds.includes(id));
+    const selected = all.filter(q => workbook ? q.resourceKind === "workbook" : q.resourceKind !== "workbook");
+    startExam(selected.length ? selected : all, `Chapter revision: ${l.title}`);
+  };
 }
 function sourcePaperReader(id, pageNumber=1, section='paper') {
   const doc = (data.sourceDocuments || []).find(d => d.id === id);
@@ -181,7 +182,8 @@ function sourcePaperReader(id, pageNumber=1, section='paper') {
   const resource = showingAnswers ? doc.answerGuide : doc;
   const n = Math.min(Math.max(1, Number.isFinite(pageNumber) ? Math.floor(pageNumber) : 1),resource.pageCount);
   const path = k => 'paper/'+id+'/'+k+(showingAnswers?'/answers':'');
-  frame(`${link('exams','← Examination centre','')}<article class="reader"><h1>${esc(doc.title)}</h1><p class="muted">${showingAnswers?'Source answer guide':'Complete original paper'} · page ${n} of ${resource.pageCount}</p><p>${esc(showingAnswers ? resource.provenance : doc.note)}</p><div class="book-tabs">${link('paper/'+id+'/1','Question paper',showingAnswers?'button secondary':'button')}${doc.answerGuide?link('paper/'+id+'/1/answers','Source answer guide',showingAnswers?'button':'button secondary'):''}</div><div class="row">${n > 1 ? link(path(n-1),'← Previous page','button secondary') : '<span></span>'}${n < resource.pageCount ? link(path(n+1),'Next page →') : '<span>Last page</span>'}</div><figure><img src="${esc(resource.pageImages[n-1])}" alt="${showingAnswers?'Answer guide':'Original paper'} ${esc(doc.title)}, page ${n}." style="width:100%;height:auto"></figure><details><summary>My answers and working · saved on this device</summary><label for="paper-working">Use the original question numbers and subpart labels.</label><textarea id="paper-working" rows="12" placeholder="1(a)… 1(b)…">${esc(sourceAnswers[id]||'')}</textarea><p id="paper-save-status" class="save-status" role="status">Your paper notebook stays local. Source documents are not automatically graded.</p></details><p><a href="${esc(resource.sourcePdf)}" download>Download the complete ${showingAnswers?'answer guide':'source paper'} PDF</a></p><p class="muted">Source: ${esc(resource.sourceReference)}</p>${doc.interactivePaperId ? '<p>Selected interactive questions from this paper are also available under past-paper practice in Exams.</p>' : ''}</article>`,'exams');
+  frame(`${link('exams','← Examination centre','')}<article class="reader"><h1>${esc(doc.title)}</h1><p class="muted">${showingAnswers?'Source answer guide':'Complete original paper'} · page ${n} of ${resource.pageCount}</p><p>${esc(showingAnswers ? resource.provenance : doc.note)}</p><div class="book-tabs">${link('paper/'+id+'/1','Question paper',showingAnswers?'button secondary':'button')}${doc.answerGuide?link('paper/'+id+'/1/answers','Source answer guide',showingAnswers?'button':'button secondary'):''}</div><div class="row">${n > 1 ? link(path(n-1),'← Previous page','button secondary') : '<span></span>'}${n < resource.pageCount ? link(path(n+1),'Next page →') : '<span>Last page</span>'}</div><figure><img src="${esc(resource.pageImages[n-1])}" alt="${showingAnswers?'Answer guide':'Original paper'} ${esc(doc.title)}, page ${n}." style="width:100%;height:auto"></figure><details><summary>My answers and working · saved on this device</summary><label for="paper-working">Use the original question numbers and subpart labels.</label><textarea id="paper-working" rows="12" placeholder="1(a)… 1(b)…">${esc(sourceAnswers[id]||'')}</textarea><p id="paper-save-status" class="save-status" role="status">Your paper notebook stays local. Source documents are not automatically graded.</p></details><p><a href="${esc(resource.sourcePdf)}" download>Download the complete ${showingAnswers?'answer guide':'source paper'} PDF</a></p><p class="muted">Source: ${esc(resource.sourceReference)}</p>${doc.interactivePaperId ? '<p>Scored interactive questions from this paper are also available under past-paper practice in Exams.</p>' : ''}</article>`,'exams');
+  document.querySelector('[data-source-exam]')?.addEventListener('click', event => openScoredPaper(event.currentTarget.dataset.sourceExam));
   document.querySelector('#paper-working').oninput = async event => {
     sourceAnswers[id] = event.target.value;
     try { await set('sourceAnswers', sourceAnswers); document.querySelector('#paper-save-status').textContent='Saved on this device'; }
@@ -225,7 +227,7 @@ function exams() {
       )
       .join(
         "",
-      )}</fieldset><div class="formgrid"><label>Number of questions (linked parts stay together)<input id="count" type="number" min="1" max="${Math.max(1, list.length)}" value="${Math.min(5, list.length) || 1}"></label><label>Selection seed<input id="seed" type="number" value="2027"></label></div><p><strong>${list.length}</strong> eligible questions</p>${list.length ? '<button id="generate">Create examination →</button>' : `<div class="empty">No eligible embedded questions match this source. More papers are being checked against their originals. ${link("exams", "Choose original practice", "")}</div>`}<div id="exam-message" role="alert"></div></section><h2>Past-paper library</h2><p class="muted">Read the complete source papers here, including diagrams. These documents are separate from the structured questions used for scored tests.</p><div class="grid">${(data.sourceDocuments||[]).filter(d => d.form===profile.form && d.subjectId===examFilter.subjectId && d.publicationStatus==='published').map(d => `<section class="card"><h3>${esc(d.title)}</h3><p>${d.pageCount} pages${d.answerGuide?" · answer guide included":""}${d.curriculumStream==='vocational'?' · Vocational source':''}</p>${link('paper/'+d.id+'/1','Read paper →')}</section>`).join('') || '<p>No complete source documents match this subject and form yet.</p>'}</div><h2>Past-paper practice</h2><div class="grid">${data.papers.filter(p => p.sourceType !== "original" && p.form === profile.form && p.publicationStatus === "published").map(p => `<section class="card"><span class="pill">Genuine past-paper questions</span><h3>${esc(p.title)}</h3><p>${p.questionIds.length} linked main questions • ${p.maximumMarks} source-allocated marks</p><p class="muted">Selected complete questions with independent worked solutions. The full source paper is available in the library.</p><button data-genuine-paper="${p.id}">Practise reviewed questions</button><p><a href="${esc(p.sourcePdf)}" target="_blank" rel="noopener">Original source PDF</a></p></section>`).join("") || '<p class="muted">Select Form Two for Mathematics past-paper practice.</p>'}</div><h2>Prepared revision papers</h2><p class="muted">Original SomaSmart tests covering the published chapters; these are not past school or NECTA papers.</p><div class="grid">${data.papers.filter(p => p.sourceType === "original" && p.form === profile.form && p.publicationStatus === "published").map(p => `<section class="card"><h3>${esc(p.title)}</h3><p>${p.questionIds.length} items · ${p.maximumMarks} marks</p><button data-paper="${p.id}">Start revision paper</button><p><a href="/exams/${p.id}.pdf" download>Question PDF</a> · <a href="/exams/${p.id}-answers.pdf" download>Answer guide</a></p></section>`).join("")}</div><h2>Private source documents</h2><section class="card"><p>Import a PDF you may lawfully use. Files stay on this device and are never published. These reference documents are not automatically transcribed or eligible for scored exams.</p><label>Choose a private PDF<input id="private-file" type="file" accept="application/pdf"></label><div id="private-status" role="status"></div>${privateDocs.map((p, i) => `<p><button class="secondary" data-private="${i}">${esc(p.name)}</button></p>`).join("")}</section><h2>Previous attempts</h2>${
+      )}</fieldset><div class="formgrid"><label>Number of questions (linked parts stay together)<input id="count" type="number" min="1" max="${Math.max(1, list.length)}" value="${Math.min(5, list.length) || 1}"></label><label>Selection seed<input id="seed" type="number" value="2027"></label></div><p><strong>${list.length}</strong> eligible questions</p>${list.length ? '<button id="generate">Create examination →</button>' : `<div class="empty">No eligible embedded questions match this source. More papers are being checked against their originals. ${link("exams", "Choose original practice", "")}</div>`}<div id="exam-message" role="alert"></div></section><h2>Past-paper library</h2><p class="muted">Read the complete source papers here, including diagrams. These documents are separate from the structured questions used for scored tests.</p><div class="grid">${(data.sourceDocuments||[]).filter(d => d.form===profile.form && d.subjectId===examFilter.subjectId && d.publicationStatus==='published').map(d => `<section class="card"><h3>${esc(d.title)}</h3><p>${d.pageCount} pages${d.answerGuide?" · answer guide included":""}${d.curriculumStream==='vocational'?' · Vocational source':''}</p>${link('paper/'+d.id+'/1','Read paper →')}</section>`).join('') || '<p>No complete source documents match this subject and form yet.</p>'}</div><h2>Past-paper practice</h2><div class="grid">${data.papers.filter(p => p.sourceType !== "original" && p.form === profile.form && p.subjectId === examFilter.subjectId && p.publicationStatus === "published").map(p => `<section class="card"><span class="pill">Genuine past-paper questions</span><h3>${esc(p.title)}</h3><p>${p.questionIds.length} scored items • ${p.maximumMarks} available marks</p><p class="muted">${p.completeScoredPaper ? "Complete scored paper." : "Scored selection; source issues are excluded."} Original wording and linked materials are preserved. Written responses require self-marking.</p><button data-genuine-paper="${p.id}">Practise reviewed questions</button><p><a href="${esc(p.sourcePdf)}" target="_blank" rel="noopener">Original source PDF</a></p></section>`).join("") || '<p class="muted">No scored past-paper selection is available for this subject and form yet.</p>'}</div><h2>Prepared revision papers</h2><p class="muted">Original SomaSmart tests covering the published chapters; these are not past school or NECTA papers.</p><div class="grid">${data.papers.filter(p => p.sourceType === "original" && p.form === profile.form && p.publicationStatus === "published").map(p => `<section class="card"><h3>${esc(p.title)}</h3><p>${p.questionIds.length} items · ${p.maximumMarks} marks</p><button data-paper="${p.id}">Start revision paper</button><p><a href="/exams/${p.id}.pdf" download>Question PDF</a> · <a href="/exams/${p.id}-answers.pdf" download>Answer guide</a></p></section>`).join("")}</div><h2>Private source documents</h2><section class="card"><p>Import a PDF you may lawfully use. Files stay on this device and are never published. These reference documents are not automatically transcribed or eligible for scored exams.</p><label>Choose a private PDF<input id="private-file" type="file" accept="application/pdf"></label><div id="private-status" role="status"></div>${privateDocs.map((p, i) => `<p><button class="secondary" data-private="${i}">${esc(p.name)}</button></p>`).join("")}</section><h2>Previous attempts</h2>${
       attempts.length
         ? attempts
             .slice()
@@ -245,7 +247,7 @@ function exams() {
   });
   document.querySelectorAll('[data-genuine-paper]').forEach(button => button.onclick = () => {
     const paper = data.papers.find(p => p.id === button.dataset.genuinePaper);
-    startExam(paper.questionIds.map(id => data.questions.find(q => q.id === id)), paper.title);
+    openScoredPaper(paper.id);
   });
   document.querySelector("#private-file").onchange = async (e) => {
     try {
@@ -326,6 +328,14 @@ function exams() {
       }),
   );
 }
+function openScoredPaper(id) {
+  const paper = data.papers.find(p => p.id===id && p.publicationStatus==='published');
+  if (!paper) throw Error('Scored paper not available.');
+  const eligibleIds = new Set(eligible(data,{form:paper.form,subjectId:paper.subjectId,source:'authentic'}).map(q=>q.id));
+  const questions = paper.questionIds.map(id=>data.questions.find(q=>q.id===id));
+  if (!questions.length || questions.some(q=>!q || !eligibleIds.has(q.id))) throw Error('This source selection contains unresolved items.');
+  startExam(questions,paper.title);
+}
 async function startExam(questions, title) {
   if (draft && !draft.submitted) {
     routeError =
@@ -340,8 +350,10 @@ async function startExam(questions, title) {
     form: questions[0].form,
     title,
     questions,
+    sourceInstructions: [...new Set(questions.flatMap(q => data.papers.find(p => p.id === q.paperId)?.sourceInstructions || []))],
     answers: {},
     marks: {},
+    drawings: {},
     submitted: false,
     final: false,
   };
@@ -352,7 +364,7 @@ async function startExam(questions, title) {
 function answerInput(q) {
   const answer = draft.answers[q.id];
   if (q.type === "mcq")
-    return `<div class="options">${q.options.map((o) => `<label><input type="radio" name="${q.id}" data-answer="${q.id}" value="${esc(o)}" ${o === answer ? "checked" : ""} ${draft.submitted ? "disabled" : ""}>${esc(o)}</label>`).join("")}</div>`;
+    return `<div class="options">${q.options.map((o, index) => `<label><input type="radio" name="${q.id}" data-answer="${q.id}" value="${esc(o)}" ${o === answer ? "checked" : ""} ${draft.submitted ? "disabled" : ""}>${originalOptionLabel(q,index)}${esc(o)}</label>`).join("")}</div>`;
   if (q.type === "matching")
     return (q.pairs || [])
       .map(
@@ -360,15 +372,15 @@ function answerInput(q) {
           `<label>${esc(p.left)}<select data-match="${q.id}" data-key="${esc(p.id)}" ${draft.submitted ? "disabled" : ""}><option value="">Choose</option>${q.options.map((o) => `<option ${answer?.[p.id] === o ? "selected" : ""}>${esc(o)}</option>`).join("")}</select></label>`,
       )
       .join("");
-  return `<textarea data-answer="${q.id}" aria-label="Answer to question ${q.questionNumber}" ${draft.submitted ? "readonly" : ""} placeholder="Write your answer or working here…">${esc(answer || "")}</textarea>`;
+  return `<textarea data-answer="${q.id}" aria-label="Answer to question ${q.questionNumber}" ${draft.submitted ? "readonly" : ""} placeholder="Write your answer or working here…">${esc(answer || "")}</textarea>${q.requiresDrawing ? '<p>Include the required drawing below or on paper before self-assessing drawing marks.</p>' : ''}<details ${draft.drawings?.[q.id] ? 'open' : ''}><summary>Drawing or diagram</summary><canvas data-drawing="${q.id}" width="640" height="360" aria-label="Drawing for question ${esc(q.questionNumber)}" style="width:100%;height:auto;background:white;border:1px solid #aabdb5;touch-action:none"></canvas>${draft.submitted ? '' : `<p>Draw with your finger or pointer. Your diagram is saved with this attempt.</p><button class="secondary" data-clear-drawing="${q.id}">Clear drawing</button>`}</details>`;
 }
 function exam() {
   const r = result(draft.questions, draft.answers, draft.marks);
   frame(
-    `<span class="eyebrow">${draft.submitted ? "Review & marking" : "Saved examination draft"} / Form ${draft.form}</span><h1>${esc(draft.title)}</h1><p class="muted">${draft.questions.length} questions • ${r.maximum} available marks • Written answers require your self-assessment.</p><div class="save-status" id="saved" role="status">Saved on this device</div>${draft.submitted ? `<section class="card"><span class="score">${r.earned}/${r.maximum}</span><p>${r.pending ? `${r.pending} written answers await self-marking. Score is provisional.` : "Marking complete."}</p></section>` : ""}${draft.questions
+    `<span class="eyebrow">${draft.submitted ? "Review & marking" : "Saved examination draft"} / Form ${draft.form}</span><h1>${esc(draft.title)}</h1><p class="muted">${draft.questions.length} questions • ${r.maximum} available marks • Written answers require your self-assessment.</p>${draft.sourceInstructions?.length ? `<details class="card"><summary>Original source instructions</summary>${draft.sourceInstructions.map(text => `<p>${esc(text)}</p>`).join("")}<p class="muted">A custom selection may contain fewer items than the original source paper.</p></details>` : ""}<div class="save-status" id="saved" role="status">Saved on this device</div>${draft.submitted ? `<section class="card"><span class="score">${r.earned}/${r.maximum}</span><p>${r.pending ? `${r.pending} written answers await self-marking. Score is provisional.` : "Marking complete."}</p></section>` : ""}${draft.questions
       .map((q, i) => {
         const row = r.rows[i];
-        return `<section class="card question"><div class="row"><span class="pill">${esc(q.sourceTitle)}</span><span class="muted">${q.maximumMarks} marks · ${esc(q.type)}</span></div><h3>${i + 1}. ${esc(q.content).replaceAll("\n", "<br>")}</h3>${q.instructions ? `<p>${esc(q.instructions)}</p>` : ""}${(q.media || []).map((m) => m.role === "source-page" ? `<details><summary>View original source page</summary><img src="${esc(m.path)}" alt="${esc(m.alt)}" style="max-width:100%"></details>` : `<img src="${esc(m.path)}" alt="${esc(m.alt)}" style="max-width:100%">`).join("")}${q.sourcePdf ? `<p><a href="${esc(q.sourcePdf)}" target="_blank" rel="noopener">Open source paper PDF</a></p>` : ""}${q.passage ? `<blockquote>${esc(q.passage)}</blockquote>` : ""}${q.table ? `<table>${q.table.map((row) => `<tr>${row.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</table>` : ""}${answerInput(q)}${draft.submitted ? `<div class="feedback"><strong>${esc(row.status)} · ${row.earned}/${q.maximumMarks}</strong><p>Model answer: ${esc(typeof q.answerKey === "object" ? JSON.stringify(q.answerKey) : q.answerKey)}</p><p>${esc(q.markingGuide)}</p>${q.workedSolution ? `<p><strong>Worked solution</strong><br>${esc(q.workedSolution)}</p>` : ""}<small>${esc(q.solutionProvenance)} • ${esc(q.sourceReference)}</small>${!["mcq", "matching"].includes(q.type) && draft.answers[q.id]?.trim() ? `<label>Your earned marks (0–${q.maximumMarks}, steps of ${q.markIncrement})<input data-marks="${q.id}" type="number" min="0" max="${q.maximumMarks}" step="${q.markIncrement}" value="${draft.marks[q.id] ?? ""}"></label>` : ""}</div>` : ""}</section>`;
+        return `<section class="card question"><div class="row"><span class="pill">${esc(q.sourceTitle)}</span><span class="muted">${q.maximumMarks} marks · ${esc(q.type)}</span></div><h3>${q.sourceType === "original" ? i + 1 : esc(q.questionNumber)}. ${verbatimContent(q)}</h3>${q.sharedContent ? `<p class="source-stem">${esc(q.sharedContent).replaceAll("\n", "<br>")}</p>` : ""}${q.instructions ? `<p>${esc(q.instructions)}</p>` : ""}${(q.media || []).map((m) => m.role === "source-page" ? `<details><summary>View original source page</summary><img src="${esc(m.path)}" alt="${esc(m.alt)}" style="max-width:100%"></details>` : `<img src="${esc(m.path)}" alt="${esc(m.alt)}" style="max-width:100%">`).join("")}${q.sourcePdf ? `<p><a href="${esc(q.sourcePdf)}" target="_blank" rel="noopener">Open source paper PDF</a></p>` : ""}${q.passage ? `<blockquote>${esc(q.passage)}</blockquote>` : ""}${q.table ? `<table>${q.table.map((row) => `<tr>${row.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</table>` : ""}${answerInput(q)}${draft.submitted ? `<div class="feedback"><strong>${esc(row.status)} · ${row.earned}/${q.maximumMarks}</strong><p>Model answer: ${esc(typeof q.answerKey === "object" ? JSON.stringify(q.answerKey) : q.answerKey)}</p><p>${esc(q.markingGuide)}</p>${q.guideDiscrepancy ? `<p class="notice">${esc(q.guideDiscrepancy)}</p>` : ""}${q.answerGuidePdf ? `<p><a href="${esc(q.answerGuidePdf)}" target="_blank" rel="noopener">Original source marking guide</a></p>` : ""}${q.workedSolution ? `<p><strong>Worked solution</strong><br>${esc(q.workedSolution)}</p>` : ""}<small>${esc(q.solutionProvenance)} • ${esc(q.sourceReference)}</small>${!["mcq", "matching"].includes(q.type) && draft.answers[q.id]?.trim() ? `<label>Your earned marks (0–${q.maximumMarks}, steps of ${q.markIncrement})<input data-marks="${q.id}" type="number" min="0" max="${q.maximumMarks}" step="${q.markIncrement}" value="${draft.marks[q.id] ?? ""}"></label>` : ""}</div>` : ""}</section>`;
       })
       .join(
         "",
@@ -379,6 +391,27 @@ function exam() {
     await set("draft", draft);
     document.querySelector("#saved").textContent = "Saved on this device";
   }
+  document.querySelectorAll('[data-drawing]').forEach(canvas => {
+    const id = canvas.dataset.drawing, context = canvas.getContext('2d');
+    context.lineWidth = 2.5; context.lineCap = 'round'; context.strokeStyle = '#142f28';
+    if (draft.drawings?.[id]) { const saved = new Image(); saved.onload = () => context.drawImage(saved,0,0); saved.src = draft.drawings[id]; }
+    if (draft.submitted) return;
+    let drawing = false;
+    const point = event => { const rect = canvas.getBoundingClientRect(); return [(event.clientX-rect.left)*canvas.width/rect.width,(event.clientY-rect.top)*canvas.height/rect.height]; };
+    canvas.onpointerdown = event => { event.preventDefault(); canvas.setPointerCapture(event.pointerId); drawing = true; context.beginPath(); const [x,y]=point(event); context.moveTo(x,y); context.lineTo(x+.1,y+.1); context.stroke(); };
+    canvas.onpointermove = event => { if (!drawing) return; event.preventDefault(); context.lineTo(...point(event)); context.stroke(); };
+    const saveDrawing = async () => {
+      if (!drawing) return; drawing=false; draft.drawings ??={}; draft.drawings[id]=canvas.toDataURL('image/png');
+      if (!draft.answers[id]?.trim()) { draft.answers[id]='[Drawing supplied; review the diagram below.]'; document.querySelector(`[data-answer="${id}"]`).value=draft.answers[id]; }
+      try { await persist(); } catch(error) { document.querySelector('#saved').textContent='Drawing not saved: '+error.message; }
+    };
+    canvas.onpointerup=saveDrawing; canvas.onpointercancel=saveDrawing;
+    document.querySelector(`[data-clear-drawing="${id}"]`).onclick=async () => {
+      context.clearRect(0,0,canvas.width,canvas.height); delete (draft.drawings||{})[id];
+      if (draft.answers[id]==='[Drawing supplied; review the diagram below.]') { draft.answers[id]=''; document.querySelector(`[data-answer="${id}"]`).value=''; }
+      try { await persist(); } catch(error) { document.querySelector('#saved').textContent='Not saved: '+error.message; }
+    };
+  });
   document.querySelectorAll("[data-answer]").forEach(
     (el) =>
       (el.oninput = async () => {

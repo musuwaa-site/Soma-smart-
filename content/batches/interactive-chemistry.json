@@ -1,0 +1,2518 @@
+{
+  "paper": {
+    "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+    "title": "Mkalama District Council • Chemistry • May 2025 • scored selection",
+    "form": 1,
+    "subjectId": "chemistry",
+    "sourceType": "district",
+    "institution": "Mkalama District Council (printed paper and scheme)",
+    "year": 2025,
+    "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+    "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+    "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+    "sourceDocumentId": "source-d059bebfa47291f7",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "verificationScope": "Complete original paper transcribed; only listed unambiguous answerable items admitted to scoring. Source spelling/grammar and repeated labels preserved.",
+    "publicationStatus": "published",
+    "publicationScope": "selected-questions",
+    "completePaper": false,
+    "transcriptionComplete": true,
+    "questionIds": [
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-i",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-ii",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-iii",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-iv",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-vii",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-viii",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-ix",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-x",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-2",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-a",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-b",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-c",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-d",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-6-a",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-6-b",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-7-a",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-7-b",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-9",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-1",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-2",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-3",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-4",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-5"
+    ],
+    "allTranscribedQuestionIds": [
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-i",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-ii",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-iii",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-iv",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-v",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-vi",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-vii",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-viii",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-ix",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-x",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-2",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-a",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-b",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-c",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-d",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-a",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-b",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-c",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-a",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-b",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-6-a",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-6-b",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-7-a",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-7-b",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-8",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-9",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-1",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-2",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-3",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-4",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-5"
+    ],
+    "draftQuestionIds": [
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-v",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-vi",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-a",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-b",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-c",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-a",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-b",
+      "mkalama-f1-2025-chemistry-d059bebfa47291f7-8"
+    ],
+    "maximumMarks": 68,
+    "sourceMaximumMarks": 100,
+    "sourceInstructions": [
+      "This paper consists section A, B , C with a ten (10) questions",
+      "Answer all questions in all sections",
+      "Section “A” and “C” carry (15) marks and section “B” carry (70) marks",
+      "All writing must be in blue/black ink except drawing in a pencil"
+    ],
+    "sourceSectionInstructions": {
+      "A": "SECTION A (15 MARKS)",
+      "B": "SECTION B (70 mark)\nanswer all questions in this sections",
+      "C": "SECTION C (15 MARKS)"
+    },
+    "sourceMarkingResource": {
+      "id": "guide-989adf201ed8ec4a",
+      "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+      "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+      "pageImages": [
+        "/source-papers/guide-989adf201ed8ec4a/page-001.jpg",
+        "/source-papers/guide-989adf201ed8ec4a/page-002.jpg",
+        "/source-papers/guide-989adf201ed8ec4a/page-003.jpg"
+      ],
+      "pageCount": 3,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "contentMode": "source-marking-guide",
+      "title": "Source-provided answer guide",
+      "provenance": "Issuing district/archive-provided marking resource; not an official NECTA scheme",
+      "associatedSourceId": "d059bebfa47291f7",
+      "associationEvidence": "https://mlostudies.com/other.php?exam=FORM+ONE+TERMINAL+EXAMINATION+MKALAMA+DC&year=2025&form=Form_One"
+    },
+    "excludedQuestions": [
+      {
+        "number": "1(v)",
+        "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-v",
+        "reason": "Printed question says 'Painting'; source key is A (Confidence), inconsistent with the likely intended fainting/consciousness concept. Original text and source key retained; item withheld, no silent correction."
+      },
+      {
+        "number": "1(vi)",
+        "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-vi",
+        "reason": "Source key D, but firewood and paper can also burn; the printed question gives no further distinguishing information. Withheld as ambiguous, original wording unchanged."
+      },
+      {
+        "number": "4(a)",
+        "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-a",
+        "reason": "Whole Q4 source allocation is inconsistent: scheme assigns 2+4+5=11 marks and part(c) asks four points but scheme says five marks. All Q4 parts retained as draft until allocation is reconciled; question unchanged."
+      },
+      {
+        "number": "4(b)",
+        "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-b",
+        "reason": "Whole Q4 source allocation is inconsistent: scheme assigns 2+4+5=11 marks and part(c) asks four points but scheme says five marks. All Q4 parts retained as draft until allocation is reconciled; question unchanged."
+      },
+      {
+        "number": "4(c)",
+        "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-c",
+        "reason": "Whole Q4 source allocation is inconsistent: scheme assigns 2+4+5=11 marks and part(c) asks four points but scheme says five marks. All Q4 parts retained as draft until allocation is reconciled; question unchanged."
+      },
+      {
+        "number": "5(a)",
+        "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-a",
+        "reason": "Whole Q5 is withheld: part(b) refers to “the following apparatus” but no apparatus list or pictures appear in the complete source paper. Scheme supplies a different table that cannot be silently inserted into the original question. Part(b) mark allocation is also unstated."
+      },
+      {
+        "number": "5(b)",
+        "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-b",
+        "reason": "Whole Q5 is withheld: part(b) refers to “the following apparatus” but no apparatus list or pictures appear in the complete source paper. Scheme supplies a different table that cannot be silently inserted into the original question. Part(b) mark allocation is also unstated."
+      },
+      {
+        "number": "8",
+        "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-8",
+        "reason": "Source scheme prints “@ 2 marks total 5 marks” for five listed points, which is arithmetically inconsistent. Retained unchanged as a draft; do not invent a one-mark increment or maximum interpretation."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-i",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "1(i)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-i",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)- (ii), choose the correct answer from the given alternatives and write its letter in the answer sheet provided:",
+      "content": "Chemistry deals with?",
+      "options": [
+        "Physical properties of matter",
+        "Chemical properties of matter",
+        "Composition and decomposition of matter",
+        "Experimental base"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-001.jpg",
+          "alt": "Complete original Chemistry question-paper page 1; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks.",
+      "markIncrementProvenance": "Source one-mark item/point allocation where stated; written holistic steps below are independently prepared self-assessment guidance.",
+      "answerKey": "Composition and decomposition of matter",
+      "markingGuide": "Source-provided key, checked against the original item and options.",
+      "solutionProvenance": "Objective key from matching source scheme, visually compared with paper.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "1(i)",
+      "optionLabels": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ]
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-ii",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "1(ii)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-ii",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)- (ii), choose the correct answer from the given alternatives and write its letter in the answer sheet provided:",
+      "content": "The following are the products made from chemistry application in medicine field except?",
+      "options": [
+        "Pesticides",
+        "drugs",
+        "vaccines",
+        "food supplements"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-001.jpg",
+          "alt": "Complete original Chemistry question-paper page 1; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks.",
+      "markIncrementProvenance": "Source one-mark item/point allocation where stated; written holistic steps below are independently prepared self-assessment guidance.",
+      "answerKey": "Pesticides",
+      "markingGuide": "Source-provided key, checked against the original item and options.",
+      "solutionProvenance": "Objective key from matching source scheme, visually compared with paper.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "1(ii)",
+      "optionLabels": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ]
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-iii",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "1(iii)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-iii",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)- (ii), choose the correct answer from the given alternatives and write its letter in the answer sheet provided:",
+      "content": "The first aid item which reduce muscles pains is?",
+      "options": [
+        "pain killer",
+        "liniments",
+        "petroleum jelly",
+        "gentian violet"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-001.jpg",
+          "alt": "Complete original Chemistry question-paper page 1; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks.",
+      "markIncrementProvenance": "Source one-mark item/point allocation where stated; written holistic steps below are independently prepared self-assessment guidance.",
+      "answerKey": "liniments",
+      "markingGuide": "Source-provided key, checked against the original item and options.",
+      "solutionProvenance": "Objective key from matching source scheme, visually compared with paper.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "1(iii)",
+      "optionLabels": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ]
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-iv",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "1(iv)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-iv",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)- (ii), choose the correct answer from the given alternatives and write its letter in the answer sheet provided:",
+      "content": "The following are not the measuring apparatus?",
+      "options": [
+        "Pipette",
+        "Measuring cylinder",
+        "Booker",
+        "Thermometer"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-001.jpg",
+          "alt": "Complete original Chemistry question-paper page 1; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks.",
+      "markIncrementProvenance": "Source one-mark item/point allocation where stated; written holistic steps below are independently prepared self-assessment guidance.",
+      "answerKey": "Booker",
+      "markingGuide": "Source-provided key, checked against the original item and options.",
+      "solutionProvenance": "Objective key from matching source scheme, visually compared with paper.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "1(iv)",
+      "optionLabels": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ]
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-v",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "1(v)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-v",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)- (ii), choose the correct answer from the given alternatives and write its letter in the answer sheet provided:",
+      "content": "Painting is sudden loss of?",
+      "options": [
+        "Confidence",
+        "Body weight",
+        "Water in the body",
+        "Consciousness"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-001.jpg",
+          "alt": "Complete original Chemistry question-paper page 1; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks.",
+      "markIncrementProvenance": "Source one-mark item/point allocation where stated; written holistic steps below are independently prepared self-assessment guidance.",
+      "answerKey": "Confidence",
+      "markingGuide": "Source-provided key, checked against the original item and options.",
+      "solutionProvenance": "Objective key from matching source scheme, visually compared with paper.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Printed question says 'Painting'; source key is A (Confidence), inconsistent with the likely intended fainting/consciousness concept. Original text and source key retained; item withheld, no silent correction.",
+      "originalLabel": "1(v)",
+      "optionLabels": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ]
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-vi",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "1(vi)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-vi",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)- (ii), choose the correct answer from the given alternatives and write its letter in the answer sheet provided:",
+      "content": "A form one students saw a flammable sign in a box. This suggest that the box is most likely to contain",
+      "options": [
+        "Firewood",
+        "Papers",
+        "Radioactive materials",
+        "Spirit used in lamp"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-001.jpg",
+          "alt": "Complete original Chemistry question-paper page 1; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks.",
+      "markIncrementProvenance": "Source one-mark item/point allocation where stated; written holistic steps below are independently prepared self-assessment guidance.",
+      "answerKey": "Spirit used in lamp",
+      "markingGuide": "Source-provided key, checked against the original item and options.",
+      "solutionProvenance": "Objective key from matching source scheme, visually compared with paper.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Source key D, but firewood and paper can also burn; the printed question gives no further distinguishing information. Withheld as ambiguous, original wording unchanged.",
+      "originalLabel": "1(vi)",
+      "optionLabels": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ]
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-vii",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "1(vii)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-vii",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)- (ii), choose the correct answer from the given alternatives and write its letter in the answer sheet provided:",
+      "content": "Your chemistry teacher denied a students to enter the laboratory because of floppy clothing. This is because the cloth may?",
+      "options": [
+        "Be blown by wind",
+        "Affects measurements",
+        "Catch fire or one cause to fall",
+        "Cause poor ventilation in the body"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-001.jpg",
+          "alt": "Complete original Chemistry question-paper page 1; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks.",
+      "markIncrementProvenance": "Source one-mark item/point allocation where stated; written holistic steps below are independently prepared self-assessment guidance.",
+      "answerKey": "Catch fire or one cause to fall",
+      "markingGuide": "Source-provided key, checked against the original item and options.",
+      "solutionProvenance": "Objective key from matching source scheme, visually compared with paper.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "1(vii)",
+      "optionLabels": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ]
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-viii",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "1(viii)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-viii",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)- (ii), choose the correct answer from the given alternatives and write its letter in the answer sheet provided:",
+      "content": "A person at home can apply chemistry in?",
+      "options": [
+        "Playing games",
+        "Watching television",
+        "Dusting floor in a house",
+        "Cooking food in a kitchen"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-001.jpg",
+          "alt": "Complete original Chemistry question-paper page 1; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks.",
+      "markIncrementProvenance": "Source one-mark item/point allocation where stated; written holistic steps below are independently prepared self-assessment guidance.",
+      "answerKey": "Cooking food in a kitchen",
+      "markingGuide": "Source-provided key, checked against the original item and options.",
+      "solutionProvenance": "Objective key from matching source scheme, visually compared with paper.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "1(viii)",
+      "optionLabels": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ]
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-ix",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "1(ix)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-ix",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)- (ii), choose the correct answer from the given alternatives and write its letter in the answer sheet provided:",
+      "content": "Which is warning sign relate directly with mercury?",
+      "options": [
+        "Toxic",
+        "Corrosive",
+        "Irritant",
+        "Radioactive"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-001.jpg",
+          "alt": "Complete original Chemistry question-paper page 1; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks.",
+      "markIncrementProvenance": "Source one-mark item/point allocation where stated; written holistic steps below are independently prepared self-assessment guidance.",
+      "answerKey": "Toxic",
+      "markingGuide": "Source-provided key, checked against the original item and options.",
+      "solutionProvenance": "Objective key from matching source scheme, visually compared with paper.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "1(ix)",
+      "optionLabels": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ]
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-x",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "1(x)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-x",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)- (ii), choose the correct answer from the given alternatives and write its letter in the answer sheet provided:",
+      "content": "A long handled spoon used to heat the small amount of substances inside a jar is called",
+      "options": [
+        "Spatula",
+        "Scooper",
+        "Deflagrating spoon",
+        "Crucible"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-001.jpg",
+          "alt": "Complete original Chemistry question-paper page 1; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks.",
+      "markIncrementProvenance": "Source one-mark item/point allocation where stated; written holistic steps below are independently prepared self-assessment guidance.",
+      "answerKey": "Deflagrating spoon",
+      "markingGuide": "Source-provided key, checked against the original item and options.",
+      "solutionProvenance": "Objective key from matching source scheme, visually compared with paper.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "1(x)",
+      "optionLabels": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ]
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-2",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-2",
+      "type": "matching",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Match the item in a list “A” with a correct response in a list “B” by writing a later of correct response as shown below.",
+      "options": [
+        "(a) Study of matter, energy and interactions between the two",
+        "(b) Study of carbon compounds",
+        "(c) Study of chemical characteristics of the non- carbon compound.",
+        "(d) Study of the chemical process that occur in living things",
+        "(e) Study of biochemical process that occur in a natural environments",
+        "(f) Study and uses of instruments and methods used to separate , identify and quantify chemical species in a matter",
+        "(g) Deals with relations between physical properties of substances and their chemical composition and transformation by using laws and concept of physics"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 5 marks.",
+      "markIncrementProvenance": "Source one-mark item/point allocation where stated; written holistic steps below are independently prepared self-assessment guidance.",
+      "answerKey": {
+        "i": "(b) Study of carbon compounds",
+        "ii": "(c) Study of chemical characteristics of the non- carbon compound.",
+        "iii": "(f) Study and uses of instruments and methods used to separate , identify and quantify chemical species in a matter",
+        "iv": "(d) Study of the chemical process that occur in living things",
+        "v": "(g) Deals with relations between physical properties of substances and their chemical composition and transformation by using laws and concept of physics"
+      },
+      "markingGuide": "Source scheme: one mark for each correct matching response, total five marks. i–B; ii–C; iii–F; iv–D; v–G.",
+      "solutionProvenance": "Objective key from matching source scheme, visually compared with paper.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "2",
+      "pairs": [
+        {
+          "id": "i",
+          "left": "Organic chemistry"
+        },
+        {
+          "id": "ii",
+          "left": "Inorganic chemistry"
+        },
+        {
+          "id": "iii",
+          "left": "Analytical chemistry"
+        },
+        {
+          "id": "iv",
+          "left": "Biochemistry"
+        },
+        {
+          "id": "v",
+          "left": "Physical chemistry"
+        }
+      ],
+      "table": [
+        [
+          "LIST A",
+          "LIST B"
+        ],
+        [
+          "Organic chemistry",
+          "(a) Study of matter, energy and interactions between the two"
+        ],
+        [
+          "Inorganic chemistry",
+          "(b) Study of carbon compounds"
+        ],
+        [
+          "Analytical chemistry",
+          "(c) Study of chemical characteristics of the non- carbon compound."
+        ],
+        [
+          "Biochemistry",
+          "(d) Study of the chemical process that occur in living things"
+        ],
+        [
+          "Physical chemistry",
+          "(e) Study of biochemical process that occur in a natural environments"
+        ],
+        [
+          "",
+          "(f) Study and uses of instruments and methods used to separate , identify and quantify chemical species in a matter"
+        ],
+        [
+          "",
+          "(g) Deals with relations between physical properties of substances and their chemical composition and transformation by using laws and concept of physics"
+        ]
+      ]
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-a",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "3(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-a",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "what is chemistry laboratory?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 2 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "A chemistry laboratory is a specially equipped room for carrying out chemical experiments.",
+      "markingGuide": "Source maximum 2 marks. Independent self-assessment: identifies an appropriately equipped/special room (1) and chemical experiments/investigations (1).",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "3(a)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-b",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "3(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-b",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Imagine you have been given a chance to advise the school building committee on how should the laboratory building look like. What could be your advice? (4 points)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 4 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Four appropriate features include large windows for ventilation, a fume cupboard/chamber, outward-opening exit doors, and a suitable drainage system. A safe controlled gas supply is another source-accepted feature.",
+      "markingGuide": "Source scheme: any four relevant features at one mark each, maximum 4. Features must support a safe laboratory; do not advise unsafe unrestricted gas supplies.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "3(b)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-c",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "3(c)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-c",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Why laboratory rules are so important?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 2 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Laboratory rules guide safe conduct and reduce accidents, protecting people and equipment.",
+      "markingGuide": "Source maximum 2 marks for laboratory safety. Independent self-assessment: identifies safe conduct (1) and prevention of harm/accidents (1).",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "3(c)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-d",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "3(d)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-3-d",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Why the chemistry laboratory exists / doors should open outside?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 2 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Outward-opening exits allow people to leave quickly during an emergency, including a fire.",
+      "markingGuide": "Source maximum 2 marks: quick/unobstructed outward escape (1), linked to an emergency such as fire (1). Printed “exists / doors” is preserved in the question.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "3(d)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-a",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "4(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-a",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "What is first aids?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 2 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "First aid is immediate help given to a sick or injured person before professional medical assistance is available.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance using the source maximum of 2 marks. Accept equivalent scientifically correct wording.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Whole Q4 source allocation is inconsistent: scheme assigns 2+4+5=11 marks and part(c) asks four points but scheme says five marks. All Q4 parts retained as draft until allocation is reconciled; question unchanged.",
+      "originalLabel": "4(a)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-b",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "4(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-b",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Why first aid is so important (write 4 points)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 4 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Appropriate first aid can save life, prevent a condition from worsening, reduce pain, and promote recovery.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance using the source maximum of 4 marks. Accept equivalent scientifically correct wording.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Whole Q4 source allocation is inconsistent: scheme assigns 2+4+5=11 marks and part(c) asks four points but scheme says five marks. All Q4 parts retained as draft until allocation is reconciled; question unchanged.",
+      "originalLabel": "4(b)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-c",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "4(c)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-c",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "You as chemist, what precaution will you take when help a person burns (4points)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 5 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Ensure the scene is safe and stop exposure without endangering yourself. Cool the burn with cool running water; do not use ice, butter or ointments, and do not burst blisters. Seek urgent medical assistance for serious burns, including face/airway burns.",
+      "markingGuide": "Held: source five-mark allocation does not reconcile with the requested four points or section totals. Independent safety explanation supplied only for reference, not official scoring.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          1
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Whole Q4 source allocation is inconsistent: scheme assigns 2+4+5=11 marks and part(c) asks four points but scheme says five marks. All Q4 parts retained as draft until allocation is reconciled; question unchanged.",
+      "originalLabel": "4(c)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-a",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "5(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-a",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "(i) Soap (ii) Bandage (iii) Sterile gauze (iv) Iodine tincture (v) Petroleum jelly",
+      "content": "state one uses of each of the item (i) – (v) in administering first aids",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 2: 5 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "(i) Soap: clean hands and support hygienic cleaning. (ii) Bandage: secure a dressing or support an injury. (iii) Sterile gauze: cover a wound. (iv) Iodine tincture: an antiseptic product used only according to its instructions; do not put it into burns. (v) Petroleum jelly: protect dry, cracked skin; do not apply it to a fresh burn.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance using the source maximum of 5 marks. Accept equivalent scientifically correct wording.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          2
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Whole Q5 is withheld: part(b) refers to “the following apparatus” but no apparatus list or pictures appear in the complete source paper. Scheme supplies a different table that cannot be silently inserted into the original question. Part(b) mark allocation is also unstated.",
+      "originalLabel": "5(a)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-b",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "5(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-b",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Give one function of each of the following apparatus in the chemistry laboratory",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "marksProvenance": "Source allocation for this item is absent; not eligible for scoring.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "The paper provides no following apparatus list. No unique answer can be determined from the original question.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance using the source maximum of 0 marks. Accept equivalent scientifically correct wording.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          2
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Whole Q5 is withheld: part(b) refers to “the following apparatus” but no apparatus list or pictures appear in the complete source paper. Scheme supplies a different table that cannot be silently inserted into the original question. Part(b) mark allocation is also unstated.",
+      "originalLabel": "5(b)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-6-a",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "6(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-6-a",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Outline 5 areas where chemistry knowledge and skills can be applied",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 2: 5 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Agriculture; medicines/healthcare; manufacturing industry; transport; communication and technology.",
+      "markingGuide": "Source scheme: any five suitable application areas at one mark each, maximum 5. Accept equivalent valid areas.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          2
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "6(a)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-6-b",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "6(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-6-b",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "State (5) importance of chemistry in your daily life?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 2: 5 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Chemistry helps explain interactions between substances; supports careers such as medicine and teaching; improves agriculture; explains the production and properties of chemicals; and supports making useful products such as soaps and medicines.",
+      "markingGuide": "Source scheme: one mark per valid distinct importance, maximum 5. Independently worded model answer; accept equivalent relevant daily-life explanations.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          2
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "6(b)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-7-a",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "7(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-7-a",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Why danger are like to occur if a laboratory user failed to follow laboratory safety measure. (5 points)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 2: 5 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Failure to follow safety measures can cause chemical burns, fires, explosions, inhalation of harmful fumes, and injury or property damage. Contamination of experiments is another relevant consequence.",
+      "markingGuide": "Source scheme gives one mark per relevant danger, maximum 5. Independent model separates fire and explosion as distinct hazards; accept five distinct valid consequences with an appropriate link to unsafe conduct.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          2
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "7(a)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-7-b",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "7(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-7-b",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "How safety signs prevent accidents and injured in the laboratory?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 2: 5 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "They guide safe equipment use; warn of hazards; identify dangerous substances or areas; remind users to wear protective equipment; and help locate emergency exits or safety equipment.",
+      "markingGuide": "Source scheme: one mark per valid distinct way, maximum 5. Accept equivalent safe and relevant explanations.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          2
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "7(b)"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-8",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "8",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Why should chemicals in the laboratory be labelled and always well closed? (5points)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 3: 5 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Labels help identify contents and hazards and prevent misuse or accidental mixing. Secure containers help prevent contamination, spills and exposure and preserve chemical effectiveness.",
+      "markingGuide": "Scoring withheld because the source per-point allocation and total conflict. Independent explanation may support study but is not an official corrected scheme.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          3
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Source scheme prints “@ 2 marks total 5 marks” for five listed points, which is arithmetically inconsistent. Retained unchanged as a draft; do not invent a one-mark increment or maximum interpretation.",
+      "originalLabel": "8"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-9",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "9",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-9",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Using examples of chemical substances explain how chemistry is commonly applied in your community (5 points)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 3: 10 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Chlorine compounds can be used for controlled water treatment; fertilisers supply crop nutrients; soaps and detergents support cleaning; fuels such as petrol and diesel power transport; and medicines and vaccines support health care.",
+      "markingGuide": "Source scheme: five application examples with explanations, two marks each, total 10. Independent rubric: one for a valid substance/product example and one for its relevant application. Accept equivalent scientifically sound examples.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          3
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "9"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-1",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "10(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-1",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Draw and state the meaning of the following sign",
+      "content": "(a) Corrosive",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 3: 3 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "A suitable corrosive warning pictogram shows liquid from test tubes damaging a hand and a surface. Meaning: the material can cause severe skin/eye damage and corrode materials.",
+      "markingGuide": "Source scheme: two marks for a well-labelled correct warning-sign drawing and one mark for the correct meaning, total 3. Drawing is self-assessed; a typed description alone is not automatically awarded drawing marks.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          3
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "10(a)",
+      "originalPrintedSubpartLabel": "(a)",
+      "originalMainQuestionNumber": "10"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-2",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "10(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-2",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Draw and state the meaning of the following sign",
+      "content": "(b) Flammable",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 3: 3 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Draw the flame warning pictogram. Meaning: the material can catch fire easily.",
+      "markingGuide": "Source scheme: two marks for a well-labelled correct warning-sign drawing and one mark for the correct meaning, total 3. Drawing is self-assessed; a typed description alone is not automatically awarded drawing marks.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          3
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "10(b)",
+      "originalPrintedSubpartLabel": "(b)",
+      "originalMainQuestionNumber": "10"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-3",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "10(c)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-3",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Draw and state the meaning of the following sign",
+      "content": "(c) Toxic",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 3: 3 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Draw the skull-and-crossbones warning pictogram. Meaning: the material can cause serious poisoning or death.",
+      "markingGuide": "Source scheme: two marks for a well-labelled correct warning-sign drawing and one mark for the correct meaning, total 3. Drawing is self-assessed; a typed description alone is not automatically awarded drawing marks.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          3
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "10(c)",
+      "originalPrintedSubpartLabel": "(c)",
+      "originalMainQuestionNumber": "10"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-4",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "10(c)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-4",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Draw and state the meaning of the following sign",
+      "content": "(c) Explosive",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 3: 3 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Draw the exploding-bomb warning pictogram. Meaning: the material may explode.",
+      "markingGuide": "Source scheme: two marks for a well-labelled correct warning-sign drawing and one mark for the correct meaning, total 3. Drawing is self-assessed; a typed description alone is not automatically awarded drawing marks.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          3
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "10(c)",
+      "originalPrintedSubpartLabel": "(c)",
+      "originalMainQuestionNumber": "10"
+    },
+    {
+      "id": "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-5",
+      "paperId": "mkalama-f1-2025-chemistry-d059bebfa47291f7",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Form One Terminal Examination • Chemistry • May 2025",
+      "institution": "Mkalama District Council (printed paper and matching scheme)",
+      "year": 2025,
+      "curriculumEdition": "Current-compatible source topics; detailed cohort coverage not asserted",
+      "questionNumber": "10(c)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-chemistry-d059bebfa47291f7-10-5",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Draw and state the meaning of the following sign",
+      "content": "(c) Oxidant",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-d059bebfa47291f7/page-002.jpg",
+          "alt": "Complete original Chemistry question-paper page 2; source wording and layout unchanged.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 3: 3 marks.",
+      "markIncrementProvenance": "SomaSmart independent whole-mark self-assessment; source maximum retained when unambiguous. Source per-point weights are identified in markingGuide. No official subpart weights are invented.",
+      "answerKey": "Draw the flame-over-circle warning pictogram. Meaning: an oxidising material can cause or intensify fire.",
+      "markingGuide": "Source scheme: two marks for a well-labelled correct warning-sign drawing and one mark for the correct meaning, total 3. Drawing is self-assessed; a typed description alone is not automatically awarded drawing marks.",
+      "solutionProvenance": "SomaSmart independent model answer, checked against the source scheme; safety-sensitive source advice is not reproduced as medical guidance.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceMarkingResource": {
+        "id": "guide-989adf201ed8ec4a",
+        "sha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+        "sourcePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+        "sourceReference": "https://drive.google.com/uc?export=download&id=105qWexul94JR4t5W2kWilhLzkDO2YGZ0",
+        "pages": [
+          3
+        ],
+        "provenance": "Mkalama District Chemistry source scheme; not NECTA"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Question text, all options/subparts and common wording compared visually with complete source pages. Source scheme checked. Line wraps normalized; printed spelling and grammar preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sourceIssue": null,
+      "originalLabel": "10(c)",
+      "originalPrintedSubpartLabel": "(c)",
+      "originalMainQuestionNumber": "10"
+    }
+  ],
+  "verificationNotes": [
+    "All two source-paper pages and all three source-guide pages inspected visually. Complete transcription contains every main question 1–10 and every printed MCQ, matching row and written part. Whitespace/line wraps normalized, source spelling/grammar retained.",
+    "Original MCQ instruction range is printed (i)-(ii) although ten items follow; retained as printed.",
+    "Question 10 repeats label (c) for Toxic, Explosive and Oxidant; original labels preserved with distinct stable record IDs.",
+    "Source spelling Booker (MCQ iv), Painting (MCQ v), later (Q2), exists (Q3d), and injured (Q7b) retained. No silent corrections.",
+    "Scheme total for section B does not reconcile to stated 70 marks. Selected item marks only are summed, not represented as a complete scored paper.",
+    "The archive-labelled Moshi Chemistry paper source-91e924fa53eedb6a is actually Computer Science; its purported associated Chemistry guide mismatches and must not be scored as Chemistry."
+  ],
+  "sourceIntegrity": {
+    "paperSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+    "guideSha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5"
+  }
+}

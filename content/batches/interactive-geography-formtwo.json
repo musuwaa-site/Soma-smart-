@@ -1,0 +1,3075 @@
+{
+  "paper": {
+    "id": "necta-ftna-2025-geography-a9ccc340e86c5170",
+    "title": "NECTA FTNA 2025 • Geography • scored selection",
+    "form": 2,
+    "subjectId": "geography",
+    "sourceType": "necta",
+    "institution": "National Examinations Council of Tanzania (printed cover)",
+    "year": 2025,
+    "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+    "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+    "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+    "sourceDocumentId": "source-a9ccc340e86c5170",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "scope": "Use of genuine examination papers in SomaSmart",
+      "confirmedBy": "owner",
+      "verification": "Owner assertion; no document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "verificationScope": "Only Question10 has an individually unambiguous printed allocation. Complete paper text is retained as structured drafts; no full scored-paper claim.",
+    "publicationStatus": "published",
+    "publicationScope": "selected-questions",
+    "completePaper": false,
+    "completeTranscription": true,
+    "sourceMainQuestionCount": 10,
+    "sourceAnswerableParts": 46,
+    "questionIds": [
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q10"
+    ],
+    "allQuestionIds": [
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-i",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-ii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-iii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-iv",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-v",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-vi",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-vii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-viii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-ix",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-x",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q2",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q3-a",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q3-b",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q3-c",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q4-a",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q4-b",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q4-c",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q5-a",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q5-b",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q6-a",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q6-b",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q6-c",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-i",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-ii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-iii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-iv",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-v",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-b",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-c",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-d",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-a-i",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-a-ii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-A",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-B",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-C",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-D",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-E",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-F",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-G",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q9-a",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q9-b",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q10"
+    ],
+    "heldQuestionIds": [
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-i",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-ii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-iii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-iv",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-v",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-vi",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-vii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-viii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-ix",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q1-x",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q2",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q3-a",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q3-b",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q3-c",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q4-a",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q4-b",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q4-c",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q5-a",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q5-b",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q6-a",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q6-b",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q6-c",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-i",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-ii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-iii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-iv",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-v",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-b",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-c",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q7-d",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-a-i",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-a-ii",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-A",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-B",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-C",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-D",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-E",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-F",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-G",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q9-a",
+      "necta-ftna-2025-geography-a9ccc340e86c5170-q9-b"
+    ],
+    "maximumMarks": 15,
+    "sourceMaximumMarks": 100,
+    "sourceInstructions": [
+      "This paper consists of sections A, B and C with a total of ten (10) questions.",
+      "Answer all questions in the spaces provided.",
+      "Section A and C carry fifteen (15) marks each and section B carries seventy (70) marks.",
+      "All writing must be in blue or black ink, except drawings which must be in pencil.",
+      "Communication devices and any unauthorised materials are not allowed in the assessment room.",
+      "Write your Assessment Number at the top right corner of every page."
+    ],
+    "sourceSections": [
+      {
+        "label": "SECTION A (15 Marks)",
+        "instructions": "Answer all questions in this section."
+      },
+      {
+        "label": "SECTION B (70 Marks)",
+        "instructions": "Answer all questions in this section."
+      },
+      {
+        "label": "SECTION C (15 Marks)",
+        "instructions": "Answer question ten (10)."
+      }
+    ],
+    "sourceHeading": "THE UNITED REPUBLIC OF TANZANIA\nNATIONAL EXAMINATIONS COUNCIL OF TANZANIA\nFORM TWO NATIONAL ASSESSMENT\n013 GEOGRAPHY\nDuration:2:30 Hours\nYear:2025",
+    "excludedQuestions": [
+      {
+        "number": "1",
+        "reason": "Only the printed section total is available; no verified individual allocation or official source guide acquired. All wording and independently checked study answers are retained as drafts."
+      },
+      {
+        "number": "2",
+        "reason": "Only the printed section total is available; no verified individual allocation or official source guide acquired. All wording and independently checked study answers are retained as drafts."
+      },
+      {
+        "number": "3",
+        "reason": "Only the printed section total is available; no verified individual allocation or official source guide acquired. All wording and independently checked study answers are retained as drafts."
+      },
+      {
+        "number": "4",
+        "reason": "Only the printed section total is available; no verified individual allocation or official source guide acquired. All wording and independently checked study answers are retained as drafts."
+      },
+      {
+        "number": "5",
+        "reason": "Only the printed section total is available; no verified individual allocation or official source guide acquired. All wording and independently checked study answers are retained as drafts."
+      },
+      {
+        "number": "6",
+        "reason": "Only the printed section total is available; no verified individual allocation or official source guide acquired. All wording and independently checked study answers are retained as drafts."
+      },
+      {
+        "number": "7",
+        "reason": "Only the printed section total is available; no verified individual allocation or official source guide acquired. All wording and independently checked study answers are retained as drafts."
+      },
+      {
+        "number": "8",
+        "reason": "Only the printed section total is available; no verified individual allocation or official source guide acquired. All wording and independently checked study answers are retained as drafts."
+      },
+      {
+        "number": "9",
+        "reason": "Only the printed section total is available; no verified individual allocation or official source guide acquired. All wording and independently checked study answers are retained as drafts."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q1-i",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-1",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "1(i)",
+      "mainQuestionNumber": "1",
+      "type": "mcq",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Sage had a tour away from his country where he experienced high temperature during day time and low temperature during the night. Which climatic region was visited by Sage?",
+      "sharedContent": "For each of the items (i) - (x), choose the correct answer from the given alternatives and write its letter in the box provided.",
+      "options": [
+        "A. Tropical climate",
+        "B. Tundra climate",
+        "C. Mountain climate",
+        "D. Hot desert climate"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-002.jpg",
+          "alt": "Unchanged original Geography question paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "D. Hot desert climate",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "workedSolution": "Hot deserts commonly have a large daily temperature range under dry, clear skies."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q1-ii",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-1",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "1(ii)",
+      "mainQuestionNumber": "1",
+      "type": "mcq",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Gemu grows maize, potatoes and keeps hens on her farm. Identify the agriculture method practiced by her.",
+      "sharedContent": "For each of the items (i) - (x), choose the correct answer from the given alternatives and write its letter in the box provided.",
+      "options": [
+        "A. Mixed farming",
+        "B. Crop rotation",
+        "C. Shifting cultivation",
+        "D. Bush fallowing"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-002.jpg",
+          "alt": "Unchanged original Geography question paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A. Mixed farming",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "workedSolution": "Mixed farming combines crop cultivation with livestock keeping."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q1-iii",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-1",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "1(iii)",
+      "mainQuestionNumber": "1",
+      "type": "mcq",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Which type of renewable energy resource is affordable and mainly used by rural societies in Tanzania?",
+      "sharedContent": "For each of the items (i) - (x), choose the correct answer from the given alternatives and write its letter in the box provided.",
+      "options": [
+        "A. Coal",
+        "B. Natural gas",
+        "C. Fuel wood",
+        "D. Petroleum"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-002.jpg",
+          "alt": "Unchanged original Geography question paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "C. Fuel wood",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "workedSolution": "Fuel wood is the only renewable biomass option among these choices, provided harvesting is balanced by regrowth."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q1-iv",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-1",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "1(iv)",
+      "mainQuestionNumber": "1",
+      "type": "mcq",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Which type of transport will be suitable for transporting new school buses from Japan to Dar es Salaam City?",
+      "sharedContent": "For each of the items (i) - (x), choose the correct answer from the given alternatives and write its letter in the box provided.",
+      "options": [
+        "A. Land transport",
+        "B. Air transport",
+        "C. Pipe line transport",
+        "D. Water transport"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-002.jpg",
+          "alt": "Unchanged original Geography question paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "D. Water transport",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "workedSolution": "Sea shipping can carry large vehicles between Japan and the port of Dar es Salaam."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q1-v",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-1",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "1(v)",
+      "mainQuestionNumber": "1",
+      "type": "mcq",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "United States of America has large stretches of land. What time zones are accepted to avoid time confusion?",
+      "sharedContent": "For each of the items (i) - (x), choose the correct answer from the given alternatives and write its letter in the box provided.",
+      "options": [
+        "A. Several time zones",
+        "B. Dual time zones",
+        "C. Particular time zone",
+        "D. Constant time zone"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-002.jpg",
+          "alt": "Unchanged original Geography question paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A. Several time zones",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "workedSolution": "The USA spans multiple longitudes and uses several standard time zones."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q1-vi",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-1",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "1(vi)",
+      "mainQuestionNumber": "1",
+      "type": "mcq",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Asha travelled from Tanzania to Namibia to visit Caprivi Game Park. Who is Asha in Namibia?",
+      "sharedContent": "For each of the items (i) - (x), choose the correct answer from the given alternatives and write its letter in the box provided.",
+      "options": [
+        "A. Domestic tourist",
+        "B. International geologist",
+        "C. Domestic geologist",
+        "D. International tourist"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-002.jpg",
+          "alt": "Unchanged original Geography question paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "D. International tourist",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "workedSolution": "She crosses a national border to visit a destination, making her an international tourist."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q1-vii",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-1",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "1(vii)",
+      "mainQuestionNumber": "1",
+      "type": "mcq",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Which type of mountain is formed by cooling and solidification of hot molten materials from the interior of the Earth?",
+      "sharedContent": "For each of the items (i) - (x), choose the correct answer from the given alternatives and write its letter in the box provided.",
+      "options": [
+        "A. Volcanic mountain",
+        "B. Block mountain",
+        "C. Fold mountain",
+        "D. Residual mountain"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-002.jpg",
+          "alt": "Unchanged original Geography question paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A. Volcanic mountain",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "workedSolution": "Accumulated erupted material cools and solidifies to build a volcanic mountain."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q1-viii",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-01"
+      ],
+      "subtopicIds": [
+        "geography-f1-01"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-1",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "1(viii)",
+      "mainQuestionNumber": "1",
+      "type": "mcq",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Aksh was told by his teacher to use scale of a map which is written in a division. Which map scale will he use?",
+      "sharedContent": "For each of the items (i) - (x), choose the correct answer from the given alternatives and write its letter in the box provided.",
+      "options": [
+        "A. Linear scale",
+        "B. Statement scale",
+        "C. Representative fraction scale",
+        "D. Medium scale"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-003.jpg",
+          "alt": "Unchanged original Geography question paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A. Linear scale",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        3
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "workedSolution": "A linear or bar scale is drawn as a divided line. The original phrase “written in a division” is retained."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q1-ix",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-1",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "1(ix)",
+      "mainQuestionNumber": "1",
+      "type": "mcq",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Rabia’s father is working in an industry which changes leather to shoes. What type of industry is that?",
+      "sharedContent": "For each of the items (i) - (x), choose the correct answer from the given alternatives and write its letter in the box provided.",
+      "options": [
+        "A. Fabricating industry",
+        "B. Processing industry",
+        "C. Chemical industry",
+        "D. Textile industry"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-003.jpg",
+          "alt": "Unchanged original Geography question paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A. Fabricating industry",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        3
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "workedSolution": "Shoe manufacture fabricates a finished product from leather rather than simply processing a raw agricultural/mineral material."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q1-x",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-1",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "1(x)",
+      "mainQuestionNumber": "1",
+      "type": "mcq",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Which mineral among the following is used for cutting and shaping glass into different shapes?",
+      "sharedContent": "For each of the items (i) - (x), choose the correct answer from the given alternatives and write its letter in the box provided.",
+      "options": [
+        "A. Coal",
+        "B. Copper",
+        "C. Diamond",
+        "D. Iron"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-003.jpg",
+          "alt": "Unchanged original Geography question paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "C. Diamond",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        3
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "workedSolution": "Diamond’s hardness makes it suitable for cutting glass."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q2",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-2",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "2",
+      "mainQuestionNumber": "2",
+      "type": "matching",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Match the descriptions of surface and underground water sources in List A with their corresponding names in List B by writing the letter of the correct response below the item number in the table provided.",
+      "sharedContent": "",
+      "options": [
+        "A. Pond",
+        "B. River",
+        "C. Well",
+        "D. Lake",
+        "E. Ocean",
+        "F. Spring",
+        "G. Stream"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-003.jpg",
+          "alt": "Unchanged original Geography question paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": {
+        "i": "C. Well",
+        "ii": "F. Spring",
+        "iii": "G. Stream",
+        "iv": "B. River",
+        "v": "E. Ocean"
+      },
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        3
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "pairs": [
+        {
+          "id": "i",
+          "left": "Water found through drilling the water table."
+        },
+        {
+          "id": "ii",
+          "left": "Water which flow from the ground naturally."
+        },
+        {
+          "id": "iii",
+          "left": "Running water within a small channel."
+        },
+        {
+          "id": "iv",
+          "left": "Moving water within a natural channel into a lake."
+        },
+        {
+          "id": "v",
+          "left": "Large body of salt water on the Earth’s surface."
+        }
+      ],
+      "table": [
+        [
+          "List A",
+          "List B"
+        ],
+        [
+          "(i) Water found through drilling the water table.",
+          "A. Pond"
+        ],
+        [
+          "(ii) Water which flow from the ground naturally.",
+          "B. River"
+        ],
+        [
+          "(iii) Running water within a small channel.",
+          "C. Well"
+        ],
+        [
+          "(iv) Moving water within a natural channel into a lake.",
+          "D. Lake"
+        ],
+        [
+          "(v) Large body of salt water on the Earth’s surface.",
+          "E. Ocean"
+        ],
+        [
+          "",
+          "F. Spring"
+        ],
+        [
+          "",
+          "G. Stream"
+        ]
+      ],
+      "subquestions": [
+        {
+          "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q2-i",
+          "label": "i",
+          "content": "Water found through drilling the water table.",
+          "parentQuestionId": "necta-ftna-2025-geography-a9ccc340e86c5170-q2"
+        },
+        {
+          "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q2-ii",
+          "label": "ii",
+          "content": "Water which flow from the ground naturally.",
+          "parentQuestionId": "necta-ftna-2025-geography-a9ccc340e86c5170-q2"
+        },
+        {
+          "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q2-iii",
+          "label": "iii",
+          "content": "Running water within a small channel.",
+          "parentQuestionId": "necta-ftna-2025-geography-a9ccc340e86c5170-q2"
+        },
+        {
+          "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q2-iv",
+          "label": "iv",
+          "content": "Moving water within a natural channel into a lake.",
+          "parentQuestionId": "necta-ftna-2025-geography-a9ccc340e86c5170-q2"
+        },
+        {
+          "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q2-v",
+          "label": "v",
+          "content": "Large body of salt water on the Earth’s surface.",
+          "parentQuestionId": "necta-ftna-2025-geography-a9ccc340e86c5170-q2"
+        }
+      ],
+      "workedSolution": "A well is made by digging/drilling to access groundwater; a spring is natural groundwater discharge; a stream is smaller running-channel water; a river flows in a natural channel into another water body; an ocean is a large saline water body."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q3-a",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-01"
+      ],
+      "subtopicIds": [
+        "geography-f2-01"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-3",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "3(a)",
+      "mainQuestionNumber": "3",
+      "type": "calculation",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Convert the temperature of the Kocho village into Fahrenheit.",
+      "sharedContent": "The temperature at Shoro village which is located at 800m above the sea level is 68°F, and the temperature of Kocho village is 32°C.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-003.jpg",
+          "alt": "Unchanged original Geography question paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "89.6°F",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        3
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "workedSolution": "F=(9/5)C+32=(9/5)×32+32=57.6+32=89.6°F."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q3-b",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-01"
+      ],
+      "subtopicIds": [
+        "geography-f2-01"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-3",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "3(b)",
+      "mainQuestionNumber": "3",
+      "type": "calculation",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Convert the temperature of Shoro village into Centigrade.",
+      "sharedContent": "The temperature at Shoro village which is located at 800m above the sea level is 68°F, and the temperature of Kocho village is 32°C.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-003.jpg",
+          "alt": "Unchanged original Geography question paper page 3.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-004.jpg",
+          "alt": "Unchanged original Geography question paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "20°C",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        3,
+        4
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "workedSolution": "C=(5/9)(F−32)=(5/9)(68−32)=(5/9)×36=20°C. The stated 800m altitude is not needed for the conversion."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q3-c",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-01"
+      ],
+      "subtopicIds": [
+        "geography-f2-01"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-3",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "3(c)",
+      "mainQuestionNumber": "3",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Identify six possible causes of temperature variation in those villages.",
+      "sharedContent": "The temperature at Shoro village which is located at 800m above the sea level is 68°F, and the temperature of Kocho village is 32°C.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-003.jpg",
+          "alt": "Unchanged original Geography question paper page 3.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-004.jpg",
+          "alt": "Unchanged original Geography question paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Differences in altitude, latitude, distance from a large water body, prevailing winds/air masses, cloud cover, and vegetation/land cover. Local slope/aspect and ocean-current influence may also be valid. These are possible controls; the limited data do not prove which six differ between the named villages.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        3,
+        4
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q4-a",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-4",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "4(a)",
+      "mainQuestionNumber": "4",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "How is the main resource seen by the students called?",
+      "sharedContent": "The Form Two students saw an extensive area covered with trees of same sizes and species.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-005.jpg",
+          "alt": "Unchanged original Geography question paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A planted forest (plantation forest). Similar size and the same species indicate a planted stand.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        5
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q4-b",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-4",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "4(b)",
+      "mainQuestionNumber": "4",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Name the type of the resource mentioned in (a).",
+      "sharedContent": "The Form Two students saw an extensive area covered with trees of same sizes and species.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-005.jpg",
+          "alt": "Unchanged original Geography question paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A renewable natural/biotic resource when the trees are regenerated and managed sustainably; more specifically a forest resource.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        5
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q4-c",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-4",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "4(c)",
+      "mainQuestionNumber": "4",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Describe four possible factors which may affect distribution of the resource.",
+      "sharedContent": "The Form Two students saw an extensive area covered with trees of same sizes and species.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-005.jpg",
+          "alt": "Unchanged original Geography question paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Climate determines rainfall and temperature available for tree growth; soils supply nutrients/drainage suitable for the species; relief/altitude affect local growing conditions; human activities such as planting, clearing, management and protection determine where plantation forest occurs.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        5
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q5-a",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-01"
+      ],
+      "subtopicIds": [
+        "geography-f1-01"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-5",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "5(a)",
+      "mainQuestionNumber": "5",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Which five possible parallels you will teach him?",
+      "sharedContent": "Suppose your young brother asked you to teach him on the most common parallels of the Earth.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-005.jpg",
+          "alt": "Unchanged original Geography question paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Equator; Tropic of Cancer; Tropic of Capricorn; Arctic Circle; Antarctic Circle.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        5
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q5-b",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-01"
+      ],
+      "subtopicIds": [
+        "geography-f1-01"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-5",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "5(b)",
+      "mainQuestionNumber": "5",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "By using a well labbed diagram, illustrate the parallels named in (a) with their correct degrees.",
+      "sharedContent": "Suppose your young brother asked you to teach him on the most common parallels of the Earth.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-005.jpg",
+          "alt": "Unchanged original Geography question paper page 5.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-006.jpg",
+          "alt": "Unchanged original Geography question paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Draw and label a globe with Equator 0°; Tropic of Cancer about23½°N; Tropic of Capricorn about23½°S; Arctic Circle about66½°N; Antarctic Circle about66½°S. Keep north and south on the correct sides of the Equator. Values rounded to 23.5°/66.5° or conventional 23°26′/66°34′ are valid.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        5,
+        6
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams.",
+      "requiresDrawing": true,
+      "transcriptionNote": "The source spelling “labbed” is retained from the original page; the question is not silently corrected to “labelled/labeled”."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q6-a",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-6",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "6(a)",
+      "mainQuestionNumber": "6",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Who is Mkude?",
+      "sharedContent": "Koli keeps small number of livestock in a shed while Mkude always moves with his livestock from one grazing land to another.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-006.jpg",
+          "alt": "Unchanged original Geography question paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A nomadic pastoralist (a nomad moving livestock between grazing lands).",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        6
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q6-b",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-6",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "6(b)",
+      "mainQuestionNumber": "6",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Identify Koli’s type of livestock keeping.",
+      "sharedContent": "Koli keeps small number of livestock in a shed while Mkude always moves with his livestock from one grazing land to another.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-006.jpg",
+          "alt": "Unchanged original Geography question paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Zero grazing/stall feeding.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        6
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q6-c",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-6",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "6(c)",
+      "mainQuestionNumber": "6",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Describe four characteristics of Koli’s type of livestock keeping.",
+      "sharedContent": "Koli keeps small number of livestock in a shed while Mkude always moves with his livestock from one grazing land to another.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-006.jpg",
+          "alt": "Unchanged original Geography question paper page 6.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Unchanged original Geography question paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Animals are confined in sheds/stalls; fodder and water are brought to the animals; only a small area or small herd is needed compared with extensive grazing; feeding, hygiene, breeding and veterinary care are managed intensively. Accept four distinct accurate stall-feeding characteristics.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-i",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-7",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "7(a)(i)",
+      "mainQuestionNumber": "7",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Planet A is",
+      "sharedContent": "Study carefully the following diagram and then answer the questions that follows:\nName the planets labeled A to E.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Complete original source diagram on page 7, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Unchanged original Geography question paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Venus",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        7
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-ii",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-7",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "7(a)(ii)",
+      "mainQuestionNumber": "7",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Planet B is",
+      "sharedContent": "Study carefully the following diagram and then answer the questions that follows:\nName the planets labeled A to E.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Complete original source diagram on page 7, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Unchanged original Geography question paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Mars",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        7
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-iii",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-7",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "7(a)(iii)",
+      "mainQuestionNumber": "7",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Planet C is",
+      "sharedContent": "Study carefully the following diagram and then answer the questions that follows:\nName the planets labeled A to E.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Complete original source diagram on page 7, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Unchanged original Geography question paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Jupiter",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        7
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-iv",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-7",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "7(a)(iv)",
+      "mainQuestionNumber": "7",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Planet D is",
+      "sharedContent": "Study carefully the following diagram and then answer the questions that follows:\nName the planets labeled A to E.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Complete original source diagram on page 7, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Unchanged original Geography question paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Saturn",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        7
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q7-a-v",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-7",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "7(a)(v)",
+      "mainQuestionNumber": "7",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Planet E is",
+      "sharedContent": "Study carefully the following diagram and then answer the questions that follows:\nName the planets labeled A to E.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Complete original source diagram on page 7, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Unchanged original Geography question paper page 7.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Neptune",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        7,
+        8
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q7-b",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-7",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "7(b)",
+      "mainQuestionNumber": "7",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Which planet is more likely to be the hottest?",
+      "sharedContent": "Study carefully the following diagram and then answer the questions that follows:",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Complete original source diagram on page 7, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Unchanged original Geography question paper page 7.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Venus. Its dense carbon-dioxide atmosphere creates a powerful greenhouse effect; Mercury is closer to the Sun but has a lower mean surface temperature.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        7,
+        8
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q7-c",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-7",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "7(c)",
+      "mainQuestionNumber": "7",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Identify the coldest planet.",
+      "sharedContent": "Study carefully the following diagram and then answer the questions that follows:",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Complete original source diagram on page 7, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Unchanged original Geography question paper page 7.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Uranus has the lowest measured atmospheric temperature; Neptune is often identified as coldest when interpreting the question as the most distant planet with the least solar heating. The unqualified original question does not specify the temperature metric.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        7,
+        8
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams. The term “coldest” is unqualified: lowest measured atmospheric minimum and distance-based/average interpretations differ. Do not silently replace the question or claim a unique official answer.",
+      "answerCaveat": "Unresolved original-question ambiguity; no official marking scheme acquired. The independent guidance records both Uranus and Neptune interpretations."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q7-d",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-7",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "7(d)",
+      "mainQuestionNumber": "7",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "How is an elliptical path used by the planets to revolve around the sun in the solar system called?",
+      "sharedContent": "Study carefully the following diagram and then answer the questions that follows:",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Complete original source diagram on page 7, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-007.jpg",
+          "alt": "Unchanged original Geography question paper page 7.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "An orbit.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        7,
+        8
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q8-a-i",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-8",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "8(a)(i)",
+      "mainQuestionNumber": "8",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "▲",
+      "sharedContent": "Study the world map provided and answer the questions that follows;\nDescribe the features presented by;",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Complete original source diagram on page 8, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "A continent: a very large continuous landmass, shown by the upright triangle in the map key.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        8
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q8-a-ii",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-8",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "8(a)(ii)",
+      "mainQuestionNumber": "8",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "▼",
+      "sharedContent": "Study the world map provided and answer the questions that follows;\nDescribe the features presented by;",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Complete original source diagram on page 8, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-009.jpg",
+          "alt": "Unchanged original Geography question paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "An ocean: a major body of saline water, shown by the downward-pointing triangle in the map key.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-A",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-8",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "8(b)(A)",
+      "mainQuestionNumber": "8",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "A",
+      "sharedContent": "Study the world map provided and answer the questions that follows;\nName the features labeled A to G.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Complete original source diagram on page 8, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-009.jpg",
+          "alt": "Unchanged original Geography question paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "North America",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-B",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-8",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "8(b)(B)",
+      "mainQuestionNumber": "8",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "B",
+      "sharedContent": "Study the world map provided and answer the questions that follows;\nName the features labeled A to G.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Complete original source diagram on page 8, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-009.jpg",
+          "alt": "Unchanged original Geography question paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "South America",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-C",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-8",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "8(b)(C)",
+      "mainQuestionNumber": "8",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "C",
+      "sharedContent": "Study the world map provided and answer the questions that follows;\nName the features labeled A to G.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Complete original source diagram on page 8, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-009.jpg",
+          "alt": "Unchanged original Geography question paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Africa",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-D",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-8",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "8(b)(D)",
+      "mainQuestionNumber": "8",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "D",
+      "sharedContent": "Study the world map provided and answer the questions that follows;\nName the features labeled A to G.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Complete original source diagram on page 8, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-009.jpg",
+          "alt": "Unchanged original Geography question paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Europe",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-E",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-8",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "8(b)(E)",
+      "mainQuestionNumber": "8",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "E",
+      "sharedContent": "Study the world map provided and answer the questions that follows;\nName the features labeled A to G.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Complete original source diagram on page 8, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-009.jpg",
+          "alt": "Unchanged original Geography question paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Asia",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-F",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-8",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "8(b)(F)",
+      "mainQuestionNumber": "8",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "F",
+      "sharedContent": "Study the world map provided and answer the questions that follows;\nName the features labeled A to G.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Complete original source diagram on page 8, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-009.jpg",
+          "alt": "Unchanged original Geography question paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Australia",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q8-b-G",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-8",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "8(b)(G)",
+      "mainQuestionNumber": "8",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "G",
+      "sharedContent": "Study the world map provided and answer the questions that follows;\nName the features labeled A to G.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Complete original source diagram on page 8, including all labels and surrounding question wording.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-008.jpg",
+          "alt": "Unchanged original Geography question paper page 8.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-009.jpg",
+          "alt": "Unchanged original Geography question paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Pacific Ocean",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q9-a",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-01"
+      ],
+      "subtopicIds": [
+        "geography-f1-01"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-9",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "9(a)",
+      "mainQuestionNumber": "9",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "List five essentials of the map he will use.",
+      "sharedContent": "Aki was assigned by his Geography teacher to draw a topographical map.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-009.jpg",
+          "alt": "Unchanged original Geography question paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Title; scale; key/legend; north direction/orientation; frame/border. Where a taught map convention includes a grid/reference system as an essential, accept a correct justified alternative.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        9
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q9-b",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-expanded-contours-profiles"
+      ],
+      "subtopicIds": [
+        "geography-f2-expanded-contours-profiles"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-9",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "9(b)",
+      "mainQuestionNumber": "9",
+      "type": "short",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "What are the five possible uses of the map drawn by Aki?",
+      "sharedContent": "Aki was assigned by his Geography teacher to draw a topographical map.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-009.jpg",
+          "alt": "Unchanged original Geography question paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": null,
+      "markIncrement": null,
+      "answerKey": "Finding places and relative positions; determining direction and planning routes; measuring ground distances with scale; interpreting relief and slope; planning land use, settlement or infrastructure. The map’s symbols and contours must be used appropriately.",
+      "markingGuide": "Independent model answer is provided for learning. This item is held out of scored tests because the source gives only a section total, not its individual allocation; no official marking scheme has been acquired.",
+      "marksProvenance": "Source page 1 instruction 3 states section totals only: A15, B70, C15. No individual allocation for this part is printed.",
+      "markIncrementProvenance": "Unknown individual source allocation; not scored.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        9
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-mark-allocation",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "draft",
+      "scoringEligible": false,
+      "resourceKind": "past-paper",
+      "sourceIssue": "Individual source mark allocation is not available. The independently prepared answer does not imply eligibility for scored exams."
+    },
+    {
+      "id": "necta-ftna-2025-geography-a9ccc340e86c5170-q10",
+      "paperId": "necta-ftna-2025-geography-a9ccc340e86c5170",
+      "form": 2,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "subtopicIds": [
+        "geography-f2-earth-systems"
+      ],
+      "groupId": "necta-ftna-2025-geography-a9ccc340e86c5170-group-10",
+      "parentQuestionId": null,
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Geography",
+      "institution": "National Examinations Council of Tanzania (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy 2025 paper; compatible skills mapped as prerequisite or related practice only, not asserted to be complete current curriculum scope.",
+      "questionNumber": "10",
+      "mainQuestionNumber": "10",
+      "type": "essay",
+      "instructions": "Answer all questions in the spaces provided.",
+      "content": "Giving five points, explain the effects of the Earth’s rotation.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-010.jpg",
+          "alt": "Unchanged original Geography question paper page 10.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-011.jpg",
+          "alt": "Unchanged original Geography question paper page 11.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-a9ccc340e86c5170/page-012.jpg",
+          "alt": "Unchanged original Geography question paper page 12.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 15,
+      "markIncrement": 1,
+      "answerKey": "(1) Day and night: places alternately face toward and away from sunlight. (2) Apparent daily movement of the Sun and stars: as Earth turns eastward, celestial objects generally appear to move westward across the sky. (3) Local solar-time differences: different longitudes face the Sun at different moments. (4) Coriolis deflection: rotation causes large-scale moving air and water to be deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. (5) Equatorial bulge/polar flattening: rotation contributes centrifugal effects that make Earth slightly oblate. These are distinct explained effects; tides are mainly due to differential lunar/solar gravity and should not be credited simply as an effect of rotation.",
+      "markingGuide": "Question10 is the only question in SectionC, printed as15 marks. Independent SomaSmart rubric (not an official NECTA scheme): for each of five distinct valid effects, give1 mark for correctly identifying the effect and up to2 additional marks for a correct causal explanation (0–3 per point, total0–15). Do not double-count the same effect expressed twice. Accept scientifically valid alternatives. Written answers remain pending until self-assessed.",
+      "marksProvenance": "Source page 1 instruction 3 and page 10 SECTION C (15 Marks), containing Question10 alone.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment guidance within the source-allocated 15 marks; no official subpoint weights asserted.",
+      "solutionProvenance": "Independently prepared and checked SomaSmart solution; not an official NECTA answer key or marking scheme.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-a9ccc340e86c5170/original.pdf",
+      "sourceSha256": "a9ccc340e86c5170f0a422744d25e45cd90c7e0750b2439f50fc9761104a441b",
+      "sourcePages": [
+        10,
+        11,
+        12
+      ],
+      "sourceDocumentId": "source-a9ccc340e86c5170",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All twelve source pages visually inspected. Original question wording, numbering, options, stems, tables and diagrams retained. Model answers are independent.",
+      "publicationStatus": "published",
+      "scoringEligible": true,
+      "resourceKind": "past-paper",
+      "workedSolution": "Use five separate points and explain how Earth’s rotation causes or contributes to each, as shown in the independent model answer. The original prompt does not require diagrams."
+    }
+  ],
+  "verificationNotes": [
+    "All12 source pages visually inspected, including the printed cover, original solar-system diagram on page7 and world sketch map on page8. Pages11–12 are continuation answer space for Question10; no source question omitted.",
+    "Complete unchanged transcription: all10 main questions,42 assessment records/46 answerable parts when matching prompts are counted separately. All original stems, options, subpart labels, numbers, units, table rows and diagram labels are preserved.",
+    "Question10 alone is scored at its uniquely printed15-mark SectionC allocation. Other41 records remain drafts because source individual allocations are missing. No assumption of equal main-question weights is described as official.",
+    "All model answers and guidance are independent SomaSmart solutions, not NECTA keys or marking schemes. Q3 temperature conversions were checked algebraically; Q7 planet labels were counted against orbit positions and Q8 labels against map geography.",
+    "Q7(c) retains the ambiguous unqualified “coldest planet” question and documents Uranus-versus-Neptune temperature interpretations; it remains ineligible.",
+    "Legacy agriculture/industry/tourism questions are mapped broadly as related or prerequisite practice only, not claimed to be required current academic FormTwo topics.",
+    "Q5(b) was inspected at higher PDF render resolution; original “labbed” spelling retained. Line wraps are normalized in text; original page images preserve exact layout."
+  ]
+}

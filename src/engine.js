@@ -15,7 +15,7 @@ export function eligible(
       if (!parent) return null;
       current = parent;
     }
-    return current.id;
+    return current.groupId || current.id;
   };
   for (const q of data.questions) {
     const id = root(q);
@@ -66,7 +66,7 @@ export function generate(bank, count, seed = 1) {
       if (!parent) throw Error("Incomplete question group");
       root = parent;
     }
-    const key = root.id;
+    const key = root.groupId || root.id;
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key).push(q);
   }

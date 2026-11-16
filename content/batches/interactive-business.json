@@ -1,0 +1,1989 @@
+{
+  "paper": {
+    "id": "moshi-f1-2026-business-b7a0c6972b4250dc",
+    "title": "Moshi District Council • Business Studies • May 2026 • complete paper",
+    "form": 1,
+    "subjectId": "business",
+    "sourceType": "district",
+    "institution": "Moshi District Council (printed CODE065 paper and matching scheme)",
+    "year": 2026,
+    "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+    "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+    "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+    "sourceDocumentId": "source-b7a0c6972b4250dc",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "verificationScope": "All nine main questions and every printed subpart/case transcribed; source scheme matches printed subject CODE065 May2026 and gives a reconciled 100-mark allocation.",
+    "publicationStatus": "published",
+    "publicationScope": "complete-paper",
+    "completePaper": true,
+    "transcriptionComplete": true,
+    "questionIds": [
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-i",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-ii",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-iii",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-iv",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-v",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-vi",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-vii",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-viii",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-ix",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-x",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-2",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-3-i",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-3-ii",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-3-iii",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-3-iv",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-3-v",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-4",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-5",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-6-a",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-6-b",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-7-a",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-7-b",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-8",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-9"
+    ],
+    "allTranscribedQuestionIds": [
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-i",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-ii",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-iii",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-iv",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-v",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-vi",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-vii",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-viii",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-ix",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-1-x",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-2",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-3-i",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-3-ii",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-3-iii",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-3-iv",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-3-v",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-4",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-5",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-6-a",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-6-b",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-7-a",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-7-b",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-8",
+      "moshi-f1-2026-business-b7a0c6972b4250dc-9"
+    ],
+    "draftQuestionIds": [],
+    "maximumMarks": 100,
+    "sourceMaximumMarks": 100,
+    "sourceInstructions": [
+      "This paper consists of sections A, B and C with total number of nine (9) questions.",
+      "Answer all questions in section A, B and C",
+      "Section A carries Fifteen (15) marks, section B carries Forty (40) marks and section C carries Forty-five (45) marks.",
+      "All writings must be in blue or black ink except drawings which must be in pencil",
+      "All communication devices, and any unauthorized materials are not allowed in the assessment room."
+    ],
+    "sourceSectionInstructions": {
+      "A": "SECTION A (15 Marks)\nAnswer all questions in this section",
+      "B": "SECTION B (40 Marks)",
+      "C": "SECTION C (45 Marks)"
+    },
+    "sourceMarkingResource": {
+      "id": "guide-f0da6ddf7e66cc74",
+      "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+      "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+      "pageImages": [
+        "/source-papers/guide-f0da6ddf7e66cc74/page-001.jpg",
+        "/source-papers/guide-f0da6ddf7e66cc74/page-002.jpg"
+      ],
+      "pageCount": 2,
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "contentMode": "source-marking-guide",
+      "title": "Source-provided answer guide",
+      "provenance": "Issuing district/archive-provided marking resource; not an official NECTA scheme",
+      "associatedSourceId": "b7a0c6972b4250dc",
+      "associationEvidence": "https://mlostudies.com/other.php?exam=TERMINAL+JOINT+EXAMINATION+MOSHI+DISTRICT+COUNCIL+WITH+MARKING+SCHEMES&year=2026&form=Form_One"
+    },
+    "excludedQuestions": []
+  },
+  "questions": [
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-1-i",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "subtopicIds": [
+        "business-f1-enterprise"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "1(i)",
+      "originalLabel": "1(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-1-i",
+      "type": "mcq",
+      "content": "Mr. Juakali is a young entrepreneur who has been positive and maintaining high expectations despite of business challenges he faces. Which characteristic of entrepreneur is possessed by Mr. Juakali?",
+      "sharedContent": "For each of the following items (i) to (x) choose the correct answer and write its letter on the space provided.",
+      "instructions": "",
+      "options": [
+        "Creativity",
+        "Optimism",
+        "Flexibility",
+        "Innovativeness"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-002.jpg",
+          "alt": "Complete original Business Studies question-paper page 2; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks for this item/group.",
+      "markIncrementProvenance": "Source scheme Question One: 10 marks, one mark for each of ten items.",
+      "answerKey": "Optimism",
+      "markingGuide": "Objective answer from matching source scheme, independently checked against the original question.",
+      "solutionProvenance": "Source-provided key checked against original question and options.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-1-ii",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "1(ii)",
+      "originalLabel": "1(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-1-ii",
+      "type": "mcq",
+      "content": "A drought in Tanzania has reduced the supply of maize, making it difficult for many people to buy flour. What economic problem does this situation illustrate?",
+      "sharedContent": "For each of the following items (i) to (x) choose the correct answer and write its letter on the space provided.",
+      "instructions": "",
+      "options": [
+        "Opportunity",
+        "Profit",
+        "Exchange",
+        "Scarcity"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-002.jpg",
+          "alt": "Complete original Business Studies question-paper page 2; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks for this item/group.",
+      "markIncrementProvenance": "Source scheme Question One: 10 marks, one mark for each of ten items.",
+      "answerKey": "Scarcity",
+      "markingGuide": "Objective answer from matching source scheme, independently checked against the original question.",
+      "solutionProvenance": "Source-provided key checked against original question and options.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-1-iii",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "1(iii)",
+      "originalLabel": "1(iii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-1-iii",
+      "type": "mcq",
+      "content": "Mr. Pamba, a shopkeeper does not understand how business studies and mathematics work together to help him in doing business? What could be the relationship between the two subjects in helping him?",
+      "sharedContent": "For each of the following items (i) to (x) choose the correct answer and write its letter on the space provided.",
+      "instructions": "",
+      "options": [
+        "Business studies teaches the shopkeeper about customer service",
+        "Mathematics helps the shopkeeper calculate sales, profit and costs in business",
+        "Mathematics teaches the shopkeeper how to sell products",
+        "Business studies helps the shopkeeper decide what to sell"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-002.jpg",
+          "alt": "Complete original Business Studies question-paper page 2; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks for this item/group.",
+      "markIncrementProvenance": "Source scheme Question One: 10 marks, one mark for each of ten items.",
+      "answerKey": "Mathematics helps the shopkeeper calculate sales, profit and costs in business",
+      "markingGuide": "Objective answer from matching source scheme, independently checked against the original question.",
+      "solutionProvenance": "Source-provided key checked against original question and options.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-1-iv",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "1(iv)",
+      "originalLabel": "1(iv)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-1-iv",
+      "type": "mcq",
+      "content": "The following are the examples of services",
+      "sharedContent": "For each of the following items (i) to (x) choose the correct answer and write its letter on the space provided.",
+      "instructions": "",
+      "options": [
+        "Online payment, education, health care, banking and clothes",
+        "Online payment, education, motor cycles, health care and banking",
+        "Online payment, education, health care, banking and designing",
+        "Online payment education, health care, banking and television"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-002.jpg",
+          "alt": "Complete original Business Studies question-paper page 2; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks for this item/group.",
+      "markIncrementProvenance": "Source scheme Question One: 10 marks, one mark for each of ten items.",
+      "answerKey": "Online payment, education, health care, banking and designing",
+      "markingGuide": "Objective answer from matching source scheme, independently checked against the original question.",
+      "solutionProvenance": "Source-provided key checked against original question and options.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-1-v",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "1(v)",
+      "originalLabel": "1(v)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-1-v",
+      "type": "mcq",
+      "content": "Which of the following is not regarded as consumer needs?",
+      "sharedContent": "For each of the following items (i) to (x) choose the correct answer and write its letter on the space provided.",
+      "instructions": "",
+      "options": [
+        "Clothing",
+        "Housing",
+        "Holiday",
+        "Water"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-002.jpg",
+          "alt": "Complete original Business Studies question-paper page 2; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks for this item/group.",
+      "markIncrementProvenance": "Source scheme Question One: 10 marks, one mark for each of ten items.",
+      "answerKey": "Holiday",
+      "markingGuide": "Objective answer from matching source scheme, independently checked against the original question.",
+      "solutionProvenance": "Source-provided key checked against original question and options.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-1-vi",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "1(vi)",
+      "originalLabel": "1(vi)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-1-vi",
+      "type": "mcq",
+      "content": "The government provides free vaccination to children to protect them from diseases. Which type of goods is being provided",
+      "sharedContent": "For each of the following items (i) to (x) choose the correct answer and write its letter on the space provided.",
+      "instructions": "",
+      "options": [
+        "Merit goods",
+        "Free goods",
+        "Demerit goods",
+        "Economic goods"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-003.jpg",
+          "alt": "Complete original Business Studies question-paper page 3; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks for this item/group.",
+      "markIncrementProvenance": "Source scheme Question One: 10 marks, one mark for each of ten items.",
+      "answerKey": "Merit goods",
+      "markingGuide": "Objective answer from matching source scheme, independently checked against the original question.",
+      "solutionProvenance": "Source-provided key checked against original question and options.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-1-vii",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "1(vii)",
+      "originalLabel": "1(vii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-1-vii",
+      "type": "mcq",
+      "content": "The following make up right business processes",
+      "sharedContent": "For each of the following items (i) to (x) choose the correct answer and write its letter on the space provided.",
+      "instructions": "",
+      "options": [
+        "Exchange, production, consumption and distribution",
+        "Consumption, production, exchange and distribution",
+        "Production, distribution, exchange and consumption",
+        "Distribution, production, exchange and consumption"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-003.jpg",
+          "alt": "Complete original Business Studies question-paper page 3; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks for this item/group.",
+      "markIncrementProvenance": "Source scheme Question One: 10 marks, one mark for each of ten items.",
+      "answerKey": "Production, distribution, exchange and consumption",
+      "markingGuide": "Objective answer from matching source scheme, independently checked against the original question.",
+      "solutionProvenance": "Source-provided key checked against original question and options.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-1-viii",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "subtopicIds": [
+        "business-f1-enterprise"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "1(viii)",
+      "originalLabel": "1(viii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-1-viii",
+      "type": "mcq",
+      "content": "Jackline engages in the whole process of designing, launching and running an enterprise. In this case Jackline is known as?",
+      "sharedContent": "For each of the following items (i) to (x) choose the correct answer and write its letter on the space provided.",
+      "instructions": "",
+      "options": [
+        "Entrepreneur",
+        "Intrapreneur",
+        "Businesswoman",
+        "Social entrepreneurship"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-003.jpg",
+          "alt": "Complete original Business Studies question-paper page 3; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks for this item/group.",
+      "markIncrementProvenance": "Source scheme Question One: 10 marks, one mark for each of ten items.",
+      "answerKey": "Entrepreneur",
+      "markingGuide": "Objective answer from matching source scheme, independently checked against the original question.",
+      "solutionProvenance": "Source-provided key checked against original question and options.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-1-ix",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "1(ix)",
+      "originalLabel": "1(ix)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-1-ix",
+      "type": "mcq",
+      "content": "One among the following is NOT an input for production",
+      "sharedContent": "For each of the following items (i) to (x) choose the correct answer and write its letter on the space provided.",
+      "instructions": "",
+      "options": [
+        "Land",
+        "Capital",
+        "Consumer",
+        "Labour"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-003.jpg",
+          "alt": "Complete original Business Studies question-paper page 3; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks for this item/group.",
+      "markIncrementProvenance": "Source scheme Question One: 10 marks, one mark for each of ten items.",
+      "answerKey": "Consumer",
+      "markingGuide": "Objective answer from matching source scheme, independently checked against the original question.",
+      "solutionProvenance": "Source-provided key checked against original question and options.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-1-x",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "subtopicIds": [
+        "business-f1-enterprise"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "1(x)",
+      "originalLabel": "1(x)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-1-x",
+      "type": "mcq",
+      "content": "The following are the types of entrepreneurships EXCEPT",
+      "sharedContent": "For each of the following items (i) to (x) choose the correct answer and write its letter on the space provided.",
+      "instructions": "",
+      "options": [
+        "Business entrepreneurship",
+        "Intrapreneurship",
+        "Leadership",
+        "Social entrepreneurship"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-003.jpg",
+          "alt": "Complete original Business Studies question-paper page 3; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 1 marks for this item/group.",
+      "markIncrementProvenance": "Source scheme Question One: 10 marks, one mark for each of ten items.",
+      "answerKey": "Leadership",
+      "markingGuide": "Objective answer from matching source scheme, independently checked against the original question.",
+      "solutionProvenance": "Source-provided key checked against original question and options.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ]
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-2",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "2",
+      "originalLabel": "2",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-2",
+      "type": "matching",
+      "content": "Match the items from LIST A with those in LIST B by writing the letter of the CORRECT option in the table provided below:",
+      "sharedContent": "",
+      "instructions": "",
+      "options": [
+        "A. Production",
+        "B. Business studies",
+        "C. Land",
+        "D. Labour",
+        "E. Perishable goods",
+        "F. Business",
+        "G. Services"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-004.jpg",
+          "alt": "Complete original Business Studies question-paper page 4; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 5 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": {
+        "i": "C. Land",
+        "ii": "A. Production",
+        "iii": "G. Services",
+        "iv": "E. Perishable goods",
+        "v": "F. Business"
+      },
+      "markingGuide": "Source scheme: one mark per correct match, total 5. i–C; ii–A; iii–G; iv–E; v–F.",
+      "solutionProvenance": "Source-provided key checked against original question and options.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "pairs": [
+        {
+          "id": "i",
+          "left": "The natural resources used in production"
+        },
+        {
+          "id": "ii",
+          "left": "The process of transforming raw materials into finished products to satisfy human needs and wants"
+        },
+        {
+          "id": "iii",
+          "left": "Are intangible outcomes of human efforts that can satisfy human needs and wants"
+        },
+        {
+          "id": "iv",
+          "left": "Goods which have short shelf life"
+        },
+        {
+          "id": "v",
+          "left": "An organization engaged in producing or buying and selling goods and services with the aim of earning profit through satisfying consumer’s needs"
+        }
+      ],
+      "table": [
+        [
+          "LIST A",
+          "LIST B"
+        ],
+        [
+          "The natural resources used in production",
+          "A. Production"
+        ],
+        [
+          "The process of transforming raw materials into finished products to satisfy human needs and wants",
+          "B. Business studies"
+        ],
+        [
+          "Are intangible outcomes of human efforts that can satisfy human needs and wants",
+          "C. Land"
+        ],
+        [
+          "Goods which have short shelf life",
+          "D. Labour"
+        ],
+        [
+          "An organization engaged in producing or buying and selling goods and services with the aim of earning profit through satisfying consumer’s needs",
+          "E. Perishable goods"
+        ],
+        [
+          "",
+          "F. Business"
+        ],
+        [
+          "",
+          "G. Services"
+        ]
+      ]
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-3-i",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "3(i)",
+      "originalLabel": "3(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-3-i",
+      "type": "short",
+      "content": "Exchange:",
+      "sharedContent": "Write short notes of the following concepts as they are used in business studies",
+      "instructions": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-004.jpg",
+          "alt": "Complete original Business Studies question-paper page 4; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 2 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": "Exchange is the buying and selling of goods and services between parties. Money commonly acts as the medium of exchange; for example, a farmer sells maize.",
+      "markingGuide": "Source scheme allocates 2 marks to this concept. Independent whole-mark self-assessment: one mark for the central correct meaning and one for a relevant explanatory detail or valid example. Equivalent accurate wording is accepted.",
+      "solutionProvenance": "SomaSmart independently worded explanation aligned with source-provided model answer and verified source marks; not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-3-ii",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "3(ii)",
+      "originalLabel": "3(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-3-ii",
+      "type": "short",
+      "content": "Resources:",
+      "sharedContent": "Write short notes of the following concepts as they are used in business studies",
+      "instructions": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-004.jpg",
+          "alt": "Complete original Business Studies question-paper page 4; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 2 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": "Resources are inputs used to produce goods and services, also called factors of production. They include land, labour, capital and entrepreneurship.",
+      "markingGuide": "Source scheme allocates 2 marks to this concept. Independent whole-mark self-assessment: one mark for the central correct meaning and one for a relevant explanatory detail or valid example. Equivalent accurate wording is accepted.",
+      "solutionProvenance": "SomaSmart independently worded explanation aligned with source-provided model answer and verified source marks; not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-3-iii",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "3(iii)",
+      "originalLabel": "3(iii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-3-iii",
+      "type": "short",
+      "content": "Perishable goods:",
+      "sharedContent": "Write short notes of the following concepts as they are used in business studies",
+      "instructions": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-004.jpg",
+          "alt": "Complete original Business Studies question-paper page 4; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 2 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": "Perishable goods have a short shelf life and can spoil quickly, such as milk, fruit, meat or vegetables.",
+      "markingGuide": "Source scheme allocates 2 marks to this concept. Independent whole-mark self-assessment: one mark for the central correct meaning and one for a relevant explanatory detail or valid example. Equivalent accurate wording is accepted.",
+      "solutionProvenance": "SomaSmart independently worded explanation aligned with source-provided model answer and verified source marks; not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-3-iv",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "3(iv)",
+      "originalLabel": "3(iv)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-3-iv",
+      "type": "short",
+      "content": "Economic goods:",
+      "sharedContent": "Write short notes of the following concepts as they are used in business studies",
+      "instructions": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-005.jpg",
+          "alt": "Complete original Business Studies question-paper page 5; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 2 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": "Economic goods are scarce goods with an opportunity cost; they are normally acquired through exchange, for example books or clothing.",
+      "markingGuide": "Source scheme allocates 2 marks to this concept. Independent whole-mark self-assessment: one mark for the central correct meaning and one for a relevant explanatory detail or valid example. Equivalent accurate wording is accepted.",
+      "solutionProvenance": "SomaSmart independently worded explanation aligned with source-provided model answer and verified source marks; not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The source model describes economic goods as goods that must be bought before consumption. Independent explanation uses scarcity/opportunity cost as the defining characteristic; no question wording or marks are changed."
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-3-v",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "3(v)",
+      "originalLabel": "3(v)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-3-v",
+      "type": "short",
+      "content": "Consumption:",
+      "sharedContent": "Write short notes of the following concepts as they are used in business studies",
+      "instructions": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-005.jpg",
+          "alt": "Complete original Business Studies question-paper page 5; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 1: 2 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": "Consumption is the use of goods and services to satisfy human needs and wants, such as eating food to satisfy hunger.",
+      "markingGuide": "Source scheme allocates 2 marks to this concept. Independent whole-mark self-assessment: one mark for the central correct meaning and one for a relevant explanatory detail or valid example. Equivalent accurate wording is accepted.",
+      "solutionProvenance": "SomaSmart independently worded explanation aligned with source-provided model answer and verified source marks; not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-4",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "subtopicIds": [
+        "business-f1-enterprise"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "4",
+      "originalLabel": "4",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-4",
+      "type": "short",
+      "content": "Mr. Malingumu wants to engage in the production of furniture and he is unaware about the resources of production. Explain to him four business resources of production.",
+      "sharedContent": "",
+      "instructions": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-005.jpg",
+          "alt": "Complete original Business Studies question-paper page 5; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 2.5,
+      "marksProvenance": "Source marking scheme page(s) 1: 10 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": "Land: natural inputs such as timber-growing land and other natural materials. Labour: human effort and skills, such as carpentry. Capital: produced tools, machinery and buildings used in production. Entrepreneurship: organising the resources, making decisions and accepting business risk.",
+      "markingGuide": "Source scheme: four resources at 2.5 marks each, total 10. Independent self-assessment: award 2.5 for each correctly named and relevantly explained resource, maximum 10. Do not award full credit for unrelated lists. Source 2.5-mark steps are retained.",
+      "solutionProvenance": "SomaSmart independently worded explanation aligned with source-provided model answer and verified source marks; not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          1
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-5",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "subtopicIds": [
+        "business-f1-enterprise"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "5",
+      "originalLabel": "5",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-5",
+      "type": "short",
+      "content": "Suppose you as a form one student of business studies and you have been given a task by your teacher to present about ten (10) characteristics of entrepreneurs. Using a diagram show how you will present the concept",
+      "sharedContent": "",
+      "instructions": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-005.jpg",
+          "alt": "Complete original Business Studies question-paper page 5; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 2: 10 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": "A suitable concept diagram has “Characteristics of entrepreneurs” as its central idea, linked to ten branches: creativity; passion; hard working; need for achievement; innovativeness; risk taking; curiosity; perseverance; flexibility; optimism.",
+      "markingGuide": "Source scheme: ten valid characteristics at one mark each, total 10. The question specifically requests a diagram: prepare and self-assess your diagram; text descriptions are supporting working, not automatic proof of a completed drawing. Source does not allocate separate diagram-layout marks. Do not invent additional marks.",
+      "solutionProvenance": "SomaSmart independently worded explanation aligned with source-provided model answer and verified source marks; not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          2
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-6-a",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "6(a)",
+      "originalLabel": "6(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-6-a",
+      "type": "short",
+      "content": "Define the term business",
+      "sharedContent": "",
+      "instructions": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-005.jpg",
+          "alt": "Complete original Business Studies question-paper page 5; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 2: 2 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": "Business is a legal economic activity involving producing or buying and selling goods and services to earn profit while satisfying consumer needs and wants; for example, operating a small retail shop.",
+      "markingGuide": "Source scheme allocates 2 marks. Independent whole-mark self-assessment: identifies production/trade in goods or services (1) and its profit-and-consumer-needs purpose (1).",
+      "solutionProvenance": "SomaSmart independently worded explanation aligned with source-provided model answer and verified source marks; not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          2
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-6-b",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "6(b)",
+      "originalLabel": "6(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-6-b",
+      "type": "short",
+      "content": "Mention four business activities that are carried out in your community",
+      "sharedContent": "",
+      "instructions": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-006.jpg",
+          "alt": "Complete original Business Studies question-paper page 6; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 8,
+      "markIncrement": 2,
+      "marksProvenance": "Source marking scheme page(s) 2: 8 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": "Examples include retail trading, food services, agriculture or food processing, and personal or repair services. Transport services are another valid example; use activities that genuinely occur in the community.",
+      "markingGuide": "Source scheme: four economic/business activities at two marks each, total 8. Independent self-assessment: award two marks per distinct relevant activity. Equivalent local examples are accepted.",
+      "solutionProvenance": "SomaSmart independently worded explanation aligned with source-provided model answer and verified source marks; not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          2
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-7-a",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "7(a)",
+      "originalLabel": "7(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-7-a",
+      "type": "short",
+      "content": "Define the term business process",
+      "sharedContent": "",
+      "instructions": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-006.jpg",
+          "alt": "Complete original Business Studies question-paper page 6; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 2: 3 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": "A business process is a sequence of activities an organisation carries out to achieve its objectives.",
+      "markingGuide": "Source scheme allocates 3 marks. Independent whole-mark self-assessment: related activities/process (1), carried out by an organisation/business (1), to achieve an objective (1).",
+      "solutionProvenance": "SomaSmart independently worded explanation aligned with source-provided model answer and verified source marks; not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          2
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-7-b",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "subtopicIds": [
+        "business-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "7(b)",
+      "originalLabel": "7(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-7-b",
+      "type": "matching",
+      "content": "The following passage shows the business phases to ensure that organization’s products reach the final consumers. You are required to identify if it is Production phase, distribution phase, exchange phase or consumption phase:",
+      "sharedContent": "",
+      "instructions": "",
+      "options": [
+        "Production phase",
+        "distribution phase",
+        "exchange phase",
+        "consumption phase"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-006.jpg",
+          "alt": "Complete original Business Studies question-paper page 6; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 12,
+      "markIncrement": 3,
+      "marksProvenance": "Source marking scheme page(s) 2: 12 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": {
+        "i": "exchange phase",
+        "ii": "consumption phase",
+        "iii": "Production phase",
+        "iv": "distribution phase"
+      },
+      "markingGuide": "Source scheme: three marks per correct business phase, total 12. (i) Exchange; (ii) Consumption; (iii) Production; (iv) Distribution. Cases and original phase choices are retained verbatim; selecting from them replaces handwriting only.",
+      "solutionProvenance": "Source-provided key checked against original question and options.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          2
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "pairs": [
+        {
+          "id": "i",
+          "left": "The student visited the market and bought the uniform by offering the seller some money"
+        },
+        {
+          "id": "ii",
+          "left": "The student wears the uniform at school"
+        },
+        {
+          "id": "iii",
+          "left": "The uniform was manufactured by textile factory or business"
+        },
+        {
+          "id": "iv",
+          "left": "Uniform was then transported from factory or business area to the market for consumer"
+        }
+      ],
+      "originalAnswerFormat": "Identify the phase for each printed case; no options added beyond those in the original common instruction."
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-8",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "subtopicIds": [
+        "business-f1-enterprise"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "8",
+      "originalLabel": "8",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-8",
+      "type": "short",
+      "content": "Knowing the problem of unemployment in the society, Julian has decided to start learning entrepreneurship skills since he wishes to establish his own garage soon after form four graduation. As a business student, encourage him by giving five importance of being an entrepreneur",
+      "sharedContent": "",
+      "instructions": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-006.jpg",
+          "alt": "Complete original Business Studies question-paper page 6; printed wording and layout preserved.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-007.jpg",
+          "alt": "Complete original Business Studies question-paper page 7; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 15,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 2: 15 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": "Entrepreneurship can create employment, promote innovation, contribute to economic development, encourage investment and stimulate competition. A relevant explanation may also describe how an enterprise meets a social need or supports positive social change.",
+      "markingGuide": "Source scheme: any five relevant importance points at three marks each, total 15. Independent whole-mark self-assessment for each point: identify a valid benefit (1), explain how entrepreneurship produces it (1), relate it to the proposed garage or a suitable example (1). Accept equivalent accurate explanations.",
+      "solutionProvenance": "SomaSmart independently worded explanation aligned with source-provided model answer and verified source marks; not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          2
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-business-b7a0c6972b4250dc-9",
+      "paperId": "moshi-f1-2026-business-b7a0c6972b4250dc",
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-expanded-skills-negotiation"
+      ],
+      "subtopicIds": [
+        "business-f1-expanded-skills-negotiation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Terminal Examination • Business Studies • May 2026",
+      "institution": "Moshi District Council (printed paper and matching scheme)",
+      "year": 2026,
+      "curriculumEdition": "Source topics mapped to available compatible Form One Business Studies chapters; complete cohort verification not asserted.",
+      "questionNumber": "9",
+      "originalLabel": "9",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-business-b7a0c6972b4250dc-9",
+      "type": "short",
+      "content": "What is entrepreneurial skills\n\nLast week, Jacob was invited by the Youth Entrepreneurship Forum to teach on business management skills. As a form one student with goods knowledge about business studies, with four points advise him on the skills that he should teach",
+      "sharedContent": "",
+      "instructions": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-007.jpg",
+          "alt": "Complete original Business Studies question-paper page 7; printed wording and layout preserved.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-b7a0c6972b4250dc/page-008.jpg",
+          "alt": "Complete original Business Studies question-paper page 8; printed wording and layout preserved.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 15,
+      "markIncrement": 1,
+      "marksProvenance": "Source marking scheme page(s) 2: 15 marks for this item/group.",
+      "markIncrementProvenance": "Source allocation retained for objective items; independent self-assessment increments for written work are explicitly identified in the rubric.",
+      "answerKey": "Entrepreneurial skills are abilities that help a person identify and pursue opportunities and manage an enterprise. Jacob can teach financial management (budgeting and controlling funds); sales and marketing (understanding and reaching customers); decision making (comparing choices and acting on evidence); and negotiation (reaching workable agreements).",
+      "markingGuide": "Source scheme: definition 3 marks plus four business-management skills at 3 marks each, total 15. Independent whole-mark self-assessment: definition identifies abilities (1), recognising opportunities (1), and pursuing/managing enterprise (1). For each of four skills: correctly name it (1), explain its use (1), give a relevant business application (1). The two printed paragraphs are retained together; invented (a)/(b) labels are not added.",
+      "solutionProvenance": "SomaSmart independently worded explanation aligned with source-provided model answer and verified source marks; not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48020b6f323.pdf&t=14c354c73b4b8a93563168f9f6a35fe9864e29c879e0802d0e20ba44a63cda9f",
+      "sourcePdf": "/source-papers/source-b7a0c6972b4250dc/original.pdf",
+      "sourcePages": [
+        7,
+        8
+      ],
+      "sourceSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+      "sourceDocumentId": "source-b7a0c6972b4250dc",
+      "sourceMarkingResource": {
+        "id": "guide-f0da6ddf7e66cc74",
+        "sha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760",
+        "sourcePdf": "/source-papers/guide-f0da6ddf7e66cc74/original.pdf",
+        "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=ms_6a48020b6f5c5.pdf&t=7dfd02370d21e0a79ddee82b5c381abd8e250ed998da55dbde64b3a54700d795",
+        "pages": [
+          2
+        ],
+        "provenance": "Matching Moshi District Council Business Studies CODE065 May2026 scheme"
+      },
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All eight paper pages and two matching-guide pages inspected visually. Full original wording, numbers, choices, cases and instructions preserved; only line wrapping and answer-space dotted rules normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    }
+  ],
+  "verificationNotes": [
+    "Printed paper and guide both BUSINESS STUDIES CODE065, Moshi District Council, May2026. All8question-paper pages and2guide pages inspected visually; no association mismatch.",
+    "Complete main question numbers1–9:10MCQ items,5matching rows,5concept notes,4production-resource explanations,diagram of10characteristics,definition and4activities,business-process definition and4phase cases,5entrepreneurship-importance points,entrepreneurial-skills definition and4management-skill explanations.",
+    "Native text extraction was compared with all original page images. Only whitespace and dotted answer rules normalized; no source words/numbers/options removed or rewritten. “despite of”, “organization’s”, “What is entrepreneurial skills”, and “goods knowledge” retained as printed.",
+    "Section marks reconcile: A15, B40, C45 =100. Source Q4 2.5-mark steps retained. Written analytic self-assessment descriptors are independently prepared and labelled; no official scheme status is invented.",
+    "Original Q7(b) phase-identification tasks use a matching input with exactly the phase choices given in the original question; no new distractors or changed wording.",
+    "Q5 requires a diagram: source gives ten characteristics at one mark each, no separate layout allocation. Drawing requirement retained; typed words are not represented as automatically graded drawing evidence."
+  ],
+  "sourceIntegrity": {
+    "paperSha256": "b7a0c6972b4250dc74f1be75f0b8e52bb862556ff3b0c4f2d75ce87c50fdb395",
+    "guideSha256": "f0da6ddf7e66cc7431e9cebb8ee22ff6cb1afc2e9c73c26897ead30840a1b760"
+  }
+}

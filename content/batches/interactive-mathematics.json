@@ -1,0 +1,1446 @@
+{
+  "paper": {
+    "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+    "title": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+    "form": 1,
+    "subjectId": "mathematics",
+    "sourceType": "district",
+    "institution": "MKALAMA DISTRICT COUNCIL (printed cover)",
+    "year": 2025,
+    "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+    "sourceDocumentId": "source-9256f7e1b84f17a8",
+    "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+    "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+    "sourceInstructions": [
+      "This paper consists of ten (10) compulsory questions. Each question carries ten (10) marks. Answer all questions.",
+      "All writings must be in blue or black ink. Use a pencils for drawing.",
+      "Writ your name on every page of your answer sheet(s)"
+    ],
+    "questionIds": [
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q1-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q1-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q2-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q2-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q3-a-i",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q3-a-ii",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q3-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q4-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q4-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q5-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q5-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q6-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q6-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q7-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q7-b-i",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q7-b-ii",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q8-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q8-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q9-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q9-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q10"
+    ],
+    "allTranscribedQuestionIds": [
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q1-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q1-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q2-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q2-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q3-a-i",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q3-a-ii",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q3-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q4-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q4-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q5-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q5-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q6-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q6-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q7-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q7-b-i",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q7-b-ii",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q8-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q8-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q9-a",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q9-b",
+      "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q10"
+    ],
+    "sourceMaximumMarks": 100,
+    "maximumMarks": 100,
+    "completePaper": true,
+    "completeScoredPaper": true,
+    "transcriptionComplete": true,
+    "sourceMainQuestionCount": 10,
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "publicationStatus": "published",
+    "publicationScope": "complete-paper",
+    "verificationScope": "All ten main questions transcribed from complete source pages; printed notation preserved; independently corrected guide discrepancies disclosed.",
+    "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+    "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad"
+  },
+  "questions": [
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q1-a",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "1(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-1",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Mathematics is categorized into several branches, write three branches of mathematics.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-001.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 1.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [1] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "Algebra; Geometry; Arithmetic.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Three correct branches earn full credit. Two correct branches: 3 marks; one: 1.5 marks. Accept other genuine mathematical branches. Do not demand explanations not requested.",
+      "workedSolution": "Algebra; Geometry; Arithmetic.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q1-b",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "1(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-1",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Identify three activities that involve use of mathematics concept in geography.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-001.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 1.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [1] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "Examples: measuring distances between points on a map; measuring mountain heights; calculating areas represented on a map.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Three distinct valid activities earn 5; two earn 3; one earns 1.5. Accept equivalent accurate geographical uses.",
+      "workedSolution": "Examples: measuring distances between points on a map; measuring mountain heights; calculating areas represented on a map.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q2-a",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "2(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-2",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Represent 4/3 on a number line",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-001.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 1.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [1] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "4/3 = 1⅓. Mark a point one third of the way from 1 to 2 on a consistently scaled number line.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Correct scaled number line 2; locate interval 1 to 2: 1; trisect interval and mark 1⅓: 2.",
+      "workedSolution": "4/3 = 1⅓. Mark a point one third of the way from 1 to 2 on a consistently scaled number line.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q2-b",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "2(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-2",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Read the rational number from the number line",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-001.jpg",
+          "alt": "Original question number-line diagram; use the printed points and tick labels.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-001.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 1.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [1] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "The marked point is 3/2 = 1.5 = 1½.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Read equal half-unit intervals and the marked point between 1 and 2: full 5 for a correct equivalent value.",
+      "workedSolution": "The marked point is 3/2 = 1.5 = 1½.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q3-a-i",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "3(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-3",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Fill the blanks with the sign < or > or = to make a correct mathematical statement. Note that ‘a’, ‘b’ and ‘c’ represent real numbers.",
+      "content": "If a = b and b > c, then a_______c",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-001.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 1.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2.5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [1] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "a > c.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Correct sign > earns 2.5.",
+      "workedSolution": "a > c.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q3-a-ii",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "3(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-3",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Fill the blanks with the sign < or > or = to make a correct mathematical statement. Note that ‘a’, ‘b’ and ‘c’ represent real numbers.",
+      "content": "If a > b and b > c, then a_______c.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-001.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 1.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2.5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [1] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "a > c.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Correct sign > earns 2.5.",
+      "workedSolution": "a > c.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q3-b",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "3(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-3",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Which fraction is greater 1/4 or 3/7?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-001.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 1.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [2] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "3/7 is greater: 1/4 = 7/28, while 3/7 = 12/28.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Correct common denominator/method: 2; equivalent numerators/comparison: 2; correct conclusion: 1.",
+      "workedSolution": "3/7 is greater: 1/4 = 7/28, while 3/7 = 12/28.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q4-a",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "4(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-4",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Identify irrational numbers from the set of numbers\n{√9, √2/2, 1/11, π, √3, π/4, 0.54, 3/4, −√5/3}",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-001.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 1.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [2] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "√2/2, π, √3, π/4 and −√5/3. √9=3 is rational.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: One mark for each correctly identified irrational number. Do not count a rational number as an irrational selection.",
+      "workedSolution": "√2/2, π, √3, π/4 and −√5/3. √9=3 is rational.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q4-b",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "4(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-4",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Write Five rational numbers which are equivalent to 3/4",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-001.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 1.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [2] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "Examples: 0.75, 6/8, 9/12, 12/16, 15/20.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: One mark for each of five distinct correct equivalent numbers; accept other valid representations.",
+      "workedSolution": "Examples: 0.75, 6/8, 9/12, 12/16, 15/20.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q5-a",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "5(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-5",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Round off each of the following numbers according to the given instructions.",
+      "content": "(i) 0.267 ( to the nearest tens)\n(ii) 17.82 (to the nearest ones )\n(iii) 63504 (to the nearest thousands)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-001.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 1.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [2] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "(i) 0, literally to the nearest tens (multiple of 10). (ii) 18. (iii) 64,000.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Independently prepared split of the source 5-mark part: i=1.5, ii=1.5, iii=2. Assess the printed word “tens” literally, not the source guide’s presumed “tenths”.",
+      "workedSolution": "(i) 0, literally to the nearest tens (multiple of 10). (ii) 18. (iii) 64,000.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Source guide gives 0.3 for (i), which rounds to tenths. The original paper says “tens”, retained unchanged here; the literal correct answer is 0. The independent key explicitly follows the printed question.",
+      "subquestions": [
+        {
+          "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q5-a-1",
+          "label": "i",
+          "content": "0.267 ( to the nearest tens)",
+          "parentQuestionId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q5-a"
+        },
+        {
+          "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q5-a-2",
+          "label": "ii",
+          "content": "17.82 (to the nearest ones )",
+          "parentQuestionId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q5-a"
+        },
+        {
+          "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q5-a-3",
+          "label": "iii",
+          "content": "63504 (to the nearest thousands)",
+          "parentQuestionId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q5-a"
+        }
+      ]
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q5-b",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "5(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-5",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Find the value of 0.3143 × 6.06 giving the answer correct to 3 decimal places.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-001.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 1.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [2] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "0.3143 × 6.06 = 1.904658, hence 1.905 to 3 decimal places.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Correct product/multiplication working: 3; identify fourth decimal 6 and round to 1.905: 2.",
+      "workedSolution": "0.3143 × 6.06 = 1.904658, hence 1.905 to 3 decimal places.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q6-a",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "6(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-6",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Represent the following inequalities on a number line where X is a real number.",
+      "content": "−3/4 ≤ x < 2",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-002.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [3] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "A solid endpoint at −3/4, an open endpoint at 2, with the interval between them shaded.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Correct scale and endpoints: 2; closed endpoint at −3/4: 1; open endpoint at 2: 1; correct interval shading: 1.",
+      "workedSolution": "A solid endpoint at −3/4, an open endpoint at 2, with the interval between them shaded.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide writes −3/6 in its line and diagram. The original printed question is −3/4. This independently checked solution preserves and follows −3/4."
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q6-b",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "6(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-6",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Represent the following inequalities on a number line where X is a real number.",
+      "content": "x ≤ 3/2",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-002.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [3] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "A solid endpoint at 3/2=1.5 with a ray extending left.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Correct scale/location: 2; solid endpoint: 1; leftward ray and arrow: 2.",
+      "workedSolution": "A solid endpoint at 3/2=1.5 with a ray extending left.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q7-a",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-recurring-decimal-prefix"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-recurring-decimal-prefix"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "7(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-7",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Evaluate 2.3 + 0.3 − 2.4 give your answer in form of a/b where b ≠ 0",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-002.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [3] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "2.3 + 0.3 − 2.4 = 0.2 = 1/5.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Correct decimal addition/subtraction: 2.5; correct fraction 1/5 (or equivalent exact fraction with nonzero denominator): 2.5.",
+      "workedSolution": "2.3 + 0.3 − 2.4 = 0.2 = 1/5.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide adds recurring-decimal dots that are absent from the original question and obtains 2/9. Enlarged original source crop confirms ordinary printed decimals. No recurring dots have been added to the question; the independent answer is 1/5."
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q7-b-i",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-recurring-decimal-prefix"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-recurring-decimal-prefix"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "7(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-7",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Convert the following fractions into decimals.",
+      "content": "1/3",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-002.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2.5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [4] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "0.333… = 0.(3).",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Correct recurring decimal 0.333… with continuation indicated: 2.5.",
+      "workedSolution": "0.333… = 0.(3).",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q7-b-ii",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-recurring-decimal-prefix"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-recurring-decimal-prefix"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "7(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-7",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Convert the following fractions into decimals.",
+      "content": "15/9",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-002.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2.5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [4] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "15/9 = 5/3 = 1.666… = 1.(6).",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Correct recurring decimal 1.666… with continuation indicated: 2.5.",
+      "workedSolution": "15/9 = 5/3 = 1.666… = 1.(6).",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide interprets the printed fraction 15/9 as the mixed number 1 5/9 and gives 1.555…. The original image places both numerator digits above the fraction bar. This independent answer uses the unchanged printed fraction 15/9."
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q8-a",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "8(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-8",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Find the absolute value of 1/4 + 1/2 − 2",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-002.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [4, 5] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "|1/4 + 1/2 − 2| = |3/4 − 8/4| = |−5/4| = 5/4.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Common denominator: 1; combine to 3/4: 1; subtract to −5/4: 1; take nonnegative magnitude: 1; final 5/4: 1.",
+      "workedSolution": "|1/4 + 1/2 − 2| = |3/4 − 8/4| = |−5/4| = 5/4.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        4,
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q8-b",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "8(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-8",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Evaluate |3 − 5| + |12 ÷ 3| − 5 × 2",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-002.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [5] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "|−2| + |4| − 10 = 2 + 4 − 10 = −4.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Evaluate inner operations: 2; correct absolute values: 1; multiplication and final subtraction: 2.",
+      "workedSolution": "|−2| + |4| − 10 = 2 + 4 − 10 = −4.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q9-a",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "9(a)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-9",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "A monthly salary of a worker is Tsh.270, 000. Two third of this salary is used to buy food and one half of the remaining money is used to buy a pair of shoes.",
+      "content": "How much money is used to buy a pair of shoes?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-002.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [6] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "Food = (2/3)×270,000 = 180,000. Remainder = 90,000. Shoes = (1/2)×90,000 = Tsh.45,000.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Food amount: 1; remaining money and half-remainder method: 2; amount 45,000: 1; shillings and correct context: 1.",
+      "workedSolution": "Food = (2/3)×270,000 = 180,000. Remainder = 90,000. Shoes = (1/2)×90,000 = Tsh.45,000.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        6
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q9-b",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "9(b)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-9",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "A monthly salary of a worker is Tsh.270, 000. Two third of this salary is used to buy food and one half of the remaining money is used to buy a pair of shoes.",
+      "content": "Write the fraction of salary used to buy food in decimal.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-002.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [6, 7] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "2/3 = 0.666… = 0.(6).",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Identify the requested food fraction 2/3: 2; valid division/conversion: 2; recurring decimal correctly indicated: 1.",
+      "workedSolution": "2/3 = 0.666… = 0.(6).",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        6,
+        7
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide computes the shoes fraction 1/6=0.166… while the source explicitly asks for food. The unchanged question is scored using the independently checked food fraction 2/3."
+    },
+    {
+      "id": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-q10",
+      "paperId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Basic Mathematics • Form One • May 2025",
+      "institution": "MKALAMA DISTRICT COUNCIL (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Source-compatible Form One number skills; not a completeness claim",
+      "questionNumber": "10",
+      "parentQuestionId": null,
+      "groupId": "mkalama-f1-2025-mathematics-9256f7e1b84f17a8-group-10",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Amina and her 3 friends bought 12 bottles of soft drink from a school shop at a price of 600 shillings per bottle. If the total cost was shared equally among themselves , how much each person paid.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-9256f7e1b84f17a8/page-002.jpg",
+          "alt": "Complete unchanged original Mathematics paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 0.5,
+      "marksProvenance": "Original source cover: each main question carries ten marks; associated source guide pages [7] supplies this part allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; not an assertion of official substep weights.",
+      "answerKey": "12×600 = 7,200 shillings. Amina and her 3 friends are 4 people. Each pays 7,200÷4 = 1,800 shillings.",
+      "markingGuide": "Independent SomaSmart rubric using the source part maximum: Total cost calculation: 3; identify 4 people: 2; correct equal division: 3; result 1,800: 1; shillings: 1.",
+      "workedSolution": "12×600 = 7,200 shillings. Amina and her 3 friends are 4 people. Each pays 7,200÷4 = 1,800 shillings.",
+      "solutionProvenance": "SomaSmart independently calculated against the exact printed question; associated guide checked separately. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_",
+      "sourcePdf": "/source-papers/source-9256f7e1b84f17a8/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "9256f7e1b84f17a89817d07104610b994401343d750b8f93c317a9468014b4f7",
+      "sourceDocumentId": "source-9256f7e1b84f17a8",
+      "answerGuidePdf": "/source-papers/guide-7d138c2818369bce/original.pdf",
+      "answerGuideSha256": "7d138c2818369bcebf0a05cc61f92ef0732fac29079a7258606af0c3a06383ad",
+      "answerGuidePages": [
+        7
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Both original paper pages and all seven associated guide pages inspected visually; notation/labels preserved and arithmetic independently checked.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    }
+  ],
+  "verificationNotes": [
+    "Every question retained exactly in wording and mathematical meaning; linear slash notation represents original stacked fractions.",
+    "Q5(a)(i),Q6(a),Q7(a),Q7(b)(ii),Q9(b) use explicitly independent corrections to erroneous source guide; original paper is not edited."
+  ]
+}

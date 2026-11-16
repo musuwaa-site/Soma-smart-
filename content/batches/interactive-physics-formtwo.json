@@ -1,0 +1,2347 @@
+{
+  "paper": {
+    "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+    "title": "NECTA FTNA2025 • Physics • independently solved selection",
+    "form": 2,
+    "subjectId": "physics",
+    "sourceType": "necta",
+    "institution": "National Examinations Council of Tanzania (printed source cover)",
+    "year": 2025,
+    "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+    "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+    "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+    "sourceDocumentId": "source-82d4ba0ae1a6bac4",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "scope": "Use of genuine examination papers in SomaSmart",
+      "confirmedBy": "owner",
+      "verification": "Owner assertion; no document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "publicationStatus": "published",
+    "publicationScope": "selected-questions",
+    "completePaper": false,
+    "completeTranscription": true,
+    "sourceMaximumMarks": 100,
+    "maximumMarks": 99.0,
+    "questionIds": [
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-ii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-iii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-v",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-vi",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-vii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-viii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-ix",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-x",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q3-a",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q3-b-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q3-b-ii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q4-a-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q4-a-ii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q4-b",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q5-a",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q5-b",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q6-a",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q6-b-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q6-b-ii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q7-a",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q7-b",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q8-a",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q8-b",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q9-a",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q9-b-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q9-b-ii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-a-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-a-ii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-b",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-c-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-c-ii"
+    ],
+    "allTranscribedQuestionIds": [
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-ii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-iii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-iv",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-v",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-vi",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-vii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-viii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-ix",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-x",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q3-a",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q3-b-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q3-b-ii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q4-a-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q4-a-ii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q4-b",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q5-a",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q5-b",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q6-a",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q6-b-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q6-b-ii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q7-a",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q7-b",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q8-a",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q8-b",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q9-a",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q9-b-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q9-b-ii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-a-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-a-ii",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-b",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-c-i",
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-c-ii"
+    ],
+    "heldQuestionIds": [
+      "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-iv"
+    ],
+    "sourceInstructions": [
+      "This paper consists of sections A, B and C with a total of ten (10) questions.",
+      "Answer all the questions.",
+      "All answers must be written in the spaces provided.",
+      "All writing must be in blue or black ink, except drawings which must be in pencil.",
+      "Communication devices and any unauthorised materials are not allowed in the assessment room.",
+      "Write your Assessment Number at the top right corner of every page.",
+      "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14."
+    ],
+    "sectionInstructions": [
+      {
+        "section": "A",
+        "maximumMarks": 15,
+        "instructions": "Answer all questions in this section."
+      },
+      {
+        "section": "B",
+        "maximumMarks": 70,
+        "instructions": "Answer all questions in this section."
+      },
+      {
+        "section": "C",
+        "maximumMarks": 15,
+        "instructions": "Answer question ten (10)."
+      }
+    ],
+    "verificationScope": "Complete source transcription of all ten main questions from sixteen visually inspected pages. Published parts use independent checked solutions and printed maximum marks. No official scheme claimed. One ambiguous MCQ is held.",
+    "excludedQuestions": [
+      {
+        "number": "1(iv)",
+        "reason": "Bare-hand friction and transmitted rope tension are different valid force descriptions; original wording does not uniquely resolve the intended classification. No source marking key is available. Preserve all alternatives and withhold scoring pending clarification."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-i",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "1(i)",
+      "sourceQuestionLabel": "1(i)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-i",
+      "type": "mcq",
+      "instructions": "For each of the items (i) – (x), choose the correct answer among the given alternatives and write its letter in the box provided. Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Why is it important to study Physics in real life situations?\n1. It is useful for career development\n2. It is used to clarify the existence of historical sites\n3. It explains physical properties of matter\n4. It is applied in the manufacturing and designing of the electronic devices\n5. It helps in experimental discoveries",
+      "sharedContent": "",
+      "options": [
+        "A 1, 2, 3 and 4",
+        "B 2, 3, 4 and 5",
+        "C 1, 3, 4 and 5",
+        "D 1, 2, 4 and 5"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-002.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Printed question1 total10 marks across10 multiple-choice items; equal1-mark per-item allocation is explicit SomaSmart scoring, not an inspected official scheme.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "C 1, 3, 4 and 5",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Equal 1-mark allocation for each of the ten independently answerable MCQs within the printed question1 total of10 marks. The intended general physics applications are statements 1, 3, 4 and 5; statement 2 is not the listed general purpose.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "7d5f03bf0951280a7260b530ae24481fd84ffb6fb5b8d37ccbd5fb0312d42b50"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-ii",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "1(ii)",
+      "sourceQuestionLabel": "1(ii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-ii",
+      "type": "mcq",
+      "instructions": "For each of the items (i) – (x), choose the correct answer among the given alternatives and write its letter in the box provided. Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Figure 1 is a warning symbol used in the laboratory. What does the symbol represent?",
+      "sharedContent": "",
+      "options": [
+        "A The substance is corrosive",
+        "B The substance catches fire easily",
+        "C The substance oxidizes the air and speeds up burning",
+        "D The substance produces radiations"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-002.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 2.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Printed question1 total10 marks across10 multiple-choice items; equal1-mark per-item allocation is explicit SomaSmart scoring, not an inspected official scheme.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "B The substance catches fire easily",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Equal 1-mark allocation for each of the ten independently answerable MCQs within the printed question1 total of10 marks. The original flame symbol denotes a flammable material.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "faec46814d738e4907a3d3ff2a22ed8d1bcefa504de8dd456cedacc8ee3b6e33"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-iii",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "1(iii)",
+      "sourceQuestionLabel": "1(iii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-iii",
+      "type": "mcq",
+      "instructions": "For each of the items (i) – (x), choose the correct answer among the given alternatives and write its letter in the box provided. Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Which one is a renewable energy whose source is heat from the earth’s interior?",
+      "sharedContent": "",
+      "options": [
+        "A Wind energy",
+        "B Solar energy",
+        "C Geothermal energy",
+        "D Water energy"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-002.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Printed question1 total10 marks across10 multiple-choice items; equal1-mark per-item allocation is explicit SomaSmart scoring, not an inspected official scheme.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "C Geothermal energy",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Equal 1-mark allocation for each of the ten independently answerable MCQs within the printed question1 total of10 marks. Geothermal energy comes from heat within Earth.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "b963d89dcdfa41d62d2e9140596a6505b8457e9f6e643b0f8d1cbc560a681c48"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-iv",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "1(iv)",
+      "sourceQuestionLabel": "1(iv)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-iv",
+      "type": "mcq",
+      "instructions": "For each of the items (i) – (x), choose the correct answer among the given alternatives and write its letter in the box provided. Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Imagine two groups of equal number of people are pulling a rope by their bare hands, each group is trying to overcome the opponent’s force. What kind of force does each group exert on the rope?",
+      "sharedContent": "",
+      "options": [
+        "A Tension force",
+        "B Normal force",
+        "C Frictional force",
+        "D Stretching force"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-003.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Printed question1 total10 marks across10 multiple-choice items; equal1-mark per-item allocation is explicit SomaSmart scoring, not an inspected official scheme.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "C Frictional force",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Equal 1-mark allocation for each of the ten independently answerable MCQs within the printed question1 total of10 marks. At the bare-hand grip the tangential contact force is friction, whereas the transmitted tensile force in the rope is tension. The question does not explicitly distinguish the force classification intended.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceIssue": "Bare-hand friction and transmitted rope tension are different valid force descriptions; original wording does not uniquely resolve the intended classification. No source marking key is available. Preserve all alternatives and withhold scoring pending clarification.",
+      "transcriptionDigest": "e7d23cba5ba929a40eebd6b2689333ed5bbf542460be86bf6430ed718ffbe928"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-v",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "1(v)",
+      "sourceQuestionLabel": "1(v)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-v",
+      "type": "mcq",
+      "instructions": "For each of the items (i) – (x), choose the correct answer among the given alternatives and write its letter in the box provided. Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "What does a clinical thermometer measure?",
+      "sharedContent": "",
+      "options": [
+        "A Ice point of a solid",
+        "B Steam point of a liquid",
+        "C Temperature of a human body",
+        "D Room temperature"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-003.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Printed question1 total10 marks across10 multiple-choice items; equal1-mark per-item allocation is explicit SomaSmart scoring, not an inspected official scheme.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "C Temperature of a human body",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Equal 1-mark allocation for each of the ten independently answerable MCQs within the printed question1 total of10 marks. A clinical thermometer is designed to measure body temperature.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "722ddf815384e3bea0813383d172ef295cd761e0831ab6a7cd638bbb6cfafd29"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-vi",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "1(vi)",
+      "sourceQuestionLabel": "1(vi)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-vi",
+      "type": "mcq",
+      "instructions": "For each of the items (i) – (x), choose the correct answer among the given alternatives and write its letter in the box provided. Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Why is hot soup tastier than cold soup?",
+      "sharedContent": "",
+      "options": [
+        "A It has higher surface tension",
+        "B It has lower surface tension",
+        "C It has higher capillary action",
+        "D It has lower capillary action"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-003.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Printed question1 total10 marks across10 multiple-choice items; equal1-mark per-item allocation is explicit SomaSmart scoring, not an inspected official scheme.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "B It has lower surface tension",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Equal 1-mark allocation for each of the ten independently answerable MCQs within the printed question1 total of10 marks. Within the surface-tension context of these alternatives, higher temperature reduces surface tension and improves wetting/spreading. This is the physics interpretation of the question, not a claim that taste has only one cause.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "f0c0cad247748d91b25994db423b390d2f0e0728ae880dde5e670bcf2ceec702"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-vii",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-magnetic-fields"
+      ],
+      "subtopicIds": [
+        "physics-f2-magnetic-fields"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "1(vii)",
+      "sourceQuestionLabel": "1(vii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-vii",
+      "type": "mcq",
+      "instructions": "For each of the items (i) – (x), choose the correct answer among the given alternatives and write its letter in the box provided. Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Which set represents ferromagnetic materials?",
+      "sharedContent": "",
+      "options": [
+        "A Aluminium, cobalt and nickel",
+        "B Chromium, cobalt and steel",
+        "C Steel, nickel and aluminium",
+        "D Cobalt, nickel and steel"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-003.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Printed question1 total10 marks across10 multiple-choice items; equal1-mark per-item allocation is explicit SomaSmart scoring, not an inspected official scheme.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "D Cobalt, nickel and steel",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Equal 1-mark allocation for each of the ten independently answerable MCQs within the printed question1 total of10 marks. Cobalt, nickel and ferromagnetic steel are the correct listed set; aluminium is not ferromagnetic.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "fa6ef4c9df36fe9fb6baa201a830dfb7cc6f4a383ba79249bd10b8f02f557c68"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-viii",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-light"
+      ],
+      "subtopicIds": [
+        "physics-f2-light"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "1(viii)",
+      "sourceQuestionLabel": "1(viii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-viii",
+      "type": "mcq",
+      "instructions": "For each of the items (i) – (x), choose the correct answer among the given alternatives and write its letter in the box provided. Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "A student was given a plane mirror and observed that its reflecting surface was so smooth that an image of the object that emits the light was very clear. Which type of reflection was a result of such observation?",
+      "sharedContent": "",
+      "options": [
+        "A Diffuse reflection",
+        "B Reflection of light",
+        "C Regular reflection",
+        "D Selective absorption"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-003.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Printed question1 total10 marks across10 multiple-choice items; equal1-mark per-item allocation is explicit SomaSmart scoring, not an inspected official scheme.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "C Regular reflection",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Equal 1-mark allocation for each of the ten independently answerable MCQs within the printed question1 total of10 marks. A smooth mirror produces regular (specular) reflection and a clear image.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "11cf08bc98a372eac1bdb2a4587d2d3c41ddeebc18e58c0e5a13f82e511d734f"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-ix",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "1(ix)",
+      "sourceQuestionLabel": "1(ix)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-ix",
+      "type": "mcq",
+      "instructions": "For each of the items (i) – (x), choose the correct answer among the given alternatives and write its letter in the box provided. Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "After coming late to school, a student ran into the classroom and closed the door to hide from the teacher. What type of force did the student use to close the door?",
+      "sharedContent": "",
+      "options": [
+        "A Normal force",
+        "B Turning force",
+        "C Compressional force",
+        "D Stretching force"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-003.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Printed question1 total10 marks across10 multiple-choice items; equal1-mark per-item allocation is explicit SomaSmart scoring, not an inspected official scheme.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "B Turning force",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Equal 1-mark allocation for each of the ten independently answerable MCQs within the printed question1 total of10 marks. The applied force creates a turning effect about the door hinge.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "e201445c31df9a41d74818944952fe51d572032f710047d22bf7109547d15a55"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-x",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-static-charge"
+      ],
+      "subtopicIds": [
+        "physics-f2-static-charge"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "1(x)",
+      "sourceQuestionLabel": "1(x)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q1-x",
+      "type": "mcq",
+      "instructions": "For each of the items (i) – (x), choose the correct answer among the given alternatives and write its letter in the box provided. Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "If you want to detect the presence of electric charge in an object, which electrical device would you use?",
+      "sharedContent": "",
+      "options": [
+        "A Electrophorus",
+        "B Galvanometer",
+        "C Voltmeter",
+        "D Electroscope"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-003.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Printed question1 total10 marks across10 multiple-choice items; equal1-mark per-item allocation is explicit SomaSmart scoring, not an inspected official scheme.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "D Electroscope",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Equal 1-mark allocation for each of the ten independently answerable MCQs within the printed question1 total of10 marks. An electroscope detects the presence of electric charge.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "ab9319744195431cbd24d65056d41bfb5e2244c07f39432474ded5f568013943"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-measurement-thermal-revision",
+        "physics-f2-current-electricity"
+      ],
+      "subtopicIds": [
+        "physics-f2-measurement-thermal-revision",
+        "physics-f2-current-electricity"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "2",
+      "sourceQuestionLabel": "2",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2",
+      "type": "matching",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Match each of the physical quantities in List A with its corresponding units in List B by writing a letter of the correct answer below an item number in the table provided.",
+      "sharedContent": "",
+      "options": [
+        "A Ampere",
+        "B Kilogram",
+        "C Kelvin",
+        "D Meter",
+        "E Meter per second square",
+        "F Kilogram meter per second",
+        "G Mole"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-004.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Printed question2 total5 marks across5 matching items; equal1-mark scoring allocation is independently stated.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": {
+        "i": "C Kelvin",
+        "ii": "A Ampere",
+        "iii": "D Meter",
+        "iv": "F Kilogram meter per second",
+        "v": "B Kilogram"
+      },
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Equal1-mark per matching item within source question2 total5marks. Temperature–Kelvin; current–Ampere; displacement–Meter; momentum–Kilogram meter per second; mass–Kilogram.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "pairs": [
+        {
+          "id": "i",
+          "left": "(i) Temperature"
+        },
+        {
+          "id": "ii",
+          "left": "(ii) Electric current"
+        },
+        {
+          "id": "iii",
+          "left": "(iii) Displacement"
+        },
+        {
+          "id": "iv",
+          "left": "(iv) Momentum"
+        },
+        {
+          "id": "v",
+          "left": "(v) Mass"
+        }
+      ],
+      "subquestions": [
+        {
+          "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2-i",
+          "label": "i",
+          "content": "Temperature",
+          "parentQuestionId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2"
+        },
+        {
+          "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2-ii",
+          "label": "ii",
+          "content": "Electric current",
+          "parentQuestionId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2"
+        },
+        {
+          "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2-iii",
+          "label": "iii",
+          "content": "Displacement",
+          "parentQuestionId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2"
+        },
+        {
+          "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2-iv",
+          "label": "iv",
+          "content": "Momentum",
+          "parentQuestionId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2"
+        },
+        {
+          "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2-v",
+          "label": "v",
+          "content": "Mass",
+          "parentQuestionId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q2"
+        }
+      ],
+      "transcriptionDigest": "9606850484fa6ebf02b159a9b3be505fed5e6590c5ac51beaaf5b518f3144171"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q3-a",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "3(a)",
+      "sourceQuestionLabel": "3(a)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q3",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Why a tractor with wide tyres cannot get stuck in muddy places as compared to a car with narrow tyres.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-004.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 4.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "Wide tyres spread the load over a larger contact area, reducing pressure on the mud and therefore reducing sinking. This is the pressure comparison intended by the question, rather than an absolute guarantee for every tractor and soil condition.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for increased area and1 for reduced pressure/sinking using P=F/A.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "d39d6f18c75f59f8243f8ed42248287e99a633b7f0778040ae4b69ca6cb606e5"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q3-b-i",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "3(b)(i)",
+      "sourceQuestionLabel": "3(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q3",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "List three factors on which the pressure of liquids depends.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-005.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 5.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "Liquid density ρ, depth h below the free surface, and gravitational acceleration g, since hydrostatic gauge pressure is p=ρgh.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 per correct distinct factor. The expression is liquid hydrostatic gauge pressure; surface/atmospheric pressure would additionally affect absolute pressure.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "c2d8d4e8b2f6f5b60d2d59498be11a5a3e8ee988c8f296e6de8a655e69075ee5"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q3-b-ii",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "3(b)(ii)",
+      "sourceQuestionLabel": "3(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q3",
+      "type": "calculation",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Calculate the area of a surface of an object which exerts a pressure of 0.2 N/m² when the force acting on it is 2 N.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-005.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 5.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "P=F/A, hence A=F/P=2/0.2=10 m².",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 each for P=F/A, rearrangement A=F/P, substitution, calculation10, and m² unit. Accept equivalent working.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "4b3a4f56ae433bfd66c8fcfae7f4803b4c2a4a2e210099f9160f608fff9a0b0a"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q4-a-i",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "4(a)(i)",
+      "sourceQuestionLabel": "4(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q4",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "When a body is totally immersed in a liquid, its weight becomes less than its weight in air. Why is the body weight decreases in a liquid?",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-005.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 5.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "The liquid exerts an upward buoyant force (upthrust), reducing the body’s apparent weight. Its actual gravitational weight is not reduced merely by immersion.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for upthrust reducing apparent weight. The source wording is retained; the independent solution clarifies apparent versus actual weight.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "e0f807198bd32ce3e664e957915ef732fbd97d3aeec2ecde0c337285bd0b1268"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q4-a-ii",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "4(a)(ii)",
+      "sourceQuestionLabel": "4(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q4",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "If the density of object X was 1.4 g/cm³, predict if it will float in water. Give one reason to justify your choice.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-006.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 6.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "It sinks rather than floats freely: 1.4 g/cm³ is greater than the approximately1.0 g/cm³ density of water, so its weight exceeds the maximum buoyancy for its own displaced volume.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award2 for sinks/not floating and2 for a correct density/buoyancy justification. Accept standard comparison with water density.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        6
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "bc8a05dd0b44524ed167f97695355ec6eb192db52161020cc753a46f21551c4d"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q4-b",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "4(b)",
+      "sourceQuestionLabel": "4(b)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q4",
+      "type": "calculation",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "The weight of a piece of aluminium in air is 42.0 N and 25.5 N when completely immersed in water. What is the relative density of aluminium?",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-006.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 6.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "Loss of apparent weight=42.0−25.5=16.5 N. Relative density=weight in air/loss in water=42.0/16.5=28/11≈2.55, dimensionless.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 each for weight-loss principle, difference16.5N, relative-density ratio, numerical value≈2.55, and correct dimensionless interpretation. The measured source values are used without replacing them with a tabulated aluminium density.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        6
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "6bea479b054ff2b9796300bacd29bb0d99ddb10e15d017bcfe58eb6371ffbd8b"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q5-a",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "5(a)",
+      "sourceQuestionLabel": "5(a)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q5",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "State the Newton’s third law of motion.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-006.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 6.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "When one body exerts a force on another, the second exerts an equal-magnitude force in the opposite direction on the first; the two forces act on different bodies.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for equal magnitude,1 for opposite directions,1 for interaction on different bodies.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        6
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "9d505c2acc0cfec69a1b3a110addd242b2ee09801f56cb9be969a3ec2914c6cc"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q5-b",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "5(b)",
+      "sourceQuestionLabel": "5(b)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q5",
+      "type": "calculation",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "A monkey has a mass of 45 kg, and it climbs on a rope which can stand a maximum tensional force of 550 N. If the monkey climbs up with an acceleration of 5.5 m/s², find the force that will make the rope to break?",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-007.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 7,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 7.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "Taking upward as positive: T−mg=ma, so T=m(g+a)=45(10+5.5)=697.5 N. This exceeds550 N by147.5 N, so the required rope tension exceeds its stated limit and the rope breaks.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 each for upward force model, weight mg=450N, net force ma=247.5N, relationT=mg+ma, calculation697.5N, comparison with550N, and conclusion. The calculated697.5N is the demanded tension before accounting for failure, not a physically sustainable tension after the rope has broken.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        7
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "aac364ab2529ae360decb5dbd589b06d861ff323dd4982f8534859b4be363d9a"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q6-a",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "6(a)",
+      "sourceQuestionLabel": "6(a)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q6",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Write three equations of uniformly accelerated motion.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-007.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 7.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-008.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 7,8.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "v=u+at; s=ut+½at²; v²=u²+2as. Here u is initial velocity, v final velocity, a constant acceleration, t time and s displacement.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for each correct distinct constant-acceleration equation. Accept equivalent rearrangements without counting one equation twice.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        7,
+        8
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "530b4de288ff62d760bd33a234e9c0245bcc7919378c5deef013a62922142111"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q6-b-i",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "6(b)(i)",
+      "sourceQuestionLabel": "6(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q6",
+      "type": "calculation",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "The maximum speed reached.",
+      "sharedContent": "A car started to move from rest and accelerated uniformly at the rate of 4 m/s² for 12 s. It then maintained a constant speed for 30 seconds, after applying the brakes, it decelerated uniformly to rest in 5 s. Calculate;",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-008.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 8.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "v=u+at=0+4×12=48 m/s.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for v=u+at/substitution and1 for48m/s. The complete unchanged common motion description accompanies this part.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        8
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "edea14c41eb2f484f8cc559eee2dd2f01c04ef11f9df16e952014156e9fc886f"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q6-b-ii",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "6(b)(ii)",
+      "sourceQuestionLabel": "6(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q6",
+      "type": "calculation",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "The total distance covered in metres.",
+      "sharedContent": "A car started to move from rest and accelerated uniformly at the rate of 4 m/s² for 12 s. It then maintained a constant speed for 30 seconds, after applying the brakes, it decelerated uniformly to rest in 5 s. Calculate;",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-008.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 8.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "Accelerating distance=½×12×48=288m. Constant-speed distance=48×30=1440m. Braking distance=½×5×48=120m. Total=288+1440+120=1848m.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for each of the three stage distances,1 for adding all stages and1 for1848m with unit. Accept equivalent constant-acceleration calculations or velocity–time graph area.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        8
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "f6aaa6d6a7bc609d33a76d2bf6f7b8f30866db63615f9a1e78bb6a894965f04c"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q7-a",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "7(a)",
+      "sourceQuestionLabel": "7(a)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q7",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "With well labelled diagrams, differentiate a fixed from a movable pulley. Give two differences.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-009.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 9.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "Fixed pulley: its axle is attached to a fixed support, the rope passes over the wheel, and the load/effort are attached to the rope ends. It changes the effort direction and has ideal mechanical advantage1. Movable pulley: the wheel/axle moves with the load, one rope end is fixed to a support and the free end provides effort. Two rope segments support a single ideal movable pulley, giving ideal mechanical advantage2. Diagrams must label support, wheel/axle, rope, load and effort appropriately.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award up to3 for two recognisable correctly labelled diagrams, and1 each for two valid contrasting differences (e.g fixed versus moving axle, ideal MA1 versus2, or effort-direction behaviour). The textual model describes the required diagrams; a student still needs to draw them. This rubric is independent, not official.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        9
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "d82fa9c9aa20b12edf74a301a752b46af9d871516700707c10eb08a0cd6d41c4"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q7-b",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "7(b)",
+      "sourceQuestionLabel": "7(b)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q7",
+      "type": "calculation",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "A pulley system has mechanical advantage of 4. An effort of 100 N is applied on the pulleys system. If the pulley system has an efficiency of 75%, determine the maximum load that will be raised by the effort applied.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-010.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 10.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 10.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "Mechanical advantage is load/effort, so load=4×100=400N. The stated efficiency is consistent with a velocity ratio MA/η=4/0.75=16/3; it is not an extra factor to multiply the already-stated mechanical advantage by. A300N answer would require reinterpreting the printed4 as an ideal advantage or velocity ratio, which the question does not say.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for MA=L/E,1 for rearranging L=MA×E,1 for substitution4×100,1 for400N,1 for correct interpretation that stated actual MA already determines load (efficiency can infer VR). Accept logically equivalent working. Do not silently change “mechanical advantage” to “velocity ratio”.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        10
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "sourceInterpretation": "The source explicitly supplies actual mechanical advantage, not velocity ratio. The independent solution follows that definition; surplus efficiency data is not used to alter the question.",
+      "transcriptionDigest": "8a027ef814fad6bee91c3e52ce710506ebb9f9ed7d72bb7021d634da4f97b77b"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q8-a",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "8(a)",
+      "sourceQuestionLabel": "8(a)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q8",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Outline five forms of energy.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-011.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 11.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2.5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Printed source question/part on page(s) 11.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "Kinetic, gravitational potential, chemical, electrical and thermal energy. Other valid distinct forms, such as elastic potential or radiant/light energy, are acceptable.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award0.5 per correct distinct form, up to2.5. Avoid counting synonymous forms twice.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        11
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "cb0c3349cda9eba7e721c84de3602c171dfc51b5210f92137339c07a34160361"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q8-b",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-mechanics-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "8(b)",
+      "sourceQuestionLabel": "8(b)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q8",
+      "type": "calculation",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "An object of mass 200 kg is lifted by a crane to the top of a building that is 12 m high in 10 s. Calculate the power of the crane.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-011.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 11.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 7.5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Printed source question/part on page(s) 11.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "Gravitational work=mgh=200×10×12=24000J. Average useful lifting power=work/time=24000/10=2400W=2.4kW.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Independent allocation within printed7.5marks: correct work/energy model1.5; g=10m/s² and substitution1.5; work24000J1.5; power=W/t1.5; final2400W1.5. Use half-mark increments for partial valid reasoning. This is useful average power, not motor input power without an efficiency value.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        11
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "ae84ac3b57bc80ecd41b3e193a9704d99d394c6e5e5488551e921fab30d76bbb"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q9-a",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "9(a)",
+      "sourceQuestionLabel": "9(a)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q9",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "State systematically six steps involved in measuring the volume of an irregular object by using the Eureka can.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-012.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 12.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 0.5,
+      "marksProvenance": "Printed source question/part on page(s) 12.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "1. Place the Eureka can level and fill it above the spout with water. 2. Let excess water drain until dripping stops at the spout level. 3. Place an empty measuring cylinder beneath the spout. 4. Lower the non-absorbing, non-dissolving object gently using a thin thread. 5. Immerse it completely without trapping air and collect all displaced overflow. 6. Read the collected water volume at eye level; this equals the object volume.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award0.5 per valid ordered step, up to3. Accept an equivalent reliable overflow-displacement procedure. Do not immerse fingers or lose overflow when measuring the object volume.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        12
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "1257efff1b85b65bc5dccb8f39036261519f3b8a9e4b15de09f635315e56126f"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q9-b-i",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "9(b)(i)",
+      "sourceQuestionLabel": "9(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q9",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "What is the function of the micrometer screw gauge?",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-012.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 12.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 12.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "It measures very small external dimensions, such as the diameter of a thin wire or the thickness of a sheet, with high precision.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for measuring small dimensions and1 for a suitable example/precision qualification.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        12
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "53258f8e221e8620a63e2a9883fcc9a23efeb3d68519f20de575a10800f43991"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q9-b-ii",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "subtopicIds": [
+        "physics-f2-measurement-thermal-revision"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "9(b)(ii)",
+      "sourceQuestionLabel": "9(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q9",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Draw a micrometer screw gauge and label its four parts.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-013.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 13.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 13.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "Draw a recognisable C-shaped frame with anvil facing the spindle, sleeve/main scale and rotating thimble. Label any four correct parts such as frame, anvil, spindle, sleeve/main scale, thimble or ratchet knob.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for a recognisable correct structural drawing and1 per four correctly located distinct labels, up to5. A written list alone does not satisfy the drawing requirement.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        13
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "9165ed7fa12c373b2bc62e6cb28f6b262075b5e9a7ca95b7910d9db11b07ade1"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-a-i",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "subtopicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "10(a)(i)",
+      "sourceQuestionLabel": "10(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "State Ohm’s law.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-013.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 13.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 13.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "At constant temperature and other physical conditions, the current through a conductor is directly proportional to the potential difference across it (V=IR with constantR).",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for proportionality with the required constant-conditions qualification. Accept equivalent correct wording.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        13
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "f440013cbc7c7481b0abc602cdda039ffa4109fc348f9414aef23de76c18fd9a"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-a-ii",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-electricity-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f2-electricity-data-investigation"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "10(a)(ii)",
+      "sourceQuestionLabel": "10(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10",
+      "type": "short",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Outline the procedures of conducting an experiment to verify Ohm’s law. Give at least five necessary procedures.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-014.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 14.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 14.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "1. Connect a low-voltage source, switch, ammeter, variable resistor and test conductor in series, with a voltmeter in parallel across the test conductor. 2. Check correct meter polarities/ranges and start with a small current. 3. Close the switch briefly and record matchingV andI readings. 4. Vary the rheostat/source setting and record severalV,I pairs while keeping the conductor temperature approximately constant (open the switch between readings). 5. PlotV againstI; a straight line through the origin or constantV/I verifies the proportionality under those conditions.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 per necessary coherent procedure, up to5. Require a correct circuit/meter arrangement, paired readings over a range, temperature control and a valid graph/ratio criterion. Equivalent sound experimental sequences are accepted.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        14
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "b835ad378e82a488e911b260aece7db123b94ee8d27dda39c25541692ad79d33"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-b",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "subtopicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "10(b)",
+      "sourceQuestionLabel": "10(b)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10",
+      "type": "calculation",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Show that the total resistance of two resistors connected in parallel is given by R_T = (R_1R_2)/(R_1+R_2) where R_1 and R_2 are the resistances of individual resistors.",
+      "sharedContent": "",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-014.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 14.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 14.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "In parallel the voltageV is common. I=I₁+I₂, so V/Rₜ=V/R₁+V/R₂. Divide byV:1/Rₜ=1/R₁+1/R₂=(R₁+R₂)/(R₁R₂). Invert to obtain Rₜ=R₁R₂/(R₁+R₂).",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for common voltage/current addition,1 for Ohm’s-law substitutions,1 for reciprocal sum/common denominator and1 for correct final expression. Equivalent algebra is valid.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        14
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "4f8a9272e12a1feeed78e137884981726747ff8bcf19a46b03284fb25fe57e1e"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-c-i",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "subtopicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "10(c)(i)",
+      "sourceQuestionLabel": "10(c)(i)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10",
+      "type": "calculation",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Find the equivalent resistance.",
+      "sharedContent": "Consider the electric circuit in Figure 2.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-015.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 15.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 15.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "The3Ω and4Ω resistors are in parallel: Rₚ=(3×4)/(3+4)=12/7Ω. This is in series with2Ω, giving Rₑq=2+12/7=26/7Ω≈3.71Ω.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for parallel topology/formula,1 for12/7Ω and1 for adding series2Ω to obtain26/7Ω. Use the unchanged original Figure2.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        15
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "23599486e9beae51fed46a04edcaf82994bb20e843c3fb3f7c2a94a97b5907e8"
+    },
+    {
+      "id": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10-c-ii",
+      "paperId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4",
+      "form": 2,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "subtopicIds": [
+        "physics-f2-current-electricity"
+      ],
+      "sourceType": "necta",
+      "sourceTitle": "NECTA FTNA 2025 • Physics",
+      "institution": "National Examinations Council of Tanzania (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "Legacy FTNA 2025 paper; prerequisite topics are labelled supplemental revision and not new current Form Two topics.",
+      "questionNumber": "10(c)(ii)",
+      "sourceQuestionLabel": "10(c)(ii)",
+      "parentQuestionId": null,
+      "groupId": "necta-ftna-2025-physics-82d4ba0ae1a6bac4-q10",
+      "type": "calculation",
+      "instructions": "Where necessary the following constants may be used: (i) Acceleration due to gravity, g = 10 m/s². (ii) π = 3.14.",
+      "content": "Determine the current flowing in the circuit.",
+      "sharedContent": "Consider the electric circuit in Figure 2.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-015.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 15.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-82d4ba0ae1a6bac4/page-016.jpg",
+          "alt": "Unchanged original NECTA FTNA 2025 Physics source page 16.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Printed source question/part on page(s) 15,16.",
+      "markIncrementProvenance": "Independent SomaSmart self-assessment increment, within the printed source maximum; not an official marking-scheme increment.",
+      "answerKey": "Total current=V/Rₑq=12/(26/7)=42/13A≈3.23A.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance, not an official NECTA marking scheme. Award1 for I=V/R with correct source voltage/equivalent resistance and1 for42/13A≈3.23A. Allow valid follow-through from a student’s earlier equivalent resistance without double-penalising one arithmetic slip.",
+      "solutionProvenance": "Independently prepared and calculation-checked by SomaSmart. No official answer key or marking scheme acquired for this source.",
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2025.pdf",
+      "sourcePdf": "/source-papers/source-82d4ba0ae1a6bac4/original.pdf",
+      "sourceSha256": "82d4ba0ae1a6bac4f6dba640785f5644b0a060cd49861a83b0b362a51fe9cb49",
+      "sourcePages": [
+        15,
+        16
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All sixteen source pages visually inspected; wording, labels, options, numerical values and diagrams transcribed without rewriting. Answers independently checked; printed marks retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "verbatimQuestion": true,
+      "transcriptionDigest": "9a477de354526bc52e766f5b3c32698d5dba77b4c0866a56db30431e53f67b31"
+    }
+  ],
+  "supplementalLessons": [
+    {
+      "id": "physics-f2-mechanics-revision",
+      "form": 2,
+      "subjectId": "physics",
+      "topicId": "physics-f2-mechanics-revision",
+      "title": "Mechanics, fluids and energy: prerequisite revision",
+      "language": "en",
+      "objectives": [
+        "Review force, pressure, buoyancy, motion and machine definitions.",
+        "Use consistent equations and distinguish actual from apparent quantities.",
+        "Interpret a source question without changing its given numerical values."
+      ],
+      "paragraphs": [
+        "Legacy FormTwo examinations revisit force, pressure, motion, machines and energy. This is a supplemental revision chapter for previously introduced skills, not a claim that these are newly prescribed current FormTwo subtopics. Use the original source wording and diagrams when practising genuine questions.",
+        "Pressure is force per area, P=F/A. For a fluid at rest, the gauge pressure at depthh isρgh, so depth, density and gravity matter. A submerged body experiences upthrust equal to the weight of displaced fluid. Apparent weight is actual weight minus upthrust; immersion does not remove the gravitational attraction on the body.",
+        "Newton’s third-law forces have equal magnitudes and opposite directions but act on different bodies. For one body accelerating upward, the force equation is T−mg=ma; do not cancel an interaction pair as though both forces acted on the same body. In constant acceleration, choose equations that match the available variables or calculate area beneath a velocity–time graph.",
+        "Mechanical advantage is actual load divided by effort. Efficiency is mechanical advantage divided by velocity ratio, expressed as a fraction or percentage. If actual mechanical advantage is already given, multiplying it by efficiency again changes its meaning. Work done against gravity ismgh, and average useful lifting power is work divided by elapsed time."
+      ],
+      "examples": [
+        "An object is acted on by2N over10m², so pressure=2/10=0.2Pa. If instead pressure0.2Pa and force2N are known, area=2/0.2=10m².",
+        "A45kg climber accelerating upward at5.5m/s² withg=10m/s² requires rope tensionT=45(10+5.5)=697.5N. A550N limit is exceeded; the prescribed motion cannot continue with an intact rope.",
+        "A200kg load lifted12m in10s gains200×10×12=24000J of gravitational potential energy. Useful average power is24000/10=2400W; input power would require additional efficiency information."
+      ],
+      "summary": "Legacy FormTwo examinations revisit force, pressure, motion, machines and energy. This is a supplemental revision chapter for previously introduced skills, not a claim that these are newly prescribed current FormTwo subtopics. Use the original source wording and diagrams when practising genuine questions.",
+      "glossary": [],
+      "diagram": null,
+      "curriculumStatus": "supplemental-legacy-prerequisite",
+      "publicationStatus": "published",
+      "completionStatus": "supplemental-revision"
+    },
+    {
+      "id": "physics-f2-measurement-thermal-revision",
+      "form": 2,
+      "subjectId": "physics",
+      "topicId": "physics-f2-measurement-thermal-revision",
+      "title": "Measurement and thermal properties: prerequisite revision",
+      "language": "en",
+      "objectives": [
+        "Review SI units and small-dimension measurement.",
+        "Explain and apply volume-displacement procedures.",
+        "Distinguish a thermal measurement from a simplified application claim."
+      ],
+      "paragraphs": [
+        "This supplemental chapter supports measurement and elementary thermal material revisited in legacy FormTwo assessments. It does not replace a current official topic index. Preserve printed units and compare source figures with any transcribed values before solving.",
+        "A physical measurement combines a numerical value and a unit. Length has SI unit metre, mass kilogram, current ampere and thermodynamic temperature kelvin. Displacement is a length vector; momentum is mass times velocity and therefore has unit kilogram metre per second. A micrometer measures small external dimensions using a screw mechanism.",
+        "To find an irregular solid’s volume by overflow, start with water at the Eureka-can spout level and collect all water displaced when the object is fully immersed. Read the collected volume at eye level. The method assumes the solid does not dissolve, absorb substantial water or trap an unaccounted air bubble; the object volume equals the displaced water volume.",
+        "Temperature measures thermal state. A clinical thermometer is intended for body temperature. Surface tension generally decreases as the temperature of a given liquid rises, but claims about flavour also involve sensory and chemical factors. Treat a multiple-choice physics explanation within its stated alternatives rather than turning a simplified example into a universal biological rule."
+      ],
+      "examples": [
+        "If a micrometer main scale is2.50mm and its thimble shows38 divisions at0.01mm each, the reading is2.50+0.38=2.88mm before any zero correction.",
+        "A measuring cylinder reads300mL before a stone is submerged and700mL afterwards. The stone’s volume is700−300=400mL=400cm³; reversing the initial/final labels does not describe the physical sequence correctly.",
+        "A body with mass2kg moving at3m/s has momentum6kgm/s. Its mass unit remainskg, whereas momentum requires the additional length-per-time factor."
+      ],
+      "summary": "This supplemental chapter supports measurement and elementary thermal material revisited in legacy FormTwo assessments. It does not replace a current official topic index. Preserve printed units and compare source figures with any transcribed values before solving.",
+      "glossary": [],
+      "diagram": null,
+      "curriculumStatus": "supplemental-legacy-prerequisite",
+      "publicationStatus": "published",
+      "completionStatus": "supplemental-revision"
+    }
+  ],
+  "verificationNotes": [
+    "All source question wording, options, labels, numerical values and mathematical expressions are retained; only blank answer spaces, physical line wrapping and typographic encoding are normalised. Every source figure remains available as the unchanged source-page image.",
+    "All model answers and marking rubrics are independently prepared, not official NECTA schemes. Source question maxima are retained; equal objective-item allocations and self-assessment increments are explicitly independent where a source scheme was not acquired.",
+    "Q7(b) states mechanical advantage4, so load400N. Efficiency75% is surplus for finding load; it implies velocity ratio16/3. No change to velocity-ratio wording or a300N hidden substitution is made.",
+    "Q1(iv) remains draft because the source does not explicitly distinguish bare-hand contact friction from tensile-force terminology.",
+    "Legacy prerequisite source items are mapped to explicitly supplemental FormTwo revision lessons, not falsely mapped to unrelated current electricity/light topics."
+  ]
+}

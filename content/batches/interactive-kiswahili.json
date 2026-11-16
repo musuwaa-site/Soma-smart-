@@ -1,0 +1,2355 @@
+{
+  "paper": {
+    "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+    "title": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+    "form": 1,
+    "subjectId": "kiswahili",
+    "sourceType": "district",
+    "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+    "year": 2025,
+    "sourceDocumentId": "source-732fe7fb783ed01c",
+    "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+    "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+    "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+    "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+    "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "sourceInstructions": [
+      "Mtihani huu una sehemu A na B",
+      "Jibu maswali yote",
+      "Sehemu A ina alama 15 na sehemu B ina alama 85"
+    ],
+    "sourceDuration": "MUDA: SAA 2:00",
+    "sourceDate": "MEI 2025",
+    "questionIds": [
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-i",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-ii",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-iii",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-iv",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-v",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-vi",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-vii",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-viii",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-ix",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-x",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q2",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q3",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q4-i",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q4-ii",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q4-iii",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q4-iv",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q4-v",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q5-i",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q5-ii",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q5-iii",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q5-iv",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q5-v",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q6",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q7-a",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q7-b",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q7-c",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q7-d",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q7-e",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q8",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q9-a",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q9-b",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q9-c",
+      "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q9-d"
+    ],
+    "maximumMarks": 100,
+    "completePaper": true,
+    "transcriptionComplete": true,
+    "scoredPaperComplete": false,
+    "verificationStatus": "partially-verified",
+    "publicationStatus": "draft",
+    "publicationScope": "eligible-subset-with-full-draft-transcription",
+    "sourceSectionAllocations": {
+      "A": 15,
+      "B": 85
+    },
+    "scoredMaximumMarks": 96
+  },
+  "questions": [
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [
+        "tatu",
+        "nne",
+        "tano",
+        "tisa"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-001.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 1.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-i",
+      "questionNumber": "1(i)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-1-i",
+      "type": "mcq",
+      "content": "Neno chachandu lina silabi ngapi?",
+      "maximumMarks": 1,
+      "answerKey": "tatu",
+      "markingGuide": "Neno chachandu lina silabi tatu: cha-cha-ndu. Alama 1 kwa jibu sahihi; 0 kwa jibu lisilo sahihi.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        1
+      ],
+      "sharedContent": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "instructions": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "rawOptions": [
+        "(a). tatu",
+        "(b) nne",
+        "(c) tano",
+        "(d) tisa"
+      ],
+      "optionLabels": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "sourceAnswerLabel": "A"
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [
+        "nomino",
+        "kielezi",
+        "kivumishi",
+        "kiwakilishi"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-001.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 1.",
+          "role": "diagram"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-ii",
+      "questionNumber": "1(ii)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-1-ii",
+      "type": "mcq",
+      "content": "Mwanafunzi hodari anasoma. Neno lililopigiwa mstari ni aina gani ya neno?",
+      "maximumMarks": 1,
+      "answerKey": "kivumishi",
+      "markingGuide": "“Hodari” ni kivumishi kinachoeleza sifa ya mwanafunzi. Alama 1 kwa jibu sahihi; 0 kwa jibu lisilo sahihi.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        1
+      ],
+      "sharedContent": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "instructions": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "rawOptions": [
+        "(a) nomino",
+        "(b) kielezi",
+        "(c) kivumishi",
+        "(d) kiwakilishi"
+      ],
+      "optionLabels": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "sourceAnswerLabel": "C",
+      "underlinedTerms": [
+        "hodari"
+      ]
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [
+        "lugha ya kiswahili",
+        "lugha ya taifa",
+        "lugha fasaha",
+        "lugha ya asili"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-001.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 1.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-iii",
+      "questionNumber": "1(iii)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-1-iii",
+      "type": "mcq",
+      "content": "Ili mawasiliano yawe mazuri wazungumzaji wanatakiwa kutumia",
+      "maximumMarks": 1,
+      "answerKey": "lugha fasaha",
+      "markingGuide": "Lugha fasaha huwezesha ujumbe kueleweka kwa usahihi. Alama 1 kwa jibu sahihi; 0 kwa jibu lisilo sahihi.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        1
+      ],
+      "sharedContent": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "instructions": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "rawOptions": [
+        "(A) lugha ya kiswahili",
+        "(b) lugha ya taifa",
+        "(c) lugha fasaha",
+        "(d) lugha ya asili"
+      ],
+      "optionLabels": [
+        "A",
+        "b",
+        "c",
+        "d"
+      ],
+      "sourceAnswerLabel": "C"
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [
+        "maana",
+        "mantiki",
+        "matamshi",
+        "muundo"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-001.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 1.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-iv",
+      "questionNumber": "1(iv)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-1-iv",
+      "type": "mcq",
+      "content": "“nimemkuta hayupo”, hili ni kosa la;",
+      "maximumMarks": 1,
+      "answerKey": "mantiki",
+      "markingGuide": "Kauli inapingana kimantiki: kumkuta na kutokuwepo haviendani katika tukio lilelile. Alama 1 kwa jibu sahihi; 0 kwa jibu lisilo sahihi.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        1
+      ],
+      "sharedContent": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "instructions": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "rawOptions": [
+        "(a) maana",
+        "(b) mantiki",
+        "(c) matamshi",
+        "(d) muundo"
+      ],
+      "optionLabels": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "sourceAnswerLabel": "B"
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [
+        "ya tatu wingi",
+        "ya pili",
+        "ya kwanza",
+        "ya kwanza wingi"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-001.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 1.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "needs-review",
+      "publicationStatus": "draft",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-v",
+      "questionNumber": "1(v)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-1-v",
+      "type": "mcq",
+      "content": "tulicheza ngoma na kuimba usiku kucha. katika sentesi hii watenda ni nafsi ipi.",
+      "maximumMarks": 1,
+      "answerKey": "ya kwanza",
+      "markingGuide": "Mwongozo umetaja C. Kiambishi “tu-” huonesha nafsi ya kwanza wingi, ambayo pia ni nafsi ya kwanza. Alama 1 kwa jibu sahihi; 0 kwa jibu lisilo sahihi.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        1
+      ],
+      "sharedContent": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "instructions": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "rawOptions": [
+        "(a) ya tatu wingi",
+        "(b) ya pili",
+        "(c) ya kwanza",
+        "(d) ya kwanza wingi"
+      ],
+      "optionLabels": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "sourceAnswerLabel": "C",
+      "sourceIssue": "Chaguo C “ya kwanza” na D “ya kwanza wingi” yanakubaliana na “tu-”; mwongozo umechagua C bila kuondoa utata huu. Swali limehifadhiwa bila kubadilishwa na halitumiki katika jaribio lenye alama."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [
+        "mwandiko",
+        "mtindo",
+        "muundo",
+        "lugha"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-001.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 1.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-vi",
+      "questionNumber": "1(vi)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-1-vi",
+      "type": "mcq",
+      "content": "kila mwandishi huwa na ufundi wake katika utunzi wa kazi za fasihi, je jambo gani ambalo hutofautisha maandishi janeth na mwandishi simba katika utunzi kazi zao.",
+      "maximumMarks": 1,
+      "answerKey": "mtindo",
+      "markingGuide": "Mtindo ni namna binafsi ya msanii kutumia mbinu za kuwasilisha kazi. Alama 1 kwa jibu sahihi; 0 kwa jibu lisilo sahihi.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        1
+      ],
+      "sharedContent": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "instructions": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "rawOptions": [
+        "(a) mwandiko",
+        "(b) mtindo",
+        "(c) muundo",
+        "(d) lugha"
+      ],
+      "optionLabels": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "sourceAnswerLabel": "B"
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [
+        "sauti",
+        "lafudhi",
+        "matamshi",
+        "silabi"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-001.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 1.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-vii",
+      "questionNumber": "1(vii)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-1-vii",
+      "type": "mcq",
+      "content": "dhana gani ya mtu wa kaskazini na nyanda za juu kusini hudokeza utambulisho wa maneno yanayotoka?",
+      "maximumMarks": 1,
+      "answerKey": "lafudhi",
+      "markingGuide": "Mwongozo umetaja lafudhi, yaani namna ya kutamka inayoweza kuonesha asili ya mzungumzaji. Alama 1 kwa jibu sahihi; 0 kwa jibu lisilo sahihi.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        1
+      ],
+      "sharedContent": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "instructions": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "rawOptions": [
+        "(a) sauti",
+        "(b) lafudhi",
+        "(c) matamshi",
+        "(d) silabi"
+      ],
+      "optionLabels": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "sourceAnswerLabel": "B"
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [
+        "kitomeo",
+        "kidahizo",
+        "sampuli",
+        "kisero"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-001.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 1.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-viii",
+      "questionNumber": "1(viii)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-1-viii",
+      "type": "mcq",
+      "content": "misamiati iliyoingizwa katika kamusi na kukolezwa wino, pia kutoa taarifa ya misamiati hiyo kama vile aina ya neno,asili na namna neno linavyotamkwa.",
+      "maximumMarks": 1,
+      "answerKey": "kitomeo",
+      "markingGuide": "Kitomeo ni neno linaloingizwa katika kamusi pamoja na maelezo yake. Alama 1 kwa jibu sahihi; 0 kwa jibu lisilo sahihi.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        1
+      ],
+      "sharedContent": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "instructions": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "rawOptions": [
+        "(a) kitomeo",
+        "(b) kidahizo",
+        "(c) sampuli",
+        "(d) kisero"
+      ],
+      "optionLabels": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "sourceAnswerLabel": "A"
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [
+        "fani",
+        "dhamira",
+        "mtindo",
+        "maudhui"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-001.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 1.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-ix",
+      "questionNumber": "1(ix)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-1-ix",
+      "type": "mcq",
+      "content": "ni umbo la ndani la kazi ya fasihi ambalo hueleza msanii kwa yale yote aliyokusudia katika kazi yake",
+      "maximumMarks": 1,
+      "answerKey": "dhamira",
+      "markingGuide": "Dhamira ni wazo linalojadiliwa au kusudi kuu la kazi. Alama 1 kwa jibu sahihi; 0 kwa jibu lisilo sahihi.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        1
+      ],
+      "sharedContent": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "instructions": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "rawOptions": [
+        "(a) fani",
+        "(b) dhamira",
+        "(c) mtindo",
+        "(d) maudhui"
+      ],
+      "optionLabels": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "sourceAnswerLabel": "B"
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [
+        "Irabu",
+        "silabi",
+        "konsonati",
+        "sentensi"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-001.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 1.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-x",
+      "questionNumber": "1(x)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-1-x",
+      "type": "mcq",
+      "content": "a,e,i,o,u hizi ni;",
+      "maximumMarks": 1,
+      "answerKey": "Irabu",
+      "markingGuide": "a, e, i, o na u ni irabu. Alama 1 kwa jibu sahihi; 0 kwa jibu lisilo sahihi.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        1
+      ],
+      "sharedContent": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "instructions": "Chagua herufi ya jibu sahihi katika vipengele (i-x) kisha andika herufi ya jibu sahihi katika jedwali.",
+      "rawOptions": [
+        "(a) Irabu",
+        "(b) silabi",
+        "(c) konsonati",
+        "(d) sentensi"
+      ],
+      "optionLabels": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "sourceAnswerLabel": "A"
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [
+        "tamathali ya semi inayoficha au kupunguza ukali wa neno.",
+        "Hueleza mambo yatokanayo na utamaduni wa mtanzania",
+        "Upashanaji Habari au taarifa kwa njia ya mazungumzo, maandishi na ishara",
+        "Makubaliano ya Pamoja baina ya wazungumzaji",
+        "Mwenendo wa Maisha unaohusisha asili, mila ana desturi na jadi unaotumika katika jamii Fulani",
+        "Hueleza sifa bainifu za jamii Fulani",
+        "Mfumo wa sauti za nasibu unaotumia maneno yanayosemwa na binadamu ambayo huwawezesha watu wa jamii Fulani kuwasiliana."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-001.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 1.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q2",
+      "questionNumber": "2",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-2",
+      "type": "matching",
+      "content": "oanisha dhana zilizopo katika orodha A na maelezo yaliyopo katika orodha B kwa kuchagua herufi ya jibu sahihi.",
+      "maximumMarks": 5,
+      "answerKey": {
+        "i": "Hueleza sifa bainifu za jamii Fulani",
+        "ii": "tamathali ya semi inayoficha au kupunguza ukali wa neno.",
+        "iii": "Mwenendo wa Maisha unaohusisha asili, mila ana desturi na jadi unaotumika katika jamii Fulani",
+        "iv": "Mfumo wa sauti za nasibu unaotumia maneno yanayosemwa na binadamu ambayo huwawezesha watu wa jamii Fulani kuwasiliana.",
+        "v": "Upashanaji Habari au taarifa kwa njia ya mazungumzo, maandishi na ishara"
+      },
+      "markingGuide": "Alama 1 kwa kila jozi sahihi: i–F, ii–A, iii–E, iv–G, v–C. Jumla alama 5.",
+      "topicIds": [
+        "kiswahili-f1-01"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-01"
+      ],
+      "sourcePages": [
+        1
+      ],
+      "sharedContent": "",
+      "instructions": "",
+      "pairs": [
+        {
+          "id": "i",
+          "left": "utambulisho wa jamii"
+        },
+        {
+          "id": "ii",
+          "left": "tasfida"
+        },
+        {
+          "id": "iii",
+          "left": "utamaduni"
+        },
+        {
+          "id": "iv",
+          "left": "lugha"
+        },
+        {
+          "id": "v",
+          "left": "mawasiliano"
+        }
+      ],
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "table": [
+        [
+          "ORODHA A",
+          "ORODHA B"
+        ],
+        [
+          "i. utambulisho wa jamii",
+          "A. tamathali ya semi inayoficha au kupunguza ukali wa neno."
+        ],
+        [
+          "ii. tasfida",
+          "B. Hueleza mambo yatokanayo na utamaduni wa mtanzania"
+        ],
+        [
+          "iii. utamaduni",
+          "C. Upashanaji Habari au taarifa kwa njia ya mazungumzo, maandishi na ishara"
+        ],
+        [
+          "iv. lugha",
+          "D. Makubaliano ya Pamoja baina ya wazungumzaji"
+        ],
+        [
+          "v. mawasiliano",
+          "E. Mwenendo wa Maisha unaohusisha asili, mila ana desturi na jadi unaotumika katika jamii Fulani"
+        ],
+        [
+          "",
+          "F. Hueleza sifa bainifu za jamii Fulani"
+        ],
+        [
+          "",
+          "G. Mfumo wa sauti za nasibu unaotumia maneno yanayosemwa na binadamu ambayo huwawezesha watu wa jamii Fulani kuwasiliana."
+        ]
+      ]
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 3,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q3",
+      "questionNumber": "3",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-3",
+      "type": "short-answer",
+      "content": "Eleza umuhimu wa kulinda na kuheshimu utamaduni wa kitanzania.",
+      "maximumMarks": 12,
+      "answerKey": "i). Inatusaidia kulinda utambulisho wetu\nii).Hutoa ajira kwa kutengeneza vitu vya asili\niii). Hufanya watanzania kuwa huru kwenye mazingira yao\niv).Huleta mshikamano baina ya wanajamii",
+      "markingGuide": "Mwongozo unatoa alama 3 kwa kila hoja iliyoelezwa, hoja nne, jumla alama 12. Kubali hoja nyingine sahihi zenye maelezo yanayojibu swali; usihesabu marudio ya hoja moja.",
+      "topicIds": [
+        "kiswahili-f1-01"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-01"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "",
+      "instructions": "",
+      "sourcePartAllocations": {
+        "four-explained-points": {
+          "count": 4,
+          "each": 3
+        }
+      }
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q4-i",
+      "questionNumber": "4(i)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-4-i",
+      "type": "short-answer",
+      "content": "Wimbo",
+      "maximumMarks": 2,
+      "answerKey": "Imba",
+      "markingGuide": "Mwongozo: alama 2 kwa kitenzi sahihi. Jibu: Imba.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Badilisha nomino zifuatazo kuwa vitenzi.",
+      "instructions": "Badilisha nomino zifuatazo kuwa vitenzi."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q4-ii",
+      "questionNumber": "4(ii)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-4-ii",
+      "type": "short-answer",
+      "content": "Umbo",
+      "maximumMarks": 2,
+      "answerKey": "Umba",
+      "markingGuide": "Mwongozo: alama 2 kwa kitenzi sahihi. Jibu: Umba.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Badilisha nomino zifuatazo kuwa vitenzi.",
+      "instructions": "Badilisha nomino zifuatazo kuwa vitenzi."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q4-iii",
+      "questionNumber": "4(iii)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-4-iii",
+      "type": "short-answer",
+      "content": "Mtoro",
+      "maximumMarks": 2,
+      "answerKey": "Toroka",
+      "markingGuide": "Mwongozo: alama 2 kwa kitenzi sahihi. Jibu: Toroka.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Badilisha nomino zifuatazo kuwa vitenzi.",
+      "instructions": "Badilisha nomino zifuatazo kuwa vitenzi."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q4-iv",
+      "questionNumber": "4(iv)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-4-iv",
+      "type": "short-answer",
+      "content": "Kilio",
+      "maximumMarks": 2,
+      "answerKey": "Lia",
+      "markingGuide": "Mwongozo: alama 2 kwa kitenzi sahihi. Jibu: Lia.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Badilisha nomino zifuatazo kuwa vitenzi.",
+      "instructions": "Badilisha nomino zifuatazo kuwa vitenzi."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q4-v",
+      "questionNumber": "4(v)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-4-v",
+      "type": "short-answer",
+      "content": "Mlo",
+      "maximumMarks": 2,
+      "answerKey": "Kula",
+      "markingGuide": "Mwongozo: alama 2 kwa kitenzi sahihi. Jibu: Kula.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Badilisha nomino zifuatazo kuwa vitenzi.",
+      "instructions": "Badilisha nomino zifuatazo kuwa vitenzi."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mfano wa sentensi umetoka katika mwongozo wa wilaya; maelezo ya lebo ni ufafanuzi wa SomaSmart. Si mwongozo wa NECTA.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q5-i",
+      "questionNumber": "5(i)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-5-i",
+      "type": "short-answer",
+      "content": "H+N+T+E",
+      "maximumMarks": 4,
+      "answerKey": "Loh! mjomba amekimbia sana\nLoh! / H; mjomba / N; amekimbia / T; sana / E.",
+      "markingGuide": "Mwongozo unatoa alama 4 kwa kila kipengele. Tathmini sentensi sahihi inayofuata muundo wote na kuonesha aina zilizoombwa kwa kupigia mstari/kuweka lebo. Mfano wa mwongozo: Loh! mjomba amekimbia sana. Ufafanuzi wa aina umeandaliwa na SomaSmart: Loh! / H; mjomba / N; amekimbia / T; sana / E. Kubali sentensi nyingine inayofuata muundo huo.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Tunga sentensi zenye miundo ifuatayo kwa kupigia mstari sentensi hiyo kuonesha aina hizo.\nMfano; N+T+E=mama/N anapika/T jikoni/E",
+      "instructions": "Tunga sentensi zenye miundo ifuatayo kwa kupigia mstari sentensi hiyo kuonesha aina hizo.\nMfano; N+T+E=mama/N anapika/T jikoni/E",
+      "sourcePartAllocations": {
+        "part": 4
+      }
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mfano wa sentensi umetoka katika mwongozo wa wilaya; maelezo ya lebo ni ufafanuzi wa SomaSmart. Si mwongozo wa NECTA.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q5-ii",
+      "questionNumber": "5(ii)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-5-ii",
+      "type": "short-answer",
+      "content": "N+V+V+TS+TS+T",
+      "maximumMarks": 4,
+      "answerKey": "Mtoto mrefu mweupe alikuwa anasita kukimbia\nMtoto / N; mrefu / V; mweupe / V; alikuwa / TS; anasita / TS; kukimbia / T.",
+      "markingGuide": "Mwongozo unatoa alama 4 kwa kila kipengele. Tathmini sentensi sahihi inayofuata muundo wote na kuonesha aina zilizoombwa kwa kupigia mstari/kuweka lebo. Mfano wa mwongozo: Mtoto mrefu mweupe alikuwa anasita kukimbia. Ufafanuzi wa aina umeandaliwa na SomaSmart: Mtoto / N; mrefu / V; mweupe / V; alikuwa / TS; anasita / TS; kukimbia / T. Kubali sentensi nyingine inayofuata muundo huo.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Tunga sentensi zenye miundo ifuatayo kwa kupigia mstari sentensi hiyo kuonesha aina hizo.\nMfano; N+T+E=mama/N anapika/T jikoni/E",
+      "instructions": "Tunga sentensi zenye miundo ifuatayo kwa kupigia mstari sentensi hiyo kuonesha aina hizo.\nMfano; N+T+E=mama/N anapika/T jikoni/E",
+      "sourcePartAllocations": {
+        "part": 4
+      }
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mfano wa sentensi umetoka katika mwongozo wa wilaya; maelezo ya lebo ni ufafanuzi wa SomaSmart. Si mwongozo wa NECTA.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q5-iii",
+      "questionNumber": "5(iii)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-5-iii",
+      "type": "short-answer",
+      "content": "W+t+N+V",
+      "maximumMarks": 4,
+      "answerKey": "Yule si mwafrika mweusi\nYule / W; si / t; mwafrika / N; mweusi / V.",
+      "markingGuide": "Mwongozo unatoa alama 4 kwa kila kipengele. Tathmini sentensi sahihi inayofuata muundo wote na kuonesha aina zilizoombwa kwa kupigia mstari/kuweka lebo. Mfano wa mwongozo: Yule si mwafrika mweusi. Ufafanuzi wa aina umeandaliwa na SomaSmart: Yule / W; si / t; mwafrika / N; mweusi / V. Kubali sentensi nyingine inayofuata muundo huo.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Tunga sentensi zenye miundo ifuatayo kwa kupigia mstari sentensi hiyo kuonesha aina hizo.\nMfano; N+T+E=mama/N anapika/T jikoni/E",
+      "instructions": "Tunga sentensi zenye miundo ifuatayo kwa kupigia mstari sentensi hiyo kuonesha aina hizo.\nMfano; N+T+E=mama/N anapika/T jikoni/E",
+      "sourcePartAllocations": {
+        "part": 4
+      }
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mfano wa sentensi umetoka katika mwongozo wa wilaya; maelezo ya lebo ni ufafanuzi wa SomaSmart. Si mwongozo wa NECTA.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q5-iv",
+      "questionNumber": "5(iv)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-5-iv",
+      "type": "short-answer",
+      "content": "W+V+T",
+      "maximumMarks": 4,
+      "answerKey": "Yule mvivu amekimbia\nYule / W; mvivu / V; amekimbia / T.",
+      "markingGuide": "Mwongozo unatoa alama 4 kwa kila kipengele. Tathmini sentensi sahihi inayofuata muundo wote na kuonesha aina zilizoombwa kwa kupigia mstari/kuweka lebo. Mfano wa mwongozo: Yule mvivu amekimbia. Ufafanuzi wa aina umeandaliwa na SomaSmart: Yule / W; mvivu / V; amekimbia / T. Kubali sentensi nyingine inayofuata muundo huo.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Tunga sentensi zenye miundo ifuatayo kwa kupigia mstari sentensi hiyo kuonesha aina hizo.\nMfano; N+T+E=mama/N anapika/T jikoni/E",
+      "instructions": "Tunga sentensi zenye miundo ifuatayo kwa kupigia mstari sentensi hiyo kuonesha aina hizo.\nMfano; N+T+E=mama/N anapika/T jikoni/E",
+      "sourcePartAllocations": {
+        "part": 4
+      }
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mfano wa sentensi umetoka katika mwongozo wa wilaya; maelezo ya lebo ni ufafanuzi wa SomaSmart. Si mwongozo wa NECTA.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q5-v",
+      "questionNumber": "5(v)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-5-v",
+      "type": "short-answer",
+      "content": "T",
+      "maximumMarks": 4,
+      "answerKey": "Amekimbia\nAmekimbia / T.",
+      "markingGuide": "Mwongozo unatoa alama 4 kwa kila kipengele. Tathmini sentensi sahihi inayofuata muundo wote na kuonesha aina zilizoombwa kwa kupigia mstari/kuweka lebo. Mfano wa mwongozo: Amekimbia. Ufafanuzi wa aina umeandaliwa na SomaSmart: Amekimbia / T. Kubali sentensi nyingine inayofuata muundo huo.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Tunga sentensi zenye miundo ifuatayo kwa kupigia mstari sentensi hiyo kuonesha aina hizo.\nMfano; N+T+E=mama/N anapika/T jikoni/E",
+      "instructions": "Tunga sentensi zenye miundo ifuatayo kwa kupigia mstari sentensi hiyo kuonesha aina hizo.\nMfano; N+T+E=mama/N anapika/T jikoni/E",
+      "sourcePartAllocations": {
+        "part": 4
+      }
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 3,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q6",
+      "questionNumber": "6",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-6",
+      "type": "short-answer",
+      "content": "Kama maneno katika kamusi yatapangwa bila kufuata mpangilio maalumu ni changamoto gani zinaweza kujitokeza?",
+      "maximumMarks": 9,
+      "answerKey": "i).Mtumiaji wa kamusi kutokupata taarifa anazohitaji kwa wepesi\nii).Toleo la kamusi kutokupata soko\niii).Wasomaji kutokufurahia mada ya usomaji wa kamusi",
+      "markingGuide": "Mwongozo: hoja tatu zenye alama 3 kila moja; jumla alama 9. Kubali maelezo sahihi kama kupoteza muda katika kutafuta neno, ugumu wa kulinganisha vitomeo na kupungua kwa manufaa ya kamusi; hoja hizi za ziada ni ufafanuzi huru wa SomaSmart.",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "",
+      "instructions": ""
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q7-a",
+      "questionNumber": "7(a)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-7-a",
+      "type": "short-answer",
+      "content": "Mgogoro",
+      "maximumMarks": 2,
+      "answerKey": "Juma hakuwa na mgogoro nao",
+      "markingGuide": "Mwongozo unatoa alama 2 kwa sentensi sahihi inayotumia neno kwa maana inayofaa. Mfano wa mwongozo: Juma hakuwa na mgogoro nao. Kubali sentensi nyingine sahihi, si mfano huu tu.",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Tumia maneno yafuatayo kutunga sentensi kulingana na maana za maneno hayo katika kamusi.",
+      "instructions": "Tumia maneno yafuatayo kutunga sentensi kulingana na maana za maneno hayo katika kamusi."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q7-b",
+      "questionNumber": "7(b)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-7-b",
+      "type": "short-answer",
+      "content": "Kanyaga",
+      "maximumMarks": 2,
+      "answerKey": "Asha alimkanyaga bila huruma",
+      "markingGuide": "Mwongozo unatoa alama 2 kwa sentensi sahihi inayotumia neno kwa maana inayofaa. Mfano wa mwongozo: Asha alimkanyaga bila huruma. Kubali sentensi nyingine sahihi, si mfano huu tu.",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Tumia maneno yafuatayo kutunga sentensi kulingana na maana za maneno hayo katika kamusi.",
+      "instructions": "Tumia maneno yafuatayo kutunga sentensi kulingana na maana za maneno hayo katika kamusi."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q7-c",
+      "questionNumber": "7(c)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-7-c",
+      "type": "short-answer",
+      "content": "Gawa",
+      "maximumMarks": 2,
+      "answerKey": "Mwalimu aliwagawia wote",
+      "markingGuide": "Mwongozo unatoa alama 2 kwa sentensi sahihi inayotumia neno kwa maana inayofaa. Mfano wa mwongozo: Mwalimu aliwagawia wote. Kubali sentensi nyingine sahihi, si mfano huu tu.",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Tumia maneno yafuatayo kutunga sentensi kulingana na maana za maneno hayo katika kamusi.",
+      "instructions": "Tumia maneno yafuatayo kutunga sentensi kulingana na maana za maneno hayo katika kamusi."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q7-d",
+      "questionNumber": "7(d)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-7-d",
+      "type": "short-answer",
+      "content": "Chujio",
+      "maximumMarks": 2,
+      "answerKey": "Muuzaji alitumia chujio kutoa uchafu",
+      "markingGuide": "Mwongozo unatoa alama 2 kwa sentensi sahihi inayotumia neno kwa maana inayofaa. Mfano wa mwongozo: Muuzaji alitumia chujio kutoa uchafu. Kubali sentensi nyingine sahihi, si mfano huu tu.",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Tumia maneno yafuatayo kutunga sentensi kulingana na maana za maneno hayo katika kamusi.",
+      "instructions": "Tumia maneno yafuatayo kutunga sentensi kulingana na maana za maneno hayo katika kamusi."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q7-e",
+      "questionNumber": "7(e)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-7-e",
+      "type": "short-answer",
+      "content": "Sabahi",
+      "maximumMarks": 2,
+      "answerKey": "Mwanafunzi alikuja kutusabahi",
+      "markingGuide": "Mwongozo unatoa alama 2 kwa sentensi sahihi inayotumia neno kwa maana inayofaa. Mfano wa mwongozo: Mwanafunzi alikuja kutusabahi. Kubali sentensi nyingine sahihi, si mfano huu tu.",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Tumia maneno yafuatayo kutunga sentensi kulingana na maana za maneno hayo katika kamusi.",
+      "instructions": "Tumia maneno yafuatayo kutunga sentensi kulingana na maana za maneno hayo katika kamusi."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 3,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Mwongozo uliotolewa pamoja na mtihani wa wilaya; si mwongozo rasmi wa NECTA. Majibu yamehakikiwa kwa kulinganisha swali na mwongozo.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q8",
+      "questionNumber": "8",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-8",
+      "type": "short-answer",
+      "content": "Faraja hutumia kamusi kutafuta maana ya misamiati mbalimbali lakini hajui kama kuna taarifa nyingine zitokanazo na kamusi, msaidie kwa kutaja taarifa nne.",
+      "maximumMarks": 12,
+      "answerKey": "i).Maneno yanavyotamkwa\nii).Aina za maneno\niii).Umoja na wingi wa maneno\niv).Asili ya neno",
+      "markingGuide": "Mwongozo: alama 3 kwa kila taarifa sahihi, taarifa nne, jumla alama 12. Usihesabu taarifa ileile mara mbili.",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "",
+      "instructions": ""
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Jibu fupi la mwongozo wa wilaya pamoja na ufafanuzi huru wa SomaSmart; si mpango rasmi wa NECTA.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q9-a",
+      "questionNumber": "9(a)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-9-a",
+      "type": "short-answer",
+      "content": "Mwanafunzi anayejitambua hapendagi mzaha katika masomo.",
+      "maximumMarks": 3,
+      "answerKey": "hapendagi → hapendi. Mwanafunzi anayejitambua hapendi mzaha katika masomo.",
+      "markingGuide": "Mwongozo unatoa alama 3 kwa kila kipengele. Bainisha neno lenye kosa na uandike sentensi nzima yenye marekebisho yanayofaa. Kubali neno lililosahihishwa na sentensi sahihi; maelezo ya kimatamshi na sentensi kamili ni ufafanuzi wa SomaSmart wa jibu fupi la mwongozo.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Bainisha maneno yenye makosa ya kimatamshi katika sentensi zifuatazo kwa kupigia mstari kisha andika sentensi hizo kwa usahihi.",
+      "instructions": "Bainisha maneno yenye makosa ya kimatamshi katika sentensi zifuatazo kwa kupigia mstari kisha andika sentensi hizo kwa usahihi."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "needs-review",
+      "publicationStatus": "draft",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Jibu fupi la mwongozo wa wilaya pamoja na ufafanuzi huru wa SomaSmart; si mpango rasmi wa NECTA.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q9-b",
+      "questionNumber": "9(b)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-9-b",
+      "type": "short-answer",
+      "content": "Shule yetu ina vifaa vya samani.",
+      "maximumMarks": 3,
+      "answerKey": "Mwongozo umetaja “Thamani”. Mfano unaolingana na mwongozo: Shule yetu ina vifaa vya thamani.",
+      "markingGuide": "Mwongozo unatoa alama 3 kwa kila kipengele. Bainisha neno lenye kosa na uandike sentensi nzima yenye marekebisho yanayofaa. Kipengele kimesitishwa kwa sababu ya tatizo lililoandikwa kwenye sourceIssue.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Bainisha maneno yenye makosa ya kimatamshi katika sentensi zifuatazo kwa kupigia mstari kisha andika sentensi hizo kwa usahihi.",
+      "instructions": "Bainisha maneno yenye makosa ya kimatamshi katika sentensi zifuatazo kwa kupigia mstari kisha andika sentensi hizo kwa usahihi.",
+      "sourceIssue": "“samani” ni neno halali lenye maana ya furniture; sentensi inaweza kuwa na maana halali bila kujua kilichokusudiwa. Mwongozo “Thamani” unaingiza maana tofauti bila muktadha. Hifadhi swali la asili, usifanye ubadilishaji huo kuwa jibu pekee la lazima."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Jibu fupi la mwongozo wa wilaya pamoja na ufafanuzi huru wa SomaSmart; si mpango rasmi wa NECTA.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q9-c",
+      "questionNumber": "9(c)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-9-c",
+      "type": "short-answer",
+      "content": "Mti uliokuwa kalibu na bustani ya maua umeanguka.",
+      "maximumMarks": 3,
+      "answerKey": "kalibu → karibu. Mti uliokuwa karibu na bustani ya maua umeanguka.",
+      "markingGuide": "Mwongozo umetaja “Karibu” na unatoa alama 3 kwa kipengele hiki. Bainisha “kalibu”, sahihisha kuwa “karibu” na uandike sentensi nzima: Mti uliokuwa karibu na bustani ya maua umeanguka. Ufafanuzi wa sentensi kamili ni wa SomaSmart.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Bainisha maneno yenye makosa ya kimatamshi katika sentensi zifuatazo kwa kupigia mstari kisha andika sentensi hizo kwa usahihi.",
+      "instructions": "Bainisha maneno yenye makosa ya kimatamshi katika sentensi zifuatazo kwa kupigia mstari kisha andika sentensi hizo kwa usahihi."
+    },
+    {
+      "paperId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "sourceType": "district",
+      "sourceTitle": "Halmashauri ya Wilaya ya Mkalama • Mtihani wa kumaliza muhula wa kwanza kidato cha kwanza • Kiswahili • Mei 2025",
+      "institution": "HALMASHAURI YA WILAYA YA MKALAMA (printed source heading)",
+      "year": 2025,
+      "curriculumEdition": "Current academic compatibility mapped to broad existing lesson topics; detailed syllabus mapping remains partial",
+      "parentQuestionId": null,
+      "resourceKind": "past-paper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-732fe7fb783ed01c/page-002.jpg",
+          "alt": "Ukurasa wa asili wa mtihani, ukurasa 2.",
+          "role": "source-page"
+        }
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1iUUqamAI6n2btEumVkbVsJvZXY7etdsT",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "markingSourcePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "markingSourceSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "sourceGuidePages": [
+        1
+      ],
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page 1: printed red item/group allocations.",
+      "solutionProvenance": "Jibu fupi la mwongozo wa wilaya pamoja na ufafanuzi huru wa SomaSmart; si mpango rasmi wa NECTA.",
+      "verificationScope": "Question wording, options and source allocations compared visually with all original paper/guide pages; source errors retained explicitly.",
+      "id": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q9-d",
+      "questionNumber": "9(d)",
+      "groupId": "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-group-9-d",
+      "type": "short-answer",
+      "content": "Mzee kiza amedhuru mbuga za Wanyama.",
+      "maximumMarks": 3,
+      "answerKey": "amedhuru → amezuru. Mzee kiza amezuru mbuga za Wanyama. Mwongozo umetaja “Ametembelea”, kisawe cha amezuru.",
+      "markingGuide": "Mwongozo unatoa alama 3 kwa kila kipengele. Bainisha neno lenye kosa na uandike sentensi nzima yenye marekebisho yanayofaa. Kubali neno lililosahihishwa na sentensi sahihi; maelezo ya kimatamshi na sentensi kamili ni ufafanuzi wa SomaSmart wa jibu fupi la mwongozo.",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourcePages": [
+        2
+      ],
+      "sharedContent": "Bainisha maneno yenye makosa ya kimatamshi katika sentensi zifuatazo kwa kupigia mstari kisha andika sentensi hizo kwa usahihi.",
+      "instructions": "Bainisha maneno yenye makosa ya kimatamshi katika sentensi zifuatazo kwa kupigia mstari kisha andika sentensi hizo kwa usahihi."
+    }
+  ],
+  "verificationNotes": [
+    "All two original paper pages and the one-page guide inspected visually; printed cover confirms Mkalama/Mei2025/Kiswahili/FormOne. Archive attribution is not used in place of printed metadata.",
+    "33 independently displayed records preserve all nine main questions and all labels. Matching record2 contains five independently graded pairs; 37 answerable parts total. All source groups and source instructions are retained.",
+    "Q1(v) na Q9(b) zimesitishwa bila kubadili maneno ya asili kwa sababu ya utata wa chanzo. Rekodi31/alama96 zinaweza kutumika; rekodi33/alama100 za chanzo zimenakiliwa zote. Huu si mtihani mzima wenye alama zilizothibitishwa.",
+    "Q1(vii) contains awkward source wording retained verbatim; model lafudhi follows matching scheme and the described regional pronunciation concept.",
+    "SourceGuide pages explicitly allocateQ1 10×1,Q2 5×1,Q3 4×3,Q4 5×2,Q5 5×4,Q6 3×3,Q7 5×2,Q8 4×3,Q9 4×3 =100. No official NECTA allocation is asserted.",
+    "Source question spelling/capitalization is retained, including sentesi, mtanzania, ana, repeated/awkward phrases and lowercase stems. Source-page images remain definitive for original formatting and underlining.",
+    "Q9(d) direct phonetic correction amedhuru→amezuru and complete sentence are independently prepared; source scheme says Ametembelea. Original question is unchanged.",
+    "Source page2 Q9(c) was magnified to resolve the final word as “umeanguka”; transcription matches original and no word in the source question was repaired."
+  ]
+}

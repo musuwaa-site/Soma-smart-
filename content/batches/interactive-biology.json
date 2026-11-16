@@ -1,0 +1,3007 @@
+{
+  "paper": {
+    "id": "moshi-dc-2026-biology-08ca2cd821a35126",
+    "title": "Moshi District Council • Form One Biology • May 2026 • verified scored selection",
+    "form": 1,
+    "subjectId": "biology",
+    "sourceType": "district",
+    "institution": "Moshi District Council (printed cover)",
+    "year": 2026,
+    "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+    "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+    "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+    "sourceDocumentId": "source-08ca2cd821a35126",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "publicationStatus": "published",
+    "publicationScope": "selected-questions",
+    "completePaper": false,
+    "transcriptionComplete": true,
+    "totalSourceMainQuestions": 10,
+    "allTranscribedQuestionIds": [
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-i",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-ii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-iii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-iv",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-v",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-vi",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-vii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-viii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-ix",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-x",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q2",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q3-a",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q3-b",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q4-a",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q4-b",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q4-c",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q4-d",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q4-e",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q5-a",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q5-b-i",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q5-b-ii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q5-b-iii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q6-a",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q6-b",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q7-a",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q7-b",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q7-c",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q7-d",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q7-e",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-i",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-A",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-B",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-C",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-D",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-E",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-b",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q9-i",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q9-ii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q9-iii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q9-iv",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q9-v",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q10"
+    ],
+    "questionIds": [
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-i",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-ii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-iii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-iv",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-v",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-vi",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-vii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-viii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-ix",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q1-x",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q2",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q3-a",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q3-b",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q4-a",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q4-b",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q4-c",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q4-d",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q4-e",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q5-a",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q5-b-i",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q5-b-ii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q5-b-iii",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q6-a",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q6-b",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q7-a",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q7-b",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q7-c",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q7-d",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q7-e",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-i",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-A",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-B",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-C",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-D",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-E",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q8-b",
+      "moshi-dc-2026-biology-08ca2cd821a35126-q10"
+    ],
+    "maximumMarks": 90,
+    "sourceMaximumMarks": 100,
+    "sourceInstructions": [
+      "Answer all questions",
+      "This paper consists of 10 total number of questions",
+      "Section A carries 15 marks, Section B carries 70 marks and Section C carries 15 Marks",
+      "Use blue or black ink to write in this paper",
+      "Diagrams should be drawn in sharped pencil and neatly labelled by a pen",
+      "Write your examination number on each page of this paper"
+    ],
+    "sourceSectionHeaders": [
+      "SECTION A:(15 MARKS)",
+      "SECTION B (70 MARKS)",
+      "SECTION C (15 MARKS)"
+    ],
+    "timeAllowed": "2:30hrs",
+    "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+    "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+    "excludedQuestions": [
+      {
+        "number": "9(i)",
+        "reason": "The guide labels medical questioning as formulating a hypothesis, although no proposed explanation is stated; a student could reasonably identify information gathering. Entire linked scenario group retained as draft pending an independently justified rubric. Guide heading 8 belongs to paper Q9."
+      },
+      {
+        "number": "9(ii)",
+        "reason": "The guide labels medical questioning as formulating a hypothesis, although no proposed explanation is stated; a student could reasonably identify information gathering. Entire linked scenario group retained as draft pending an independently justified rubric. Guide heading 8 belongs to paper Q9."
+      },
+      {
+        "number": "9(iii)",
+        "reason": "The guide labels medical questioning as formulating a hypothesis, although no proposed explanation is stated; a student could reasonably identify information gathering. Entire linked scenario group retained as draft pending an independently justified rubric. Guide heading 8 belongs to paper Q9."
+      },
+      {
+        "number": "9(iv)",
+        "reason": "The guide labels medical questioning as formulating a hypothesis, although no proposed explanation is stated; a student could reasonably identify information gathering. Entire linked scenario group retained as draft pending an independently justified rubric. Guide heading 8 belongs to paper Q9."
+      },
+      {
+        "number": "9(v)",
+        "reason": "The guide labels medical questioning as formulating a hypothesis, although no proposed explanation is stated; a student could reasonably identify information gathering. Entire linked scenario group retained as draft pending an independently justified rubric. Guide heading 8 belongs to paper Q9."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q1-i",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "1(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-1(i)",
+      "type": "mcq",
+      "instructions": "Choose the correct answer and write the correct letter in a box provided",
+      "sharedContent": "",
+      "content": "Biology is the study of:",
+      "options": [
+        "A. Matter",
+        "B. Living things",
+        "C. Energy",
+        "D. Chemicals"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-002.jpg",
+          "alt": "Unchanged original Biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "B. Living things",
+      "markingGuide": "Source guide: one mark for the keyed alternative; zero for another choice or an unanswered item.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "Biology is the study of:",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q1-ii",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "1(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-1(ii)",
+      "type": "mcq",
+      "instructions": "Choose the correct answer and write the correct letter in a box provided",
+      "sharedContent": "",
+      "content": "Which of the following is NOT a branch of biology?",
+      "options": [
+        "A. Botany",
+        "B. Zoology",
+        "C. Chemistry",
+        "D. Microbiology"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-002.jpg",
+          "alt": "Unchanged original Biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "C. Chemistry",
+      "markingGuide": "Source guide: one mark for the keyed alternative; zero for another choice or an unanswered item.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "Which of the following is NOT a branch of biology?",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q1-iii",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "1(iii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-1(iii)",
+      "type": "mcq",
+      "instructions": "Choose the correct answer and write the correct letter in a box provided",
+      "sharedContent": "",
+      "content": "A field of Biology that practices growing crops and rearing animals for food or money is known as",
+      "options": [
+        "A. Zoology",
+        "B. Nutrition",
+        "C. Agriculture",
+        "D. Botany"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-002.jpg",
+          "alt": "Unchanged original Biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "C. Agriculture",
+      "markingGuide": "Source guide: one mark for the keyed alternative; zero for another choice or an unanswered item.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "A field of Biology that practices growing crops and rearing animals for food or money is known as",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q1-iv",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "1(iv)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-1(iv)",
+      "type": "mcq",
+      "instructions": "Choose the correct answer and write the correct letter in a box provided",
+      "sharedContent": "",
+      "content": "The increase in the number of cells that make up an organism is known as",
+      "options": [
+        "A. Numbers",
+        "B. Excretion",
+        "C) Growth and development",
+        "D) Forestry"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-002.jpg",
+          "alt": "Unchanged original Biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "C) Growth and development",
+      "markingGuide": "Source guide: one mark for the keyed alternative; zero for another choice or an unanswered item.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "The increase in the number of cells that make up an organism is known as",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q1-v",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "1(v)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-1(v)",
+      "type": "mcq",
+      "instructions": "Choose the correct answer and write the correct letter in a box provided",
+      "sharedContent": "",
+      "content": "Which one is a living thing?",
+      "options": [
+        "A. Bacteria",
+        "B. Water",
+        "C. Stone",
+        "D. Air"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-002.jpg",
+          "alt": "Unchanged original Biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "A. Bacteria",
+      "markingGuide": "Source guide: one mark for the keyed alternative; zero for another choice or an unanswered item.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "Which one is a living thing?",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q1-vi",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "1(vi)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-1(vi)",
+      "type": "mcq",
+      "instructions": "Choose the correct answer and write the correct letter in a box provided",
+      "sharedContent": "",
+      "content": "The process of making a sensible guess is called:",
+      "options": [
+        "A. Observation",
+        "B. Hypothesis",
+        "C. Experiment",
+        "D. Conclusion"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-002.jpg",
+          "alt": "Unchanged original Biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "B. Hypothesis",
+      "markingGuide": "Source guide: one mark for the keyed alternative; zero for another choice or an unanswered item.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "The process of making a sensible guess is called:",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q1-vii",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "1(vii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-1(vii)",
+      "type": "mcq",
+      "instructions": "Choose the correct answer and write the correct letter in a box provided",
+      "sharedContent": "",
+      "content": "The microscope with magnifying power of 10x and if total magnification to observe red blood cell is 200x. Determine the objective lens magnification",
+      "options": [
+        "A. 190x",
+        "B.2000x",
+        "C. 210x",
+        "D.20x"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-002.jpg",
+          "alt": "Unchanged original Biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "D.20x",
+      "markingGuide": "Source guide: one mark for the keyed alternative; zero for another choice or an unanswered item.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "The microscope with magnifying power of 10x and if total magnification to observe red blood cell is 200x. Determine the objective lens magnification",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q1-viii",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "1(viii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-1(viii)",
+      "type": "mcq",
+      "instructions": "Choose the correct answer and write the correct letter in a box provided",
+      "sharedContent": "",
+      "content": "Aneth is a form one student with a dream to be an expert of insect. What biological term can describe her in the future.",
+      "options": [
+        "A. Microbiologist",
+        "B. Mycologist",
+        "C. Ecologist",
+        "D. Entomologist"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-002.jpg",
+          "alt": "Unchanged original Biology paper page 2.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-003.jpg",
+          "alt": "Unchanged original Biology paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "D. Entomologist",
+      "markingGuide": "Source guide: one mark for the keyed alternative; zero for another choice or an unanswered item.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        2,
+        3
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "Aneth is a form one student with a dream to be an expert of insect. What biological term can describe her in the future.",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q1-ix",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "1(ix)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-1(ix)",
+      "type": "mcq",
+      "instructions": "Choose the correct answer and write the correct letter in a box provided",
+      "sharedContent": "",
+      "content": "You need to measure the height of a small plant. Which tool will you use",
+      "options": [
+        "A. Ruler",
+        "B. Vernier caliper",
+        "C. Tape measure",
+        "D. Measuring cylinder"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-003.jpg",
+          "alt": "Unchanged original Biology paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "A. Ruler",
+      "markingGuide": "Source guide: one mark for the keyed alternative; zero for another choice or an unanswered item.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "You need to measure the height of a small plant. Which tool will you use",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q1-x",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "1(x)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-1(x)",
+      "type": "mcq",
+      "instructions": "Choose the correct answer and write the correct letter in a box provided",
+      "sharedContent": "",
+      "content": "A doctor checks if a patient has a fever. Which tools should a doctor use",
+      "options": [
+        "A. Scale",
+        "B. Thermometer",
+        "C. Hygrometer",
+        "D. Barometer"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-003.jpg",
+          "alt": "Unchanged original Biology paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "B. Thermometer",
+      "markingGuide": "Source guide: one mark for the keyed alternative; zero for another choice or an unanswered item.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "A doctor checks if a patient has a fever. Which tools should a doctor use",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q2",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-2",
+      "type": "matching",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Match the uses of apparatuses in List A with the corresponding apparatuses in List B",
+      "options": [
+        "A. Aquarium",
+        "B. Bunsen burner",
+        "C. Measuring cylinder",
+        "D. Microscope",
+        "E. Spatula",
+        "F. Test tube rack",
+        "G. Filter funnel",
+        "H. Test tube holder",
+        "I. Scoop nets",
+        "J. Sweep nets"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-003.jpg",
+          "alt": "Unchanged original Biology paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": {
+        "i": "B. Bunsen burner",
+        "ii": "F. Test tube rack",
+        "iii": "C. Measuring cylinder",
+        "iv": "D. Microscope",
+        "v": "J. Sweep nets"
+      },
+      "markingGuide": "Source guide: one mark for each correctly matched item, maximum five. List A and List B are reproduced in full.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "Match the uses of apparatuses in List A with the corresponding apparatuses in List B",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "pairs": [
+        {
+          "id": "i",
+          "left": "(i) An apparatus used for heating substances in the laboratory"
+        },
+        {
+          "id": "ii",
+          "left": "(ii) An apparatus used for storing test tubes so that they do not roll or break"
+        },
+        {
+          "id": "iii",
+          "left": "(iii) An apparatus used for measuring volume of liquids"
+        },
+        {
+          "id": "iv",
+          "left": "(iv) An apparatus used to magnify specimen"
+        },
+        {
+          "id": "v",
+          "left": "(v) An apparatus used for catching small flying organisms and other small animals"
+        }
+      ],
+      "table": [
+        [
+          "List A",
+          "List B"
+        ],
+        [
+          "(i) An apparatus used for heating substances in the laboratory",
+          "A. Aquarium"
+        ],
+        [
+          "(ii) An apparatus used for storing test tubes so that they do not roll or break",
+          "B. Bunsen burner"
+        ],
+        [
+          "(iii) An apparatus used for measuring volume of liquids",
+          "C. Measuring cylinder"
+        ],
+        [
+          "(iv) An apparatus used to magnify specimen",
+          "D. Microscope"
+        ],
+        [
+          "(v) An apparatus used for catching small flying organisms and other small animals",
+          "E. Spatula"
+        ],
+        [
+          "",
+          "F. Test tube rack"
+        ],
+        [
+          "",
+          "G. Filter funnel"
+        ],
+        [
+          "",
+          "H. Test tube holder"
+        ],
+        [
+          "",
+          "I. Scoop nets"
+        ],
+        [
+          "",
+          "J. Sweep nets"
+        ]
+      ],
+      "answerablePartCount": 5
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q3-a",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "3(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-3(a)",
+      "type": "short-answer",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "In order to study science one needs to have three basic skills. Mention them.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-003.jpg",
+          "alt": "Unchanged original Biology paper page 3.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Observation; Measurement; Experimentation.",
+      "markingGuide": "Source guide: 2 marks for each of observation, measurement and experimentation; maximum 6.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        3,
+        4
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "In order to study science one needs to have three basic skills. Mention them.",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q3-b",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "3(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-3(b)",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "The human body temperature is 36⁰ C. Convert it into ⁰ F",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 1.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment increments within the source maximum; no official step weights claimed.",
+      "answerKey": "96.8 °F.",
+      "markingGuide": "Source guide allocates 4 marks and uses °F=(9/5)C+32. Independent self-assessment detail: 1 for the formula, 1 for substituting 36, 1 for 64.8+32, 1 for 96.8 °F. Printed superscript zero notation is retained in the question.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1
+      ],
+      "sourceContent": "The human body temperature is 36⁰ C. Convert it into ⁰ F",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "workedSolution": "°F=(9/5)×36+32=64.8+32=96.8 °F."
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q4-a",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "4(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-4(a)",
+      "type": "short-answer",
+      "instructions": "The apparatus or equipment you can use to perform each of the following biological activities",
+      "sharedContent": "",
+      "content": "Catch a frog from a pond in order to study its external features",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 1,2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Scoop net.",
+      "markingGuide": "Source guide: 2 marks for the correctly named apparatus, maximum 2 for this part.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1,
+        2
+      ],
+      "sourceContent": "Catch a frog from a pond in order to study its external features",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q4-b",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "4(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-4(b)",
+      "type": "short-answer",
+      "instructions": "The apparatus or equipment you can use to perform each of the following biological activities",
+      "sharedContent": "",
+      "content": "Collect insects and small animals from the school compound",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 1,2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Sweep net.",
+      "markingGuide": "Source guide: 2 marks for the correctly named apparatus, maximum 2 for this part.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1,
+        2
+      ],
+      "sourceContent": "Collect insects and small animals from the school compound",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q4-c",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "4(c)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-4(c)",
+      "type": "short-answer",
+      "instructions": "The apparatus or equipment you can use to perform each of the following biological activities",
+      "sharedContent": "",
+      "content": "Estimate the number of small organisms per square meter",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 1,2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Quadrat.",
+      "markingGuide": "Source guide: 2 marks for the correctly named apparatus, maximum 2 for this part.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1,
+        2
+      ],
+      "sourceContent": "Estimate the number of small organisms per square meter",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q4-d",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "4(d)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-4(d)",
+      "type": "short-answer",
+      "instructions": "The apparatus or equipment you can use to perform each of the following biological activities",
+      "sharedContent": "",
+      "content": "Used to pick up small organisms without hurting them",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 1,2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Pooter.",
+      "markingGuide": "Source guide: 2 marks for the correctly named apparatus, maximum 2 for this part.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1,
+        2
+      ],
+      "sourceContent": "Used to pick up small organisms without hurting them",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q4-e",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "4(e)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-4(e)",
+      "type": "short-answer",
+      "instructions": "The apparatus or equipment you can use to perform each of the following biological activities",
+      "sharedContent": "",
+      "content": "Used to lift small delicate specimens",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 1,2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Mounting needle.",
+      "markingGuide": "Source guide: 2 marks for the correctly named apparatus, maximum 2 for this part.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        1,
+        2
+      ],
+      "sourceContent": "Used to lift small delicate specimens",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q5-a",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "5(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-5(a)",
+      "type": "short-answer",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Define the three (3) branches of Biology",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Botany studies plants; Zoology studies animals; Microbiology studies microorganisms.",
+      "markingGuide": "Source guide: 2 marks for each correct named branch and its definition, maximum 6.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "Define the three (3) branches of Biology",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q5-b-i",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "5(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-5b",
+      "type": "short-answer",
+      "instructions": "Identify the field and branch of biology that you will use to solve the following problems",
+      "sharedContent": "",
+      "content": "Helping a person with broken leg",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Independent self-assessment increments within source part maximum; source per-step weights are not asserted.",
+      "answerKey": "Field: medicine or orthopaedic medicine; branch: anatomy or human biology (within zoology).",
+      "markingGuide": "Source part maximum 2 marks. Independently prepared detail: 1 mark for an appropriate field (medicine/orthopaedics), 1 for an appropriate biological branch (anatomy/human biology). Accept another scientifically justified field–branch pairing.",
+      "solutionProvenance": "Independently prepared and biology/safety-checked SomaSmart correction; source guide field-only or unsafe text is explicitly retained in guideDiscrepancy. Not an official district correction or NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved. Answer/rubric independently corrected; question wording unchanged.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "Helping a person with broken leg",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "guideDiscrepancy": "Source guide gives Medicine and pharmacy but no branch."
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q5-b-ii",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "5(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-5b",
+      "type": "short-answer",
+      "instructions": "Identify the field and branch of biology that you will use to solve the following problems",
+      "sharedContent": "",
+      "content": "Protecting cattle from tsetse flies",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Independent self-assessment increments within source part maximum; source per-step weights are not asserted.",
+      "answerKey": "Field: agriculture or veterinary medicine; branch: zoology, entomology or parasitology.",
+      "markingGuide": "Source part maximum 1 mark. Independently prepared criterion: award the mark for an appropriate field and branch pairing, such as agriculture with entomology, or veterinary medicine with parasitology, supported by the control of tsetse flies or the diseases they transmit.",
+      "solutionProvenance": "Independently prepared and biology/safety-checked SomaSmart correction; source guide field-only or unsafe text is explicitly retained in guideDiscrepancy. Not an official district correction or NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved. Answer/rubric independently corrected; question wording unchanged.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "Protecting cattle from tsetse flies",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "guideDiscrepancy": "Source guide gives Agriculture but no branch."
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q5-b-iii",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "5(b)(iii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-5b",
+      "type": "short-answer",
+      "instructions": "Identify the field and branch of biology that you will use to solve the following problems",
+      "sharedContent": "",
+      "content": "Conserving village river from drying",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Independent self-assessment increments within source part maximum; source per-step weights are not asserted.",
+      "answerKey": "Field: environmental conservation or forestry; branch: ecology or botany.",
+      "markingGuide": "Source part maximum 1 mark. Independently prepared criterion: award the mark for an appropriate field and branch pairing, such as environmental conservation with ecology, or forestry with botany, relevant to protecting vegetation and the river catchment.",
+      "solutionProvenance": "Independently prepared and biology/safety-checked SomaSmart correction; source guide field-only or unsafe text is explicitly retained in guideDiscrepancy. Not an official district correction or NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved. Answer/rubric independently corrected; question wording unchanged.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "Conserving village river from drying",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "guideDiscrepancy": "Source guide gives Forestry but no branch."
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q6-a",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "6(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-6(a)",
+      "type": "short-answer",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "What do you understand by the term biology laboratory.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "A special room or building designed for carrying out biological experiments.",
+      "markingGuide": "Source guide: 2 marks for an accurate definition identifying a room/building for biological experiments.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "What do you understand by the term biology laboratory.",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q6-b",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "6(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-6(b)",
+      "type": "short-answer",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "During biology practical lesson, Amina entered the laboratory while eating chocolate and chatting loudly with her friends. She started touching bottles and apparatus without asking the teacher. Another student began running across the room and accidentally dropped a glass beaker on the floor. Identify the laboratory rules should be followed by the students",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-004.jpg",
+          "alt": "Unchanged original Biology paper page 4.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-005.jpg",
+          "alt": "Unchanged original Biology paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 8,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Independent self-assessment increments within source part maximum; source per-step weights are not asserted.",
+      "answerKey": "Do not eat or drink in the laboratory; avoid disruptive chatting and listen to instructions; ask the teacher before touching bottles or apparatus; walk carefully rather than running and report broken glass to the teacher.",
+      "markingGuide": "Source allocates 8 marks at 2 per rule. Independently corrected rubric: award 2 each for four appropriate rules addressing the incident: never eat/drink in the laboratory; avoid noisy/disruptive chatting and follow instructions; obtain teacher permission before handling bottles/apparatus; walk rather than run and report breakages. Accept valid equivalent safety rules clearly related to the stated events. No teacher permission makes laboratory food/drink safe.",
+      "solutionProvenance": "Independently prepared and biology/safety-checked SomaSmart correction; source guide field-only or unsafe text is explicitly retained in guideDiscrepancy. Not an official district correction or NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        4,
+        5
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved. Answer/rubric independently corrected; question wording unchanged.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "During biology practical lesson, Amina entered the laboratory while eating chocolate and chatting loudly with her friends. She started touching bottles and apparatus without asking the teacher. Another student began running across the room and accidentally dropped a glass beaker on the floor. Identify the laboratory rules should be followed by the students",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "guideDiscrepancy": "Source guide says Do not eat or drink anything in the laboratory without teachers’ permission, which incorrectly implies teacher permission could make eating/drinking in the laboratory safe. Its other listed points do not directly address all actions in the incident. The independently corrected rubric uses the unchanged source question and source 8-mark maximum."
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q7-a",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "7(a)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-7(a)",
+      "type": "short-answer",
+      "instructions": "State the sense organs used in making the following observation",
+      "sharedContent": "",
+      "content": "Colour change during food test experiment",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-005.jpg",
+          "alt": "Unchanged original Biology paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Eyes.",
+      "markingGuide": "Source guide: 2 marks for the correct sense organ.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "Colour change during food test experiment",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q7-b",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "7(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-7(b)",
+      "type": "short-answer",
+      "instructions": "State the sense organs used in making the following observation",
+      "sharedContent": "",
+      "content": "Identify the smell of the flower",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-005.jpg",
+          "alt": "Unchanged original Biology paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Nose.",
+      "markingGuide": "Source guide: 2 marks for the correct sense organ.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "Identify the smell of the flower",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q7-c",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "7(c)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-7(c)",
+      "type": "short-answer",
+      "instructions": "State the sense organs used in making the following observation",
+      "sharedContent": "",
+      "content": "Identify the texture of sand",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-005.jpg",
+          "alt": "Unchanged original Biology paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Skin.",
+      "markingGuide": "Source guide: 2 marks for the correct sense organ.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "Identify the texture of sand",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q7-d",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "7(d)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-7(d)",
+      "type": "short-answer",
+      "instructions": "State the sense organs used in making the following observation",
+      "sharedContent": "",
+      "content": "Coconut contains a liquid by hearing the sound when shaken",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-005.jpg",
+          "alt": "Unchanged original Biology paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Ear.",
+      "markingGuide": "Source guide: 2 marks for the correct sense organ.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "Coconut contains a liquid by hearing the sound when shaken",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q7-e",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "7(e)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-7(e)",
+      "type": "short-answer",
+      "instructions": "State the sense organs used in making the following observation",
+      "sharedContent": "",
+      "content": "An orange has a sweet taste when eaten",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-005.jpg",
+          "alt": "Unchanged original Biology paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Tongue.",
+      "markingGuide": "Source guide: 2 marks for the correct sense organ.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "An orange has a sweet taste when eaten",
+      "sourceDocumentId": "source-08ca2cd821a35126"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-i",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "8(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-8(a)(i)",
+      "type": "short-answer",
+      "instructions": "Observe the diagram below and answer the questions that follow",
+      "sharedContent": "",
+      "content": "What is the name of this diagram above?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-005.jpg",
+          "alt": "Complete original page 5, including the unchanged microscope figure labelled A–E.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "The Microscope.",
+      "markingGuide": "Associated guide, incorrectly headed 9(a)(i), explicitly answers the microscope question: 2 marks for microscope. The question itself remains numbered 8(a)(i).",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "What is the name of this diagram above?",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceGuideLabel": "9a.i"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-A",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "8(a)(ii)(A)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-8a-labels",
+      "type": "short-answer",
+      "instructions": "Observe the diagram below and answer the questions that follow\nLabel the parts",
+      "sharedContent": "",
+      "content": "A",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-005.jpg",
+          "alt": "Complete original page 5, including the unchanged microscope figure labelled A–E.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 2,3.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment increments within the source maximum; no official step weights claimed.",
+      "answerKey": "Part A: Body tube.",
+      "markingGuide": "Associated guide, incorrectly headed 9(a)(ii), gives 1 mark per microscope label. Source label A is Body tube.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2,
+        3
+      ],
+      "sourceContent": "A",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceGuideLabel": "9a.ii"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-B",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "8(a)(ii)(B)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-8a-labels",
+      "type": "short-answer",
+      "instructions": "Observe the diagram below and answer the questions that follow\nLabel the parts",
+      "sharedContent": "",
+      "content": "B-",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-005.jpg",
+          "alt": "Complete original page 5, including the unchanged microscope figure labelled A–E.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 2,3.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment increments within the source maximum; no official step weights claimed.",
+      "answerKey": "Part B: Rotating nosepiece.",
+      "markingGuide": "Associated guide, incorrectly headed 9(a)(ii), gives 1 mark per microscope label. Source label B is Rotating nosepiece.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2,
+        3
+      ],
+      "sourceContent": "B-",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceGuideLabel": "9a.ii"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-C",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "8(a)(ii)(C)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-8a-labels",
+      "type": "short-answer",
+      "instructions": "Observe the diagram below and answer the questions that follow\nLabel the parts",
+      "sharedContent": "",
+      "content": "C-",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-005.jpg",
+          "alt": "Complete original page 5, including the unchanged microscope figure labelled A–E.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 2,3.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment increments within the source maximum; no official step weights claimed.",
+      "answerKey": "Part C: Objective lens.",
+      "markingGuide": "Associated guide, incorrectly headed 9(a)(ii), gives 1 mark per microscope label. Source label C is Objective lens.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2,
+        3
+      ],
+      "sourceContent": "C-",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceGuideLabel": "9a.ii"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-D",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "8(a)(ii)(D)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-8a-labels",
+      "type": "short-answer",
+      "instructions": "Observe the diagram below and answer the questions that follow\nLabel the parts",
+      "sharedContent": "",
+      "content": "D-",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-005.jpg",
+          "alt": "Complete original page 5, including the unchanged microscope figure labelled A–E.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 2,3.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment increments within the source maximum; no official step weights claimed.",
+      "answerKey": "Part D: Stage clip.",
+      "markingGuide": "Associated guide, incorrectly headed 9(a)(ii), gives 1 mark per microscope label. Source label D is Stage clip.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2,
+        3
+      ],
+      "sourceContent": "D-",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceGuideLabel": "9a.ii"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q8-a-ii-E",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "8(a)(ii)(E)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-8a-labels",
+      "type": "short-answer",
+      "instructions": "Observe the diagram below and answer the questions that follow\nLabel the parts",
+      "sharedContent": "",
+      "content": "E-",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-005.jpg",
+          "alt": "Complete original page 5, including the unchanged microscope figure labelled A–E.",
+          "role": "diagram"
+        },
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-006.jpg",
+          "alt": "Unchanged original Biology paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 2,3.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment increments within the source maximum; no official step weights claimed.",
+      "answerKey": "Part E: Coarse adjustment knob.",
+      "markingGuide": "Associated guide, incorrectly headed 9(a)(ii), gives 1 mark per microscope label. Source label E is Coarse adjustment knob.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        5,
+        6
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2,
+        3
+      ],
+      "sourceContent": "E-",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceGuideLabel": "9a.ii"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q8-b",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "8(b)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-8(b)",
+      "type": "short-answer",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Amina was performing an Experiment. Some of her specimens were very delicate and small. Which apparatus was she supposed to use in order to lift these specimens from the specimen bottle?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-006.jpg",
+          "alt": "Unchanged original Biology paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 3,
+      "marksProvenance": "Associated source marking guide, page(s) 3.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Mounting needle.",
+      "markingGuide": "Associated guide, incorrectly numbered 9(b), gives 3 marks for mounting needle. The source question number remains 8(b).",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        3
+      ],
+      "sourceContent": "Amina was performing an Experiment. Some of her specimens were very delicate and small. Which apparatus was she supposed to use in order to lift these specimens from the specimen bottle?",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceGuideLabel": "9b"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q9-i",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "9(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-9",
+      "type": "short-answer",
+      "instructions": "Identify the steps of scientific method in each of the following situations",
+      "sharedContent": "",
+      "content": "John is not feeling well he goes to see a medical doctor at a nearby hospital",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-006.jpg",
+          "alt": "Unchanged original Biology paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Source guide: Identifying the problem.",
+      "markingGuide": "Guide content is misnumbered 8 and allocates 2 marks per step; the full linked source group is held because the questioning scenario does not explicitly formulate a hypothesis.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "John is not feeling well he goes to see a medical doctor at a nearby hospital",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceIssue": "The guide labels medical questioning as formulating a hypothesis, although no proposed explanation is stated; a student could reasonably identify information gathering. Entire linked scenario group retained as draft pending an independently justified rubric. Guide heading 8 belongs to paper Q9.",
+      "sourceGuideLabel": "8(i)"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q9-ii",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "9(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-9",
+      "type": "short-answer",
+      "instructions": "Identify the steps of scientific method in each of the following situations",
+      "sharedContent": "",
+      "content": "The doctor asks John several questions about how he feels",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-006.jpg",
+          "alt": "Unchanged original Biology paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Source guide: Formulating a hypothesis.",
+      "markingGuide": "Guide content is misnumbered 8 and allocates 2 marks per step; the full linked source group is held because the questioning scenario does not explicitly formulate a hypothesis.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "The doctor asks John several questions about how he feels",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceIssue": "The guide labels medical questioning as formulating a hypothesis, although no proposed explanation is stated; a student could reasonably identify information gathering. Entire linked scenario group retained as draft pending an independently justified rubric. Guide heading 8 belongs to paper Q9.",
+      "sourceGuideLabel": "8(ii)"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q9-iii",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "9(iii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-9",
+      "type": "short-answer",
+      "instructions": "Identify the steps of scientific method in each of the following situations",
+      "sharedContent": "",
+      "content": "The doctor orders John’s body temperature, blood, and urine sample be measured and diagnosed in the laboratory",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-006.jpg",
+          "alt": "Unchanged original Biology paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Source guide: Experimentation.",
+      "markingGuide": "Guide content is misnumbered 8 and allocates 2 marks per step; the full linked source group is held because the questioning scenario does not explicitly formulate a hypothesis.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "The doctor orders John’s body temperature, blood, and urine sample be measured and diagnosed in the laboratory",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceIssue": "The guide labels medical questioning as formulating a hypothesis, although no proposed explanation is stated; a student could reasonably identify information gathering. Entire linked scenario group retained as draft pending an independently justified rubric. Guide heading 8 belongs to paper Q9.",
+      "sourceGuideLabel": "8(iii)"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q9-iv",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "9(iv)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-9",
+      "type": "short-answer",
+      "instructions": "Identify the steps of scientific method in each of the following situations",
+      "sharedContent": "",
+      "content": "The laboratory technician diagnoses malaria parasites in John’s blood",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-006.jpg",
+          "alt": "Unchanged original Biology paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Source guide: Data analysis and interpretation.",
+      "markingGuide": "Guide content is misnumbered 8 and allocates 2 marks per step; the full linked source group is held because the questioning scenario does not explicitly formulate a hypothesis.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "The laboratory technician diagnoses malaria parasites in John’s blood",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceIssue": "The guide labels medical questioning as formulating a hypothesis, although no proposed explanation is stated; a student could reasonably identify information gathering. Entire linked scenario group retained as draft pending an independently justified rubric. Guide heading 8 belongs to paper Q9.",
+      "sourceGuideLabel": "8(iv)"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q9-v",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "9(v)",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-9",
+      "type": "short-answer",
+      "instructions": "Identify the steps of scientific method in each of the following situations",
+      "sharedContent": "",
+      "content": "The doctor confirm that John has malaria and prescribes medicine for him",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-006.jpg",
+          "alt": "Unchanged original Biology paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 2,
+      "marksProvenance": "Associated source marking guide, page(s) 2.",
+      "markIncrementProvenance": "Source per-item allocation.",
+      "answerKey": "Source guide: Conclusion.",
+      "markingGuide": "Guide content is misnumbered 8 and allocates 2 marks per step; the full linked source group is held because the questioning scenario does not explicitly formulate a hypothesis.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-review",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        2
+      ],
+      "sourceContent": "The doctor confirm that John has malaria and prescribes medicine for him",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceIssue": "The guide labels medical questioning as formulating a hypothesis, although no proposed explanation is stated; a student could reasonably identify information gathering. Entire linked scenario group retained as draft pending an independently justified rubric. Guide heading 8 belongs to paper Q9.",
+      "sourceGuideLabel": "8(v)"
+    },
+    {
+      "id": "moshi-dc-2026-biology-08ca2cd821a35126-q10",
+      "paperId": "moshi-dc-2026-biology-08ca2cd821a35126",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Form One Biology • May 2026",
+      "institution": "Moshi District Council (printed source cover)",
+      "year": 2026,
+      "curriculumEdition": "2026 district paper; mapped compatible published learning chapters; full curriculum coverage not asserted",
+      "questionNumber": "10",
+      "parentQuestionId": null,
+      "groupId": "moshi-dc-2026-biology-08ca2cd821a35126-10",
+      "type": "essay",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "What would be the Importance of learning biology in your daily life? Explain briefly by giving six (6) points",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-006.jpg",
+          "alt": "Unchanged original Biology paper page 6.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-08ca2cd821a35126/page-007.jpg",
+          "alt": "Unchanged original Biology paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 15,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source marking guide, page(s) 3.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment increments within the source maximum; no official step weights claimed.",
+      "answerKey": "Biology helps people understand and care for the environment; identify and group living things; understand their bodies; cooperate internationally through biological research; prevent, treat and cure diseases; and improve food production.",
+      "markingGuide": "Source guide: introduction may include definition and branches (2 marks); any six explained importance points (12 marks at 2 each); conclusion (1 mark). Maximum 15. Accept valid equivalent points and explanations; the listed model is not the only valid wording.",
+      "solutionProvenance": "Associated Moshi district/archive-provided marking guide, visually checked; no official NECTA scheme claimed.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a48012e20f59.pdf&t=5a847febfcfeb7313819387b8f329d72f66c8a4a6e63855165dbbf5e9924cd94",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper/guide pages inspected visually; wording, options, source labels and marks compared. Printed errors are preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "markingSourcePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "markingSourceSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "markingSourcePages": [
+        3
+      ],
+      "sourceContent": "What would be the Importance of learning biology in your daily life? Explain briefly by giving six (6) points",
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "workedSolution": "Introduce biology as the study of living things and briefly name relevant branches (2). Explain six distinct uses: environmental care and conservation; classification that makes organisms easier to study; body functions and personal health; research cooperation; disease prevention/treatment; and agriculture/food production (2 each, 12 total). Conclude by linking biological knowledge to informed daily decisions (1). This elaborates the supplied guide independently."
+    }
+  ],
+  "verificationNotes": [
+    "All 7 original paper pages and all 3 guide pages inspected visually. Page 7 is blank answer space only; all actual question text is transcribed. Student index fields, dotted answer lines and examiner scoring boxes are layout rather than question content; source PDF and full pages retain them.",
+    "Original misspellings and grammatical defects are retained. Superscript zero in the printed temperature notation is represented as Unicode ⁰; original image/PDF retained.",
+    "Source guide swaps question headings 8 and 9. Microscope labels and mounting needle belong to printed Q8; scientific-method scenarios belong to printed Q9. This is a guide association correction, not changed question wording.",
+    "Q1 objective keys visually checked against guide and question meaning. Independent calculation verifies Q1(vii): 200/10=20x and Q3(b): 36×9/5+32=96.8 °F.",
+    "Q5(b) field/branch answers and Q6(b) safety guidance are independently corrected, clearly labelled, with guideDiscrepancy preserving the source guide defect. All Q9 scenarios remain fully transcribed draft because the guide assumes a hypothesis not stated in the question.",
+    "Microscope diagram preserved as entire unchanged source page 5, visible with every diagram-dependent part. No new or substituted diagram.",
+    "The paper is a partial scored selection from a completely transcribed paper. All scored written responses require student self-assessment; no automatic semantic grading claimed."
+  ]
+}

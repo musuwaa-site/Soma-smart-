@@ -30,4 +30,6 @@ existing={x['id']:i for i,x in enumerate(d.get('sourceDocuments',[]))};d.setdefa
 for item in docs:
  if item['id'] in existing:d['sourceDocuments'][existing[item['id']]]=item
  else:d['sourceDocuments'].append(item)
-p.write_text(json.dumps(d,ensure_ascii=False,indent=2));(ROOT/'content/batches/008-offline-source-library.json').write_text(json.dumps({'sourceDocuments':docs},ensure_ascii=False,indent=2));print('Bundled',len(docs),'complete papers;',sum(x['pageCount'] for x in docs),'paper pages;',sum('answerGuide' in x for x in docs),'complete answer guides.')
+from apply_source_corrections import apply
+d=apply(d)
+p.write_text(json.dumps(d,ensure_ascii=False,indent=2));(ROOT/'content/batches/008-offline-source-library.json').write_text(json.dumps({'sourceDocuments':d['sourceDocuments']},ensure_ascii=False,indent=2));published=[x for x in d['sourceDocuments'] if x.get('publicationStatus')=='published'];print('Bundled',len(published),'published complete papers;',sum(x['pageCount'] for x in published),'paper pages;',sum('answerGuide' in x for x in published),'complete answer guides.')

@@ -1,0 +1,1458 @@
+{
+  "paper": {
+    "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+    "title": "Halmashauri ya Wilaya ya Mkalama • Historia ya Tanzania na Maadili • 26 Mei 2025",
+    "form": 1,
+    "subjectId": "historia",
+    "sourceType": "district",
+    "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+    "year": 2025,
+    "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+    "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+    "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+    "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+    "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "verificationScope": "Maswali yote kumi pamoja na vipengele/chaguo vyake na muongozo kamili vimesomwa kwa picha. Jumla na mgao wa alama unaendana na chanzo.",
+    "publicationStatus": "published",
+    "publicationScope": "complete-paper",
+    "completePaper": true,
+    "completeTranscription": true,
+    "sourceMainQuestionCount": 10,
+    "sourceMaximumMarks": 100,
+    "sourceInstructions": [
+      "Karatasi hii ina sehemu A, B na C zenye jumla ya maswali (10)",
+      "Jibu maswali yote katika sehemu A, B na C",
+      "Sehemu A na C zina jumla ya alama (30), alama 15 kwa kila sehemu na sehemu B ina alama (70)",
+      "Zingatia maelekezo ya kila sehemu na ya kila swali",
+      "Andika jina lako kwa usahihi upande wa kulia juu ya karatasi uliyopewa"
+    ],
+    "questionIds": [
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-i",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-ii",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-iii",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-iv",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-v",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-vi",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-vii",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-viii",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-ix",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-x",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q2",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q3",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q4",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q5",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q6",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q7",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q8",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q9",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q10"
+    ],
+    "allTranscribedQuestionIds": [
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-i",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-ii",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-iii",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-iv",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-v",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-vi",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-vii",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-viii",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-ix",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-x",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q2",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q3",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q4",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q5",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q6",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q7",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q8",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q9",
+      "mkalama-2025-f1-historia-6edcaa925c55bcb1-q10"
+    ],
+    "maximumMarks": 100,
+    "excludedQuestions": []
+  },
+  "questions": [
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-i",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-asili-uhamiaji-maisha"
+      ],
+      "subtopicIds": [
+        "historia-f1-asili-uhamiaji-maisha"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "1(i)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-i",
+      "type": "mcq",
+      "instructions": "",
+      "content": "Wakati wa masimulizi yake kuhusiana na jamii za asili za kitanzania, mzee Mponda alisikika kulitaja kundi moja na kusisitiza kuwa ndio kundi linaloaminika kuwa ni wazawa halisi wa iliyokuwa Tanganyika. Je kundi lipi kati ya haya yafuatayo?",
+      "options": [
+        "Wakichembe",
+        ". Wabantu",
+        "Wakushito",
+        "Wanilo."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-001.jpg",
+          "alt": "Ukurasa asilia 1 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Wakichembe",
+      "markingGuide": "Muongozo wa chanzo, swali 1(i): A. Alama 1 kwa jibu sahihi.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        1
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sharedContent": "Katika kipengele (i) hadi ( x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika sehemu uliopewa.",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Wakichembe",
+        "B. . Wabantu",
+        "C. Wakushito",
+        "D. Wanilo."
+      ]
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-ii",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-01"
+      ],
+      "subtopicIds": [
+        "historia-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "1(ii)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-ii",
+      "type": "mcq",
+      "instructions": "",
+      "content": "Katika kuonesha kuwa somo la Historia ya Tanzania na maadili ni somo ambalo linaushiano na masomo mengine, mwalimu Jamuhuri alitoa maelezo kuwa \" husaidia kueneza, kuhifadhi na pia kuelezea maadili ya jamii\" . Je uhusiano huu ni katika somo gani katika haya yafuatayo?",
+      "options": [
+        "Kiswahili na Kiingereza",
+        "Muziki",
+        "Jiografia",
+        "Hisabati."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-001.jpg",
+          "alt": "Ukurasa asilia 1 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Kiswahili na Kiingereza",
+      "markingGuide": "Muongozo wa chanzo, swali 1(ii): A. Alama 1 kwa jibu sahihi.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        1
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sharedContent": "Katika kipengele (i) hadi ( x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika sehemu uliopewa.",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Kiswahili na Kiingereza",
+        "B. Muziki",
+        "C. Jiografia",
+        "D. Hisabati."
+      ]
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-iii",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-asili-uhamiaji-maisha"
+      ],
+      "subtopicIds": [
+        "historia-f1-asili-uhamiaji-maisha"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "1(iii)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-iii",
+      "type": "mcq",
+      "instructions": "",
+      "content": "Ni shughuli gani kuu ya kiuchumi ambazo jamii ya wakushito walijishughulisha zaidi katika maisha yao?",
+      "options": [
+        "Kilimo, ufugaji na uvuvi",
+        "Kuwinda, kukusanya matunda na kurina asali.",
+        "Kilimo na ufugaji",
+        "Uvuvi, biashara na ufugaji."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-001.jpg",
+          "alt": "Ukurasa asilia 1 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Kilimo na ufugaji",
+      "markingGuide": "Muongozo wa chanzo, swali 1(iii): C. Alama 1 kwa jibu sahihi.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        1
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sharedContent": "Katika kipengele (i) hadi ( x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika sehemu uliopewa.",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Kilimo, ufugaji na uvuvi",
+        "B. Kuwinda, kukusanya matunda na kurina asali.",
+        "C. Kilimo na ufugaji",
+        "D. Uvuvi, biashara na ufugaji."
+      ]
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-iv",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "1(iv)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-iv",
+      "type": "mcq",
+      "instructions": "",
+      "content": "Kila jamii ina miongozo yake ambayo hutawala tabia na matendo ya mtu mmojammoja au jamii kwa ujumla. Moja kati ya istilahi zifuatazo inaakisi miongozo hiyo:",
+      "options": [
+        "Tabia",
+        "Historia",
+        "Urithi",
+        "Maadili"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-001.jpg",
+          "alt": "Ukurasa asilia 1 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Maadili",
+      "markingGuide": "Muongozo wa chanzo, swali 1(iv): D. Alama 1 kwa jibu sahihi.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        1
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sharedContent": "Katika kipengele (i) hadi ( x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika sehemu uliopewa.",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Tabia",
+        "B. Historia",
+        "C. Urithi",
+        "D. Maadili"
+      ]
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-v",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "1(v)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-v",
+      "type": "mcq",
+      "instructions": "",
+      "content": "Fasihi, falsafa, ujuzi na lugha huweza kuwekwa katika kigawanyo kipi cha aina zifuatazo za Urithi?",
+      "options": [
+        "Urithi wa kisanaa",
+        "Urithi usioshikika",
+        "Urithi wa asili",
+        "Urithi unaoshikika."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-001.jpg",
+          "alt": "Ukurasa asilia 1 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Urithi usioshikika",
+      "markingGuide": "Muongozo wa chanzo, swali 1(v): B. Alama 1 kwa jibu sahihi.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        1
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sharedContent": "Katika kipengele (i) hadi ( x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika sehemu uliopewa.",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Urithi wa kisanaa",
+        "B. Urithi usioshikika",
+        "C. Urithi wa asili",
+        "D. Urithi unaoshikika."
+      ]
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-vi",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-asili-uhamiaji-maisha"
+      ],
+      "subtopicIds": [
+        "historia-f1-asili-uhamiaji-maisha"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "1(vi)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-vi",
+      "type": "mcq",
+      "instructions": "",
+      "content": "Wanilo ni watu wa asili ya Bonde la Mto Naili ambao wanatumia lugha ya kinilo. Jamii hii iliingia Tanzania ikitokea:",
+      "options": [
+        "Kameruni",
+        "Ethiopia",
+        "Kusini mwa Sudan",
+        "Somalia."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-001.jpg",
+          "alt": "Ukurasa asilia 1 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Kusini mwa Sudan",
+      "markingGuide": "Muongozo wa chanzo, swali 1(vi): C. Alama 1 kwa jibu sahihi.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        1
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sharedContent": "Katika kipengele (i) hadi ( x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika sehemu uliopewa.",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Kameruni",
+        "B. Ethiopia",
+        "C. Kusini mwa Sudan",
+        "D. Somalia."
+      ]
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-vii",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "1(vii)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-vii",
+      "type": "mcq",
+      "instructions": "",
+      "content": "Maadili ni kama kiumbe ambacho uimara na uhai wake hutegemea zaidi jitihada za mtu mmojammoja na jamii kwa ujumla ili yaweze kuwepo kwa matumizi ya muda mrefu. Je ni mifumo ipi ya kijamii kati ya hii ifuatayo ilisaidia katika ujenzi wa maadili Tanzania kabla ya ukoloni?",
+      "options": [
+        "Dini na siasa",
+        "Familia na mavazi",
+        "Kiuchumi na kijamii",
+        "Jando na unyago."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-001.jpg",
+          "alt": "Ukurasa asilia 1 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Jando na unyago.",
+      "markingGuide": "Muongozo wa chanzo, swali 1(vii): D. Alama 1 kwa jibu sahihi.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        1
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sharedContent": "Katika kipengele (i) hadi ( x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika sehemu uliopewa.",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Dini na siasa",
+        "B. Familia na mavazi",
+        "C. Kiuchumi na kijamii",
+        "D. Jando na unyago."
+      ]
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-viii",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-asili-uhamiaji-maisha"
+      ],
+      "subtopicIds": [
+        "historia-f1-asili-uhamiaji-maisha"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "1(viii)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-viii",
+      "type": "mcq",
+      "instructions": "",
+      "content": "Ni lipi kati ya haya yafuatayo ni chimbuko la jamii za asili ya watu wa pwani na Zanzibar?",
+      "options": [
+        "Wanilo",
+        "Waislamu",
+        "Wabantu",
+        "Wakushito."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-002.jpg",
+          "alt": "Ukurasa asilia 2 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-003.jpg",
+          "alt": "Ukurasa asilia 3 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Wabantu",
+      "markingGuide": "Muongozo wa chanzo, swali 1(viii): C. Alama 1 kwa jibu sahihi.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        2,
+        3
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sharedContent": "Katika kipengele (i) hadi ( x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika sehemu uliopewa.",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Wanilo",
+        "B. Waislamu",
+        "C. Wabantu",
+        "D. Wakushito."
+      ]
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-ix",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-01"
+      ],
+      "subtopicIds": [
+        "historia-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "1(ix)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-ix",
+      "type": "mcq",
+      "instructions": "",
+      "content": "Dhana ipi kati ya hizi zifuatazo inahusu mambo au matukio yaliyopita yenye athari kubwa kiuchumi kisiasa na kitamadini?",
+      "options": [
+        "Maadili",
+        "Historia",
+        "Urithi",
+        "Utamaduni."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-003.jpg",
+          "alt": "Ukurasa asilia 3 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Historia",
+      "markingGuide": "Muongozo wa chanzo, swali 1(ix): B. Alama 1 kwa jibu sahihi.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        3
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sharedContent": "Katika kipengele (i) hadi ( x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika sehemu uliopewa.",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Maadili",
+        "B. Historia",
+        "C. Urithi",
+        "D. Utamaduni."
+      ]
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-x",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "1(x)",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q1-x",
+      "type": "mcq",
+      "instructions": "",
+      "content": "Jamii za kitanzania zinahimizwa sana kutunza na kuenzi maadili ya Taifa. Ni sababu ipi kati ya hizi zifuatazo inachagiza msisitizo huo?",
+      "options": [
+        "Kupunguza uhalifu",
+        "Kujenga tabia mbaya",
+        "Kukuza utalii",
+        "Ni hifadhi ya Taifa."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-003.jpg",
+          "alt": "Ukurasa asilia 3 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Kupunguza uhalifu",
+      "markingGuide": "Muongozo wa chanzo, swali 1(x): A. Alama 1 kwa jibu sahihi.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        3
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "sharedContent": "Katika kipengele (i) hadi ( x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika sehemu uliopewa.",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Kupunguza uhalifu",
+        "B. Kujenga tabia mbaya",
+        "C. Kukuza utalii",
+        "D. Ni hifadhi ya Taifa."
+      ]
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q2",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-mamlaka-jamii-uzalishaji"
+      ],
+      "subtopicIds": [
+        "historia-f1-mamlaka-jamii-uzalishaji"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q2",
+      "type": "matching",
+      "instructions": "",
+      "content": "Oanisha vipengele vinavyoendana katika Orodha A na vile vya Orodha B kwa kuandika herufi ya jibu sahihi katika sehemu uliopewa.",
+      "options": [
+        "A. Ukoo",
+        "B. Kabila",
+        "C. Jean Jacques Rousseau (1797)",
+        "D. John James",
+        "E. Margaret Thatcher (1987)",
+        "F. Maadili",
+        "G. Jamii za asili",
+        "H. Emile Durkheim (1884)",
+        "I. Familia"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-003.jpg",
+          "alt": "Ukurasa asilia 3 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "answerKey": {
+        "i": "E. Margaret Thatcher (1987)",
+        "ii": "B. Kabila",
+        "iii": "H. Emile Durkheim (1884)",
+        "iv": "I. Familia",
+        "v": "C. Jean Jacques Rousseau (1797)"
+      },
+      "markingGuide": "Muongozo wa chanzo swali 2: (i) E; (ii) B; (iii) H; (iv) I; (v) C. Alama 1 kwa kila uoanishaji sahihi.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        3
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "pairs": [
+        {
+          "id": "i",
+          "left": "Jamii ni watu ambao ni wanaume, wanawake na familia zao"
+        },
+        {
+          "id": "ii",
+          "left": "Kundi la watu wanaozungumza lugha moja na huwa na mila na desturi za aina moja"
+        },
+        {
+          "id": "iii",
+          "left": "Jamii ni mkusanyiko wa watu kwa ujumla wake"
+        },
+        {
+          "id": "iv",
+          "left": "Kikundi kidogo cha watu wenye uhusiano wa damu au ndoa kinachoundwa na baba, mama, watoto na ndugu wengine."
+        },
+        {
+          "id": "v",
+          "left": "Jamii ni jumla ya watu mmoja mmoja"
+        }
+      ],
+      "transcriptionNote": "Majina na miaka katika Orodha B yamehifadhiwa kama yalivyochapishwa; hayajabadilishwa kuwa tarehe za kuzaliwa au kufariki."
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q3",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q3",
+      "type": "short",
+      "instructions": "",
+      "content": "Bainisha matendo matano ( 5) ya kimaadili unayotenda au kutendewa ukiwa na wenzako maeneo ya shuleni au wazazi ukiwa nyumbani.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-003.jpg",
+          "alt": "Ukurasa asilia 3 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 2,
+      "answerKey": "Kuwasaidia wenye uhitaji, mfano kwenye masomo; kushirikiana katika kazi na masomo; kuhimiza kazi na utii wa sheria za shule; kuimarisha uhusiano mwema; kuwaheshimu wenzangu.",
+      "markingGuide": "Muongozo wa chanzo swali 3 unahitaji hoja tano na hutoa alama 10, yaani alama 2 kwa kila hoja. Jipime kwa hoja tano tofauti zinazojibu swali: alama 0, 2, 4, 6, 8 au 10 kulingana na idadi ya hoja zinazokubalika. Kuwasaidia wenye uhitaji, mfano kwenye masomo; kushirikiana katika kazi na masomo; kuhimiza kazi na utii wa sheria za shule; kuimarisha uhusiano mwema; kuwaheshimu wenzangu.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        3
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q4",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "4",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q4",
+      "type": "short",
+      "instructions": "",
+      "content": "Kwa mtu ambaye angependa kutunza Urithi wa jamii za kitanzania lakini anaonesha kukosa maarifa ya njia za kutunza urithi, unadhani ni njia zipi tano ambazo ungemshauri azitumie ili kutunza Urithi huo?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-003.jpg",
+          "alt": "Ukurasa asilia 3 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 2,
+      "answerKey": "Kutoa elimu; njia ya masimulizi; kuhifadhi kwa maandishi; maonesho ya utamaduni; sherehe za kiutamaduni. Njia nyingine zilizomo katika muongozo: kuanzisha makumbusho na vituo vya utamaduni; kulinda maeneo ya historia na utamaduni; kurekodi mila na desturi; kuanzisha maktaba za kijamii; kuwezesha kufanyika kwa tafiti za kihistoria na utamaduni; kuhifadhi vitu na nyaraka katika makumbusho na makavazi.",
+      "markingGuide": "Muongozo wa chanzo swali 4 unahitaji hoja tano na hutoa alama 10, yaani alama 2 kwa kila hoja. Jipime kwa hoja tano tofauti zinazojibu swali: alama 0, 2, 4, 6, 8 au 10 kulingana na idadi ya hoja zinazokubalika. Kutoa elimu; njia ya masimulizi; kuhifadhi kwa maandishi; maonesho ya utamaduni; sherehe za kiutamaduni. Njia nyingine zilizomo katika muongozo: kuanzisha makumbusho na vituo vya utamaduni; kulinda maeneo ya historia na utamaduni; kurekodi mila na desturi; kuanzisha maktaba za kijamii; kuwezesha kufanyika kwa tafiti za kihistoria na utamaduni; kuhifadhi vitu na nyaraka katika makumbusho na makavazi.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        3
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        1,
+        2
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q5",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "5",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q5",
+      "type": "short",
+      "instructions": "",
+      "content": "Unadhani ni kwa nini viongozi nchini wamekuwa mstari wa mbele kupinga vitendo vya rushwa? (Toa hoja tano (5))",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-003.jpg",
+          "alt": "Ukurasa asilia 3 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 2,
+      "answerKey": "Rushwa husababisha kushuka kwa huduma na viwango vya utendaji kazi; kushuka kwa imani ya wananchi kwa serikali au taasisi husika; kushuka kwa heshima na hadhi ya taasisi; kushuka kwa tija na ufanisi wa taasisi; matumizi mabaya ya rasilimali za umma au taasisi. Muongozo pia unataja kushtakiwa kwa mujibu wa sheria za nchi, kulazimika kufidia gharama na kukwama kwa miradi ya maendeleo.",
+      "markingGuide": "Muongozo wa chanzo swali 5 unahitaji hoja tano na hutoa alama 10, yaani alama 2 kwa kila hoja. Jipime kwa hoja tano tofauti zinazojibu swali: alama 0, 2, 4, 6, 8 au 10 kulingana na idadi ya hoja zinazokubalika. Rushwa husababisha kushuka kwa huduma na viwango vya utendaji kazi; kushuka kwa imani ya wananchi kwa serikali au taasisi husika; kushuka kwa heshima na hadhi ya taasisi; kushuka kwa tija na ufanisi wa taasisi; matumizi mabaya ya rasilimali za umma au taasisi. Muongozo pia unataja kushtakiwa kwa mujibu wa sheria za nchi, kulazimika kufidia gharama na kukwama kwa miradi ya maendeleo.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        3
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        2
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q6",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "6",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q6",
+      "type": "short",
+      "instructions": "",
+      "content": "Jamii za asili ya kitanzania zilikuwa na Mila na desturi zilizolenga kukuza maadili katika nyanja mbalimbali za maisha yao. Fafanua kwa kifupi malengo matano (5)ya ujenzi wa maadili katika jamii hizo.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-003.jpg",
+          "alt": "Ukurasa asilia 3 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 2,
+      "answerKey": "Kuenzi na kuhimiza tabia njema; kuhimiza jamii kufanya kazi kwa bidii; kuhimiza malezi bora katika jamii; kuhimiza ushirikiano; kuhimiza tabia ya kuheshimu na kujali utu wa mtu mwingine. Muongozo pia unakubali kuhimiza usawa katika uzalishaji, mgawanyo na umiliki wa rasilimali.",
+      "markingGuide": "Muongozo wa chanzo swali 6 unahitaji hoja tano na hutoa alama 10, yaani alama 2 kwa kila hoja. Jipime kwa hoja tano tofauti zinazojibu swali: alama 0, 2, 4, 6, 8 au 10 kulingana na idadi ya hoja zinazokubalika. Kuenzi na kuhimiza tabia njema; kuhimiza jamii kufanya kazi kwa bidii; kuhimiza malezi bora katika jamii; kuhimiza ushirikiano; kuhimiza tabia ya kuheshimu na kujali utu wa mtu mwingine. Muongozo pia unakubali kuhimiza usawa katika uzalishaji, mgawanyo na umiliki wa rasilimali.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        3
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        2
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q7",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-mamlaka-jamii-uzalishaji"
+      ],
+      "subtopicIds": [
+        "historia-f1-mamlaka-jamii-uzalishaji"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "7",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q7",
+      "type": "short",
+      "instructions": "",
+      "content": "Jamii za asili ya kitanzania zimekuwa na historia ya muda mrefu ya kuwa na mifumo yao ya uendeshaji wa siasa zao kulingana na jamii husika. Bainisha sifa tano (5) zilizotumika kumpata kiongozi wa jamii za kibantu.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-003.jpg",
+          "alt": "Ukurasa asilia 3 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 2,
+      "answerKey": "Kuwa na ujuzi wa uganga; ushujaa unaotokana na kushinda vita ya ukoo aliyoshiriki; kuwa na hekima na busara; awe amepigana na kushinda kwa kumuua mnyama mkali mfano simba; awe na uwezo wa kutambua mema na mabaya.",
+      "markingGuide": "Muongozo wa chanzo swali 7 unahitaji hoja tano na hutoa alama 10, yaani alama 2 kwa kila hoja. Jipime kwa hoja tano tofauti zinazojibu swali: alama 0, 2, 4, 6, 8 au 10 kulingana na idadi ya hoja zinazokubalika. Kuwa na ujuzi wa uganga; ushujaa unaotokana na kushinda vita ya ukoo aliyoshiriki; kuwa na hekima na busara; awe amepigana na kushinda kwa kumuua mnyama mkali mfano simba; awe na uwezo wa kutambua mema na mabaya.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        3
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        2
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q8",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-haki-ushirika"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "8",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q8",
+      "type": "short",
+      "instructions": "",
+      "content": "Ni kwa namna gani maadili yanaweza kusemwa kuwa yanatija kwa familia na Taifa kwa ujumla? (Toa hoja tano (5) tu)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-004.jpg",
+          "alt": "Ukurasa asilia 4 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 2,
+      "answerKey": "Kutambulisha utu; kuleta maendeleo; kujenga amani; kupunguza uhalifu na kuimarisha utii wa sheria; upatikanaji wa haki, usalama na furaha katika jamii. Muongozo pia unataja kujenga heshima na uaminifu miongoni mwa watu, kujenga uhusiano miongoni mwa watu na mazingira yao, na kukuza na kuendeleza uhusiano wa karibu miongoni mwa watu.",
+      "markingGuide": "Muongozo wa chanzo swali 8 unahitaji hoja tano na hutoa alama 10, yaani alama 2 kwa kila hoja. Jipime kwa hoja tano tofauti zinazojibu swali: alama 0, 2, 4, 6, 8 au 10 kulingana na idadi ya hoja zinazokubalika. Kutambulisha utu; kuleta maendeleo; kujenga amani; kupunguza uhalifu na kuimarisha utii wa sheria; upatikanaji wa haki, usalama na furaha katika jamii. Muongozo pia unataja kujenga heshima na uaminifu miongoni mwa watu, kujenga uhusiano miongoni mwa watu na mazingira yao, na kukuza na kuendeleza uhusiano wa karibu miongoni mwa watu.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        4
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        2,
+        3
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q9",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "9",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q9",
+      "type": "short",
+      "instructions": "",
+      "content": "Urithi wa kihistoria ni fursa kwa maendeleo binafsi na jamii kwa ujumla. Eleza kwa kutumia hoja tano ( 5) juu ya umuhimu wa urithi wa kihistoria wa jamii za kitanzania.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-004.jpg",
+          "alt": "Ukurasa asilia 4 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 2,
+      "answerKey": "Kuonesha historia na utambulisho; kuongeza shughuli za utalii na fedha; kutunza utamaduni; kudumisha mila na desturi; kukuza ushirikiano na Umoja. Muongozo pia unataja kutoa elimu na maarifa na kukuza utalii wa kiutamaduni.",
+      "markingGuide": "Muongozo wa chanzo swali 9 unahitaji hoja tano na hutoa alama 10, yaani alama 2 kwa kila hoja. Jipime kwa hoja tano tofauti zinazojibu swali: alama 0, 2, 4, 6, 8 au 10 kulingana na idadi ya hoja zinazokubalika. Kuonesha historia na utambulisho; kuongeza shughuli za utalii na fedha; kutunza utamaduni; kudumisha mila na desturi; kukuza ushirikiano na Umoja. Muongozo pia unataja kutoa elimu na maarifa na kukuza utalii wa kiutamaduni.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        4
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        3
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kiwango cha alama kinatokana na mgao wa muongozo wa chanzo.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q10",
+      "paperId": "mkalama-2025-f1-historia-6edcaa925c55bcb1",
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "institution": "Halmashauri ya Wilaya ya Mkalama (kichwa cha karatasi)",
+      "year": 2025,
+      "curriculumEdition": "Mtihani wa Mei 2025; maswali yamehusishwa na mada zinazotumika kidato cha kwanza",
+      "questionNumber": "10",
+      "parentQuestionId": null,
+      "groupId": "mkalama-2025-f1-historia-6edcaa925c55bcb1-q10",
+      "type": "essay",
+      "instructions": "",
+      "content": "Marafiki zaidi ya wawili wakiwa wamekaa pamoja wanajadiliana jinsi ya kukuza na kulinda maadili na urithi wa Tanzania. Lakini kikwazo kilichobainika ni kuwa wote hawajui ni nini wafanye ili kufanya maadili na urithi uweze kulindika kwa matumizi ya kizazi cha sasa na kijacho. Kama ungepata fursa ya kuwa mshiriki wa mjadala huo, je ni matendo gani matano (5) ungeyabainisha kufanywa na kila mwanajamii ili kukuza na kulinda maadili na urithi wa Tanzania?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-6edcaa925c55bcb1/page-004.jpg",
+          "alt": "Ukurasa asilia 4 wa Historia ya Tanzania na Maadili: maandishi, namba na mpangilio asilia.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 15,
+      "markIncrement": 0.5,
+      "answerKey": "Utangulizi: fafanua dhana ya maadili na urithi. Kiini, matendo matano: kutii sheria; kupanga na kutekeleza mipango ya uhifadhi wa maeneo ya kihistoria na maliasili; kujifunza maadili na kutembelea maeneo yenye urithi wa kitanzania; kuhamasisha na kushirikisha jamii katika kuhifadhi maadili na urithi wa Taifa; kufuata mafundisho ya dini. Hitimisho: toa ushauri au mapendekezo yanayoendana na maudhui ya swali.",
+      "markingGuide": "Mgao uliopo katika muongozo wa chanzo: UTANGULIZI, kufafanua dhana ya maadili na urithi, alama 1.5. KIINI, hoja tano, alama 12.5 = 2.5 kwa kila hoja. HITIMISHO, ushauri au mapendekezo yanayoendana na swali, alama 1. Jumla 15. Tumia mgao huo kujipima; jibu la insha halisahihishwi moja kwa moja.",
+      "solutionProvenance": "Muongozo wa usahihishaji wa Halmashauri ya Wilaya ya Mkalama ulioambatanishwa na chanzo; si mpango wa NECTA.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL",
+      "sourcePdf": "/source-papers/source-6edcaa925c55bcb1/original.pdf",
+      "sourceSha256": "6edcaa925c55bcb1b5c8cf7d729425d36d90bbb8f1042af0e83ee057239b7828",
+      "sourcePages": [
+        4
+      ],
+      "sourceMarkingGuidePdf": "/source-papers/guide-97e2e75d5df3da96/original.pdf",
+      "sourceMarkingGuideSha256": "97e2e75d5df3da967b6b29a3f5c72072d499f0ba0303c3eafe21b776a5e05046",
+      "sourceMarkingGuidePages": [
+        3
+      ],
+      "marksProvenance": "Alama zimenukuliwa kutoka katika muongozo wa chanzo; jumla ya sehemu imethibitishwa kwa karatasi ya maswali.",
+      "markIncrementProvenance": "Kipimo cha pamoja cha mgao wa chanzo 1.5, 2.5 na 1 ni 0.5; alama za kujipima huhifadhiwa katika hatua za 0.5.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Kurasa zote nne za maswali na kurasa zote tatu za muongozo zimesomwa kwa picha. Maneno, namba na chaguo asilia zimehifadhiwa; majibu yamelinganishwa na muongozo.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    }
+  ],
+  "verificationNotes": [
+    "Printed subject is HISTORIA YA TANZANIA NA MAADILI, not older History; printed date 26 MEI, 2025. Form One is archive attribution because printed heading does not explicitly state form.",
+    "Every paper page (1–4) and marking-guide page (1–3) visually inspected. Page 2 has only the first line of Q1(viii); continuation/options on page 3 are preserved together.",
+    "Question wording, spelling/capitalization and names/years in matching options retained. Typographic whitespace and blank answer-line lengths normalized only; original full pages preserve exact layout.",
+    "Scoring: ten MCQs ×1=10; matching5×1=5; Q3–Q9 seven×10=70; Q10 essay15. Total100. Written questions require learner self-assessment; no fabricated automatic essay grades.",
+    "Source guide Q1 header repeats iv for the sixth column; it is interpreted by its fixed position as Q1(vi), while original source guide remains intact."
+  ]
+}

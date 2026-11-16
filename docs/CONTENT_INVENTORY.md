@@ -25,17 +25,17 @@ Generated from published student data and locally available acquisition metadata
 - candidatePaperDocumentsAcquired: 53
 - acquiredOfficialReferencePDFs: 11
 - extractedPapers: 10
-- publishedPapers: 13
+- publishedPapers: 14
 - fullyPublishedPapers: 3
-- partiallyPublishedPaperSources: 10
-- authenticMainQuestions: 99
-- authenticAnswerableParts: 350
-- scoredQuestionsWithMarking: 3324
-- completeAuthenticTranscriptions: 12
-- transcribedAuthenticRecords: 421
-- heldAuthenticRecords: 130
+- partiallyPublishedPaperSources: 11
+- authenticMainQuestions: 100
+- authenticAnswerableParts: 351
+- scoredQuestionsWithMarking: 3325
+- completeAuthenticTranscriptions: 13
+- transcribedAuthenticRecords: 446
+- heldAuthenticRecords: 154
 - automaticallyScoredAuthenticRecords: 85
-- authenticScoredRecords: 298
+- authenticScoredRecords: 299
 
 | Form | Subject | Chapters | Textbook words¹ | Original questions | Distinct workbook tasks | Partially supported official activities |
 |---|---|---:|---:|---:|---:|---:|

@@ -1,12 +1,12 @@
-# Test evidence — release0.6.0
+# Test evidence — release 0.6.0
 
-58 automated tests passed:34Node and24Python. Production-format build passed; all689offline assets passed hash/inclusion checks.
+58 automated tests passed: 34 Node and 24 Python. The final source bank includes 299 genuine scored records from 14 paper sources ; 13 new complete transcriptions preserve 446 editorial records, including 154 held items. Production-format build passed; all 689 offline assets passed hash/inclusion checks.
 
 New source-conversion tests verify exact canonical-versus-batch text digests (wording, labels, options, passages, underlining, tables), reject accidental source wording edits, and check original PDF hashes/full-page references. The mismatched ComputerScience/Chemistry archive association is quarantined. Student JSON and the offline asset set exclude unpublished question drafts/quarantined source associations.
 
-Actual genuine banks are checked against eligible published selections. Tests cover full source totals, fractional source marks, objective/matching keys, pending written self-marking, whole shared-material groups, seeded selection, repeated original optionlabels and underlined source words. Full 100mark Mathematics/Business/Historia papers reach100 only after required written self-assessment. Independent guide corrections do not alter source questions.
+Actual genuine banks are checked against eligible published selections. Tests cover full source totals, fractional source marks, objective/matching keys, pending written self-marking, whole shared-material groups, seeded selection, repeated original option labels and underlined source words. Full 100-mark Mathematics/Business/Historia papers reach100 only after required written self-assessment. Independent guide corrections do not alter source questions.
 
-Existing owner HTTP authorization/CSRF tests, PDF extraction, EPUB/XML/PDF exports, deterministic exports, all18subject/form combinations, saved-result calculations and service-worker simulations pass. Simulated worker tests cover successful provisioning, quota/interruption/corruption failure and preservation of the previous complete release. These are not real-browser acceptance.
+Existing owner HTTP authorization/CSRF tests, PDF extraction, EPUB/XML/PDF exports, deterministic exports, all 18 subject/form combinations, saved-result calculations and service-worker simulations pass. Simulated worker tests cover successful provisioning, quota/interruption/corruption failure and preservation of the previous complete release. These are not real-browser acceptance.
 
 Not performed: real-browser drawing/pointer interaction, IndexedDB persistence/upgrade, offline Android installation and complete unseen-content workflow, real-browser interrupted updates/storage eviction. No CUA browser tool is mounted; no browser was installed or improvised. Canvas code passes JS parsing/build but is not described as browser-tested.
 

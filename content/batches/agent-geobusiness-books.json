@@ -1,0 +1,2503 @@
+{
+  "chapters": [
+    {
+      "id": "geography-f1-expanded-solar-time",
+      "subjectId": "geography",
+      "form": 1,
+      "title": "Solar energy, Earth movements and geographical time",
+      "language": "en",
+      "objectives": [
+        "Distinguish rotation from revolution and explain their effects.",
+        "Use latitude, longitude and time differences with stated assumptions.",
+        "Explain seasonal changes without confusing distance and tilt."
+      ],
+      "paragraphs": [
+        "The Sun supplies most of the energy that drives surface weather and plant growth. Earth is the third planet from the Sun, orbiting between Venus and Mars. Gravity keeps planets in orbit while their existing motion carries them forward. The solar system formed from a rotating cloud of gas and dust; scientific explanations draw on observations and physical evidence rather than direct observation of its formation.",
+        "Rotation is Earth’s turning on its axis, taking approximately 24 hours relative to the Sun. A place faces daylight while turned towards the Sun and night while turned away. Because rotation is eastward, the Sun appears to move westward across the sky. A moving shadow can therefore provide evidence of apparent solar movement, but its exact direction depends on place and season.",
+        "Revolution is Earth’s movement around the Sun in about 365¼ days. Earth’s axis is tilted about 23½ degrees relative to a line perpendicular to the orbital plane. As Earth revolves, the hemisphere tilted towards the Sun generally receives higher solar angles and longer days. Seasons follow this changing angle and duration, not simply the varying Earth–Sun distance. Near the Equator, rainfall seasons can be more noticeable than temperature seasons.",
+        "Latitude measures angular distance north or south of the Equator; longitude measures angular distance east or west of the prime meridian. Parallels are circles of latitude; meridians meet at the poles. Earth turns through 360 degrees in 24 hours, giving 15 degrees per hour or four minutes per degree. Longitude calculations give local solar time differences; actual civil time follows agreed time zones and may differ."
+      ],
+      "examples": [
+        "Local solar time at 30°E is 12:00. A place at 45°E lies 15° farther east: 15 ÷ 15 = 1 hour ahead, so its local solar time is 13:00. This is a solar-time model, not a claim about legal time zones.",
+        "At 20°W it is 09:20 local solar time. At 10°E the difference is 30°: 30 × 4 = 120 minutes. Move east and add two hours: 11:20.",
+        "In a classroom model, hold a tilted globe with its axis pointing in the same direction while moving it around a lamp. The hemisphere tilted towards the lamp receives more direct light and longer exposure. Rotating the globe explains day and night; carrying it around the lamp explains the annual pattern."
+      ],
+      "glossary": [
+        {
+          "term": "Rotation",
+          "definition": "Turning of Earth about its axis."
+        },
+        {
+          "term": "Revolution",
+          "definition": "Earth’s orbital movement around the Sun."
+        },
+        {
+          "term": "Meridian",
+          "definition": "A line of longitude joining the poles."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Name the planets immediately inside and outside Earth’s orbit.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Venus is inside; Mars is outside.",
+          "markingGuide": "Venus is inside; Mars is outside. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "State the approximate duration of rotation.",
+          "type": "short",
+          "options": [],
+          "answerKey": "About 24 hours relative to the Sun.",
+          "markingGuide": "About 24 hours relative to the Sun. Award one mark for each distinct correct point or correctly explained step, up to 1 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "State two effects of rotation.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Day and night; apparent daily movement of the Sun across the sky.",
+          "markingGuide": "Day and night; apparent daily movement of the Sun across the sky. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "How long does one revolution take?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Approximately 365¼ days.",
+          "markingGuide": "Approximately 365¼ days. Award one mark for each distinct correct point or correctly explained step, up to 1 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "What causes seasonal changes in solar heating?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Axial tilt and revolution change solar angle and day length.",
+          "markingGuide": "Axial tilt and revolution change solar angle and day length. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Define latitude.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Angular distance north or south of the Equator.",
+          "markingGuide": "Angular distance north or south of the Equator. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Define longitude.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Angular distance east or west of the prime meridian.",
+          "markingGuide": "Angular distance east or west of the prime meridian. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why do meridians meet at the poles?",
+          "type": "short",
+          "options": [],
+          "answerKey": "They are pole-to-pole semicircles on the globe, converging at the ends of the rotational axis.",
+          "markingGuide": "They are pole-to-pole semicircles on the globe, converging at the ends of the rotational axis. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate time difference for 45° of longitude.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "45 ÷ 15 = 3 hours.",
+          "markingGuide": "45 ÷ 15 = 3 hours. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "At 0° it is 10:00 solar time. Find solar time at 30°E.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "30 ÷ 15 = 2 hours ahead; 12:00.",
+          "markingGuide": "30 ÷ 15 = 2 hours ahead; 12:00. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "At 30°E it is 14:00 solar time. Find time at 15°W.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Difference 45°; three hours westward means subtract; 11:00.",
+          "markingGuide": "Difference 45°; three hours westward means subtract; 11:00. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why can civil time differ from calculated solar time?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Civil time uses agreed time zones rather than a separate clock time at every longitude.",
+          "markingGuide": "Civil time uses agreed time zones rather than a separate clock time at every longitude. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Correct: summer occurs because Earth is always closest to the Sun in that hemisphere.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Seasons arise chiefly from axial tilt changing angle and day length during revolution; both hemispheres share almost the same Earth–Sun distance at a given moment.",
+          "markingGuide": "Seasons arise chiefly from axial tilt changing angle and day length during revolution; both hemispheres share almost the same Earth–Sun distance at a given moment. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name two processes supported by solar energy.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Evaporation and photosynthesis; accept atmospheric heating.",
+          "markingGuide": "Evaporation and photosynthesis; accept atmospheric heating. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Explain a safe model of day and night.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Use a lamp for Sun and globe for Earth; rotate globe; lit side has day and shaded side night; keep clear of hot bulbs.",
+          "markingGuide": "Use a lamp for Sun and globe for Earth; rotate globe; lit side has day and shaded side night; keep clear of hot bulbs. Award one mark for each distinct correct point or correctly explained step, up to 4 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Calculate solar times at 75°E and 15°W when 30°E has 08:40. Show direction and arithmetic.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "75°E is 45° east: +3 hours = 11:40. 15°W is 45° west: −3 hours = 05:40.",
+          "markingGuide": "75°E is 45° east: +3 hours = 11:40. 15°W is 45° west: −3 hours = 05:40. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Design a week-long shadow observation recording sheet and explain two controls.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Record date, clock time, shadow length and direction; use the same upright stick and level site; compare at the same clock time; avoid looking directly at the Sun.",
+          "markingGuide": "Record date, clock time, shadow length and direction; use the same upright stick and level site; compare at the same clock time; avoid looking directly at the Sun. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Write a paragraph distinguishing rotation, revolution and tilt, then predict the effect of removing tilt in a simplified model.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Rotation causes day/night; revolution is annual orbit; tilt changes seasonal angle/day length; without tilt those seasonal differences would be greatly reduced, although latitude would still affect solar angle.",
+          "markingGuide": "Rotation causes day/night; revolution is annual orbit; tilt changes seasonal angle/day length; without tilt those seasonal differences would be greatly reduced, although latitude would still affect solar angle. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "geography-f1-activity-02"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "geography-f1-expanded-relief-water",
+      "subjectId": "geography",
+      "form": 1,
+      "title": "Comparing landforms, drainage and inland waters",
+      "language": "en",
+      "objectives": [
+        "Recognise major relief forms using height and shape.",
+        "Explain drainage links between land and water bodies.",
+        "Use comparative geographical evidence."
+      ],
+      "paragraphs": [
+        "Relief describes differences in surface elevation and land shape. A mountain rises prominently above its surroundings, a plateau is an extensive elevated surface with relatively level parts, and a plain has gentle relief. Height alone does not decide the name: a high plateau can contain mountains and valleys. Describe both elevation and local shape before assigning a label to a landscape.",
+        "A river flows down a gradient through a channel. Tributaries join a main stream; the land drained by the connected streams forms a drainage basin. A watershed is the higher boundary separating neighbouring basins. Water on opposite sides of a divide can enter different rivers. Weathering, erosion, transport and deposition change a basin over time, while vegetation and settlement affect runoff.",
+        "Lakes occupy inland depressions filled with water. Some have river outlets; others lose much of their water through evaporation and seepage. A lake without an outlet may accumulate dissolved salts, but the actual salinity depends on its water and mineral balance. Wetlands have water at or near the surface for significant periods and can store floodwater, support habitats and filter some pollutants.",
+        "Continents are major land masses and oceans are connected bodies of salt water. Africa contains varied relief and important inland waters, including Lakes Victoria, Tanganyika and Nyasa/Malawi. A location description should combine a named feature, its position and a relevant characteristic. Claims about flooding or water use need evidence such as river levels, rainfall records, field observations and mapped settlement, because one photograph cannot describe every season."
+      ],
+      "examples": [
+        "Site A: elevation 1,500 m, broad rolling surface; Site B: summit 1,450 m, steep sides rising 700 m above nearby land. A may be a plateau and B a mountain: relative relief and shape matter alongside absolute elevation.",
+        "A basin receives 100 units of rain. If 35 evaporate, 20 infiltrate into storage and 45 run off, the simplified balance is 100 = 35 + 20 + 45. Real basins also have changing stores and flows across boundaries.",
+        "River U joins River V before V enters a lake. U is a tributary, the meeting point is a confluence, and their combined catchment belongs to the drainage basin. A ridge between them and River W can form a watershed."
+      ],
+      "glossary": [
+        {
+          "term": "Relief",
+          "definition": "The height and shape of a land surface."
+        },
+        {
+          "term": "Drainage basin",
+          "definition": "Area drained by a river and its tributaries."
+        },
+        {
+          "term": "Watershed",
+          "definition": "Boundary dividing drainage basins."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Define relief.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Differences in height and shape of the land surface.",
+          "markingGuide": "Differences in height and shape of the land surface. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Distinguish a plateau from a plain.",
+          "type": "short",
+          "options": [],
+          "answerKey": "A plateau is elevated with extensive relatively level areas; a plain has gentle relief and may occur at various elevations.",
+          "markingGuide": "A plateau is elevated with extensive relatively level areas; a plain has gentle relief and may occur at various elevations. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What is a tributary?",
+          "type": "short",
+          "options": [],
+          "answerKey": "A stream joining a larger stream or river.",
+          "markingGuide": "A stream joining a larger stream or river. Award one mark for each distinct correct point or correctly explained step, up to 1 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "What is a confluence?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The meeting point of streams or rivers.",
+          "markingGuide": "The meeting point of streams or rivers. Award one mark for each distinct correct point or correctly explained step, up to 1 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Define drainage basin.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Area drained by one river system and its tributaries.",
+          "markingGuide": "Area drained by one river system and its tributaries. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why does water on opposite sides of a ridge sometimes enter different rivers?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The ridge can form a watershed, with slopes directing runoff into different basins.",
+          "markingGuide": "The ridge can form a watershed, with slopes directing runoff into different basins. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name two large East African lakes.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Any two of Victoria, Tanganyika and Nyasa/Malawi.",
+          "markingGuide": "Any two of Victoria, Tanganyika and Nyasa/Malawi. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two differences between lake and ocean water bodies.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Lakes occupy inland depressions; oceans form connected extensive saline water bodies. Lake salinity varies.",
+          "markingGuide": "Lakes occupy inland depressions; oceans form connected extensive saline water bodies. Lake salinity varies. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why may salts accumulate in a closed lake?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Incoming water brings dissolved minerals; evaporation removes water but leaves most salts; there is no river outlet to carry them away.",
+          "markingGuide": "Incoming water brings dissolved minerals; evaporation removes water but leaves most salts; there is no river outlet to carry them away. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two wetland benefits.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Floodwater storage and habitat provision; accept filtering some pollutants.",
+          "markingGuide": "Floodwater storage and habitat provision; accept filtering some pollutants. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Explain why high elevation does not automatically mean mountain.",
+          "type": "short",
+          "options": [],
+          "answerKey": "A high area may be a broad plateau; landform classification also uses relative relief and slope shape.",
+          "markingGuide": "A high area may be a broad plateau; landform classification also uses relative relief and slope shape. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name the four landscape processes listed in the chapter.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Weathering, erosion, transport and deposition.",
+          "markingGuide": "Weathering, erosion, transport and deposition. Award one mark for each distinct correct point or correctly explained step, up to 4 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "A basin has rainfall 80 units, evaporation 25 and increased storage 15. Find runoff in a simplified balance.",
+          "type": "short",
+          "options": [],
+          "answerKey": "80 − 25 − 15 = 40 units.",
+          "markingGuide": "80 − 25 − 15 = 40 units. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two records useful for investigating a flood.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Rainfall records and river-level records; accept mapped flood extent or dated observations.",
+          "markingGuide": "Rainfall records and river-level records; accept mapped flood extent or dated observations. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why should a lake photograph be dated?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Water level and surrounding vegetation change over seasons; the date helps place the evidence in time.",
+          "markingGuide": "Water level and surrounding vegetation change over seasons; the date helps place the evidence in time. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Draw and label an imaginary drainage basin containing two tributaries, a confluence, a lake and a watershed.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Show connected tributaries entering main stream; correct meeting point; lake on drainage route; watershed enclosing the basin; label all five features clearly.",
+          "markingGuide": "Show connected tributaries entering main stream; correct meeting point; lake on drainage route; watershed enclosing the basin; label all five features clearly. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Compare a nearby plain and hill using three observable criteria and explain one limitation of your evidence.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Compare slope, local height and surface form using observations; specify observation location or instrument; acknowledge limited coverage or uncertain heights.",
+          "markingGuide": "Compare slope, local height and surface form using observations; specify observation location or instrument; acknowledge limited coverage or uncertain heights. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Develop a flood investigation using rainfall, land cover and river data.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Identify a focused question; collect rainfall and river levels for matching dates; map land cover; compare changes; explain runoff mechanism; avoid claiming one factor proves causation.",
+          "markingGuide": "Identify a focused question; collect rainfall and river levels for matching dates; map land cover; compare changes; explain runoff mechanism; avoid claiming one factor proves causation. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "geography-f1-activity-03"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "geography-f1-expanded-vegetation-evidence",
+      "subjectId": "geography",
+      "form": 1,
+      "title": "Vegetation zones, adaptation and field evidence",
+      "language": "en",
+      "objectives": [
+        "Compare forest, savanna and arid vegetation.",
+        "Connect plant adaptations to environmental conditions.",
+        "Collect vegetation evidence responsibly."
+      ],
+      "paragraphs": [
+        "Natural vegetation is plant cover developing under local environmental conditions, although human activity modifies most inhabited landscapes. Vegetation zones describe broad patterns, not sharp boundaries. Temperature, rainfall amount and seasonality, soil, altitude, drainage, fire and grazing interact. Two places with similar annual rainfall may support different plants if one has a much longer dry season or poorly drained soil.",
+        "Humid tropical forest commonly has many broad-leaved trees and a layered canopy where moisture and warmth support growth. Dense upper foliage reduces light reaching the forest floor, favouring shade-tolerant plants. Savanna commonly combines grasses with scattered trees or shrubs and has a marked wet and dry season. Tree spacing varies with soils, water, fire and land use, so a single tree does not identify an entire vegetation zone.",
+        "Arid and semi-arid vegetation is often sparse and includes plants with features that reduce water loss or improve water access. Small leaves or thorns reduce exposed leaf area, thick cuticles limit water loss, succulent tissues store water and some roots spread widely or reach deeply. No single adaptation belongs to every dryland plant. Highland vegetation can change with altitude because temperature and moisture conditions change.",
+        "Vegetation investigation should link a claim to a measured observation. Use a small quadrat or a line transect, record the same categories at each site and note soil moisture, shade and signs of disturbance. Avoid damaging plants or entering unsafe areas. A table showing several samples is stronger than a selected photograph, but a small school survey cannot justify a claim about an entire region. Distinguish observed plant cover from your explanation of why it occurs."
+      ],
+      "examples": [
+        "Five equal quadrats have grass cover 40%, 50%, 60%, 30% and 70%. Mean cover = 250 ÷ 5 = 50%. The range is 70 − 30 = 40 percentage points, showing considerable local variation.",
+        "On a transect, shaded sites have fewer grasses and deeper leaf litter. A reasonable explanation is reduced light beneath trees. Soil moisture and trampling may also differ; measure these before attributing everything to shade.",
+        "A shrub has tiny leaves and a thick waxy surface. These features can reduce water loss. They support an adaptation hypothesis, but identifying its species or exact climate requires further evidence."
+      ],
+      "glossary": [
+        {
+          "term": "Quadrat",
+          "definition": "A frame defining a known sampling area."
+        },
+        {
+          "term": "Transect",
+          "definition": "A line along which observations are made systematically."
+        },
+        {
+          "term": "Adaptation",
+          "definition": "An inherited feature contributing to survival or reproduction in an environment."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Name three influences on vegetation.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Any three of rainfall, temperature, soils, altitude, drainage, fire and grazing.",
+          "markingGuide": "Any three of rainfall, temperature, soils, altitude, drainage, fire and grazing. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why does rainfall seasonality matter?",
+          "type": "short",
+          "options": [],
+          "answerKey": "A long dry season limits water availability even if annual rainfall totals are moderately high.",
+          "markingGuide": "A long dry season limits water availability even if annual rainfall totals are moderately high. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Describe two common tropical forest features.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Broad-leaved trees and layered canopy; accept dense upper foliage.",
+          "markingGuide": "Broad-leaved trees and layered canopy; accept dense upper foliage. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Describe savanna vegetation.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Grasses with scattered trees or shrubs, commonly with distinct wet and dry seasons.",
+          "markingGuide": "Grasses with scattered trees or shrubs, commonly with distinct wet and dry seasons. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "How can a small leaf help a dryland plant?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It reduces exposed leaf area and can reduce water loss.",
+          "markingGuide": "It reduces exposed leaf area and can reduce water loss. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What does succulent tissue do?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Stores water.",
+          "markingGuide": "Stores water. Award one mark for each distinct correct point or correctly explained step, up to 1 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two root patterns useful in dry conditions.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Wide shallow roots collect rainfall over a broad area; deep roots reach deeper water.",
+          "markingGuide": "Wide shallow roots collect rainfall over a broad area; deep roots reach deeper water. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What is a quadrat?",
+          "type": "short",
+          "options": [],
+          "answerKey": "A frame marking a known area for sampling.",
+          "markingGuide": "A frame marking a known area for sampling. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Define a transect.",
+          "type": "short",
+          "options": [],
+          "answerKey": "A line along which observations are made systematically.",
+          "markingGuide": "A line along which observations are made systematically. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Find mean cover for 20%, 40% and 60%.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "(20 + 40 + 60) ÷ 3 = 40%.",
+          "markingGuide": "(20 + 40 + 60) ÷ 3 = 40%. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Find range for 20%, 40% and 60%.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "60 − 20 = 40 percentage points.",
+          "markingGuide": "60 − 20 = 40 percentage points. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why use equal-sized quadrats?",
+          "type": "short",
+          "options": [],
+          "answerKey": "They make the sampled areas comparable.",
+          "markingGuide": "They make the sampled areas comparable. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why might grasses grow poorly beneath dense trees?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The canopy intercepts light; other factors such as water or disturbance may contribute.",
+          "markingGuide": "The canopy intercepts light; other factors such as water or disturbance may contribute. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two responsible field practices.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Avoid damaging plants and use safe accessible sampling sites; accept permission and careful equipment handling.",
+          "markingGuide": "Avoid damaging plants and use safe accessible sampling sites; accept permission and careful equipment handling. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Distinguish observation and inference using vegetation.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Observation: grass cover is 20%. Inference: shading may have reduced grass growth.",
+          "markingGuide": "Observation: grass cover is 20%. Inference: shading may have reduced grass growth. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Design a six-row vegetation sampling table with relevant environmental observations.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Include sample identifier, consistent area, plant cover or counts, shade, soil moisture and disturbance; provide six rows and units where relevant.",
+          "markingGuide": "Include sample identifier, consistent area, plant cover or counts, shade, soil moisture and disturbance; provide six rows and units where relevant. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Explain how you would test whether trampling affects grass cover without assuming the result.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Compare several similar trampled and less-trampled sites; use equal quadrats; record cover consistently; measure or control shade/moisture; compare summaries; acknowledge observational limits.",
+          "markingGuide": "Compare several similar trampled and less-trampled sites; use equal quadrats; record cover consistently; measure or control shade/moisture; compare summaries; acknowledge observational limits. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Write a balanced explanation of why forest, savanna and arid vegetation differ.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Link forest to sustained moisture and canopy; savanna to seasonal water and grass/tree mixture; arid plants to water shortage and adaptations; include soils or fire and avoid rigid boundaries.",
+          "markingGuide": "Link forest to sustained moisture and canopy; savanna to seasonal water and grass/tree mixture; arid plants to water shortage and adaptations; include soils or fire and avoid rigid boundaries. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "geography-f1-activity-03"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "geography-f2-expanded-contours-profiles",
+      "subjectId": "geography",
+      "form": 2,
+      "title": "Topographic maps: contours, slopes and route decisions",
+      "language": "en",
+      "objectives": [
+        "Read contour heights and slope patterns.",
+        "Calculate gradient and construct a simple profile.",
+        "Justify route choices with map evidence."
+      ],
+      "paragraphs": [
+        "A topographic map represents surface features with symbols, scale and relief information. Begin with the title, key, north arrow and scale, then read the contour interval before interpreting heights. A contour joins points at equal elevation above a reference level. Adjacent contours usually differ by a constant vertical interval; the space between them on paper shows horizontal distance, not another height measurement.",
+        "Closely spaced contours indicate a steep slope because a given height change occurs over a short horizontal distance. Widely spaced contours indicate gentler slopes. Concentric closed contours with increasing values inward commonly represent a hill. A valley usually makes contours bend upstream into a V; confirm the direction using height values and any river symbol. A closed contour alone does not prove a hill if heights or depression markings indicate otherwise.",
+        "Gradient compares vertical rise with horizontal distance measured in the same units. A 40 m rise over 800 m gives 40:800 = 1:20. This is different from the slope distance actually walked. To draw a profile, place a paper strip along a line, mark contour crossings and heights, transfer their horizontal positions to graph paper, then plot and connect heights. A steep-looking profile may result from vertical exaggeration, so label both scales.",
+        "Route selection combines relief with other mapped evidence. A short straight route can cross a steep slope, river or wet ground; a longer route may be safer or easier to build. A map cannot establish current bridge condition, path access or seasonal flooding by itself. Explain a proposed route by citing the contour spacing, crossings and distance, then identify what must be checked on the ground."
+      ],
+      "examples": [
+        "Contours labelled 100, 120, 140 and 160 m have a 20 m interval. A point exactly on the 140 m line is 140 m high. A point between 140 and 160 m is within that interval; do not report an exact height without further evidence.",
+        "A route rises from 200 to 260 m across 1.5 km horizontally. Rise = 60 m; run = 1,500 m; gradient = 60:1,500 = 1:25. Every 25 m horizontally corresponds to an average 1 m rise.",
+        "Profile table: distance from A (m): 0 | 100 | 200 | 300 | 400; height (m): 100 | 120 | 160 | 180 | 180. The steepest sampled section is 100–200 m, rising 40 m in 100 m. The final segment is level in this simplified sample."
+      ],
+      "glossary": [
+        {
+          "term": "Contour",
+          "definition": "Line joining points of equal elevation."
+        },
+        {
+          "term": "Contour interval",
+          "definition": "Vertical difference between adjacent contour values."
+        },
+        {
+          "term": "Gradient",
+          "definition": "Ratio of vertical change to horizontal distance."
+        }
+      ],
+      "questions": [
+        {
+          "content": "What does a contour connect?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Points of equal elevation above a stated reference level.",
+          "markingGuide": "Points of equal elevation above a stated reference level. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Find interval in 80, 100, 120 m contours.",
+          "type": "short",
+          "options": [],
+          "answerKey": "20 m.",
+          "markingGuide": "20 m. Award one mark for each distinct correct point or correctly explained step, up to 1 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "What do tightly packed contours indicate?",
+          "type": "short",
+          "options": [],
+          "answerKey": "A steep slope: substantial height change over short horizontal distance.",
+          "markingGuide": "A steep slope: substantial height change over short horizontal distance. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What do widely spaced contours indicate?",
+          "type": "short",
+          "options": [],
+          "answerKey": "A gentle slope.",
+          "markingGuide": "A gentle slope. Award one mark for each distinct correct point or correctly explained step, up to 1 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Explain concentric contours increasing inward.",
+          "type": "short",
+          "options": [],
+          "answerKey": "They generally indicate a hill with higher ground towards the centre.",
+          "markingGuide": "They generally indicate a hill with higher ground towards the centre. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Which direction does a contour V normally point in a river valley?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Upstream, towards higher ground.",
+          "markingGuide": "Upstream, towards higher ground. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why check contour labels as well as shape?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Labels establish which side is higher and help distinguish hills, valleys or depressions.",
+          "markingGuide": "Labels establish which side is higher and help distinguish hills, valleys or depressions. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A point lies between 200 and 220 m contours. Give a defensible height statement.",
+          "type": "short",
+          "options": [],
+          "answerKey": "It is between 200 and 220 m; its exact elevation is not established.",
+          "markingGuide": "It is between 200 and 220 m; its exact elevation is not established. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate gradient for 30 m rise in 600 m horizontal distance.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "30:600 = 1:20.",
+          "markingGuide": "30:600 = 1:20. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Convert 2 km to metres for a gradient calculation.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "2,000 m.",
+          "markingGuide": "2,000 m. Award one mark for each distinct correct point or correctly explained step, up to 1 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why must gradient units match?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The ratio must compare lengths in the same units to be meaningful.",
+          "markingGuide": "The ratio must compare lengths in the same units to be meaningful. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two steps in drawing a profile.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mark contour crossings and their heights along a line; transfer positions and plot heights on graph axes.",
+          "markingGuide": "Mark contour crossings and their heights along a line; transfer positions and plot heights on graph axes. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What is vertical exaggeration?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Using a larger vertical scale relative to the horizontal scale, making relief look steeper.",
+          "markingGuide": "Using a larger vertical scale relative to the horizontal scale, making relief look steeper. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two mapped factors relevant to a walking route.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Contour slope and river crossings; accept distance, wetlands or paths.",
+          "markingGuide": "Contour slope and river crossings; accept distance, wetlands or paths. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why verify a mapped bridge before a journey?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Its present condition or accessibility may have changed since mapping.",
+          "markingGuide": "Its present condition or accessibility may have changed since mapping. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Profile data: distance from A (m): 0 | 100 | 200 | 300 | 400; height (m): 100 | 120 | 160 | 180 | 180. Using the supplied profile data, draw a labelled profile and calculate the average gradient from 0 to 300 m.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Correct distance and height axes; five points placed; connecting profile; rise 80 m and run 300 m; gradient 80:300 = 1:3.75 approximately.",
+          "markingGuide": "Correct distance and height axes; five points placed; connecting profile; rise 80 m and run 300 m; gradient 80:300 = 1:3.75 approximately. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Compare route A, 1 km with 100 m rise, and route B, 1.5 km with 50 m rise. Recommend one for a heavy load and state a limitation.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "A gradient 1:10; B gradient 1:30; B gentler despite longer distance; reason linked to load; consider surface/crossings; current conditions need checking.",
+          "markingGuide": "A gradient 1:10; B gradient 1:30; B gentler despite longer distance; reason linked to load; consider surface/crossings; current conditions need checking. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Draw a schematic hill and river valley using labelled 20 m contours. Explain their differences.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Hill has closed contours increasing inward; valley has V bends pointing upstream; labels follow 20 m interval; river flows towards lower values; include key and north indicator.",
+          "markingGuide": "Hill has closed contours increasing inward; valley has V bends pointing upstream; labels follow 20 m interval; river flows towards lower values; include key and north indicator. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "geography-f2-activity-03",
+        "geography-f2-activity-04"
+      ],
+      "completionStatus": "expanded-chapter",
+      "diagram": "/diagrams/agent-geobusiness/contours.svg",
+      "diagramAlt": "Topographic maps: contours, slopes and route decisions — original labelled teaching diagram; explanatory values are illustrative."
+    },
+    {
+      "id": "geography-f2-expanded-statistical-maps",
+      "subjectId": "geography",
+      "form": 2,
+      "title": "Statistical maps, rates and honest comparisons",
+      "language": "en",
+      "objectives": [
+        "Choose maps suitable for counts, rates and movement.",
+        "Interpret a data table alongside a statistical map.",
+        "Recognise misleading map comparisons."
+      ],
+      "paragraphs": [
+        "Statistical maps show the spatial distribution of numerical information. A choropleth map shades defined areas according to a value or class; a dot map uses repeated dots to represent quantities; proportional symbols vary symbol size with quantity. Flow maps show movement using lines or arrows whose widths may represent volume. Every map needs a title, time period, key and source so readers know what is being compared.",
+        "For a choropleth map, a rate or density is often more useful than a raw total when areas differ in population or size. Population density equals population divided by land area. The average describes the whole mapped area and does not show each settlement. Shading an entire district with one class must not be interpreted as proof that every part has the same density.",
+        "Class intervals change the map’s visual pattern. Non-overlapping classes such as 0–49, 50–99 and 100–149 people per km² place each integer value in one class. Equal intervals are easy to compare, while other classifications may emphasise different patterns. A dot represents a stated quantity and an approximate distribution; it does not automatically identify a real household at the exact dot position.",
+        "Read the table before explaining the map. Check units, dates, missing values and whether geographical boundaries match. Correlation between two mapped variables can suggest a question but does not establish cause. A district with many shops might also have a large population; shops per thousand residents can answer a different question from total shops. Use both absolute totals and suitable rates when the decision requires them."
+      ],
+      "examples": [
+        "Teaching table: Area A: 12,000 people, 200 km², 24 shops; B: 9,000 people, 50 km², 27 shops; C: 20,000 people, 400 km², 20 shops. Densities are 60, 180 and 50 people/km² respectively. C has the largest population, while B has the greatest density.",
+        "Using the same table, shops per 1,000 people are A: 24/12,000 × 1,000 = 2; B: 3; C: 1. A total-shop map and a shop-rate map answer different questions.",
+        "If one dot represents 500 people, A needs 12,000 ÷ 500 = 24 dots. An exactly divisible teaching total is convenient; real data may require rounding that must be stated in the legend."
+      ],
+      "glossary": [
+        {
+          "term": "Choropleth",
+          "definition": "Map using area shading to display statistical classes."
+        },
+        {
+          "term": "Density",
+          "definition": "Quantity per unit area."
+        },
+        {
+          "term": "Proportional symbol",
+          "definition": "Symbol whose size varies according to a numerical value."
+        }
+      ],
+      "questions": [
+        {
+          "content": "What is a statistical map?",
+          "type": "short",
+          "options": [],
+          "answerKey": "A map showing the spatial distribution of numerical information.",
+          "markingGuide": "A map showing the spatial distribution of numerical information. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Define choropleth map.",
+          "type": "short",
+          "options": [],
+          "answerKey": "A map shading areas by statistical values or classes.",
+          "markingGuide": "A map shading areas by statistical values or classes. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What does a dot-map key specify?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The quantity represented by one dot.",
+          "markingGuide": "The quantity represented by one dot. Award one mark for each distinct correct point or correctly explained step, up to 1 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "What does a flow map show?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Movement between places; line direction and often width encode direction and volume.",
+          "markingGuide": "Movement between places; line direction and often width encode direction and volume. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "State population-density formula.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Population divided by land area.",
+          "markingGuide": "Population divided by land area. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Find density of 8,000 people over 40 km².",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "8,000 ÷ 40 = 200 people/km².",
+          "markingGuide": "8,000 ÷ 40 = 200 people/km². Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Teaching data: A—population 12,000, land area 200 km², 24 shops; B—population 9,000, land area 50 km², 27 shops; C—population 20,000, land area 400 km², 20 shops. Which example area has greatest population?",
+          "type": "short",
+          "options": [],
+          "answerKey": "C, with 20,000 people.",
+          "markingGuide": "C, with 20,000 people. Award one mark for each distinct correct point or correctly explained step, up to 1 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Teaching data: A—population 12,000, land area 200 km², 24 shops; B—population 9,000, land area 50 km², 27 shops; C—population 20,000, land area 400 km², 20 shops. Which example area has greatest density?",
+          "type": "short",
+          "options": [],
+          "answerKey": "B, with 180 people/km².",
+          "markingGuide": "B, with 180 people/km². Award one mark for each distinct correct point or correctly explained step, up to 1 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why not infer every place in B has density 180?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It is an area average and conceals local variation.",
+          "markingGuide": "It is an area average and conceals local variation. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate dots for 3,000 people if one dot means 250.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "3,000 ÷ 250 = 12 dots.",
+          "markingGuide": "3,000 ÷ 250 = 12 dots. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate shops per 1,000 for 15 shops and 5,000 people.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "15 ÷ 5,000 × 1,000 = 3.",
+          "markingGuide": "15 ÷ 5,000 × 1,000 = 3. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why should class intervals not overlap?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Each value should fit exactly one class without ambiguous assignment.",
+          "markingGuide": "Each value should fit exactly one class without ambiguous assignment. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two essential map annotations besides the key.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Any two of title, date, source and units.",
+          "markingGuide": "Any two of title, date, source and units. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Explain one danger of comparing maps from different years.",
+          "type": "short",
+          "options": [],
+          "answerKey": "An apparent geographical relationship may reflect changes over time rather than matching conditions.",
+          "markingGuide": "An apparent geographical relationship may reflect changes over time rather than matching conditions. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Does mapped correlation prove cause? Explain.",
+          "type": "short",
+          "options": [],
+          "answerKey": "No; another factor may influence both variables, and further evidence is required.",
+          "markingGuide": "No; another factor may influence both variables, and further evidence is required. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Teaching data: A—population 12,000, land area 200 km², 24 shops; B—population 9,000, land area 50 km², 27 shops; C—population 20,000, land area 400 km², 20 shops. Create a three-class density map legend and assign areas A, B and C from the teaching table.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Valid non-overlapping classes covering 50–180; units people/km²; A 60, B 180, C 50 correctly assigned; readable shading key.",
+          "markingGuide": "Valid non-overlapping classes covering 50–180; units people/km²; A 60, B 180, C 50 correctly assigned; readable shading key. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Choose a map for school transport movements and design its key.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Flow map; arrows show direction; widths or labelled lines show learner numbers; specify period; provide scale/key; avoid disclosing individual home locations.",
+          "markingGuide": "Flow map; arrows show direction; widths or labelled lines show learner numbers; specify period; provide scale/key; avoid disclosing individual home locations. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Teaching data: A—population 12,000, land area 200 km², 24 shops; B—population 9,000, land area 50 km², 27 shops; C—population 20,000, land area 400 km², 20 shops. A claim says C has the best shop access because it has most people. Evaluate using both totals and rates.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "C has 20 shops versus B 27 and A 24; rates C 1, A 2, B 3 per 1,000; population alone does not establish access; distance, affordability and shop type also matter.",
+          "markingGuide": "C has 20 shops versus B 27 and A 24; rates C 1, A 2, B 3 per 1,000; population alone does not establish access; distance, affordability and shop type also matter. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "geography-f2-activity-03",
+        "geography-f2-activity-04"
+      ],
+      "completionStatus": "expanded-chapter",
+      "diagram": "/diagrams/agent-geobusiness/statistical.svg",
+      "diagramAlt": "Statistical maps, rates and honest comparisons — original labelled teaching diagram; explanatory values are illustrative."
+    },
+    {
+      "id": "geography-f2-expanded-systems-photo-fieldwork",
+      "subjectId": "geography",
+      "form": 2,
+      "title": "Earth-system connections and photographic field investigation",
+      "language": "en",
+      "objectives": [
+        "Trace exchanges among Earth systems.",
+        "Use photographs as evidence with explicit limits.",
+        "Plan a safe repeatable field investigation."
+      ],
+      "paragraphs": [
+        "The crust is Earth’s thin outer rocky layer, generally about 5–70 km thick; oceanic crust is usually thinner than continental crust. The mantle extends down to roughly 2,900 km and is mainly solid rock that can flow very slowly over geological time. The core contains an outer liquid part and an inner solid part, composed largely of iron with other elements. Increasing pressure helps explain why the inner core remains solid despite high temperature.",
+        "The atmosphere contains gases surrounding Earth, the hydrosphere includes water in liquid, solid and gaseous forms, and the biosphere includes living organisms and their zones of life. These systems overlap rather than forming completely separate boxes. Soil contains minerals, water, air and organisms. A tree takes water from soil, exchanges gases with air and returns moisture through transpiration, connecting several systems.",
+        "A photograph records visible features from one position at one moment. Ground photographs can be divided into foreground, middle ground and background; oblique photographs look down at an angle, while vertical aerial photographs look approximately straight down. A title, date, location and viewing direction improve interpretation. Relative position in a photograph does not provide a uniform distance scale because perspective makes distant objects appear smaller.",
+        "Interpretation begins with observations: bare soil, tree cover, channel shape or visible buildings. Then propose explanations and identify evidence needed to test them. Muddy stream water after rain may be consistent with erosion, but a photograph cannot measure sediment concentration or prove its source. Repeat photographs from a fixed safe point, combine them with rainfall and stream observations, and protect people’s privacy. Never enter fast water or unstable slopes to obtain evidence."
+      ],
+      "examples": [
+        "Rain falls on a wooded slope: atmosphere to hydrosphere; some water infiltrates soil; roots absorb it; plants transpire moisture into air. Clearing trees may alter these flows, but the size of the change depends on soil, slope and land management.",
+        "Photo log table: image P1 | 10:00 | fixed bridge viewpoint | after rain | brown stream, bare bank. P2 | 10:00 two dry days later | same viewpoint | clearer stream. The pair shows visible change; measured turbidity and upstream observations would test the proposed sediment explanation.",
+        "A ground image shows a large tree in the foreground and small buildings behind. The image alone cannot establish that the tree is taller than the buildings: different distances affect apparent size. Use known dimensions or a measured map for reliable comparisons."
+      ],
+      "glossary": [
+        {
+          "term": "Biosphere",
+          "definition": "Living organisms and the parts of Earth they inhabit."
+        },
+        {
+          "term": "Transpiration",
+          "definition": "Loss of water vapour from plants, mainly through leaves."
+        },
+        {
+          "term": "Oblique photograph",
+          "definition": "Photograph taken looking at a downward angle."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Name Earth’s three main internal layers.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Crust, mantle and core.",
+          "markingGuide": "Crust, mantle and core. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give an approximate crust thickness range.",
+          "type": "short",
+          "options": [],
+          "answerKey": "About 5–70 km, varying between oceanic and continental settings.",
+          "markingGuide": "About 5–70 km, varying between oceanic and continental settings. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Is the entire mantle liquid? Explain.",
+          "type": "short",
+          "options": [],
+          "answerKey": "No; it is mainly solid rock that can deform and flow slowly over geological time.",
+          "markingGuide": "No; it is mainly solid rock that can deform and flow slowly over geological time. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Distinguish outer and inner core states.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Outer core is liquid; inner core is solid.",
+          "markingGuide": "Outer core is liquid; inner core is solid. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name the main material of the core.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Iron with other elements.",
+          "markingGuide": "Iron with other elements. Award one mark for each distinct correct point or correctly explained step, up to 1 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Define hydrosphere.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Earth’s water in liquid, solid and gaseous forms.",
+          "markingGuide": "Earth’s water in liquid, solid and gaseous forms. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give one atmosphere–biosphere exchange.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Plants take carbon dioxide from air or release oxygen; accept transpiration.",
+          "markingGuide": "Plants take carbon dioxide from air or release oxygen; accept transpiration. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why is soil a system meeting point?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It contains mineral material, water, air and living organisms.",
+          "markingGuide": "It contains mineral material, water, air and living organisms. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "What is transpiration?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Loss of water vapour from plants, mainly through leaves.",
+          "markingGuide": "Loss of water vapour from plants, mainly through leaves. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Distinguish vertical and oblique aerial photographs.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Vertical looks approximately straight down; oblique looks down at an angle.",
+          "markingGuide": "Vertical looks approximately straight down; oblique looks down at an angle. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name the three depth zones of a ground photograph.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Foreground, middle ground and background.",
+          "markingGuide": "Foreground, middle ground and background. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why cannot apparent object size give true height directly?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Perspective changes apparent size with distance.",
+          "markingGuide": "Perspective changes apparent size with distance. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two metadata items for a field photo.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Any two of date, time, location, viewing direction and image identifier.",
+          "markingGuide": "Any two of date, time, location, viewing direction and image identifier. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What extra evidence helps test a muddy-water explanation?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Rainfall records, turbidity measurement or upstream land observations.",
+          "markingGuide": "Rainfall records, turbidity measurement or upstream land observations. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "State two fieldwork precautions.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Stay out of fast water and avoid unstable slopes; accept safe viewpoints and privacy protection.",
+          "markingGuide": "Stay out of fast water and avoid unstable slopes; accept safe viewpoints and privacy protection. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Draw a system diagram linking rain, soil water, a plant and atmospheric moisture. Label four transfers.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Rainfall to soil; infiltration into soil; root uptake; transpiration to atmosphere; sensible arrows and water stores; distinguish store from flow.",
+          "markingGuide": "Rainfall to soil; infiltration into soil; root uptake; transpiration to atmosphere; sensible arrows and water stores; distinguish store from flow. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Plan repeat photographs for investigating bank erosion over one month.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Fixed safe viewpoint; repeated dates/times; same orientation; dated log; visible reference features; compare with rainfall and acknowledge perspective limits.",
+          "markingGuide": "Fixed safe viewpoint; repeated dates/times; same orientation; dated log; visible reference features; compare with rainfall and acknowledge perspective limits. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Write an interpretation separating three observations, two explanations and one uncertainty for a hypothetical bare riverbank photograph.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Three visible details such as exposed soil/channel/vegetation; two cautious explanations such as runoff or trampling; uncertainty about date, source or history; clearly separate evidence from inference.",
+          "markingGuide": "Three visible details such as exposed soil/channel/vegetation; two cautious explanations such as runoff or trampling; uncertainty about date, source or history; clearly separate evidence from inference. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "geography-f2-activity-01",
+        "geography-f2-activity-02",
+        "geography-f2-activity-05",
+        "geography-f2-activity-06"
+      ],
+      "completionStatus": "expanded-chapter",
+      "diagram": "/diagrams/agent-geobusiness/systems.svg",
+      "diagramAlt": "Earth-system connections and photographic field investigation — original labelled teaching diagram; explanatory values are illustrative."
+    },
+    {
+      "id": "business-f1-expanded-entrepreneurial-explanations",
+      "subjectId": "business",
+      "form": 1,
+      "title": "Entrepreneurship theories: innovation, opportunity and uncertainty",
+      "language": "en",
+      "objectives": [
+        "Compare explanations of entrepreneurial action.",
+        "Apply theories to a local business scenario.",
+        "Distinguish evidence from entrepreneurial assumptions."
+      ],
+      "paragraphs": [
+        "An entrepreneur organises resources to pursue an opportunity and accepts uncertainty about the result. Entrepreneurship is a process of identifying needs, developing an offer, arranging resources and learning from customers. Owning a business does not guarantee innovation or profit. A useful explanation identifies what a person does and why it creates value, rather than relying on a list of personality traits.",
+        "An innovation explanation emphasises new combinations: a new product, improved process, new market or different way of organising work. Innovation need not be a completely new invention. A food seller who introduces pre-orders to reduce waiting and waste changes the service process. The change becomes commercially useful only if customers value it and its benefits justify its costs.",
+        "An opportunity or alertness explanation emphasises noticing an unmet need, an overlooked resource or a mismatch between supply and demand. A learner may notice that nearby workers cannot buy affordable lunch during a short break. This observation suggests an opportunity, but demand must be tested. Interviews, small trials and observation of existing sellers provide stronger evidence than simply assuming every worker will buy.",
+        "An uncertainty explanation emphasises decisions whose outcomes cannot be known fully in advance. A trader may estimate demand but cannot know the exact number of buyers next month. Calculated risk involves gathering information, limiting potential loss and preparing alternatives; it does not mean ignoring danger. These explanations complement one another: one enterprise can notice a need, innovate in delivery and manage uncertainty at the same time."
+      ],
+      "examples": [
+        "A tailor introduces appointments by message and groups similar jobs. Innovation lies in the scheduling process; evidence of value would include reduced waiting, fewer missed deadlines and repeat orders. A new label alone would not demonstrate improved value.",
+        "A fruit seller observes unsold ripe fruit and interviews ten nearby workers. Six express interest in small fruit portions. A limited paid trial tests actual purchases; six interested interviewees do not prove that six people will buy every day.",
+        "Two production choices have different possible losses: making 100 units may leave 40 unsold, while a 20-unit trial limits initial exposure. The smaller trial sacrifices some potential sales but provides information before expansion."
+      ],
+      "glossary": [
+        {
+          "term": "Innovation",
+          "definition": "A useful new or improved product, process, market approach or organisation."
+        },
+        {
+          "term": "Opportunity",
+          "definition": "A potential way to meet a need and create value."
+        },
+        {
+          "term": "Uncertainty",
+          "definition": "A situation where future outcomes are not fully known."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Define entrepreneur.",
+          "type": "short",
+          "options": [],
+          "answerKey": "A person who organises resources to pursue an opportunity while accepting uncertainty.",
+          "markingGuide": "A person who organises resources to pursue an opportunity while accepting uncertainty. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name two entrepreneurial activities.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Identifying needs and organising resources; accept testing offers or learning from customers.",
+          "markingGuide": "Identifying needs and organising resources; accept testing offers or learning from customers. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Does owning a business guarantee profit?",
+          "type": "short",
+          "options": [],
+          "answerKey": "No; revenue may fail to cover costs.",
+          "markingGuide": "No; revenue may fail to cover costs. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What does the innovation explanation emphasise?",
+          "type": "short",
+          "options": [],
+          "answerKey": "New or improved combinations of products, processes, markets or organisation.",
+          "markingGuide": "New or improved combinations of products, processes, markets or organisation. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give an example of process innovation.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Pre-orders that reduce service waiting or another justified improved workflow.",
+          "markingGuide": "Pre-orders that reduce service waiting or another justified improved workflow. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Must innovation be a new invention? Explain.",
+          "type": "short",
+          "options": [],
+          "answerKey": "No; adapting or improving an existing service or process can create value.",
+          "markingGuide": "No; adapting or improving an existing service or process can create value. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What does opportunity alertness mean?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Noticing an unmet need or mismatch that others have overlooked.",
+          "markingGuide": "Noticing an unmet need or mismatch that others have overlooked. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why test an opportunity?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Initial beliefs about demand, price or costs may be wrong.",
+          "markingGuide": "Initial beliefs about demand, price or costs may be wrong. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What does the uncertainty explanation emphasise?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Decisions and resource commitments made without knowing future outcomes fully.",
+          "markingGuide": "Decisions and resource commitments made without knowing future outcomes fully. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Distinguish calculated risk from recklessness.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Calculated risk uses evidence and limits losses; recklessness ignores foreseeable consequences.",
+          "markingGuide": "Calculated risk uses evidence and limits losses; recklessness ignores foreseeable consequences. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two ways to reduce start-up uncertainty.",
+          "type": "short",
+          "options": [],
+          "answerKey": "A small trial and customer interviews; accept checking costs or preparing alternatives.",
+          "markingGuide": "A small trial and customer interviews; accept checking costs or preparing alternatives. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why is stated interest weaker than a paid order?",
+          "type": "short",
+          "options": [],
+          "answerKey": "People may express interest without being willing or able to buy at the actual price.",
+          "markingGuide": "People may express interest without being willing or able to buy at the actual price. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Identify a measure for successful appointment scheduling.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Reduced waiting time or fewer late orders, measured before and after.",
+          "markingGuide": "Reduced waiting time or fewer late orders, measured before and after. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Explain how the theories can overlap.",
+          "type": "short",
+          "options": [],
+          "answerKey": "One business can notice a need, introduce an improved solution and manage uncertain demand.",
+          "markingGuide": "One business can notice a need, introduce an improved solution and manage uncertain demand. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why is an entrepreneurial trait alone insufficient evidence of success?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Outcomes also depend on demand, resources, decisions and costs.",
+          "markingGuide": "Outcomes also depend on demand, resources, decisions and costs. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Analyse a refill-water-container enterprise through three entrepreneurship explanations.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Identify an unmet need; explain a useful product/process improvement; identify uncertain demand or costs; give a way to test each; avoid assuming profitability.",
+          "markingGuide": "Identify an unmet need; explain a useful product/process improvement; identify uncertain demand or costs; give a way to test each; avoid assuming profitability. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Design a small paid trial for a proposed product.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "State target customers, offer and price; limit quantity and cost; record purchases and feedback; set a decision rule for continuing or changing.",
+          "markingGuide": "State target customers, offer and price; limit quantity and cost; record purchases and feedback; set a decision rule for continuing or changing. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Evaluate the claim that entrepreneurs succeed only because they are brave.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Recognise willingness to act; explain evidence gathering, skill, resources and customer demand; distinguish courage from reckless exposure; support with an example.",
+          "markingGuide": "Recognise willingness to act; explain evidence gathering, skill, resources and customer demand; distinguish courage from reckless exposure; support with an example. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "business-f1-activity-02"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "business-f1-expanded-skills-negotiation",
+      "subjectId": "business",
+      "form": 1,
+      "title": "Enterprise skills: customer research, communication and negotiation",
+      "language": "en",
+      "objectives": [
+        "Collect usable customer evidence.",
+        "Communicate an offer clearly and ethically.",
+        "Negotiate while checking costs and promises."
+      ],
+      "paragraphs": [
+        "Enterprise skills are learned abilities used to turn an idea into dependable action. Communication, numeracy, planning, problem-solving and teamwork support one another. A seller who understands customer needs but cannot calculate costs may price badly; a skilled producer who misses deadlines may lose trust. Skills improve through practice, feedback and records rather than through confidence alone.",
+        "Customer research begins with a focused decision, such as choosing package size or delivery time. Ask neutral questions about existing behaviour: what people currently buy, how often, at what price and what problems occur. A leading question such as “Would you buy our excellent cheap product?” encourages favourable answers. Include people beyond friends and record refusals or negative responses, because selective evidence creates false confidence.",
+        "A clear offer states what is supplied, the quantity or quality, price, delivery timing and any conditions. Listening matters as much as speaking: repeat the customer’s requirement and check ambiguities before accepting an order. Keep a simple order record with agreed details. Protect customer contact information, avoid false claims and do not promise delivery that the available materials or time cannot support.",
+        "Negotiation seeks an agreement acceptable to both sides. Prepare by estimating costs, deciding a minimum acceptable outcome and considering alternatives. A lower unit price may be workable for a large order if production savings cover the discount, but extra packaging or transport can erase the benefit. Confirm the final quantity, total charge, deadline and payment arrangement in a clear record; disagreement often follows assumptions that were never checked."
+      ],
+      "examples": [
+        "Neutral survey question: “How many notebooks did you buy last month, and what size?” This gathers behaviour. “You want our better notebooks, don’t you?” is leading and gives weak evidence.",
+        "An order is 12 bags at 2,500 currency units each. Total = 12 × 2,500 = 30,000. Record bag size, collection date and whether payment is due at collection; the price calculation alone does not define the full agreement.",
+        "Unit cost is 1,600 and usual price is 2,000. A buyer requests 1,700 for 20 units. Contribution before other fixed costs is (1,700 − 1,600) × 20 = 2,000. An extra delivery cost of 2,500 would make that offer unattractive on these assumptions."
+      ],
+      "glossary": [
+        {
+          "term": "Leading question",
+          "definition": "A question phrased to encourage a particular answer."
+        },
+        {
+          "term": "Negotiation",
+          "definition": "Discussion to reach a mutually acceptable agreement."
+        },
+        {
+          "term": "Order record",
+          "definition": "Written record of agreed goods, quantities, prices and terms."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Name three enterprise skills.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Any three of communication, numeracy, planning, problem-solving and teamwork.",
+          "markingGuide": "Any three of communication, numeracy, planning, problem-solving and teamwork. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why is listening a business skill?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It helps clarify needs and prevents incorrect orders.",
+          "markingGuide": "It helps clarify needs and prevents incorrect orders. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give a neutral customer question.",
+          "type": "short",
+          "options": [],
+          "answerKey": "For example: What size do you usually buy and how often?",
+          "markingGuide": "For example: What size do you usually buy and how often? Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Explain why surveying only friends may mislead.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Friends may not represent target customers and may give overly favourable responses.",
+          "markingGuide": "Friends may not represent target customers and may give overly favourable responses. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What is a leading question?",
+          "type": "short",
+          "options": [],
+          "answerKey": "A question encouraging a preferred answer through its wording.",
+          "markingGuide": "A question encouraging a preferred answer through its wording. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name four details in a clear offer.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Product/service, quantity/quality, price and delivery timing; accept conditions.",
+          "markingGuide": "Product/service, quantity/quality, price and delivery timing; accept conditions. Award one mark for each distinct correct point or correctly explained step, up to 4 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate 8 items at 3,000 each.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "8 × 3,000 = 24,000 currency units.",
+          "markingGuide": "8 × 3,000 = 24,000 currency units. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why record negative feedback?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It identifies weaknesses and reduces selective interpretation of demand.",
+          "markingGuide": "It identifies weaknesses and reduces selective interpretation of demand. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Define negotiation.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Discussion aimed at reaching a mutually acceptable agreement.",
+          "markingGuide": "Discussion aimed at reaching a mutually acceptable agreement. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two preparations for negotiation.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Estimate costs and decide a minimum acceptable outcome; accept alternatives.",
+          "markingGuide": "Estimate costs and decide a minimum acceptable outcome; accept alternatives. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Unit cost 900, price 1,200: find contribution per unit.",
+          "type": "short",
+          "options": [],
+          "answerKey": "1,200 − 900 = 300 currency units before fixed costs.",
+          "markingGuide": "1,200 − 900 = 300 currency units before fixed costs. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why can a discount lose money despite more sales?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The lower margin and extra costs may exceed the benefit of additional volume.",
+          "markingGuide": "The lower margin and extra costs may exceed the benefit of additional volume. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What should be checked before promising a deadline?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Available materials, production capacity and other commitments.",
+          "markingGuide": "Available materials, production capacity and other commitments. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give one ethical use of customer information.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Keep contact details private and use them only for the agreed purpose.",
+          "markingGuide": "Keep contact details private and use them only for the agreed purpose. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why confirm an agreement in writing?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It preserves agreed terms and reduces misunderstandings.",
+          "markingGuide": "It preserves agreed terms and reduces misunderstandings. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Write five neutral research questions for a school stationery idea and explain sampling.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Ask about current items, frequency, spending, difficulties and preferred collection times; include varied potential customers rather than only friends.",
+          "markingGuide": "Ask about current items, frequency, spending, difficulties and preferred collection times; include varied potential customers rather than only friends. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Negotiate a 30-unit order: cost 800 each, offered price 1,000 each, delivery 1,500. Calculate contribution after delivery and draft an agreement.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Revenue 30,000; variable cost 24,000; delivery 1,500; remainder 4,500 before other costs; agreement states quantity, specification, price, delivery and payment.",
+          "markingGuide": "Revenue 30,000; variable cost 24,000; delivery 1,500; remainder 4,500 before other costs; agreement states quantity, specification, price, delivery and payment. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Create a response to a customer complaint about late delivery.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Acknowledge the actual issue; check order record; explain verified facts; offer a feasible remedy; agree revised timing; record follow-up without false promises.",
+          "markingGuide": "Acknowledge the actual issue; check order record; explain verified facts; offer a feasible remedy; agree revised timing; record follow-up without false promises. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "business-f1-activity-02"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "business-f1-expanded-sole-trader-launch",
+      "subjectId": "business",
+      "form": 1,
+      "title": "Sole-trader launch: feasibility, liability and a first-month plan",
+      "language": "en",
+      "objectives": [
+        "Assess whether a small sole-trader idea is feasible.",
+        "Explain ownership, control and personal exposure.",
+        "Prepare a practical launch plan and review criteria."
+      ],
+      "paragraphs": [
+        "A sole proprietorship has one owner who makes decisions and receives the business’s profit or bears its loss. The owner can employ other people; one owner does not mean one worker. Direct control and simple decision-making can help a small business respond quickly, while limited finance, workload and dependence on the owner can restrict growth. The business may struggle if the owner becomes unavailable.",
+        "Unlimited liability means the owner may be personally responsible for business debts; business losses are not automatically limited to the amount initially invested. Keep business and personal records separate to understand performance, even where ownership is not legally separate. Avoid treating sales receipts as money freely available for household use: stock replacement, unpaid bills and other obligations must be considered.",
+        "A feasibility check asks whether the enterprise can obtain customers, resources and enough income to cover its costs. List start-up assets separately from recurring expenses and stock. Confirm access to workspace, equipment, inputs and suitable skills. Check applicable requirements with reliable local authorities before opening; requirements differ by location and activity, so a textbook should not invent a universal permit rule.",
+        "A first-month plan should state the target customer, offer, starting quantity, price, spending limit and daily records. Assign dates to purchasing, production and customer testing. Set review criteria before launch, such as repeat purchases, delivery reliability and adequate cash for restocking. If results are weak, identify whether demand, price, quality or costs need adjustment rather than borrowing automatically to continue an untested idea."
+      ],
+      "examples": [
+        "Teaching start-up table: equipment 60,000; opening stock 40,000; packaging 10,000; reserve cash 20,000. Total required = 130,000 currency units. Equipment is a longer-use asset; opening stock is intended for sale; reserve remains cash until used.",
+        "An owner receives 50,000 in sales but owes 25,000 for stock and 10,000 for transport. Only looking at the cash received exaggerates available resources. Record obligations before deciding whether a withdrawal is affordable.",
+        "A one-week trial sells 16 of 20 planned items and delivers 14 on time. Sales completion = 16/20 = 80%; on-time rate among actual orders = 14/16 = 87.5%. Different denominators answer different questions."
+      ],
+      "glossary": [
+        {
+          "term": "Sole proprietorship",
+          "definition": "Business owned by one person."
+        },
+        {
+          "term": "Unlimited liability",
+          "definition": "Personal responsibility for business debts beyond the original investment may arise."
+        },
+        {
+          "term": "Feasibility",
+          "definition": "Practical likelihood that an idea can operate successfully with available resources."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Define sole proprietorship.",
+          "type": "short",
+          "options": [],
+          "answerKey": "A business owned by one person.",
+          "markingGuide": "A business owned by one person. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Can a sole trader employ workers?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Yes; sole ownership does not require a single worker.",
+          "markingGuide": "Yes; sole ownership does not require a single worker. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two advantages of sole ownership.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Direct control and quick decisions; accept owner receiving profits.",
+          "markingGuide": "Direct control and quick decisions; accept owner receiving profits. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two limitations.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Limited finance and workload; accept dependence on owner or personal liability.",
+          "markingGuide": "Limited finance and workload; accept dependence on owner or personal liability. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Explain unlimited liability.",
+          "type": "short",
+          "options": [],
+          "answerKey": "The owner may be personally responsible for business debts beyond the amount invested.",
+          "markingGuide": "The owner may be personally responsible for business debts beyond the amount invested. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why separate personal and business records?",
+          "type": "short",
+          "options": [],
+          "answerKey": "To identify business costs, withdrawals and performance clearly.",
+          "markingGuide": "To identify business costs, withdrawals and performance clearly. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Distinguish equipment and opening stock.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Equipment is used repeatedly; opening stock is held for sale or production.",
+          "markingGuide": "Equipment is used repeatedly; opening stock is held for sale or production. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate total of assets 40,000, stock 25,000 and reserve 15,000.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "80,000 currency units.",
+          "markingGuide": "80,000 currency units. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why include a cash reserve?",
+          "type": "short",
+          "options": [],
+          "answerKey": "To meet unexpected or timing-related cash needs.",
+          "markingGuide": "To meet unexpected or timing-related cash needs. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name three feasibility checks.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Demand, costs and resource availability; accept skills/workspace.",
+          "markingGuide": "Demand, costs and resource availability; accept skills/workspace. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why verify local start-up requirements?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Rules vary by place and activity and may change.",
+          "markingGuide": "Rules vary by place and activity and may change. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What is a customer target?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The group the enterprise intends to serve.",
+          "markingGuide": "The group the enterprise intends to serve. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why set review criteria before launch?",
+          "type": "short",
+          "options": [],
+          "answerKey": "To assess results against a clear standard rather than changing the standard after seeing results.",
+          "markingGuide": "To assess results against a clear standard rather than changing the standard after seeing results. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate sales completion for 18 of 24 planned units.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "18 ÷ 24 × 100 = 75%.",
+          "markingGuide": "18 ÷ 24 × 100 = 75%. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why are sales receipts not the same as profit?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Receipts do not deduct all relevant costs and may be needed for obligations.",
+          "markingGuide": "Receipts do not deduct all relevant costs and may be needed for obligations. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Prepare a first-month plan for a small repair service using six practical headings.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Include customer/problem, service/price, resources, spending limit, dated actions, records and review measures; six coherent elements earn full credit.",
+          "markingGuide": "Include customer/problem, service/price, resources, spending limit, dated actions, records and review measures; six coherent elements earn full credit. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "An owner has 90,000 cash, owes suppliers 45,000 and needs 30,000 replacement stock. Evaluate a 40,000 personal withdrawal.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "After obligations and replacement only 15,000 remains; 40,000 withdrawal creates a 25,000 shortfall; explain timing and need to check other expenses.",
+          "markingGuide": "After obligations and replacement only 15,000 remains; 40,000 withdrawal creates a 25,000 shortfall; explain timing and need to check other expenses. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Compare operating alone with employing a helper for a sole trader.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Ownership remains one person; helper adds capacity/skills; adds wages and supervision; consider demand and cash; identify owner dependence and liability.",
+          "markingGuide": "Ownership remains one person; helper adds capacity/skills; adds wages and supervision; consider demand and cash; identify owner dependence and liability. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "business-f1-activity-03"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "business-f2-expanded-finance-cooperatives",
+      "subjectId": "business",
+      "form": 2,
+      "title": "Financing decisions, microfinance and cooperative organisation",
+      "language": "en",
+      "objectives": [
+        "Compare sources of capital using cost, timing and obligations.",
+        "Explain how microfinance and cooperatives support enterprise.",
+        "Assess a finance proposal without recommending a provider."
+      ],
+      "paragraphs": [
+        "Capital for a small business may come from savings, loans, family or friends, and deferred payment to suppliers. Savings avoid contractual interest but reduce the owner’s reserve for other needs. A loan creates repayment obligations even when sales disappoint. Family funds may be a gift, loan or ownership contribution; clarify which arrangement is intended so expectations about repayment and decision-making are explicit.",
+        "Deferred payment allows goods to be obtained now and paid for later. It can help match payments with sales, but goods may cost more than under cash terms and a late payment can damage supplier trust. Compare the full amount payable, payment dates, penalties or fees if any, and the realistic cash available at those dates. A low advertised instalment does not establish the lowest total cost.",
+        "Microfinance refers broadly to relatively small-scale financial services for people or enterprises that may have limited access to conventional finance. Depending on the organisation, services can include savings, small loans or financial education. Group arrangements may use peer support or shared responsibility, which can create pressure as well as assistance. Read the actual terms and ask how missed payments affect the individual and group; no provider or product is automatically suitable.",
+        "A cooperative is an organisation formed by members to meet shared economic or social needs through joint activity and member participation. Members may pool savings, purchase inputs or market produce together. Joint action can improve bargaining power and spread service costs, but weak records, poor participation or misuse of funds can harm members. Sound operation requires transparent accounts, agreed rules, elected accountability and informed decisions; the exact legal structure and obligations must be verified locally."
+      ],
+      "examples": [
+        "Compare two hypothetical funding offers: A provides 100,000 with total scheduled repayment 112,000; B provides 100,000 with repayment 108,000 plus a compulsory non-refundable fee of 6,000. Total stated cost is A 12,000 and B 14,000. This comparison excludes unstated charges and does not evaluate timing or suitability.",
+        "A supplier charges 40,000 cash or 44,000 after one month for the same goods. Deferred payment adds 4,000, equal to 10% of the cash price for that period. This is not an annual rate calculation.",
+        "Ten cooperative members each contribute 8,000 to a shared input purchase. Pool = 80,000. If inputs cost 72,000 and transport 5,000, the balance is 3,000. Record contributions, invoices and the agreed treatment of the remaining balance."
+      ],
+      "glossary": [
+        {
+          "term": "Deferred payment",
+          "definition": "An arrangement to pay after receiving goods or services."
+        },
+        {
+          "term": "Microfinance",
+          "definition": "Small-scale financial services intended to improve access for underserved users."
+        },
+        {
+          "term": "Cooperative",
+          "definition": "Member organisation pursuing shared needs through joint activity and participation."
+        }
+      ],
+      "questions": [
+        {
+          "content": "List four capital sources discussed here.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Savings, loans, family/friends and deferred supplier payment.",
+          "markingGuide": "Savings, loans, family/friends and deferred supplier payment. Award one mark for each distinct correct point or correctly explained step, up to 4 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give one benefit and one limitation of savings.",
+          "type": "short",
+          "options": [],
+          "answerKey": "No contractual loan interest; reduces available personal reserves.",
+          "markingGuide": "No contractual loan interest; reduces available personal reserves. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why does a loan remain risky when demand falls?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Repayments may still be due even with low sales.",
+          "markingGuide": "Repayments may still be due even with low sales. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why clarify family funding terms?",
+          "type": "short",
+          "options": [],
+          "answerKey": "To distinguish gift, loan or ownership contribution and prevent disputes.",
+          "markingGuide": "To distinguish gift, loan or ownership contribution and prevent disputes. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Define deferred payment.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Receiving goods now and paying later.",
+          "markingGuide": "Receiving goods now and paying later. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What should be compared besides instalment size?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Total payable, dates and all applicable fees or penalties; accept cash availability.",
+          "markingGuide": "Total payable, dates and all applicable fees or penalties; accept cash availability. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate additional cost: cash 30,000, deferred 33,000.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "33,000 − 30,000 = 3,000 currency units.",
+          "markingGuide": "33,000 − 30,000 = 3,000 currency units. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Goods cost 30,000 currency units if paid now, or 33,000 if paid after one month. Express the additional 3,000 as a percentage of the cash price for this one-month period.",
+          "type": "short",
+          "options": [],
+          "answerKey": "3,000 ÷ 30,000 × 100 = 10%.",
+          "markingGuide": "3,000 ÷ 30,000 × 100 = 10%. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name two possible microfinance services.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Savings and small loans; accept financial education.",
+          "markingGuide": "Savings and small loans; accept financial education. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give one possible group-finance benefit and one difficulty.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Peer support or access; shared responsibility or social pressure.",
+          "markingGuide": "Peer support or access; shared responsibility or social pressure. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Define cooperative.",
+          "type": "short",
+          "options": [],
+          "answerKey": "A member organisation using joint activity and participation to meet shared needs.",
+          "markingGuide": "A member organisation using joint activity and participation to meet shared needs. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two cooperative activities.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Joint input purchase and joint marketing; accept savings services where applicable.",
+          "markingGuide": "Joint input purchase and joint marketing; accept savings services where applicable. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why are transparent records important?",
+          "type": "short",
+          "options": [],
+          "answerKey": "They show how member resources are used and support accountability.",
+          "markingGuide": "They show how member resources are used and support accountability. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eight members contribute 5,000 each. Find pooled amount.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "8 × 5,000 = 40,000 currency units.",
+          "markingGuide": "8 × 5,000 = 40,000 currency units. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why should a textbook avoid assuming identical finance terms for all organisations?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Actual products, obligations and local requirements vary.",
+          "markingGuide": "Actual products, obligations and local requirements vary. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Prepare a comparison table for savings, family loan and supplier credit for a stock purchase.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Include amount available, total cost, due dates, obligations, effect on reserve and risks; compare rather than recommending a named service.",
+          "markingGuide": "Include amount available, total cost, due dates, obligations, effect on reserve and risks; compare rather than recommending a named service. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "A loan provides 80,000; scheduled repayments total 92,000 and a non-refundable fee is 2,000. Find stated cost and identify three missing facts needed for a decision.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Total cost 14,000; total outflow 94,000; missing payment schedule, other fees/penalties and realistic cash forecast; accept collateral or responsibility terms.",
+          "markingGuide": "Total cost 14,000; total outflow 94,000; missing payment schedule, other fees/penalties and realistic cash forecast; accept collateral or responsibility terms. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Design controls for a member group pooling money for a shared machine.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Agreed written contributions and ownership/use rules; receipts; account records; authorised payments; member reporting; maintenance and dispute arrangements.",
+          "markingGuide": "Agreed written contributions and ownership/use rules; receipts; account records; authorised payments; member reporting; maintenance and dispute arrangements. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "business-f2-activity-02",
+        "business-f2-activity-03"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "business-f2-expanded-management-control",
+      "subjectId": "business",
+      "form": 2,
+      "title": "Managing cash, budgets, profit and corrective action",
+      "language": "en",
+      "objectives": [
+        "Distinguish profit from cash availability.",
+        "Prepare and interpret a cash budget.",
+        "Use records and management functions to correct problems."
+      ],
+      "paragraphs": [
+        "Management coordinates people and resources to achieve business objectives. Planning decides targets and actions; organising assigns work and resources; leading communicates and supports action; control compares actual results with plans and makes corrections. These functions interact: a missed delivery can reveal an unrealistic plan, unclear responsibility or a resource shortage. Blaming a worker without checking the system may leave the cause unresolved.",
+        "Records provide evidence for decisions. Keep dated source documents such as receipts and invoices, then record cash received, cash paid, sales, purchases, inventory and amounts owed where relevant. Credit sales create revenue and a customer debt but no immediate cash receipt. Buying equipment uses cash, yet its full cost is not necessarily treated as one period’s operating expense in a developed accounting system. State the simplifying assumptions used in classroom calculations.",
+        "For a simple trading period, gross profit equals sales revenue minus cost of goods sold. Operating profit in a simplified exercise subtracts other operating expenses. Cost of goods sold equals opening inventory plus purchases minus closing inventory, assuming the figures cover comparable goods and no other adjustments. Unsold stock is not automatically all charged as goods sold. Personal withdrawals are not an operating expense, although they reduce cash.",
+        "A cash budget estimates opening cash, expected receipts and expected payments for each period. Closing cash equals opening cash plus receipts minus payments. A profitable enterprise can face a cash shortage when customers pay late or money is tied up in inventory. Compare actual and budgeted figures, investigate the reason for variances, and take proportionate action such as improving collection, revising purchase timing or addressing waste. Cutting essential quality or safety to meet a budget can create larger losses."
+      ],
+      "examples": [
+        "Opening inventory 20,000 + purchases 70,000 − closing inventory 15,000 gives cost of goods sold 75,000. Sales 110,000 − 75,000 = gross profit 35,000. Other operating expenses 18,000 give simplified operating profit 17,000.",
+        "Cash budget table: opening cash 12,000; receipts 40,000; supplier payments 28,000; transport 6,000; owner withdrawal 5,000. Closing cash = 12,000 + 40,000 − 28,000 − 6,000 − 5,000 = 13,000. The withdrawal affects cash but is not an operating expense.",
+        "Budgeted material cost is 30,000 and actual cost 36,000. Variance is 6,000 over budget. Investigate price changes, extra output and wastage before concluding poor performance; extra output may explain part of the difference."
+      ],
+      "glossary": [
+        {
+          "term": "Cash budget",
+          "definition": "A forecast of cash receipts, payments and balances."
+        },
+        {
+          "term": "Gross profit",
+          "definition": "Sales revenue minus cost of goods sold."
+        },
+        {
+          "term": "Variance",
+          "definition": "Difference between a planned amount and an actual amount."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Name four management functions.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Planning, organising, leading and controlling.",
+          "markingGuide": "Planning, organising, leading and controlling. Award one mark for each distinct correct point or correctly explained step, up to 4 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "What is the purpose of control?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Compare actual performance with plans and take corrective action.",
+          "markingGuide": "Compare actual performance with plans and take corrective action. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two source documents.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Receipts and invoices.",
+          "markingGuide": "Receipts and invoices. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Does a credit sale immediately add cash?",
+          "type": "short",
+          "options": [],
+          "answerKey": "No; it creates an amount due until the customer pays.",
+          "markingGuide": "No; it creates an amount due until the customer pays. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "State gross-profit formula.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Sales revenue minus cost of goods sold.",
+          "markingGuide": "Sales revenue minus cost of goods sold. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate cost of goods sold: opening 10,000, purchases 50,000, closing 12,000.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "10,000 + 50,000 − 12,000 = 48,000.",
+          "markingGuide": "10,000 + 50,000 − 12,000 = 48,000. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Sales are 80,000 and goods sold cost 48,000. Find gross profit.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "80,000 − 48,000 = 32,000.",
+          "markingGuide": "80,000 − 48,000 = 32,000. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Gross profit 32,000 and other expenses 14,000: find simplified operating profit.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "18,000 currency units.",
+          "markingGuide": "18,000 currency units. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why are personal withdrawals not operating expenses?",
+          "type": "short",
+          "options": [],
+          "answerKey": "They transfer resources to the owner rather than pay costs of earning business revenue.",
+          "markingGuide": "They transfer resources to the owner rather than pay costs of earning business revenue. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "State closing-cash formula.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Opening cash + cash receipts − cash payments.",
+          "markingGuide": "Opening cash + cash receipts − cash payments. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Opening cash 5,000, receipts 25,000, payments 22,000: find closing cash.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "8,000 currency units.",
+          "markingGuide": "8,000 currency units. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two reasons profitable businesses may lack cash.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Late customer payments and cash tied in inventory; accept equipment purchases or withdrawals.",
+          "markingGuide": "Late customer payments and cash tied in inventory; accept equipment purchases or withdrawals. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Actual transport 9,000 versus budget 7,000: find variance.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "2,000 over budget.",
+          "markingGuide": "2,000 over budget. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why investigate a variance before judging performance?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Changes in prices, output or conditions may explain it rather than waste alone.",
+          "markingGuide": "Changes in prices, output or conditions may explain it rather than waste alone. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give one corrective action for repeated late customer payments.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Agree clearer payment dates and follow up unpaid invoices; accept justified credit limits.",
+          "markingGuide": "Agree clearer payment dates and follow up unpaid invoices; accept justified credit limits. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Prepare a two-period cash budget: period 1 opens at 10,000 with receipts 30,000 and payments 35,000; period 2 has receipts 25,000 and payments 32,000. Interpret.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Period 1 closing 5,000; carry to period 2 opening; period 2 closing −2,000; identify shortage; adjust timing or operations realistically; distinguish forecast from certainty.",
+          "markingGuide": "Period 1 closing 5,000; carry to period 2 opening; period 2 closing −2,000; identify shortage; adjust timing or operations realistically; distinguish forecast from certainty. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Compute gross and operating profit with opening stock 8,000, purchases 42,000, closing stock 10,000, sales 70,000 and expenses 18,000. Explain treatment of a 5,000 owner withdrawal.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Goods sold 40,000; gross profit 30,000; operating profit 12,000; withdrawal reduces cash and owner resources but is excluded from operating expenses.",
+          "markingGuide": "Goods sold 40,000; gross profit 30,000; operating profit 12,000; withdrawal reduces cash and owner resources but is excluded from operating expenses. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "A shop has rising sales, falling cash and late deliveries. Propose a management investigation using three records.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Check sales/receivables for unpaid credit, cash book for payments and inventory/order records for shortages; assign follow-up responsibilities; compare actual with plan; propose evidence-based corrective action.",
+          "markingGuide": "Check sales/receivables for unpaid credit, cash book for payments and inventory/order records for shortages; assign follow-up responsibilities; compare actual with plan; propose evidence-based corrective action. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "business-f2-activity-01",
+        "business-f2-activity-04"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "business-f2-expanded-inventory-enterprise",
+      "subjectId": "business",
+      "form": 2,
+      "title": "Warehousing, stock control and a practical enterprise project",
+      "language": "en",
+      "objectives": [
+        "Explain warehouse functions and inventory records.",
+        "Calculate stock balances and reorder needs.",
+        "Test a local enterprise using operational evidence."
+      ],
+      "paragraphs": [
+        "Warehousing is the organised storage and handling of goods until they are needed. It helps bridge time between production and consumption, protects stock and supports reliable supply. A warehouse may be a simple secure storeroom rather than a large specialised building. Suitable storage depends on the product: moisture, heat, pests, theft and contamination create different risks. Follow verified product-specific storage instructions where required.",
+        "Inventory includes goods for sale, raw materials and partly completed products where relevant. Stock control records receipts, issues and balances so the business knows what should be available. A stock card records one item consistently by unit, with date, reference, quantities received, quantities issued and balance. Physical counts test whether records match reality; differences can arise from errors, damage, spoilage or theft and should be investigated rather than silently altered.",
+        "Stock rotation reduces avoidable loss. First-in, first-out issues older receipts before newer ones; first-expiry, first-out prioritises goods with the earliest expiry date. The two methods can give different orders when a later delivery expires sooner. Keep aisles clear, stack safely, separate incompatible goods and mark damaged stock for assessment. A high stock balance is not always beneficial because it ties up cash and may increase deterioration.",
+        "A reorder decision considers average demand during supplier lead time plus a safety buffer. The calculation is only a planning aid: demand and delivery times can change. Apply these ideas in a small enterprise project by identifying a local need, surveying customers, budgeting a limited trial, recording stock and sales, and reviewing profit, cash and customer feedback. Use locally observed evidence rather than assuming an opportunity exists simply because a product is common elsewhere."
+      ],
+      "examples": [
+        "Stock-card table for exercise books: opening 50; receive 30 → balance 80; issue 45 → 35; receive 20 → 55; damaged 3 removed after authorisation → 52. Record damage separately from sales so revenue is not overstated.",
+        "Average demand is 8 units/day, lead time 4 days and safety stock 10 units. Simplified reorder point = 8 × 4 + 10 = 42 units. Review the assumptions if demand or lead time changes.",
+        "Batch A arrived first but expires in August; Batch B arrived later but expires in June. FIFO would issue A first by arrival; FEFO issues B first because June expiry is earlier. Inspect actual product condition as well as dates."
+      ],
+      "glossary": [
+        {
+          "term": "Inventory",
+          "definition": "Stocks of goods or materials held for business use or sale."
+        },
+        {
+          "term": "Lead time",
+          "definition": "Time between placing an order and receiving the goods."
+        },
+        {
+          "term": "Reorder point",
+          "definition": "Stock level that triggers replenishment under stated planning assumptions."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Define warehousing.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Organised storage and handling of goods until needed.",
+          "markingGuide": "Organised storage and handling of goods until needed. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give three warehouse functions.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Protection, storage and supporting reliable supply; accept handling or stock control.",
+          "markingGuide": "Protection, storage and supporting reliable supply; accept handling or stock control. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name three threats to stored goods.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Any three of moisture, heat, pests, theft and contamination.",
+          "markingGuide": "Any three of moisture, heat, pests, theft and contamination. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Define inventory.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Stocks of goods or materials held for sale or business use.",
+          "markingGuide": "Stocks of goods or materials held for sale or business use. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name four stock-card fields.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Date, reference, receipts, issues and balance; any four.",
+          "markingGuide": "Date, reference, receipts, issues and balance; any four. Award one mark for each distinct correct point or correctly explained step, up to 4 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Opening 40, receipts 25, issues 18: find balance.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "40 + 25 − 18 = 47 units.",
+          "markingGuide": "40 + 25 − 18 = 47 units. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why carry out physical stock counts?",
+          "type": "short",
+          "options": [],
+          "answerKey": "To compare actual quantities with recorded balances and investigate differences.",
+          "markingGuide": "To compare actual quantities with recorded balances and investigate differences. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two possible causes of stock differences.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Recording errors and damage; accept spoilage or theft.",
+          "markingGuide": "Recording errors and damage; accept spoilage or theft. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Explain FIFO.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Issue earlier-received stock before later receipts.",
+          "markingGuide": "Issue earlier-received stock before later receipts. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Explain FEFO.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Issue stock with the earliest expiry date first.",
+          "markingGuide": "Issue stock with the earliest expiry date first. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why can FIFO and FEFO differ?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Later deliveries may have earlier expiry dates.",
+          "markingGuide": "Later deliveries may have earlier expiry dates. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Define lead time.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Time between ordering and receiving goods.",
+          "markingGuide": "Time between ordering and receiving goods. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate reorder point for demand 5/day, lead time 6 days, safety stock 8.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "5 × 6 + 8 = 38 units.",
+          "markingGuide": "5 × 6 + 8 = 38 units. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why can excessive inventory harm a business?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It ties up cash and increases storage or deterioration risk.",
+          "markingGuide": "It ties up cash and increases storage or deterioration risk. Award one mark for each distinct correct point or correctly explained step, up to 2 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name three measures for reviewing an enterprise trial.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Profit, cash balance and customer feedback; accept stock loss, repeat purchases or delivery reliability.",
+          "markingGuide": "Profit, cash balance and customer feedback; accept stock loss, repeat purchases or delivery reliability. Award one mark for each distinct correct point or correctly explained step, up to 3 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Prepare a stock card: opening 70, purchase 40, sale 55, damage 4 and sale 20. Include transaction references and investigate a final count of 29.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Balances 110, 55, 51, 31; physical count 29 gives shortage 2; separate damage from sales; references and units clear; investigate records/counts before attributing theft.",
+          "markingGuide": "Balances 110, 55, 51, 31; physical count 29 gives shortage 2; separate damage from sales; references and units clear; investigate records/counts before attributing theft. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Design a safe storeroom layout for packaged stationery and cleaning products.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Separate incompatible stock; secure cleaning products; dry stationery storage; clear aisles; safe stacking; labelled locations and controlled access.",
+          "markingGuide": "Separate incompatible stock; secure cleaning products; dry stationery storage; clear aisles; safe stacking; labelled locations and controlled access. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Plan a one-week enterprise trial based on an observed local need, integrating purchasing, stock and cash records.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Document need and customer evidence; limited quantity/budget; supplier and lead time; stock card and cash record; price/cost comparison; end-week review using actual results and limitations.",
+          "markingGuide": "Document need and customer evidence; limited quantity/budget; supplier and lead time; stock card and cash record; price/cost comparison; end-week review using actual results and limitations. Award one mark for each distinct correct point or correctly explained step, up to 6 marks. Accept equivalent wording and valid alternatives.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "business-f2-activity-01",
+        "business-f2-activity-05",
+        "business-f2-activity-06"
+      ],
+      "completionStatus": "expanded-chapter"
+    }
+  ]
+}

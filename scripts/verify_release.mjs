@@ -34,3 +34,8 @@ for (const p of data.papers.filter(p => p.sourceType === 'original' && p.publica
     if (!manifest.assets.some(a => a.url === path)) throw Error('Unbundled revision paper: ' + path);
   }
 }
+for (const d of data.sourceDocuments || []) {
+  for (const path of [d.sourcePdf,...d.pageImages,...(d.answerGuide?[d.answerGuide.sourcePdf,...d.answerGuide.pageImages]:[])]) {
+    if (!manifest.assets.some(a=>a.url===path)) throw Error('Unbundled complete paper asset: '+path);
+  }
+}

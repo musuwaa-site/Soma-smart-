@@ -1,4 +1,4 @@
-import json,pathlib,math,re
+import json,pathlib,math,re,hashlib
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 CLEAR={'cleared','public-domain','open-license'}
 def validate(d):
@@ -27,6 +27,22 @@ def validate(d):
    path=ROOT/'public'/media['path'].lstrip('/')
    if not path.is_file():errors.append(f'{q["id"]}: missing media {path}')
   if q.get('parentQuestionId') and q['parentQuestionId'] not in {x['id'] for x in d['questions']}:errors.append(f'{q["id"]}: orphan group')
+ for document in d.get('sourceDocuments',[]):
+  if document.get('publicationStatus')!='published':continue
+  path=ROOT/'public'/document.get('sourcePdf','').lstrip('/')
+  if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest()!=document.get('sha256'):errors.append(f'{document.get("id")}: missing or changed source PDF')
+  if document.get('rightsStatus') not in CLEAR or not document.get('rightsEvidence'):errors.append(f'{document.get("id")}: missing owner permission record')
+  pages=document.get('pageImages',[])
+  if not pages or len(pages)!=document.get('pageCount'):errors.append(f'{document.get("id")}: incomplete source pages')
+  for page in pages:
+   if not (ROOT/'public'/page.lstrip('/')).is_file():errors.append(f'{document.get("id")}: missing source page')
+  if document.get('answerGuide'):
+   guide=document['answerGuide'];gp=ROOT/'public'/guide['sourcePdf'].lstrip('/')
+   if not gp.is_file() or hashlib.sha256(gp.read_bytes()).hexdigest()!=guide['sha256']:errors.append(f'{document["id"]}: missing or changed answer guide')
+   if len(guide.get('pageImages',[]))!=guide.get('pageCount'):errors.append(f'{document["id"]}: incomplete answer guide pages')
+   for page in guide.get('pageImages',[]):
+    if not (ROOT/'public'/page.lstrip('/')).is_file():errors.append(f'{document["id"]}: missing guide page')
+
  for paper in d['papers']:
   if paper.get('publicationStatus')!='published':continue
   items=[next((q for q in d['questions'] if q['id']==id),None) for id in paper.get('questionIds',[])]

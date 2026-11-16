@@ -12,3 +12,5 @@ acquisition/curriculum-review.json
 public/books/
 
 public/exams/
+
+artifacts/*.zip

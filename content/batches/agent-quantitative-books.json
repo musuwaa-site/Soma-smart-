@@ -1,0 +1,2521 @@
+{
+  "chapters": [
+    {
+      "id": "mathematics-f1-graph-model-laboratory",
+      "subjectId": "mathematics",
+      "form": 1,
+      "title": "Mathematical models and graphing software",
+      "language": "en",
+      "objectives": [
+        "Translate a practical rule into a linear model",
+        "Use a spreadsheet or graphing tool to compare two models",
+        "Check a graphical solution against algebra and context"
+      ],
+      "paragraphs": [
+        "A mathematical model selects quantities and states assumptions. For a delivery charge, let x be distance in kilometres and C be cost in shillings. A fixed starting charge plus a constant charge per kilometre gives C=ax+b. The intercept b describes the starting charge; a has units shillings per kilometre. State whether fractional distances are allowed and whether the rule applies beyond the advertised area.",
+        "A spreadsheet can generate a table from a model. Put x values in column A and, for C=600x+1500, enter =600*A2+1500 in B2 if the first distance is in A2. Copy the formula down so each row refers to its own distance. Use an XY scatter chart because both coordinates are numerical. Label both axes with units; a category chart can conceal unequal distance intervals.",
+        "To compare two charges, calculate both costs for the same x values. An intersection represents equal costs. A display window can hide an intersection or make nearby lines appear identical. Zoom sensibly, inspect numerical coordinates and substitute the proposed point into both original rules. Software gives evidence; an algebraic equality gives an exact solution for linear rules.",
+        "A model is useful only within its assumptions. A negative distance solution has no meaning for a delivery journey. A bus count must be a whole number even if a graph allows fractions. Rounding can alter a comparison near an intersection, so retain exact values until the final decision. Record the formulas, units and allowed range so someone else can reproduce the investigation."
+      ],
+      "examples": [
+        "A bicycle courier charges C=400x+1200. At x=3.5 km, C=400×3.5+1200=2600 shillings. The rate is 400 shillings/km and the fixed charge is 1200 shillings.",
+        "Compare A=300x+1800 with B=500x+1000. Equal costs give 300x+1800=500x+1000, hence 800=200x and x=4 km. Both cost 3000 shillings. At 2 km A costs 2400 and B 2000, so B is cheaper below 4 km within the model.",
+        "A spreadsheet uses distances 0, 2, 5 km. For y=2x+1 the outputs are 1, 5, 11. An XY scatter chart plots (0,1), (2,5), (5,11) with unequal horizontal gaps; the gradient is (11−1)/(5−0)=2."
+      ],
+      "glossary": [
+        {
+          "term": "model",
+          "definition": "A mathematical description based on stated assumptions."
+        },
+        {
+          "term": "XY scatter chart",
+          "definition": "A chart that positions each point by two numerical coordinates."
+        },
+        {
+          "term": "domain",
+          "definition": "The allowed input values of a rule."
+        }
+      ],
+      "questions": [
+        {
+          "content": "A hire model is C=800+250h. Name the fixed charge and rate, with units.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Fixed charge 800 shillings; rate 250 shillings per hour.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Fixed charge 800 shillings; rate 250 shillings per hour. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Use C=800+250h to find the charge for 6 hours.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "C=800+250×6=2300 shillings.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: C=800+250×6=2300 shillings. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A sheet has distance in A2. Write a formula for cost 700+90x.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "=700+90*A2; multiplication uses the value in A2.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: =700+90*A2; multiplication uses the value in A2. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why should distances 0, 1, 5 be plotted in an XY chart?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "The numerical axis preserves horizontal gaps of 1 and 4; equal category spacing would distort distance.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The numerical axis preserves horizontal gaps of 1 and 4; equal category spacing would distort distance. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Compare y=4x+2 and y=2x+10. Find their intersection.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "4x+2=2x+10 gives x=4; y=18; intersection (4,18).",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 4x+2=2x+10 gives x=4; y=18; intersection (4,18). Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Check whether (3,14) lies on both y=4x+2 and y=2x+10.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "First gives 14; second gives 16; it lies only on the first.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: First gives 14; second gives 16; it lies only on the first. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "A screen shows no intersection. Give two checks before claiming parallel lines.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Expand or move the viewing window; compare gradients or solve the equality algebraically.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Expand or move the viewing window; compare gradients or solve the equality algebraically. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Write the equation for a fee of 2000 shillings plus 350 shillings per kilometre.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "C=2000+350x, where x is distance in km and C is shillings.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: C=2000+350x, where x is distance in km and C is shillings. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Find a table for y=3x−2 at x=0, 2, 4.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Substitution gives y=−2, 4, 10, respectively.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Substitution gives y=−2, 4, 10, respectively. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Find the gradient through (1,7) and (4,16).",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "m=(16−7)/(4−1)=9/3=3.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: m=(16−7)/(4−1)=9/3=3. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why is a model solution x=−2 km rejected for journey distance?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Distance travelled cannot be negative; −2 is outside the model domain.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Distance travelled cannot be negative; −2 is outside the model domain. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Two fees are A=1000+200x and B=1600+100x. Which is cheaper at 8 km?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "A=2600; B=2400 shillings; B is cheaper by 200 shillings.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: A=2600; B=2400 shillings; B is cheaper by 200 shillings. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Explain what a zero intercept means in a cost model.",
+          "type": "short",
+          "options": [],
+          "answerKey": "The rule predicts zero cost for zero usage; there is no fixed charge in the model.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The rule predicts zero cost for zero usage; there is no fixed charge in the model. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A copied spreadsheet formula still uses A2 in every row. What should be checked?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Check for an absolute reference such as $A$2; use a relative reference so each copied row uses its own input.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Check for an absolute reference such as $A$2; use a relative reference so each copied row uses its own input. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why keep exact intersection values before rounding?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Early rounding may move the equality point and reverse a near-boundary cost comparison.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Early rounding may move the equality point and reverse a near-boundary cost comparison. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "A water tank starts with 120 L and gains 8 L/min. Build a model, calculate three points, and state the valid time range if capacity is 280 L.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "V=120+8t; for t=0,10,20 minutes volumes are 120,200,280 L; valid filling interval 0≤t≤20 assuming no loss and constant flow.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: V=120+8t; for t=0,10,20 minutes volumes are 120,200,280 L; valid filling interval 0≤t≤20 assuming no loss and constant flow. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Design a reproducible spreadsheet comparison of A=120x+900 and B=180x+300, including exact break-even.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Use shared x column and two formula columns; XY chart with labelled units; solve 60x=600 so x=10; both costs 2100. State x≥0 and check substitution.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Use shared x column and two formula columns; XY chart with labelled units; solve 60x=600 so x=10; both costs 2100. State x≥0 and check substitution. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "A graph claims (2,9) solves y=2x+5 and y=5x−1. Verify and explain how a graph could mislead.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Both formulas give 9 at x=2, so the claim is correct; coarse scales or a poor window can make coordinates hard to read, hence substitution is necessary.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Both formulas give 9 at x=2, so the claim is correct; coarse scales or a poor window can make coordinates hard to read, hence substitution is necessary. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "mathematics-f1-activity-14",
+        "mathematics-f1-activity-17",
+        "mathematics-f1-activity-19",
+        "mathematics-f1-activity-20",
+        "mathematics-f1-activity-21"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "mathematics-f2-rates-variation",
+      "subjectId": "mathematics",
+      "form": 2,
+      "title": "Rates, direct and inverse variation",
+      "language": "en",
+      "objectives": [
+        "Distinguish a rate from a ratio",
+        "Find constants of direct and inverse variation",
+        "Test a model before using it for prediction"
+      ],
+      "paragraphs": [
+        "A rate compares quantities with different units, such as litres per minute or shillings per kilogram. Divide the amount by the corresponding number of units. Conversion must preserve the same physical quantity: 72 km/h is 72000 m in 3600 s, or 20 m/s. A unit rate makes fair comparisons possible when packages or journey times differ.",
+        "Direct variation means y=kx for a constant k. The ratio y/x is constant for nonzero x, and its graph is a straight line through the origin. Doubling x doubles y. A straight line with a nonzero intercept is a linear relationship but is not direct variation; a fixed service fee is one reason a cost does not vary directly with usage.",
+        "Inverse variation means y=k/x, so xy=k for nonzero x. Doubling x halves y. For a fixed job, the time may vary inversely with the number of equally productive workers, provided they can work independently without delays. Real teams may not satisfy these assumptions. The graph is a curve, and x=0 is excluded.",
+        "Variation can also involve powers or two inputs: y=kx² or y=kx/z. Determine k using one complete set of data, then retain it when substituting new inputs. Check units and whether a prediction is sensible. Two isolated measurements that look proportional do not prove a universal physical law; further measurements should test the proposed model."
+      ],
+      "examples": [
+        "A tap fills 42 L in 3 minutes at a steady rate. Rate=42/3=14 L/min. In 8 minutes it fills 14×8=112 L, assuming the flow remains steady.",
+        "If y varies directly as x and y=35 when x=5, k=35/5=7. Thus y=7x; when x=12, y=84. The ratio stays 7.",
+        "Six equally productive workers finish a fixed task in 10 days. Under an inverse model nt=60 worker-days. With 15 workers, t=60/15=4 days; the prediction assumes no interference or change in hours."
+      ],
+      "glossary": [
+        {
+          "term": "direct variation",
+          "definition": "A relationship y=kx with constant ratio y/x."
+        },
+        {
+          "term": "inverse variation",
+          "definition": "A relationship y=k/x with constant product xy."
+        },
+        {
+          "term": "constant of variation",
+          "definition": "The fixed multiplier k in a variation model."
+        }
+      ],
+      "questions": [
+        {
+          "content": "A bicycle travels 54 km in 3 h. Find its average speed.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "54/3=18 km/h.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 54/3=18 km/h. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Convert 90 km/h to m/s.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "90×1000/3600=25 m/s.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 90×1000/3600=25 m/s. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "If y=8x, find y when x=7.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "y=8×7=56.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: y=8×7=56. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "If y varies directly with x and y=45 at x=9, find k.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "k=y/x=45/9=5.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: k=y/x=45/9=5. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "For y=5x, find x when y=65.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "x=65/5=13.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: x=65/5=13. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Does C=200+30m represent direct variation? Explain.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "No; C/m is not constant and C=200 at m=0, so the graph does not pass through the origin.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: No; C/m is not constant and C=200 at m=0, so the graph does not pass through the origin. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Given inverse variation and x=4,y=18, find k.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "k=xy=4×18=72.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: k=xy=4×18=72. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "For xy=72, find y at x=12.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "y=72/12=6.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: y=72/12=6. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eight identical pumps drain a tank in 6 h. Predict the time for 12 pumps.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Fixed work gives nt=48 pump-hours; t=48/12=4 h, assuming equal steady rates.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Fixed work gives nt=48 pump-hours; t=48/12=4 h, assuming equal steady rates. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "What happens to y=k/x when x is tripled?",
+          "type": "short",
+          "options": [],
+          "answerKey": "y becomes one third of its original value, since k/(3x)=(k/x)/3.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: y becomes one third of its original value, since k/(3x)=(k/x)/3. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "If y=kx² and y=48 when x=4, find y at x=5.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "k=48/16=3; y=3×25=75.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: k=48/16=3; y=3×25=75. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "If y=kx/z and y=12,x=6,z=2, find k.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "k=yz/x=12×2/6=4.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: k=yz/x=12×2/6=4. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Which data fit direct variation: (2,6),(4,12),(5,15)?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "All fit; each y/x=3, so y=3x.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: All fit; each y/x=3, so y=3x. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Which data fit inverse variation: (2,20),(4,10),(8,5)?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "All fit; each xy=40, so y=40/x.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: All fit; each xy=40, so y=40/x. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A 750 g packet costs 3000 shillings. Find the price per kilogram.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "750 g=0.75 kg; 3000/0.75=4000 shillings/kg.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 750 g=0.75 kg; 3000/0.75=4000 shillings/kg. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "A printer produces 84 pages in 7 min. Predict output in 15 min and explain one limitation.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Rate=84/7=12 pages/min; prediction 180 pages; assumes no pauses, paper changes or speed changes.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Rate=84/7=12 pages/min; prediction 180 pages; assumes no pauses, paper changes or speed changes. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "A fixed food stock feeds 18 people for 20 days. Model and predict the duration for 24 people.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "nd=18×20=360 person-days; d=360/n; at n=24 duration is 15 days, assuming equal daily consumption and no waste.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: nd=18×20=360 person-days; d=360/n; at n=24 duration is 15 days, assuming equal daily consumption and no waste. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "A learner says any decreasing relationship is inverse variation. Test the data (1,9),(2,8),(3,7).",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Products are 9,16,21 so not constant; the values decrease but follow y=10−x, not y=k/x.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Products are 9,16,21 so not constant; the values decrease but follow y=10−x, not y=k/x. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "mathematics-f2-activity-01",
+        "mathematics-f2-activity-02"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "mathematics-f2-similarity-scale",
+      "subjectId": "mathematics",
+      "form": 2,
+      "title": "Similarity and scale factors",
+      "language": "en",
+      "objectives": [
+        "Match corresponding sides and angles",
+        "Use length, area and volume scale factors",
+        "Measure inaccessible lengths with explicit assumptions"
+      ],
+      "paragraphs": [
+        "Similar shapes have the same shape: corresponding angles are equal and corresponding lengths are in a constant ratio. Name corresponding vertices in the same order. If triangle ABC is similar to triangle DEF, AB corresponds to DE, BC to EF, and AC to DF. A scale factor from the first shape to the second is a second-shape length divided by its corresponding first-shape length.",
+        "Triangles can be shown similar by two equal corresponding angles (AA), three proportional corresponding sides (SSS similarity), or two proportional sides with equal included angle (SAS similarity). A visual resemblance is not proof. Parallel lines often create equal corresponding or alternate angles, allowing a similarity argument before any length calculation.",
+        "If lengths scale by k, areas scale by k² and volumes of similar solids scale by k³. These are different multipliers. A drawing twice as wide and twice as high covers four times the area. Units remain essential: a map scale 1:25000 compares lengths in the same units, so 1 cm represents 25000 cm, or 250 m.",
+        "Shadow measurements can estimate height using similar right triangles when objects stand vertically on level ground and sunlight reaches both at the same angle at the same time. Divide height by shadow length for the reference object and apply the same ratio. Uneven ground, leaning objects and measurements taken at different times weaken the model. Never enter roads or climb structures to measure them."
+      ],
+      "examples": [
+        "Triangle sides 3,4,5 cm correspond to 9,12,15 cm. Each ratio is 3, so the triangles are similar with scale factor 3. Their area ratio is 3²=9.",
+        "A 1.5 m vertical pole casts a 2 m shadow while a tree casts an 8 m shadow on level ground. h/8=1.5/2, so h=6 m under the shared-angle assumption.",
+        "On a 1:40000 map a path measures 3.2 cm. Actual length=3.2×40000=128000 cm=1280 m=1.28 km."
+      ],
+      "glossary": [
+        {
+          "term": "corresponding sides",
+          "definition": "Sides that occupy matching positions in similar figures."
+        },
+        {
+          "term": "scale factor",
+          "definition": "The ratio of an image length to the corresponding original length."
+        },
+        {
+          "term": "AA similarity",
+          "definition": "A triangle similarity test using two equal corresponding angles."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Corresponding lengths are 5 cm and 15 cm. Find the scale factor from first to second.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "k=15/5=3.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: k=15/5=3. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A side of 7 cm is enlarged by factor 4. Find its image length.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "7×4=28 cm.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 7×4=28 cm. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "An image length is 18 cm after enlargement by 3. Find the original.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "18/3=6 cm.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 18/3=6 cm. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Triangles have angles 40°,60°,80° and 60°,80°,40°. Are they similar?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Yes; matching angles agree, so AA establishes similarity.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Yes; matching angles agree, so AA establishes similarity. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "If ABC is similar to PQR, which side corresponds to AC?",
+          "type": "short",
+          "options": [],
+          "answerKey": "PR, because A corresponds to P and C to R.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: PR, because A corresponds to P and C to R. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Are side sets 2,3,4 and 6,9,12 similar?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Yes; all corresponding ratios equal 3, so SSS similarity applies.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Yes; all corresponding ratios equal 3, so SSS similarity applies. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Are side sets 3,4,5 and 6,8,11 similar?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "No; ratios 2,2,2.2 are not equal.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: No; ratios 2,2,2.2 are not equal. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "A scale factor is 5. What is the area multiplier?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "5²=25.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 5²=25. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Similar solids have length ratio 2:3. Find their volume ratio.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "2³:3³=8:27.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 2³:3³=8:27. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Similar shapes have area ratio 9:16. Find the positive length ratio.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "√9:√16=3:4.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: √9:√16=3:4. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "At scale 1:5000, what actual distance does 6 cm represent?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "30000 cm=300 m.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 30000 cm=300 m. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "A 2 m pole casts a 3 m shadow; a tower shadow is 18 m. Estimate height.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "h/18=2/3, so h=12 m, assuming level ground and simultaneous shadows.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: h/18=2/3, so h=12 m, assuming level ground and simultaneous shadows. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why must a shadow investigation use simultaneous measurements?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The Sun's direction changes with time; different angles invalidate the common triangle ratio.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The Sun's direction changes with time; different angles invalidate the common triangle ratio. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Two triangles have proportional sides 4/6=6/9 and included angles both 50°. State the test.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "SAS similarity: two corresponding side ratios agree and included angles match.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: SAS similarity: two corresponding side ratios agree and included angles match. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Does similarity guarantee equal size?",
+          "type": "short",
+          "options": [],
+          "answerKey": "No; similarity preserves shape, while size may differ by a scale factor.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: No; similarity preserves shape, while size may differ by a scale factor. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "A triangular sign with sides 12,16,20 cm is copied with longest side 35 cm. Find the other sides and area multiplier.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "k=35/20=1.75; sides 21 and 28 cm; area multiplier 1.75²=3.0625.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: k=35/20=1.75; sides 21 and 28 cm; area multiplier 1.75²=3.0625. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "A model tank is 10 cm high and holds 0.4 L. A similar tank is 30 cm high. Predict capacity.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "k=30/10=3; volume multiplier 27; capacity 0.4×27=10.8 L.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: k=30/10=3; volume multiplier 27; capacity 0.4×27=10.8 L. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Design a safe school-ground shadow measurement and identify two sources of error.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Use a vertical pole of known height and measure its shadow and an inaccessible object's shadow simultaneously on level ground; use h/H=s/S; errors include uneven ground, leaning pole or indistinct shadow ends. Stay on permitted ground.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Use a vertical pole of known height and measure its shadow and an inaccessible object's shadow simultaneously on level ground; use h/H=s/S; errors include uneven ground, leaning pole or indistinct shadow ends. Stay on permitted ground. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "mathematics-f2-activity-03",
+        "mathematics-f2-activity-04"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "mathematics-f2-congruence-proof",
+      "subjectId": "mathematics",
+      "form": 2,
+      "title": "Congruent triangles and proof",
+      "language": "en",
+      "objectives": [
+        "Select valid congruence tests",
+        "Write a correspondence-based proof",
+        "Distinguish congruence evidence from similarity evidence"
+      ],
+      "paragraphs": [
+        "Congruent figures have the same shape and size. A rotation, reflection or translation can move one onto the other without stretching. In triangles, proving congruence allows us to conclude that all corresponding sides and angles are equal. A correct vertex correspondence is necessary before making these conclusions.",
+        "The SSS test uses equality of all three corresponding sides. SAS uses equality of two sides and the angle included between them. ASA uses two corresponding angles and the side between them; two angles also determine the third angle, so an appropriate AAS argument works as well. For right triangles, RHS uses a right angle, equal hypotenuses and one equal corresponding leg.",
+        "AAA shows shape but does not determine size: triangles with sides 3,4,5 and 6,8,10 have equal angles but are not congruent. Two sides and a non-included angle (SSA) do not provide a general congruence rule, because different triangles can satisfy such information. Identify where an angle lies instead of choosing a test from a count of marks alone.",
+        "A proof separates facts, reasons and conclusions. Given equal lengths may be combined with a common side, vertically opposite angles or angles established by parallel lines. State a test, list the triangle correspondence, then use corresponding parts. A diagram supports reasoning but cannot certify a length or angle merely because it looks equal."
+      ],
+      "examples": [
+        "Triangles ABC and DEF satisfy AB=DE=5 cm, BC=EF=7 cm and AC=DF=8 cm. All corresponding sides match, so ABC≅DEF by SSS. Therefore angle A=angle D.",
+        "In isosceles triangle ABC, AB=AC. Let D be the midpoint of BC. Compare ABD and ACD: AB=AC, BD=DC and AD is common. They are congruent by SSS, so angle BAD=angle DAC and angle ADB=angle ADC. The latter sum to 180°, so each is 90°.",
+        "Right triangles PQR and XYZ have right angles at Q and Y, hypotenuses PR=XZ=13 cm, and legs PQ=XY=5 cm. RHS proves PQR≅XYZ. The remaining legs are each √(169−25)=12 cm."
+      ],
+      "glossary": [
+        {
+          "term": "congruence",
+          "definition": "Equality of shape and size, with matching corresponding parts."
+        },
+        {
+          "term": "included angle",
+          "definition": "The angle between the two sides under consideration."
+        },
+        {
+          "term": "hypotenuse",
+          "definition": "The side opposite the right angle in a right triangle."
+        }
+      ],
+      "questions": [
+        {
+          "content": "What two properties must congruent figures share?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The same shape and the same size.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The same shape and the same size. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Which test uses three equal corresponding sides?",
+          "type": "short",
+          "options": [],
+          "answerKey": "SSS congruence.",
+          "markingGuide": "Award up to 1 marks for the following independent correct steps or points: SSS congruence. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Which angle must be equal in the SAS test?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The included angle between the two equal corresponding sides.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The included angle between the two equal corresponding sides. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why is AAA insufficient for congruence?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It fixes shape but allows different sizes, such as a triangle and its double-sized enlargement.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: It fixes shape but allows different sizes, such as a triangle and its double-sized enlargement. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Triangles have sides 5,6,7 cm and 5,6,7 cm. State the conclusion and test.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "They are congruent by SSS after matching equal sides.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: They are congruent by SSS after matching equal sides. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Two right triangles have equal hypotenuses and one equal leg. Name the test.",
+          "type": "short",
+          "options": [],
+          "answerKey": "RHS, using the established right angles.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: RHS, using the established right angles. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "If ABC≅DEF, which angle corresponds to B?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Angle E.",
+          "markingGuide": "Award up to 1 marks for the following independent correct steps or points: Angle E. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "If ABC≅PQR and BC=11 cm, find QR.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "QR=11 cm by corresponding sides of congruent triangles.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: QR=11 cm by corresponding sides of congruent triangles. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Can a reflection produce a congruent image? Explain.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Yes; reflection preserves all lengths and angles even though orientation reverses.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Yes; reflection preserves all lengths and angles even though orientation reverses. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A proof compares ABD and ACD. What can be said about AD?",
+          "type": "short",
+          "options": [],
+          "answerKey": "AD equals itself; it is a common side.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: AD equals itself; it is a common side. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Do two equal sides and a non-included equal angle always prove congruence?",
+          "type": "short",
+          "options": [],
+          "answerKey": "No; SSA can be ambiguous and is not a general congruence test.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: No; SSA can be ambiguous and is not a general congruence test. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Angles A and D are 40°, B and E are 70°, and AB=DE=6 cm. State a test.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "ASA; AB and DE lie between the matched angle pairs.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: ASA; AB and DE lie between the matched angle pairs. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Two adjacent angles on a straight line are equal. Find each.",
+          "type": "short",
+          "options": [],
+          "answerKey": "They total 180°; each is 90°.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: They total 180°; each is 90°. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why must the vertex order in a congruence statement be checked?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The order identifies corresponding sides and angles; a wrong order leads to false equalities.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The order identifies corresponding sides and angles; a wrong order leads to false equalities. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Is a 3,4,5 triangle congruent to a 6,8,10 triangle?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "No; the side lengths differ, though the triangles are similar with factor 2.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: No; the side lengths differ, though the triangles are similar with factor 2. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "AB=AC and D is the midpoint of BC. Prove angle BAD equals angle DAC.",
+          "type": "short",
+          "options": [],
+          "answerKey": "AB=AC given; BD=DC by midpoint; AD common; ABD≅ACD by SSS; corresponding angles BAD and DAC are equal.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: AB=AC given; BD=DC by midpoint; AD common; ABD≅ACD by SSS; corresponding angles BAD and DAC are equal. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "Triangles ABC and XYZ have AB=XY=8 cm, AC=XZ=5 cm and included angles A=X=60°. Prove congruence and name BC's match.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Two side pairs and included angles match, so ABC≅XYZ by SAS; BC corresponds to YZ.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Two side pairs and included angles match, so ABC≅XYZ by SAS; BC corresponds to YZ. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "A learner claims triangles with equal angles 30°,60°,90° are congruent. Correct the proof and give a counterexample.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Equal angles prove similarity only; a 1,√3,2 triangle and a 2,2√3,4 triangle have those angles but different corresponding lengths. An equal corresponding length would additionally fix the scale.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Equal angles prove similarity only; a 1,√3,2 triangle and a 2,2√3,4 triangle have those angles but different corresponding lengths. An equal corresponding length would additionally fix the scale. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "mathematics-f2-activity-03",
+        "mathematics-f2-activity-05"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "mathematics-f2-binary-operations",
+      "subjectId": "mathematics",
+      "form": 2,
+      "title": "Binary operations and algebraic structure",
+      "language": "en",
+      "objectives": [
+        "Evaluate an explicitly defined operation",
+        "Test closure, commutativity and associativity",
+        "Find an identity and an inverse when they exist"
+      ],
+      "paragraphs": [
+        "A binary operation combines two elements of a stated set to produce one result. The symbol is a label whose meaning must be defined: if a★b=2a+b, then 3★4=10. It is not ordinary multiplication. Substitute the first input for a and the second for b, keeping their positions and using brackets when an input is negative or is itself an expression.",
+        "Closure means the result stays in the stated set for every allowed pair. Subtraction is closed on integers but not on nonnegative integers, because 2−5=−3. Division on real numbers cannot accept a zero second input. Always state the domain before declaring that a rule is an operation on a set; the same formula may work on one set and fail on another.",
+        "An operation is commutative if a★b=b★a for every allowed pair. It is associative if (a★b)★c=a★(b★c) for every allowed triple. A counterexample disproves a universal claim, but one matching numerical example does not prove it. Compare general expressions where possible. Associativity controls regrouping; commutativity controls order.",
+        "An identity e satisfies a★e=e★a=a for all a. An inverse of a, relative to identity e, is an element b with a★b=b★a=e. Solve these conditions using the defined rule and then check membership of the result in the set. A rule may have no two-sided identity, and without a specified identity the usual inverse question is not meaningful."
+      ],
+      "examples": [
+        "For a★b=2a+b, 4★(−3)=2×4−3=5. But (−3)★4=−6+4=−2, so this operation on real numbers is not commutative.",
+        "Define a∘b=a+b+2 on integers. Then (a∘b)∘c=a+b+c+4=a∘(b∘c), so it is associative. An identity satisfies a+e+2=a, giving e=−2, which also works on the left.",
+        "For a∘b=a+b+2 with identity −2, the inverse of 5 solves 5+b+2=−2, giving b=−9. Check 5∘(−9)=−2 and (−9)∘5=−2."
+      ],
+      "glossary": [
+        {
+          "term": "closure",
+          "definition": "Every permitted pair produces a result in the stated set."
+        },
+        {
+          "term": "identity",
+          "definition": "An element that leaves every element unchanged on both sides of the operation."
+        },
+        {
+          "term": "associativity",
+          "definition": "The property that changing grouping does not change the result."
+        }
+      ],
+      "questions": [
+        {
+          "content": "For a★b=3a−b, evaluate 4★5.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "3×4−5=7.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 3×4−5=7. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "For a★b=3a−b, evaluate 5★4.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "3×5−4=11.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 3×5−4=11. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Use the last two values to test commutativity of a★b=3a−b.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "4★5=7 differs from 5★4=11, so the operation is not commutative.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 4★5=7 differs from 5★4=11, so the operation is not commutative. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "For a∘b=ab+1, find 2∘3.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "2×3+1=7.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 2×3+1=7. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "For a∘b=ab+1, find (2∘3)∘4.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "2∘3=7; 7∘4=29.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 2∘3=7; 7∘4=29. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "For a∘b=ab+1, find 2∘(3∘4) and test associativity.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "3∘4=13; 2∘13=27; 27 differs from 29, so associativity fails.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 3∘4=13; 2∘13=27; 27 differs from 29, so associativity fails. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Is subtraction closed on integers? Explain.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Yes; the difference of any two integers is an integer.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Yes; the difference of any two integers is an integer. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why is subtraction not closed on positive integers?",
+          "type": "short",
+          "options": [],
+          "answerKey": "For example 2−5=−3 is not positive; one counterexample disproves closure.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: For example 2−5=−3 is not positive; one counterexample disproves closure. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What is the identity for ordinary multiplication on real numbers?",
+          "type": "short",
+          "options": [],
+          "answerKey": "1, since a×1=1×a=a.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 1, since a×1=1×a=a. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What is the additive inverse of −8 on integers?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "8, since −8+8=0 and 0 is the additive identity.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 8, since −8+8=0 and 0 is the additive identity. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "For a★b=a+b+5, find the identity.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "a+e+5=a gives e=−5; it works on either side.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: a+e+5=a gives e=−5; it works on either side. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "For a★b=a+b+5, find the inverse of 3 relative to identity −5.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "3+b+5=−5 gives b=−13; both orders yield −5.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 3+b+5=−5 gives b=−13; both orders yield −5. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Is a★b=a+b+5 commutative?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Yes; a+b+5=b+a+5 for all real a,b.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Yes; a+b+5=b+a+5 for all real a,b. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why does checking one pair not prove commutativity?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The property must hold for every pair; a different pair may fail.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The property must hold for every pair; a different pair may fail. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "For a★b=a−b, can 0 be a two-sided identity?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "a★0=a, but 0★a=−a generally differs from a; therefore 0 is only a right identity, not two-sided.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: a★0=a, but 0★a=−a generally differs from a; therefore 0 is only a right identity, not two-sided. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "On integers define a★b=a+b−4. Prove associativity and find the identity.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Both groupings give a+b+c−8; identity solves a+e−4=a, giving e=4, which works on both sides.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Both groupings give a+b+c−8; identity solves a+e−4=a, giving e=4, which works on both sides. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "For a★b=a+b−4 find the inverse of 10 and verify both orders.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Identity is 4; 10+b−4=4 gives b=−2; 10★(−2)=4 and (−2)★10=4.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Identity is 4; 10+b−4=4 gives b=−2; 10★(−2)=4 and (−2)★10=4. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "A learner defines a★b=a/b on all real numbers and says it is a binary operation there. Explain the defect and a closed alternative domain.",
+          "type": "short",
+          "options": [],
+          "answerKey": "b=0 makes the expression undefined; restricting to nonzero real numbers avoids zero denominators and gives a nonzero real result, so division is closed there, though not associative or commutative.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: b=0 makes the expression undefined; restricting to nonzero real numbers avoids zero denominators and gives a nonzero real result, so division is closed there, though not associative or commutative. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "mathematics-f2-activity-06"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "mathematics-f2-logarithms-laws",
+      "subjectId": "mathematics",
+      "form": 2,
+      "title": "Logarithms as inverse powers",
+      "language": "en",
+      "objectives": [
+        "Convert between exponential and logarithmic statements",
+        "Apply logarithm laws with valid domains",
+        "Solve and check elementary logarithmic equations"
+      ],
+      "paragraphs": [
+        "For base b>0 and b≠1, log_b(x)=y means b^y=x, with x>0. A logarithm asks for an exponent. Since 10³=1000, log₁₀(1000)=3. The common logarithm uses base 10. A real logarithm of zero or a negative number is undefined; negative logarithm values are allowed when the positive argument is between zero and one and the base exceeds one.",
+        "For positive M and N, log_b(MN)=log_b M+log_b N and log_b(M/N)=log_b M−log_b N. These laws come from adding and subtracting exponents. They do not turn a sum inside a logarithm into a sum of logarithms: log_b(M+N) generally has no such split. Keep the base fixed throughout a law application.",
+        "The power law is log_b(M^r)=r log_b M for positive M and real r. In particular log_b 1=0 and log_b b=1. When using a calculator, enter brackets around the full argument and round only at the end. If a calculator only has common logarithms, log_b x=log₁₀ x/log₁₀ b, with b valid and x positive.",
+        "Solve logarithmic equations by respecting domains first, applying laws or converting to exponential form, and checking the original expressions at the end. Algebra may produce a value that makes an original argument nonpositive. Such a value must be rejected even if it satisfies an equation obtained after transformation."
+      ],
+      "examples": [
+        "log₂ 32 asks for y with 2^y=32. Since 2⁵=32, y=5. Similarly log₁₀ 0.01=−2 because 10^(−2)=0.01.",
+        "Evaluate log₃ 27+log₃ 9−log₃ 3. The values are 3+2−1=4. Equivalently combine the arguments: log₃(27×9/3)=log₃ 81=4.",
+        "Solve log₁₀(x−1)+log₁₀(x+1)=log₁₀ 8. Domain x>1. Combine to obtain (x−1)(x+1)=8, so x²=9 and x=±3. Only x=3 is valid; its arguments are 2 and 4 with product 8."
+      ],
+      "glossary": [
+        {
+          "term": "logarithm",
+          "definition": "The exponent to which a valid base is raised to obtain a positive argument."
+        },
+        {
+          "term": "argument",
+          "definition": "The positive quantity inside a real logarithm."
+        },
+        {
+          "term": "common logarithm",
+          "definition": "A logarithm with base 10."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Rewrite 5³=125 as a logarithmic statement.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "log₅125=3.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: log₅125=3. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Rewrite log₂16=4 in exponential form.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "2⁴=16.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 2⁴=16. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Evaluate log₁₀10000.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "4, since 10⁴=10000.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 4, since 10⁴=10000. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Evaluate log₃1.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "0, since 3⁰=1.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 0, since 3⁰=1. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Evaluate log₅5.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "1, since 5¹=5.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 1, since 5¹=5. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Evaluate log₂(1/8).",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "−3, since 2^(−3)=1/8.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: −3, since 2^(−3)=1/8. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Combine log₁₀ 4+log₁₀ 25 as one logarithm and evaluate.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "log₁₀(4×25)=log₁₀100=2.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: log₁₀(4×25)=log₁₀100=2. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Combine log₂64−log₂8 and evaluate.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "log₂(64/8)=log₂8=3.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: log₂(64/8)=log₂8=3. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Evaluate 3 log₂4.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "3×2=6; equivalently log₂(4³)=log₂64.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 3×2=6; equivalently log₂(4³)=log₂64. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Solve log₃x=4.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "x=3⁴=81, which is positive.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: x=3⁴=81, which is positive. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Solve log₂(x−3)=3.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "x−3=8; x=11; argument 8 is positive.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: x−3=8; x=11; argument 8 is positive. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why is log₁₀(−10) undefined over the real numbers?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "A positive base raised to any real power is positive, so it cannot produce −10.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: A positive base raised to any real power is positive, so it cannot produce −10. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Disprove log₁₀(10+100)=log₁₀10+log₁₀100 without decimal approximation.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "The right side is 3=log₁₀1000, but the left has argument 110, not 1000; logarithms are one-to-one.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: The right side is 3=log₁₀1000, but the left has argument 110, not 1000; logarithms are one-to-one. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "State the conditions on base b for real log_b x.",
+          "type": "short",
+          "options": [],
+          "answerKey": "b>0 and b≠1; also the argument must satisfy x>0.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: b>0 and b≠1; also the argument must satisfy x>0. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Solve 2log₃x=4 with x positive.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "log₃x=2; x=9, satisfying the domain.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: log₃x=2; x=9, satisfying the domain. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Solve log₂(x−2)+log₂x=3, showing the domain check.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Domain x>2; x(x−2)=8 gives x²−2x−8=0=(x−4)(x+2); x=4 or −2; reject −2, leaving x=4.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Domain x>2; x(x−2)=8 gives x²−2x−8=0=(x−4)(x+2); x=4 or −2; reject −2, leaving x=4. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "Explain why log₂8/log₂4 gives log₄8 and calculate it.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Change of base gives log₄8=log₂8/log₂4=3/2; 4^(3/2)=8 verifies it.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Change of base gives log₄8=log₂8/log₂4=3/2; 4^(3/2)=8 verifies it. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Simplify log₅(25a²)−log₅a for a>0.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "2+2log₅a−log₅a=2+log₅a; alternatively log₅(25a); positivity permits the laws.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: 2+2log₅a−log₅a=2+log₅a; alternatively log₅(25a); positivity permits the laws. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "mathematics-f2-activity-06",
+        "mathematics-f2-activity-10"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "mathematics-f2-radicals-rationalisation",
+      "subjectId": "mathematics",
+      "form": 2,
+      "title": "Radicals and rational denominators",
+      "language": "en",
+      "objectives": [
+        "Simplify radicals using square factors",
+        "Combine and multiply radical expressions",
+        "Rationalise simple and binomial denominators"
+      ],
+      "paragraphs": [
+        "The principal square root √a is the nonnegative number whose square is a, for a≥0. Thus √25=5, while solving x²=25 gives x=5 or x=−5. For real x, √(x²)=|x|. These statements prevent a common sign error when variables might be negative.",
+        "For nonnegative a and b, √(ab)=√a√b. Factor out a perfect square to simplify a radical: √72=√(36×2)=6√2. Only like radicals combine by addition or subtraction, just as like algebraic terms combine. The rule √(a+b)=√a+√b is generally false; test a=b=1 to see √2 differs from 2.",
+        "Multiply radicals using distribution and simplify each resulting term. A conjugate pair has the form p+q and p−q; their product p²−q² removes the middle terms. In particular, (√a+√b)(√a−√b)=a−b when both square roots are real. Check that a proposed denominator is nonzero before manipulating a fraction.",
+        "Rationalising a denominator rewrites an equivalent fraction with no radical in that denominator. Multiply numerator and denominator by the same nonzero expression. For 1/√a with a>0, multiply by √a/√a. For a denominator √a+√b, its conjugate may remove the radicals. The numerical value does not change, and a negative denominator can be tidied by multiplying both parts by −1."
+      ],
+      "examples": [
+        "Simplify √108. Factor 108=36×3, so √108=6√3. Then √108+2√3=8√3 because both terms have the same radical part.",
+        "Expand (√5+2)(√5−1). Distribution gives 5−√5+2√5−2=3+√5. Squaring a sum would also require the middle term.",
+        "Rationalise 3/(√7−2). Multiply by (√7+2)/(√7+2). The denominator becomes 7−4=3, so the result is 3(√7+2)/3=√7+2. The original denominator is nonzero."
+      ],
+      "glossary": [
+        {
+          "term": "principal square root",
+          "definition": "The nonnegative square root of a nonnegative number."
+        },
+        {
+          "term": "like radicals",
+          "definition": "Radical terms with the same simplified radical part."
+        },
+        {
+          "term": "conjugate",
+          "definition": "The expression formed by reversing the sign between two terms."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Find the principal square root of 81.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "√81=9.",
+          "markingGuide": "Award up to 1 marks for the following independent correct steps or points: √81=9. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Solve x²=81 over the reals.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "x=9 or x=−9.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: x=9 or x=−9. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Simplify √50.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "√(25×2)=5√2.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: √(25×2)=5√2. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Simplify √147.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "√(49×3)=7√3.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: √(49×3)=7√3. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Simplify 3√2+5√2.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "(3+5)√2=8√2.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: (3+5)√2=8√2. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Simplify √12+√27.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "2√3+3√3=5√3.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 2√3+3√3=5√3. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Simplify √6×√24.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "√144=12, with nonnegative radicands.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: √144=12, with nonnegative radicands. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Expand (√3+2)².",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "3+4√3+4=7+4√3.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 3+4√3+4=7+4√3. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Evaluate (√11+3)(√11−3).",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "11−9=2 by difference of squares.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 11−9=2 by difference of squares. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Rationalise 5/√5.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Multiply by √5/√5 to get 5√5/5=√5.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Multiply by √5/√5 to get 5√5/5=√5. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Rationalise 2/√3.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Multiply by √3/√3 to obtain 2√3/3.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Multiply by √3/√3 to obtain 2√3/3. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Rationalise 1/(√5+2).",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Multiply by (√5−2)/(√5−2); denominator 5−4=1; answer √5−2.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Multiply by (√5−2)/(√5−2); denominator 5−4=1; answer √5−2. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Evaluate √(x²) when x=−7.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "√49=7, the absolute value of −7, not −7.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: √49=7, the absolute value of −7, not −7. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Is √9+√16 equal to √25? Explain.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "No; left side 3+4=7 while √25=5.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: No; left side 3+4=7 while √25=5. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Simplify √75−√12.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "5√3−2√3=3√3.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 5√3−2√3=3√3. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Simplify (√8+√18)/√2 and verify using a second method.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "√8=2√2 and √18=3√2, so numerator 5√2 and quotient 5; alternatively divide each term to obtain √4+√9=2+3=5.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: √8=2√2 and √18=3√2, so numerator 5√2 and quotient 5; alternatively divide each term to obtain √4+√9=2+3=5. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Rationalise 4/(3−√5), giving a simplified exact answer.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Multiply by (3+√5)/(3+√5); denominator 9−5=4; fraction becomes 3+√5.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Multiply by (3+√5)/(3+√5); denominator 9−5=4; fraction becomes 3+√5. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "A square has area 98 cm². Find its exact side and perimeter; explain the sign choice.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Side √98=7√2 cm; length is positive, so no negative root; perimeter 28√2 cm.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Side √98=7√2 cm; length is positive, so no negative root; perimeter 28√2 cm. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "mathematics-f2-activity-06",
+        "mathematics-f2-activity-11"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "physics-f1-floating-upthrust",
+      "subjectId": "physics",
+      "form": 1,
+      "title": "Floating, sinking and displaced water",
+      "language": "en",
+      "objectives": [
+        "Relate upthrust to displaced liquid",
+        "Predict floating using average density",
+        "Test and improve a safe floating prototype"
+      ],
+      "paragraphs": [
+        "A liquid exerts pressure on every submerged surface. Pressure increases with depth, so the upward force on the lower parts of an object exceeds the downward force on its upper parts. The resultant upward fluid force is upthrust. Archimedes' principle states that the upthrust equals the weight of fluid displaced by the object: U=ρgV, where V is the submerged volume, not necessarily the whole object volume.",
+        "A freely floating object at rest has balanced vertical forces: upthrust equals its total weight. A fully submerged object released from rest sinks if its weight exceeds the upthrust, rises if upthrust exceeds weight, and can remain neutrally buoyant if they balance. Comparing average object density with fluid density gives the same prediction when trapped air and all parts are included in the average.",
+        "A solid steel block sinks in water, but a hollow steel boat can float because the mass of steel and enclosed air is spread over a larger external volume. A floating boat displaces its own weight of water. Adding cargo makes it settle deeper until it displaces more water; if water enters and displaces the enclosed air, its average density increases and it may sink. Stability also matters, so a floating design is not automatically safe for carrying people.",
+        "Test a small foil boat in a shallow tray on a stable table. Use counters or washers as cargo, add them slowly near the centre, record total supported mass and compare different hull shapes made from equal foil areas. Keep electrical equipment away and dry spilled water. These are tabletop models; never use a student prototype to support a person or enter deep water. Use g=10 N/kg and water density 1000 kg/m³ in this chapter unless stated otherwise."
+      ],
+      "examples": [
+        "A submerged block displaces 0.002 m³ of water. U=1000×10×0.002=20 N. If its weight is 30 N, the initial resultant force is 30−20=10 N downward, so it sinks when released.",
+        "A 0.6 kg object floats. Its weight is 0.6×10=6 N, so U=6 N. Displaced volume V=6/(1000×10)=0.0006 m³=600 cm³.",
+        "A uniform block has density 750 kg/m³ and floats in water. From ρ_water g V_sub=ρ_block g V_total, V_sub/V_total=750/1000=0.75. Therefore 75% of its volume is submerged and 25% remains above water."
+      ],
+      "glossary": [
+        {
+          "term": "upthrust",
+          "definition": "The resultant upward force exerted by a fluid on an object."
+        },
+        {
+          "term": "displaced volume",
+          "definition": "The volume of fluid excluded by the submerged part of an object."
+        },
+        {
+          "term": "average density",
+          "definition": "Total mass divided by the overall volume of a body including cavities."
+        }
+      ],
+      "questions": [
+        {
+          "content": "State Archimedes' principle.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Upthrust equals the weight of fluid displaced by an object.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Upthrust equals the weight of fluid displaced by an object. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A body floats at rest with weight 8 N. Find its upthrust.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Upthrust is 8 N because vertical forces balance.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Upthrust is 8 N because vertical forces balance. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "An object displaces 300 cm³ of water. Convert this volume to m³.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "300×10^(−6)=0.0003 m³.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 300×10^(−6)=0.0003 m³. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Find upthrust for 0.0003 m³ displaced water.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "U=1000×10×0.0003=3 N.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: U=1000×10×0.0003=3 N. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "A submerged object's weight is 7 N and upthrust 5 N. Find the initial resultant.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "7−5=2 N downward.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 7−5=2 N downward. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Will a uniform solid of density 1200 kg/m³ float in water of density 1000 kg/m³?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "It sinks when released fully submerged because its weight exceeds the maximum water upthrust for its volume.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: It sinks when released fully submerged because its weight exceeds the maximum water upthrust for its volume. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A 2 kg boat model floats. Find the mass of water it displaces.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "2 kg; a floating body's displaced water has equal weight and hence equal mass.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 2 kg; a floating body's displaced water has equal weight and hence equal mass. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Find the displaced water volume for a floating 2 kg boat.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "V=m/ρ=2/1000=0.002 m³=2 L.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: V=m/ρ=2/1000=0.002 m³=2 L. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "A uniform floating block has density 600 kg/m³. What fraction is submerged in water?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "V_sub/V_total=600/1000=0.6, or 60%.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: V_sub/V_total=600/1000=0.6, or 60%. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why can a hollow steel boat float although solid steel sinks?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The hull encloses air, reducing average density; it displaces enough water to balance its weight before fully submerging.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: The hull encloses air, reducing average density; it displaces enough water to balance its weight before fully submerging. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "What happens to a floating boat's submerged volume when cargo is added?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It increases, providing greater upthrust to balance the increased weight.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: It increases, providing greater upthrust to balance the increased weight. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "An object weighs 12 N in air and apparently 9 N while immersed. Find upthrust.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Loss of apparent weight=12−9=3 N, assuming the support reads the remaining tension.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Loss of apparent weight=12−9=3 N, assuming the support reads the remaining tension. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why must U=ρgV use submerged rather than total volume for a partly floating object?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Only the submerged part displaces fluid; the part above the surface displaces no water.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Only the submerged part displaces fluid; the part above the surface displaces no water. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name a controlled variable when comparing equal-foil boat designs.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Keep foil area or foil mass, water conditions and cargo type the same; one valid stated control earns credit.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Keep foil area or foil mass, water conditions and cargo type the same; one valid stated control earns credit. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why should a boat test record water entry as well as supported mass?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Water entry changes mass and trapped air volume and may cause failure even if the hull previously floated.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Water entry changes mass and trapped air volume and may cause failure even if the hull previously floated. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "A floating model plus cargo has mass 0.85 kg. Calculate weight and displaced volume in fresh water.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "W=0.85×10=8.5 N; U=8.5 N; V=8.5/10000=0.00085 m³=850 cm³.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: W=0.85×10=8.5 N; U=8.5 N; V=8.5/10000=0.00085 m³=850 cm³. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "A block of volume 1200 cm³ and density 800 kg/m³ floats in water. Find submerged and exposed volumes.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Submerged fraction 0.8; submerged volume 960 cm³; exposed volume 240 cm³.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Submerged fraction 0.8; submerged volume 960 cm³; exposed volume 240 cm³. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Plan a fair comparison of two foil hull shapes and explain what would count as improvement.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Use equal foil areas, the same water tray and equal cargo pieces; add mass centrally in equal steps and repeat trials; record mass just before water entry or sinking; a greater repeatable supported mass under these conditions is improvement. Keep test shallow and tabletop only.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Use equal foil areas, the same water tray and equal cargo pieces; add mass centrally in equal steps and repeat trials; record mass just before water entry or sinking; a greater repeatable supported mass under these conditions is improvement. Keep test shallow and tabletop only. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "physics-f1-activity-06",
+        "physics-f1-activity-11",
+        "physics-f1-activity-16",
+        "physics-f1-activity-17"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "physics-f1-elastic-materials",
+      "subjectId": "physics",
+      "form": 1,
+      "title": "Mechanical properties and spring investigations",
+      "language": "en",
+      "objectives": [
+        "Distinguish elasticity, plasticity and stiffness",
+        "Use Hooke’s law within its limits",
+        "Calibrate a safe spring-based measuring prototype"
+      ],
+      "paragraphs": [
+        "Materials respond differently to forces. An elastic material returns to its original dimensions after unloading within its elastic range. Plastic deformation remains after unloading. Stiffness describes resistance to deformation: a stiffer spring extends less for the same force. Strength concerns resistance to failure, while brittleness concerns fracture with little plastic deformation; these are not synonyms for stiffness.",
+        "For a spring obeying Hooke's law, F=kx, where F is applied force in newtons, x is extension in metres and k is spring constant in N/m. Extension is loaded length minus original length, not the total spring length. The law applies only over the proportional range; increasing a load indefinitely can permanently stretch or break the spring.",
+        "A force-versus-extension graph is straight through the origin in the Hooke's-law range. Its gradient ΔF/Δx is k. If extension is plotted vertically instead, the gradient is 1/k, so read axis labels before interpreting a slope. Elastic energy stored in an ideal Hooke's-law spring is E=½Fx=½kx², equal to the triangular area under its force–extension graph during loading.",
+        "A simple force-meter prototype can use a teacher-approved spring, a paper scale and small known masses. Clamp it securely, place a tray below the masses and keep faces away from suspended loads. Add loads gradually, record extensions on loading and unloading, and stop at the approved maximum. Recheck the zero after removal of loads; a shifted zero may reveal permanent deformation and invalidate calibration. Use g=10 N/kg for numerical work here."
+      ],
+      "examples": [
+        "An unloaded spring is 8 cm long and reaches 11 cm under 1.5 N. Extension=3 cm=0.03 m. Thus k=1.5/0.03=50 N/m; using 11 cm as extension would be wrong.",
+        "For k=80 N/m and load 2.4 N, x=F/k=2.4/80=0.03 m=3 cm. This prediction is valid only if the load is in the spring's proportional range.",
+        "A spring with k=200 N/m extends 0.04 m. Force=200×0.04=8 N. Stored energy=½×200×0.04²=0.16 J, the same as ½×8×0.04."
+      ],
+      "glossary": [
+        {
+          "term": "elastic deformation",
+          "definition": "A change of shape or size that disappears after the force is removed."
+        },
+        {
+          "term": "plastic deformation",
+          "definition": "A change that remains after unloading."
+        },
+        {
+          "term": "spring constant",
+          "definition": "Force per unit extension within a spring's proportional range."
+        }
+      ],
+      "questions": [
+        {
+          "content": "What is elastic deformation?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Deformation that disappears when the force is removed, within the elastic range.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Deformation that disappears when the force is removed, within the elastic range. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What observation indicates plastic deformation after a spring experiment?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The spring fails to return to its original unloaded length.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The spring fails to return to its original unloaded length. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A spring changes from 10 cm to 14 cm. Find extension in metres.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Extension=4 cm=0.04 m.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Extension=4 cm=0.04 m. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A 2 N force produces 0.04 m extension. Find k.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "k=F/x=2/0.04=50 N/m.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: k=F/x=2/0.04=50 N/m. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "A spring has k=100 N/m. Find extension under 3 N.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "x=F/k=3/100=0.03 m.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: x=F/k=3/100=0.03 m. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Two springs have constants 40 and 90 N/m. Which is stiffer?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "The 90 N/m spring; it needs more force per metre of extension.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The 90 N/m spring; it needs more force per metre of extension. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What does the gradient of a force-versus-extension graph represent?",
+          "type": "short",
+          "options": [],
+          "answerKey": "k=ΔF/Δx, with units N/m.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: k=ΔF/Δx, with units N/m. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What does the gradient of an extension-versus-force graph represent?",
+          "type": "short",
+          "options": [],
+          "answerKey": "1/k=Δx/ΔF, with units m/N.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 1/k=Δx/ΔF, with units m/N. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Find the weight of a 150 g mass using g=10 N/kg.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "m=0.150 kg; W=mg=1.5 N.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: m=0.150 kg; W=mg=1.5 N. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "A spring extends 0.02 m under 4 N. Find elastic energy.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "E=½Fx=½×4×0.02=0.04 J.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: E=½Fx=½×4×0.02=0.04 J. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why must total loaded length not replace x in F=kx?",
+          "type": "short",
+          "options": [],
+          "answerKey": "x is change from original length; total length includes the unstretched spring.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: x is change from original length; total length includes the unstretched spring. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "If extension doubles within the Hooke range, how does force change?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It doubles because F is directly proportional to x.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: It doubles because F is directly proportional to x. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "If extension doubles for the same Hooke-law spring, how does stored energy change?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It becomes four times as large because E=½kx².",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: It becomes four times as large because E=½kx². Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Does a strong material have to be very stiff?",
+          "type": "short",
+          "options": [],
+          "answerKey": "No; strength concerns failure while stiffness concerns deformation under force; they describe different properties.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: No; strength concerns failure while stiffness concerns deformation under force; they describe different properties. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Give two safe precautions for spring loading.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Secure the support and use a catch tray; keep faces away and do not exceed the teacher-approved load. Any two valid precautions.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Secure the support and use a catch tray; keep faces away and do not exceed the teacher-approved load. Any two valid precautions. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "A spring has lengths 12,14,16,18 cm under forces 0,1,2,3 N. Find its constant and predict length under 2.5 N.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Extensions 0,0.02,0.04,0.06 m; k=1/0.02=50 N/m; extension at 2.5 N is 0.05 m=5 cm; length 17 cm within the tested range.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Extensions 0,0.02,0.04,0.06 m; k=1/0.02=50 N/m; extension at 2.5 N is 0.05 m=5 cm; length 17 cm within the tested range. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "A spring remains 1 cm longer after unloading. Evaluate using its old scale as a force meter.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Permanent extension indicates deformation outside the original elastic operation; the zero and calibration have changed, so the old scale is unreliable. Remove it from measuring use and seek teacher evaluation rather than loading further.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Permanent extension indicates deformation outside the original elastic operation; the zero and calibration have changed, so the old scale is unreliable. Remove it from measuring use and seek teacher evaluation rather than loading further. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Design a force-meter calibration with five readings and a check on repeatability.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Use zero plus four small approved loads, convert masses to weights, measure extensions in metres, plot F against x, derive k from the straight portion, repeat loading/unloading and check return to zero. Keep the support secure and loads above a tray.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Use zero plus four small approved loads, convert masses to weights, measure extensions in metres, plot F against x, derive k from the straight portion, repeat loading/unloading and check return to zero. Keep the support secure and loads above a tray. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "physics-f1-activity-07",
+        "physics-f1-activity-11",
+        "physics-f1-activity-16",
+        "physics-f1-activity-17"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "physics-f2-magnetic-fields",
+      "subjectId": "physics",
+      "form": 2,
+      "title": "Magnets, fields and a compass prototype",
+      "language": "en",
+      "objectives": [
+        "Describe poles and magnetic fields",
+        "Explain magnetisation and demagnetisation",
+        "Collect evidence using a safe compass prototype"
+      ],
+      "paragraphs": [
+        "A magnet has north-seeking and south-seeking poles. Like poles repel and unlike poles attract. Some materials, notably iron and many steels, can be magnetised; many other metals such as aluminium and copper are not strongly attracted by an ordinary school magnet. Attraction alone does not prove that an unknown object is already a magnet because unmagnetised iron is also attracted. Repulsion from a known pole is stronger evidence of an existing magnetic pole.",
+        "A magnetic field is a region where magnetic forces can act. A small compass indicates the local field direction through its north-seeking end. Outside a bar magnet, field lines are drawn from north to south; closer spacing represents a stronger field. Field lines do not cross because the field has one direction at each point. The lines are a model, not physical strings inside the space.",
+        "A domain model explains magnetisation by increased alignment of many small magnetic regions. Stroking a steel needle repeatedly in one direction with one pole can align it sufficiently for a compass demonstration; lift the magnet away on each return stroke. Soft iron magnetises and loses magnetism readily, while steel often retains it better. Heating or mechanical shock can disrupt alignment, but learners should not heat, strike or damage magnets in class. Storage with suitable keepers helps preserve some bar magnets.",
+        "A teacher can prepare a magnetised needle and secure it flat on a small cork disk floating in a shallow tray, with its sharp point covered. Away from magnets and steel furniture it turns approximately north–south in Earth's field. Compare its direction with a known compass before labelling the ends. Record repeated headings, disturbances and limitations; nearby magnetic materials can distort readings. Keep small magnets away from mouths, electronic devices and medical implants; use a commercial compass when a needle prototype is unsuitable."
+      ],
+      "examples": [
+        "The north pole of a known magnet repels end A of a freely suspended unknown bar. Like poles repel, so A is a north pole and the opposite end is south. Attraction alone would not support that identification.",
+        "A compass is placed near the middle region outside a bar magnet, between its north and south ends. Its north-seeking end points along the local field from the magnet's north towards its south, not automatically towards geographic north.",
+        "A prototype compass points east on a desk but approximately north when moved away from a steel cabinet. Repeat at several clear locations. The changed heading suggests a local magnetic disturbance; it is not evidence that Earth's magnetic direction changed."
+      ],
+      "glossary": [
+        {
+          "term": "magnetic field",
+          "definition": "The region where magnetic forces act, represented with direction and strength."
+        },
+        {
+          "term": "magnetisation",
+          "definition": "The process of increasing magnetic alignment in a material."
+        },
+        {
+          "term": "magnetic domain",
+          "definition": "A region of magnetic material with a common magnetisation direction."
+        }
+      ],
+      "questions": [
+        {
+          "content": "What happens when two north poles approach each other?",
+          "type": "short",
+          "options": [],
+          "answerKey": "They repel because like poles repel.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: They repel because like poles repel. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What happens when a north pole approaches a south pole?",
+          "type": "short",
+          "options": [],
+          "answerKey": "They attract because unlike poles attract.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: They attract because unlike poles attract. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name two materials strongly attracted by a typical school magnet.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Iron and many steels; accept nickel or cobalt as additional valid examples.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Iron and many steels; accept nickel or cobalt as additional valid examples. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Does every metal respond strongly to a bar magnet? Explain.",
+          "type": "short",
+          "options": [],
+          "answerKey": "No; copper and aluminium, for example, are not strongly attracted by an ordinary school magnet.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: No; copper and aluminium, for example, are not strongly attracted by an ordinary school magnet. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why does attraction alone fail to identify an unknown bar as a magnet?",
+          "type": "short",
+          "options": [],
+          "answerKey": "A magnet also attracts unmagnetised magnetic material such as iron.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: A magnet also attracts unmagnetised magnetic material such as iron. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What observation confirms a pole on an unknown bar using a known magnet?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Repulsion from a known pole; unmagnetised iron would normally be attracted.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Repulsion from a known pole; unmagnetised iron would normally be attracted. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "State the field-line direction outside a bar magnet.",
+          "type": "short",
+          "options": [],
+          "answerKey": "From its north pole towards its south pole.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: From its north pole towards its south pole. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What does closer field-line spacing indicate?",
+          "type": "short",
+          "options": [],
+          "answerKey": "A stronger magnetic field in the diagram's representation.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: A stronger magnetic field in the diagram's representation. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why must magnetic field lines not cross?",
+          "type": "short",
+          "options": [],
+          "answerKey": "A crossing would assign two different field directions at one point.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: A crossing would assign two different field directions at one point. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Which end of a compass indicates field direction?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The compass needle's north-seeking end.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The compass needle's north-seeking end. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What happens to domains during magnetisation in a simple model?",
+          "type": "short",
+          "options": [],
+          "answerKey": "More domain magnetisations align in a common direction, increasing the net magnetic effect.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: More domain magnetisations align in a common direction, increasing the net magnetic effect. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Compare soft iron and steel for retaining magnetism.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Soft iron usually loses induced magnetism readily; suitable steel retains magnetism more strongly.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Soft iron usually loses induced magnetism readily; suitable steel retains magnetism more strongly. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why should a magnetising stroke return through the air?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It avoids stroking back in the opposite direction, which can oppose the alignment being produced.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: It avoids stroking back in the opposite direction, which can oppose the alignment being produced. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A compass heading changes near a steel cupboard. Give a likely reason.",
+          "type": "short",
+          "options": [],
+          "answerKey": "The cupboard distorts the local magnetic field; move to a clear location and retest.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The cupboard distorts the local magnetic field; move to a clear location and retest. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What does breaking a bar magnet usually produce?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Smaller magnets, each with north and south poles; it does not isolate a single pole.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Smaller magnets, each with north and south poles; it does not isolate a single pole. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Plan a field map around a bar magnet using a plotting compass without iron filings.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Place the magnet on paper, mark its outline and poles, position the compass at several locations, mark north-seeking directions and move along them, then join smooth paths with arrows from N to S outside. Keep other magnetic objects away.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Place the magnet on paper, mark its outline and poles, position the compass at several locations, mark north-seeking directions and move along them, then join smooth paths with arrows from N to S outside. Keep other magnetic objects away. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "A student claims stronger attraction at one end proves it is north. Evaluate and propose a valid test.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Attraction strength does not label north or south; use a known north pole and test for repulsion while allowing safe free movement; repulsion identifies north, whereas attraction alone remains ambiguous.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Attraction strength does not label north or south; use a known north pole and test for repulsion while allowing safe free movement; repulsion identifies north, whereas attraction alone remains ambiguous. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Design a test of a floating compass prototype with repeatability and safety controls.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Use a teacher-prepared secured needle with point covered on cork in shallow water; compare with a reference compass at three clear positions and repeat after gently rotating the tray; keep steel objects away, record discrepancies and use no heating or striking.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Use a teacher-prepared secured needle with point covered on cork in shallow water; compare with a reference compass at three clear positions and repeat after gently rotating the tray; keep steel objects away, record discrepancies and use no heating or striking. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "physics-f2-activity-02",
+        "physics-f2-activity-06",
+        "physics-f2-activity-10",
+        "physics-f2-activity-11",
+        "physics-f2-activity-12"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "physics-f2-static-charge",
+      "subjectId": "physics",
+      "form": 2,
+      "title": "Static charge, conductors and capacitors",
+      "language": "en",
+      "objectives": [
+        "Explain charge transfer and induction",
+        "Distinguish conductors, insulators and earthing",
+        "Interpret electroscope evidence and basic capacitor quantities"
+      ],
+      "paragraphs": [
+        "Static electricity concerns electric charge that accumulates rather than flowing steadily around a circuit. Atoms contain positive nuclei and negative electrons. In ordinary rubbing experiments electrons transfer between materials; protons do not move from object to object. An object gaining electrons becomes negatively charged and one losing electrons becomes positively charged. Rubbing separates charge rather than creating a net supply of it.",
+        "Like charges repel and unlike charges attract. A charged object can also attract a neutral object by polarisation: opposite charge is displaced slightly closer than like charge. In a conductor, some electrons move readily; an insulator restricts large-scale electron movement. Charging by contact transfers charge, while induction can redistribute charge without touching. Earthing connects an object to the Earth so electrons can move in the direction required by the electrical conditions.",
+        "An electroscope can show the presence of charge through separation of similarly charged leaves. An initially uncharged electroscope's divergence alone does not reveal whether the nearby charge is positive or negative. A known initial charge and controlled procedure are needed to compare signs. On an isolated conducting body at electrostatic equilibrium, excess charge lies on its outer surface; sharp regions can produce stronger nearby fields. A lightning protection system provides an engineered path to earth; its installation is professional work.",
+        "A capacitor stores separated charge on two conductors separated by an insulator. Its capacitance C=Q/V measures stored charge magnitude per potential difference; the SI unit is the farad (F), with Q in coulombs and V in volts. A capacitor has equal and opposite plate charges rather than a net charge Q on the whole ideal device. Study school-approved low-voltage components only: never open mains appliances or handle unknown charged capacitors. Static demonstrations should use dry plastic and paper, away from flammable vapours and electronic equipment."
+      ],
+      "examples": [
+        "A plastic ruler gains electrons when rubbed. It becomes negatively charged; the other material loses the same number of electrons and becomes positive. The total charge of the isolated pair remains unchanged.",
+        "A charged balloon attracts a neutral wall. The wall's charges shift slightly, making the nearer region effectively opposite in sign. Attraction therefore does not prove the wall carried an opposite net charge before the balloon approached.",
+        "A capacitor stores charge magnitude Q=0.000024 C at V=12 V. C=Q/V=0.000002 F=2 μF. If the same ideal capacitor is used at 6 V, Q=CV=0.000012 C=12 μC."
+      ],
+      "glossary": [
+        {
+          "term": "polarisation",
+          "definition": "Redistribution of charges within a body, possibly while its net charge stays zero."
+        },
+        {
+          "term": "earthing",
+          "definition": "Connecting a conductor to Earth to permit charge transfer."
+        },
+        {
+          "term": "capacitance",
+          "definition": "Stored charge magnitude per potential difference, C=Q/V."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Which particles usually transfer during rubbing of ordinary materials?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Electrons; positive nuclei remain bound in the material.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Electrons; positive nuclei remain bound in the material. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "An object gains electrons. What is its charge sign?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Negative, because electrons carry negative charge.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Negative, because electrons carry negative charge. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "An object loses electrons. What is its charge sign?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Positive, because it has a deficit of negative charge.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Positive, because it has a deficit of negative charge. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What happens when two negatively charged objects approach?",
+          "type": "short",
+          "options": [],
+          "answerKey": "They repel because like charges repel.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: They repel because like charges repel. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Can a charged object attract a neutral paper scrap? Explain.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Yes; polarisation makes opposite charge effectively closer, producing net attraction.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Yes; polarisation makes opposite charge effectively closer, producing net attraction. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Distinguish a conductor from an insulator in electrostatics.",
+          "type": "short",
+          "options": [],
+          "answerKey": "A conductor permits charge to redistribute readily through mobile electrons; an insulator restricts that motion.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: A conductor permits charge to redistribute readily through mobile electrons; an insulator restricts that motion. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Does rubbing create net charge in an isolated pair of objects?",
+          "type": "short",
+          "options": [],
+          "answerKey": "No; electrons transfer, and total charge of the pair is conserved.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: No; electrons transfer, and total charge of the pair is conserved. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What does divergence of initially neutral electroscope leaves indicate?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Charge redistribution or charging is present; divergence alone does not identify the sign.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Charge redistribution or charging is present; divergence alone does not identify the sign. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why do similarly charged electroscope leaves separate?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The leaves repel because they carry charge of the same sign.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The leaves repel because they carry charge of the same sign. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What is charging by contact?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Charge transfer when a charged object touches another object.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Charge transfer when a charged object touches another object. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "What is induction without contact?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Redistribution of charge caused by a nearby charged object without charge transfer through touching that object.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Redistribution of charge caused by a nearby charged object without charge transfer through touching that object. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A capacitor has Q=30 μC at V=10 V. Find capacitance.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "C=Q/V=30×10^(−6)/10=3×10^(−6) F=3 μF.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: C=Q/V=30×10^(−6)/10=3×10^(−6) F=3 μF. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "A 4 μF capacitor has 5 V across it. Find stored charge magnitude.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Q=CV=4×10^(−6)×5=20×10^(−6) C=20 μC.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Q=CV=4×10^(−6)×5=20×10^(−6) C=20 μC. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Where is excess charge on an isolated conductor at electrostatic equilibrium?",
+          "type": "short",
+          "options": [],
+          "answerKey": "On its outer surface under the stated isolated-conductor conditions.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: On its outer surface under the stated isolated-conductor conditions. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why must lightning protection installation be done professionally?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It must provide a continuous, suitable path to earth and meet engineering requirements; unsafe improvised wiring can fail or create danger.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: It must provide a continuous, suitable path to earth and meet engineering requirements; unsafe improvised wiring can fail or create danger. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "A 6 μF capacitor is used at 8 V. Calculate charge magnitude and describe both plates.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Q=CV=6×10^(−6)×8=48 μC; plates carry +48 μC and −48 μC in the ideal model, so the whole device has zero net charge.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Q=CV=6×10^(−6)×8=48 μC; plates carry +48 μC and −48 μC in the ideal model, so the whole device has zero net charge. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "A charged rod attracts an unknown light object. Write two explanations and a discriminating observation.",
+          "type": "short",
+          "options": [],
+          "answerKey": "The object may carry opposite charge or be neutral and polarised; repulsion in a controlled comparison would establish like net charge, while attraction alone cannot decide between the two explanations.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: The object may carry opposite charge or be neutral and polarised; repulsion in a controlled comparison would establish like net charge, while attraction alone cannot decide between the two explanations. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Plan a controlled paper-attraction experiment using a plastic ruler.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Use equal dry paper pieces, the same ruler and rubbing material, fixed distance and rubbing duration; compare before and after rubbing, repeat and record attraction distance or number lifted; keep away from flammable vapours and electronics and explain humidity as a limitation.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Use equal dry paper pieces, the same ruler and rubbing material, fixed distance and rubbing duration; compare before and after rubbing, repeat and record attraction distance or number lifted; keep away from flammable vapours and electronics and explain humidity as a limitation. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "physics-f2-activity-03",
+        "physics-f2-activity-06",
+        "physics-f2-activity-10",
+        "physics-f2-activity-11",
+        "physics-f2-activity-12"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "physics-f2-optical-instrument-lab",
+      "subjectId": "physics",
+      "form": 2,
+      "title": "Optical instruments and experimental design",
+      "language": "en",
+      "objectives": [
+        "Explain a pinhole camera, simple magnifier and periscope",
+        "Use magnification ratios with units",
+        "Analyse optical data and communicate a prototype test"
+      ],
+      "paragraphs": [
+        "An optical instrument controls light to make an image or redirect a view. In a pinhole camera, rays travel approximately straight from the top and bottom of an object through a small hole to opposite parts of a screen, producing a real inverted image. A smaller hole can sharpen the image but reduces brightness; making it extremely small introduces diffraction, so smaller is not always better. A dark enclosure reduces unwanted light.",
+        "A simple magnifier uses a converging lens with the object inside its focal length. The emerging rays diverge and the eye traces them back to an upright, magnified virtual image. A camera lens instead forms a real image on a sensor or screen when the object is beyond the focal length. A real image can be received on a screen; a virtual image cannot be projected directly there. Never view the Sun or intense light through any optical instrument.",
+        "A simple periscope uses two parallel plane mirrors, commonly placed at 45° to the tube direction. Two successive reflections redirect rays around an obstruction. The law of reflection applies at each mirror: angles are measured from the normal. Aligning and securing the mirrors matters more than decorating the housing. Teacher-provided unbroken mirrors or suitable mirror sheet should be used; learners should not cut glass.",
+        "For a pinhole camera viewing a perpendicular object, similar triangles give image height/object height=image distance/object distance, using positive magnitudes. Measure all lengths in compatible units. A spreadsheet can hold object distance, image distance and image height, calculate ratios, and display a labelled XY graph. Repeat measurements and report their spread; compare a prediction with observations rather than inventing perfect data. An oral report should state the question, method, evidence, conclusion and limitations. Safe bright classroom objects or an LED target may be used, never the Sun."
+      ],
+      "examples": [
+        "A 30 cm high object is 150 cm from a pinhole and the screen is 10 cm behind it. Image height/30=10/150, so image height=2 cm. The image is inverted and real.",
+        "A camera image is 8 mm high for an object 400 mm high. Linear magnification magnitude=8/400=0.02. The small image does not imply poor focus; size and sharpness are different observations.",
+        "At fixed object distance 200 cm and object height 40 cm, screen distances 5,10,15 cm predict image heights 1,2,3 cm. A plot of image height against screen distance is a line through the origin with gradient 40/200=0.2, using the same length units for both axes."
+      ],
+      "glossary": [
+        {
+          "term": "real image",
+          "definition": "An image formed where rays actually meet and which can be received on a screen."
+        },
+        {
+          "term": "virtual image",
+          "definition": "An image at a location from which rays appear to originate."
+        },
+        {
+          "term": "linear magnification",
+          "definition": "Image height divided by object height, with sign conventions stated when used."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Why is a pinhole camera image inverted?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Straight rays from the top and bottom cross at the hole and reach opposite parts of the screen.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Straight rays from the top and bottom cross at the hole and reach opposite parts of the screen. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Is the pinhole camera image real or virtual?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Real; it is formed on a screen by light that actually reaches it.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Real; it is formed on a screen by light that actually reaches it. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "How does making a moderately large pinhole smaller initially affect the image?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It generally sharpens the image but reduces brightness; extremely small holes can suffer diffraction.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: It generally sharpens the image but reduces brightness; extremely small holes can suffer diffraction. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Where is the object placed for a simple converging-lens magnifier?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Inside the focal length of the lens.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Inside the focal length of the lens. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Describe the image in a simple magnifier.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Upright, enlarged and virtual when the object is inside the focal length.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Upright, enlarged and virtual when the object is inside the focal length. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why can a virtual image not be received directly on a screen at its apparent position?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The rays do not actually converge at that position; they only appear to originate there.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The rays do not actually converge at that position; they only appear to originate there. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "How many plane mirrors are used in a simple periscope?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Two, arranged parallel and commonly at 45° to the tube direction.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Two, arranged parallel and commonly at 45° to the tube direction. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "From what line is the angle of incidence measured?",
+          "type": "short",
+          "options": [],
+          "answerKey": "The normal, perpendicular to the reflecting surface at the point of incidence.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: The normal, perpendicular to the reflecting surface at the point of incidence. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A ray meets a mirror at 35° to its normal. Find reflection angle.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "35° to the normal, by the law of reflection.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 35° to the normal, by the law of reflection. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A 20 cm object is 100 cm from a pinhole; screen distance is 15 cm. Find image height.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "h_i/20=15/100, so h_i=3 cm; image is inverted.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: h_i/20=15/100, so h_i=3 cm; image is inverted. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "An image is 6 mm high and object 300 mm high. Find magnification magnitude.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "m=6/300=0.02; the ratio has no unit.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: m=6/300=0.02; the ratio has no unit. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "At fixed object distance and height, what happens to pinhole image height if screen distance doubles?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It doubles, since h_i=h_o v/u with h_o and u fixed.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: It doubles, since h_i=h_o v/u with h_o and u fixed. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why use an XY chart for measured object distance and image height?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Both axes represent numerical measurements, so XY spacing preserves their actual values.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Both axes represent numerical measurements, so XY spacing preserves their actual values. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Name two essential parts of an oral experimental report.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Any two: question, method, measured evidence with units, conclusion, limitations.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Any two: question, method, measured evidence with units, conclusion, limitations. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "State two optical-prototype safety precautions.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Never view the Sun or intense light through lenses; use teacher-provided safe mirrors and do not cut glass. Any two relevant precautions.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Never view the Sun or intense light through lenses; use teacher-provided safe mirrors and do not cut glass. Any two relevant precautions. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "A 24 cm target is 120 cm from a pinhole. Find image heights at screen distances 5,10,20 cm and describe the graph.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "h_i=24v/120=0.2v; heights 1,2,4 cm; a straight line through the origin with gradient 0.2 when both axes use cm.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: h_i=24v/120=0.2v; heights 1,2,4 cm; a straight line through the origin with gradient 0.2 when both axes use cm. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "Outline a fair comparison of two pinhole sizes, including evidence for choosing one.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Use the same target, illumination, object distance, screen distance and enclosure; change only hole size; compare readable detail and brightness over repeated trials; select according to the task, stating the sharpness–brightness trade-off, and do not use sunlight.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Use the same target, illumination, object distance, screen distance and enclosure; change only hole size; compare readable detail and brightness over repeated trials; select according to the task, stating the sharpness–brightness trade-off, and do not use sunlight. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "A learner reports predicted image heights as measured values. Explain how to repair the report and communicate a valid conclusion.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Separate model predictions from actual observations; record real measurements with units and repeats; calculate differences or spread; conclude whether measured evidence supports the model within limitations, without replacing data by ideal values.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Separate model predictions from actual observations; record real measurements with units and repeats; calculate differences or spread; conclude whether measured evidence supports the model within limitations, without replacing data by ideal values. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "physics-f2-activity-01",
+        "physics-f2-activity-05",
+        "physics-f2-activity-06",
+        "physics-f2-activity-07",
+        "physics-f2-activity-08",
+        "physics-f2-activity-09",
+        "physics-f2-activity-10",
+        "physics-f2-activity-11",
+        "physics-f2-activity-12"
+      ],
+      "completionStatus": "expanded-chapter",
+      "diagram": "/diagrams/agent-quantitative/pinhole-camera.svg",
+      "diagramAlt": "Schematic rays from an upright object cross at a pinhole to form a real inverted image on a screen; u and v label object and screen distances."
+    }
+  ]
+}

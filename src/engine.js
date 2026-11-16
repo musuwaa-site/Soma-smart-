@@ -25,7 +25,9 @@ export function eligible(
   }
   const valid = (q) =>
     q.form === Number(form) &&
-    q.subjectId === subjectId &&
+    (q.subjectId === subjectId ||
+      (q.sourceType === "original" && q.topicIds.some(id =>
+        data.lessons?.some(l => l.id === id && l.subjectId === subjectId && l.form === Number(form))))) &&
     q.publicationStatus === "published" &&
     q.answerKey &&
     q.maximumMarks > 0 &&

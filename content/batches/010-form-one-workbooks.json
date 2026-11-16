@@ -1,0 +1,2443 @@
+{
+  "questions": [
+    {
+      "id": "chemistry-f1-laboratory-wb-01",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "chemistry-f1-activity-01",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            15
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f1-activity-02",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            16
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f1-activity-07",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f1-activity-08",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f1-activity-09",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "A pupil changes water temperature and stirring speed together. Why is the result difficult to interpret?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Either factor or their combination could affect dissolving time.",
+      "markingGuide": "Change one intended factor and control relevant alternatives.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "chemistry-f1-laboratory-wb-02",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "chemistry-f1-activity-01",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            15
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f1-activity-02",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            16
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f1-activity-07",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f1-activity-08",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f1-activity-09",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "A beaker reading is 52 mL but its divisions are 10 mL apart. Explain why writing 52.000 mL is unjustified.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "The notation implies precision unsupported by the instrument scale.",
+      "markingGuide": "More digits do not create a finer measurement.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "chemistry-f1-laboratory-wb-03",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "chemistry-f1-activity-01",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            15
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f1-activity-02",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            16
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f1-activity-07",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f1-activity-08",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "chemistry-f1-activity-09",
+          "sourceId": "f6b93b5819e5c582",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Give a report structure for a separation investigation.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Question, method, conditions, observations, results, conclusion and limitations.",
+      "markingGuide": "Keep observed facts separate from interpretation.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "physics-f1-data-investigation-wb-01",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "physics-f1-activity-08",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-09",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-11",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-12",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            25
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-13",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            26
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-14",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            27
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-15",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            28
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-16",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Find the mean and range of 5.1, 5.3 and 5.2 s.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Mean5.2 s; range0.2 s.",
+      "markingGuide": "Add and divide by three; subtract minimum from maximum.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "physics-f1-data-investigation-wb-02",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "physics-f1-activity-08",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-09",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-11",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-12",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            25
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-13",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            26
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-14",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            27
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-15",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            28
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-16",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "A distance–time line passes (2 s,5 m) and (8 s,20 m). Find gradient.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "2.5 m/s",
+      "markingGuide": "(20−5)/(8−2).",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "physics-f1-data-investigation-wb-03",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "physics-f1-activity-08",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-09",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-11",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-12",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            25
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-13",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            26
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-14",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            27
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-15",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            28
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "physics-f1-activity-16",
+          "sourceId": "0e0f96e61e9ec349",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Why is deleting an unusual reading without explanation poor practice?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "It hides evidence and may conceal a real variation or method problem.",
+      "markingGuide": "Investigate and record any justified correction.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "biology-f1-classification-wb-01",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "biology-f1-activity-01",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            15
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f1-activity-04",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            17,
+            18
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f1-activity-05",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f1-activity-06",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f1-activity-07",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Write a correct printed scientific name format using Homo sapiens.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Homo sapiens, italicised, genus capitalised and specific epithet lower case.",
+      "markingGuide": "Both words form the species name.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "biology-f1-classification-wb-02",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "biology-f1-activity-01",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            15
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f1-activity-04",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            17,
+            18
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f1-activity-05",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f1-activity-06",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f1-activity-07",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Find total magnification for 15× eyepiece and 10× objective.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "150×",
+      "markingGuide": "Multiply the two values.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "biology-f1-classification-wb-03",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "biology-f1-activity-01",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            15
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f1-activity-04",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            17,
+            18
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f1-activity-05",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f1-activity-06",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "biology-f1-activity-07",
+          "sourceId": "06537e79ec6d005a",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Why should an organism not be classified from one convenient trait alone?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Unrelated organisms may share that trait; broader evidence is needed.",
+      "markingGuide": "Use flying as an example.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f1-lines-equations-wb-01",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "mathematics-f1-activity-13",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-14",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-15",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-16",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-17",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-18",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-19",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-20",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Solve x+y=14 and x−y=4.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "x=9,y=5.",
+      "markingGuide": "Add, then substitute.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f1-lines-equations-wb-02",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "mathematics-f1-activity-13",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-14",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-15",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-16",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-17",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-18",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-19",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-20",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Find the equation with gradient3 through (0,−2).",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "y=3x−2",
+      "markingGuide": "The point gives the vertical intercept.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "mathematics-f1-lines-equations-wb-03",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "mathematics-f1-activity-13",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-14",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-15",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-16",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-17",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-18",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-19",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "mathematics-f1-activity-20",
+          "sourceId": "a666f9276704c2d0",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Solve −3x+2<14.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "x>−4",
+      "markingGuide": "Subtract2 then divide by−3 and reverse the sign.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "kiswahili-f1-kusoma-kamusi-wb-01",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "kiswahili-f1-activity-05",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            18
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-06",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-07",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-08",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-09",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-10",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-11",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-12",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-13",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Tunga mfano mmoja wa neno lenye maana zinazobadilika kwa muktadha.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Kichwa kinaweza kuwa sehemu ya mwili au kichwa cha habari.",
+      "markingGuide": "Sentensi zionyeshe maana zilizokusudiwa.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "kiswahili-f1-kusoma-kamusi-wb-02",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "kiswahili-f1-activity-05",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            18
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-06",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-07",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-08",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-09",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-10",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-11",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-12",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-13",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Kwa nini si sahihi kusema Baraka ndiye aliyekopa kamusi?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Matini inasema Mwanaidi aliikopa.",
+      "markingGuide": "Jibu litegemee ushahidi.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "kiswahili-f1-kusoma-kamusi-wb-03",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "kiswahili-f1-activity-05",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            18
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-06",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-07",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-08",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-09",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-10",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-11",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-12",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "kiswahili-f1-activity-13",
+          "sourceId": "882332bb296bc693",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Andika ombi la kuuliza maana bila kumkatiza msemaji kwa ukali.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Samahani, ukimaliza naomba ufafanue neno hilo.",
+      "markingGuide": "Heshimu nafasi na kusudi la mazungumzo.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "geography-f1-surface-features-wb-01",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-surface-features"
+      ],
+      "subtopicIds": [
+        "geography-f1-surface-features"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "geography-f1-activity-01",
+          "sourceId": "89a9dd3eb858f8d0",
+          "pdfPages": [
+            15
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "geography-f1-activity-03",
+          "sourceId": "89a9dd3eb858f8d0",
+          "pdfPages": [
+            17
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Explain how a river can link physical and human geography.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Its flow and landforms affect settlements or farming, while human activity can change its quality.",
+      "markingGuide": "Show a two-way relationship.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "geography-f1-surface-features-wb-02",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-surface-features"
+      ],
+      "subtopicIds": [
+        "geography-f1-surface-features"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "geography-f1-activity-01",
+          "sourceId": "89a9dd3eb858f8d0",
+          "pdfPages": [
+            15
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "geography-f1-activity-03",
+          "sourceId": "89a9dd3eb858f8d0",
+          "pdfPages": [
+            17
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Why should a vegetation map be interpreted as broad categories?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Real vegetation varies with several factors and boundaries need not be uniform.",
+      "markingGuide": "Recognise simplification.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "geography-f1-surface-features-wb-03",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "geography",
+      "topicIds": [
+        "geography-f1-surface-features"
+      ],
+      "subtopicIds": [
+        "geography-f1-surface-features"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "geography-f1-activity-01",
+          "sourceId": "89a9dd3eb858f8d0",
+          "pdfPages": [
+            15
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "geography-f1-activity-03",
+          "sourceId": "89a9dd3eb858f8d0",
+          "pdfPages": [
+            17
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Distinguish a lake from an ocean using regional examples.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Lake Tanganyika is inland; the Indian Ocean is a major salt-water ocean.",
+      "markingGuide": "Use correct feature types.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "business-f1-business-planning-wb-01",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-business-planning"
+      ],
+      "subtopicIds": [
+        "business-f1-business-planning"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "business-f1-activity-02",
+          "sourceId": "302a9bb91147e4ce",
+          "pdfPages": [
+            16
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "business-f1-activity-03",
+          "sourceId": "302a9bb91147e4ce",
+          "pdfPages": [
+            17
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "A trader buys12 items at400 each and transport costs1200. Find relevant unit cost.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "TSh500",
+      "markingGuide": "Total6000 divided by12.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "business-f1-business-planning-wb-02",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-business-planning"
+      ],
+      "subtopicIds": [
+        "business-f1-business-planning"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "business-f1-activity-02",
+          "sourceId": "302a9bb91147e4ce",
+          "pdfPages": [
+            16
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "business-f1-activity-03",
+          "sourceId": "302a9bb91147e4ce",
+          "pdfPages": [
+            17
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "A trial produces15 items and sells9. What two quantities should the record distinguish?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Nine sales and six unsold items.",
+      "markingGuide": "Do not equate output with sales.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "business-f1-business-planning-wb-03",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "business",
+      "topicIds": [
+        "business-f1-business-planning"
+      ],
+      "subtopicIds": [
+        "business-f1-business-planning"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "business-f1-activity-02",
+          "sourceId": "302a9bb91147e4ce",
+          "pdfPages": [
+            16
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "business-f1-activity-03",
+          "sourceId": "302a9bb91147e4ce",
+          "pdfPages": [
+            17
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Why should a trial plan include quality complaints as well as revenue?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Sales alone may conceal problems affecting future demand and responsibilities.",
+      "markingGuide": "Use more than one performance measure.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "historia-f1-urithi-ushirikiano-wb-01",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "historia-f1-activity-04",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-05",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-06",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-07",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-08",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-09",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-10",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Toa mfano wa matumizi ya urithi yanayohitaji ridhaa.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Kurekodi simulizi au maarifa ya mtoa taarifa.",
+      "markingGuide": "Heshimu masharti na faragha.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "historia-f1-urithi-ushirikiano-wb-02",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "historia-f1-activity-04",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-05",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-06",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-07",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-08",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-09",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-10",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Eleza tofauti ya kutengeneza ufundi mpya na kudai kitu ni cha kale.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Kazi mpya inaweza kutumia mbinu za jadi bila kuwa kitu kilichotengenezwa zamani.",
+      "markingGuide": "Maelezo yawe ya kweli.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "historia-f1-urithi-ushirikiano-wb-03",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "historia",
+      "topicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "subtopicIds": [
+        "historia-f1-urithi-ushirikiano"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "historia-f1-activity-04",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-05",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-06",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-07",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            21
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-08",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-09",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "historia-f1-activity-10",
+          "sourceId": "5510fd3e38500baf",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Kwa nini wenye urithi washirikishwe katika maonesho?",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Maamuzi yanawaathiri na wana maarifa na uhusiano muhimu na urithi.",
+      "markingGuide": "Ushiriki uwe na heshima na uwajibikaji.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "english-f1-information-letters-wb-01",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "english",
+      "topicIds": [
+        "english-f1-information-letters"
+      ],
+      "subtopicIds": [
+        "english-f1-information-letters"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "english-f1-activity-01",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            14
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-02",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            14
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-12",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-13",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-14",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-18",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-19",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-20",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-21",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-22",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-23",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-33",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-34",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-35",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-36",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            30
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "1",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Write an invitation that includes a place and time.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Dear Juma, please join us in the library on Tuesday at4 p.m. for a reading session. Let me know if you can attend.",
+      "markingGuide": "Include the activity and clear arrangements.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "english-f1-information-letters-wb-02",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "english",
+      "topicIds": [
+        "english-f1-information-letters"
+      ],
+      "subtopicIds": [
+        "english-f1-information-letters"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "english-f1-activity-01",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            14
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-02",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            14
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-12",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-13",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-14",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-18",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-19",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-20",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-21",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-22",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-23",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-33",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-34",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-35",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-36",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            30
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Which is stronger evidence about school arrangements: a current named notice or an undated rumour? Explain.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "The current named notice is more directly attributable and relevant.",
+      "markingGuide": "Source quality depends on evidence and context.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    },
+    {
+      "id": "english-f1-information-letters-wb-03",
+      "paperId": null,
+      "form": 1,
+      "subjectId": "english",
+      "topicIds": [
+        "english-f1-information-letters"
+      ],
+      "subtopicIds": [
+        "english-f1-information-letters"
+      ],
+      "sourceType": "original",
+      "sourceTitle": "SomaSmart original revision workbook",
+      "institution": "SomaSmart",
+      "year": null,
+      "curriculumEdition": "TIE 2023; activity mapping partial",
+      "curriculumRefs": [
+        {
+          "activityId": "english-f1-activity-01",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            14
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-02",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            14
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-12",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-13",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            19
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-14",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            20
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-18",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            22
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-19",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-20",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-21",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            23
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-22",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-23",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            24
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-33",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-34",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-35",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            29
+          ],
+          "scope": "partial-support"
+        },
+        {
+          "activityId": "english-f1-activity-36",
+          "sourceId": "6daa1f44f86bd186",
+          "pdfPages": [
+            30
+          ],
+          "scope": "partial-support"
+        }
+      ],
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "type": "short",
+      "instructions": "",
+      "content": "Create two sentences using different meanings of light.",
+      "options": [],
+      "media": [],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "The bag is light. The lamp produces light.",
+      "markingGuide": "Make each meaning clear from context.",
+      "solutionProvenance": "SomaSmart independently authored",
+      "sourceReference": "Original Form One expansion workbook",
+      "rightsStatus": "original",
+      "verificationStatus": "author-reviewed",
+      "publicationStatus": "published",
+      "resourceKind": "workbook"
+    }
+  ]
+}

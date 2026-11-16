@@ -1,0 +1,638 @@
+{
+  "chapters": [
+    {
+      "id": "mathematics-f1-recurring-decimal-prefix",
+      "subjectId": "mathematics",
+      "form": 1,
+      "title": "Recurring decimals with a non-repeating prefix",
+      "language": "en",
+      "objectives": [
+        "Separate a decimal prefix from its repeating block",
+        "Convert mixed recurring decimals into reduced fractions",
+        "Predict terminating and recurring expansions from reduced denominators"
+      ],
+      "paragraphs": [
+        "Write recurring decimals so the repeating block is unambiguous. In 0.1666… the initial digit 1 does not repeat and only 6 repeats; in 0.161616… the whole block 16 repeats. These are different numbers. In this chapter, brackets identify the block: 0.1(6) means 0.1666…, while 0.(16) means 0.161616…. The digits before the brackets form the non-repeating prefix.",
+        "To eliminate a prefix, first multiply by a power of ten that moves all its digits left of the decimal point. If x=0.1(6), then 10x=1.(6). Multiply again by ten because the block has one digit: 100x=16.(6). Subtracting these aligned equations cancels the infinite tails, giving 90x=15. The important condition is matching tails, rather than merely multiplying by the first convenient power of ten.",
+        "If there are p non-repeating digits after the point and r repeating digits, compare 10^(p+r)x with 10^p x. Their difference is an integer, and the coefficient of x is 10^(p+r)−10^p. For x=0.23(45), compare 10000x=2345.(45) with 100x=23.(45), so 9900x=2322. This method also handles integer parts, provided the entire number is multiplied consistently.",
+        "A reduced fraction has a terminating decimal precisely when its denominator contains only prime factors 2 and 5. Such a denominator can be multiplied into a power of ten. A denominator with another prime factor produces a recurring expansion. A denominator containing both factors 2 or 5 and other primes can produce a non-repeating prefix before the recurring block. Always reduce a fraction before examining its denominator; 3/6 simplifies to 1/2 and terminates.",
+        "Long division checks a conversion: each step multiplies the current remainder by ten. Repeating a remainder repeats all subsequent digits. A terminating approximation should not be confused with the exact recurring value; 0.167 is close to 1/6 but is not equal. Retain a fraction for exact calculation and round only when the task requests an approximation. The identity 0.(9)=1 follows from the same exact subtraction method and does not assert that a finite string of nines equals one."
+      ],
+      "examples": [
+        "Let x=0.2(7). Then 10x=2.(7) and 100x=27.(7). Subtract to obtain 90x=25, so x=25/90=5/18. A quick check gives 5÷18=0.2777… .",
+        "Let x=0.04(12). Then 100x=4.(12) and 10000x=412.(12). Subtract: 9900x=408, hence x=408/9900=34/825. The two prefix digits include the initial zero, so multiplying by only ten would not correctly align the repeating part.",
+        "Let x=2.1(36). Then 10x=21.(36) and 1000x=2136.(36). Subtract: 990x=2115, so x=2115/990=47/22. Long division gives 47/22=2.1363636… ."
+      ],
+      "glossary": [
+        {
+          "term": "repeating block",
+          "definition": "The finite sequence of digits that recurs indefinitely."
+        },
+        {
+          "term": "non-repeating prefix",
+          "definition": "Digits after the decimal point that occur before repetition begins."
+        },
+        {
+          "term": "reduced fraction",
+          "definition": "A fraction whose numerator and denominator have no common factor greater than one."
+        }
+      ],
+      "questions": [
+        {
+          "content": "In 0.12(3), identify the prefix and the repeating block.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Prefix 12; repeating block 3, so the expansion is 0.123333… .",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Prefix 12; repeating block 3, so the expansion is 0.123333… . Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Write the first eight digits after the decimal point in 0.4(27).",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "42727272; only 27 repeats after the initial 4.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 42727272; only 27 repeats after the initial 4. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Convert 0.(7) to a reduced fraction.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Let x=0.(7); 10x−x=7; x=7/9.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Let x=0.(7); 10x−x=7; x=7/9. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Convert 0.1(2) to a reduced fraction.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "100x−10x=12−1=11; 90x=11; x=11/90.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 100x−10x=12−1=11; 90x=11; x=11/90. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Convert 0.3(6) to a reduced fraction.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "100x−10x=36−3=33; x=33/90=11/30.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 100x−10x=36−3=33; x=33/90=11/30. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Convert 0.08(3) to a reduced fraction.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "1000x−100x=83−8=75; x=75/900=1/12.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 1000x−100x=83−8=75; x=75/900=1/12. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Convert 0.2(18) to a reduced fraction.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "1000x−10x=218−2=216; x=216/990=12/55.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 1000x−10x=218−2=216; x=216/990=12/55. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Convert 1.0(6) to a reduced fraction.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "100x−10x=106−10=96; x=96/90=16/15.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 100x−10x=106−10=96; x=96/90=16/15. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Which is larger, 0.1(6) or 0.(16)? Show an exact comparison.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "0.1(6)=1/6 and 0.(16)=16/99; difference 1/6−16/99=1/198>0; 0.1(6) is larger.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: 0.1(6)=1/6 and 0.(16)=16/99; difference 1/6−16/99=1/198>0; 0.1(6) is larger. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Does 7/40 terminate? Explain using prime factors.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "40=2³×5, so only factors 2 and 5 occur; 7/40=0.175 terminates.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 40=2³×5, so only factors 2 and 5 occur; 7/40=0.175 terminates. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Does 5/12 terminate? Explain.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "It is reduced and 12=2²×3 includes factor 3; its expansion recurs, 0.41(6).",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: It is reduced and 12=2²×3 includes factor 3; its expansion recurs, 0.41(6). Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why must 6/15 be reduced before using the denominator test?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "6/15=2/5, whose denominator has only factor 5; examining the unreduced factor 3 would give a false conclusion.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 6/15=2/5, whose denominator has only factor 5; examining the unreduced factor 3 would give a false conclusion. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Find the exact difference 0.1(6)−0.16.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "1/6−4/25=(25−24)/150=1/150.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 1/6−4/25=(25−24)/150=1/150. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Prove 0.(9)=1 by subtraction.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Let x=0.(9); 10x=9.(9); subtract to obtain 9x=9, hence x=1.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Let x=0.(9); 10x=9.(9); subtract to obtain 9x=9, hence x=1. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "For 0.02(37), which two powers of ten align the tails?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Multiply by 100 and 10000: 100x=2.(37), 10000x=237.(37); their recurring tails match.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Multiply by 100 and 10000: 100x=2.(37), 10000x=237.(37); their recurring tails match. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Convert 0.003(45) to a reduced fraction and explain how zeros affect the method.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "There are three prefix digits and two repeating digits; 100000x−1000x=345−3=342; x=342/99000=19/5500. Prefix zeros still count as positions.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: There are three prefix digits and two repeating digits; 100000x−1000x=345−3=342; x=342/99000=19/5500. Prefix zeros still count as positions. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "Convert 3.24(6) to a reduced fraction and check the integer and fractional parts.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "1000x−100x=3246−324=2922; x=2922/900=487/150=3+37/150; 37/150=0.24666… verifies the expansion.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: 1000x−100x=3246−324=2922; x=2922/900=487/150=3+37/150; 37/150=0.24666… verifies the expansion. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "A learner writes 0.58(3)=583/999. Diagnose the error and find the correct fraction.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "583/999 represents 0.(583), incorrectly repeating the prefix; align 1000x and 100x, giving 900x=583−58=525; x=525/900=7/12.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: 583/999 represents 0.(583), incorrectly repeating the prefix; align 1000x and 100x, giving 900x=583−58=525; x=525/900=7/12. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "mathematics-f1-activity-02",
+        "mathematics-f1-activity-03",
+        "mathematics-f1-activity-06"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "mathematics-f2-standard-form-precision",
+      "subjectId": "mathematics",
+      "form": 2,
+      "title": "Standard-form calculations and reported precision",
+      "language": "en",
+      "objectives": [
+        "Calculate with normalised powers of ten",
+        "Align exponents before adding or subtracting",
+        "Report significant figures without inventing precision"
+      ],
+      "paragraphs": [
+        "For a positive number in standard form A×10^n, the coefficient satisfies 1≤A<10 and n is an integer. A negative value is written with a separate minus sign, for example −3.2×10⁴. Standard form preserves place value while making scale visible. The expressions 0.72×10⁵ and 72×10³ represent the same quantity, but neither is normalised; both become 7.2×10⁴.",
+        "For multiplication, multiply coefficients and add exponents. For division, divide coefficients and subtract the denominator exponent, using brackets around a negative exponent. Renormalise the coefficient afterwards. A result 24×10⁷ becomes 2.4×10⁸ because reducing the coefficient by a factor ten requires increasing the power by one. For a power of a standard-form expression, raise the coefficient and multiply the exponent by the outside power.",
+        "Addition and subtraction require matching powers of ten. Rewrite one or both quantities with a common exponent, combine the coefficients and then normalise the result. Exponents do not add during addition of numbers. This distinction is particularly important when subtracting nearly equal large quantities, where a small difference can be hidden by premature rounding.",
+        "Significant figures communicate which digits have been retained. Leading zeros locate a decimal point and do not count; zeros between significant digits count, and a final zero after a decimal point can indicate retained precision. Thus 4.50×10³ states three significant figures more clearly than the ambiguous integer 4500. A change from 9.96×10⁴ to two significant figures gives 1.0×10⁵: the zero in 1.0 is necessary to retain the stated two figures.",
+        "Keep extra digits during calculations and round the final result to the precision requested. For school measurement calculations, multiplication or division is commonly reported to the fewest significant figures among measured inputs, while addition or subtraction follows the least precise decimal place after units are aligned; follow the stated task convention. Exact counts and exact unit conversions do not limit precision. Standard form alone does not guarantee accuracy, and converting a rounded measurement to another unit creates no new measured information."
+      ],
+      "examples": [
+        "Calculate (6×10⁵)(4×10^(−3)). Coefficients give 24 and exponents give 5+(−3)=2, hence 24×10²=2.4×10³. The exponent is adjusted during normalisation.",
+        "Calculate (8.4×10^(−5))/(2.0×10³). The coefficient is 8.4/2.0=4.2 and exponent is −5−3=−8, giving 4.2×10^(−8). Both measured inputs have two significant figures, so this is an appropriate two-figure result.",
+        "Find (5.72×10⁶)−(8.6×10⁵). Rewrite 8.6×10⁵ as 0.86×10⁶; subtract to get 4.86×10⁶. Both inputs were given to the nearest 10000, so the result also ends at that place. Rounding the inputs to one significant figure first would lose important information."
+      ],
+      "glossary": [
+        {
+          "term": "normalisation",
+          "definition": "Rewriting standard form so the positive coefficient is at least 1 and less than 10."
+        },
+        {
+          "term": "significant figures",
+          "definition": "Digits retained from the first nonzero digit to express a value's reported precision."
+        },
+        {
+          "term": "order of magnitude",
+          "definition": "A power-of-ten scale used to compare the approximate sizes of quantities."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Write 0.00000642 in standard form.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "6.42×10^(−6); moving the point six places right requires exponent −6.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 6.42×10^(−6); moving the point six places right requires exponent −6. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Write 7.08×10⁷ as an ordinary number.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "70,800,000.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 70,800,000. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Normalise 42×10^(−6).",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "4.2×10^(−5); divide coefficient by ten and increase exponent by one.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 4.2×10^(−5); divide coefficient by ten and increase exponent by one. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate (3×10⁴)(8×10³) in standard form.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "24×10⁷=2.4×10⁸.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 24×10⁷=2.4×10⁸. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate (9×10^(−4))/(3×10²).",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Coefficient 3; exponent −4−2=−6; answer 3×10^(−6).",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Coefficient 3; exponent −4−2=−6; answer 3×10^(−6). Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate (2.4×10⁶)/(6×10^(−2)).",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Coefficient 0.4; exponent 6−(−2)=8; 0.4×10⁸=4×10⁷.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Coefficient 0.4; exponent 6−(−2)=8; 0.4×10⁸=4×10⁷. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Calculate (2×10^(−3))².",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "2²×10^(−6)=4×10^(−6).",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 2²×10^(−6)=4×10^(−6). Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Add 3.6×10⁵ and 7.2×10⁴.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "3.6×10⁵+0.72×10⁵=4.32×10⁵.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 3.6×10⁵+0.72×10⁵=4.32×10⁵. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Subtract 9.5×10⁶ from 1.2×10⁷.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "12×10⁶−9.5×10⁶=2.5×10⁶.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 12×10⁶−9.5×10⁶=2.5×10⁶. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Round 9.96×10⁴ to two significant figures.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "1.0×10⁵; retaining the zero in 1.0 states two significant figures.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: 1.0×10⁵; retaining the zero in 1.0 states two significant figures. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "How many significant figures are in 0.004050?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Four: 4,0,5,0; leading zeros do not count.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Four: 4,0,5,0; leading zeros do not count. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Write 72000 to three significant figures unambiguously in standard form.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "7.20×10⁴; the final zero records the third significant figure.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 7.20×10⁴; the final zero records the third significant figure. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A measured 2.4 m length is multiplied by a measured 1.25 m width. Report area to two significant figures.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Unrounded product 3.00 m²; to two significant figures, 3.0 m².",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Unrounded product 3.00 m²; to two significant figures, 3.0 m². Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Convert 3.40×10^(−3) km into metres while retaining its significant figures.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Multiply by exact 1000; 3.40 m, retaining three significant figures.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Multiply by exact 1000; 3.40 m, retaining three significant figures. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why is adding exponents wrong when evaluating 10³+10²?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Exponent addition belongs to multiplication of equal bases; the sum is 1000+100=1100=1.1×10³.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Exponent addition belongs to multiplication of equal bases; the sum is 1000+100=1100=1.1×10³. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Calculate [(4.8×10⁵)(3.0×10^(−4))]/(6.0×10²), then report to two significant figures.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Coefficients 4.8×3.0/6.0=2.4; exponent 5−4−2=−1; result 2.4×10^(−1)=0.24.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Coefficients 4.8×3.0/6.0=2.4; exponent 5−4−2=−1; result 2.4×10^(−1)=0.24. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "Two measurements are 6.284×10⁶ m and 6.279×10⁶ m. Find their difference before rounding; explain why rounding each to three significant figures is misleading.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Difference (6.284−6.279)×10⁶=0.005×10⁶=5×10³ m; both round to 6.28×10⁶ at three significant figures, falsely suggesting zero difference.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Difference (6.284−6.279)×10⁶=0.005×10⁶=5×10³ m; both round to 6.28×10⁶ at three significant figures, falsely suggesting zero difference. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "A laboratory records mass 0.00320 kg. Express it in standard-form kilograms and in grams without adding precision.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "3.20×10^(−3) kg and 3.20 g; both have three significant figures, and the exact conversion factor 1000 adds no new measurement information.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: 3.20×10^(−3) kg and 3.20 g; both have three significant figures, and the exact conversion factor 1000 adds no new measurement information. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "mathematics-f2-activity-08",
+        "mathematics-f2-activity-09"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "physics-f2-electricity-data-investigation",
+      "subjectId": "physics",
+      "form": 2,
+      "title": "Current-electricity graphs and low-voltage evidence",
+      "language": "en",
+      "objectives": [
+        "Design a controlled low-voltage resistor investigation",
+        "Extract resistance from correctly labelled graphs",
+        "Process repeated readings and report qualified conclusions"
+      ],
+      "paragraphs": [
+        "Testing whether a component is ohmic requires a range of measured potential differences and currents while its temperature is approximately constant. A single V/I value describes one operating point but cannot establish a proportional relationship. Use several settings within teacher-approved ratings, take repeats and look for a stable ratio together with a straight graph approximately through the origin. A changing ratio may reflect heating, a non-ohmic component or measurement problems.",
+        "In a supervised low-voltage circuit, connect an ammeter in series with the test resistor and a voltmeter across it. Include a switch and a teacher-approved current-limiting resistor or supply limit. Start with the supply off, choose suitable meter ranges and ask the teacher to check connections before energising. Never place an ammeter directly across a supply: its low resistance can permit excessive current. Use only the specified low-voltage classroom source, keep hands dry and disconnect power before changing connections.",
+        "Change the supply setting or approved variable resistance in small steps. Record voltage in volts and current in amperes, converting milliamperes by dividing by 1000 before calculating R=V/I. Switch off between readings to reduce heating and stop if a component becomes hot or exceeds its rating. Record unexpected observations rather than replacing them. Keep the same component, meter setup and procedure when testing a constant-temperature relationship.",
+        "Choose graph axes deliberately. With V on the vertical axis and I horizontally, a straight-line gradient ΔV/ΔI has units V/A=Ω and represents resistance. With I vertically and V horizontally, the gradient is conductance, 1/R, in A/V. Use well-separated points on a best-fit line to estimate the gradient, rather than joining noisy adjacent points. An intercept significantly different from zero is a reason to investigate meter offsets or the circuit; it should not be erased by forcing a line through the origin.",
+        "A spreadsheet can store supply setting, V, I₁, I₂, mean I and calculated resistance. Use =AVERAGE(C2:D2) for repeats in those columns, and =B2/E2 for resistance if B contains V and E contains mean current in amperes; omit the ratio at zero current because division by zero is undefined. Use an XY chart and show units. A report should distinguish supplied practice data from real observations, describe controls and repeats, and explain what the graph supports within the tested range. Do not extrapolate to mains voltages or assume that every component has constant resistance."
+      ],
+      "examples": [
+        "Practice data for a resistor are V=1,2,3 V and I=0.020,0.040,0.060 A. Each ratio V/I=50 Ω. The V-against-I gradient using the endpoints is (3−1)/(0.060−0.020)=2/0.040=50 Ω, supporting ohmic behaviour over this range if temperature was controlled.",
+        "At 2.0 V, repeated currents are 38,40,42 mA. Mean=(38+40+42)/3=40 mA=0.040 A and range=42−38=4 mA. Resistance from the mean is 2.0/0.040=50 Ω. Repeating readings reveals spread but does not remove a meter's systematic offset.",
+        "Practice lamp data are (1 V,0.10 A),(2 V,0.16 A),(3 V,0.20 A). Ratios are 10,12.5,15 Ω. Resistance increases as the lamp heats, so these points do not support a constant-resistance model. At the final setting P=VI=3×0.20=0.60 W."
+      ],
+      "glossary": [
+        {
+          "term": "ohmic behaviour",
+          "definition": "A proportional V–I relationship at approximately constant physical conditions, especially temperature."
+        },
+        {
+          "term": "conductance",
+          "definition": "The reciprocal of resistance, with units A/V or siemens."
+        },
+        {
+          "term": "systematic offset",
+          "definition": "A consistent shift in readings that averaging alone does not remove."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Why are several voltage-current pairs needed to test ohmic behaviour?",
+          "type": "short",
+          "options": [],
+          "answerKey": "One ratio cannot establish proportionality; multiple settings reveal whether V/I stays constant and whether the graph is linear through the origin.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: One ratio cannot establish proportionality; multiple settings reveal whether V/I stays constant and whether the graph is linear through the origin. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "A meter reads 25 mA. Convert to amperes.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "25/1000=0.025 A.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: 25/1000=0.025 A. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "A resistor has 1.5 V across it and current 0.030 A. Calculate resistance.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "R=V/I=1.5/0.030=50 Ω.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: R=V/I=1.5/0.030=50 Ω. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "For a graph with V vertical and I horizontal, what is the gradient and its unit?",
+          "type": "short",
+          "options": [],
+          "answerKey": "ΔV/ΔI is resistance, measured in V/A=Ω.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: ΔV/ΔI is resistance, measured in V/A=Ω. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "For I vertical and V horizontal, a gradient is 0.02 A/V. Find resistance.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Gradient is 1/R; R=1/0.02=50 Ω.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Gradient is 1/R; R=1/0.02=50 Ω. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "A best-fit V-I line passes through (0.02 A,1.2 V) and (0.08 A,4.8 V). Find R.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "R=(4.8−1.2)/(0.08−0.02)=3.6/0.06=60 Ω.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: R=(4.8−1.2)/(0.08−0.02)=3.6/0.06=60 Ω. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Repeated currents are 18,20,22 mA at 1.0 V. Find mean current and resistance from it.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Mean=20 mA=0.020 A; R=1.0/0.020=50 Ω.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: Mean=20 mA=0.020 A; R=1.0/0.020=50 Ω. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Find the range of readings 31,29,32,30 mA.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Range=32−29=3 mA.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: Range=32−29=3 mA. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why must an ammeter not be connected directly across a supply?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Its low resistance can allow excessive current, risking damage, heating or a short circuit.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Its low resistance can allow excessive current, risking damage, heating or a short circuit. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Why should the supply be off before changing connections?",
+          "type": "short",
+          "options": [],
+          "answerKey": "It avoids accidental live short circuits and unexpected current while connections are being changed.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: It avoids accidental live short circuits and unexpected current while connections are being changed. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "At 0 V and 0 A, can resistance be calculated as V/I?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "No; 0/0 is undefined. Estimate resistance from nonzero data or the graph's gradient.",
+          "markingGuide": "Award up to 2 marks for the following independent correct steps or points: No; 0/0 is undefined. Estimate resistance from nonzero data or the graph's gradient. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Practice values are (1 V,0.1 A) and (2 V,0.2 A). Are they consistent with the same resistance?",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Both V/I=10 Ω; they are consistent, but more settings and controlled temperature are needed for a stronger conclusion.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: Both V/I=10 Ω; they are consistent, but more settings and controlled temperature are needed for a stronger conclusion. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Practice values are (1 V,0.1 A) and (2 V,0.15 A). Calculate and compare resistance.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "First R=10 Ω; second R=2/0.15≈13.3 Ω; resistance is not constant across these settings.",
+          "markingGuide": "Award up to 4 marks for the following independent correct steps or points: First R=10 Ω; second R=2/0.15≈13.3 Ω; resistance is not constant across these settings. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "In a sheet B2 is voltage and E2 is mean current in A. Give the resistance formula and a zero-current precaution.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "=B2/E2; leave undefined or flag rows with E2=0 instead of reporting zero resistance.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: =B2/E2; leave undefined or flag rows with E2=0 instead of reporting zero resistance. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Does averaging ten readings remove a voltmeter's zero offset? Explain.",
+          "type": "short",
+          "options": [],
+          "answerKey": "No; all readings share the systematic shift. Check and correct the zero or instrument according to approved procedure.",
+          "markingGuide": "Award up to 3 marks for the following independent correct steps or points: No; all readings share the systematic shift. Check and correct the zero or instrument according to approved procedure. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Using supplied practice data V=0.5,1.0,1.5,2.0 V and I=10,20,30,40 mA, calculate R, specify graph axes and state a qualified conclusion.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Convert currents to 0.010,0.020,0.030,0.040 A; all ratios are 50 Ω; plot V vertically versus I horizontally with gradient 50 Ω; data support proportionality over the tested range if temperature and measurement conditions were controlled. These are practice values, not claimed observations.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Convert currents to 0.010,0.020,0.030,0.040 A; all ratios are 50 Ω; plot V vertically versus I horizontally with gradient 50 Ω; data support proportionality over the tested range if temperature and measurement conditions were controlled. These are practice values, not claimed observations. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "Design a safe investigation with at least four supply settings and two repeats per setting.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Use a teacher-checked low-voltage source, current limit, switch, series ammeter and parallel voltmeter; select four settings within component ratings, record two V-I pairs at each, switch off between readings to limit heating, disconnect before rewiring, calculate means and plot labelled XY data; stop on overheating or rating limits.",
+          "markingGuide": "Award up to 6 marks for the following independent correct steps or points: Use a teacher-checked low-voltage source, current limit, switch, series ammeter and parallel voltmeter; select four settings within component ratings, record two V-I pairs at each, switch off between readings to limit heating, disconnect before rewiring, calculate means and plot labelled XY data; stop on overheating or rating limits. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "A V-against-I fit has gradient 80 Ω and intercept 0.15 V. Explain the gradient and why forcing the origin would weaken the report.",
+          "type": "calculation",
+          "options": [],
+          "answerKey": "Gradient suggests a resistance of about 80 Ω over the tested range; the nonzero intercept may indicate meter offset, contact effects or uncertainty. Check zero and connections and compare the offset with measurement resolution; forcing the origin can conceal evidence and bias the estimated resistance.",
+          "markingGuide": "Award up to 5 marks for the following independent correct steps or points: Gradient suggests a resistance of about 80 Ω over the tested range; the nonzero intercept may indicate meter offset, contact effects or uncertainty. Check zero and connections and compare the offset with measurement resolution; forcing the origin can conceal evidence and bias the estimated resistance. Accept equivalent correct reasoning and consistent units. Award method credit where a later arithmetic error follows a correct setup; do not award the same point twice.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "physics-f2-activity-04",
+        "physics-f2-activity-05",
+        "physics-f2-activity-06",
+        "physics-f2-activity-07",
+        "physics-f2-activity-08",
+        "physics-f2-activity-09",
+        "physics-f2-activity-10",
+        "physics-f2-activity-11"
+      ],
+      "completionStatus": "expanded-chapter"
+    }
+  ]
+}

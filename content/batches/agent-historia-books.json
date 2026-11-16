@@ -1,0 +1,1767 @@
+{
+  "chapters": [
+    {
+      "id": "historia-f1-asili-uhamiaji-maisha",
+      "subjectId": "historia",
+      "form": 1,
+      "title": "Asili, uhamaji na njia mbalimbali za kujikimu",
+      "language": "sw",
+      "objectives": [
+        "Kutofautisha familia za lugha na utambulisho wa watu.",
+        "Kutumia ushahidi wa aina tofauti kueleza uhamaji na shughuli za jamii.",
+        "Kutathmini maadili bila kudhani jamii zote zilifanana."
+      ],
+      "paragraphs": [
+        "Historia ya watu wa Tanzania inaelezwa kwa kuunganisha akiolojia, lugha, masimulizi na maandiko. Mabaki ya vyombo, mbegu na makazi huonyesha shughuli katika mahali na wakati fulani; hayaandiki moja kwa moja jina la kabila la watumiaji wake. Kufanana kwa maneno kunaweza kusaidia kuchunguza uhusiano wa lugha, lakini si uthibitisho kwamba wazungumzaji wote wana asili moja ya kibaolojia. Masimulizi ya ukoo yanaeleza jinsi watu wanavyokumbuka chimbuko lao; huchunguzwa pamoja na vyanzo vingine kwa sababu kumbukumbu zinaweza kuchagua au kuacha matukio.",
+        "Makundi yanayotajwa katika mtaala kama Wabantu, Wanilo, Wakushito na Wakichembe hayapaswi kugeuzwa kuwa visanduku vinavyowafunga watu. Kibantu ni kundi kubwa la lugha; lugha za Kinilo na Kikushito pia zina historia na matawi mbalimbali. Istilahi Wakichembe hutumika katika baadhi ya maelezo ya shule kwa jamii zinazohusishwa na lugha za mibofyo. Lugha za Kisandawe na Kihadza hazipaswi kudhaniwa kuwa lugha moja au ushahidi wa ukoo mmoja. Utambulisho hubadilika kwa ndoa, uhamaji, ujirani, biashara na maamuzi ya watu; kila madai ya asili yanahitaji ushahidi wake.",
+        "Uhamaji haukuwa safari moja yenye tarehe moja kwa watu wote. Watu walihama kwa kutafuta maji, malisho, ardhi, biashara au usalama, na wengine walibaki huku wakipokea wageni. Uhamaji unaweza kusambaza mbegu, ujuzi wa kufua chuma na maneno, lakini jambo linaloonekana baadaye katika eneo halithibitishi peke yake nani aliyelileta. Ili kupendekeza maelezo, mtafiti hulinganisha muda wa mabaki, mazingira, simulizi na ushahidi wa lugha. Kukubali kwamba jambo fulani bado halijulikani ni sehemu ya uaminifu wa kihistoria.",
+        "Kilimo, ufugaji, uvuvi, uwindaji, ukusanyaji, ufundi na biashara vilichanganyika kwa namna tofauti. Familia moja ingeweza kulima na kufuga huku ikibadilishana bidhaa na wavuvi au wafinyanzi. Katika mazingira yenye mvua isiyotabirika, kuchanganya shughuli kulisaidia kupunguza hatari ya njaa. Ziwa, bahari, udongo, wadudu na misimu viliweka fursa na vikwazo, lakini watu walifanya uchaguzi na kubuni mbinu. Hivyo si sahihi kusema kila mzungumzaji wa lugha fulani alikuwa mfugaji tu au mkulima tu; lazima tutaje eneo, kipindi na ushahidi.",
+        "Ushirikiano wa kazi, kuwasaidia wenye shida na kuhifadhi maarifa vilisaidia jamii kuendelea. Hata hivyo, kanuni zilikuwa tofauti na wakati mwingine mamlaka, umri au jinsia vilisababisha usawa mdogo wa kushiriki maamuzi. Kusoma historia kwa maadili hakumaanishi kusifu kila desturi. Tunachunguza nani alinufaika, nani alibebeshwa kazi, na njia zilizotumika kutatua migogoro. Darasani tunaweza kuthamini ukarimu na uaminifu huku tukikataa ubaguzi na kulinda haki na utu wa kila mtu."
+      ],
+      "examples": [
+        "Mfano wa kuchambua dai: Mwanafunzi anasema chungu cha kale kinathibitisha kabila la mfinyanzi. Hatua ya kwanza ni kutambua ushahidi: chungu kinaonyesha ufundi na matumizi. Hatua ya pili ni kuangalia tarehe na eneo la ugunduzi. Hitimisho sahihi ni kwamba utambulisho wa watumiaji bado unahitaji ushahidi mwingine; umbo la chungu pekee halitoshi.",
+        "Mfano wa mazingira: Katika simulizi la kubuni kwa mazoezi, familia inavua ziwani na kulima karibu na kijito. Maji hutoa samaki na kumwagilia; mvua ikipungua, biashara ya samaki inaweza kusaidia kununua nafaka. Hii inaonyesha shughuli zinazosaidiana, si uthibitisho kwamba watu wote wa eneo hilo walifanya kazi hizo.",
+        "Mfano wa kulinganisha vyanzo: Simulizi linasema watu walihamia kwa ukame, na uchunguzi wa mazingira unaonyesha kipindi cha ukavu kinachokaribiana. Ushahidi huo unaunga mkono uwezekano wa ukame kuchochea uhamaji. Bado tunatafuta tarehe na sababu nyingine kama biashara; hatusemi ukame ndio sababu pekee."
+      ],
+      "glossary": [
+        {
+          "term": "Akiolojia",
+          "definition": "Utafiti wa historia kupitia mabaki na mazingira ya matumizi yake."
+        },
+        {
+          "term": "Uhamaji",
+          "definition": "Kuhama kwa watu kutoka eneo moja kwenda jingine kwa muda au kudumu."
+        },
+        {
+          "term": "Familia ya lugha",
+          "definition": "Kundi la lugha zinazochunguzwa kuwa na uhusiano wa kihistoria."
+        },
+        {
+          "term": "Kujikimu",
+          "definition": "Kupata mahitaji ya maisha kwa kazi na rasilimali mbalimbali."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Taja aina tatu za ushahidi zinazoweza kuchunguza asili ya jamii.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Akiolojia, ushahidi wa lugha na masimulizi; maandiko pia yanakubalika.",
+          "markingGuide": "Alama 1 kwa kila aina sahihi, hadi 3.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini jina la lugha halithibitishi ukoo wa kibaolojia wa wazungumzaji wote?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Watu wanaweza kujifunza lugha kupitia uhamaji, ndoa na mwingiliano bila kuwa na ukoo mmoja.",
+          "markingGuide": "Alama 1 kwa kubaini lugha si ukoo; 1 kwa kila njia mbili za mwingiliano.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Chungu cha kale kinaweza kuonyesha nini, na hakiwezi kuthibitisha nini peke yake?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Huonyesha ufundi au matumizi; hakiwezi kuthibitisha kabila au lugha ya mtumiaji peke yake.",
+          "markingGuide": "Alama 1 kwa ufundi/matumizi; 1 kwa kikomo; 1 kwa hitaji la ushahidi wa ziada.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza sababu mbili zinazoweza kuchochea uhamaji.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kutafuta maji au malisho na kutafuta usalama; biashara au ardhi pia zinakubalika.",
+          "markingGuide": "Alama 1 kwa kila sababu mbili na 1 kwa kueleza jinsi moja inavyochochea kuhama.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Ni kauli ipi inatumia ushahidi kwa tahadhari?",
+          "type": "mcq",
+          "options": [
+            "A. Kila chungu kina kabila linalojulikana.",
+            "B. Kufanana kwa lugha kunahitaji kuchunguzwa pamoja na ushahidi mwingine.",
+            "C. Watu wote walihama siku moja.",
+            "D. Mila zote hazikubadilika."
+          ],
+          "answerKey": "B",
+          "markingGuide": "Alama 1 kwa B.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja shughuli nne za kujikimu kabla ya ukoloni.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kilimo, ufugaji, uvuvi na ufundi; uwindaji, ukusanyaji na biashara pia sahihi.",
+          "markingGuide": "Alama 1 kwa kila shughuli tofauti, hadi 4.",
+          "maximumMarks": 4,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini familia ingechanganya kilimo na ufugaji?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kupata chakula tofauti, kutumia bidhaa za mifugo na kupunguza hatari ya kutegemea shughuli moja.",
+          "markingGuide": "Alama 1 kwa kila sababu tatu zenye maana.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Rekebisha dai: Watu wote wa kundi la lugha fulani walikuwa wakulima tu.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Shughuli hutofautiana kwa eneo na kipindi; wazungumzaji wanaweza kulima, kufuga, kufanya biashara au kazi nyingine.",
+          "markingGuide": "Alama 1 kwa kukataa ujumlishaji; 1 kwa eneo/kipindi; 1 kwa shughuli mbadala.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja swali moja la kuuliza msimulizi ili kukagua taarifa ya uhamaji.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Ulisikia habari hii kutoka kwa nani, kuhusu kipindi gani, au kuna ushahidi mwingine unaoiunga mkono?",
+          "markingGuide": "Alama 1 kwa swali maalumu na 1 kwa kueleza umuhimu wake kwa uaminifu.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taarifa mbili zikikubaliana, je, lazima hitimisho liwe hakika? Eleza.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Hapana; zinaweza kutegemea chanzo kilekile au kuwa na mapungufu ya tarehe na maelezo.",
+          "markingGuide": "Alama 1 kwa hapana; 1 kwa kutambua tatizo; 1 kwa kupendekeza uchunguzi zaidi.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Toa mfano wa mazingira yanavyoweza kuathiri kazi bila kuamua kila kitu.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Ziwa huruhusu uvuvi, lakini familia inaweza kuchagua kilimo au biashara pia.",
+          "markingGuide": "Alama 1 kwa mazingira; 1 kwa fursa; 1 kwa uchaguzi mwingine.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini Kisandawe na Kihadza visitajwe kama lugha moja kwa sababu tu zina mibofyo?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Sifa ya sauti pekee haithibitishi kuwa ni lugha moja au kuwa wazungumzaji wote wana ukoo mmoja.",
+          "markingGuide": "Alama 1 kwa kutambua tofauti; 1 kwa kikomo cha sifa moja; 1 kwa hitaji la utafiti.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza maadili mawili yanayoweza kusaidia jamii kukabiliana na njaa.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kugawana chakula na kusaidiana kazi vinaweza kupunguza shida kwa wenye mahitaji.",
+          "markingGuide": "Alama 1 kwa kila adili mbili; 1 kwa kuunganisha na kupunguza shida.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini kuthamini urithi hakumaanishi kukubali kila desturi?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Baadhi ya desturi zinaweza kubagua au kudhuru; tathmini inapaswa kuheshimu utu na haki.",
+          "markingGuide": "Alama 1 kwa uwezekano wa madhara; 1 kwa kipimo cha haki; 1 kwa hitimisho.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Andika hoja fupi ya kupinga matumizi ya familia ya lugha kama maelezo ya kazi zote za jamii.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Lugha si kazi; mazingira, wakati na mwingiliano hubadilisha shughuli; ushahidi wa eneo husika unahitajika.",
+          "markingGuide": "Alama 1 kila moja: lugha si kazi, mazingira, kipindi, mwingiliano, ushahidi mahususi.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Tengeneza jedwali lenye safu za ushahidi, jambo linaloelezwa na kikomo chake. Jaza kwa chungu, simulizi na kufanana kwa maneno.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Chungu: ufundi, si kabila hakika; simulizi: kumbukumbu ya asili, huhitaji uhakiki; maneno: uhusiano wa lugha, si ukoo wa kila mtu.",
+          "markingGuide": "Alama 1 kwa kila jambo linaloelezwa na 1 kwa kila kikomo katika mistari mitatu.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Chora ramani dhahania ya kijiji chenye ziwa, shamba na njia ya biashara. Weka shughuli tatu na mishale miwili ya kubadilishana bidhaa, kisha eleza matumizi yake wakati wa ukame.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Uvuvi ziwani, kilimo shambani, biashara njiani; samaki hubadilishwa na nafaka; shughuli tofauti hupunguza utegemezi.",
+          "markingGuide": "Alama 1 kwa kila shughuli tatu, 1 kwa kila mshale miwili wenye maana, 1 kwa maelezo ya ukame.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Andaa maswali manne ya mahojiano kuhusu shughuli za zamani katika eneo lako na kanuni mbili za kufanya mahojiano kwa heshima. Usibuni majibu ya mhojiwa.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Maswali yahusu kazi, wakati, mabadiliko na chanzo cha kumbukumbu; kanuni ni kuomba ridhaa na kuhifadhi taarifa binafsi.",
+          "markingGuide": "Alama 1 kwa kila swali nne linalochunguza; 1 kwa kila kanuni mbili. Hakuna ulazima wa kufanya mahojiano.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "historia-f1-activity-01",
+        "historia-f1-activity-02",
+        "historia-f1-activity-03"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "historia-f1-mamlaka-jamii-uzalishaji",
+      "subjectId": "historia",
+      "form": 1,
+      "title": "Ukoo, mamlaka na uzalishaji kabla ya ukoloni",
+      "language": "sw",
+      "objectives": [
+        "Kulinganisha mamlaka yaliyogawanyika na yaliyokusanyika.",
+        "Kueleza uhusiano wa uzalishaji, mgawanyo wa kazi na maadili.",
+        "Kutathmini manufaa na mipaka ya mifumo ya zamani."
+      ],
+      "paragraphs": [
+        "Jamii za maeneo ya Tanzania kabla ya ukoloni hazikuwa na mfumo mmoja wa kuishi na kutawala. Katika sehemu fulani koo, familia, mabaraza na makundi ya rika yalikuwa na nafasi katika kufanya maamuzi. Katika nyingine kulikuwa na watawala waliokuwa na mamlaka juu ya eneo kubwa, wakisaidiwa na viongozi wa maeneo madogo. Maelezo ya mfumo lazima yataje eneo na kipindi kwa sababu taasisi zilibadilika. Kutokuwa na mfalme mmoja hakumaanishi kutokuwa na sheria, uongozi au utaratibu wa kutatua migogoro.",
+        "Ukoo uliweza kupanga wajibu wa kusaidiana, mahusiano ya kifamilia na matumizi ya ardhi. Baraza la wazee lingeweza kusikiliza mgogoro na kutafuta suluhu, lakini kiwango cha ushiriki wa vijana, wanawake na wageni kilitofautiana. Makundi ya rika yaliweza kushirikisha watu katika mafunzo, kazi au ulinzi. Taasisi hizo zilifundisha wajibu na heshima, ingawa heshima haipaswi kuchanganywa na kunyima mtu haki ya kusikilizwa. Uchunguzi wa maadili unahitaji kuangalia mchakato wa uamuzi na athari kwa kila upande.",
+        "Katika baadhi ya maeneo ya Unyamwezi na Uhehe, kwa nyakati tofauti, utawala ulihusisha viongozi wenye mamlaka yaliyokusanyika zaidi. Mamlaka hayo yangeweza kuratibu ulinzi, njia za biashara, ukusanyaji wa sehemu ya mazao na utekelezaji wa maamuzi. Hata ndani ya maeneo hayo hali haikuwa sawa wakati wote. Uwezo wa kukusanya rasilimali ungeweza kusaidia shughuli za pamoja, lakini pia ungeweza kutumika kulazimisha watu. Mchango wa mfumo haupimwi kwa ukubwa wa mamlaka tu, bali pia kwa usalama na ustawi wa watu.",
+        "Uchumi ulihusisha uzalishaji kwa matumizi ya familia pamoja na ubadilishanaji. Wakulima, wafugaji, wafua chuma, wafinyanzi na wafanyabiashara walihitaji bidhaa za wenzao. Kazi ziligawanywa kwa ujuzi, umri, jinsia au hali ya familia, lakini mgawanyo huo ulikuwa na tofauti na mabadiliko. Ardhi katika sehemu nyingi ilihusishwa na haki za matumizi kupitia jamii au familia; si sahihi kudhani kwamba kila mahali ilimilikiwa kwa utaratibu mmoja. Haki za kuvuna, kuchunga au kutumia maji zingeleta ushirikiano na pia migogoro.",
+        "Kazi ya pamoja katika shamba au ujenzi ingeweza kuimarisha mshikamano na kuongeza uzalishaji. Mamlaka yaliyolinda njia na masoko yangewezesha biashara, huku migogoro na vita vikipunguza usalama wa uzalishaji. Ili kutathmini mfumo, linganisha faida kama kusaidiana na mapungufu kama utegemezi, utumwa au kutoshiriki kwa baadhi ya watu. Uwepo wa maadili mazuri katika eneo moja hauondoi uwepo wa ukosefu wa haki katika eneo jingine. Tathmini bora hutumia mfano maalumu na kukubali tofauti za ndani."
+      ],
+      "examples": [
+        "Kesi ya baraza: Familia mbili zinagombea eneo la kuchungia katika mfano wa kubuni. Suluhu yenye maadili huanza kwa kusikiliza pande zote, kutafuta ushahidi wa matumizi na kupanga maji na malisho bila kuzuia upande dhaifu. Baraza linalosikiliza familia moja pekee haliwezi kuitwa la haki kwa sababu tu ni la wazee.",
+        "Mfano wa uhusiano wa uchumi na mamlaka: Kiongozi akiweka ulinzi wa njia, mfua chuma anaweza kupeleka majembe sokoni kwa usalama. Wakulima wakipata majembe, uzalishaji unaweza kuongezeka. Hata hivyo, kodi kubwa kupita uwezo inaweza kupunguza faida; lazima tutathmini matumizi na mzigo wa ukusanyaji.",
+        "Mfano wa kulinganisha: Mfumo A una baraza la koo kadhaa; mfumo B una mtawala na viongozi wa maeneo. A unaweza kusambaza majadiliano lakini kuchelewa kuamua; B unaweza kuratibu haraka lakini kujilimbikizia mamlaka. Haya ni uwezekano wa kuchunguza, si sheria zinazothibitisha kila jamii."
+      ],
+      "glossary": [
+        {
+          "term": "Ukoo",
+          "definition": "Watu wanaojitambua kuwa na uhusiano wa kifamilia kwa utaratibu wa jamii yao."
+        },
+        {
+          "term": "Rika",
+          "definition": "Kundi la watu wa umri unaokaribiana lenye majukumu katika baadhi ya jamii."
+        },
+        {
+          "term": "Mamlaka",
+          "definition": "Uwezo unaotambuliwa wa kufanya au kutekeleza maamuzi."
+        },
+        {
+          "term": "Uzalishaji",
+          "definition": "Kutengeneza bidhaa au kutoa huduma zinazotimiza mahitaji."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Kutokuwa na mfalme mmoja kunathibitisha kutokuwa na uongozi? Eleza.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Hapana; mabaraza, koo au makundi ya rika yanaweza kufanya maamuzi.",
+          "markingGuide": "Alama 1 kwa hapana, 1 kwa taasisi, 1 kwa kazi yake.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja majukumu mawili ya ukoo katika baadhi ya jamii.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kusaidiana na kupanga mahusiano au haki za kutumia rasilimali.",
+          "markingGuide": "Alama 1 kwa kila jukumu.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza tofauti ya mamlaka yaliyogawanyika na yaliyokusanyika.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Yaliyogawanyika huhusisha taasisi au viongozi kadhaa; yaliyokusanyika huweka maamuzi mengi chini ya mtawala au kituo kimoja.",
+          "markingGuide": "Alama 1 kwa kila ufafanuzi na 1 kwa kulinganisha.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Ni ushahidi upi unafaa kuchunguza haki ya baraza?",
+          "type": "mcq",
+          "options": [
+            "A. Umri wa jengo pekee.",
+            "B. Wingi wa mapambo.",
+            "C. Kama pande zote zilisikilizwa na uamuzi ulivyoathiri watu.",
+            "D. Jina la mwenyekiti pekee."
+          ],
+          "answerKey": "C",
+          "markingGuide": "Alama 1 kwa C.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini tunataja kipindi tunapoeleza utawala wa Uhehe?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mamlaka na taasisi zilibadilika; hali ya wakati mmoja si lazima iwe ya nyakati zote.",
+          "markingGuide": "Alama 1 kwa mabadiliko; 1 kwa kikomo cha ujumlishaji.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Toa njia mbili ambazo mamlaka yanaweza kusaidia biashara.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kulinda njia na kutatua migogoro ya soko.",
+          "markingGuide": "Alama 1 kwa kila njia na 1 kwa kueleza manufaa ya moja.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Onyesha uhusiano kati ya mfua chuma na mkulima.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mfua chuma hutengeneza zana; mkulima huzitumia kuzalisha na anaweza kubadilishana mazao na mfua chuma.",
+          "markingGuide": "Alama 1 kwa zana, 1 kwa uzalishaji, 1 kwa ubadilishanaji.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja kipimo kimoja cha kutathmini mgawanyo wa kazi kwa maadili.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kama kazi na manufaa vinagawanywa kwa haki bila kumdhuru au kumzuia mtu kushiriki.",
+          "markingGuide": "Alama 1 kwa haki; 1 kwa jinsi inavyochunguzwa.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini haki ya kutumia ardhi si lazima ifanane na umiliki wa mtu binafsi?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Jamii inaweza kuruhusu familia kulima au kuchunga kwa masharti bila kuipa haki zote za kuuza ardhi.",
+          "markingGuide": "Alama 1 kwa matumizi, 1 kwa masharti ya jamii, 1 kwa tofauti ya kuuza.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza faida na hatari moja ya kukusanya mazao kwa kazi za pamoja.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Faida ni kupata rasilimali za ulinzi au huduma; hatari ni matumizi mabaya au mzigo usio wa haki.",
+          "markingGuide": "Alama 1 kila faida na hatari, 1 kwa kuhusisha na watu.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Toa mfano wa kazi ya pamoja na adili inaloweza kukuza.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kusaidiana kuvuna kwa wakati huongeza uzalishaji na mshikamano.",
+          "markingGuide": "Alama 1 kwa kazi; 1 kwa matokeo; 1 kwa adili.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini kuwepo kwa mshikamano hakuthibitishi kutokuwepo kwa ukosefu wa haki?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Jamii inaweza kusaidiana huku baadhi ya watu wakinyimwa sauti au kulazimishwa kazi.",
+          "markingGuide": "Alama 1 kwa kutambua hali zote mbili; 1 kwa mfano.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja taarifa tatu za kutafuta kabla ya kulinganisha mifumo miwili ya kisiasa.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Eneo, kipindi na nani alishiriki maamuzi; ushahidi wa utekelezaji pia sahihi.",
+          "markingGuide": "Alama 1 kwa kila taarifa.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza jinsi vita vinavyoweza kupunguza uzalishaji.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Huvuruga kazi, huharibu mali na hufanya usafiri wa bidhaa kuwa hatari.",
+          "markingGuide": "Alama 1 kwa kila athari tatu.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tathmini dai: Mamlaka makubwa daima huleta maadili bora.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Mamlaka yanaweza kuratibu ulinzi lakini pia kulazimisha; maadili yanahitaji uwajibikaji, ushiriki na haki.",
+          "markingGuide": "Alama 1 kila: kukataa daima, faida, hatari, uwajibikaji, haki/ushiriki.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Unda jedwali la kulinganisha baraza la koo na utawala wenye mtawala: kituo cha maamuzi, faida inayowezekana na hatari inayowezekana.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Baraza: viongozi kadhaa, majadiliano, kuchelewa/kubagua; mtawala: kituo kimoja, uratibu, kujilimbikizia mamlaka.",
+          "markingGuide": "Alama 1 kwa kila kisanduku sita chenye mantiki; usidai ni hali ya jamii zote.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Andika kanuni nne za kikao cha kutatua mgogoro wa maji na sababu ya kila kanuni.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kusikiliza wote, kuchunguza ushahidi, kuweka kipaumbele kwa mahitaji ya msingi, kutunza rekodi/kukagua uamuzi; sababu zihusishe haki na amani.",
+          "markingGuide": "Alama 1 kwa kila kanuni na 1 kwa kila sababu.",
+          "maximumMarks": 8,
+          "markIncrement": 1
+        },
+        {
+          "content": "Chora mtandao wa mkulima, mfugaji, mfua chuma na mfanyabiashara. Andika bidhaa nne na eleza athari mbili njia ya biashara ikifungwa.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Nafaka, mifugo/maziwa, zana na bidhaa za soko; kufungwa hupunguza vifaa na soko la mazao.",
+          "markingGuide": "Alama 1 kwa kila uhusiano nne wenye bidhaa sahihi; 1 kila athari mbili.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "historia-f1-activity-11",
+        "historia-f1-activity-12",
+        "historia-f1-activity-13",
+        "historia-f1-activity-14",
+        "historia-f1-activity-16"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "historia-f1-bahari-misafara-teknolojia",
+      "subjectId": "historia",
+      "form": 1,
+      "title": "Biashara za mbali na mabadiliko ya teknolojia",
+      "language": "sw",
+      "objectives": [
+        "Kueleza uhusiano wa pwani, bara na maeneo ya ngambo.",
+        "Kutumia mabaki kutathmini biashara bila kuyazidishia maana.",
+        "Kueleza vichocheo, manufaa na gharama za teknolojia."
+      ],
+      "paragraphs": [
+        "Pwani ya Afrika Mashariki ilikuwa sehemu ya mitandao ya Bahari ya Hindi iliyounganisha bandari na maeneo ya Arabia, Uajemi, India na sehemu za Asia ya mbali. Upepo wa monsuni uliwezesha safari za meli katika misimu tofauti. Miji kama Kilwa ilikua kwa nyakati tofauti kabla ya ukoloni wa Ulaya wa karne ya kumi na tisa. Wakazi wa pwani walikuwa watendaji katika biashara na utamaduni wao, si wapokeaji wa mambo kutoka nje tu. Uhusiano huo ulihusisha biashara, makazi, ndoa, dini na mabadiliko ya lugha.",
+        "Bidhaa kutoka bara zilifika pwani kupitia mitandao iliyobadilika kwa karne nyingi. Pembe za ndovu na bidhaa nyingine ziliuzwa, huku nguo, shanga na baadhi ya vyombo vikiingia kutoka ngambo. Watu pia walitekwa na kuuzwa utumwani; kutaja biashara hiyo bila kueleza kulazimishwa na mateso kunapunguza ukweli wa historia. Katika karne ya kumi na tisa, misafara iliunganisha sehemu nyingi zaidi za bara na pwani. Si kila bidhaa ya kale iliyopatikana eneo moja ililetwa moja kwa moja na mfanyabiashara wa nchi ilikotengenezwa; bidhaa ingeweza kupita mikononi mwa wafanyabiashara kadhaa.",
+        "Ushahidi wa sarafu, vyombo na majengo husaidia kueleza biashara na mabadiliko ya miji. Kipande cha kauri kilichotengenezwa China kikikutwa Kilwa kinaonyesha bidhaa hiyo ilifika huko, lakini si uthibitisho wa idadi kubwa ya wahamiaji kutoka China. Maandishi, akiolojia na muda wa tabaka la ugunduzi vinapaswa kulinganishwa. Wareno waliingia katika biashara na siasa za pwani kuanzia mwisho wa karne ya kumi na tano, wakitumia nguvu katika maeneo kadhaa; baadaye ushawishi wa Oman uliongezeka. Mabadiliko haya hayakuwa na wakati au athari moja kwa pwani yote.",
+        "Sayansi na teknolojia za kabla ya ukoloni zilijumuisha kufua chuma, ufinyanzi, ujenzi, kutengeneza vyombo vya usafiri na kutumia maarifa ya mazingira. Uzalishaji wa chuma ulihitaji maarifa ya madini, joto, nishati na ufundi; chombo kilichokamilika hakikuonyesha hatua zote za kazi. Ufinyanzi ulitegemea kuchagua udongo, kuunda, kukausha na kuchoma kwa uangalifu. Maarifa haya yalifundishwa kwa mazoezi, uchunguzi na kushirikiana. Hayakuwa tuli: watu walibadilisha mbinu kutokana na mahitaji na rasilimali.",
+        "Biashara iliongeza mahitaji ya zana na ilileta ujuzi na vifaa vipya. Kuongezeka kwa watu, mahitaji ya chakula, mazingira na ushindani wa kisiasa pia vilichochea mabadiliko. Teknolojia inaweza kuongeza uwezo wa kulima au kusafiri, lakini matumizi mengi ya kuni yanaweza kupunguza miti na uzalishaji unaweza kutegemea kazi yenye unyonyaji. Tathmini nzuri hulinganisha faida, gharama na mgawanyo wa manufaa. Kusema teknolojia fulani ilikuwa bora kunahitaji kutaja kazi iliyofanywa, rasilimali zilizotumika na watu walioathirika."
+      ],
+      "examples": [
+        "Mfano wa kauri: Kauri ya ngambo kwenye tabaka la kale la bandari huunga mkono mawasiliano ya kibiashara. Tunaanza kwa tarehe na mahali ilipopatikana, kisha kulinganisha na sarafu au maandiko. Hitimisho ni uhusiano wa bidhaa; uraia wa kila mkazi au safari ya moja kwa moja bado havijathibitishwa.",
+        "Mfano wa mnyororo wa zana: Madini na nishati hutumika kuyeyusha na kufua chuma; fundi hutengeneza jembe; mkulima hulitumia. Jembe linaweza kupunguza ugumu wa kazi, lakini upatikanaji wa ardhi, mvua na kazi huathiri mavuno pia. Zana moja si sababu pekee ya mabadiliko ya uchumi.",
+        "Mfano wa kuchagua teknolojia: Mafundi wa mfano wanataka kuongeza uchomaji wa vyungu. Huamua kukausha vyungu vizuri, kuboresha upangaji wa tanuru na kupanda miti kwa matumizi ya baadaye. Suluhu hiyo hutathminiwa kwa vyungu visivyovunjika, kiasi cha kuni na hali za kazi, si idadi ya vyungu pekee."
+      ],
+      "glossary": [
+        {
+          "term": "Monsuni",
+          "definition": "Upepo unaobadilika kwa misimu na kusaidia safari za Bahari ya Hindi."
+        },
+        {
+          "term": "Msafara",
+          "definition": "Kundi linalosafiri pamoja kwa biashara au madhumuni mengine."
+        },
+        {
+          "term": "Teknolojia",
+          "definition": "Maarifa, vifaa na mbinu zinazotumiwa kutekeleza kazi."
+        },
+        {
+          "term": "Tabaka la akiolojia",
+          "definition": "Safu ya mabaki inayosaidia kueleza mfuatano na mazingira ya matukio."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Taja maeneo mawili ya ngambo yaliyohusiana na pwani kupitia Bahari ya Hindi.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Arabia na India; Uajemi na sehemu za Asia ya mbali pia sahihi.",
+          "markingGuide": "Alama 1 kwa kila eneo.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Monsuni zilisaidiaje biashara?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Ziliwezesha kupanga safari za kwenda na kurudi kulingana na mwelekeo wa upepo wa misimu.",
+          "markingGuide": "Alama 1 kwa upepo, 1 kwa misimu, 1 kwa kupanga safari.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kauri ya China iliyopatikana Kilwa inathibitisha nini kwa tahadhari?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Bidhaa kutoka China ilifika Kilwa kupitia mawasiliano ya biashara; si lazima safari ya moja kwa moja.",
+          "markingGuide": "Alama 1 kwa asili ya bidhaa, 1 kwa kufika, 1 kwa kikomo.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Ni dai lipi linahitaji kukataliwa?",
+          "type": "mcq",
+          "options": [
+            "A. Kila bidhaa ya kigeni huonyesha watu wa nchi hiyo walihamia wengi.",
+            "B. Bidhaa inaweza kupita kwa wafanyabiashara kadhaa.",
+            "C. Tarehe ya tabaka ni muhimu.",
+            "D. Wakazi wa pwani walishiriki biashara."
+          ],
+          "answerKey": "A",
+          "markingGuide": "Alama 1 kwa A.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja bidhaa mbili zilizoingia kutoka ngambo na moja iliyoenda kutoka bara.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Nguo na shanga ziliingia; pembe za ndovu zilitoka bara.",
+          "markingGuide": "Alama 1 kila bidhaa sahihi. Neno nguo likiandikwa kawaida likubalike.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini biashara ya utumwa inahitaji maelezo ya maadili?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Ilihusisha kuwanyanganya watu uhuru, kutumia nguvu na kuwasababishia mateso.",
+          "markingGuide": "Alama 1 kwa kila hoja tatu.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza hatua tatu za kutengeneza chungu.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kuchagua/kuandaa udongo, kuunda na kukausha, kisha kuchoma.",
+          "markingGuide": "Alama 1 kwa kila hatua kwa mfuatano wenye maana.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja teknolojia mbili za kabla ya ukoloni.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kufua chuma na kutengeneza vyombo vya usafiri; ufinyanzi au ujenzi pia sahihi.",
+          "markingGuide": "Alama 1 kila mfano.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini jembe jipya peke yake halihakikishi mavuno mengi?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mavuno pia hutegemea mvua, ardhi, mbegu, kazi na usimamizi.",
+          "markingGuide": "Alama 1 kwa kila sababu tatu tofauti.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza vichocheo viwili vya mabadiliko ya teknolojia.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mahitaji ya chakula yanaweza kuongeza uboreshaji wa zana; biashara inaweza kusambaza ujuzi na kuongeza mahitaji.",
+          "markingGuide": "Alama 1 kwa kila kichocheo, 1 kwa uhusiano wa sababu.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Wareno waliingia katika biashara na siasa za pwani kuanzia kipindi gani?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mwisho wa karne ya kumi na tano.",
+          "markingGuide": "Alama 1 kwa karne na 1 kwa mwisho wake.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini chanzo kimoja cha akiolojia kilinganishwe na vingine?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kila chanzo kina mipaka; vyanzo vingine husaidia kukagua tarehe, matumizi na hitimisho.",
+          "markingGuide": "Alama 1 kwa mipaka, 1 kwa mfano wa ukaguzi, 1 kwa kuongeza uaminifu.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Toa gharama moja ya mazingira ya kuongeza uzalishaji wa chuma au vyungu.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Matumizi mengi ya kuni yanaweza kupunguza miti kama hayasimamiwi.",
+          "markingGuide": "Alama 1 kwa kuni, 1 kwa athari, 1 kwa kutaja usimamizi.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza kwa nini miji ya pwani haikuwa wapokeaji tu wa utamaduni.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Wakazi walizalisha, walifanya biashara, walichagua na kubadilisha maarifa na kuunda utamaduni wao.",
+          "markingGuide": "Alama 1 kwa kila hoja tatu zenye maana.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tathmini teknolojia kwa vipimo vinne badala ya wingi wa bidhaa pekee.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Ubora wa kazi, matumizi ya rasilimali, hali za kazi na mgawanyo wa manufaa; athari za mazingira pia sahihi.",
+          "markingGuide": "Alama 1 kwa kila kipimo nne na 1 kwa kueleza kimoja.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Chora njia dhahania ya bidhaa kutoka bara hadi pwani na ngambo. Weka hatua tatu na tahadhari mbili kuhusu hitimisho linalotokana na bidhaa iliyopatikana.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Uzalishaji bara, wafanyabiashara wa kati, bandari/ngambo; bidhaa haithibitishi safari ya moja kwa moja wala utambulisho wa wakazi wote.",
+          "markingGuide": "Alama 1 kila hatua tatu, 1 kila tahadhari mbili.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tengeneza jedwali la tekinolojia mbili: malighafi, ujuzi na athari ya mazingira. Pendekeza uboreshaji mmoja.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Chuma: madini, ufundi wa joto, kuni; chungu: udongo, uundaji/uchomaji, kuni; uboreshaji unaweza kupunguza matumizi ya nishati.",
+          "markingGuide": "Alama 1 kila kisanduku sita, 1 kwa uboreshaji unaoeleweka.",
+          "maximumMarks": 7,
+          "markIncrement": 1
+        },
+        {
+          "content": "Andika maelezo ya makumbusho ya maneno 100 kuhusu kauri ya ngambo: toa maelezo mawili yanayowezekana, kikomo kimoja na swali la utafiti.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kauri inaweza kufika kwa meli au biashara ya hatua kadhaa; haithibitishi wahamiaji wengi; uliza tarehe/tabaka/ushahidi unaoandamana.",
+          "markingGuide": "Alama 1 kila maelezo mawili, 1 kwa kikomo, 1 kwa swali, 1 kwa lugha ya tahadhari.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "historia-f1-activity-15",
+        "historia-f1-activity-17",
+        "historia-f1-activity-18"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "historia-f1-urithi-haki-ushirika",
+      "subjectId": "historia",
+      "form": 1,
+      "title": "Kutumia urithi kwa haki na kujenga uchumi wa ushirikiano",
+      "language": "sw",
+      "objectives": [
+        "Kutofautisha urithi unaoshikika na usioshikika.",
+        "Kupanga matumizi ya urithi yanayolinda haki na mazingira.",
+        "Kuonyesha jinsi ushirikiano unavyoongeza thamani na uwajibikaji."
+      ],
+      "paragraphs": [
+        "Urithi ni mambo yenye maana ambayo jamii hupokea, hutunza na kurithisha. Unaweza kuwa majengo, vitu na maeneo, au maarifa, lugha, muziki, hadithi na mbinu za kazi. Maana ya kitu hutegemea pia watu wanaokihusisha na maisha yao; si bei ya kuuza pekee. Urithi si jambo lililoganda: jamii huchagua jinsi ya kufundisha na kuutumia katika mazingira mapya. Kila matumizi yanahitaji kuuliza nani anautambua, nani anaruhusiwa kuueleza, na nani anapata manufaa.",
+        "Fursa za kiuchumi zinaweza kutoka katika ufundi, uongozi wa wageni, maonesho, vyakula na huduma za elimu. Fursa hizo zinahitaji ujuzi wa biashara kama kupanga gharama, kuweka kumbukumbu, kutangaza kwa uaminifu na kuwahudumia watu. Kuiga kazi ya mwingine na kuiuza bila makubaliano kunaweza kuvunja uaminifu na haki. Baadhi ya maarifa au maeneo yana masharti ya kijamii na kisheria; si kila jambo linalovutia wageni linapaswa kufanywa bidhaa. Ridhaa, heshima na maelezo sahihi ni sehemu ya thamani ya kazi.",
+        "Utunzaji huanza kwa kuandika taarifa sahihi, kuhifadhi mazingira na kuzuia uharibifu. Mwanafunzi hapaswi kuondoa kitu katika eneo la kihistoria, kuchimba bila ruhusa au kugusa mchoro ili kupata picha nzuri. Kuhifadhi maarifa kunaweza kuhusisha kurekodi simulizi kwa ridhaa na kuweka nakala salama. Hata picha au rekodi inaweza kuhitaji mipaka ya kutumiwa. Kutoa jina la mwenye maarifa na kuruhusu jamii kushiriki maamuzi husaidia kulinda urithi na utu wa watu.",
+        "Ushirikiano huunganisha uwezo wa watu katika uzalishaji, usafirishaji, masoko na huduma. Wafundi wanaweza kununua malighafi kwa pamoja, wakulima kushirikiana kuhifadhi mazao na wafanyabiashara kuunganisha uzalishaji na wanunuzi. Hii inaweza kupunguza gharama na kuongeza mapato, lakini haihakikishi faida bila usimamizi. Makubaliano ya majukumu, kumbukumbu za fedha, ukaguzi na utatuzi wa migogoro ni muhimu. Kikundi chenye watu wengi bila uwazi kinaweza kuwa na matatizo kuliko watu wachache wanaotekeleza wajibu wao.",
+        "Kukua kwa uchumi wa Taifa hutegemea watu kupata bidhaa na huduma, kuongeza ujuzi na kutumia rasilimali kwa tija. Ushirikiano kati ya maeneo unaweza kujenga kuaminiana kwa sababu washiriki hutegemeana na kutambua mchango wa wengine. Hata hivyo, ukuaji wa mapato pekee hauonyeshi ustawi wa kila mtu. Tathmini pia upatikanaji wa kazi yenye heshima, mgawanyo wa manufaa, ulinzi wa mazingira na nafasi ya watu wenye mahitaji tofauti. Maadili ya uaminifu na uwajibikaji hufanya ushirikiano uwe wa kudumu."
+      ],
+      "examples": [
+        "Mfano wa hesabu ya ufundi: Kikundi cha mfano kinauza vikapu 10 kwa shilingi 8,000 kila kimoja; mapato ni 80,000. Gharama zote ni 55,000, hivyo ziada kabla ya mgawanyo ni 25,000. Kikundi kikitenga 10,000 kwa vifaa, 15,000 hubaki kwa mgawanyo kwa makubaliano. Mapato yote si faida.",
+        "Mfano wa uongozi wa wageni: Wanafunzi wanapanga ziara kwenye eneo la urithi. Wanaomba utaratibu kwa msimamizi, hutumia taarifa zilizokaguliwa, hufuata njia zinazoruhusiwa na hawachukui mabaki. Hivyo elimu na fursa za huduma vinaenda pamoja na utunzaji wa eneo.",
+        "Mfano wa haki ya simulizi: Msimulizi anakubali rekodi kwa darasa lakini hataki ichapishwe mtandaoni. Ridhaa hiyo ina mipaka. Suluhu ni kuitumia darasani tu, kuandika chanzo kwa makubaliano na kuomba ruhusa mpya kabla ya matumizi mapya; kupata rekodi si kupata haki zote."
+      ],
+      "glossary": [
+        {
+          "term": "Urithi usioshikika",
+          "definition": "Maarifa na desturi kama lugha, muziki na mbinu za kazi zinazorithishwa."
+        },
+        {
+          "term": "Ridhaa",
+          "definition": "Kukubali kwa kuelewa jambo na matumizi yaliyopendekezwa."
+        },
+        {
+          "term": "Mapato",
+          "definition": "Fedha zinazoingia kutokana na mauzo au shughuli nyingine."
+        },
+        {
+          "term": "Uwazi",
+          "definition": "Kutoa taarifa zinazohitajika ili maamuzi na matumizi ya rasilimali yakaguliwe."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Tofautisha urithi unaoshikika na usioshikika kwa mfano.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Unaoshikika ni kama jengo la kale; usioshikika ni kama maarifa ya kusuka.",
+          "markingGuide": "Alama 1 kila aina na 1 kwa mifano inayolingana.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja fursa tatu za kiuchumi zinazoweza kuhusishwa na urithi.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Ufundi, kuongoza wageni na huduma za elimu; vyakula na maonesho pia sahihi.",
+          "markingGuide": "Alama 1 kwa kila fursa.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini si kila maarifa ya jamii yauzwe kwa wageni?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Yanaweza kuwa na masharti ya ridhaa, heshima, usiri au sheria; jamii ina haki ya kushiriki maamuzi.",
+          "markingGuide": "Alama 1 kwa masharti mawili, 1 kwa haki ya jamii.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kikundi kimepata mapato 80,000 na gharama 55,000. Ziada ni kiasi gani?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Shilingi 25,000.",
+          "markingGuide": "Alama 1 kwa kutoa 80,000 − 55,000; 1 kwa jibu na kitengo.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kikundi kikitenga 10,000 kutoka ziada ya 25,000, kiasi gani kinabaki?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Shilingi 15,000.",
+          "markingGuide": "Alama 1 kwa hesabu, 1 kwa jibu na kitengo.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Ni kitendo kipi kinatunza eneo la urithi?",
+          "type": "mcq",
+          "options": [
+            "A. Kuchukua kipande cha ukuta.",
+            "B. Kuchimba kupata zawadi.",
+            "C. Kuandika jina ukutani.",
+            "D. Kufuata njia na maagizo ya msimamizi."
+          ],
+          "answerKey": "D",
+          "markingGuide": "Alama 1 kwa D.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza faida mbili za kununua malighafi kwa pamoja.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Inaweza kupunguza gharama ya usafiri au ununuzi na kuboresha upatikanaji wa malighafi.",
+          "markingGuide": "Alama 1 kwa kila faida na 1 kwa kueleza utegemezi wa mpango mzuri.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini kupata rekodi ya simulizi si ruhusa ya kuichapisha popote?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Ridhaa inaweza kuwa ya matumizi maalumu tu; matumizi mapya yanahitaji makubaliano yanayofaa.",
+          "markingGuide": "Alama 1 kwa mipaka, 1 kwa matumizi, 1 kwa ruhusa mpya.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja kumbukumbu tatu za fedha ambazo kikundi kinahitaji.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mauzo/mapato, gharama na kiasi kilichobaki au mgawanyo.",
+          "markingGuide": "Alama 1 kwa kila kumbukumbu.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Toa njia mbili za kulinda maarifa yasiyoshikika.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kuyafundisha kwa makubaliano na kuhifadhi rekodi kwa ridhaa na nakala salama.",
+          "markingGuide": "Alama 1 kila njia, 1 kwa kuhusisha haki/usahihi.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Ushirikiano wa maeneo unaweza kuimarishaje mshikamano?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Watu hubadilishana bidhaa, hutegemeana na kutambua mchango wa wenzao.",
+          "markingGuide": "Alama 1 kwa kila hatua tatu.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini ongezeko la mapato halitoshi kupima ustawi?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Linaweza kutogawanywa kwa haki au kuambatana na uharibifu na kazi zenye madhara.",
+          "markingGuide": "Alama 1 kwa mgawanyo, 1 kwa madhara, 1 kwa kipimo cha ziada kama kazi yenye heshima.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Toa hatua moja ya kuzuia maelezo ya uongo katika huduma ya utalii.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kulinganisha simulizi na vyanzo vinavyoaminika na kueleza jambo lisilo na uhakika.",
+          "markingGuide": "Alama 1 kwa ukaguzi na 1 kwa uaminifu kuhusu uhakika.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja njia mbili za kuzuia migogoro ya kikundi.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Makubaliano ya majukumu na fedha pamoja na utaratibu wa kusikiliza na kutatua malalamiko.",
+          "markingGuide": "Alama 1 kila njia, 1 kwa kuhusisha uwazi.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Pendekeza vipimo vinne vya mradi wa urithi wenye mafanikio.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Mapato baada ya gharama, ridhaa ya jamii, hali ya urithi/mazingira na mgawanyo wa manufaa.",
+          "markingGuide": "Alama 1 kila kipimo nne; 1 kwa kueleza kwa nini mapato pekee hayatoshi.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Buni bajeti ya bidhaa 20: bei 5,000 kila moja, gharama 65,000 na akiba 15,000. Onyesha mapato, ziada na kinachobaki kugawanywa; pendekeza kanuni ya mgawanyo.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mapato 100,000; ziada 35,000; baada ya akiba hubaki 20,000. Mgawanyo uwe wazi kwa makubaliano.",
+          "markingGuide": "Alama 1 kila hesabu tatu, 1 kwa kuonyesha utaratibu, 1 kwa kanuni ya haki.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "Andika bango lenye kanuni tano za mgeni kwenye eneo la urithi, kila moja ikiwa na sababu fupi.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Usichukue mabaki; fuata njia; usichafue; omba ruhusa ya picha inapohitajika; heshimu taarifa za jamii. Sababu zilinde eneo, watu na usahihi.",
+          "markingGuide": "Alama 1 kila kanuni na 1 kila sababu inayolingana.",
+          "maximumMarks": 10,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tengeneza mpango wa kikundi cha ufundi: majukumu matatu, kumbukumbu mbili za kukagua kila wiki na hatua moja ya kupokea malalamiko.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Majukumu ya uzalishaji, fedha na masoko; rekodi za mapato na gharama; malalamiko yasikilizwe na kuandikwa kwa utaratibu wa haki.",
+          "markingGuide": "Alama 1 kila jukumu tatu, 1 kila rekodi mbili, 1 kwa hatua ya malalamiko.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "historia-f1-activity-04",
+        "historia-f1-activity-05",
+        "historia-f1-activity-06",
+        "historia-f1-activity-07",
+        "historia-f1-activity-08",
+        "historia-f1-activity-09",
+        "historia-f1-activity-10"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "historia-f2-ukoloni-mifumo-ulinganisho",
+      "subjectId": "historia",
+      "form": 2,
+      "title": "Mifumo ya kikoloni: utawala, uchumi na uhusiano wa nje",
+      "language": "sw",
+      "objectives": [
+        "Kufuatilia mabadiliko ya utawala wa Tanganyika na Zanzibar.",
+        "Kulinganisha mifumo ya kiuchumi, kisiasa na kiutamaduni ya ukoloni.",
+        "Kutofautisha urithi wa miundombinu na haki ya kujitawala."
+      ],
+      "paragraphs": [
+        "Ukoloni ni utawala wa nguvu ya kigeni juu ya eneo na watu wake, ukiwapa watawala wa nje uwezo wa kuamua mambo muhimu. Katika karne ya kumi na tisa, mataifa ya Ulaya yalipanua ushindani wa masoko, malighafi, maeneo ya uwekezaji na ushawishi wa kisiasa. Madai ya kuleta ustaarabu yalitumika kuhalalisha kutawala, lakini hayafuti matumizi ya nguvu na kunyimwa haki ya kujitawala. Mkutano wa Berlin wa 1884–1885 uliweka kanuni fulani za ushindani wa kikoloni barani Afrika; haukuwa tukio moja lililochora kila mpaka wa Tanzania ya leo.",
+        "Tanganyika ya baadaye ilikuwa sehemu ya Afrika Mashariki ya Kijerumani kutoka mwisho wa karne ya kumi na tisa hadi Vita Kuu ya Kwanza ya Dunia. Utawala wa Wajerumani uliweka mamlaka, kodi na matumizi ya kazi katika uchumi uliolenga maslahi ya kikoloni. Mashamba ya bidhaa za kuuza, usafiri na taasisi za utawala zilikuzwa kwa maeneo na nyakati tofauti. Upanuzi huo ulihusisha unyakuzi wa mamlaka na mapambano ya wenyeji; haukuwa makubaliano huru ya wakazi wote. Uwepo wa reli au jengo haupaswi kuficha swali la nani alilipa gharama na nani aliweka vipaumbele.",
+        "Baada ya vita, Tanganyika iliwekwa chini ya Uingereza kama eneo la mamlaka ya Shirikisho la Mataifa, na baada ya Vita Kuu ya Pili ya Dunia ikawa eneo la udhamini la Umoja wa Mataifa. Uingereza haikupata umiliki wa Tanganyika kama mali binafsi; ilipewa jukumu la kimataifa, ingawa utawala uliendelea kuwa wa kikoloni. Utawala wa Waingereza ulitumia viongozi wa maeneo katika mfumo unaoitwa utawala usio wa moja kwa moja. Hata hivyo, mamlaka yao yalitegemea na kubadilishwa na utawala wa kikoloni; mfumo huo haukuwa kuacha jamii zitawale bila kuingiliwa.",
+        "Zanzibar ilikuwa na historia tofauti. Ilikuwa chini ya usultani wenye uhusiano na Oman kabla ya kuwa eneo la ulinzi la Uingereza mwaka 1890. Katika eneo la ulinzi, sultani aliendelea kuwepo, lakini Uingereza ilikuwa na ushawishi mkubwa katika maamuzi muhimu. Uchumi wa karafuu na historia ya utumwa ulihusisha tofauti kubwa za mamlaka na mali. Kwa hiyo usitumie jina Tanganyika kueleza kila jambo la Zanzibar au kuhamisha tarehe za utawala wa bara kwenda visiwani. Ulinganisho unahitaji kutenganisha taasisi, maeneo na mabadiliko ya kila upande.",
+        "Uchumi wa kikoloni ulitegemea kodi, kazi na uzalishaji wa bidhaa za kuuza nje; mahitaji ya wakazi hayakuwa na nafasi sawa na maslahi ya utawala. Elimu na huduma zilitolewa kwa kiwango kisicholingana kati ya maeneo na makundi, na nafasi nyingi za juu zilibaki zimedhibitiwa. Lugha, dini na mafunzo vilienea kupitia serikali, wamisionari na mwingiliano wa watu, lakini Waafrika pia walichagua, walibadili na walipinga. Mahusiano ya leo na mataifa yaliyotawala yanaweza kuhusisha biashara, lugha, elimu na mijadala ya urithi; maelezo ya leo yanahitaji kutaja kipindi na si kuyachukulia kama ukoloni uleule bila uchunguzi."
+      ],
+      "examples": [
+        "Mfano wa ulinganisho wa tarehe: Mwanafunzi anaandika Zanzibar ilikuwa eneo la udhamini la Umoja wa Mataifa. Tunatenganisha maeneo: Tanganyika ndiyo ilikuwa eneo la udhamini chini ya Uingereza; Zanzibar ilikuwa eneo la ulinzi hadi uhuru wake mwaka 1963. Kurekebisha jina la eneo hubadilisha pia maelezo ya taasisi.",
+        "Mfano wa kutathmini reli: Reli inaweza kusafirisha watu na mazao, lakini katika uchambuzi wa kikoloni tunatafuta njia yake, bidhaa zilizolengwa, chanzo cha fedha na hali ya kazi. Matumizi yenye faida baadaye hayathibitishi kwamba ujenzi ulikuwa wa haki kwa watu wote wakati ule.",
+        "Mfano wa utawala usio wa moja kwa moja: Kiongozi wa eneo akikusanya kodi kwa maagizo ya serikali ya kikoloni, kutumia mtu wa eneo hakumaanishi watu wamejipatia uhuru wa maamuzi. Kigezo ni nani ana mamlaka ya mwisho, anayepanga kodi na anayeweza kubadilisha kiongozi."
+      ],
+      "glossary": [
+        {
+          "term": "Ukoloni",
+          "definition": "Utawala wa nguvu ya kigeni juu ya eneo na watu wake."
+        },
+        {
+          "term": "Eneo la ulinzi",
+          "definition": "Mpangilio ambao mamlaka ya nje inadhibiti mambo muhimu huku utawala wa ndani ukiendelea kwa kiwango fulani."
+        },
+        {
+          "term": "Udhamini",
+          "definition": "Mpangilio wa kimataifa wa kusimamia eneo chini ya mfumo wa Umoja wa Mataifa."
+        },
+        {
+          "term": "Utawala usio wa moja kwa moja",
+          "definition": "Mfumo wa kutumia viongozi wa maeneo kutekeleza maamuzi chini ya mamlaka ya kikoloni."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Taja sababu tatu zilizochochea upanuzi wa ukoloni wa Ulaya.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kutafuta masoko, malighafi na maeneo ya uwekezaji; ushindani wa kisiasa pia sahihi.",
+          "markingGuide": "Alama 1 kwa kila sababu.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Mkutano wa Berlin ulifanyika lini?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mwaka 1884–1885.",
+          "markingGuide": "Alama 1 kwa kila mwaka sahihi.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini si sahihi kusema Berlin ilichora kila mpaka wa Tanzania ya sasa?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mipaka na utawala vilijengwa pia kwa mikataba, vita na mabadiliko ya baadaye; mkutano haukuamua kila mpaka.",
+          "markingGuide": "Alama 1 kwa kukataa ujumlishaji; 1 kila njia mbili nyingine.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tanganyika ilikuwa chini ya taifa gani kabla ya Vita Kuu ya Kwanza ya Dunia, na chini ya lipi baadaye?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Ujerumani kabla, Uingereza baadaye.",
+          "markingGuide": "Alama 1 kwa kila taifa katika nafasi sahihi.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tofautisha mamlaka ya Shirikisho la Mataifa na udhamini wa Umoja wa Mataifa kwa mfuatano.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Tanganyika ilikuwa eneo la mamlaka baada ya Vita Kuu ya Kwanza; eneo la udhamini baada ya Vita Kuu ya Pili.",
+          "markingGuide": "Alama 1 kwa kila hatua, 1 kwa mfuatano sahihi.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Zanzibar ikawa eneo la ulinzi la Uingereza mwaka gani?",
+          "type": "short",
+          "options": [],
+          "answerKey": "1890.",
+          "markingGuide": "Alama 1 kwa 1890.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Ni kauli ipi ni sahihi?",
+          "type": "mcq",
+          "options": [
+            "A. Tanganyika na Zanzibar zilikuwa na taasisi zilezile kila wakati.",
+            "B. Sultani hakuwepo wakati wa ulinzi.",
+            "C. Zanzibar ilikuwa eneo la ulinzi, Tanganyika baadaye ilikuwa eneo la udhamini.",
+            "D. Uingereza haikuathiri maamuzi ya Zanzibar."
+          ],
+          "answerKey": "C",
+          "markingGuide": "Alama 1 kwa C.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini utawala usio wa moja kwa moja haukuwa kujitawala kamili?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mamlaka ya mwisho na maamuzi muhimu yalibaki kwa serikali ya kikoloni.",
+          "markingGuide": "Alama 1 kwa mamlaka ya mwisho; 1 kwa mfano wa kodi/uteuzi.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza njia mbili kodi ingeunganisha watu na uchumi wa kikoloni.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mahitaji ya fedha yangechochea kazi ya kulipwa au kuuza mazao; fedha za kodi zilitumika na serikali ya kikoloni.",
+          "markingGuide": "Alama 1 kwa kila njia na 1 kwa uhusiano na mamlaka.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja maswali matatu ya kuuliza kuhusu ujenzi wa reli ya kikoloni.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Nani alifanya kazi, bidhaa gani zililengwa na nani alipata manufaa; nani alilipia pia sahihi.",
+          "markingGuide": "Alama 1 kila swali tofauti.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini kuwepo kwa shule hakuthibitishi usawa wa elimu?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Idadi, maeneo, nafasi za kuingia na kiwango cha elimu vinaweza kuwa havikulingana.",
+          "markingGuide": "Alama 1 kwa kila kipimo tatu.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza tofauti kati ya kulinganisha historia na kuchanganya maeneo.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kulinganisha hutaja kila eneo na taasisi zake; kuchanganya huhamisha sifa au tarehe bila ushahidi.",
+          "markingGuide": "Alama 1 kwa kila ufafanuzi; 1 kwa mfano wa Tanganyika/Zanzibar.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Ni uhusiano upi wa leo unaoweza kuhusishwa na historia ya ukoloni? Toa tahadhari.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Elimu, lugha au biashara; lazima tuchunguze mikataba na hali ya sasa badala ya kudhani kila uhusiano ni sawa na ukoloni.",
+          "markingGuide": "Alama 1 kwa mfano; 1 kwa tahadhari; 1 kwa uhitaji wa ushahidi wa sasa.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini madai ya kuleta ustaarabu hayatoshi kuhalalisha ukoloni?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Hayaondoi matumizi ya nguvu na kunyimwa haki ya watu kuamua utawala wao.",
+          "markingGuide": "Alama 1 kwa nguvu; 1 kwa haki ya kujitawala.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Linganisha mifumo ya Tanganyika na Zanzibar kwa hoja nne.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Tanganyika ilikuwa chini ya Ujerumani kisha Uingereza, ikawa mamlaka/udhamini; Zanzibar ilikuwa usultani na eneo la ulinzi kuanzia 1890, ikiwa na sultani na ushawishi wa Uingereza.",
+          "markingGuide": "Alama 1 kila tofauti nne sahihi na 1 kwa kutenganisha maeneo na kipindi.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Tengeneza mistari miwili ya wakati kwa Tanganyika na Zanzibar hadi kabla ya uhuru. Weka angalau alama tatu bara na mbili visiwani.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Bara: utawala wa Ujerumani, mamlaka ya Uingereza baada ya Vita Kuu ya Kwanza, udhamini baada ya Vita Kuu ya Pili; visiwani: usultani, ulinzi wa 1890.",
+          "markingGuide": "Alama 1 kila alama tano sahihi; 1 kwa kutenganisha mistari.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Andika maelezo ya vipengele vinne vinavyotakiwa kabla ya kuhukumu mradi wa kikoloni kuwa na manufaa kwa wote.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Lengo, kazi na hali zake, gharama na walipaji, mgawanyo wa manufaa; ushahidi kwa kila kipengele.",
+          "markingGuide": "Alama 1 kila kipengele nne; 1 kwa kuhitaji ushahidi wa maoni ya walioathirika.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "Buni mdahalo mfupi wa hoja mbili kuhusu miundombinu na majibu mawili yanayozingatia haki ya kujitawala.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Miundombinu inaweza kusaidia usafiri/biashara; majibu yaulize gharama, vipaumbele na haki ya watu kuchagua, bila kukataa matumizi yake yote.",
+          "markingGuide": "Alama 1 kila hoja mbili, 1 kila jibu mbili, 1 kwa kutofautisha matumizi na uhalali wa utawala.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "historia-f2-activity-01",
+        "historia-f2-activity-02",
+        "historia-f2-activity-03"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "historia-f2-upinzani-utu-maadili",
+      "subjectId": "historia",
+      "form": 2,
+      "title": "Kupinga utawala wa kikoloni na kulinda utu",
+      "language": "sw",
+      "objectives": [
+        "Kueleza sababu na njia tofauti za upinzani.",
+        "Kutumia mifano ya Abushiri, Wahehe na Maji Maji kwa mfuatano sahihi.",
+        "Kutathmini maadili na athari za upinzani bila kusifu madhara kwa raia."
+      ],
+      "paragraphs": [
+        "Kabla ya uvamizi wa kikoloni, jamii zilikuwa na njia mbalimbali za kufundisha wajibu, kusaidiana na kutatua migogoro. Hali hiyo haimaanishi maisha yalikuwa bila vita, utumwa au tofauti za mamlaka. Uvamizi uliingilia taasisi zilizokuwepo na kuanzisha utii kwa mamlaka ya kigeni. Kazi ya kulazimishwa, kodi, unyakuzi wa ardhi na udhibiti wa maamuzi vilisababisha hofu na upinzani. Athari kwa maadili zichunguzwe kwa mifano: kulazimishwa kunaweza kuvunja heshima ya utu, huku kutegemeana katika shida kukiimarisha mshikamano.",
+        "Upinzani ulikuwa na njia nyingi: mapigano, kukataa kushirikiana, kuondoka maeneo fulani, maombi ya kisiasa na kudumisha maarifa au desturi. Watu walifanya maamuzi chini ya hali tofauti za nguvu na hatari. Mazungumzo au kukubali mpango fulani havithibitishi moja kwa moja kukosa uzalendo; wakati mwingine vilikuwa mbinu za kuokoa maisha au kupata nafasi ya kuendelea kujipanga. Historia ya upinzani inahitaji kutofautisha nia, hatua, matokeo na mazingira badala ya kuwapa watu wote sifa au lawama moja.",
+        "Upinzani wa pwani uliohusishwa na Abushiri mwaka 1888–1889 ulipinga upanuzi wa mamlaka ya Kampuni ya Afrika Mashariki ya Kijerumani na hatua zilizovuruga mamlaka na biashara. Katika maeneo ya Wahehe, mapambano dhidi ya Wajerumani yalihusishwa na uongozi wa Mkwawa; jeshi la Kijerumani lilishindwa Lugalo mwaka 1891. Mapambano yaliendelea baada ya tukio hilo, na Mkwawa alikufa mwaka 1898. Mifano hii inaonyesha tofauti za mazingira na muda; kushinda pambano moja hakumaanishi mwisho wa utawala au wa mapambano yote.",
+        "Vita vya Maji Maji vya 1905–1907 vilienea katika sehemu za kusini na maeneo mengine ya Tanganyika ya baadaye. Malalamiko yalihusu utawala wa ukandamizaji, kodi, kazi na masharti ya uzalishaji, yakiwemo mazao ya pamba katika baadhi ya maeneo. Kinjikitile Ngwale alihusishwa na ujumbe wa umoja na maji katika mwanzo wa harakati. Imani ya maji inachunguzwa kama sehemu ya kuhamasisha watu; si uthibitisho kwamba maji yaliweza kuzuia risasi. Ushiriki na sababu havikuwa sawasawa katika kila eneo.",
+        "Ukandamizaji wa Wajerumani ulijumuisha kuharibu makazi, mazao na akiba za chakula, na njaa iliongeza vifo na mateso. Matokeo hayo yanakumbusha kwamba gharama za vita huwapata pia raia wasiopigana. Ushujaa wa kupinga kunyimwa uhuru unaweza kuthaminiwa bila kuficha madhara au kutangaza kila mbinu kuwa ya haki. Katika kutathmini uzalendo, tunaangalia kujali watu, kupinga dhuluma, kushirikiana na kutafuta mustakabali wenye heshima, si chuki kwa watu wa leo kutokana na utaifa wao.",
+        "Jamii ziliendeleza lugha, malezi, msaada kwa wenye shida, ibada, kazi na sanaa kwa njia zilizobadilika. Kukaa pamoja, kusaidia waliopoteza mali na kufundisha historia kulilinda utambulisho na mshikamano. Hata hivyo, utunzaji wa maadili haukuwa kukataa kila jambo jipya; watu waliweza kuchukua elimu au mbinu mpya na kuzitumia kudai haki. Tunapaswa kuepuka kusema jamii ilipoteza maadili yote au ilihifadhi kila kitu bila mabadiliko. Uaminifu wa historia unahitaji ushahidi wa kilichobadilika, kilichoendelea na sababu zake."
+      ],
+      "examples": [
+        "Mfano wa kutenganisha tukio na matokeo: Lugalo 1891 ilikuwa ushindi wa Wahehe katika pambano maalumu. Mwanafunzi akiandika kwamba ukoloni uliisha mwaka huo, anachanganya kiwango cha tukio na mchakato. Tunasahihisha kwa kueleza kwamba mapambano yaliendelea na mamlaka ya Kijerumani baadaye yaliimarishwa.",
+        "Mfano wa kusoma imani: Kauli ya kihistoria kuhusu maji inaweza kutuonyesha jinsi ujumbe ulivyojenga matumaini na umoja. Haitumiki kama maelekezo ya kinga ya mwili. Tunatofautisha kazi ya imani katika jamii na uwezo wa kimwili unaohitaji ushahidi wa kisayansi.",
+        "Mfano wa tathmini ya maadili: Katika taarifa ya kubuni, jamii inaficha chakula kwa familia zilizopoteza makazi. Hatua hiyo inaonyesha msaada na utu. Ukitathmini kitendo cha kuharibu chakula cha raia, pima matokeo ya njaa na wajibu wa kuwalinda; usitumie upande wa mhusika pekee kuamua haki."
+      ],
+      "glossary": [
+        {
+          "term": "Upinzani",
+          "definition": "Hatua za kukataa au kupinga mamlaka, masharti au uvamizi."
+        },
+        {
+          "term": "Uzalendo",
+          "definition": "Kujali nchi na watu wake kwa vitendo vinavyolinda ustawi na utu."
+        },
+        {
+          "term": "Ukandamizaji",
+          "definition": "Matumizi ya nguvu na mamlaka kuwanyima watu haki au sauti."
+        },
+        {
+          "term": "Raia",
+          "definition": "Katika muktadha wa vita, watu wasiokuwa washiriki wa mapigano."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Taja sababu tatu za kupinga utawala wa kikoloni.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kazi ya kulazimishwa, kodi na kuingiliwa mamlaka/ardhi.",
+          "markingGuide": "Alama 1 kila sababu tofauti.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja njia mbili za upinzani zisizo mapigano.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kukataa kushirikiana, kuhama, maombi ya kisiasa au kudumisha utambulisho kwa makusudi.",
+          "markingGuide": "Alama 1 kila njia; 1 kwa kueleza jinsi moja ilivyopinga udhibiti.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini mazungumzo na mtawala hayathibitishi kukosa uzalendo?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Yangeweza kuwa mbinu ya kupunguza madhara au kupata nafasi ya kujipanga; mazingira na nia zinahitaji kuchunguzwa.",
+          "markingGuide": "Alama 1 kwa mbinu, 1 kwa mazingira, 1 kwa nia/ushahidi.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Upinzani uliohusishwa na Abushiri ulitokea kipindi gani?",
+          "type": "short",
+          "options": [],
+          "answerKey": "1888–1889.",
+          "markingGuide": "Alama 1 kwa kila mwaka.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Lugalo ilihusishwa na nani na mwaka gani?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Wahehe chini ya uongozi uliohusishwa na Mkwawa, mwaka 1891.",
+          "markingGuide": "Alama 1 kwa Wahehe/Mkwawa, 1 kwa 1891.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Mkwawa alikufa mwaka gani?",
+          "type": "short",
+          "options": [],
+          "answerKey": "1898.",
+          "markingGuide": "Alama 1 kwa 1898.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Ni hitimisho lipi ni sahihi kuhusu Lugalo?",
+          "type": "mcq",
+          "options": [
+            "A. Utawala wote wa kikoloni uliisha 1891.",
+            "B. Ushindi wa pambano moja haukuwa mwisho wa mapambano yote.",
+            "C. Ilikuwa sehemu ya Maji Maji ya 1905.",
+            "D. Ilifanyika baada ya uhuru."
+          ],
+          "answerKey": "B",
+          "markingGuide": "Alama 1 kwa B.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Vita vya Maji Maji vilitokea kipindi gani?",
+          "type": "short",
+          "options": [],
+          "answerKey": "1905–1907.",
+          "markingGuide": "Alama 1 kwa kila mwaka.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kinjikitile Ngwale alihusishwa na mchango gani?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Ujumbe wa umoja na maji katika mwanzo wa harakati za Maji Maji.",
+          "markingGuide": "Alama 1 kwa umoja, 1 kwa maji/uhamasishaji, 1 kwa muktadha wa harakati.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini maelezo ya maji si uthibitisho wa kuzuia risasi?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Ni ushahidi wa imani na uhamasishaji; uwezo wa kimwili haujathibitishwa na imani hiyo.",
+          "markingGuide": "Alama 1 kwa imani, 1 kwa kazi yake, 1 kwa kutofautisha ushahidi wa kisayansi.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza namna kuharibiwa kwa chakula kulivyozidisha mateso.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kupoteza mazao na akiba kulisababisha njaa na kuongeza vifo hata kwa wasiopigana.",
+          "markingGuide": "Alama 1 kwa chakula, 1 kwa njaa, 1 kwa athari kwa raia.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Toa mifano miwili ya maadili yaliyoweza kudumishwa wakati wa ukoloni.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kusaidia wenye shida na kulea/kufundisha lugha na historia kwa watoto.",
+          "markingGuide": "Alama 1 kwa kila mfano na 1 kwa kueleza umuhimu wa moja.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini si sahihi kusema kila eneo lilishiriki Maji Maji kwa sababu ileile?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Masharti, shughuli, viongozi na uzoefu wa utawala vilitofautiana kwa maeneo.",
+          "markingGuide": "Alama 1 kwa tofauti na 1 kwa mifano miwili ya vipengele vinavyotofautiana.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tofautisha uzalendo na chuki dhidi ya watu wa taifa jingine leo.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Uzalendo hulinda watu na haki; chuki huwapa watu lawama kwa utambulisho bila kujali vitendo vyao.",
+          "markingGuide": "Alama 1 kwa kila ufafanuzi na 1 kwa kanuni ya utu.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tathmini upinzani kwa kuhusisha nia, mbinu na athari kwa raia.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Nia ya uhuru inaweza kuwa halali; mbinu zichunguzwe kwa haki na uwezo; madhara kwa raia yasifichewe.",
+          "markingGuide": "Alama 1 kwa kila kipengele tatu, 1 kwa mfano sahihi, 1 kwa kuepuka kusifu kila kitendo.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Tengeneza mstari wa wakati wenye Abushiri, Lugalo, kifo cha Mkwawa na Maji Maji. Ongeza sentensi ya kuzuia kuchanganya matukio hayo.",
+          "type": "short",
+          "options": [],
+          "answerKey": "1888–1889; 1891; 1898; 1905–1907. Ni matukio ya maeneo na nyakati tofauti, si vita moja.",
+          "markingGuide": "Alama 1 kila alama nne, 1 kwa sentensi ya tofauti.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "Panga chanzo cha kubuni: Afisa anasema kodi ilikuwa rahisi, mkazi anasema alilazimika kuuza chakula. Andika maswali manne ya kukagua mitazamo hiyo na hitimisho la muda.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Uliza kiasi, kipato, muda, eneo na sababu ya kuandika; hitimisho litambue uzoefu tofauti na kuhitaji ushahidi zaidi.",
+          "markingGuide": "Alama 1 kila swali nne maalumu, 1 kwa kulinganisha mitazamo, 1 kwa hitimisho lenye tahadhari.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Andika barua ya maneno 120 kwa klabu ya historia: taja vitendo vitatu vya kukumbuka upinzani kwa kulinda utu wa watu wa leo.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kuhakiki tarehe, kukumbuka mateso ya raia, kutunza maeneo/kumbukumbu, kukataa chuki ya utaifa; kila hatua ipewe sababu.",
+          "markingGuide": "Alama 1 kila kitendo tatu, 1 kila sababu tatu inayohusiana na utu.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "historia-f2-activity-04",
+        "historia-f2-activity-05",
+        "historia-f2-activity-06",
+        "historia-f2-activity-07",
+        "historia-f2-activity-08",
+        "historia-f2-activity-10"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "historia-f2-uhuru-mapinduzi-njia",
+      "subjectId": "historia",
+      "form": 2,
+      "title": "Njia za uhuru wa Tanganyika na Zanzibar na Mapinduzi",
+      "language": "sw",
+      "objectives": [
+        "Kuweka matukio ya 1954–1964 kwa mfuatano sahihi.",
+        "Kulinganisha harakati za Tanganyika na Zanzibar bila kuchanganya uhuru na Mapinduzi.",
+        "Kutathmini ahadi za umoja pamoja na haki na mateso ya raia."
+      ],
+      "paragraphs": [
+        "Harakati za uhuru zilijengwa juu ya uzoefu wa ukandamizaji, elimu, vyama, wafanyakazi, wakulima na mawasiliano mapana. Katika Tanganyika, Tanganyika African Association ilikuwa sehemu ya kujenga majadiliano ya haki; TANU iliundwa mwaka 1954 chini ya uongozi wa Julius Nyerere na viongozi wengine. Matawi, mikutano na uhamasishaji vilisaidia kuunganisha madai ya kujitawala kutoka maeneo mbalimbali. Wanawake na vijana walishiriki, ingawa majina yao hayatajwi kwa kiwango sawa katika kila simulizi. Uhuru haukuwa kazi ya mtu mmoja pekee.",
+        "TANU ilitumia uhamasishaji wa kisiasa, uchaguzi, mazungumzo na hoja katika taasisi za kimataifa, ikiwemo mfumo wa Umoja wa Mataifa kwa eneo la udhamini. Kiswahili kilisaidia mawasiliano kati ya watu wenye lugha tofauti. Misingi ya umoja ilihitaji kupunguza mgawanyiko wa kikabila, kidini na kieneo, huku watu wakiendelea kuwa na tofauti. Tanganyika ilipata uhuru tarehe 9 Desemba 1961, ikiwa na mfumo wa kifalme wa kikatiba kwa mwaka wa kwanza. Ilikuwa jamhuri tarehe 9 Desemba 1962; tarehe hizo mbili zina maana tofauti.",
+        "Zanzibar ilikuwa na harakati na vyama vyake katika mazingira ya usultani, ulinzi wa Uingereza, uchumi wa karafuu na tofauti za kijamii. Afro-Shirazi Party, Zanzibar Nationalist Party na Zanzibar and Pemba People’s Party vilikuwa miongoni mwa vyama muhimu. Mipaka ya majimbo, uwakilishi, ushindani wa vyama na tofauti za mali na hadhi zilichochea mvutano. Usawa wa kura kwa jumla na idadi ya viti si kitu kilekile katika mfumo wa majimbo. Historia hii isigeuzwe kuwa dai kwamba kila mtu wa kundi fulani alikuwa na msimamo mmoja wa kisiasa.",
+        "Zanzibar ilipata uhuru tarehe 10 Desemba 1963, ikawa usultani huru. Mapinduzi ya tarehe 12 Januari 1964 yaliuangusha usultani na kuleta serikali ya mapinduzi chini ya uongozi wa Abeid Amani Karume. Hivyo Mapinduzi hayakuwa tarehe ya kumaliza eneo la ulinzi la Uingereza; hilo lilikuwa limekoma wakati wa uhuru. Chimbuko la Mapinduzi lichunguzwe kwa kuunganisha tofauti za kihistoria za mamlaka na mali, malalamiko ya uwakilishi na mvutano wa kisiasa. Maelezo ya tukio moja pekee hayawezi kueleza sababu zote.",
+        "Mabadiliko ya serikali yalifuatwa na juhudi za kupanua fursa katika ardhi, elimu, afya na ushiriki wa watu waliokuwa wametengwa. Malengo hayo yalihusishwa na usawa na mshikamano. Wakati huo pia kulikuwa na vurugu, vifo, kupotea kwa mali na uhamaji; idadi na maelezo hutofautiana kati ya vyanzo, hivyo tusibuni takwimu. Kuadhimisha mabadiliko kunapaswa kuambatana na kuheshimu waathirika, kukataa adhabu ya kikundi na kutathmini utekelezaji wa ahadi kwa ushahidi. Umoja unaodumu unahitaji usalama na utu kwa wote.",
+        "Tanganyika na Zanzibar ziliungana tarehe 26 Aprili 1964 kuunda Jamhuri ya Muungano. Muungano ulikuwa tukio tofauti na uhuru wa kila upande na Mapinduzi ya Zanzibar. Ni muhimu kusema Tanganyika tunapozungumzia bara kabla ya Muungano, na Tanzania katika muktadha unaofaa baada yake. Kutunza mfuatano huu husaidia kuelewa kwa nini siku za kitaifa zina maudhui tofauti. Harakati, uhuru, jamhuri, Mapinduzi na Muungano ni dhana zinazohusiana lakini kila moja ina taasisi na tarehe zake."
+      ],
+      "examples": [
+        "Mfano wa kadi za tarehe: Kadi 9 Desemba 1961 inawekwa kwa uhuru wa Tanganyika, 10 Desemba 1963 kwa uhuru wa Zanzibar, 12 Januari 1964 kwa Mapinduzi, na 26 Aprili 1964 kwa Muungano. Kadi ya 9 Desemba 1962 ni jamhuri ya Tanganyika. Hatua hii huzuia kutumia neno uhuru kwa kila mabadiliko.",
+        "Mfano wa mfumo wa majimbo: Katika uchaguzi wa kubuni, chama A kinapata kura nyingi katika jimbo moja na kupoteza kwa tofauti ndogo katika majimbo mawili. Kinaweza kuwa na kura nyingi kwa jumla lakini kiti kimoja tu kati ya vitatu. Mfano unaeleza uwezekano wa mfumo; si takwimu za uchaguzi halisi wa Zanzibar.",
+        "Mfano wa maadili: Sherehe ya historia inaeleza fursa mpya za elimu na pia inaweka nafasi ya kukumbuka waathirika wa vurugu. Tathmini hii haifuti mabadiliko wala mateso. Inauliza ushahidi wa fursa zilizopanuka na njia za kulinda haki za watu wote ili mshikamano usijengwe kwa kuficha sehemu ya historia."
+      ],
+      "glossary": [
+        {
+          "term": "Uhuru",
+          "definition": "Kujitawala baada ya kumalizika kwa mamlaka ya kikoloni."
+        },
+        {
+          "term": "Jamhuri",
+          "definition": "Mfumo ambamo mkuu wa dola si mfalme wa kurithi."
+        },
+        {
+          "term": "Mapinduzi",
+          "definition": "Mabadiliko makubwa ya utawala yanayoondoa mfumo uliokuwapo."
+        },
+        {
+          "term": "Uwakilishi",
+          "definition": "Kushiriki maamuzi kupitia watu waliochaguliwa au walioteuliwa kwa utaratibu unaotambulika."
+        }
+      ],
+      "questions": [
+        {
+          "content": "TANU iliundwa mwaka gani?",
+          "type": "short",
+          "options": [],
+          "answerKey": "1954.",
+          "markingGuide": "Alama 1 kwa 1954.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja mbinu tatu zilizotumiwa katika harakati za Tanganyika.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mikutano/uhamasishaji, uchaguzi na mazungumzo; hoja katika Umoja wa Mataifa pia sahihi.",
+          "markingGuide": "Alama 1 kila mbinu tofauti.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kiswahili kilisaidiaje harakati?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kilisaidia mawasiliano na ujumbe wa pamoja kati ya watu wenye lugha mbalimbali.",
+          "markingGuide": "Alama 1 kwa mawasiliano; 1 kwa kuvuka tofauti za lugha; 1 kwa umoja.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tanganyika ilipata uhuru lini?",
+          "type": "short",
+          "options": [],
+          "answerKey": "9 Desemba 1961.",
+          "markingGuide": "Alama 1 kwa siku/mwezi, 1 kwa mwaka.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tofautisha tarehe 9 Desemba 1961 na 9 Desemba 1962.",
+          "type": "short",
+          "options": [],
+          "answerKey": "1961 ni uhuru wa Tanganyika; 1962 ni Tanganyika kuwa jamhuri.",
+          "markingGuide": "Alama 1 kwa kila tukio linalolingana na mwaka.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja vyama viwili vilivyoshiriki siasa za Zanzibar kabla ya Mapinduzi.",
+          "type": "short",
+          "options": [],
+          "answerKey": "ASP na ZNP; ZPPP pia sahihi.",
+          "markingGuide": "Alama 1 kila chama sahihi.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Zanzibar ilipata uhuru lini?",
+          "type": "short",
+          "options": [],
+          "answerKey": "10 Desemba 1963.",
+          "markingGuide": "Alama 1 kwa siku/mwezi, 1 kwa mwaka.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Mapinduzi ya Zanzibar yalitokea lini na yaliondoa mfumo gani?",
+          "type": "short",
+          "options": [],
+          "answerKey": "12 Januari 1964; yaliondoa usultani.",
+          "markingGuide": "Alama 1 kwa siku/mwezi, 1 kwa mwaka, 1 kwa usultani.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Ni mfuatano upi ni sahihi?",
+          "type": "mcq",
+          "options": [
+            "A. Uhuru wa Zanzibar, Mapinduzi, Muungano.",
+            "B. Muungano, uhuru wa Zanzibar, Mapinduzi.",
+            "C. Mapinduzi, uhuru wa Tanganyika, TANU kuundwa.",
+            "D. Muungano, jamhuri ya Tanganyika, uhuru wa Zanzibar."
+          ],
+          "answerKey": "A",
+          "markingGuide": "Alama 1 kwa A.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Karume alihusishwa na uongozi gani baada ya Januari 1964?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Serikali ya mapinduzi ya Zanzibar.",
+          "markingGuide": "Alama 1 kwa serikali ya mapinduzi, 1 kwa Zanzibar.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza sababu mbili za kuchunguza chimbuko la Mapinduzi kwa vipindi virefu.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Tofauti za mali na mamlaka zilikuwa na historia; malalamiko ya uwakilishi na ushindani wa kisiasa yalikua kabla ya tukio.",
+          "markingGuide": "Alama 1 kwa kila sababu na 1 kwa kuonyesha mchakato.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini kura nyingi kwa jumla hazihakikishi viti vingi katika mfumo wa majimbo?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Viti hutegemea matokeo ya kila jimbo; kura nyingi zinaweza kujikusanya katika majimbo machache.",
+          "markingGuide": "Alama 1 kwa matokeo ya jimbo, 1 kwa kujikusanya, 1 kwa hitimisho.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Taja maeneo mawili ya fursa yaliyolengwa na serikali ya mapinduzi.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Elimu na afya; ardhi pia sahihi.",
+          "markingGuide": "Alama 1 kila eneo na 1 kwa kuhusisha kupanua usawa.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini tusibuni idadi ya waathirika wa vurugu za Mapinduzi?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Vyanzo vinatofautiana na takwimu zinahitaji uhakiki; kubuni kunapotosha na kuwakosea heshima waathirika.",
+          "markingGuide": "Alama 1 kwa tofauti ya vyanzo, 1 kwa uhakiki, 1 kwa heshima/usahihi.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Eleza uhusiano na tofauti kati ya uhuru, Mapinduzi na Muungano kwa mifano ya 1961–1964.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Uhuru ulihitimisha utawala wa kikoloni Tanganyika 1961 na Zanzibar 1963; Mapinduzi yaliondoa usultani Januari 1964; Muungano uliunganisha nchi Aprili 1964.",
+          "markingGuide": "Alama 1 kwa kila dhana tatu, 1 kwa tarehe sahihi, 1 kwa kutenganisha maeneo.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Tengeneza kalenda yenye matukio sita: TANU kuundwa, uhuru wa Tanganyika, jamhuri, uhuru wa Zanzibar, Mapinduzi na Muungano.",
+          "type": "short",
+          "options": [],
+          "answerKey": "1954; 9 Desemba 1961; 9 Desemba 1962; 10 Desemba 1963; 12 Januari 1964; 26 Aprili 1964.",
+          "markingGuide": "Alama 1 kila tukio na tarehe yake sahihi.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        },
+        {
+          "content": "Katika uchaguzi wa kubuni, A/B hupata kura: jimbo 1, 900/100; jimbo 2, 450/550; jimbo 3, 450/550. Hesabu kura za kila chama na viti, kisha eleza kikomo cha kutumia mfano huu kwa Zanzibar halisi.",
+          "type": "short",
+          "options": [],
+          "answerKey": "A 1,800 na kiti 1; B 1,200 na viti 2. Ni mfano wa mfumo tu, si takwimu au uthibitisho wa matokeo ya Zanzibar.",
+          "markingGuide": "Alama 1 kila jumla mbili, 1 kila idadi ya viti mbili, 1 kwa kikomo.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        },
+        {
+          "content": "Andaa mpango wa maonesho ya historia wenye sehemu tatu: harakati, mabadiliko ya fursa na kumbukumbu za waathirika. Kwa kila sehemu, pendekeza chanzo na kanuni ya heshima.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Harakati: nyaraka/hotuba; fursa: rekodi za elimu/afya; waathirika: simulizi kwa ridhaa/nyaraka. Hakiki, usibuni na usiwape watu lawama za kikundi.",
+          "markingGuide": "Alama 1 kila sehemu tatu yenye chanzo, 1 kila kanuni tatu inayolingana.",
+          "maximumMarks": 6,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "historia-f2-activity-09",
+        "historia-f2-activity-13",
+        "historia-f2-activity-14"
+      ],
+      "completionStatus": "expanded-chapter"
+    },
+    {
+      "id": "historia-f2-taifa-1961-1966",
+      "subjectId": "historia",
+      "form": 2,
+      "title": "Kujenga Taifa hatua kwa hatua: 1961–1966",
+      "language": "sw",
+      "objectives": [
+        "Kuchambua hali ya uchumi na huduma zilizorithiwa wakati wa uhuru.",
+        "Kueleza hatua za kisiasa na kijamii za 1961–1966 kwa tarehe sahihi.",
+        "Kutathmini mafanikio na changamoto kwa vigezo vya usawa, uwajibikaji na uwezo wa rasilimali."
+      ],
+      "paragraphs": [
+        "Tanganyika ilipopata uhuru mwaka 1961, ilirithi uchumi uliotegemea sana kilimo na mauzo ya bidhaa chache nje. Huduma, barabara na nafasi za elimu hazikusambaa kwa usawa, na idadi ya watumishi wenye mafunzo ya juu ilikuwa ndogo. Tatizo halikuwa fedha pekee: walimu, wataalamu wa afya na wasimamizi walihitajika pia. Serikali ilihitaji kuongeza huduma na wakati huohuo kudumisha uzalishaji na mapato. Tathmini ya sera inapaswa kuanzia kwenye hali hii, bila kuitumia kama sababu ya kuondoa wajibu wa viongozi.",
+        "Mabadiliko ya kisiasa yalihitaji taasisi mpya na mafunzo ya uraia. Julius Nyerere alikuwa Waziri Mkuu wakati wa uhuru, akajiuzulu nafasi hiyo Januari 1962; Rashidi Kawawa akawa Waziri Mkuu. Tanganyika ilipokuwa jamhuri tarehe 9 Desemba 1962, Nyerere akawa Rais. Kuongeza Waafrika katika utumishi wa umma kulilenga kubadili utegemezi na ubaguzi wa mfumo wa kikoloni, lakini kulihitaji mafunzo na mipango ya kuendeleza kazi. Kubadili watu katika ofisi hakutoshi peke yake; uadilifu, uwezo na uwajibikaji ni vipimo vya taasisi.",
+        "Mwaka 1964 ulikuwa na changamoto na mabadiliko makubwa. Uasi wa jeshi Tanganyika Januari 1964 ulihusishwa na malalamiko katika jeshi na ulionyesha umuhimu wa uhusiano kati ya jeshi na mamlaka ya kiraia. Katika upande mwingine, Mapinduzi Zanzibar yalikuwa tukio tofauti la Januari 1964. Muungano wa Tanganyika na Zanzibar ulianzishwa tarehe 26 Aprili 1964, na jina Tanzania likatumika baadaye mwaka huo. Serikali ya Muungano na serikali ya Zanzibar ziliendelea kuwa na majukumu kwa utaratibu wa Muungano; si kila jambo likawa chini ya taasisi moja.",
+        "Katiba ya muda ya mwaka 1965 iliweka mfumo wa chama kimoja, TANU kwa upande wa Tanganyika na ASP Zanzibar. Madai ya kuimarisha umoja na kupunguza migawanyiko yalikuwa sehemu ya hoja za mfumo huo. Tathmini yake pia inauliza kuhusu ushindani wa kisiasa, uhuru wa maoni na uwajibikaji. Umoja haupimwi kwa kupungua kwa vyama pekee; unahitaji wananchi kusikilizwa na haki kulindwa. Chama Cha Mapinduzi hakikuwa kimeundwa mwaka 1965; TANU na ASP viliungana kuwa CCM mwaka 1977, nje ya kipindi cha sura hii.",
+        "Katika uchumi na jamii, serikali ilijaribu kupanua elimu, afya na uwezo wa uzalishaji pamoja na kujenga watumishi na wataalamu wa ndani. Mpango wa kwanza wa maendeleo wa miaka mitano wa 1964–1969 ulianza ndani ya kipindi hiki na kuendelea baada ya 1966. Uhaba wa fedha, watumishi na vifaa uliweka vikwazo; kupanga shule bila walimu au dawa bila usambazaji hakutoshi. Mjadala kuhusu wajibu wa vijana na elimu ulionekana pia katika mgogoro wa wanafunzi wa chuo kikuu kuhusu masharti ya huduma ya taifa mwaka 1966. Ujenzi wa Taifa ulihusisha kujadili haki, gharama ya elimu na wajibu kwa jamii.",
+        "Tanzania iliweka msisitizo katika umoja wa Afrika na kuunga mkono ukombozi wa maeneo yaliyobaki chini ya ukoloni au utawala wa kibaguzi. Tanganyika ilikuwa miongoni mwa waanzilishi wa Umoja wa Nchi Huru za Afrika mwaka 1963 kabla ya Muungano. Mahusiano ya kimataifa yalihitaji kusawazisha misingi ya kisiasa na mahitaji ya rasilimali. Katika kuhitimisha kipindi cha 1961–1966, tusihamishe Azimio la Arusha la 1967 kuingia ndani yake, wala kuita kila sera ya baadaye sera ya wakati wa uhuru. Mafanikio na changamoto zipimwe kwa matokeo halisi, muda na watu waliofikiwa."
+      ],
+      "examples": [
+        "Mfano wa upangaji: Halmashauri ya mfano ina fedha za vyumba viwili vya darasa lakini mwalimu mmoja tu. Hatua ni kuhesabu watoto na mahitaji, kupanga ajira/mafunzo na vifaa pamoja na ujenzi. Kipimo cha mafanikio si vyumba pekee, bali wanafunzi wanaopata ufundishaji unaofaa.",
+        "Mfano wa kosa la wakati: Insha inasema CCM ilianzisha Azimio la Arusha mwaka 1965. Rekebisha sehemu mbili: Azimio la Arusha lilitangazwa mwaka 1967, na CCM iliundwa mwaka 1977. Katika kipindi cha 1965 kulikuwa na TANU na ASP ndani ya mfumo wa chama kimoja katika maeneo yao.",
+        "Mfano wa usomaji wa takwimu: Katika kata ya kubuni, shule zinaongezeka kutoka 4 hadi 6, lakini wanafunzi kutoka 400 hadi 900. Wastani ulikuwa 100 kwa shule, sasa 150. Kuongezeka kwa shule ni hatua, lakini ongezeko la mahitaji ni kubwa zaidi; tunahitaji pia taarifa za madarasa, walimu na usambazaji."
+      ],
+      "glossary": [
+        {
+          "term": "Ujenzi wa Taifa",
+          "definition": "Juhudi za kuimarisha taasisi, uchumi, huduma na mshikamano wa nchi."
+        },
+        {
+          "term": "Utumishi wa umma",
+          "definition": "Kazi za kutekeleza huduma na majukumu ya serikali kwa wananchi."
+        },
+        {
+          "term": "Mamlaka ya kiraia",
+          "definition": "Uongozi wa serikali unaotofautishwa na jeshi katika kufanya maamuzi ya kisiasa."
+        },
+        {
+          "term": "Mpango wa maendeleo",
+          "definition": "Mpangilio wa malengo, rasilimali na hatua za kuboresha uchumi na huduma kwa muda fulani."
+        }
+      ],
+      "questions": [
+        {
+          "content": "Taja changamoto tatu zilizorithiwa wakati wa uhuru wa Tanganyika.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Utegemezi wa kilimo/bidhaa chache nje, huduma zisizosambaa sawa na uhaba wa watumishi wenye mafunzo.",
+          "markingGuide": "Alama 1 kila changamoto.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Nani alichukua nafasi ya Waziri Mkuu baada ya Nyerere kujiuzulu Januari 1962?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Rashidi Kawawa.",
+          "markingGuide": "Alama 1 kwa Rashidi Kawawa.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Nyerere akawa Rais wa Tanganyika katika mabadiliko gani ya mwaka 1962?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Tanganyika kuwa jamhuri tarehe 9 Desemba 1962.",
+          "markingGuide": "Alama 1 kwa jamhuri, 1 kwa tarehe.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini kuongeza Waafrika katika utumishi kulihitaji mafunzo pia?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kubadili utegemezi na ubaguzi kulipaswa kuambatana na ujuzi wa kutekeleza huduma na kuendeleza kazi.",
+          "markingGuide": "Alama 1 kwa lengo, 1 kwa ujuzi, 1 kwa mwendelezo wa huduma.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tofautisha uasi wa jeshi Tanganyika na Mapinduzi Zanzibar.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Yote yalikuwa Januari 1964 lakini uasi ulihusu jeshi Tanganyika; Mapinduzi yaliondoa usultani Zanzibar.",
+          "markingGuide": "Alama 1 kwa upande wa bara, 1 kwa Zanzibar, 1 kwa kutambua ni matukio tofauti.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Muungano ulianzishwa lini?",
+          "type": "short",
+          "options": [],
+          "answerKey": "26 Aprili 1964.",
+          "markingGuide": "Alama 1 kwa siku/mwezi, 1 kwa mwaka.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini si sahihi kudhani kila jukumu la Zanzibar lilihamishiwa taasisi moja baada ya Muungano?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Serikali ya Muungano na serikali ya Zanzibar ziliendelea kuwa na majukumu kwa utaratibu wa Muungano.",
+          "markingGuide": "Alama 1 kwa serikali mbili, 1 kwa majukumu/utaratibu.",
+          "maximumMarks": 2,
+          "markIncrement": 1
+        },
+        {
+          "content": "Katiba ya muda ya 1965 ilihusisha mfumo gani wa vyama?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Chama kimoja, TANU upande wa Tanganyika na ASP Zanzibar.",
+          "markingGuide": "Alama 1 kwa chama kimoja, 1 kwa TANU, 1 kwa ASP katika eneo sahihi.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Ni kauli ipi inaweka muda sahihi?",
+          "type": "mcq",
+          "options": [
+            "A. CCM iliundwa 1961.",
+            "B. Azimio la Arusha lilikuwa la 1965.",
+            "C. Mpango wa 1964–1969 uliisha 1966.",
+            "D. Mpango wa 1964–1969 ulianza ndani ya kipindi cha 1961–1966."
+          ],
+          "answerKey": "D",
+          "markingGuide": "Alama 1 kwa D.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Toa hoja ya kuunga mkono na swali la kukagua mfumo wa chama kimoja.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Hoja ni kuimarisha umoja; swali ni jinsi mfumo ulivyolinda uhuru wa maoni na uwajibikaji.",
+          "markingGuide": "Alama 1 kwa hoja, 1 kwa swali, 1 kwa kuonyesha tathmini ya pande zote.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Shule 4 zina wanafunzi 400; wastani kwa shule ni wangapi? Shule 6 zenye wanafunzi 900 zina wastani gani?",
+          "type": "short",
+          "options": [],
+          "answerKey": "100 awali na 150 baadaye.",
+          "markingGuide": "Alama 1 kwa kila wastani, 1 kwa kuonyesha mgawanyo.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Kwa nini wastani wa wanafunzi kwa shule hautoshi kupima elimu bora?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Hauonyeshi idadi ya walimu, madarasa, vifaa au tofauti kati ya shule.",
+          "markingGuide": "Alama 1 kwa kila kipimo tatu.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tanganyika ilishiriki kuanzisha umoja gani wa Afrika mwaka 1963?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Umoja wa Nchi Huru za Afrika (OAU).",
+          "markingGuide": "Alama 1 kwa jina au OAU.",
+          "maximumMarks": 1,
+          "markIncrement": 1
+        },
+        {
+          "content": "Mgogoro wa wanafunzi kuhusu huduma ya taifa mwaka 1966 unaweza kutufundisha nini kuhusu ujenzi wa Taifa?",
+          "type": "short",
+          "options": [],
+          "answerKey": "Kulikuwa na mjadala wa haki, gharama za elimu na wajibu wa vijana kwa jamii; sera zinahitaji kusikiliza na kusawazisha maslahi.",
+          "markingGuide": "Alama 1 kwa mjadala, 1 kwa maslahi mawili, 1 kwa umuhimu wa kusikiliza.",
+          "maximumMarks": 3,
+          "markIncrement": 1
+        },
+        {
+          "content": "Tathmini mafanikio ya ujenzi wa Taifa 1961–1966 kwa vipimo vitano.",
+          "type": "essay",
+          "options": [],
+          "answerKey": "Taasisi za kujitawala, upatikanaji wa huduma, uwezo wa watumishi, mshikamano/haki na uzalishaji au matumizi ya rasilimali.",
+          "markingGuide": "Alama 1 kwa kila kipimo tano chenye maelezo; matukio ya baada ya 1966 yasihesabiwe kuwa mafanikio ya kipindi hiki.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "workbookQuestions": [
+        {
+          "content": "Panga kadi saba kwa wakati: uhuru, Kawawa kuwa Waziri Mkuu, jamhuri, uasi wa jeshi, Muungano, katiba ya muda na mgogoro wa huduma ya taifa.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Desemba 1961; Januari 1962; Desemba 1962; Januari 1964; Aprili 1964; 1965; 1966.",
+          "markingGuide": "Alama 1 kwa kila kadi yenye nafasi na mwaka sahihi.",
+          "maximumMarks": 7,
+          "markIncrement": 1
+        },
+        {
+          "content": "Katika mpango wa kubuni, una vitengo 100 vya fedha. Gawa kati ya majengo, mafunzo ya watumishi, vifaa na usimamizi. Jumla iwe 100 na andika sababu nne pamoja na vipimo viwili vya matokeo.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Mfano: 35 majengo, 30 mafunzo, 25 vifaa, 10 usimamizi. Sababu ziunganishe miundombinu na huduma; vipimo ni waliofikiwa na ubora wa huduma. Migawanyo mingine yenye mantiki inakubalika.",
+          "markingGuide": "Alama 1 kwa jumla 100; 1 kila sababu nne; 1 kila kipimo mbili cha matokeo.",
+          "maximumMarks": 7,
+          "markIncrement": 1
+        },
+        {
+          "content": "Sahihisha maandishi haya kwa sentensi nne: Tanzania ilipata uhuru 1964, CCM ilikuwa chama cha 1965, Azimio la Arusha lilitangazwa 1966, na mpango wa 1964–1969 uliisha 1966.",
+          "type": "short",
+          "options": [],
+          "answerKey": "Tanganyika ilipata uhuru 1961 na Zanzibar 1963; Muungano 1964. TANU/ASP zilikuwepo 1965, CCM 1977. Azimio la Arusha 1967. Mpango uliendelea hadi 1969.",
+          "markingGuide": "Alama 1 kila kosa nne lililosahihishwa; 1 kwa kutenganisha Tanganyika na Zanzibar.",
+          "maximumMarks": 5,
+          "markIncrement": 1
+        }
+      ],
+      "curriculumActivityIds": [
+        "historia-f2-activity-11",
+        "historia-f2-activity-12"
+      ],
+      "completionStatus": "expanded-chapter"
+    }
+  ]
+}

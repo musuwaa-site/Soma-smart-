@@ -1,0 +1,159 @@
+{
+  "url": "https://mlostudies.com/api/papers.php?action=other_subjects&category=other&exam_name=FORM+ONE+TERMINAL+EXAMINATION+MKALAMA+DC&year=2025&class=I",
+  "data": [
+    {
+      "subject": "Sport Studies",
+      "files": [
+        {
+          "id": 1261,
+          "exam_file": "https://drive.google.com/file/d/1ivklAxIBakLIPWrmL-PZlleqinFPtERe/view?usp=drive_link",
+          "ms_file": "https://drive.google.com/file/d/1JaXrzwRygXgjSXkHjwhvcOEJOA-xD7Gm/view?usp=drive_link",
+          "exam_name": "FORM ONE TERMINAL EXAMINATION MKALAMA DC",
+          "region": "Singida",
+          "year": 2025,
+          "created_at": "2026-05-14 04:53:02"
+        }
+      ]
+    },
+    {
+      "subject": "Mathematics",
+      "files": [
+        {
+          "id": 1260,
+          "exam_file": "https://drive.google.com/file/d/1r-vCoQJs3CA3pNJr32NCug3NhjOdIxr_/view?usp=drive_link",
+          "ms_file": "https://drive.google.com/file/d/1x5pWkdNrTAWjoq2ec93z8yuK3a7gJlR1/view?usp=drive_link",
+          "exam_name": "FORM ONE TERMINAL EXAMINATION MKALAMA DC",
+          "region": "Singida",
+          "year": 2025,
+          "created_at": "2026-05-14 04:51:07"
+        }
+      ]
+    },
+    {
+      "subject": "Kiswahili",
+      "files": [
+        {
+          "id": 1259,
+          "exam_file": "https://drive.google.com/file/d/1iUUqamAI6n2btEumVkbVsJvZXY7etdsT/view?usp=drive_link",
+          "ms_file": "https://drive.google.com/file/d/1k3t5Tj0PAkLLZn1hXR48GXvsJdD0SZmD/view?usp=drive_link",
+          "exam_name": "FORM ONE TERMINAL EXAMINATION MKALAMA DC",
+          "region": "Singida",
+          "year": 2025,
+          "created_at": "2026-05-14 04:48:40"
+        }
+      ]
+    },
+    {
+      "subject": "Historia ya Tanzania na Maadili",
+      "files": [
+        {
+          "id": 1258,
+          "exam_file": "https://drive.google.com/file/d/1X_hRbbKjjbNZArZGfGHRyy8jTocFWCyL/view?usp=drive_link",
+          "ms_file": "https://drive.google.com/file/d/1mNLBi5OP8ptHohAzR0jtRCWT1kNqGKLO/view?usp=drive_link",
+          "exam_name": "FORM ONE TERMINAL EXAMINATION MKALAMA DC",
+          "region": "Singida",
+          "year": 2025,
+          "created_at": "2026-05-14 04:47:13"
+        }
+      ]
+    },
+    {
+      "subject": "History",
+      "files": [
+        {
+          "id": 1257,
+          "exam_file": "https://drive.google.com/file/d/1K9aORkRHd1ITQtyki3E7AIB3TNSvYB7A/view?usp=drive_link",
+          "ms_file": "https://drive.google.com/file/d/1FmC7troj84CyR_gFF-7z5i3b2Q1RdGj2/view?usp=drive_link",
+          "exam_name": "FORM ONE TERMINAL EXAMINATION MKALAMA DC",
+          "region": "Singida",
+          "year": 2025,
+          "created_at": "2026-05-14 04:45:25"
+        }
+      ]
+    },
+    {
+      "subject": "Geography",
+      "files": [
+        {
+          "id": 1256,
+          "exam_file": "https://drive.google.com/file/d/1G4dMfr0ZQ15008hr2MGckiV_fqhSBf4t/view?usp=drive_link",
+          "ms_file": "https://drive.google.com/file/d/1iCZY7e4v05XQ28SlCHAAUSYLRF6Max9m/view?usp=drive_link",
+          "exam_name": "FORM ONE TERMINAL EXAMINATION MKALAMA DC",
+          "region": "Singida",
+          "year": 2025,
+          "created_at": "2026-05-14 04:38:00"
+        }
+      ]
+    },
+    {
+      "subject": "English",
+      "files": [
+        {
+          "id": 1255,
+          "exam_file": "https://drive.google.com/file/d/1tB90fQwZSA6uYTzaWcUvJhCCcLpsG9nv/view?usp=drive_link",
+          "ms_file": "https://drive.google.com/file/d/1YdfuKsXIBTcmivl1cMHXUYIwJ1IuQOeI/view?usp=drive_link",
+          "exam_name": "FORM ONE TERMINAL EXAMINATION MKALAMA DC",
+          "region": "Singida",
+          "year": 2025,
+          "created_at": "2026-05-14 04:35:34"
+        }
+      ]
+    },
+    {
+      "subject": "Elimu ya Dini ya Kiislam",
+      "files": [
+        {
+          "id": 1254,
+          "exam_file": "https://drive.google.com/file/d/109xyeN1VU796GVVJ1jqezNF0e8dFQfNr/view?usp=drive_link",
+          "ms_file": "https://drive.google.com/file/d/1Jb-R_rfUaEzZ0JIZHghwC0WnSpXwW3SL/view?usp=drive_link",
+          "exam_name": "FORM ONE TERMINAL EXAMINATION MKALAMA DC",
+          "region": "Singida",
+          "year": 2025,
+          "created_at": "2026-05-14 04:33:39"
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "files": [
+        {
+          "id": 1253,
+          "exam_file": "https://drive.google.com/file/d/18lXMtGBKNOuHPpHWppdtvC9m8IyKCEuT/view?usp=drive_link",
+          "ms_file": "https://drive.google.com/file/d/105qWexul94JR4t5W2kWilhLzkDO2YGZ0/view?usp=drive_link",
+          "exam_name": "FORM ONE TERMINAL EXAMINATION MKALAMA DC",
+          "region": "Singida",
+          "year": 2025,
+          "created_at": "2026-05-14 04:32:13"
+        }
+      ]
+    },
+    {
+      "subject": "Business Studies",
+      "files": [
+        {
+          "id": 1252,
+          "exam_file": "https://drive.google.com/file/d/1m78gg8Tgb-JMEN0n0Jcma_0Ij6lkoM2U/view?usp=drive_link",
+          "ms_file": "https://drive.google.com/file/d/18HQMkrLOClU0UIDn32ztu63EGODZasyI/view?usp=drive_link",
+          "exam_name": "FORM ONE TERMINAL EXAMINATION MKALAMA DC",
+          "region": "Singida",
+          "year": 2025,
+          "created_at": "2026-05-14 04:31:05"
+        }
+      ]
+    },
+    {
+      "subject": "Biology",
+      "files": [
+        {
+          "id": 1251,
+          "exam_file": "https://drive.google.com/file/d/1r2-OA2_yLheo2VAN7_Bd36oNnOJ9vPVK/view?usp=drive_link",
+          "ms_file": "https://drive.google.com/file/d/1lMxnFLG9o0IvMjxcwRBng6cUPG2gbpQD/view?usp=drive_link",
+          "exam_name": "FORM ONE TERMINAL EXAMINATION MKALAMA DC",
+          "region": "Singida",
+          "year": 2025,
+          "created_at": "2026-05-14 04:29:48"
+        }
+      ]
+    }
+  ]
+}

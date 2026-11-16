@@ -51,3 +51,5 @@ Acquisition originals and rendered third-party content remain in the ignored loc
 See [administration](docs/ADMINISTRATION.md). The Python server is separate from the student static bundle, uses server-side sessions and CSRF checks, and requires an owner-supplied password. Never put that password in frontend files.
 
 Scanned PDFs require the `tesseract` executable (English language data installed); install Kiswahili language data and adjust OCR language for Kiswahili sources before relying on its transcription. OCR output is never automatically verified. Generate Android PNG icons from the original SVG with `python scripts/icons.py`.
+
+When resuming in a fresh environment, `python scripts/restore_acquisition.py --extract` restores the ignored acquisition workspace from tracked source URLs and verifies each original SHA-256. Use `--id SOURCE_ID` for a single document. Changed or inaccessible sources are reported rather than silently substituted.

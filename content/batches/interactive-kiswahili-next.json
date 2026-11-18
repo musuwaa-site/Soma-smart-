@@ -1,0 +1,2713 @@
+{
+  "paper": {
+    "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+    "title": "Moshi District Council • Kiswahili • Form One • May 2026",
+    "form": 1,
+    "subjectId": "kiswahili",
+    "sourceType": "district",
+    "institution": "Moshi District Council (printed source cover)",
+    "year": 2026,
+    "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+    "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+    "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+    "sourceDocumentId": "source-f2fa06ae74512159",
+    "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+    "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "publicationStatus": "published",
+    "completePaper": false,
+    "transcriptionComplete": true,
+    "sourceMainQuestionCount": 10,
+    "sourceMaximumMarks": 100,
+    "maximumMarks": 83,
+    "questionIds": [
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-i",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-ii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-iii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-iv",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-v",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-i",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-ii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-iii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-v",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q5",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q6",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-i",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-ii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-iii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-iv",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-v",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-i",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-ii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-iii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-iv",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-v",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q8",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q9",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q10"
+    ],
+    "allTranscribedQuestionIds": [
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-i",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-ii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-iii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-iv",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-v",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-vi",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-vii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-viii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-ix",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-x",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q2",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-i",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-ii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-iii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-iv",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-v",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-i",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-ii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-iii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-iv",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-v",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q5",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q6",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-i",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-ii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-iii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-iv",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-v",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-i",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-ii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-iii",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-iv",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-v",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q8",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q9",
+      "moshi-f1-2026-kiswahili-f2fa06ae74512159-q10"
+    ],
+    "sourceInstructions": [
+      "Karatasi hii ina sehemu A, B na C zenye jumla ya maswali kumi (10)",
+      "Jibu maswali yote kwenye nafasi ulizopewa.",
+      "Sehemu A ina jumla ya alama kumi na tano (15), na sehemu B alama sabini (70) na sehemu C alama kumi na tano (15).",
+      "Jibu maswali yote katika sehemu A, na B na swali moja katika sehemu C."
+    ],
+    "verificationScope": "Complete transcription of all ten source main questions. Unresolved records remain drafts; source spelling is not silently repaired.",
+    "excludedQuestions": [
+      {
+        "number": "1(i)",
+        "reason": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi."
+      },
+      {
+        "number": "1(ii)",
+        "reason": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi."
+      },
+      {
+        "number": "1(iii)",
+        "reason": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi."
+      },
+      {
+        "number": "1(iv)",
+        "reason": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi."
+      },
+      {
+        "number": "1(v)",
+        "reason": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi."
+      },
+      {
+        "number": "1(vi)",
+        "reason": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi."
+      },
+      {
+        "number": "1(vii)",
+        "reason": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi."
+      },
+      {
+        "number": "1(viii)",
+        "reason": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi."
+      },
+      {
+        "number": "1(ix)",
+        "reason": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi."
+      },
+      {
+        "number": "1(x)",
+        "reason": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi."
+      },
+      {
+        "number": "2",
+        "reason": "Jumla yaSehemuA15 imeandikwa, lakini alama za swali2/jozi hazijaonyeshwa. Inasubiri ugawaji wa alama unaothibitishika."
+      },
+      {
+        "number": "4(iv)",
+        "reason": "Orodha ya chanzo ina “na” ya ziada pamoja na “kupata”; sentensi ya mwongozo huacha maneno hayo. Haiwezi kupewa jibu la pekee linalotumia kila neno bila kubadili swali."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-i",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "1(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-1(i)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "Katika vipengele (i) hadi (x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika jedwali ulilopewa.",
+      "content": "Lugha hufungamana na utamaduni. Vipengele vipi vya lugha kati ya vifuatavyo vinabainisha utamaduni wa Mtanzania?",
+      "options": [
+        "Vyakula, kilimo na mavazi",
+        "Salamu, mavazi na vyakula",
+        "Nyimbo, unasibu na mavazi",
+        "Mavazi, mali na vyakula"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-002.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 2."
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "answerKey": "Salamu, mavazi na vyakula",
+      "markingGuide": "Mwongozo wa chanzo unachagua B. Alama binafsi hazijaainishwa kwenye karatasi wala mwongozo; usihesabu hadi upatikanaji wa ugawaji uliothibitishwa.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Vyakula, kilimo na mavazi",
+        "B. Salamu, mavazi na vyakula",
+        "C. Nyimbo, unasibu na mavazi",
+        "D. Mavazi, mali na vyakula"
+      ],
+      "sourceIssue": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi.",
+      "sourceMaximumMarksUnknown": true,
+      "originalLabel": "(i)"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-ii",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "1(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-1(ii)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "Katika vipengele (i) hadi (x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika jedwali ulilopewa.",
+      "content": "Binadamu huwasiliana kwa kutumia lugha. Mtu anapowasiliana kwa kutumia lugha ya Kiswahili ni muhimu kuzingatia mambo gani?",
+      "options": [
+        "Kiimbo, mkazo, matamshi na aina za maneno",
+        "Kiimbo, mkazo, lafudhi na aina ya jamii",
+        "Kiimbo, mkazo, matamshi na aina ya wasikilizaji",
+        "Kiimbio, mkazo, matamshi na lafudhi sahihi"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-002.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 2."
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "answerKey": "Kiimbio, mkazo, matamshi na lafudhi sahihi",
+      "markingGuide": "Mwongozo wa chanzo unachagua D. Alama binafsi hazijaainishwa kwenye karatasi wala mwongozo; usihesabu hadi upatikanaji wa ugawaji uliothibitishwa.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Kiimbo, mkazo, matamshi na aina za maneno",
+        "B. Kiimbo, mkazo, lafudhi na aina ya jamii",
+        "C. Kiimbo, mkazo, matamshi na aina ya wasikilizaji",
+        "D. Kiimbio, mkazo, matamshi na lafudhi sahihi"
+      ],
+      "sourceIssue": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi.",
+      "sourceMaximumMarksUnknown": true,
+      "originalLabel": "(ii.}"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-iii",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "1(iii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-1(iii)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "Katika vipengele (i) hadi (x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika jedwali ulilopewa.",
+      "content": "Ni tawi lipi la sarufi linaloshughulika na mpangilio wa maneno katika sentensi?",
+      "options": [
+        "Sintaksia",
+        "Fonolojia",
+        "Mofolojia",
+        "Semantiki"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-002.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 2."
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "answerKey": "Sintaksia",
+      "markingGuide": "Mwongozo wa chanzo unachagua A. Alama binafsi hazijaainishwa kwenye karatasi wala mwongozo; usihesabu hadi upatikanaji wa ugawaji uliothibitishwa.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Sintaksia",
+        "B. Fonolojia",
+        "C. Mofolojia",
+        "D. Semantiki"
+      ],
+      "sourceIssue": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi.",
+      "sourceMaximumMarksUnknown": true,
+      "originalLabel": "(iii)."
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-iv",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "1(iv)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-1(iv)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "Katika vipengele (i) hadi (x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika jedwali ulilopewa.",
+      "content": "Maelezo ya mdomo kwa lugha ya kawaida kuhusu jambo lolote huitwaje?",
+      "options": [
+        "Majadiliano",
+        "Mazungumzo",
+        "Mawasilano",
+        "Makubaliano"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-002.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 2."
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "answerKey": "Mazungumzo",
+      "markingGuide": "Mwongozo wa chanzo unachagua B. Alama binafsi hazijaainishwa kwenye karatasi wala mwongozo; usihesabu hadi upatikanaji wa ugawaji uliothibitishwa.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Majadiliano",
+        "B. Mazungumzo",
+        "C. Mawasilano",
+        "D. Makubaliano"
+      ],
+      "sourceIssue": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi.",
+      "sourceMaximumMarksUnknown": true,
+      "originalLabel": "(iv.)"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-v",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "1(v)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-1(v)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "Katika vipengele (i) hadi (x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika jedwali ulilopewa.",
+      "content": "Kati ya alama zifuatazo ni alama ipi hutumika badala ya kiunganisha cha kuunga tungo mbili?",
+      "options": [
+        "Nukta (.)",
+        "Nukta pacha (:)",
+        "Mkato (,)",
+        "Alama ya mshangao (!)"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-002.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 2."
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "answerKey": "Nukta pacha (:)",
+      "markingGuide": "Mwongozo wa chanzo unachagua B. Alama binafsi hazijaainishwa kwenye karatasi wala mwongozo; usihesabu hadi upatikanaji wa ugawaji uliothibitishwa.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Nukta (.)",
+        "B. Nukta pacha (:)",
+        "C. Mkato (,)",
+        "D. Alama ya mshangao (!)"
+      ],
+      "sourceIssue": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi.",
+      "sourceMaximumMarksUnknown": true,
+      "originalLabel": "(v.)"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-vi",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "1(vi)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-1(vi)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "Katika vipengele (i) hadi (x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika jedwali ulilopewa.",
+      "content": "Ni aina gani ya nomino ambayo hutaja vitu mahususi?",
+      "options": [
+        "Nomino dhahania",
+        "Nomino za kawaida",
+        "Nomino za pekee",
+        "Nomino za jamii"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-002.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 2."
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "answerKey": "Nomino za pekee",
+      "markingGuide": "Mwongozo wa chanzo unachagua C. Alama binafsi hazijaainishwa kwenye karatasi wala mwongozo; usihesabu hadi upatikanaji wa ugawaji uliothibitishwa.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        2
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Nomino dhahania",
+        "B. Nomino za kawaida",
+        "C. Nomino za pekee",
+        "D. Nomino za jamii"
+      ],
+      "sourceIssue": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi.",
+      "sourceMaximumMarksUnknown": true,
+      "originalLabel": "(vi)."
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-vii",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "1(vii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-1(vii)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "Katika vipengele (i) hadi (x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika jedwali ulilopewa.",
+      "content": "Silabi ni muunganiko wa herufi kadhaa. Neno ‘‘SHURUTISHWA” lina silabi ngapi?",
+      "options": [
+        "Moja",
+        "Kumi",
+        "Sita",
+        "Nne"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-002.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 2."
+        },
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-003.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 3."
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "answerKey": "Nne",
+      "markingGuide": "Mwongozo wa chanzo unachagua D. Alama binafsi hazijaainishwa kwenye karatasi wala mwongozo; usihesabu hadi upatikanaji wa ugawaji uliothibitishwa.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        2,
+        3
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Moja",
+        "B. Kumi",
+        "C. Sita",
+        "D. Nne"
+      ],
+      "sourceIssue": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi.",
+      "sourceMaximumMarksUnknown": true,
+      "originalLabel": "(vii.)"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-viii",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "1(viii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-1(viii)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "Katika vipengele (i) hadi (x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika jedwali ulilopewa.",
+      "content": "Moja ya kamusi bora kabisa iliyoandikwa kwa Kiswahili fasaha inaitwa “ Kamusi ya Kiswahili Sanifu (TUKI 1981). Je hii ni aina gani ya kamusi?",
+      "options": [
+        "Mahuluti",
+        "Wahidiya",
+        "Thaniya",
+        "Kamusi ya semi"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-003.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 3."
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "answerKey": "Wahidiya",
+      "markingGuide": "Mwongozo wa chanzo unachagua B. Alama binafsi hazijaainishwa kwenye karatasi wala mwongozo; usihesabu hadi upatikanaji wa ugawaji uliothibitishwa.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        3
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Mahuluti",
+        "B. Wahidiya",
+        "C. Thaniya",
+        "D. Kamusi ya semi"
+      ],
+      "sourceIssue": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi.",
+      "sourceMaximumMarksUnknown": true,
+      "originalLabel": "(viii.)"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-ix",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "1(ix)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-1(ix)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "Katika vipengele (i) hadi (x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika jedwali ulilopewa.",
+      "content": "Mzee Tupatupa alipozungumza kwenye mkutano wa wazazi katika shule ya sekondari Mwinuka, watu waligundua kuwa mzee huyo ametoka mkoa wa Mbeya. Ni kitu gani kilifanya mzee huyo agundulike?",
+      "options": [
+        "Kushuka na kupanda kwa sauti yake",
+        "Mkazo wa sauti yake",
+        "Lafudhi yake",
+        "Uongeaji wa taratibu"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-003.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 3."
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "answerKey": "Lafudhi yake",
+      "markingGuide": "Mwongozo wa chanzo unachagua C. Alama binafsi hazijaainishwa kwenye karatasi wala mwongozo; usihesabu hadi upatikanaji wa ugawaji uliothibitishwa.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        3
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Kushuka na kupanda kwa sauti yake",
+        "B. Mkazo wa sauti yake",
+        "C. Lafudhi yake",
+        "D. Uongeaji wa taratibu"
+      ],
+      "sourceIssue": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi.",
+      "sourceMaximumMarksUnknown": true,
+      "originalLabel": "(ix.)"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q1-x",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "1(x)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-1(x)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "Katika vipengele (i) hadi (x), chagua herufi ya jibu sahihi kisha andika herufi ya jibu hilo katika jedwali ulilopewa.",
+      "content": "Neno mkazo katika lugha sanifu hufasiliwa kama nguvu ya ziada inayotumika wakati wa kutamka neno, Je katika neno “Mwanafunzi” ni silabi ipi imebeba mkazo?",
+      "options": [
+        "Mwa",
+        "Nzi",
+        "Fu",
+        "Na"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-003.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 3."
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "answerKey": "Fu",
+      "markingGuide": "Mwongozo wa chanzo unachagua C. Alama binafsi hazijaainishwa kwenye karatasi wala mwongozo; usihesabu hadi upatikanaji wa ugawaji uliothibitishwa.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        3
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Mwa",
+        "B. Nzi",
+        "C. Fu",
+        "D. Na"
+      ],
+      "sourceIssue": "Chanzo kina jumla yaSehemuA15 na jedwali la majibu pekee; hakijaainisha alama kwa kipengele/main. Ugawaji sawa haujadaiwa kuwa rasmi.",
+      "sourceMaximumMarksUnknown": true,
+      "originalLabel": "(x.)"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q2",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-2",
+      "type": "matching",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Oanisha maelezo yanayohusu kamusi katika orodha A na dhana zilizopo katika orodha B kwa kuandika herufi ya jibu sahihi kwenye jedwali ulilopewa.",
+      "options": [
+        "A. Kidahizo",
+        "B. Kitomeo",
+        "C. Tahajia ya neno",
+        "D. Kamusi",
+        "E. Etemolojia ya neno",
+        "F. Vibadala vya vidahizo",
+        "G. Homonimu"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-003.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 3."
+        },
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-004.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 4."
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "answerKey": {
+        "i": "C. Tahajia ya neno",
+        "ii": "A. Kidahizo",
+        "iii": "B. Kitomeo",
+        "iv": "E. Etemolojia ya neno",
+        "v": "F. Vibadala vya vidahizo"
+      },
+      "markingGuide": "Majibu ya chanzo:C,A,B,E,F. Alama kwa kila jozi hazijaainishwa; hakuna alama rasmi zilizobuniwa.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        3,
+        4
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Jumla yaSehemuA15 imeandikwa, lakini alama za swali2/jozi hazijaonyeshwa. Inasubiri ugawaji wa alama unaothibitishika.",
+      "pairs": [
+        {
+          "id": "i",
+          "left": "Ni uwasilishaji wa sauti kwa herufi katika maandishi kufuatana na muendelezo wa maneno uliokubaliwa."
+        },
+        {
+          "id": "ii",
+          "left": "Ni neno linaloorodheshwa katika kamusi ili litolewe maana zake Pamoja na taarifa nyinginezo"
+        },
+        {
+          "id": "iii",
+          "left": "Ni neno linaloingizwa kwenye kamusi na maana zake Pamoja na taarifa zake zote"
+        },
+        {
+          "id": "iv",
+          "left": "Ni taarifa kuhusu asili ya neno kutoka lugha ya kwanza iliyoanza kutumia lugha hiyo."
+        },
+        {
+          "id": "v",
+          "left": "Ni maneno mawili au zaidi yanayotofautiana kidogo kimaandishi na kimatamshi lakini yenye maana sawa."
+        }
+      ],
+      "sourceMaximumMarksUnknown": true
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-i",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "3(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-3(i)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Andika visawe viwili kwa kila neno katika maneno yafuatayo;-",
+      "content": "Bibi",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-004.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 4."
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Nyanya; ajuza.",
+      "markingGuide": "Alama1kwa kila kisawe sahihi, jumla2. Kubali visawe vingine sahihi kulingana na muktadha.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        4
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-ii",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "3(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-3(ii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Andika visawe viwili kwa kila neno katika maneno yafuatayo;-",
+      "content": "Binti.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-004.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 4."
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Msichana; kigori.",
+      "markingGuide": "Alama1kwa kila kisawe sahihi, jumla2. Kubali visawe vingine sahihi kulingana na muktadha.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        4
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-iii",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "3(iii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-3(iii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Andika visawe viwili kwa kila neno katika maneno yafuatayo;-",
+      "content": "Choo",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-004.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 4."
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Maliwato; msalani/uani.",
+      "markingGuide": "Alama1kwa kila kisawe sahihi, jumla2. Kubali visawe vingine sahihi kulingana na muktadha.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        4
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-iv",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "3(iv)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-3(iv)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Andika visawe viwili kwa kila neno katika maneno yafuatayo;-",
+      "content": "Beseni",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-004.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 4."
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Karai; dishi.",
+      "markingGuide": "Alama1kwa kila kisawe sahihi, jumla2. Kubali visawe vingine sahihi kulingana na muktadha.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        4
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q3-v",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-kusoma-kamusi"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "3(v)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-3(v)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Andika visawe viwili kwa kila neno katika maneno yafuatayo;-",
+      "content": "Wakati",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-004.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 4."
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Muda; majira. “Njeo” pia inaweza kukubalika katika muktadha wa sarufi.",
+      "markingGuide": "Alama1kwa kila kisawe sahihi, jumla2. Kubali visawe vingine sahihi kulingana na muktadha.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        4
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "SomaSmart independently checked answer correction/expansion. Original source question and source marking guide remain unchanged; discrepancy is explicit.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Mwongozo unatoa “Njeo, muda” kwa wakati. Mwongozo huru unakubali muda/majira; njeo ni maana maalumu ya kisarufi."
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-i",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "4(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-4(i)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Panga maneno yafuatayo ili yaweze kujenga sentensi zenye maana .",
+      "content": "Lakini na sana simba ulikuwa amesare unavutia yanga mpira",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-004.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 4."
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Mpira ulikuwa unavutia sana lakini simba amesare na yanga. / Simba amesare na yanga lakini mpira ulikuwa unavutia sana.",
+      "markingGuide": "Alama2kwa mpangilio wenye maana unaotumia maneno ya chanzo; kubali mpangilio mwingine sahihi.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        4
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-ii",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "4(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-4(ii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Panga maneno yafuatayo ili yaweze kujenga sentensi zenye maana .",
+      "content": "Muhula kwenye mwisho mototo yake vizuri amefanya wa ya mitihani",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-004.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 4."
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Mototo amefanya vizuri kwenye mitihani yake ya muhula wa mwisho. Neno la chanzo “mototo” limehifadhiwa; maana inayokusudiwa ni “mtoto”.",
+      "markingGuide": "Alama2kwa mpangilio wenye maana unaotumia maneno ya chanzo; kubali mpangilio mwingine sahihi.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        4
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "SomaSmart independently checked answer correction/expansion. Original source question and source marking guide remain unchanged; discrepancy is explicit.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Chanzo kina “mototo”; mwongozo una “Mtoto”. Tahajia ya swali haijabadilishwa; mpangilio huonyesha neno lilivyo kwenye chanzo na maana yake inayokusudiwa."
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-iii",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "4(iii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-4(iii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Panga maneno yafuatayo ili yaweze kujenga sentensi zenye maana .",
+      "content": "Alipowatupia juu na alingatwa mwembe jiwe ya nyuki",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-004.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 4."
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Alingatwa na nyuki alipowatupia jiwe juu ya mwembe.",
+      "markingGuide": "Alama2kwa mpangilio wenye maana unaotumia maneno ya chanzo; kubali mpangilio mwingine sahihi.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        4
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-iv",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "4(iv)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-4(iv)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Panga maneno yafuatayo ili yaweze kujenga sentensi zenye maana .",
+      "content": "Mengi na nyingi wamepata mwaka fedha kutokana na kupata mavuno huu wakulima",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-004.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 4."
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Mwongozo unapendekeza “Wakulima wamepata fedha nyingi mwaka huu kutokana na mavuno mengi”, lakini haujatumia maneno yote ya swali.",
+      "markingGuide": "Alama2kwa mpangilio wenye maana unaotumia maneno ya chanzo; kubali mpangilio mwingine sahihi.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        4
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Orodha ya chanzo ina “na” ya ziada pamoja na “kupata”; sentensi ya mwongozo huacha maneno hayo. Haiwezi kupewa jibu la pekee linalotumia kila neno bila kubadili swali."
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q4-v",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "4(v)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-4(v)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Panga maneno yafuatayo ili yaweze kujenga sentensi zenye maana .",
+      "content": "Ameupiga Saidi mwingi",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-004.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 4."
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Saidi ameupiga mwingi.",
+      "markingGuide": "Alama2kwa mpangilio wenye maana unaotumia maneno ya chanzo; kubali mpangilio mwingine sahihi.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        4
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q5",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-mawasiliano-miktadha-hoja"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-mawasiliano-miktadha-hoja"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "5",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-5",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Utamaduni wa mtanzania hutambulishwa na lugha ya kiswahili. Fafanua kwa ufupi mambo matano (5) ambayo hufanywa na watanzania kama sehemu ya utamaduni wao kupitia lugha ya kiswahili.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-005.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 5."
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "answerKey": "Kuheshimiana na kuthaminiana kupitia salamu/maneno ya heshima; kuzingatia miiko ya lugha; kusaidiana; kujaliana na kufarijiana; kuomba vitu/msaada kwa lugha yenye adabu. Kubali mifano mingine sahihi yenye ufafanuzi.",
+      "markingGuide": "Mwongozo:hoja5@2=10. Alama1kwa kutaja jambo sahihi na1kwa kulifafanua kwa mfano unaolingana na matumizi ya Kiswahili.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        5
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        1,
+        2
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [1, 2]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q6",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "6",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-6",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "(a) Eleza maana ya lugha\n\n(b) Taja na ueleze mifumo minne inayounda lugha",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-005.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 5."
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "answerKey": "(a) Lugha ni mfumo wa sauti za nasibu zinazotumiwa na watu wa jamii fulani kwa mawasiliano.\n(b) Mfumo wa sauti:hushughulikia sauti/matamshi; mfumo wa maumbo:hushughulikia maumbo/uundaji wa maneno; mfumo wa sarufi:hushughulikia mpangilio wa maneno/sentensi; mfumo wa msamiati:huhusu maneno; mfumo wa maana:huhusu maana za maneno/tungo. Eleza yoyote minne kama swali linavyoagiza.",
+      "markingGuide": "Rubriki huru ya ndani:a2,b8(hoja4@2:jina1+maelezo1). Jumla ya swali10inatokana na salio sahihi laSehemuB; ugawaji huuhaujaelezwa kama ugawaji rasmi wa vipengele.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        5
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2
+      ],
+      "marksProvenance": "Source cover SectionB70; source guide maxima Q3,4,5,7,8,9 each10. Exact remainder70−60=10 for wholeQ6; source guide subsection conflict disclosed.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "SomaSmart independently checked answer correction/expansion. Original source question and source marking guide remain unchanged; discrepancy is explicit.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Mwongozo una2kwa(a), kisha mifumo5na“Jumlaalama10@2” ingawa swali(b) linaomba minne. CoverB70ukitoaQ3/4/5/7/8/9zilizo10kila moja unapataQ6=10. Rubriki ya ndani2+8imeandaliwa kwa kujitegemea huku swali na mwongozo vikibaki vilevile.",
+      "subquestions": [
+        {
+          "label": "a",
+          "content": "Eleza maana ya lugha"
+        },
+        {
+          "label": "b",
+          "content": "Taja na ueleze mifumo minne inayounda lugha"
+        }
+      ]
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-i",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "7(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-7(a)(i)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Lugha ya kiswahili imejaa utajiri wa aina za maneno. Bainisha aina zote za maneno katika tungo zifuatazo",
+      "content": "Mwizi mahiri amekimbilia porini",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-005.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 5."
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Mwizi=N, mahiri=V, amekimbilia=T, porini=E.",
+      "markingGuide": "Mwongozo una alama1kwa kila tungo; kubali majina kamili au vifupisho vya aina za maneno vinavyolingana.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        5
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [2]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-ii",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "7(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-7(a)(ii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Lugha ya kiswahili imejaa utajiri wa aina za maneno. Bainisha aina zote za maneno katika tungo zifuatazo",
+      "content": "Alitupikia ila hatukula",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-005.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 5."
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Alitupikia=T, ila=U, hatukula=T.",
+      "markingGuide": "Mwongozo una alama1kwa kila tungo; kubali majina kamili au vifupisho vya aina za maneno vinavyolingana.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        5
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [2]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-iii",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "7(a)(iii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-7(a)(iii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Lugha ya kiswahili imejaa utajiri wa aina za maneno. Bainisha aina zote za maneno katika tungo zifuatazo",
+      "content": "Oh yeee! Tumeshinda mchezo",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-005.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 5."
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Oh yeee!=Hs, Tumeshinda=T, mchezo=N.",
+      "markingGuide": "Mwongozo una alama1kwa kila tungo; kubali majina kamili au vifupisho vya aina za maneno vinavyolingana.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        5
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [2]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-iv",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "7(a)(iv)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-7(a)(iv)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Lugha ya kiswahili imejaa utajiri wa aina za maneno. Bainisha aina zote za maneno katika tungo zifuatazo",
+      "content": "Tulikuwa tunataka kwenda kusoma kitabu",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-005.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 5."
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Tulikuwa=Ts, tunataka=Ts, kwenda=Ts, kusoma=T, kitabu=N.",
+      "markingGuide": "Mwongozo una alama1kwa kila tungo; kubali majina kamili au vifupisho vya aina za maneno vinavyolingana.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        5
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [2]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-a-v",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "7(a)(v)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-7(a)(v)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Lugha ya kiswahili imejaa utajiri wa aina za maneno. Bainisha aina zote za maneno katika tungo zifuatazo",
+      "content": "Wale wote ni wanafunzi",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-005.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 5."
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Wale=W, wote=V, ni=T(kitenzi kishirikishi), wanafunzi=N.",
+      "markingGuide": "Mwongozo una alama1kwa kila tungo; kubali majina kamili au vifupisho vya aina za maneno vinavyolingana.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        5
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [2]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-i",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "7(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-7(b)(i)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Tunga sentensi kwa kutumia muundo ufuatao",
+      "content": "N+V+T",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-005.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 5."
+        },
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-006.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 6."
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Mtoto mdogo analia.",
+      "markingGuide": "Alama1kwa sentensi sahihi yenye mpangilio wa aina za maneno ulioombwa. Majibu ni mifano; kubali sentensi mbadala sahihi.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        5,
+        6
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [2]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-ii",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "7(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-7(b)(ii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Tunga sentensi kwa kutumia muundo ufuatao",
+      "content": "N+V+Ts+Ts+T",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-005.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 5."
+        },
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-006.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 6."
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Kijana yule alikuwa anapenda kulima.",
+      "markingGuide": "Alama1kwa sentensi sahihi yenye mpangilio wa aina za maneno ulioombwa. Majibu ni mifano; kubali sentensi mbadala sahihi.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        5,
+        6
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [2]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-iii",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "7(b)(iii)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-7(b)(iii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Tunga sentensi kwa kutumia muundo ufuatao",
+      "content": "W+V+T+E",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-005.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 5."
+        },
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-006.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 6."
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Wale wote wamecheza vibaya.",
+      "markingGuide": "Alama1kwa sentensi sahihi yenye mpangilio wa aina za maneno ulioombwa. Majibu ni mifano; kubali sentensi mbadala sahihi.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        5,
+        6
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [2]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-iv",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "7(b)(iv)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-7(b)(iv)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Tunga sentensi kwa kutumia muundo ufuatao",
+      "content": "Hs+T+U+T",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-005.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 5."
+        },
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-006.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 6."
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Heee! Anaimba na kucheza.",
+      "markingGuide": "Alama1kwa sentensi sahihi yenye mpangilio wa aina za maneno ulioombwa. Majibu ni mifano; kubali sentensi mbadala sahihi.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        5,
+        6
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [2]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q7-b-v",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-aina-za-maneno"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "7(b)(v)",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-7(b)(v)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Tunga sentensi kwa kutumia muundo ufuatao",
+      "content": "T+E",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-005.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 5."
+        },
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-006.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 6."
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Anapika vizuri.",
+      "markingGuide": "Alama1kwa sentensi sahihi yenye mpangilio wa aina za maneno ulioombwa. Majibu ni mifano; kubali sentensi mbadala sahihi.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        5,
+        6
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [2]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q8",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-01"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "8",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Binadamu wote duniani hutumia lugha kuwasiliana. Wanaweza kuwasiliana kwa lugha ya mazungumzo, Lugha ya maandishi na lugha ya ishara. Pasipo lugha binadamu hawezi kufanikisha mawasiliano. Fafanua dhima tano za lugha yoyote duniani.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-006.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 6."
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "answerKey": "Mawasiliano; utambulisho wa jamii; kufundishia/kutolea maarifa; kuhifadhia utamaduni; kuunganisha jamii; kuelezea fikra; kuwasilisha hisia. Fafanua yoyote tano kwa mifano.",
+      "markingGuide": "Jumla10ya chanzo; rubriki huru:hoja5sahihi zenye ufafanuzi@2. Usipe alama mbili kwa hoja iliyorudiwa.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        6
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [2]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q9",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-usimulizi-sauti-matukio"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-usimulizi-sauti-matukio"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "9",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-9",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Mwalimu wa somo la Kiswahili alipoingia darasani aliwataka wanafunzi wake watunge sentensi zinazoonesha kiimbo katika hali tofauti. Ukiwa mmoja wa wanafunzi hao fuata maagizo ya Mwalimu wako kwa kutunga sentensi nne (04)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-006.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 6."
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 0.5,
+      "answerKey": "Mfano: Mtoto anasoma kwa bidii. / Mtoto anasoma kwa bidii? / Mtoto anasoma kwa bidii! / Mtoto, soma kwa bidii. Sentensi zinaonyesha taarifa, swali, mshangao na amri/maagizo. Kubali mifano mingine sahihi yenye kiimbo tofauti.",
+      "markingGuide": "Mwongozo:sentensi4@2.5=10. Tathmini ulinganifu wa alama/maneno na hali tofauti za kiimbo, si kuiga mfano kwa lazima.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        6
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        2,
+        3
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [2, 3]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "Source-provided district marking guide checked against the exact question; expanded written guidance independently prepared by SomaSmart. Not an official NECTA scheme.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "moshi-f1-2026-kiswahili-f2fa06ae74512159-q10",
+      "paperId": "moshi-f1-2026-kiswahili-f2fa06ae74512159",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "topicIds": [
+        "kiswahili-f1-mawasiliano-miktadha-hoja"
+      ],
+      "subtopicIds": [
+        "kiswahili-f1-mawasiliano-miktadha-hoja"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Moshi District Council • Kiswahili • Form One • May 2026",
+      "institution": "Moshi District Council (printed paper and matching guide)",
+      "year": 2026,
+      "curriculumEdition": "2026 district source; compatible published Form One topics, not a completeness claim",
+      "questionNumber": "10",
+      "parentQuestionId": null,
+      "groupId": "moshi-f1-2026-kiswahili-f2fa06ae74512159-group-10",
+      "type": "essay",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "(a) Katika uandishi wa barua ya kirafiki kuna mambo kadhaa ya kuzingatia. Kama mwanafunzi mweledi wa somo la Kiswahili, taja mambo muhimu ya kuzingatia katika uandishi wa barua ya kirafiki.\n(i). ………………………………………………………………………………\n(ii). ………………………………………………………………………………\n(iii). ………………………………………………………………………………\n(iv). ………………………………………………………………………………\n(v). ………………………………………………………………………………\n(vi). ………………………………………………………………………………\n\n(b)Wewe ni mwanafunzi wa kidato cha kwanza katika shule ya sekondari Chewe, andika barua kwa baba yako Takadini Chivero wa Singida, umwambie umeanza mitihani ya kumaliza muhula wa kwanza na umejiandaa vizuri, hivyo utafaulu mitihani yote unayotarajia kufanya. Jina lako liwe Elimu Mapambano, S. L. P 50, Moshi.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-006.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 6."
+        },
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-007.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 7."
+        },
+        {
+          "path": "/source-papers/source-f2fa06ae74512159/page-008.jpg",
+          "role": "source-page",
+          "alt": "Complete unchanged original question-paper page 8."
+        }
+      ],
+      "maximumMarks": 15,
+      "markIncrement": 1,
+      "answerKey": "(a) Anwani ya mwandishi, tarehe, mwanzo/salamu, kiini/lengo, mwisho wa barua, jina la mwandishi.\n(b) Mfano:\nShule ya Sekondari Chewe,\nS. L. P 50,\nMoshi.\n17 Mei 2026.\n\nBaba mpendwa Takadini Chivero,\nShikamoo baba. Natumaini unaendelea vizuri huko Singida. Mimi ninaendelea vizuri shuleni. Nimeanza mitihani ya kumaliza muhula wa kwanza. Nimejiandaa vizuri kwa kusoma na kufanya mazoezi, hivyo nina matumaini ya kufaulu mitihani yote ninayotarajia kufanya. Nakutakia afya njema.\n\nMwanao mpendwa,\nElimu Mapambano.\n\nHuu ni mfano huru; tarehe yoyote inayofaa na maelezo mbadala yanayofuata maagizo yakubalike.",
+      "markingGuide": "Jumla15imehakikishwa naSehemuC yenye swali10pekee. Chanzo(b)kina10:anwani2,tarehe1,mwanzo1,kiini4,mwisho1,jina1. Chanzo(a)kinataja alama1kwa vipengele5na kuacha alama ya jina wazi; salio la sehemu(a)=5. Rubriki huru ya(a):toa hadi5kwa kutambua vipengele muhimu, usidai alama6za chanzo.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a4804d2722cc.pdf&t=bcee9008f71fcf687f6a07353a657b4ff6036da7f1f31c6f519cf575241e2716",
+      "sourcePdf": "/source-papers/source-f2fa06ae74512159/original.pdf",
+      "sourceSha256": "f2fa06ae74512159ba3218d9662ea3f61d9b860534659b2db93dec5a2ac5dcd4",
+      "sourcePages": [
+        6,
+        7,
+        8
+      ],
+      "sourceDocumentId": "source-f2fa06ae74512159",
+      "answerGuidePdf": "/source-papers/guide-e408be50c70cb5c5/original.pdf",
+      "answerGuideSha256": "e408be50c70cb5c52c368390b738ccad32da5e768c781a71583ac8b3c5ff24ad",
+      "answerGuidePages": [
+        3
+      ],
+      "marksProvenance": "Associated printed source guide page(s) [3]: source maximum for this item/part; whole-section totals checked against original cover.",
+      "markIncrementProvenance": "Source objective-item increments; written half/whole-mark granularity is independently prepared unless a source suballocation is stated.",
+      "solutionProvenance": "SomaSmart independently checked answer correction/expansion. Original source question and source marking guide remain unchanged; discrepancy is explicit.",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original question and associated guide pages visually inspected; native text checked against page images. Original wording, labels, options and layout references retained.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Mwongozo unaachaalama ya kipengele(a)(vi)wazi. Jumla kamili ya swali15hutokana naSehemuC; sehemu(b)ina10zilizoandikwa. Hakuna alama ya sita iliyobuniwa; rubriki huru ya salio5imeelezwa wazi.",
+      "subquestions": [
+        {
+          "label": "a",
+          "content": "Katika uandishi wa barua ya kirafiki kuna mambo kadhaa ya kuzingatia. Kama mwanafunzi mweledi wa somo la Kiswahili, taja mambo muhimu ya kuzingatia katika uandishi wa barua ya kirafiki.\n(i). ………………………………………………………………………………\n(ii). ………………………………………………………………………………\n(iii). ………………………………………………………………………………\n(iv). ………………………………………………………………………………\n(v). ………………………………………………………………………………\n(vi). ………………………………………………………………………………"
+        },
+        {
+          "label": "b",
+          "content": "Wewe ni mwanafunzi wa kidato cha kwanza katika shule ya sekondari Chewe, andika barua kwa baba yako Takadini Chivero wa Singida, umwambie umeanza mitihani ya kumaliza muhula wa kwanza na umejiandaa vizuri, hivyo utafaulu mitihani yote unayotarajia kufanya. Jina lako liwe Elimu Mapambano, S. L. P 50, Moshi."
+        }
+      ]
+    }
+  ],
+  "verificationNotes": [
+    "All8originalpaperpages and3sourceguidepages visually inspected. SourceCODE021Kiswahili/institution/May2026match.",
+    "Entire10mainquestions preserved, including original spellings Kiimbio/Mawasilano/mototo/amesare and source punctuation/numbering.",
+    "A15objective marks lack actual item/main allocation evidence; all objective records draft pending verification, with original guide keys retained.",
+    "Q4(iv) retains extra words that guide omits; held rather than silently deleting source tokens.",
+    "Q6 whole10 exact source-section remainder reconciles guide subsection inconsistency; internal2+8rubric explicitly independent.",
+    "Q10 whole15 sourceCverified; originalletterprompt fullyretained, source(a)sixthmarkomission disclosed, complete(a)+(b)answer self-assessed."
+  ]
+}

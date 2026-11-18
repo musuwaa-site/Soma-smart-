@@ -1,0 +1,59 @@
+[
+  {
+    "id": "d597d275776b22fd",
+    "sha256": "d597d275776b22fde545c8c63858119fd9a2a5f25c736d796fd4a2ce06ec220e",
+    "url": "https://www.necta.go.tz/publications/Approved%20Exam%20Formats/FTNA_FORMATS_2022.pdf",
+    "sourceTitle": "FTNA_FORMATS_2022.pdf",
+    "category": "assessment-format",
+    "acquiredAt": "2026-11-17T02:06:14.852563+00:00",
+    "pageCount": 111,
+    "sourcePage": "https://www.necta.go.tz/publications/all",
+    "listingFolder": "publications/Approved Exam Formats",
+    "issuer": "National Examinations Council of Tanzania",
+    "rightsStatus": "reference-only",
+    "rightsEvidence": {
+      "type": "public-official-source-read-for-verification",
+      "note": "Owner has confirmed examination-paper permission. Full format-booklet redistribution is not separately claimed; use concise citation/marking facts, retain complete PDF in acquisition."
+    },
+    "verificationStatus": "official-format-downloaded",
+    "publicationStatus": "reference-only"
+  },
+  {
+    "id": "ff084a887b018606",
+    "sha256": "ff084a887b018606b543eb5855cd7e0910d6cf62d13a8813b23a9df07d516f67",
+    "url": "https://www.necta.go.tz/publications/Approved%20Exam%20Formats/FTNA_FORMATS_FOR_GENERAL_EDUCATION.pdf",
+    "sourceTitle": "FTNA_FORMATS_FOR_GENERAL_EDUCATION.pdf",
+    "category": "assessment-format",
+    "acquiredAt": "2026-11-17T02:06:14.984728+00:00",
+    "pageCount": 87,
+    "sourcePage": "https://www.necta.go.tz/publications/all",
+    "listingFolder": "publications/Approved Exam Formats",
+    "issuer": "National Examinations Council of Tanzania",
+    "rightsStatus": "reference-only",
+    "rightsEvidence": {
+      "type": "public-official-source-read-for-verification",
+      "note": "Owner has confirmed examination-paper permission. Full format-booklet redistribution is not separately claimed; use concise citation/marking facts, retain complete PDF in acquisition."
+    },
+    "verificationStatus": "official-format-downloaded",
+    "publicationStatus": "reference-only"
+  },
+  {
+    "id": "b8e9c0cb1bc6bfd9",
+    "sha256": "b8e9c0cb1bc6bfd994240bfd3b96b9198d509dcd48be2ca03fde27dcd85138f5",
+    "url": "https://www.necta.go.tz/publications/Approved%20Exam%20Formats/FTNA_FORMARTS_VOCATIONAL_STREAM_2025.pdf",
+    "sourceTitle": "FTNA_FORMARTS_VOCATIONAL_STREAM_2025.pdf",
+    "category": "assessment-format",
+    "acquiredAt": "2026-11-17T02:06:19.218627+00:00",
+    "pageCount": 319,
+    "sourcePage": "https://www.necta.go.tz/publications/all",
+    "listingFolder": "publications/Approved Exam Formats",
+    "issuer": "National Examinations Council of Tanzania",
+    "rightsStatus": "reference-only",
+    "rightsEvidence": {
+      "type": "public-official-source-read-for-verification",
+      "note": "Owner has confirmed examination-paper permission. Full format-booklet redistribution is not separately claimed; use concise citation/marking facts, retain complete PDF in acquisition."
+    },
+    "verificationStatus": "official-format-downloaded",
+    "publicationStatus": "reference-only"
+  }
+]

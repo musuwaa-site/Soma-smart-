@@ -1,0 +1,2825 @@
+{
+  "paper": {
+    "id": "morogoro-f1-2025-chemistry-ea77027104de0364",
+    "title": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+    "form": 1,
+    "subjectId": "chemistry",
+    "sourceType": "district",
+    "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+    "year": 2025,
+    "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+    "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+    "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+    "sourceDocumentId": "source-ea77027104de0364",
+    "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+    "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "verificationScope": "Complete source paper and matching marking guide visually inspected. All ten main questions fully transcribed; published individual marks come from the associated guide.",
+    "publicationStatus": "published",
+    "publicationScope": "selected-questions",
+    "completePaper": false,
+    "completeScoredPaper": false,
+    "transcriptionComplete": true,
+    "sourceMainQuestionCount": 10,
+    "sourceMaximumMarks": 100,
+    "maximumMarks": 95.0,
+    "sourceInstructions": [
+      "This paper consist of sections A,B and C with a total of ten (10) questions",
+      "Answer ALL questions in this paper",
+      "Section A carries 15 marks, section B carries 70 marks and section C carries 15 marks"
+    ],
+    "questionIds": [
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-i",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-ii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-iii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-iv",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-v",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-vi",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-vii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-viii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-ix",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-x",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q2",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q3-a",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q3-b",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q3-c",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q4-a",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-i",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-ii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-iii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-iv",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-v",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q5-a",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q5-b",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q6-i",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q6-ii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q6-iii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q6-iv",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q6-v",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q7-a",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q7-b",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q7-c",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q7-d",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q8-b",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q9-a-i",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q9-a-ii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q9-a-iii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q9-b",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q9-c",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q10"
+    ],
+    "allTranscribedQuestionIds": [
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-i",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-ii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-iii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-iv",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-v",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-vi",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-vii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-viii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-ix",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q1-x",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q2",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q3-a",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q3-b",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q3-c",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q4-a",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-i",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-ii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-iii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-iv",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-v",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q5-a",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q5-b",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q6-i",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q6-ii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q6-iii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q6-iv",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q6-v",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q7-a",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q7-b",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q7-c",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q7-d",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q8-a",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q8-b",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q9-a-i",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q9-a-ii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q9-a-iii",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q9-b",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q9-c",
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q10"
+    ],
+    "draftQuestionIds": [
+      "morogoro-f1-2025-chemistry-ea77027104de0364-q8-a"
+    ],
+    "excludedQuestions": [
+      {
+        "number": "8(a)",
+        "reason": "The guide does not give an explicit Q8(a) allocation. Do not infer a value merely from the section total."
+      }
+    ],
+    "timeAllowed": "2:30 HRS",
+    "sourceDate": "MAY, 2025",
+    "sourceSubjectCode": "032",
+    "sourceAttributionVerified": true,
+    "sourceAttributionEvidence": "Original printed cover page1 visually inspected: institution, Form One, Chemistry CODE032 and2025 confirmed."
+  },
+  "questions": [
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q1-i",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(i)",
+      "originalLabel": "1(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-1(i)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) –(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet(s) provided",
+      "content": "Which of the following consists of home care products?",
+      "options": [
+        "Yeast, plastic, petrol, water",
+        "Paint, petrol, paper",
+        "Cloth, rubber, metals",
+        "Detergents, disinfectants, air fresheners"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Detergents, disinfectants, air fresheners",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Yeast, plastic, petrol, water",
+        "B. Paint, petrol, paper",
+        "C. Cloth, rubber, metals",
+        "D. Detergents, disinfectants, air fresheners"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q1-ii",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(ii)",
+      "originalLabel": "1(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-1(ii)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) –(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet(s) provided",
+      "content": "Suffocation is a condition in which lung……",
+      "options": [
+        "Do not exhale enough oxygen",
+        "Inhale enough carbon dioxide",
+        "Do not inhale enough oxygen",
+        "Do not exhale enough carbon dioxide"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Do not inhale enough oxygen",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Do not exhale enough oxygen",
+        "B. Inhale enough carbon dioxide",
+        "C. Do not inhale enough oxygen",
+        "D. Do not exhale enough carbon dioxide"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q1-iii",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(iii)",
+      "originalLabel": "1(iii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-1(iii)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) –(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet(s) provided",
+      "content": "The reverse of sublimation is….",
+      "options": [
+        "Vaporization",
+        "Melting",
+        "Deposition",
+        "Freezing"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Deposition",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Vaporization",
+        "B. Melting",
+        "C. Deposition",
+        "D. Freezing"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q1-iv",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(iv)",
+      "originalLabel": "1(iv)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-1(iv)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) –(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet(s) provided",
+      "content": "The Brownian movement is taken to be an evidence of the ____",
+      "options": [
+        "Newton’s law",
+        "Kinetic theory of matter",
+        "Theory of ionization",
+        "Flotation of particles"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Kinetic theory of matter",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Newton’s law",
+        "B. Kinetic theory of matter",
+        "C. Theory of ionization",
+        "D. Flotation of particles"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q1-v",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(v)",
+      "originalLabel": "1(v)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-1(v)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) –(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet(s) provided",
+      "content": "Which change of state involved when drying clothes?",
+      "options": [
+        "Liquid to solid",
+        "Solid to gas",
+        "Gas to liquid",
+        "Liquid to gas"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Liquid to gas",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Liquid to solid",
+        "B. Solid to gas",
+        "C. Gas to liquid",
+        "D. Liquid to gas"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q1-vi",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(vi)",
+      "originalLabel": "1(vi)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-1(vi)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) –(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet(s) provided",
+      "content": "Which of the following is a type of danger indicated by skull and cross bones in the chemistry laboratory?",
+      "options": [
+        "Toxic",
+        "Harmful",
+        "Flammable",
+        "Radioactive"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Toxic",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Toxic",
+        "B. Harmful",
+        "C. Flammable",
+        "D. Radioactive"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q1-vii",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(vii)",
+      "originalLabel": "1(vii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-1(vii)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) –(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet(s) provided",
+      "content": "The following are statements about a chemistry laboratory. Which one is not correct?",
+      "options": [
+        "It should installed with working fire extinguisher",
+        "It should have slippery floor",
+        "It should contains a fume chamber",
+        "It should have enough space"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "It should have slippery floor",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. It should installed with working fire extinguisher",
+        "B. It should have slippery floor",
+        "C. It should contains a fume chamber",
+        "D. It should have enough space"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q1-viii",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(viii)",
+      "originalLabel": "1(viii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-1(viii)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) –(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet(s) provided",
+      "content": "How can one prevent rusting in fragile instruments like camera?",
+      "options": [
+        "By using silica gel",
+        "By using ethanol",
+        "By galvanization",
+        "By using oil"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "By using silica gel",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. By using silica gel",
+        "B. By using ethanol",
+        "C. By galvanization",
+        "D. By using oil"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q1-ix",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(ix)",
+      "originalLabel": "1(ix)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-1(ix)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) –(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet(s) provided",
+      "content": "Water can pass from the atmosphere to land and back into the atmosphere. What term represents such a sequence?",
+      "options": [
+        "Water treatment",
+        "Precipitation",
+        "Hydrological cycle",
+        "Water evaporation"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-003.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Hydrological cycle",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        2,
+        3
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Water treatment",
+        "B. Precipitation",
+        "C. Hydrological cycle",
+        "D. Water evaporation"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q1-x",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(x)",
+      "originalLabel": "1(x)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-1(x)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) –(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet(s) provided",
+      "content": "The most interesting things that chemist focus when make study of chemical substance is?",
+      "options": [
+        "It’s force of attraction",
+        "It’s shape",
+        "It’s properties",
+        "It’s smell and colors"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-003.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "It’s properties",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        3
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. It’s force of attraction",
+        "B. It’s shape",
+        "C. It’s properties",
+        "D. It’s smell and colors"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q2",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-elements"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-elements"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "2",
+      "originalLabel": "2",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-2",
+      "type": "matching",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Match the common names of the elements in list A with the responses to their latin names in list B by writing the letter of the correct response beside the item number in the answer booklet(s) provided",
+      "options": [
+        "A. Cuprum",
+        "B. Wolfram",
+        "C. Argentum",
+        "D. Ferrum",
+        "E. Karium",
+        "F. Natrium",
+        "G. Aurum",
+        "H. Plumbum"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-003.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "answerKey": {
+        "1": "G. Aurum",
+        "2": "E. Karium",
+        "3": "B. Wolfram",
+        "4": "H. Plumbum",
+        "5": "C. Argentum"
+      },
+      "markingGuide": "One mark per correct original source pair. Gold→G Aurum, Potassium→E printed Karium (correct Latin: Kalium), Tungsten→B Wolfram, Lead→H Plumbum, Silver→C Argentum. This explicitly identified source typo does not change the original option.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 5.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        3
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "pairs": [
+        {
+          "id": "1",
+          "left": "(i) Gold"
+        },
+        {
+          "id": "2",
+          "left": "(ii) Potassium"
+        },
+        {
+          "id": "3",
+          "left": "(iii) Tungsten"
+        },
+        {
+          "id": "4",
+          "left": "(iv) Lead"
+        },
+        {
+          "id": "5",
+          "left": "(v) Silver"
+        }
+      ],
+      "guideDiscrepancy": "The source prints E. Karium and the guide selects E for Potassium. The correct Latin name is Kalium. The unchanged source-intended E is scored, with the spelling error explicitly disclosed rather than taught as correct Latin."
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q3-a",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "3(a)",
+      "originalLabel": "3(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-3",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Student went to Mount Kilimanjaro for the study tour, due to the coldness on the mountain, they decided to prepare tea by using portable stove",
+      "content": "What type of flame would be selected?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-003.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Non-luminous flame.",
+      "markingGuide": "Source two marks for identifying the non-luminous heating flame.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        3
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q3-b",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "3(b)",
+      "originalLabel": "3(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-3",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Student went to Mount Kilimanjaro for the study tour, due to the coldness on the mountain, they decided to prepare tea by using portable stove",
+      "content": "Why they selected the flame from above (i)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-003.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "answerKey": "It is very hot; it is steady; it is sootless.",
+      "markingGuide": "Three source points, one mark each. Accept equivalent correct reasons for clean efficient heating.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 3.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        3
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q3-c",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "3(c)",
+      "originalLabel": "3(c)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-3",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Student went to Mount Kilimanjaro for the study tour, due to the coldness on the mountain, they decided to prepare tea by using portable stove",
+      "content": "What are the properties of the selected flame (4 points)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-003.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "answerKey": "Blue; very hot; sootless; steady. It is generally shorter and has distinct zones.",
+      "markingGuide": "Any four accurate properties at one mark each, using the source four-mark allocation.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 4.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        3
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q4-a",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "4(a)",
+      "originalLabel": "4(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-4(a)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Most of the laboratory apparatus are made up of glass materials",
+      "content": "What are the disadvantages of plastic apparatus over glass apparatus",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-003.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 3.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "answerKey": "Depending on the plastic: lower heat resistance; incompatibility with some solvents; scratches/clouding; gas or vapour permeability; adsorption or retention of chemicals that can complicate cleaning.",
+      "markingGuide": "Independently checked scientific rubric using source five marks: any five distinct valid, appropriately qualified disadvantages, one each. Accept suitable simpler examples; do not claim every plastic is opaque or reacts with every chemical.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 5.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        3,
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide makes blanket claims that plastics are reactive, not transparent and corroded by chemicals. These are material-dependent; independent guidance qualifies them and does not alter the original question."
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-i",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "4(b)(i)",
+      "originalLabel": "4(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-4(b)(i)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Name the apparatus to the following activities",
+      "content": "For cooling hot vapor",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Liebig condenser.",
+      "markingGuide": "One source mark for the correctly named apparatus; accept a valid equivalent apparatus fulfilling the function.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-ii",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "4(b)(ii)",
+      "originalLabel": "4(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-4(b)(ii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Name the apparatus to the following activities",
+      "content": "For sucking in and measuring volume of liquid or gasses",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Measuring syringe.",
+      "markingGuide": "One source mark for the correctly named apparatus; accept a valid equivalent apparatus fulfilling the function.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-iii",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "4(b)(iii)",
+      "originalLabel": "4(b)(iii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-4(b)(iii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Name the apparatus to the following activities",
+      "content": "Spread out heating",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Wire gauze.",
+      "markingGuide": "One source mark for the correctly named apparatus; accept a valid equivalent apparatus fulfilling the function.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-iv",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "4(b)(iv)",
+      "originalLabel": "4(b)(iv)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-4(b)(iv)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Name the apparatus to the following activities",
+      "content": "Hold hot substances and apparatus during experiment",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Tongs.",
+      "markingGuide": "One source mark for the correctly named apparatus; accept a valid equivalent apparatus fulfilling the function.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q4-b-v",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "4(b)(v)",
+      "originalLabel": "4(b)(v)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-4(b)(v)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Name the apparatus to the following activities",
+      "content": "To store chemicals, reagents or solution during experiment",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Reagent bottles.",
+      "markingGuide": "One source mark for the correctly named apparatus; accept a valid equivalent apparatus fulfilling the function.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q5-a",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "5(a)",
+      "originalLabel": "5(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-5(a)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Before practical activities you are required to dress appropriately, explain how laboratory user should dress?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 1,
+      "answerKey": "Wear a lab coat and safety goggles; avoid loose/floppy clothes; tie back long hair; secure long sleeves; wear clothing covering legs and closed shoes.",
+      "markingGuide": "Six appropriate dressing precautions, one source mark each. Accept equivalent suitable protective dressing.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 6.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q5-b",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "5(b)",
+      "originalLabel": "5(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-5(b)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Explain four challenges that first aider can face during provision of first aid",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "answerKey": "Risk of disease transmission; unavailable first-aid materials; distance from health services; insufficient first-aid knowledge; lack of support from others.",
+      "markingGuide": "Any four explained valid challenges, one source mark each.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 4.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q6-i",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "6(i)",
+      "originalLabel": "6(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-6(i)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give reasons to support each of the following statements",
+      "content": "Concentrated chemical should not be poured into the sink",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "They can damage pipes/sinks, react dangerously and contaminate water or harm organisms.",
+      "markingGuide": "Source two marks for a valid explanation linking the stated practice/property to its reason.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q6-ii",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "6(ii)",
+      "originalLabel": "6(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-6(ii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give reasons to support each of the following statements",
+      "content": "A good laboratory must have fume chamber",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "A functioning fume chamber contains and extracts harmful fumes and protects users from exposure.",
+      "markingGuide": "Source two marks for a valid explanation linking the stated practice/property to its reason.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q6-iii",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "6(iii)",
+      "originalLabel": "6(iii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-6(iii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give reasons to support each of the following statements",
+      "content": "Do not use unlabelled chemicals",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Their identity, concentration and hazards are unknown, so use could cause unsafe reactions or incorrect handling.",
+      "markingGuide": "Source two marks for a valid explanation linking the stated practice/property to its reason.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q6-iv",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "6(iv)",
+      "originalLabel": "6(iv)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-6(iv)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give reasons to support each of the following statements",
+      "content": "A first aid kit must have a whistle",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "A whistle can attract attention and summon help in an emergency.",
+      "markingGuide": "Source two marks for a valid explanation linking the stated practice/property to its reason.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q6-v",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "6(v)",
+      "originalLabel": "6(v)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-6(v)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give reasons to support each of the following statements",
+      "content": "Why solid are not classified as fluids?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Solids generally retain shape and resist sustained flow because particles remain in fixed relative positions, unlike fluids.",
+      "markingGuide": "Source two marks for a valid explanation linking the stated practice/property to its reason.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q7-a",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "7(a)",
+      "originalLabel": "7(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-7",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Manka was preparing food for family by a deep frying method. Accidentally the cooking pan tipped over and a huge fire spread on the kitchen floor.",
+      "content": "Identify the fuel in the accident",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1.5,
+      "markIncrement": 0.5,
+      "answerKey": "Cooking oils and fats.",
+      "markingGuide": "Source 1½ marks for identifying the burning cooking oil/fat.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 1.5.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q7-b",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "7(b)",
+      "originalLabel": "7(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-7",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Manka was preparing food for family by a deep frying method. Accidentally the cooking pan tipped over and a huge fire spread on the kitchen floor.",
+      "content": "Which extinguisher would be suitable for putting off the fire?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1.5,
+      "markIncrement": 0.5,
+      "answerKey": "A suitable wet-chemical extinguisher for cooking-oil fires.",
+      "markingGuide": "Source 1½ marks for a suitable wet-chemical extinguisher; water jets are inappropriate for hot oil.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 1.5.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q7-c",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "7(c)",
+      "originalLabel": "7(c)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-7",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Manka was preparing food for family by a deep frying method. Accidentally the cooking pan tipped over and a huge fire spread on the kitchen floor.",
+      "content": "Explain four (4) steps to be followed putting off the fire",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "answerKey": "Only a trained person with a safe escape route should use the suitable extinguisher: pull the safety pin; aim as directed at the base/appropriate target from a safe distance; squeeze the lever; sweep as directed. If unsafe or spreading, leave and summon the fire service.",
+      "markingGuide": "Source four marks for the four appropriate extinguisher-use steps, one each. Independent safety context expands the source without changing the question; do not advise a student to approach an uncontrolled spreading oil fire.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 4.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q7-d",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "7(d)",
+      "originalLabel": "7(d)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-7",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Manka was preparing food for family by a deep frying method. Accidentally the cooking pan tipped over and a huge fire spread on the kitchen floor.",
+      "content": "What precautions will Manka take when putting off the fire?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "answerKey": "Keep a safe distance and escape route; use equipment suitable for cooking oil, never a water jet; abandon an uncontrolled fire, warn others and call the fire service. Do not use a portable extinguisher directly on a person.",
+      "markingGuide": "Any three valid precautions, one source mark each. Accept safe equivalent precautions.",
+      "marksProvenance": "Associated source marking guide page(s) [3]: printed part/item allocation 3.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q8-a",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "8(a)",
+      "originalLabel": "8(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-8a",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Why is the Bunsen burner commonly used in the laboratory as a source of heat?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-006.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 1,
+      "answerKey": "It gives an adjustable flame, can provide both luminous and non-luminous flames, and can provide concentrated convenient heating.",
+      "markingGuide": "Independent answer provided for review only; source guide lists reasons without a part allocation. No inferred residual marks are asserted.",
+      "marksProvenance": "No unambiguous individual source allocation printed; not admitted to scoring.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        6
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The guide does not give an explicit Q8(a) allocation. Do not infer a value merely from the section total."
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q8-b",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "8(b)",
+      "originalLabel": "8(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-8b",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Draw a well labelled diagram of Bunsen burner",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-006.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 1,
+      "answerKey": "Draw and correctly label barrel/chimney, air hole, collar, jet, gas inlet and base.",
+      "markingGuide": "Source six marks: one for each correct indicated/labeled part in the required drawing. Independent drawing self-assessment; typed names alone are not evidence of the requested diagram.",
+      "marksProvenance": "Associated source marking guide page(s) [3]: printed part/item allocation 6.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        6
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q9-a-i",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "9(a)(i)",
+      "originalLabel": "9(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-9a",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Explain difference in properties between solid and plasma in terms of;",
+      "content": "Volume",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-006.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "A solid has an approximately fixed volume; unconstrained plasma does not have fixed volume and occupies its available space.",
+      "markingGuide": "Two source marks for the correct comparison, one accurate description of each state.",
+      "marksProvenance": "Associated source marking guide page(s) [3]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        6
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q9-a-ii",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "9(a)(ii)",
+      "originalLabel": "9(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-9a",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Explain difference in properties between solid and plasma in terms of;",
+      "content": "Movement of particles",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-006.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Solid particles vibrate about fixed relative positions; plasma has mobile charged particles moving through the material.",
+      "markingGuide": "Two source marks for the correct comparison, one accurate description of each state.",
+      "marksProvenance": "Associated source marking guide page(s) [3]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        6
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The source guide says solid particles do not move. Independent guidance correctly states that they vibrate about fixed relative positions."
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q9-a-iii",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "9(a)(iii)",
+      "originalLabel": "9(a)(iii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-9a",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Explain difference in properties between solid and plasma in terms of;",
+      "content": "Compressibility",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-006.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Solids are generally very difficult to compress; plasma is generally much more compressible.",
+      "markingGuide": "Two source marks for the correct comparison, one accurate description of each state.",
+      "marksProvenance": "Associated source marking guide page(s) [4]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        6
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q9-b",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "9(b)",
+      "originalLabel": "9(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-9(b)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Explain the roles of temperature in the changes of states of matter",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-007.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Heating/cooling can supply/remove thermal energy and lead to rearrangement of particles and changes of state. During a pure substance’s phase change at fixed pressure, supplied/removed latent heat changes particle interactions while temperature can remain constant.",
+      "markingGuide": "Source two marks for a sound thermal explanation. Independent clarification avoids claiming that every energy input during a phase change raises particle kinetic energy or temperature.",
+      "marksProvenance": "Associated source marking guide page(s) [4]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        7
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide describes heating only as increasing kinetic energy. Independent guidance includes constant-temperature latent heat during phase change."
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q9-c",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "9(c)",
+      "originalLabel": "9(c)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-9(c)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "What are the conditions for a substance to be called a matter?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-007.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "It has mass and occupies space.",
+      "markingGuide": "One source mark for has mass; one for occupies space.",
+      "marksProvenance": "Associated source marking guide page(s) [4]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        7
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-chemistry-ea77027104de0364-q10",
+      "paperId": "morogoro-f1-2025-chemistry-ea77027104de0364",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Chemistry • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "10",
+      "originalLabel": "10",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-chemistry-ea77027104de0364-group-10",
+      "type": "essay",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Use relevant examples to support the statement “the application of chemistry leads to development of modern societies” (six (06) points)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-ea77027104de0364/page-007.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 15,
+      "markIncrement": 1,
+      "answerKey": "Examples: fertilisers and crop-protection products in agriculture; medicines and vaccines; manufacture of useful materials; food/beverage processing and preservation; fuels/materials for transport; batteries/electronic materials for communication. Explain six applications with relevant examples and a coherent conclusion.",
+      "markingGuide": "Source rubric: introduction 2; any six correctly explained applications with relevant examples at 2 each (12); conclusion 1. Accept other valid chemical applications.",
+      "marksProvenance": "Associated source marking guide page(s) [4]: printed part/item allocation 15.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1kgHryVB8PM2j2j-Pm5sMTGTXXnfszM17",
+      "sourcePdf": "/source-papers/source-ea77027104de0364/original.pdf",
+      "sourceSha256": "ea77027104de03643499c3bfecc9c7ff132a06e362697ed528d4a2f887bec65c",
+      "sourceDocumentId": "source-ea77027104de0364",
+      "sourcePages": [
+        7
+      ],
+      "answerGuidePdf": "/source-papers/guide-3261ea68e1ad4875/original.pdf",
+      "answerGuideSha256": "3261ea68e1ad4875e1d244d037a36d6e57484f6794031014917f618a6519e2e0",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    }
+  ],
+  "verificationNotes": [
+    "All seven original paper pages and all four associated source-guide pages visually inspected.",
+    "Printed spelling and grammar retained, including Karium. The source-intended unique matching option is retained; correct Latin Kalium is explicitly explained.",
+    "No ten-mark-per-main rule is printed. Q3 uses actual guide allocation2+3+4=9, not fabricated10. Q8(a) remains held for missing allocation, while independent Q8(b) is scored at its printed6.",
+    "Source guide blanket plastics claims, stationary-solid-particle claim, latent-heat omission and fire-safety context are independently clarified without changing questions."
+  ]
+}

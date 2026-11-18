@@ -1,0 +1,3564 @@
+{
+  "paper": {
+    "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+    "title": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+    "form": 1,
+    "subjectId": "chemistry",
+    "sourceType": "district",
+    "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+    "year": 2025,
+    "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+    "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+    "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+    "sourceDocumentId": "source-1b61ec27372553a6",
+    "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+    "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "verificationScope": "Complete source paper and matching marking guide visually inspected. All ten main questions fully transcribed; published individual marks come from the associated guide.",
+    "publicationStatus": "published",
+    "publicationScope": "complete-paper",
+    "completePaper": true,
+    "completeScoredPaper": true,
+    "transcriptionComplete": true,
+    "sourceMainQuestionCount": 10,
+    "sourceMaximumMarks": 100,
+    "maximumMarks": 100.0,
+    "sourceInstructions": [
+      "This paper consists of sections A, B and C with a total of ten (10) questions.",
+      "Answer all questions in the spaces provided.",
+      "Section A carries Fifteen (15) marks, section B carries Seventy (70) marks and section C carries Fifteen (15) marks.",
+      "All writings must be in blue or black ink, except for diagrams, which must be in pencil.",
+      "All communication devices and any unauthorized materials are not allowed in the examination room.",
+      "Write your Assessment Number at the top right corner of every page."
+    ],
+    "questionIds": [
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-iv",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-v",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-vi",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-vii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-viii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-ix",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-x",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q2",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-a",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-b-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-b-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-b-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-b-iv",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q4-a",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q4-b-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q4-b-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q4-b-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-iv",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-v",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-b-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-b-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-a",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-iv",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-v",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-vi",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-iv",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-v",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q8-a",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q8-b",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q8-c",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q8-d",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-a",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-b-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-b-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-b-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-b-iv",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-c",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q10"
+    ],
+    "allTranscribedQuestionIds": [
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-iv",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-v",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-vi",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-vii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-viii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-ix",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-x",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q2",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-a",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-b-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-b-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-b-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-b-iv",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q4-a",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q4-b-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q4-b-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q4-b-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-iv",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-v",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-b-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-b-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-a",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-iv",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-v",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-vi",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-iv",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-v",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q8-a",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q8-b",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q8-c",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q8-d",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-a",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-b-i",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-b-ii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-b-iii",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-b-iv",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-c",
+      "dar-city-f1-2025-chemistry-1b61ec27372553a6-q10"
+    ],
+    "draftQuestionIds": [],
+    "excludedQuestions": [],
+    "timeAllowed": "2:30 Hours",
+    "sourceDate": "Year: 2025",
+    "sourceSubjectCode": "032",
+    "sourceAttributionVerified": true,
+    "sourceAttributionEvidence": "Original printed cover page1 visually inspected: institution, Form One, Chemistry CODE032 and2025 confirmed."
+  },
+  "questions": [
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-i",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(i)",
+      "originalLabel": "1(i)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-1(i)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) - (x) choose the correct answer from the given alternatives and write its letter in the table provided below.",
+      "content": "Digestion of food in the humans’ alimentary canal involves breaking down of large food substance into smaller ones. in the language of chemistry, this means that;",
+      "options": [
+        "Digestion is the composition process",
+        "Digestion is the decomposition process",
+        "Digestion is the energy giving process.",
+        "Digestion is the mixture of heat and flame."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Digestion is the decomposition process",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Digestion is the composition process",
+        "B. Digestion is the decomposition process",
+        "C. Digestion is the energy giving process.",
+        "D. Digestion is the mixture of heat and flame."
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-ii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(ii)",
+      "originalLabel": "1(ii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-1(ii)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) - (x) choose the correct answer from the given alternatives and write its letter in the table provided below.",
+      "content": "What is the composition function of a fame hood in a chemistry laboratory",
+      "options": [
+        "To store laboratory equipment",
+        "To provided heat for experiment",
+        "To safety ventilate harmful gases and fames",
+        "To mix and measure chemicals"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "To safety ventilate harmful gases and fames",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. To store laboratory equipment",
+        "B. To provided heat for experiment",
+        "C. To safety ventilate harmful gases and fames",
+        "D. To mix and measure chemicals"
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-iii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(iii)",
+      "originalLabel": "1(iii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-1(iii)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) - (x) choose the correct answer from the given alternatives and write its letter in the table provided below.",
+      "content": "A Student wants to measure exactly 25.0cm³ of liquid reagent for an experiment. Which apparatus should he/she use?",
+      "options": [
+        "Beaker",
+        "Measuring",
+        "burette",
+        "pipette"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "pipette",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Beaker",
+        "B. Measuring",
+        "C. burette",
+        "D. pipette"
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-iv",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(iv)",
+      "originalLabel": "1(iv)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-1(iv)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) - (x) choose the correct answer from the given alternatives and write its letter in the table provided below.",
+      "content": "The chief cook added sugar to the cup of coffee. The resulting solution can be termed as:-",
+      "options": [
+        "Homogeneous mixture",
+        "Binary compound.",
+        "Heterogeneous mixture",
+        "Uniform suspension"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Homogeneous mixture",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Homogeneous mixture",
+        "B. Binary compound.",
+        "C. Heterogeneous mixture",
+        "D. Uniform suspension"
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-v",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(v)",
+      "originalLabel": "1(v)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-1(v)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) - (x) choose the correct answer from the given alternatives and write its letter in the table provided below.",
+      "content": "The following are properties of plasma, except:-",
+      "options": [
+        "They consist of ions",
+        "They have fixed shape and volume",
+        "They conduct electricity",
+        "They do not have fixed shape and volume"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "They have fixed shape and volume",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. They consist of ions",
+        "B. They have fixed shape and volume",
+        "C. They conduct electricity",
+        "D. They do not have fixed shape and volume"
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-vi",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(vi)",
+      "originalLabel": "1(vi)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-1(vi)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) - (x) choose the correct answer from the given alternatives and write its letter in the table provided below.",
+      "content": "What is the name of a safety sign expected to be seen on the container of poison like insecticide",
+      "options": [
+        "Toxic",
+        "Oxidant",
+        "Irritant",
+        "Harmful"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Toxic",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Toxic",
+        "B. Oxidant",
+        "C. Irritant",
+        "D. Harmful"
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-vii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(vii)",
+      "originalLabel": "1(vii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-1(vii)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) - (x) choose the correct answer from the given alternatives and write its letter in the table provided below.",
+      "content": "The teacher was demonstration an experiment by dissolving sodium chloride in water until the solute was not dissolving anymore. What type of solution was formed at the end of the experiment?",
+      "options": [
+        "Super saturated",
+        "Suspension",
+        "Unsaturated",
+        "Saturated"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Saturated",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Super saturated",
+        "B. Suspension",
+        "C. Unsaturated",
+        "D. Saturated"
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-viii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(viii)",
+      "originalLabel": "1(viii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-1(viii)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) - (x) choose the correct answer from the given alternatives and write its letter in the table provided below.",
+      "content": "In recent past, a petroleum tanker had an accident in Morogoro Municipality and caught fire that killed several people who had gathered to scoop the fuel that was leaking from the tanker. What class of fire.",
+      "options": [
+        "Class A fire",
+        "Class B fire",
+        "Class C fire",
+        "Class D fire"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Class B fire",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Class A fire",
+        "B. Class B fire",
+        "C. Class C fire",
+        "D. Class D fire"
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-ix",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(ix)",
+      "originalLabel": "1(ix)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-1(ix)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) - (x) choose the correct answer from the given alternatives and write its letter in the table provided below.",
+      "content": "Two students were debating about the processes involved during simple distillation. What processes will you recommend to them?",
+      "options": [
+        "Evaporation and condensation",
+        "Filtration and decantation",
+        "Condensation and decantation",
+        "Evaporation and filtration"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-002.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Evaporation and condensation",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        2
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Evaporation and condensation",
+        "B. Filtration and decantation",
+        "C. Condensation and decantation",
+        "D. Evaporation and filtration"
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q1-x",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "1(x)",
+      "originalLabel": "1(x)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-1(x)",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i) - (x) choose the correct answer from the given alternatives and write its letter in the table provided below.",
+      "content": "The Brownian movement is taken to be an evidence of",
+      "options": [
+        "Newton’s",
+        "Kinetic theory of matter",
+        "Theory of ionization",
+        "Flotation of particles"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-003.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Kinetic theory of matter",
+      "markingGuide": "Award the source one mark for the correct original option; no marks for other options.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        3
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rawOptions": [
+        "A. Newton’s",
+        "B. Kinetic theory of matter",
+        "C. Theory of ionization",
+        "D. Flotation of particles"
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q2",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "2",
+      "originalLabel": "2",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-2",
+      "type": "matching",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Match the usefulness of chemistry subject in List A with the subject in which the stated usefulness mostly applies in List B by writing it’s letter below the item number in the space provided.",
+      "options": [
+        "A. Agriculture",
+        "B. Mathematics",
+        "C. physics",
+        "D. Geology",
+        "E. Biology",
+        "F. Biochemistry"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-003.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "answerKey": {
+        "1": "C. physics",
+        "2": "F. Biochemistry",
+        "3": "A. Agriculture",
+        "4": "D. Geology",
+        "5": "B. Mathematics"
+      },
+      "markingGuide": "One source mark for each correctly matched original item. Responses C,F,A,D,B, respectively.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 5.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        3
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "pairs": [
+        {
+          "id": "1",
+          "left": "i. Understanding the behaviour of matter and using medical instrument such as syringes, and x-rays machines."
+        },
+        {
+          "id": "2",
+          "left": "ii. Understanding chemical processes that occur within living things producing beverages like soda and juices."
+        },
+        {
+          "id": "3",
+          "left": "iii. Maintaining the soil, animal and plant health for better crop and animal production."
+        },
+        {
+          "id": "4",
+          "left": "iv. Understanding the properties of different rock, minerals and how to extract them"
+        },
+        {
+          "id": "5",
+          "left": "v. Analysis of interpretation of the experimental data through"
+        }
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-a",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "3(a)",
+      "originalLabel": "3(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-3(a)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Define chemistry laboratory apparatus",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-003.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Special tools or equipment used in a chemistry laboratory.",
+      "markingGuide": "Source two marks for a correct definition identifying laboratory tools/equipment.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        3
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-b-i",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "3(b)(i)",
+      "originalLabel": "3(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-3(b)(i)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Draw a diagram of apparatus used to perform the following function in Laboratory",
+      "content": "Used to spread out the flame evenly during heating",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-003.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Draw a recognisable Wire gauze.",
+      "markingGuide": "Source two marks for the required correctly recognisable apparatus diagram, with suitable identifying features. Typed names alone do not complete the requested drawing.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        3
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-b-ii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "3(b)(ii)",
+      "originalLabel": "3(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-3(b)(ii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Draw a diagram of apparatus used to perform the following function in Laboratory",
+      "content": "Used for collecting and testing the properties of gases during experiment",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-003.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Draw a recognisable Gas jar.",
+      "markingGuide": "Source two marks for the required correctly recognisable apparatus diagram, with suitable identifying features. Typed names alone do not complete the requested drawing.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        3
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-b-iii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "3(b)(iii)",
+      "originalLabel": "3(b)(iii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-3(b)(iii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Draw a diagram of apparatus used to perform the following function in Laboratory",
+      "content": "Used to measure and dispense known volumes of liquids",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Draw a recognisable Burette.",
+      "markingGuide": "Source two marks for the required correctly recognisable apparatus diagram, with suitable identifying features. Typed names alone do not complete the requested drawing.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q3-b-iv",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "3(b)(iv)",
+      "originalLabel": "3(b)(iv)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-3(b)(iv)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Draw a diagram of apparatus used to perform the following function in Laboratory",
+      "content": "Used to heat small amount of substances inside gas jar",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Draw a recognisable Deflagrating spoon.",
+      "markingGuide": "Source two marks for the required correctly recognisable apparatus diagram, with suitable identifying features. Typed names alone do not complete the requested drawing.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q4-a",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "4(a)",
+      "originalLabel": "4(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-4(a)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Give any two (2) inference between gaseous state and plasma state of matters",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "answerKey": "For example: ordinary gas mainly has neutral atoms/molecules, whereas plasma has many free electrons and ions; ordinary un-ionised gas is a poor electrical conductor, whereas plasma generally conducts well.",
+      "markingGuide": "Source four marks for two accurate comparisons, one mark per correctly described side of each comparison. Original word “inference” is retained; the provided source table and guide specify the comparison task.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 4.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "table": [
+        [
+          "Gaseous state of matters",
+          "Plasma state of matters"
+        ],
+        [
+          "(i) __________",
+          "(i) __________"
+        ],
+        [
+          "(ii) __________",
+          "(ii) __________"
+        ]
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q4-b-i",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "4(b)(i)",
+      "originalLabel": "4(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-4(b)(i)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give reason on why",
+      "content": "Plasma can conduct electricity but gas do not.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Plasma contains mobile charged particles, especially free electrons and ions; ordinary un-ionised gas lacks a comparable population of mobile charge carriers.",
+      "markingGuide": "Source two marks for the relevant scientifically correct explanation.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q4-b-ii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "4(b)(ii)",
+      "originalLabel": "4(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-4(b)(ii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give reason on why",
+      "content": "Solid is not considered as fluid.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "A solid generally retains its shape and resists sustained flow rather than taking its container’s shape as a fluid does.",
+      "markingGuide": "Source two marks for the relevant scientifically correct explanation.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q4-b-iii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "4(b)(iii)",
+      "originalLabel": "4(b)(iii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-4(b)(iii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give reason on why",
+      "content": "A 2 litres of water cannot be contained in a container of 1litre",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "The water volume exceeds the container capacity; at ordinary conditions2litres of liquid water cannot fit entirely into1litre capacity.",
+      "markingGuide": "Source two marks for the relevant scientifically correct explanation.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-i",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "5(a)(i)",
+      "originalLabel": "5(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-5(a)(i)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Define the following terms used in chemistry",
+      "content": "Diffusion",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Net spreading of particles from a region of higher concentration to lower concentration through random motion.",
+      "markingGuide": "Source one mark for the essential correct meaning; accept suitable equivalent wording.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-ii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "5(a)(ii)",
+      "originalLabel": "5(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-5(a)(ii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Define the following terms used in chemistry",
+      "content": "Chemical change",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "A change in which new substances with different chemical composition/properties are formed.",
+      "markingGuide": "Source one mark for the essential correct meaning; accept suitable equivalent wording.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-iii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "5(a)(iii)",
+      "originalLabel": "5(a)(iii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-5(a)(iii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Define the following terms used in chemistry",
+      "content": "Rust",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "The reddish-brown corrosion material, mainly hydrated iron(III) oxide, formed when iron reacts with oxygen and water.",
+      "markingGuide": "Source one mark for the essential correct meaning; accept suitable equivalent wording.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-iv",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "5(a)(iv)",
+      "originalLabel": "5(a)(iv)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-5(a)(iv)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Define the following terms used in chemistry",
+      "content": "Soot",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Fine black particles, largely carbon, produced by incomplete combustion of carbon-containing fuel.",
+      "markingGuide": "Source one mark for the essential correct meaning; accept suitable equivalent wording.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-a-v",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f2-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f2-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "5(a)(v)",
+      "originalLabel": "5(a)(v)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-5(a)(v)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Define the following terms used in chemistry",
+      "content": "Freezing point",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "The temperature at which a liquid becomes solid at a specified pressure.",
+      "markingGuide": "Source one mark for the essential correct meaning; accept suitable equivalent wording.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-b-i",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "5(b)(i)",
+      "originalLabel": "5(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-5b",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "In the first day Mr. John was grinding a maize grain into a small portable and dissolved it into the water, then in the second day used the crushed maize grain for cooking porridge for his family",
+      "content": "Mention two process take place in the first day and in the second day\nProcess occurred in the first day is ______________\nProcess occurred in the second day is ______________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 0.5,
+      "answerKey": "First day: physical change (grinding and mixing). Second day: cooking is classified as chemical change in the source school rubric; accept a scientifically qualified account distinguishing any physical gelatinisation from chemical cooking changes.",
+      "markingGuide": "Source 0.5 mark for each day’s classification. Independent scientific clarification: ground maize forms a suspension rather than a true solution; not every process during cooking forms a new substance. Accept a justified response accurately describing the actual process.",
+      "marksProvenance": "Associated source marking guide page(s) [1]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Source guide allocates 0.5 mark to each of two day classifications.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The source calls ground maize dissolved and the guide broadly labels cooking chemical. The original description is unchanged; independent guidance distinguishes suspension and the possible physical/chemical processes during cooking."
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q5-b-ii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "5(b)(ii)",
+      "originalLabel": "5(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-5b",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "In the first day Mr. John was grinding a maize grain into a small portable and dissolved it into the water, then in the second day used the crushed maize grain for cooking porridge for his family",
+      "content": "Give any four (04) different between two changes mentioned above",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "answerKey": "Four defensible comparisons for a physical change versus an actual chemical change: no new substance versus new substance; molecular chemical identity retained versus changed; physical form/state altered versus chemical bonds/composition altered; recovery by purely physical separation may be possible versus chemical treatment may be required. Qualify reversibility and energy transfer; neither is an absolute test.",
+      "markingGuide": "Source four marks for four accurate paired differences. Independently checked rubric rejects the guide’s false blanket claim that physical changes never absorb/release energy. Accept justified alternatives and avoid double-counting the same distinction.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 4.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "table": [
+        [
+          "Change in First day",
+          "Change in Second day"
+        ],
+        [
+          "i) __________",
+          "i) __________"
+        ],
+        [
+          "ii) __________",
+          "ii) __________"
+        ],
+        [
+          "iii) __________",
+          "iii) __________"
+        ],
+        [
+          "iv __________",
+          "iv __________"
+        ]
+      ],
+      "guideDiscrepancy": "Source guide says physical changes are always temporary/reversible and have no energy transfer. Those are not universal scientific differences. Independent guidance supplies qualified comparisons; the original question/table remains unchanged."
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-a",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-chemistry-in-society"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "6(a)",
+      "originalLabel": "6(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-6(a)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Professor Ayman is an agricultural specialist. In several of his public speeches he insists that the succession agriculture and animal husbandry bears a secret enclosed in chemistry realities. In only four (04) points provide the truth in professor Ayman’s notation",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-004.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "answerKey": "Chemistry supports fertiliser formulation and soil testing; pest-control products; animal medicines/vaccines; food preservation and suitable storage materials. Explain four appropriate links to agriculture and animal husbandry.",
+      "markingGuide": "Any four valid explained applications, one source mark each. Accept equivalent accurate examples.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 4.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        4
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-i",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "6(b)(i)",
+      "originalLabel": "6(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-6(b)(i)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Name the process that can be used to separate each of the following substances",
+      "content": "Ammonium chloride and sand",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Sublimation of ammonium chloride.",
+      "markingGuide": "One source mark for an appropriate named separation process. Accept scientifically valid equivalents satisfying the original task.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-ii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "6(b)(ii)",
+      "originalLabel": "6(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-6(b)(ii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Name the process that can be used to separate each of the following substances",
+      "content": "Kerosene and water",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Layer separation using a separating funnel; appropriate careful decantation may also separate the immiscible layers.",
+      "markingGuide": "One source mark for an appropriate named separation process. Accept scientifically valid equivalents satisfying the original task.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-iii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "6(b)(iii)",
+      "originalLabel": "6(b)(iii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-6(b)(iii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Name the process that can be used to separate each of the following substances",
+      "content": "A mixture of petrol and diesel",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Fractional distillation based on the different boiling ranges.",
+      "markingGuide": "One source mark for an appropriate named separation process. Accept scientifically valid equivalents satisfying the original task.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-iv",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "6(b)(iv)",
+      "originalLabel": "6(b)(iv)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-6(b)(iv)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Name the process that can be used to separate each of the following substances",
+      "content": "Component of the stem bark extract",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Chromatography for suitable dissolved components.",
+      "markingGuide": "One source mark for an appropriate named separation process. Accept scientifically valid equivalents satisfying the original task.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-v",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "6(b)(v)",
+      "originalLabel": "6(b)(v)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-6(b)(v)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Name the process that can be used to separate each of the following substances",
+      "content": "Oil form seeds",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Solvent extraction; accept suitable mechanical pressing where applicable.",
+      "markingGuide": "One source mark for an appropriate named separation process. Accept scientifically valid equivalents satisfying the original task.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q6-b-vi",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "6(b)(vi)",
+      "originalLabel": "6(b)(vi)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-6(b)(vi)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Name the process that can be used to separate each of the following substances",
+      "content": "Pure water from muddy water",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "answerKey": "Simple distillation to collect condensed water.",
+      "markingGuide": "One source mark for an appropriate named separation process. Accept scientifically valid equivalents satisfying the original task.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 1.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-i",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "7(i)",
+      "originalLabel": "7(i)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-7(i)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give seasons to support each of the following statements",
+      "content": "Concentrated chemical should not be poured into the sink",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "It can damage pipes/surfaces, react dangerously and contaminate the environment.",
+      "markingGuide": "Source two marks for a correct reason clearly related to the original statement.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-ii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "7(ii)",
+      "originalLabel": "7(ii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-7(ii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give seasons to support each of the following statements",
+      "content": "A good laboratory must have fume chamber",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "It extracts/contains harmful fumes and helps protect users from hazardous inhalation exposure.",
+      "markingGuide": "Source two marks for a correct reason clearly related to the original statement.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-iii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "7(iii)",
+      "originalLabel": "7(iii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-7(iii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give seasons to support each of the following statements",
+      "content": "A first aid kit must have a whistle",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "A whistle attracts attention and summons help in an emergency.",
+      "markingGuide": "Source two marks for a correct reason clearly related to the original statement.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-iv",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "7(iv)",
+      "originalLabel": "7(iv)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-7(iv)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give seasons to support each of the following statements",
+      "content": "Do not use unlabelled chemical",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "The chemical identity, concentration and hazards are unknown, so handling or mixing can be unsafe.",
+      "markingGuide": "Source two marks for a correct reason clearly related to the original statement.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q7-v",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "7(v)",
+      "originalLabel": "7(v)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-7(v)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Give seasons to support each of the following statements",
+      "content": "Laboratory doors must opened outward",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Outward-opening doors permit rapid safer evacuation without obstructing people pressing toward the exit.",
+      "markingGuide": "Source two marks for a correct reason clearly related to the original statement.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q8-a",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "8(a)",
+      "originalLabel": "8(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Badra was preparing food for family by a deep frying method. Accidently the cooking pan tipped over and a huge fire spread on the kitchen floor.",
+      "content": "Identify the fuel in the accident.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0.5,
+      "markIncrement": 0.5,
+      "answerKey": "Cooking oil and fats.",
+      "markingGuide": "Source 0.5 mark for the burning cooking oil/fat.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 0.5.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q8-b",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "8(b)",
+      "originalLabel": "8(b)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Badra was preparing food for family by a deep frying method. Accidently the cooking pan tipped over and a huge fire spread on the kitchen floor.",
+      "content": "Which extinguisher would be suitable for putting off the fire",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0.5,
+      "markIncrement": 0.5,
+      "answerKey": "A suitable wet-chemical extinguisher for cooking-oil fires.",
+      "markingGuide": "Source 0.5 mark for a suitable wet-chemical extinguisher. Do not use a water jet on hot burning oil.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 0.5.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q8-c",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "8(c)",
+      "originalLabel": "8(c)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Badra was preparing food for family by a deep frying method. Accidently the cooking pan tipped over and a huge fire spread on the kitchen floor.",
+      "content": "Explain four (04) steps to be followed putting off the fire.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 1.5,
+      "answerKey": "Only if trained and with a safe escape route: remove the safety pin; aim the suitable extinguisher as directed at the base/appropriate target; squeeze the lever; sweep as directed. Leave and summon help if the spreading fire cannot safely be controlled.",
+      "markingGuide": "Source 1.5 marks per four correct appropriate steps, total 6. Independent safety context is explicit; do not interpret the question as requiring a student to approach an uncontrolled fire.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 6.",
+      "markIncrementProvenance": "Source guide allocates 1.5 marks per complete step/point; four such points total six.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q8-d",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-laboratory"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "8(d)",
+      "originalLabel": "8(d)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Badra was preparing food for family by a deep frying method. Accidently the cooking pan tipped over and a huge fire spread on the kitchen floor.",
+      "content": "What precautions will Badra take when putting off the fire?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "answerKey": "Keep safe distance and an escape route; use a fire blanket rather than a portable extinguisher directly on a person; abandon an uncontrolled fire, warn others and notify the fire service. Accept other sound precautions, including avoiding water on hot oil.",
+      "markingGuide": "Any three valid precautions, one source mark each.",
+      "marksProvenance": "Associated source marking guide page(s) [2]: printed part/item allocation 3.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-a",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-elements"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-elements"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "9(a)",
+      "originalLabel": "9(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-9(a)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "On your way back to home, you hear two students arguing that chemical symbols have no importance because they confuse scientists. How will you correct their argument by using four points?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 1.5,
+      "answerKey": "Symbols provide concise internationally recognised element notation; help distinguish elements; shorten chemical formulas/equations; save time and space in communication.",
+      "markingGuide": "Source 1.5 marks for each of four valid explained points, total 6.",
+      "marksProvenance": "Associated source marking guide page(s) [2, 3]: printed part/item allocation 6.",
+      "markIncrementProvenance": "Source guide allocates 1.5 marks per complete step/point; four such points total six.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        2,
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-b-i",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-elements"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-elements"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "9(b)(i)",
+      "originalLabel": "9(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-9(b)(i)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Write the chemical symbols of the following elements",
+      "content": "Copper",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0.5,
+      "markIncrement": 0.5,
+      "answerKey": "Cu",
+      "markingGuide": "Source 0.5 mark for the exact correctly capitalised chemical symbol.",
+      "marksProvenance": "Associated source marking guide page(s) [3]: printed part/item allocation 0.5.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-b-ii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-elements"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-elements"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "9(b)(ii)",
+      "originalLabel": "9(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-9(b)(ii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Write the chemical symbols of the following elements",
+      "content": "Iron",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0.5,
+      "markIncrement": 0.5,
+      "answerKey": "Fe",
+      "markingGuide": "Source 0.5 mark for the exact correctly capitalised chemical symbol.",
+      "marksProvenance": "Associated source marking guide page(s) [3]: printed part/item allocation 0.5.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-b-iii",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-elements"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-elements"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "9(b)(iii)",
+      "originalLabel": "9(b)(iii)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-9(b)(iii)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Write the chemical symbols of the following elements",
+      "content": "Silicon",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0.5,
+      "markIncrement": 0.5,
+      "answerKey": "Si",
+      "markingGuide": "Source 0.5 mark for the exact correctly capitalised chemical symbol.",
+      "marksProvenance": "Associated source marking guide page(s) [3]: printed part/item allocation 0.5.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-b-iv",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-elements"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-elements"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "9(b)(iv)",
+      "originalLabel": "9(b)(iv)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-9(b)(iv)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Write the chemical symbols of the following elements",
+      "content": "Manganese",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0.5,
+      "markIncrement": 0.5,
+      "answerKey": "Mn",
+      "markingGuide": "Source 0.5 mark for the exact correctly capitalised chemical symbol.",
+      "marksProvenance": "Associated source marking guide page(s) [3]: printed part/item allocation 0.5.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q9-c",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-evidence-physical-chemical"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "9(c)",
+      "originalLabel": "9(c)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-9(c)",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "If your young sister asked you to tell her any two (02) ways to prevent Rusting. Which ways you would you tell her (Briefly explain)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-005.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "answerKey": "Painting/coating blocks oxygen and water; oiling/greasing forms a protective barrier; galvanising coats iron with zinc. Explain any two valid methods.",
+      "markingGuide": "Two valid explained methods, one source mark each. Accept other suitable protective coatings or electrochemical protection.",
+      "marksProvenance": "Associated source marking guide page(s) [3]: printed part/item allocation 2.",
+      "markIncrementProvenance": "Printed item/point values where stated; finer holistic written self-assessment is independently prepared and does not assert official substep weights.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        5
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-chemistry-1b61ec27372553a6-q10",
+      "paperId": "dar-city-f1-2025-chemistry-1b61ec27372553a6",
+      "form": 1,
+      "subjectId": "chemistry",
+      "topicIds": [
+        "chemistry-f1-01"
+      ],
+      "subtopicIds": [
+        "chemistry-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City • Chemistry • Form One Annual Examination • 2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; compatible published Form One topics, not complete curriculum coverage",
+      "questionNumber": "10",
+      "originalLabel": "10",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-chemistry-1b61ec27372553a6-group-10",
+      "type": "essay",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Methods of chemical separation are of great importance in industrial processes and in day to day life. As chemistry student planning to become an industry personnel, explain the application of different method of separating mixtures in daily life and industries life and in industries. Given six (6) points.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-1b61ec27372553a6/page-006.jpg",
+          "alt": "Complete unchanged Chemistry source paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 15,
+      "markIncrement": 0.5,
+      "answerKey": "Examples: filtration removes solids during water treatment or pharmaceutical processing; distillation purifies liquids or separates petroleum fractions; evaporation obtains salt from sea water; chromatography separates dye components or supports product-quality analysis; solvent extraction obtains oils from seeds; magnetisation removes iron contamination; decantation separates immiscible layers; sieving sorts particles; crystallisation purifies suitable solids. Explain any six applications with examples.",
+      "markingGuide": "Source introduction 1.5 marks, any six correct explained applications at 2 marks each (12), conclusion 1.5 marks, total 15. Accept other appropriate methods/applications. Independent examples avoid claiming that all distillation alone guarantees drinking-water safety.",
+      "marksProvenance": "Associated source marking guide page(s) [3, 4]: printed part/item allocation 15.",
+      "markIncrementProvenance": "Source rubric includes 1.5-mark introduction/conclusion and 2-mark body points; half-mark granularity accommodates those printed values.",
+      "solutionProvenance": "Source guide visually compared with the complete original paper; independently checked or expanded scientific guidance is expressly identified. Not an official NECTA marking scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=18-yrnhg-hthIqbvTGsYq3g8hBi6vqLrc",
+      "sourcePdf": "/source-papers/source-1b61ec27372553a6/original.pdf",
+      "sourceSha256": "1b61ec27372553a6ad8cb62e7904458bcbd94e3eff9e42bd1ed25be15d787e70",
+      "sourceDocumentId": "source-1b61ec27372553a6",
+      "sourcePages": [
+        6
+      ],
+      "answerGuidePdf": "/source-papers/guide-0c8aba4512219652/original.pdf",
+      "answerGuideSha256": "0c8aba451221965226a54f44ac572e2d215c62b567c23b66befe95ec8e505442",
+      "answerGuidePages": [
+        3,
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All original paper and associated guide pages inspected visually. Printed wording, spelling, option labels and numerical data retained; line wraps normalized.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    }
+  ],
+  "verificationNotes": [
+    "All six original paper pages and all four matching guide pages visually inspected. Printed subject and2025year match.",
+    "All ten main questions are transcribed; explicit source part allocations reconcile to100marks.",
+    "Original spelling retained, including fame hood, small portable, inference, Give seasons, Oil form seeds and repeated wording inQ10.",
+    "Q5 wording is unchanged; independent scientific guidance corrects guide overgeneralisations about physical-change reversibility/energy and qualifies the maize/cooking description. Fire guidance retains the source task while adding independent safe-context clarification."
+  ]
+}

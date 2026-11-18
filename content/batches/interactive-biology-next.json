@@ -1,0 +1,1891 @@
+{
+  "paper": {
+    "id": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+    "title": "Morogoro Municipal Council • Biology • Form One • May 2025",
+    "form": 1,
+    "subjectId": "biology",
+    "sourceType": "district",
+    "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+    "year": 2025,
+    "sourceDocumentId": "source-4ab986d08a4f1540",
+    "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+    "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+    "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+    "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+    "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "publicationStatus": "published",
+    "publicationScope": "complete-paper",
+    "completePaper": true,
+    "completeScoredPaper": true,
+    "transcriptionComplete": true,
+    "sourceMainQuestionCount": 10,
+    "sourceMaximumMarks": 100,
+    "maximumMarks": 100,
+    "questionIds": [
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-i",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-ii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-iii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-iv",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-v",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-vi",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-vii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-viii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-ix",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-x",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q2",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q3",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q4-i",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q4-ii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q4-iii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q4-iv",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q5",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q6",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q7",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-i",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-ii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-iii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-iv",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-v",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q9",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q10"
+    ],
+    "allTranscribedQuestionIds": [
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-i",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-ii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-iii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-iv",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-v",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-vi",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-vii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-viii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-ix",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-x",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q2",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q3",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q4-i",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q4-ii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q4-iii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q4-iv",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q5",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q6",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q7",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-i",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-ii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-iii",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-iv",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-v",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q9",
+      "morogoro-f1-2025-biology-4ab986d08a4f1540-q10"
+    ],
+    "draftQuestionIds": [],
+    "sourceInstructions": [
+      "This paper contains of section A, B and C.",
+      "Attempt all questions in ALL sections."
+    ],
+    "verificationScope": "Complete unchanged question transcription; only source-supported scoring admitted.",
+    "excludedQuestions": []
+  },
+  "questions": [
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-i",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-1-i",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of items i-x choose the most correct answer from among the given alternatives and write it's letter in the box provided.",
+      "content": "Biology is derived from two Greek words namely:",
+      "options": [
+        "Logos and Lagos",
+        "Logos and phyla",
+        "Bios and logos",
+        "Bios and phyla."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-002.jpg",
+          "alt": "Complete unchanged original biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Bios and logos",
+      "markingGuide": "Source guide: one mark for a correct answer; zero for an incorrect answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-ii",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-1-ii",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of items i-x choose the most correct answer from among the given alternatives and write it's letter in the box provided.",
+      "content": "Which of the following is a branch of Biology?",
+      "options": [
+        "Sociology",
+        "Agriculture",
+        "Anthropology",
+        "Botany."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-002.jpg",
+          "alt": "Complete unchanged original biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Botany.",
+      "markingGuide": "Source guide: one mark for a correct answer; zero for an incorrect answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-iii",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(iii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-1-iii",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of items i-x choose the most correct answer from among the given alternatives and write it's letter in the box provided.",
+      "content": "Which of the following is not a field of study related to Biology?",
+      "options": [
+        "Agriculture",
+        "Astrology",
+        "Medicine",
+        "Nutrition"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-002.jpg",
+          "alt": "Complete unchanged original biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Astrology",
+      "markingGuide": "Source guide: one mark for a correct answer; zero for an incorrect answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-iv",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(iv)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-1-iv",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of items i-x choose the most correct answer from among the given alternatives and write it's letter in the box provided.",
+      "content": "Which of the following is not a contribution of Biology in the field of forestry?",
+      "options": [
+        "Fast maturing plants",
+        "Increased desertification",
+        "Varieties of trees that grow well in arid areas",
+        "Solutions to plant diseases and pests"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-002.jpg",
+          "alt": "Complete unchanged original biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Increased desertification",
+      "markingGuide": "Source guide: one mark for a correct answer; zero for an incorrect answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-v",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(v)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-1-v",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of items i-x choose the most correct answer from among the given alternatives and write it's letter in the box provided.",
+      "content": "which of the following is not a living thing?",
+      "options": [
+        "Bean plant",
+        "Lizard",
+        "Sand",
+        "Botany."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-002.jpg",
+          "alt": "Complete unchanged original biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Sand",
+      "markingGuide": "Source guide: one mark for a correct answer; zero for an incorrect answer.",
+      "solutionProvenance": "SomaSmart independent multiple-key resolution; source guide originally accepts Sand only.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "acceptedAnswerKeys": [
+        "Sand",
+        "Botany."
+      ],
+      "guideDiscrepancy": "Independent inclusive key: the source guide gives C (Sand), but D (Botany) is also not a living thing. Both original options are accepted without editing the question."
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-vi",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(vi)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-1-vi",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of items i-x choose the most correct answer from among the given alternatives and write it's letter in the box provided.",
+      "content": "All of the following are not living things except",
+      "options": [
+        "Motorcycle",
+        "Chinese cabbage",
+        "Soft broom",
+        "Bucket."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-002.jpg",
+          "alt": "Complete unchanged original biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Chinese cabbage",
+      "markingGuide": "Source guide: one mark for a correct answer; zero for an incorrect answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-vii",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(vii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-1-vii",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of items i-x choose the most correct answer from among the given alternatives and write it's letter in the box provided.",
+      "content": "Which of the following is the most important basic difference between plants and animals?",
+      "options": [
+        "Growth",
+        "Reproduction",
+        "Nutrition",
+        "Movement"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-002.jpg",
+          "alt": "Complete unchanged original biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Nutrition",
+      "markingGuide": "Source guide: one mark for a correct answer; zero for an incorrect answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-viii",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(viii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-1-viii",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of items i-x choose the most correct answer from among the given alternatives and write it's letter in the box provided.",
+      "content": "The following is the best description about irritability?",
+      "options": [
+        "Removal of waste products",
+        "Ability to move from one place to another.",
+        "Increased in size of organism",
+        "Ability to respond to environmental changes."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-002.jpg",
+          "alt": "Complete unchanged original biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Ability to respond to environmental changes.",
+      "markingGuide": "Source guide: one mark for a correct answer; zero for an incorrect answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-ix",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(ix)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-1-ix",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of items i-x choose the most correct answer from among the given alternatives and write it's letter in the box provided.",
+      "content": "A person picks up a telephone after hearing it is ringing, which characteristics of living thing is the person showing by this action?",
+      "options": [
+        "Excretion and movement",
+        "Respiration and nutrition",
+        "Irritability and movement",
+        "Respiration and movement."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-002.jpg",
+          "alt": "Complete unchanged original biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Irritability and movement",
+      "markingGuide": "Source guide: one mark for a correct answer; zero for an incorrect answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q1-x",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-01"
+      ],
+      "subtopicIds": [
+        "biology-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(x)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-1-x",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of items i-x choose the most correct answer from among the given alternatives and write it's letter in the box provided.",
+      "content": "which of the following is the functional unit of life?",
+      "options": [
+        "System",
+        "Organ",
+        "Cell",
+        "Tissue"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-002.jpg",
+          "alt": "Complete unchanged original biology paper page 2.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Cell",
+      "markingGuide": "Source guide: one mark for a correct answer; zero for an incorrect answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q2",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-2",
+      "type": "matching",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Match the item from list A with the corresponding item in list B and fill it in the space provided",
+      "options": [
+        "A. 0°C",
+        "B. Temperature",
+        "C. Second",
+        "D. 100°C",
+        "E. Length",
+        "F. Mass",
+        "G. Days",
+        "H. Microscope"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-003.jpg",
+          "alt": "Complete unchanged original biology paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": {
+        "i": "E. Length",
+        "ii": "B. Temperature",
+        "iii": "F. Mass",
+        "iv": "A. 0°C",
+        "v": "C. Second"
+      },
+      "markingGuide": "Source guide: one mark for each correct match, total five. Independently accept either Second or Days for the unqualified item Time.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide expects C. Second for Time, but G. Days is also a time unit; the original question does not restrict answers to SI units. Independent inclusive marking accepts both.",
+      "pairs": [
+        {
+          "id": "i",
+          "left": "Tape measure"
+        },
+        {
+          "id": "ii",
+          "left": "Fahrenheit"
+        },
+        {
+          "id": "iii",
+          "left": "Weighing scale"
+        },
+        {
+          "id": "iv",
+          "left": "Freezing point of water"
+        },
+        {
+          "id": "v",
+          "left": "Time"
+        }
+      ],
+      "acceptedMatchingAnswers": {
+        "v": [
+          "C. Second",
+          "G. Days"
+        ]
+      }
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q3",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "3",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-3",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "List down all the scientific methods of studying biology.\n(i) __________________\n(ii) __________________\n(iii) __________________\n(iv) __________________\n(v) __________________\n(vi) __________________\n(vii) __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-003.jpg",
+          "alt": "Complete unchanged original biology paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 14,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Identification of problem; formulation of hypothesis; experimentation; observation and recording; data analysis and interpretation; conclusion; reporting result.",
+      "markingGuide": "Source guide: seven valid stages at two marks each, total 14. Accept logically equivalent scientific-investigation terminology and appropriate sequencing.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q4-i",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "4(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-4",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Using examples explain how the following fields are related to Biology",
+      "content": "Agriculture",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-003.jpg",
+          "alt": "Complete unchanged original biology paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Biological knowledge supports growing crops and raising livestock, for example breeding improved laying hens.",
+      "markingGuide": "Source guide: two marks per field. Independent internal rubric: explain the biological relationship (one) and give a suitable example (one).",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide places Forestry before Medicine, while the question places Medicine before Forestry. Answers are associated by the unchanged printed field names, not the guide row order."
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q4-ii",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "4(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-4",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Using examples explain how the following fields are related to Biology",
+      "content": "Medicine",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-003.jpg",
+          "alt": "Complete unchanged original biology paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Knowledge of organisms and body processes supports disease prevention and treatment, for example developing vaccines and effective drugs.",
+      "markingGuide": "Source guide: two marks per field. Independent internal rubric: explain the biological relationship (one) and give a suitable example (one).",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide places Forestry before Medicine, while the question places Medicine before Forestry. Answers are associated by the unchanged printed field names, not the guide row order."
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q4-iii",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "4(iii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-4",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Using examples explain how the following fields are related to Biology",
+      "content": "Forestry",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-003.jpg",
+          "alt": "Complete unchanged original biology paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Biology supports growing, managing and conserving forests, for example selecting tree varieties suitable for dry conditions.",
+      "markingGuide": "Source guide: two marks per field. Independent internal rubric: explain the biological relationship (one) and give a suitable example (one).",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide places Forestry before Medicine, while the question places Medicine before Forestry. Answers are associated by the unchanged printed field names, not the guide row order."
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q4-iv",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "4(iv)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-4",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "Using examples explain how the following fields are related to Biology",
+      "content": "Nutrition",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-003.jpg",
+          "alt": "Complete unchanged original biology paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [1]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Biology explains food composition and its use in the body, for example planning diets appropriate to health needs.",
+      "markingGuide": "Source guide: two marks per field. Independent internal rubric: explain the biological relationship (one) and give a suitable example (one).",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide places Forestry before Medicine, while the question places Medicine before Forestry. Answers are associated by the unchanged printed field names, not the guide row order."
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q5",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "5",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-5",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "(a) Explain the term biology\n\n(b) Write down five importance of studying biology\ni. __________________\nii. __________________\niii. __________________\niv. __________________\nv. __________________\n\n( c ) Differentiate Botany from Zoology",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-004.jpg",
+          "alt": "Complete unchanged original biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 11,
+      "markIncrement": 0.5,
+      "marksProvenance": "Printed Section B65; explicit source-guide Q3=14,Q4=8,Q6=4,Q7=14,Q8=10,Q9=4. Unique residual wholeQ5=65−54=11; not asserted as a printed main allocation.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "(a) Biology is the science/study of life and living organisms. (b) Any five: understanding and caring for the environment; identifying/classifying living organisms; understanding human bodies and health; acquiring research skills; answering biological questions; preparing for professions such as medicine or teaching; appreciating living nature. (c) Botany studies plants; zoology studies animals.",
+      "markingGuide": "Whole-main maximum uniquely reconciled as 65−(14+8+4+14+10+4)=11. This is a derived whole-question allocation, not a printed main maximum. Source guide explicitly gives five importance points at two marks each (10). Independent internal rubric: definition 0.5, five correct importance points 2 each, accurate Botany/Zoology distinction 0.5. No official a/c subweights are asserted.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        1,
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The source guide prints @2 MARKS TOTAL10 after its Q5 answer without clearly assigning a/c weights or a whole-question total. Other explicit Section B maxima sum to54; its printed total65 leaves Q5=11. The whole-main reconciliation and the remaining independent a/c rubric are disclosed explicitly."
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q6",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-01"
+      ],
+      "subtopicIds": [
+        "biology-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "6",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-6",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "What are the differences between eukaryotic and prokaryotic cells",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-004.jpg",
+          "alt": "Complete unchanged original biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Eukaryotic cells have a membrane-bound nucleus containing their DNA and membrane-bound organelles; prokaryotic cells lack a membrane-bound nucleus and membrane-bound organelles, with DNA in a nucleoid region. Both possess a cell/plasma membrane.",
+      "markingGuide": "Source maximum four marks. Independent rubric: two accurate paired contrasts, two marks each. Do not claim prokaryotes lack a cell membrane.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The source guide contrasts nuclear material without a bounding membrane. Independent clarification distinguishes the nuclear envelope from the cell membrane; all original question words remain unchanged."
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q7",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "7",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-7",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Mention seven characteristics of living organisms.\ni. __________________\nii. __________________\niii. __________________\niv. __________________\nv. __________________\nvi. __________________\nvii. __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-004.jpg",
+          "alt": "Complete unchanged original biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 14,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Nutrition; respiration; excretion; growth and development; sensitivity/irritability; movement; reproduction.",
+      "markingGuide": "Source guide: two marks for each of seven correct characteristics, total14. Accept equivalent accurate terms.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-i",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "8(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "State the uses of the following biology apparatus",
+      "content": "Bunsen burner",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-004.jpg",
+          "alt": "Complete unchanged original biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Provides heat for appropriate laboratory work.",
+      "markingGuide": "Source guide: two marks for the correct apparatus use; accept an accurate equivalent explanation.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-ii",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "8(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "State the uses of the following biology apparatus",
+      "content": "Specimen bottle",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-004.jpg",
+          "alt": "Complete unchanged original biology paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Stores or preserves a biological specimen.",
+      "markingGuide": "Source guide: two marks for the correct apparatus use; accept an accurate equivalent explanation.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-iii",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "8(iii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "State the uses of the following biology apparatus",
+      "content": "Thermometer",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-005.jpg",
+          "alt": "Complete unchanged original biology paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Measures temperature.",
+      "markingGuide": "Source guide: two marks for the correct apparatus use; accept an accurate equivalent explanation.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-iv",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "8(iv)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "State the uses of the following biology apparatus",
+      "content": "Sweep net",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-005.jpg",
+          "alt": "Complete unchanged original biology paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Collects small flying insects or organisms from vegetation.",
+      "markingGuide": "Source guide: two marks for the correct apparatus use; accept an accurate equivalent explanation.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q8-v",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "subtopicIds": [
+        "biology-f1-biological-measurement-reports"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "8(v)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "State the uses of the following biology apparatus",
+      "content": "Hand lens-",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-005.jpg",
+          "alt": "Complete unchanged original biology paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Magnifies small specimens or features for observation.",
+      "markingGuide": "Source guide: two marks for the correct apparatus use; accept an accurate equivalent explanation.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q9",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "9",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-9",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "List down four (4) other scientific fields where the knowledge obtained or gained from the study of Biology is applied.\n(i) __________________\n(ii) __________________\n(iii) __________________\n(iv) __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-005.jpg",
+          "alt": "Complete unchanged original biology paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Agriculture; medicine/pharmacy; nutrition; forestry. Accept other genuinely applicable fields with valid biological connections.",
+      "markingGuide": "Source guide: one mark per valid scientific field, total four.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-biology-4ab986d08a4f1540-q10",
+      "paperId": "morogoro-f1-2025-biology-4ab986d08a4f1540",
+      "form": 1,
+      "subjectId": "biology",
+      "topicIds": [
+        "biology-f1-classification"
+      ],
+      "subtopicIds": [
+        "biology-f1-classification"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Biology • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "10",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-biology-4ab986d08a4f1540-group-10",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Draw a large well labelled diagram of the light or compound microscope.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-4ab986d08a4f1540/page-005.jpg",
+          "alt": "Complete unchanged original biology paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 20,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [3]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "A large recognisable compound light microscope, with a suitable title and caption and correctly placed labels such as eyepiece lens, ocular tube, body tube, revolving nosepiece, objective lens, stage clip, stage, condenser, diaphragm, mirror/light source, base, hinge screw, arm, coarse adjustment knob and fine adjustment knob.",
+      "markingGuide": "Source guide: title2, caption3 and labelling15, total20. Self-assess the actual drawing and label placement. Typed text alone is not proof of a diagram. Accept equivalent legitimate microscope structures appropriate to the drawn model.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://mlostudies.com/preview.php?serve=1&file=exam_6a04cdea5854d.pdf&t=b878df35acb09964216585d76d48163ac8be1ca90ffaeb01b8c11b53439ef5f2",
+      "sourcePdf": "/source-papers/source-4ab986d08a4f1540/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "4ab986d08a4f1540db38d8d9c31fdb8a2cc2b8a07354fa1d5bf1b21a7b14f539",
+      "sourceDocumentId": "source-4ab986d08a4f1540",
+      "answerGuidePdf": "/source-papers/guide-3fc59e48415cf441/original.pdf",
+      "answerGuideSha256": "3fc59e48415cf44182ad8ae0df35ef47e88ea012cd1ca8e5b481a20f7f864c5f",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 5 original paper pages and all 3 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    }
+  ],
+  "verificationNotes": {
+    "sourceSections": {
+      "A": 15,
+      "B": 65,
+      "C": 20
+    },
+    "sourceGuideResolutions": [
+      "All five paper pages and all three guide pages inspected visually.",
+      "Q1(v) and Q2 use explicitly independent inclusive objective marking without changing source options.",
+      "WholeQ5 residual11 reconciles SectionB65 with all other explicit guide maxima. The source guide scope ambiguity remains disclosed.",
+      "Original examiner table omits row5; the actual question5 is present and fully transcribed."
+    ]
+  }
+}

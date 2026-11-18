@@ -21,11 +21,17 @@ def validate(d):
   if q.get('sourceType')=='original' and (q.get('rightsStatus')!='original' or q.get('paperId')):errors.append(f'{q["id"]}: original provenance invalid')
   if q.get('form') not in [1,2] or q.get('subjectId') not in subject_ids:errors.append(f'{q["id"]}: invalid form/subject')
   if not q.get('topicIds') or any(t not in lesson_ids for t in q['topicIds']):errors.append(f'{q["id"]}: invalid topic mapping')
-  if not q.get('content') or not q.get('answerKey') or not q.get('markingGuide'):errors.append(f'{q["id"]}: missing answer or rubric')
+  if not (q.get('content') or q.get('sourceParts')) or not q.get('answerKey') or not q.get('markingGuide'):errors.append(f'{q["id"]}: missing answer or rubric')
   m=q.get('maximumMarks');inc=q.get('markIncrement')
   if not isinstance(m,(float,int)) or not isinstance(inc,(float,int)) or not math.isfinite(m) or not math.isfinite(inc) or m<=0 or inc<=0 or abs(m/inc-round(m/inc))>1e-8:errors.append(f'{q["id"]}: invalid marking increments')
   if q.get('type') not in ['mcq','matching','short','calculation','essay']:errors.append(f'{q["id"]}: unsupported question type')
   if q.get('type')=='mcq' and (q['answerKey'] not in q['options'] or len(set(q['options']))!=len(q['options']) or len(q['options'])<2):errors.append(f'{q["id"]}: invalid options')
+  if q.get('acceptedAnswerKeys') is not None:
+   keys=q['acceptedAnswerKeys']
+   if q['type']!='mcq' or not isinstance(keys,list) or not keys or q['answerKey'] not in keys or any(k not in q['options'] for k in keys):errors.append(f'{q["id"]}: invalid alternative answer keys')
+  if q.get('acceptedMatchingAnswers') is not None:
+   keys=q['acceptedMatchingAnswers']
+   if q['type']!='matching' or not isinstance(keys,dict) or any(k not in q['answerKey'] or not isinstance(v,list) or q['answerKey'][k] not in v or any(a not in q['options'] for a in v) for k,v in keys.items()):errors.append(f'{q["id"]}: invalid matching alternatives')
   if q.get('type')=='matching':
    pairs=q.get('pairs',[]);key=q.get('answerKey',{})
    if not isinstance(key,dict) or not pairs or {p.get('id') for p in pairs}!=set(key) or any(v not in q.get('options',[]) for v in key.values()) or len(key)*inc!=m:errors.append(f'{q["id"]}: invalid matching structure')

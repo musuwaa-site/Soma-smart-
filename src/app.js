@@ -375,13 +375,49 @@ function answerInput(q) {
       .join("");
   return `<textarea data-answer="${q.id}" aria-label="Answer to question ${q.questionNumber}" ${draft.submitted ? "readonly" : ""} placeholder="Write your answer or working here…">${esc(answer || "")}</textarea>${q.requiresDrawing ? '<p>Include the required drawing below or on paper before self-assessing drawing marks.</p>' : ''}<details ${draft.drawings?.[q.id] ? 'open' : ''}><summary>Drawing or diagram</summary><canvas data-drawing="${q.id}" width="640" height="360" aria-label="Drawing for question ${esc(q.questionNumber)}" style="width:100%;height:auto;background:white;border:1px solid #aabdb5;touch-action:none"></canvas>${draft.submitted ? '' : `<p>Draw with your finger or pointer. Your diagram is saved with this attempt.</p><button class="secondary" data-clear-drawing="${q.id}">Clear drawing</button>`}</details>`;
 }
+function sourceParts(q) {
+  const seen = new Set();
+  const context = text => {
+    if (!text || seen.has(text)) return '';
+    seen.add(text);
+    return `<p class="source-stem">${esc(text)}</p>`;
+  };
+  return (q.sourceParts || []).map(part => `<div class="source-part">
+    ${context(part.instructions)}${context(part.sharedContent)}${context(part.passage)}
+    <p><strong>${esc(part.questionNumber)}.</strong> ${verbatimContent(part)}</p>
+    ${questionContext({table:part.table})}
+    ${(part.options || []).map((text, index) => `<p>${originalOptionLabel(part,index)}${esc(text)}</p>`).join('')}
+  </div>`).join('');
+}
+
+function guidedReview(q) {
+  const sw = q.subjectId === 'kiswahili' || q.subjectId === 'historia';
+  return `<details class="guided-review" data-guided-review="${esc(q.id)}">
+    <summary>${sw ? 'Mazungumzo ya marudio' : 'Guided review conversation'}</summary>
+    <p>${sw ? 'Chagua swali la kuuliza kuhusu jibu lako.' : 'Choose a follow-up about your answer.'}</p>
+    <div class="review-messages" role="log" aria-live="polite"></div>
+    <div class="row">
+      <button type="button" class="secondary" data-review-topic="answer">${sw ? 'Jibu ni lipi?' : 'What answers are accepted?'}</button>
+      <button type="button" class="secondary" data-review-topic="marking">${sw ? 'Alama zinatolewaje?' : 'How is this marked?'}</button>
+      <button type="button" class="secondary" data-review-topic="revise">${sw ? 'Nisome nini tena?' : 'What should I revise?'}</button>
+    </div>
+  </details>`;
+}
+function displayAnswer(q) {
+  if (q.acceptedAnswerKeys) return q.acceptedAnswerKeys.join(' / ');
+  if (q.answerKey && typeof q.answerKey === 'object') {
+    return Object.entries(q.answerKey).map(([key, value]) =>
+      `${key}. ${(q.acceptedMatchingAnswers?.[key] ?? [value]).join(' / ')}`).join('\n');
+  }
+  return q.answerKey || '';
+}
 function exam() {
   const r = result(draft.questions, draft.answers, draft.marks);
   frame(
     `<span class="eyebrow">${draft.submitted ? "Review & marking" : "Saved examination draft"} / Form ${draft.form}</span><h1>${esc(draft.title)}</h1><p class="muted">${draft.questions.length} questions • ${r.maximum} available marks • Written answers require your self-assessment.</p>${draft.sourceInstructions?.length ? `<details class="card"><summary>Original source instructions</summary>${draft.sourceInstructions.map(text => `<p>${esc(text)}</p>`).join("")}<p class="muted">A custom selection may contain fewer items than the original source paper.</p></details>` : ""}<div class="save-status" id="saved" role="status">Saved on this device</div>${draft.submitted ? `<section class="card"><span class="score">${r.earned}/${r.maximum}</span><p>${r.pending ? `${r.pending} written answers await self-marking. Score is provisional.` : "Marking complete."}</p></section>` : ""}${draft.questions
       .map((q, i) => {
         const row = r.rows[i];
-        return `<section class="card question"><div class="row"><span class="pill">${esc(q.sourceTitle)}</span><span class="muted">${q.maximumMarks} marks · ${esc(q.type)}</span></div><h3>${q.sourceType === "original" ? i + 1 : esc(q.questionNumber)}. ${verbatimContent(q)}</h3>${q.sharedContent ? `<p class="source-stem">${esc(q.sharedContent).replaceAll("\n", "<br>")}</p>` : ""}${q.instructions ? `<p>${esc(q.instructions)}</p>` : ""}${(q.media || []).map((m) => m.role === "source-page" ? `<details><summary>View original source page</summary><img src="${esc(m.path)}" alt="${esc(m.alt)}" style="max-width:100%"></details>` : `<img src="${esc(m.path)}" alt="${esc(m.alt)}" style="max-width:100%">`).join("")}${q.sourcePdf ? `<p><a href="${esc(q.sourcePdf)}" target="_blank" rel="noopener">Open source paper PDF</a></p>` : ""}${q.passage ? `<blockquote>${esc(q.passage)}</blockquote>` : ""}${q.table ? `<table>${q.table.map((row) => `<tr>${row.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</table>` : ""}${answerInput(q)}${draft.submitted ? `<div class="feedback"><strong>${esc(row.status)} · ${row.earned}/${q.maximumMarks}</strong><p>Model answer: ${esc(typeof q.answerKey === "object" ? JSON.stringify(q.answerKey) : q.answerKey)}</p><p>${esc(q.markingGuide)}</p>${q.guideDiscrepancy ? `<p class="notice">${esc(q.guideDiscrepancy)}</p>` : ""}${q.answerGuidePdf ? `<p><a href="${esc(q.answerGuidePdf)}" target="_blank" rel="noopener">Original source marking guide</a></p>` : ""}${q.workedSolution ? `<p><strong>Worked solution</strong><br>${esc(q.workedSolution)}</p>` : ""}<small>${esc(q.solutionProvenance)} • ${esc(q.sourceReference)}</small>${!["mcq", "matching"].includes(q.type) && draft.answers[q.id]?.trim() ? `<label>Your earned marks (0–${q.maximumMarks}, steps of ${q.markIncrement})<input data-marks="${q.id}" type="number" min="0" max="${q.maximumMarks}" step="${q.markIncrement}" value="${draft.marks[q.id] ?? ""}"></label>` : ""}</div>` : ""}</section>`;
+        return `<section class="card question"><div class="row"><span class="pill">${esc(q.sourceTitle)}</span><span class="muted">${q.maximumMarks} marks · ${esc(q.type)}</span></div><h3>${q.sourceType === "original" ? i + 1 : esc(q.questionNumber)}. ${verbatimContent(q)}</h3>${q.sharedContent ? `<p class="source-stem">${esc(q.sharedContent).replaceAll("\n", "<br>")}</p>` : ""}${q.instructions ? `<p>${esc(q.instructions)}</p>` : ""}${(q.media || []).map((m) => m.role === "source-page" ? `<details><summary>View original source page</summary><img src="${esc(m.path)}" alt="${esc(m.alt)}" style="max-width:100%"></details>` : `<img src="${esc(m.path)}" alt="${esc(m.alt)}" style="max-width:100%">`).join("")}${q.sourcePdf ? `<p><a href="${esc(q.sourcePdf)}" target="_blank" rel="noopener">Open source paper PDF</a></p>` : ""}${q.passage ? `<blockquote>${esc(q.passage)}</blockquote>` : ""}${q.table ? `<table>${q.table.map((row) => `<tr>${row.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</table>` : ""}${sourceParts(q)}${answerInput(q)}${draft.submitted ? `<div class="feedback"><strong>${esc(row.status)} · ${row.earned}/${q.maximumMarks}</strong><p>Model answer: ${esc(displayAnswer(q))}</p><p>${esc(q.markingGuide)}</p>${q.guideDiscrepancy ? `<p class="notice">${esc(q.guideDiscrepancy)}</p>` : ""}${q.answerGuidePdf ? `<p><a href="${esc(q.answerGuidePdf)}" target="_blank" rel="noopener">Original source marking guide</a></p>` : ""}${q.workedSolution ? `<p><strong>Worked solution</strong><br>${esc(q.workedSolution)}</p>` : ""}<small>${esc(q.solutionProvenance)} • ${esc(q.sourceReference)}</small>${q.markFormatEvidence ? `<p><a href="${esc(q.markFormatEvidence.sourceUrl)}" target="_blank" rel="noopener">NECTA marking format, page ${q.markFormatEvidence.pdfPage}</a></p>` : ""}${guidedReview(q)}${!["mcq", "matching"].includes(q.type) && draft.answers[q.id]?.trim() ? `<label>Your earned marks (0–${q.maximumMarks}, steps of ${q.markIncrement})<input data-marks="${q.id}" type="number" min="0" max="${q.maximumMarks}" step="${q.markIncrement}" value="${draft.marks[q.id] ?? ""}"></label>` : ""}</div>` : ""}</section>`;
       })
       .join(
         "",
@@ -392,6 +428,34 @@ function exam() {
     await set("draft", draft);
     document.querySelector("#saved").textContent = "Saved on this device";
   }
+  document.querySelectorAll('[data-guided-review]').forEach(panel => {
+    const question = draft.questions.find(q => q.id === panel.dataset.guidedReview);
+    const log = panel.querySelector('.review-messages');
+    panel.addEventListener('click', event => {
+      const button = event.target.closest('[data-review-topic]');
+      if (!button) return;
+      const prompt = document.createElement('p');
+      prompt.textContent = button.textContent;
+      const reply = document.createElement('p');
+      const topic = button.dataset.reviewTopic;
+      const chapters = question.topicIds.map(lesson).filter(Boolean);
+      if (topic === 'revise' && chapters.length) {
+        for (const chapter of chapters) {
+          const anchor = document.createElement('a');
+          anchor.href = '#/lesson/' + chapter.id;
+          anchor.textContent = chapter.title;
+          reply.append(anchor, document.createElement('br'));
+        }
+      } else {
+        reply.textContent = topic === 'marking' ? question.markingGuide :
+          topic === 'revise' ? question.sourceReference :
+          [displayAnswer(question), question.workedSolution, question.guideDiscrepancy].filter(Boolean).join('\n\n');
+      }
+      const turn = document.createElement('div');
+      turn.append(prompt, reply);
+      log.append(turn);
+    });
+  });
   document.querySelectorAll('[data-drawing]').forEach(canvas => {
     const id = canvas.dataset.drawing, context = canvas.getContext('2d');
     context.lineWidth = 2.5; context.lineCap = 'round'; context.strokeStyle = '#142f28';

@@ -13,3 +13,5 @@ Not performed: real-browser drawing/pointer interaction, IndexedDB persistence/u
 The overall readiness gate remains failed for incomplete books/curriculum, genuine-bank targets and missing browser/Android/migration acceptance. Current test and build evidence validates this populated development milestone, not production completeness.
 
 Startup/access repair: six new tests cover Unicode streaming/progress, authentication responses, HTML sign-in responses, stalled network requests, unreachable/malformed data and storage timeouts without data deletion. Production DNS and authenticated critical-asset HTTP checks succeeded; these do not reproduce the user’s browser connection error. See ACCESS_DIAGNOSIS.md.
+
+Release 0.7.0 passed 66 automated tests. New checks cover alternate objective keys and preservation of the original parts under source-verified whole-question marks. The offline build includes 641 scored genuine records. The guided exam review remains unverified on a physical Android device.

@@ -23,19 +23,19 @@ Generated from published student data and locally available acquisition metadata
 - originalDiagrams: 10
 - candidatePaperURLsInvestigated: 360
 - candidatePaperDocumentsAcquired: 53
-- acquiredOfficialReferencePDFs: 11
+- acquiredOfficialReferencePDFs: 14
 - extractedPapers: 10
-- publishedPapers: 14
-- fullyPublishedPapers: 3
-- partiallyPublishedPaperSources: 11
-- authenticMainQuestions: 100
-- authenticAnswerableParts: 351
-- scoredQuestionsWithMarking: 3325
-- completeAuthenticTranscriptions: 13
-- transcribedAuthenticRecords: 446
-- heldAuthenticRecords: 154
-- automaticallyScoredAuthenticRecords: 85
-- authenticScoredRecords: 299
+- publishedPapers: 22
+- fullyPublishedPapers: 8
+- partiallyPublishedPaperSources: 14
+- authenticMainQuestions: 204
+- authenticAnswerableParts: 797
+- scoredQuestionsWithMarking: 3667
+- completeAuthenticTranscriptions: 21
+- transcribedAuthenticRecords: 751
+- heldAuthenticRecords: 66
+- automaticallyScoredAuthenticRecords: 183
+- authenticScoredRecords: 641
 
 | Form | Subject | Chapters | Textbook words¹ | Original questions | Distinct workbook tasks | Partially supported official activities |
 |---|---|---:|---:|---:|---:|---:|

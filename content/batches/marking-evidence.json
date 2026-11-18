@@ -1,0 +1,249 @@
+{
+  "status": "official main/item mark allocations found",
+  "checkedAt": "2026-11-17T02:09:08.550340+00:00",
+  "documents": [
+    {
+      "id": "d597d275776b22fd",
+      "sha256": "d597d275776b22fde545c8c63858119fd9a2a5f25c736d796fd4a2ce06ec220e",
+      "url": "https://www.necta.go.tz/publications/Approved%20Exam%20Formats/FTNA_FORMATS_2022.pdf",
+      "sourceTitle": "FTNA_FORMATS_2022.pdf",
+      "category": "assessment-format",
+      "acquiredAt": "2026-11-17T02:06:14.852563+00:00",
+      "pageCount": 111,
+      "sourcePage": "https://www.necta.go.tz/publications/all",
+      "listingFolder": "publications/Approved Exam Formats",
+      "issuer": "National Examinations Council of Tanzania",
+      "rightsStatus": "reference-only",
+      "rightsEvidence": {
+        "type": "public-official-source-read-for-verification",
+        "note": "Owner has confirmed examination-paper permission. Full format-booklet redistribution is not separately claimed; use concise citation/marking facts, retain complete PDF in acquisition."
+      },
+      "verificationStatus": "official-format-downloaded",
+      "publicationStatus": "reference-only"
+    },
+    {
+      "id": "ff084a887b018606",
+      "sha256": "ff084a887b018606b543eb5855cd7e0910d6cf62d13a8813b23a9df07d516f67",
+      "url": "https://www.necta.go.tz/publications/Approved%20Exam%20Formats/FTNA_FORMATS_FOR_GENERAL_EDUCATION.pdf",
+      "sourceTitle": "FTNA_FORMATS_FOR_GENERAL_EDUCATION.pdf",
+      "category": "assessment-format",
+      "acquiredAt": "2026-11-17T02:06:14.984728+00:00",
+      "pageCount": 87,
+      "sourcePage": "https://www.necta.go.tz/publications/all",
+      "listingFolder": "publications/Approved Exam Formats",
+      "issuer": "National Examinations Council of Tanzania",
+      "rightsStatus": "reference-only",
+      "rightsEvidence": {
+        "type": "public-official-source-read-for-verification",
+        "note": "Owner has confirmed examination-paper permission. Full format-booklet redistribution is not separately claimed; use concise citation/marking facts, retain complete PDF in acquisition."
+      },
+      "verificationStatus": "official-format-downloaded",
+      "publicationStatus": "reference-only"
+    },
+    {
+      "id": "b8e9c0cb1bc6bfd9",
+      "sha256": "b8e9c0cb1bc6bfd994240bfd3b96b9198d509dcd48be2ca03fde27dcd85138f5",
+      "url": "https://www.necta.go.tz/publications/Approved%20Exam%20Formats/FTNA_FORMARTS_VOCATIONAL_STREAM_2025.pdf",
+      "sourceTitle": "FTNA_FORMARTS_VOCATIONAL_STREAM_2025.pdf",
+      "category": "assessment-format",
+      "acquiredAt": "2026-11-17T02:06:19.218627+00:00",
+      "pageCount": 319,
+      "sourcePage": "https://www.necta.go.tz/publications/all",
+      "listingFolder": "publications/Approved Exam Formats",
+      "issuer": "National Examinations Council of Tanzania",
+      "rightsStatus": "reference-only",
+      "rightsEvidence": {
+        "type": "public-official-source-read-for-verification",
+        "note": "Owner has confirmed examination-paper permission. Full format-booklet redistribution is not separately claimed; use concise citation/marking facts, retain complete PDF in acquisition."
+      },
+      "verificationStatus": "official-format-downloaded",
+      "publicationStatus": "reference-only"
+    }
+  ],
+  "officialSourceDiscovery": {
+    "index": "https://www.necta.go.tz/publications/all",
+    "javascript": "https://www.necta.go.tz/js/necta_web.js?1730376796",
+    "publicListingEndpoint": "https://www.necta.go.tz/publications/list-files",
+    "listingFolder": "publications/Approved Exam Formats",
+    "method": "Normal public website folder navigation: page session/CSRF token, POST application/json {url: listingFolder}. No authentication or access controls bypassed.",
+    "brokenOldLink": "https://necta.go.tz/exam_formarts/FTNA.pdf"
+  },
+  "legacyEdition": {
+    "sourceId": "d597d275776b22fd",
+    "printedEdition": "Revised December 2021",
+    "filename": "FTNA_FORMATS_2022.pdf",
+    "effectiveFrom": 2022,
+    "effectiveEvidencePdfPage": 5,
+    "applicability": "Official foreword says effective from2022; 2025 legacy academic paper codes013/021/033 and 15/70/15 structure match. Do not apply the 2026 general or 2025 vocational stream retrospectively."
+  },
+  "subjects": [
+    {
+      "subjectId": "geography",
+      "subjectCode": "013",
+      "sourceId": "d597d275776b22fd",
+      "sourceUrl": "https://www.necta.go.tz/publications/Approved%20Exam%20Formats/FTNA_FORMATS_2022.pdf",
+      "sourceSha256": "d597d275776b22fde545c8c63858119fd9a2a5f25c736d796fd4a2ce06ec220e",
+      "pdfPage": 14,
+      "printedPage": 8,
+      "applicablePaperYear": 2025,
+      "assessment": "NECTA FTNA general/legacy academic stream",
+      "allocation": {
+        "question1": {
+          "kind": "mcq",
+          "items": 10,
+          "marksPerItem": 1,
+          "totalMarks": 10
+        },
+        "question2": {
+          "kind": "matching",
+          "items": 5,
+          "marksPerItem": 1,
+          "totalMarks": 5
+        },
+        "questions3to9": {
+          "kind": "short-answer",
+          "mainQuestions": 7,
+          "marksPerMainQuestion": 10,
+          "totalMarks": 70,
+          "subpartWeights": "not specified by format"
+        },
+        "question10": {
+          "kind": "essay",
+          "totalMarks": 15
+        },
+        "paperTotal": 100
+      },
+      "verification": "Downloaded from NECTA official Approved Exam Formats listing; cited allocation page inspected visually. Printed 2025 paper cover and subject code/section totals compared with the matching format."
+    },
+    {
+      "subjectId": "kiswahili",
+      "subjectCode": "021",
+      "sourceId": "d597d275776b22fd",
+      "sourceUrl": "https://www.necta.go.tz/publications/Approved%20Exam%20Formats/FTNA_FORMATS_2022.pdf",
+      "sourceSha256": "d597d275776b22fde545c8c63858119fd9a2a5f25c736d796fd4a2ce06ec220e",
+      "pdfPage": 35,
+      "printedPage": 29,
+      "applicablePaperYear": 2025,
+      "assessment": "NECTA FTNA general/legacy academic stream",
+      "allocation": {
+        "question1": {
+          "kind": "mcq",
+          "items": 10,
+          "marksPerItem": 1,
+          "totalMarks": 10
+        },
+        "question2": {
+          "kind": "matching",
+          "items": 5,
+          "marksPerItem": 1,
+          "totalMarks": 5
+        },
+        "questions3to9": {
+          "kind": "short-answer",
+          "mainQuestions": 7,
+          "marksPerMainQuestion": 10,
+          "totalMarks": 70,
+          "subpartWeights": "not specified by format"
+        },
+        "question10": {
+          "kind": "essay",
+          "totalMarks": 15
+        },
+        "paperTotal": 100
+      },
+      "verification": "Downloaded from NECTA official Approved Exam Formats listing; cited allocation page inspected visually. Printed 2025 paper cover and subject code/section totals compared with the matching format."
+    },
+    {
+      "subjectId": "biology",
+      "subjectCode": "033",
+      "sourceId": "d597d275776b22fd",
+      "sourceUrl": "https://www.necta.go.tz/publications/Approved%20Exam%20Formats/FTNA_FORMATS_2022.pdf",
+      "sourceSha256": "d597d275776b22fde545c8c63858119fd9a2a5f25c736d796fd4a2ce06ec220e",
+      "pdfPage": 56,
+      "printedPage": 50,
+      "applicablePaperYear": 2025,
+      "assessment": "NECTA FTNA general/legacy academic stream",
+      "allocation": {
+        "question1": {
+          "kind": "mcq",
+          "items": 10,
+          "marksPerItem": 1,
+          "totalMarks": 10
+        },
+        "question2": {
+          "kind": "matching",
+          "items": 5,
+          "marksPerItem": 1,
+          "totalMarks": 5
+        },
+        "questions3to9": {
+          "kind": "short-answer",
+          "mainQuestions": 7,
+          "marksPerMainQuestion": 10,
+          "totalMarks": 70,
+          "subpartWeights": "not specified by format"
+        },
+        "question10": {
+          "kind": "essay",
+          "totalMarks": 15
+        },
+        "paperTotal": 100
+      },
+      "verification": "Downloaded from NECTA official Approved Exam Formats listing; cited allocation page inspected visually. Printed 2025 paper cover and subject code/section totals compared with the matching format."
+    }
+  ],
+  "briefSourceQuotes": [
+    {
+      "subjectId": "geography",
+      "pdfPage": 14,
+      "quote": "Section B will consist of seven (7) short answer questions, each question carrying 10 marks."
+    },
+    {
+      "subjectId": "kiswahili",
+      "pdfPage": 35,
+      "quote": "kila swali litakuwa na alama 10."
+    },
+    {
+      "subjectId": "biology",
+      "pdfPage": 56,
+      "quote": "Each item will carry one (1) mark, making a total of 10 marks."
+    }
+  ],
+  "recommendedIntegration": {
+    "mcqs": "Publish each unchanged Q1(i–x) at verified source1mark after independent answer checks.",
+    "matching": "Publish whole Q2matching record with5pairs at1mark perpair, maximum5.",
+    "sectionB": "Score each complete original mainquestion Q3–Q9 at source10marks. Preserve every exact part label, content, shared stem, passage, table, original diagram and part ID inside the main record. Keep genuine original ambiguity separate from now-resolved mark evidence.",
+    "subpartRule": "No official subpart weights were found. Do not mark arbitrary internal splits as official. A clearly independent whole-main self-assessment rubric may sum to verified source10; alternatively retain unscored individual subpart drafts until actual marking scheme found.",
+    "questionText": "No original examination text was changed by this research."
+  },
+  "newCurriculumEvidence": {
+    "sourceId": "ff084a887b018606",
+    "sourceUrl": "https://www.necta.go.tz/publications/Approved%20Exam%20Formats/FTNA_FORMATS_FOR_GENERAL_EDUCATION.pdf",
+    "sourceSha256": "ff084a887b018606b543eb5855cd7e0910d6cf62d13a8813b23a9df07d516f67",
+    "printedEdition": "May2026",
+    "forewordPdfPage": 5,
+    "assessmentEffectiveFrom": 2026,
+    "syllabiEdition": 2023,
+    "syllabiEffectiveFrom": 2025,
+    "stream": "General Education",
+    "subjectCodes": {
+      "chemistry": "032",
+      "physics": "031",
+      "biology": "033",
+      "mathematics": "043",
+      "kiswahili": "021",
+      "geography": "013",
+      "business": "065",
+      "historia": "060",
+      "english": "022"
+    },
+    "interpretation": "Strong official assessment evidence for the intended general-education student progressing to FormTwo in2027. Does not independently prove all detailed subtopic coverage or every school cohort implementation date."
+  },
+  "vocationalEvidence": {
+    "sourceId": "b8e9c0cb1bc6bfd9",
+    "printedEdition": "September2025",
+    "stream": "Vocational",
+    "mustNotSubstituteForGeneral": true
+  },
+  "redistribution": "Full official-format PDFs remain in the acquisition workspace. Short bibliographic/marking-fact citations may be integrated; no unsupported full-format redistribution permission is asserted."
+}

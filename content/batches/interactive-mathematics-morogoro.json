@@ -1,0 +1,1775 @@
+{
+  "paper": {
+    "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+    "title": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+    "form": 1,
+    "subjectId": "mathematics",
+    "sourceType": "district",
+    "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+    "year": 2025,
+    "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+    "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+    "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+    "sourceDocumentId": "source-8d6cdce416f1dfcd",
+    "sourceInstructions": [
+      "This paper consists of one section with a total of ten (10) questions.",
+      "Answer all questions.",
+      "All answers must be written in the spaces provided."
+    ],
+    "questionIds": [
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q1-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q1-b-i",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q1-b-ii",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q2-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q2-b-i",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q2-b-ii",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-b-i",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-b-ii",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q4-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q4-b",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-a-i",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-a-ii",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-b-i",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-b-ii",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q6-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-b",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q8-a-ii",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q8-b",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q9-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q9-b",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q10"
+    ],
+    "allTranscribedQuestionIds": [
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q1-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q1-b-i",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q1-b-ii",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q2-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q2-b-i",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q2-b-ii",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-b-i",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-b-ii",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q4-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q4-b",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-a-i",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-a-ii",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-b-i",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-b-ii",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q6-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q6-b",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-b",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q8-a-i",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q8-a-ii",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q8-b",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q9-a",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q9-b",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q10"
+    ],
+    "draftQuestionIds": [
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q6-b",
+      "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q8-a-i"
+    ],
+    "sourceMainQuestionCount": 10,
+    "sourceMaximumMarks": 100,
+    "maximumMarks": 93,
+    "completePaper": false,
+    "completeScoredPaper": false,
+    "transcriptionComplete": true,
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "verificationScope": "All ten main questions completely transcribed from every source page; publication excludes held defective/ambiguous parts.",
+    "publicationStatus": "published",
+    "publicationScope": "selected-questions",
+    "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+    "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+    "excludedQuestions": [
+      {
+        "number": "6(b)",
+        "reason": "The source calls side ratio4:2:1 a triangle. Its implied side lengths violate the triangle inequality. The unchanged source is retained but not scored as a valid triangle problem."
+      },
+      {
+        "number": "8(a)(i)",
+        "reason": "“The difference between” does not uniquely state which number is larger. Guide assumes24−n=8, but the unchanged source also permits n−24=8. No unique source-intended answer is asserted."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q1-a",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-recurring-decimal-prefix"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-recurring-decimal-prefix"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "1(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q1-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Convert recurring decimal into fraction 0.83̇",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 1: 4 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Let x=0.8333…. Then 10x=8.3333…. Subtract x:9x=7.5; x=7.5/9=5/6.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct repeated part and shifted equation:2; subtraction and simplification to5/6:2.",
+      "workedSolution": "Let x=0.8333…. Then 10x=8.3333…. Subtract x:9x=7.5; x=7.5/9=5/6.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q1-b-i",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "1(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q1-b-i",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Evaluate each of the following expression",
+      "content": "|−5| − |−3| + 4(−2)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 1: 3 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "5−3−8=−6.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Absolute values:1; product−8:1; final−6:1.",
+      "workedSolution": "5−3−8=−6.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q1-b-ii",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "1(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q1-b-ii",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Evaluate each of the following expression",
+      "content": "|2 1/2 × 7/8 ÷ (−3 3/4)|",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 1, 2: 3 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "|(5/2)×(7/8)÷(−15/4)|=|−7/12|=7/12.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct mixed-number conversions:1; product/division:1; absolute value7/12:1.",
+      "workedSolution": "|(5/2)×(7/8)÷(−15/4)|=|−7/12|=7/12.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        1,
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q2-a",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "2(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q2-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Neema bought a land for Tsh 2,562,000/= and made a profit of Tsh 1,225,000 after selling it. How much did she sell the land?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 2: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Selling price=2,562,000+1,225,000=Tsh3,787,000.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Selling price equals cost plus profit:2; accurate addition:2; correct money amount/units:1.",
+      "workedSolution": "Selling price=2,562,000+1,225,000=Tsh3,787,000.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide heading mistypes the cost as2,563,000 but its working uses the original paper value2,562,000 and reaches3,787,000. The unchanged original value controls."
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q2-b-i",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "2(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q2-b-i",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Represent −4 ≤ X < 2 1/2 on a number line where “x” is a real number.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 2: 3 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Shade the interval[−4,2.5), with closed endpoint−4 and open endpoint2.5.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct endpoint locations and scale:1; closed−4/open2.5:1; correct interval shading:1.",
+      "workedSolution": "Shade the interval[−4,2.5), with closed endpoint−4 and open endpoint2.5.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q2-b-ii",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "2(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q2-b-ii",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Represent 3/4 on a numberline",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 2: 2 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Mark0.75, three quarters of the way from0 to1 on a consistently scaled number line.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Consistent scale:1; correct marked point3/4:1.",
+      "workedSolution": "Mark0.75, three quarters of the way from0 to1 on a consistently scaled number line.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "3(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Round of each of the following according to the instruction given",
+      "content": "(i) 63,504 to the nearest hundreds\n(ii) 35.6 to the nearest ones\n(iii) 3.2743 to the nearest hundredths\n(iv) 0.97381 to three decimal places\n(v) 38,176 to one (1) significant figure",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-003.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 3; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 2, 3: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "(i)63,500;(ii)36;(iii)3.27;(iv)0.974;(v)40,000.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. One mark for each correct rounded value.",
+      "workedSolution": "(i)63,500;(ii)36;(iii)3.27;(iv)0.974;(v)40,000.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        2,
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide labels part(i)“nearest one” but produces63,500, consistent with the paper’s unchanged“nearest hundreds”.",
+      "subquestions": [
+        {
+          "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a-part-1",
+          "label": "i",
+          "content": "63,504 to the nearest hundreds",
+          "parentQuestionId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a"
+        },
+        {
+          "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a-part-2",
+          "label": "ii",
+          "content": "35.6 to the nearest ones",
+          "parentQuestionId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a"
+        },
+        {
+          "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a-part-3",
+          "label": "iii",
+          "content": "3.2743 to the nearest hundredths",
+          "parentQuestionId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a"
+        },
+        {
+          "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a-part-4",
+          "label": "iv",
+          "content": "0.97381 to three decimal places",
+          "parentQuestionId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a"
+        },
+        {
+          "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a-part-5",
+          "label": "v",
+          "content": "38,176 to one (1) significant figure",
+          "parentQuestionId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-a"
+        }
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-b-i",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "3(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-b-i",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "The population of children under the age of fifteen years in a certain country in 2002 it was 5,267,910. Round off the population to the nearest.",
+      "content": "Millions",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-003.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 3; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 3: 2 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "5,000,000.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Identify millions place and relevant next digit:1; round to5,000,000:1.",
+      "workedSolution": "5,000,000.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-b-ii",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "3(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q3-b-ii",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "The population of children under the age of fifteen years in a certain country in 2002 it was 5,267,910. Round off the population to the nearest.",
+      "content": "Thousands",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-003.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 3; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 3: 3 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "5,268,000.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Identify thousands place:1; use910 to round upwards:1; result5,268,000:1.",
+      "workedSolution": "5,268,000.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q4-a",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "4(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q4-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Estimate the value of (58.34 × 109.8)/(2.23 × 47.56)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-003.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 3; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 3: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "One source-guide method:58×110/(2×48)=6380/96≈66.46≈66. Other consistent justified approximations are acceptable because no approximation precision is specified.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. State a consistent approximation method:2; correct arithmetic with the approximated values:2; reasonable estimate and interpretation:1. Accept other defensible estimates with shown method; do not demand an unspecified rounding convention.",
+      "workedSolution": "One source-guide method:58×110/(2×48)=6380/96≈66.46≈66. Other consistent justified approximations are acceptable because no approximation precision is specified.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The original specifies no rounding rule for estimation. The guide’s approximately66 is one possible method, not the exact quotient or a uniquely mandated estimate."
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q4-b",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "4(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q4-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "The population of four towns are 88,000, 22,000, 75,000 and 15,600. Estimate the total population to the nearest thousands.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-003.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 3; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 3: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "88,000+22,000+75,000+15,600=200,600; nearest thousand=201,000.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct addition:3; correct thousand-rounding and answer201,000:2.",
+      "workedSolution": "88,000+22,000+75,000+15,600=200,600; nearest thousand=201,000.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-a-i",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "5(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-a-i",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Simplify 160:96 in its lowest form",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-003.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 3; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 3: 2 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "160:96=5:3, dividing both terms by32.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Common-factor division:1; lowest ratio5:3:1.",
+      "workedSolution": "160:96=5:3, dividing both terms by32.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-a-ii",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "5(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-a-ii",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Given a: b = 1: 2 and b: c = 3: 5, find a: b: c and a: c.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-004.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 4; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 4: 3 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "a:b:c=3:6:10; a:c=3:10.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Match the b terms:1; combined ratio3:6:10:1; a:c=3:10:1.",
+      "workedSolution": "a:b:c=3:6:10; a:c=3:10.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-b-i",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "5(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-b-i",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "The ratio of men, women and children living at Kasisi village is 9:5:4. If there are 360,000 people in the village.",
+      "content": "How many men are in the village?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-004.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 4; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 4: 2 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Total ratio18; men=(9/18)×360,000=180,000.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct fraction9/18:1;180,000 men:1.",
+      "workedSolution": "Total ratio18; men=(9/18)×360,000=180,000.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-b-ii",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "5(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q5-b-ii",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "The ratio of men, women and children living at Kasisi village is 9:5:4. If there are 360,000 people in the village.",
+      "content": "Find the total number of women and children in the village",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-004.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 4; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 4: 3 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Women=(5/18)×360,000=100,000; children=(4/18)×360,000=80,000; total180,000.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Women100,000:1; children80,000:1; total180,000:1.",
+      "workedSolution": "Women=(5/18)×360,000=100,000; children=(4/18)×360,000=80,000; total180,000.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q6-a",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "6(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q6-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "A special cereal mixture contains rice, wheat and corn in the ratio 2:3:5 respectively. If a bag of the mixture contains 3 kilograms of rice. How much corn does it contain?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-004.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 4; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 4: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Two ratio shares=3kg; one share=1.5kg; corn=5shares=7.5kg.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct rice-to-corn ratio2:5:2; proportional calculation:2;7.5kg with units:1.",
+      "workedSolution": "Two ratio shares=3kg; one share=1.5kg; corn=5shares=7.5kg.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q6-b",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "6(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q6-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "In a triangle the ratio of the sides is 4:2:1. If the perimeter of the triangle is 49 cm. Find,",
+      "content": "(i) The length of the largest side\n(ii) The length of the smallest side",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-004.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 4; original figures and printed notation retained.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-005.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 5; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 5: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Formal ratio arithmetic gives28cm,14cm,7cm; these cannot form a triangle because14+7<28. The source premise is inconsistent.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Held: no legitimate triangle satisfies the exact stated side ratio; source-author clarification is needed.",
+      "workedSolution": "Formal ratio arithmetic gives28cm,14cm,7cm; these cannot form a triangle because14+7<28. The source premise is inconsistent.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        4,
+        5
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The source calls side ratio4:2:1 a triangle. Its implied side lengths violate the triangle inequality. The unchanged source is retained but not scored as a valid triangle problem.",
+      "subquestions": [
+        {
+          "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q6-b-part-1",
+          "label": "i",
+          "content": "The length of the largest side",
+          "parentQuestionId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q6-b"
+        },
+        {
+          "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q6-b-part-2",
+          "label": "ii",
+          "content": "The length of the smallest side",
+          "parentQuestionId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q6-b"
+        }
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-a",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "7(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "If the four angles of quadrilateral are given in degrees as (4x − 20°), (3x + 40°), (3x + 50°) and (x + 30°). Find the value of x",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-005.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 5; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 5: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "(4x−20)+(3x+40)+(3x+50)+(x+30)=360;11x+100=360; x=260/11≈23.63636.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct360° angle sum:1; correct sum11x+100:1; equation:1; solve260/11:1; valid checking/working:1.",
+      "workedSolution": "(4x−20)+(3x+40)+(3x+50)+(x+30)=360;11x+100=360; x=260/11≈23.63636.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The source guide incorrectly equates the angle sum to0 and obtains a negative x. The independently verified solution uses the quadrilateral sum360°, without altering any question wording or values."
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-b",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "7(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Simplify 8m²n − 6a²c + 14 − 4m²n + 3a²c − 8 and then state",
+      "content": "(i) The coefficient of m²n\n(ii) The number of terms\n(iii) The constant term",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-005.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 5; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 5: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Simplified expression4m²n−3a²c+6; coefficient of m²n=4; number of terms3; constant6.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct simplified expression:2; each of the three requested properties:1.",
+      "workedSolution": "Simplified expression4m²n−3a²c+6; coefficient of m²n=4; number of terms3; constant6.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "subquestions": [
+        {
+          "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-b-part-1",
+          "label": "i",
+          "content": "The coefficient of m²n",
+          "parentQuestionId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-b"
+        },
+        {
+          "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-b-part-2",
+          "label": "ii",
+          "content": "The number of terms",
+          "parentQuestionId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-b"
+        },
+        {
+          "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-b-part-3",
+          "label": "iii",
+          "content": "The constant term",
+          "parentQuestionId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q7-b"
+        }
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q8-a-i",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "8(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q8-a-i",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "The difference between 24 and another number is 8. Form a linear equation connecting the numbers and then find the value of such another number.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-005.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 5; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 6: 2 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "24−n=8 gives n=16; n−24=8 gives n=32. The source does not specify the order of subtraction.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Held for source clarification of subtraction order.",
+      "workedSolution": "24−n=8 gives n=16; n−24=8 gives n=32. The source does not specify the order of subtraction.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        6
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "“The difference between” does not uniquely state which number is larger. Guide assumes24−n=8, but the unchanged source also permits n−24=8. No unique source-intended answer is asserted."
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q8-a-ii",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "8(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q8-a-ii",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Find the value of “x” that satisfied the equation x − 8 = 16 − 2x",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-006.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 6; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 6: 3 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "3x=24, hence x=8.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Collect like terms:1;3x=24:1; x=8:1.",
+      "workedSolution": "3x=24, hence x=8.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        6
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q8-b",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "8(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q8-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Find the value of “x” and “y” in the following linear simultaneous equation.\n6x + y = 15\n3x + y = 9",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-006.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 6; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 6: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Subtract equations:3x=6, x=2; then3(2)+y=9, so y=3.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct elimination:2; x=2:1; substitution and y=3:2.",
+      "workedSolution": "Subtract equations:3x=6, x=2; then3(2)+y=9, so y=3.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        6
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q9-a",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "9(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q9-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "The sum of the ages of a father and his daughter is 60 years. If father’s age is five times the age of his daughter. Find their ages.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-006.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 6; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 7: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Let daughter d and father5d.6d=60, d=10; father50years.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct two relations:2; solve daughter10:1; father50:1; check sum/ratio and age units:1.",
+      "workedSolution": "Let daughter d and father5d.6d=60, d=10; father50years.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        7
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q9-b",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "9(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q9-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Find the solution of |2x − 4| ≤ 5 and represent it on a numberline.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-006.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 6; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 7: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "−5≤2x−4≤5;−1≤2x≤9;−1/2≤x≤9/2. Shade the interval[−0.5,4.5] with closed endpoints.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct two-sided inequality:1; algebraic interval:2; scaled number line and closed endpoints:2.",
+      "workedSolution": "−5≤2x−4≤5;−1≤2x≤9;−1/2≤x≤9/2. Shade the interval[−0.5,4.5] with closed endpoints.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        7
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Some intermediate inequality signs and endpoint positions in the guide are inconsistent. The independent solution preserves the printed |2x−4|≤5 and gives the exact interval[−0.5,4.5].",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    },
+    {
+      "id": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q10",
+      "paperId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Basic Mathematics • Form One Terminal Joint Examination • May2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "10",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-mathematics-8d6cdce416f1dfcd-q10",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Why do you think learning mathematics is important in our daily life (5 points)",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-8d6cdce416f1dfcd/page-006.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 6; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 10,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 8: 10 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Five explained uses may include managing time, planning finances, solving practical problems, interpreting data for decisions and calculating prices/savings. Accept other accurate explained everyday uses.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Two marks for each of five distinct relevant, explained points; accept equivalent correct responses.",
+      "workedSolution": "Five explained uses may include managing time, planning finances, solving practical problems, interpreting data for decisions and calculating prices/savings. Accept other accurate explained everyday uses.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1a0pa_jrZU8j0W7UUSH8-FidTMlM12DXe",
+      "sourcePdf": "/source-papers/source-8d6cdce416f1dfcd/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "8d6cdce416f1dfcd576b44757b2399454a789d8b3c41ef6a7d6ce90dd5d353b2",
+      "sourceDocumentId": "source-8d6cdce416f1dfcd",
+      "answerGuidePdf": "/source-papers/guide-bcef6c63bdd4359b/original.pdf",
+      "answerGuideSha256": "bcef6c63bdd4359b21120b5c3d88bff8c7fc606f9a6531fc6cbe936b60f485cf",
+      "answerGuidePages": [
+        8
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    }
+  ],
+  "verificationNotes": [
+    "All6paper pages and8sourceguide pages inspected visually.",
+    "Original source figures/notational layout remain available in unchanged fullpage images; linear fractions/superscripts transcribe their mathematical content.",
+    "Q6(b) invalid triangle premise andQ8(a)(i) unordered-difference ambiguity remain held.",
+    "Q7(a) independent correction uses360° rather than the guide’s erroneous0°."
+  ]
+}

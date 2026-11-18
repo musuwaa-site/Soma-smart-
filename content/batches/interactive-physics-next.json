@@ -1,0 +1,3068 @@
+{
+  "paper": {
+    "id": "morogoro-f1-2025-physics-fdf35496ef2658db",
+    "title": "Morogoro Municipal Council • Physics • Form One • May 2025",
+    "form": 1,
+    "subjectId": "physics",
+    "sourceType": "district",
+    "institution": "MOROGORO MUNICIPAL COUNCIL (printed cover)",
+    "year": 2025,
+    "sourceDocumentId": "source-fdf35496ef2658db",
+    "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+    "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+    "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+    "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+    "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "publicationStatus": "published",
+    "publicationScope": "selected-questions",
+    "completePaper": false,
+    "completeScoredPaper": false,
+    "transcriptionComplete": true,
+    "sourceMainQuestionCount": 10,
+    "sourceMaximumMarks": 100,
+    "maximumMarks": 76,
+    "questionIds": [
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-i",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-ii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-iv",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-v",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-vi",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-vii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-viii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-x",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q2",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q3-a",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q3-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q3-c",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q4-a",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q4-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q4-c",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q5-a-i",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q5-a-ii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q5-b-i",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q5-b-ii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q5-c",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q6-a",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q6-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q7-a",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q7-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q7-c-i",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q7-c-ii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q10-a",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q10-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q10-c",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q10-d"
+    ],
+    "allTranscribedQuestionIds": [
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-i",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-ii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-iii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-iv",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-v",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-vi",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-vii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-viii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-ix",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-x",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q2",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q3-a",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q3-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q3-c",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q4-a",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q4-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q4-c",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q5-a-i",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q5-a-ii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q5-b-i",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q5-b-ii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q5-c",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q6-a",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q6-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q7-a",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q7-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q7-c-i",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q7-c-ii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q8-a",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q8-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q8-c",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q8-d-i",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q8-d-ii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-i",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-ii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-ii-energy",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-iv",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-v",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q9-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q10-a",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q10-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q10-c",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q10-d"
+    ],
+    "draftQuestionIds": [
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-iii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q1-ix",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q8-a",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q8-b",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q8-c",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q8-d-i",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q8-d-ii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-i",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-ii",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-ii-energy",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-iv",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-v",
+      "morogoro-f1-2025-physics-fdf35496ef2658db-q9-b"
+    ],
+    "sourceInstructions": [
+      "This paper consists of sections A, B and C with a total of ten (10) questions.",
+      "Answer all questions in the space provided.",
+      "Section A carries fifteen (15) marks, section B seventy (70) marks and section C carries fifteen (15) marks.",
+      "Where necessary the following constants may be used",
+      "Acceleration due to gravity, g =10m/s²",
+      "Density of water, ρ =1.0g/cm³ or 1000km/m³",
+      "Pie, π = 3.14"
+    ],
+    "verificationScope": "Complete unchanged question transcription; only source-supported scoring admitted.",
+    "excludedQuestions": [
+      {
+        "number": "1(iii)",
+        "reason": "The original page supplies no referenced density figures or measurement data. The guide gives A but its value cannot be established from the unchanged source."
+      },
+      {
+        "number": "1(ix)",
+        "reason": "The correct scientific response is rejection or revision of the unsupported hypothesis, but none of the printed options expresses it. The guide gives A; no original option can be reliably scored as correct."
+      },
+      {
+        "number": "8(a)",
+        "reason": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+      },
+      {
+        "number": "8(b)",
+        "reason": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+      },
+      {
+        "number": "8(c)",
+        "reason": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+      },
+      {
+        "number": "8(d)(i)",
+        "reason": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+      },
+      {
+        "number": "8(d)(ii)",
+        "reason": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+      },
+      {
+        "number": "9(a)(i)",
+        "reason": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+      },
+      {
+        "number": "9(a)(ii)",
+        "reason": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+      },
+      {
+        "number": "9(a)(ii)",
+        "reason": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests. The source repeats(ii) for Energy and contains an empty(iii) line; these labels are not silently renumbered."
+      },
+      {
+        "number": "9(a)(iv)",
+        "reason": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+      },
+      {
+        "number": "9(a)(v)",
+        "reason": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+      },
+      {
+        "number": "9(b)",
+        "reason": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q1-i",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-1-i",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)-(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer sheet provided.",
+      "content": "How does studying physics contribute to our understanding of the natural world and the universe?",
+      "options": [
+        "Physics is not related to the study of the natural world and the universe",
+        "Physics helps us to understand the behavior of matter and energy, from the subatomic particles to celestial bodies",
+        "Physics only deals with artificial and human made systems.",
+        "Physics is not essential for understanding the natural world and the universe"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-003.jpg",
+          "alt": "Complete unchanged original physics paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Physics helps us to understand the behavior of matter and energy, from the subatomic particles to celestial bodies",
+      "markingGuide": "Source guide: one mark for a correct answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q1-ii",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-1-ii",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)-(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer sheet provided.",
+      "content": "Michael, a form one student observed a carpenter who was taking measurement by using a meter rule. What is the shortest length that can be measured by this device?",
+      "options": [
+        "0.1mm,",
+        "1.0mm,",
+        "10mm,",
+        "100mm."
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-003.jpg",
+          "alt": "Complete unchanged original physics paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "1.0mm,",
+      "markingGuide": "Source guide: one mark for a correct answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q1-iii",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(iii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-1-iii",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)-(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer sheet provided.",
+      "content": "Which is the density of liquid in figures below?",
+      "options": [
+        "0.7g/cm³",
+        "2.9g/cm³",
+        "8g/cm³",
+        "10g/cm³"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-003.jpg",
+          "alt": "Complete unchanged original physics paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "0.7g/cm³",
+      "markingGuide": "Source guide: one mark for a correct answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "guideDiscrepancy": "The original page supplies no referenced density figures or measurement data. The guide gives A but its value cannot be established from the unchanged source.",
+      "sourceIssue": "The original page supplies no referenced density figures or measurement data. The guide gives A but its value cannot be established from the unchanged source."
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q1-iv",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(iv)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-1-iv",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)-(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer sheet provided.",
+      "content": "Physics is the fundamental branch of science, because the knowledge obtained in physics in studying physics is strongly connected to the other branches of science. Which of the following statements describes how physics is connected to the other disciplines like chemistry and biology?",
+      "options": [
+        "Physics studies the properties of matter and energy , which are fundamental to all sciences",
+        "Physics focuses solely on celestial bodies and space exploration",
+        "Physics deals with the human mind and cognitive processes",
+        "Physics has many application in medical fields"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-003.jpg",
+          "alt": "Complete unchanged original physics paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Physics studies the properties of matter and energy , which are fundamental to all sciences",
+      "markingGuide": "Source guide: one mark for a correct answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q1-v",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(v)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-1-v",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)-(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer sheet provided.",
+      "content": "A falling object is pulled down by the earth and the earth is pulled up towards the object. Why doesn’t the earth move?",
+      "options": [
+        "the earth has only gravit",
+        "the earth has a very larger mass and small acceleration",
+        "Because the earth has very small mass and very larger acceleration.",
+        "The object moves faster than the earth"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-003.jpg",
+          "alt": "Complete unchanged original physics paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "the earth has a very larger mass and small acceleration",
+      "markingGuide": "Accept B. Under the mutual gravitational force the Earth does move in principle, but its huge mass makes its acceleration unobservably small at this scale. The independent clarification does not change the printed option or prompt.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "guideDiscrepancy": "The wording says Earth does not move; physically its acceleration is very small rather than exactly zero. B remains the unambiguous best printed option."
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q1-vi",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(vi)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-1-vi",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)-(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer sheet provided.",
+      "content": "Which of the following instruments is most suitable for measuring the internal diameter of 50ml beaker?",
+      "options": [
+        "Meter rule",
+        "vernier caliper",
+        "measuring cylinder",
+        "micrometer screw gauge"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-003.jpg",
+          "alt": "Complete unchanged original physics paper page 3.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "vernier caliper",
+      "markingGuide": "Source guide: one mark for a correct answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q1-vii",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "subtopicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(vii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-1-vii",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)-(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer sheet provided.",
+      "content": "The reason why boat floats on water while a nail made of iron sinks is that?",
+      "options": [
+        "Density of boat is larger than that of water",
+        "Density of boat is less than that of water",
+        "Upthrust of water is less than that of water",
+        "Mass of boat is larger than that of water"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-004.jpg",
+          "alt": "Complete unchanged original physics paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Density of boat is less than that of water",
+      "markingGuide": "Source guide: one mark for a correct answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q1-viii",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "subtopicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(viii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-1-viii",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)-(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer sheet provided.",
+      "content": "A form one student was given three containers containing different liquids . He was also given different devices to use in measuring their densities. Which is the best instrument to be used?",
+      "options": [
+        "Hygrometer",
+        "barometer",
+        "hydrometer",
+        "Manometer"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-004.jpg",
+          "alt": "Complete unchanged original physics paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "hydrometer",
+      "markingGuide": "Source guide: one mark for a correct answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q1-ix",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(ix)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-1-ix",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)-(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer sheet provided.",
+      "content": "When a larger body of experimental evidence doesn’t support a hypothesis, what may hypothesis eventually it be considered?",
+      "options": [
+        "Observation",
+        "Insight",
+        "Conclusion",
+        "Law"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-004.jpg",
+          "alt": "Complete unchanged original physics paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Observation",
+      "markingGuide": "Source guide: one mark for a correct answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "guideDiscrepancy": "The correct scientific response is rejection or revision of the unsupported hypothesis, but none of the printed options expresses it. The guide gives A; no original option can be reliably scored as correct.",
+      "sourceIssue": "The correct scientific response is rejection or revision of the unsupported hypothesis, but none of the printed options expresses it. The guide gives A; no original option can be reliably scored as correct."
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q1-x",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "subtopicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "1(x)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-1-x",
+      "type": "mcq",
+      "instructions": "",
+      "sharedContent": "For each of the items (i)-(x) choose the correct answer from the given alternatives and write its letter beside the item number in the answer sheet provided.",
+      "content": "The upthrust of a liquid can also be termed as",
+      "options": [
+        "Apparent weight",
+        "Real weight",
+        "Apparent loss in weight",
+        "Downward force"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-004.jpg",
+          "alt": "Complete unchanged original physics paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": "Apparent loss in weight",
+      "markingGuide": "Source guide: one mark for a correct answer.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q2",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "2",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-2",
+      "type": "matching",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Match the items in list A with the correct response in list B. (5marks)",
+      "options": [
+        "A) Hygrometer",
+        "B) Measuring cylinder",
+        "C) Thermometer",
+        "D) Spring balance",
+        "E) Density bottle",
+        "F) Beam balance",
+        "G) Manometer",
+        "H) Ammeter"
+      ],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-004.jpg",
+          "alt": "Complete unchanged original physics paper page 4.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Source one-mark objective item",
+      "answerKey": {
+        "i": "F) Beam balance",
+        "ii": "E) Density bottle",
+        "iii": "D) Spring balance",
+        "iv": "C) Thermometer",
+        "v": "B) Measuring cylinder"
+      },
+      "markingGuide": "Source guide: one mark for each correct match, total5.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "pairs": [
+        {
+          "id": "i",
+          "left": "An instrument that measure mass"
+        },
+        {
+          "id": "ii",
+          "left": "An instrument that measures R.D of liquid"
+        },
+        {
+          "id": "iii",
+          "left": "An instrument that measure force of pull"
+        },
+        {
+          "id": "iv",
+          "left": "An instrument that measures human body temperature"
+        },
+        {
+          "id": "v",
+          "left": "An instrument for measuring volume of liquid"
+        }
+      ]
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q3-a",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "3(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-3",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Define the term Physics",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-005.jpg",
+          "alt": "Complete unchanged original physics paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Physics is the science of matter and energy and their interactions.",
+      "markingGuide": "Source guide2marks. Accurate matter-and-energy definition earns full credit.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q3-b",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "3(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-3",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Why do we study physics (four points)\ni) __________________\nii) __________________\niii) __________________\niv) __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-005.jpg",
+          "alt": "Complete unchanged original physics paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "To understand natural/physical phenomena; acquire skills used in professions such as engineering; design and manufacture useful devices; understand and use technologies such as musical instruments.",
+      "markingGuide": "Source guide: one mark each for four valid reasons.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q3-c",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "3(c)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-3",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Briefly explain where we can apply the knowledge of physics (four points)\ni) __________________\nii) __________________\niii) __________________\niv) __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-005.jpg",
+          "alt": "Complete unchanged original physics paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [2]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "At home through tools/machines; in medicine through X-rays or ultrasound; in transport through vehicles; in communications through phones/radio/television.",
+      "markingGuide": "Source guide: one mark per valid explained application; other accurate applications accepted.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q4-a",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "4(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-4",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Define the term force and give its SI unit",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-005.jpg",
+          "alt": "Complete unchanged original physics paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [3]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Force is a push or pull on a body; its SI unit is the newton (N).",
+      "markingGuide": "Source guide2marks. Independent internal split: definition1, correct SI unit1.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q4-b",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "4(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-4",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Mention four types of fundamental forces\ni) __________________\nii) __________________\niii) __________________\niv) __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-005.jpg",
+          "alt": "Complete unchanged original physics paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [3]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Gravitational; electromagnetic; strong nuclear; weak nuclear.",
+      "markingGuide": "Source guide: one mark per fundamental interaction.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q4-c",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "4(c)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-4",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "An Astronaut weighs 800N on earth. On moon he weighs 145N. Calculate the Moon’s gravitational strength",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-005.jpg",
+          "alt": "Complete unchanged original physics paper page 5.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [3]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Earth mass=800/10=80kg. Moon gravitational strength=145/80=1.8125N/kg.",
+      "markingGuide": "Guide red annotations: ratio/substitution1, algebra1, final correct result2; source Earth g=10m/s². Accept equivalent correct methods.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q5-a-i",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "subtopicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "5(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-5",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "State",
+      "content": "The law of flotation",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-006.jpg",
+          "alt": "Complete unchanged original physics paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [3]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "A floating body displaces a weight of fluid equal to its own weight.",
+      "markingGuide": "Source guide1mark for a correct statement.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q5-a-ii",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "subtopicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "5(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-5",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "State",
+      "content": "The Archimedes principle",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-006.jpg",
+          "alt": "Complete unchanged original physics paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [3]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "A body wholly or partially immersed in a fluid experiences an upthrust equal to the weight of the fluid it displaces.",
+      "markingGuide": "Source guide2marks. Upthrust and displaced-fluid weight relation required.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q5-b-i",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "subtopicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "5(b)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-5",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "A body weighs 7N in air and when totally immersed in water it weighs 4N. Find",
+      "content": "Upthrust",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-006.jpg",
+          "alt": "Complete unchanged original physics paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [4]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Upthrust =7−4=3N.",
+      "markingGuide": "Source guide: correct real-minus-apparent expression1; result3N1.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q5-b-ii",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "subtopicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "5(b)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-5",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "A body weighs 7N in air and when totally immersed in water it weighs 4N. Find",
+      "content": "Relative density of the body",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-006.jpg",
+          "alt": "Complete unchanged original physics paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [4]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Relative density=7/(7−4)=7/3≈2.33 (dimensionless).",
+      "markingGuide": "Source guide: correct ratio/substitution1; correct dimensionless value1.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q5-c",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "subtopicIds": [
+        "physics-f1-floating-upthrust"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "5(c)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-5",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "With three points, explain why a ship does not sink in water while the coin sinks?\n(i). __________________\n(ii). __________________\n(iii). __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-006.jpg",
+          "alt": "Complete unchanged original physics paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [4]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "A hollow ship has an average density below water; its large submerged volume displaces sufficient water to provide an upthrust equal to its weight at floating equilibrium. A compact coin normally has density above water, so even fully submerged its buoyant force is less than its weight.",
+      "markingGuide": "Source guide3points/marks; independent scientifically corrected explanation, one mark each for average density/hollow volume, displacement/upthrust balance, and why the denser coin sinks.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide says a floating ship’s upthrust is greater than its weight and implies ships use light materials. At floating equilibrium forces are equal; even steel ships float because average density includes their hollow volume. Independent guidance corrects the solution, never the original question."
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q6-a",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "6(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-6",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Give five differences between mass and weight\n(i) __________________\n(ii) __________________\n(iii) __________________\n(iv) __________________\n(v) __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-006.jpg",
+          "alt": "Complete unchanged original physics paper page 6.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [5]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Mass: amount of matter; kilogram; constant for an unchanged body; measured by a balance; scalar. Weight: gravitational force; newton; varies with gravitational field; measured by a spring balance; vector.",
+      "markingGuide": "Source guide: five paired differences,0.5 for each correct side of a pair (one per complete pair), total5.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q6-b",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-forces"
+      ],
+      "subtopicIds": [
+        "physics-f1-forces"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "6(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-6",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Identify three factors affecting air resistance\n(i) __________________\n(ii) __________________\n(iii) __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-007.jpg",
+          "alt": "Complete unchanged original physics paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [5]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Shape/frontal area of the body; relative speed through air; density of air.",
+      "markingGuide": "Source guide: one per valid factor. Accept equivalent accurate factors.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        7
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The source guide also contains a Q6(c) about gravitational/frictional forces which does not occur in the original paper. That absent question is not invented or imported."
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q7-a",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "7(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-7",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Define the terms density and relative density and hence state their SI units",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-007.jpg",
+          "alt": "Complete unchanged original physics paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [5]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Density=mass/volume; SI unitkg/m³. Relative density=ratio of a substance’s density to the density of water (for ordinary solid/liquid comparison); it is dimensionless, with no SI unit.",
+      "markingGuide": "Source guide: density definition1.5 and SI unit0.5; relative density definition1.5 and no unit0.5, total4.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        7
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide lists g/cm³ as an SI unit alongside kg/m³. Independent clarification: only kg/m³ is the SI derived unit; g/cm³ is a commonly used non-SI unit."
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q7-b",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "7(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-7",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "What are the applications of density and relative density in our daily life (three points)\n(i) __________________\n(ii) __________________\n(iii) __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-007.jpg",
+          "alt": "Complete unchanged original physics paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [5]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Designing floating structures such as ships; selecting materials for construction or products; identifying or checking substances by comparing measured density with known values.",
+      "markingGuide": "Source guide: one mark per valid application.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        7
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q7-c-i",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "7(c)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-7",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "In an experiment to determine the relative density of liquid X, a physics student obtained the following results after various measurements:\n• Mass of empty relative density bottle =15g\n• Mass of bottle with liquid X =35g\n• Mass of bottle with water =40g\n• Volume of density bottle =25cm³\nCalculate",
+      "content": "Density of liquid X in kg/m³",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-007.jpg",
+          "alt": "Complete unchanged original physics paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [6]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Liquid mass=35−15=20g. Density=20/25=0.8g/cm³=800kg/m³.",
+      "markingGuide": "Source guide: mass/volume substitution0.5; density0.8g/cm³0.5; conversion factor0.5; final800kg/m³0.5.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        7
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        6
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q7-c-ii",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "7(c)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-7",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "In an experiment to determine the relative density of liquid X, a physics student obtained the following results after various measurements:\n• Mass of empty relative density bottle =15g\n• Mass of bottle with liquid X =35g\n• Mass of bottle with water =40g\n• Volume of density bottle =25cm³\nCalculate",
+      "content": "Relative density of liquid X",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-007.jpg",
+          "alt": "Complete unchanged original physics paper page 7.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 1,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [6]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Relative density=(35−15)/(40−15)=20/25=0.8, with no unit.",
+      "markingGuide": "Source guide: density ratio/substitution0.5, final0.8dimensionless0.5.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        7
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        6
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q8-a",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "8(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "What do we mean from the term Measurement?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-008.jpg",
+          "alt": "Complete unchanged original physics paper page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [7]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Measurement compares a physical quantity with an agreed standard/unit to assign a numerical value.",
+      "markingGuide": "Independent model answer; scoring withheld pending allocation reconciliation.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        8
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        7
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceIssue": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q8-b",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "8(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "How many parts a measurement has? Name them.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-008.jpg",
+          "alt": "Complete unchanged original physics paper page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [7]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Two: a numerical magnitude and a unit.",
+      "markingGuide": "Independent model answer; source scoring withheld.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        8
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        7
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceIssue": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q8-c",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "8(c)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Mention four devices used for measuring length\n(i) __________________\n(ii) __________________\n(iii) __________________\n(iv) __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-008.jpg",
+          "alt": "Complete unchanged original physics paper page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [7]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Metre rule; tape measure; vernier calipers; micrometer screw gauge.",
+      "markingGuide": "Independent model answer; source scoring withheld.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        8
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        7
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceIssue": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q8-d-i",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "8(d)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-8",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Draw a clearly labelled diagram of hydrometer",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-008.jpg",
+          "alt": "Complete unchanged original physics paper page 8.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [7]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Draw a weighted bulb with lead shot, an upright narrow stem and a marked density/relative-density scale.",
+      "markingGuide": "Independent model answer; source scoring withheld.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        8
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        7
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceIssue": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q8-d-ii",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "8(d)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-8",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Give the reading of the part of the following instrument in cm.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-008.jpg",
+          "alt": "Complete unchanged original physics paper page 8.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [7]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "The displayed micrometer reads12.5mm+0.25mm=12.75mm=1.275cm.",
+      "markingGuide": "Independent calculated answer checked against guide; scoring withheld with linked Q8 pending allocation reconciliation.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        8
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        7
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceIssue": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-i",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "9(a)(i)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-9",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "What do you understand by the following terms",
+      "content": "Real weight",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-009.jpg",
+          "alt": "Complete unchanged original physics paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [8]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "The gravitational force on a body, approximately its spring-balance reading in air when buoyancy is negligible.",
+      "markingGuide": "Independent model definition; source scoring withheld.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        9
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        8
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceIssue": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceOriginalSubpartLabel": "i",
+      "sourceSequenceIndex": 1
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-ii",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "9(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-9",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "What do you understand by the following terms",
+      "content": "Apparent weight",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-009.jpg",
+          "alt": "Complete unchanged original physics paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [8]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "The support force or measured weight in a given situation; in an immersed-body example, actual weight minus buoyant upthrust.",
+      "markingGuide": "Independent model definition; source scoring withheld.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        9
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        8
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceIssue": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceOriginalSubpartLabel": "ii",
+      "sourceSequenceIndex": 2
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-ii-energy",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "9(a)(ii)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-9",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "What do you understand by the following terms",
+      "content": "Energy",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-009.jpg",
+          "alt": "Complete unchanged original physics paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [8]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "The capacity to do work.",
+      "markingGuide": "Independent model definition; source scoring withheld.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        9
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        8
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceIssue": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests. The source repeats(ii) for Energy and contains an empty(iii) line; these labels are not silently renumbered.",
+      "sourceOriginalSubpartLabel": "ii",
+      "sourceSequenceIndex": 3,
+      "originalLabel": "(ii)"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-iv",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "9(a)(iv)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-9",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "What do you understand by the following terms",
+      "content": "Matter",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-009.jpg",
+          "alt": "Complete unchanged original physics paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [8]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Anything that has mass and occupies space.",
+      "markingGuide": "Independent model definition; source scoring withheld.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        9
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        8
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceIssue": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceOriginalSubpartLabel": "iv",
+      "sourceSequenceIndex": 4
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q9-a-v",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "9(a)(v)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-9",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "What do you understand by the following terms",
+      "content": "Parallax error",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-009.jpg",
+          "alt": "Complete unchanged original physics paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [8]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "An apparent shift/readout error from viewing a scale or object from an inappropriate angle rather than along the correct line of sight.",
+      "markingGuide": "Independent model definition; source scoring withheld.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        9
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        8
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceIssue": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceOriginalSubpartLabel": "v",
+      "sourceSequenceIndex": 5
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q9-b",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-01"
+      ],
+      "subtopicIds": [
+        "physics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "9(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-9",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Differentiate between Fundamental physical quantity and derived physical quantity of matter, giving three examples each\n(i) __________________\n(ii) __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-009.jpg",
+          "alt": "Complete unchanged original physics paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 0,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [8]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Fundamental quantities are independent base quantities, e.g. mass,length,time. Derived quantities are defined from base quantities, e.g. density(mass/volume),velocity(length/time),force(mass×acceleration).",
+      "markingGuide": "Independent model response; source scoring withheld.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        9
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        8
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "needs-resolution",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests.",
+      "sourceIssue": "Source guide’s red annotations for Q8/Q9 do not reconcile unambiguously with the printed SectionB70; mark totals need source-author clarification. The complete original question is retained unchanged, with a model answer, but is excluded from scored tests."
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q10-a",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "10(a)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-10",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Define the term Scientific method",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-009.jpg",
+          "alt": "Complete unchanged original physics paper page 9.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [8]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "An evidence-based systematic approach to investigating questions or problems using observations, testable explanations, experiments/data and reasoned conclusions.",
+      "markingGuide": "Source guide2marks for a valid definition.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        9
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        8
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q10-b",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "10(b)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-10",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Mention seven steps of scientific method\n(i). __________________\n(ii). __________________\n(iii). __________________\n(iv). __________________\n(v). __________________\n(vi). __________________\n(vii). __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-009.jpg",
+          "alt": "Complete unchanged original physics paper page 9.",
+          "role": "source-page"
+        },
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-010.jpg",
+          "alt": "Complete unchanged original physics paper page 10.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 7,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [8]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Problem identification; observation and asking questions; formulation of hypothesis; performing an experiment; data collection and presentation; data analysis; drawing a conclusion.",
+      "markingGuide": "Source guide: seven appropriate stages at one mark each. Accept equivalent scientifically coherent wording.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        9,
+        10
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        8
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q10-c",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "10(c)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-10",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Identify four significance of scientific procedures\n(i). __________________\n(ii). __________________\n(iii). __________________\n(iv). __________________",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-010.jpg",
+          "alt": "Complete unchanged original physics paper page 10.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [9]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Help solve scientific problems; gain new knowledge; organise/conduct project work; conduct systematic field studies.",
+      "markingGuide": "Source guide: four valid points at one mark each.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        10
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        9
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "morogoro-f1-2025-physics-fdf35496ef2658db-q10-d",
+      "paperId": "morogoro-f1-2025-physics-fdf35496ef2658db",
+      "form": 1,
+      "subjectId": "physics",
+      "topicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "subtopicIds": [
+        "physics-f1-data-investigation"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Morogoro Municipal Council • Physics • Form One • May 2025",
+      "institution": "MOROGORO MUNICIPAL COUNCIL (printed source)",
+      "year": 2025,
+      "curriculumEdition": "May 2025 district paper; compatible source skills mapped to available Form One learning chapters",
+      "questionNumber": "10(d)",
+      "parentQuestionId": null,
+      "groupId": "morogoro-f1-2025-physics-fdf35496ef2658db-group-10",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Briefly explain how mathematics is important in studying scientific knowledge",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-fdf35496ef2658db/page-010.jpg",
+          "alt": "Complete unchanged original physics paper page 10.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 2,
+      "markIncrement": 0.5,
+      "marksProvenance": "Associated source guide page(s) [9]; original paper section totals retained separately.",
+      "markIncrementProvenance": "Independent half-mark self-assessment granularity; official substep increments are not asserted.",
+      "answerKey": "Mathematics expresses scientific relationships clearly and quantitatively, allowing calculation, measurement comparison, analysis and predictions; for example density=mass/volume.",
+      "markingGuide": "Source guide2marks. Explain a quantitative scientific relationship and give an accurate example.",
+      "solutionProvenance": "Associated Morogoro district/archive source guide checked against original question; independently clarified model wording where noted. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1AUQKrR7oKuHBb-SEHcZlVaTLpAOqZ2Nn",
+      "sourcePdf": "/source-papers/source-fdf35496ef2658db/original.pdf",
+      "sourcePages": [
+        10
+      ],
+      "sourceSha256": "fdf35496ef2658db94a3923157c41672da9ec01e87d2267bb244d63d9f8d503e",
+      "sourceDocumentId": "source-fdf35496ef2658db",
+      "answerGuidePdf": "/source-papers/guide-e05ff2f0902cff8d/original.pdf",
+      "answerGuideSha256": "e05ff2f0902cff8db57fee1462c1821b5fc90ff4987efd093292a456aa0be20b",
+      "answerGuidePages": [
+        9
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "All 10 original paper pages and all 9 associated guide pages visually inspected; exact question wording, labels and scientific symbols preserved.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    }
+  ],
+  "verificationNotes": {
+    "sourceSections": {
+      "A": 15,
+      "B": 70,
+      "C": 15
+    },
+    "sourceGuideResolutions": [
+      "All ten original paper pages (including blank page2) and all nine source guide pages visually inspected.",
+      "Q1iii references a figure absent from the original paper; Q1ix has no scientifically correct printed option. Both remain unchanged and unscored.",
+      "Source guide includes Q6(c) absent from paper; no new question is invented.",
+      "Q8/Q9 are fully transcribed with model answers but held for conflicting/unclear source marking annotations.",
+      "Source repeats label(ii) for Energy and leaves a blank(iii) line. Original labels are retained, with unique stable IDs.",
+      "Source cover prints1000km/m³ for density of water; original typo retained in source instructions. Correct scientific value is1000kg/m³; calculations use the explicitly provided1.0g/cm³."
+    ]
+  }
+}

@@ -414,3 +414,9 @@ summary {
 }
 
 .source-stem, .question blockquote { white-space: pre-wrap; }
+
+.source-part { margin-block: 1rem; }
+.review-messages p { white-space: pre-wrap; overflow-wrap: anywhere; }
+.review-messages p:first-child { font-weight: 650; }
+.guided-review button { margin-block: .25rem; }
+.feedback p { white-space: pre-wrap; }

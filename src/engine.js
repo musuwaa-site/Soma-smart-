@@ -87,17 +87,21 @@ export function generate(bank, count, seed = 1) {
 export function mark(q, answer, selfMark) {
   if (answer === undefined || answer === null || String(answer).trim() === "")
     return { status: "unanswered", earned: 0 };
-  if (q.type === "mcq")
+  if (q.type === "mcq") {
+    const accepted = q.acceptedAnswerKeys ?? [q.answerKey];
+    const correct = accepted.includes(answer);
     return {
-      status: answer === q.answerKey ? "correct" : "incorrect",
-      earned: answer === q.answerKey ? q.maximumMarks : 0,
+      status: correct ? "correct" : "incorrect",
+      earned: correct ? q.maximumMarks : 0,
     };
+  }
   if (q.type === "matching") {
     const correct = q.answerKey;
     if (!Object.values(answer).some(Boolean))
       return { status: "unanswered", earned: 0 };
     const earned = Object.entries(correct).reduce(
-      (n, [key, val]) => n + (answer[key] === val ? q.markIncrement : 0),
+      (n, [key, val]) => n +
+        ((q.acceptedMatchingAnswers?.[key] ?? [val]).includes(answer[key]) ? q.markIncrement : 0),
       0,
     );
     return {

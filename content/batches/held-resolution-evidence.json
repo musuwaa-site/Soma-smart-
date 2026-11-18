@@ -1,0 +1,734 @@
+{
+  "scope": "Held FormOne source records only; relevant complete original/guide pages visually inspected, with enlarged crossword grid. No canonical or batch question text edited.",
+  "reviewedAt": "2026-11-17",
+  "summary": {
+    "heldRecordsReviewed": 33,
+    "recordsResolvableWithoutChangingQuestionText": 14,
+    "additionalRecordsResolvableWithExplicitMultipleAcceptedKeys": 3,
+    "recordsInConditionalWholeMainGeographyAggregation": 10,
+    "otherRecordsStillUnresolved": 6,
+    "completePapersPotentiallyUnlocked": [
+      "Mkalama FormOne English100marks",
+      "Moshi FormOne Biology100marks"
+    ],
+    "sourcePrintedMaximaPreserved": true
+  },
+  "recommendations": [
+    {
+      "questionIds": [
+        "mkalama-2025-f1-english-3524b0fe8b23f712-q5"
+      ],
+      "sourceDocumentId": "source-3524b0fe8b23f712",
+      "sourceSha256": "3524b0fe8b23f7129bf5a5ba9a401080c8683114411b827f1e32ac69efa6f9d8",
+      "sourcePdf": "/source-papers/source-3524b0fe8b23f712/original.pdf",
+      "guideSha256": "0a2fcbe2833cdaf797990c90517eef74695e7aff443556fbe2d56d0093f68523",
+      "guidePdf": "/source-papers/guide-0a2fcbe2833cdaf7/original.pdf",
+      "sourcePages": [
+        3,
+        4
+      ],
+      "guidePages": [
+        1,
+        2
+      ],
+      "status": "resolved",
+      "sourceEvidence": [
+        "Original paper page3 has seven across entries 1,4,5,6,7,9,10; down1 is given ELEPHANT. Down2,3,8 clues continue onto page4. There are ten unanswered entries, exactly matching guide Q5 ten listed answers at one mark each.",
+        "Enlarged original grid: down2 begins at row1,column6=T from EDUCATION and ends row4,column6=K from KEY; its middle letters must be O,O for TOOK. Across6 therefore ends O; its three-cell number is TWO, not guide SIX.",
+        "Across9 has five cells beginning with the prefilled H of ELEPHANT. HOUSE answers the unchanged clue “A structure we live in”; guide EARTH contradicts both clue and given H.",
+        "All grid intersections match the supplied independent complete solution; no original grid cell, clue, wording or given letter needs alteration."
+      ],
+      "proposedSolution": {
+        "across": {
+          "1": "EDUCATION",
+          "4": "LED",
+          "5": "NOW",
+          "6": "TWO",
+          "7": "KEY",
+          "9": "HOUSE",
+          "10": "TANZANIA"
+        },
+        "down": {
+          "2": "TOOK",
+          "3": "NO",
+          "8": "YOU"
+        },
+        "givenNotScored": {
+          "1 down": "ELEPHANT"
+        },
+        "grid": [
+          "EDUCATION#",
+          "LED##O#NOW",
+          "E##TWO####",
+          "P####KEY##",
+          "HOUSE##O##",
+          "A######U##",
+          "N#########",
+          "TANZANIA##"
+        ]
+      },
+      "proposedMaximumMarks": 10,
+      "proposedMarkIncrement": 1,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-2025-f1-english-3524b0fe8b23f712-q5": "bbe53052119ca80c58263e1e08046af3482baf57d6400d6330d31d357f8a0148"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": null,
+      "guideDiscrepancy": "Source guide Q5 gives SIX for6 and EARTH for9. Independently corrected to TWO and HOUSE using unchanged clues and crossing letters. Given1-down ELEPHANT is not an eleventh scored entry.",
+      "proposedMarkingGuide": "One mark for each of ten correct unanswered entries. Do not award a mark for the already supplied ELEPHANT. Case is irrelevant. Preserve the original across/down labels and grid.",
+      "interactionSuggestion": "One original crossword question with ten labelled free-entry word fields; no added answer bank or new question options. Original source grid remains visible. This resolves the final ten marks and permits the source English paper to be fully scored."
+    },
+    {
+      "questionIds": [
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-i",
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-ii",
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-iii",
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-iv",
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-v"
+      ],
+      "sourceDocumentId": "source-08ca2cd821a35126",
+      "sourceSha256": "08ca2cd821a35126a0d8207ed965c08b361b36b4bdef5c1fadf09c164e43fe3c",
+      "sourcePdf": "/source-papers/source-08ca2cd821a35126/original.pdf",
+      "guideSha256": "d95b21f1cf86870651754e0cb4ffcabf0534b7d32b297e2ddc7db6b7984bb9f5",
+      "guidePdf": "/source-papers/guide-d95b21f1cf868706/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "guidePages": [
+        2
+      ],
+      "status": "resolved",
+      "sourceEvidence": [
+        "Paper page6 Q9 asks “Identify the steps of scientific method in each of the following situations”; it does not require five different steps or one use of each stage.",
+        "Guide page2 heading8 contains the five John/doctor scientific-method answers and explicitly states10Marks@02. It corresponds by content to printed paperQ9, not the microscope paperQ8.",
+        "The doctor asking questions is information gathering; calling it hypothesis formulation would invent a proposed explanation not stated in the unchanged question. A scientifically accurate independent answer can be supplied instead, while retaining the guide discrepancy."
+      ],
+      "proposedSolution": {
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-i": "Problem identification/recognition that John is unwell.",
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-ii": "Gathering preliminary information / observation / questioning to understand the problem. No hypothesis or proposed explanation is actually stated in the original situation.",
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-iii": "Testing or experimentation: ordering diagnostic measurements and laboratory tests.",
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-iv": "Observation/collection and interpretation of test data: detecting malaria parasites supports a diagnosis. Accept data analysis and interpretation.",
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-v": "Drawing a conclusion from evidence and applying it through treatment."
+      },
+      "proposedMaximumMarks": {
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-i": 2,
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-ii": 2,
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-iii": 2,
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-iv": 2,
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-v": 2
+      },
+      "proposedMarkIncrement": 1,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-i": "941920039a3b0a0bea4fb480aca26b10c952f415296521cf1bb34537de51325f",
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-ii": "4eea343a6f0046ddafe08406a3b5dbce4e1bc899f109380375e29db7160f1113",
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-iii": "aa5b13ff36899b3d667f12cb74a9affee5d52bca4828870491d782a7a3664920",
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-iv": "e87a2de29b5b5d52d95f99bde786a32b00106f7242e2c27abe09529db884a7e9",
+        "moshi-dc-2026-biology-08ca2cd821a35126-q9-v": "c928061c2eb90b6409976d024447f97c867c09b5c2a74da0371ed704a177c477"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": null,
+      "guideDiscrepancy": "Guide heading8 belongs to paperQ9 by content. The source guide calls(ii) formulating a hypothesis, but no hypothesis is stated; the independent rubric accepts information gathering/observation/questioning instead.",
+      "proposedMarkingGuide": "Each source part has2marks. Full credit for the correct scientific action identified or clearly described; partial1 for a partly correct relevant description;0 for an unrelated stage. Do not require an unstated hypothesis. These substep descriptions are independent explanations, not an edited source scheme.",
+      "groupPolicy": "Retain the original five-situation linked group. All five can now be published together; this supplies the final10marks and permits a fully scored Biology paper."
+    },
+    {
+      "questionIds": [
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-a",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-b"
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "guideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "guidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "guidePages": [
+        1,
+        2
+      ],
+      "status": "resolved",
+      "sourceEvidence": [
+        "Original page2 Q4(a) explicitly asks five benefits; guide page1 assigns4marks and gives four examples. A model-answer list need not be exhaustive and the4mark maximum is explicit.",
+        "Guide page1/2 assigns6marks to4(b), three relationships, and prints TOTALMARKS10 for the complete Q4. Thus part maxima4+6 are internally consistent even though benefit count differs from max marks."
+      ],
+      "proposedSolution": {
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-a": "Five examples: understanding weather/climate; preparing for natural hazards; planning settlements/land use; managing natural resources sustainably; supporting tourism/conservation or geographical careers.",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-b": "Biology: ecosystems and organism distribution. History: location/environment of historical events and settlements. Economics: resources, production, trade and spatial distribution. Accept other accurate discipline links."
+      },
+      "proposedMaximumMarks": {
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-a": 4,
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-b": 6
+      },
+      "proposedMarkIncrement": {
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-a": 0.8,
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-b": 1
+      },
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-a": "aa28ec0e48c8c0f8423654e4be68a3b424f258b618b9adef6e14932a271f15dd",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q4-b": "fae52bdff8cc6aa993c53f114e53c269ed17f69924efc30df2a9b08be3164879"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": null,
+      "proposedMarkingGuide": "Part(a): independently allocate0.8 for each of five valid distinct benefits, max4; make clear this is an independent credit schedule, not a claimed source per-point weight. Part(b):2 per valid explained relationship, max6, with independent1mark partial credit for a relevant incomplete link. The source4/6 maxima are unchanged.",
+      "groupPolicy": "Can retain Q4 as a two-part linked group, now10verified source marks."
+    },
+    {
+      "questionIds": [
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-a"
+      ],
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "guideSha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+      "guidePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "guidePages": [
+        1
+      ],
+      "status": "resolved",
+      "sourceEvidence": [
+        "Original paper page2 contains this complete independent prompt and, for5(a), all five named first-aid items. No information from the defective adjoining part is required.",
+        "Associated guide page1 explicitly allocates2marks to this part. The defect in4(c) or missing apparatus in5(b) does not alter this part’s explicit maximum."
+      ],
+      "proposedSolution": "First aid is immediate help given to an injured or suddenly ill person before professional medical assistance is available.",
+      "proposedMaximumMarks": 2,
+      "proposedMarkIncrement": 1,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-a": "dd4359ccb5e440917a69944e6d984d8cddf67d5ed0dbd861ce6d23312e4998db"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": null,
+      "proposedMarkingGuide": "Full2 for an accurate first-aid definition; independent1mark partial credit for relevant incomplete wording.",
+      "groupPolicy": "Give this independently answerable prompt its own groupId, unchanged source wording and labels. Do not withhold it solely because a different subpart under the same main number is defective."
+    },
+    {
+      "questionIds": [
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-b"
+      ],
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "guideSha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+      "guidePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "guidePages": [
+        1
+      ],
+      "status": "resolved",
+      "sourceEvidence": [
+        "Original paper page2 contains this complete independent prompt and, for5(a), all five named first-aid items. No information from the defective adjoining part is required.",
+        "Associated guide page1 explicitly allocates4marks to this part. The defect in4(c) or missing apparatus in5(b) does not alter this part’s explicit maximum."
+      ],
+      "proposedSolution": "Any four appropriate benefits: saving life, preventing deterioration, reducing pain, promoting recovery, reducing complications/disability.",
+      "proposedMaximumMarks": 4,
+      "proposedMarkIncrement": 1,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-b": "915600b8acf1206840a8ff9edaedb02c6b5274f8c6d613f95e792201448daf1a"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": null,
+      "proposedMarkingGuide": "One mark for each requested correct distinct point/use; preserve the source maximum. Accept medically safe equivalent answers.",
+      "groupPolicy": "Give this independently answerable prompt its own groupId, unchanged source wording and labels. Do not withhold it solely because a different subpart under the same main number is defective."
+    },
+    {
+      "questionIds": [
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-a"
+      ],
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "guideSha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+      "guidePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "guidePages": [
+        2
+      ],
+      "status": "resolved",
+      "sourceEvidence": [
+        "Original paper page2 contains this complete independent prompt and, for5(a), all five named first-aid items. No information from the defective adjoining part is required.",
+        "Associated guide page2 explicitly allocates5marks to this part. The defect in4(c) or missing apparatus in5(b) does not alter this part’s explicit maximum."
+      ],
+      "proposedSolution": "(i)Soap: hygienic hand cleaning. (ii)Bandage: secure a dressing or support an injury. (iii)Sterile gauze: cover/protect a wound. (iv)Iodine tincture: antiseptic use only according to product instructions; not for a fresh burn. (v)Petroleum jelly: protect dry/cracked skin; not for a fresh burn.",
+      "proposedMaximumMarks": 5,
+      "proposedMarkIncrement": 1,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-a": "0a4127672881116484065d2354420306348db8f397c90089c6889ea73aa0a4b5"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": null,
+      "proposedMarkingGuide": "One mark for each requested correct distinct point/use; preserve the source maximum. Accept medically safe equivalent answers.",
+      "groupPolicy": "Give this independently answerable prompt its own groupId, unchanged source wording and labels. Do not withhold it solely because a different subpart under the same main number is defective."
+    },
+    {
+      "questionIds": [
+        "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-a"
+      ],
+      "sourceDocumentId": "source-74559a7e0a8b9a75",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "guideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "guidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "sourcePages": [
+        8
+      ],
+      "guidePages": [
+        4
+      ],
+      "status": "resolved",
+      "sourceEvidence": [
+        "Original paper page8 contains the complete prompt and all data needed. Guide page(s)[4] explicitly assigns6marks to this part.",
+        "Parts10(a) and10(b) are independent of the rectangular-block instrument question10(c). For10(c)(ii), volume uses only the complete original dimensions in the shared stem; it does not depend on identifying the instrument."
+      ],
+      "proposedSolution": "Three differences: mass is quantity of matter / volume is space occupied; SI units kg / m³; mass measured by balance / volume by measuring cylinder or appropriate dimensions/displacement.",
+      "proposedMaximumMarks": 6,
+      "proposedMarkIncrement": 1,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-a": "4a45fe4db1286d4e23ffa7d909ca072683cc530f7dac914699274c12c59de3db"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": null,
+      "guideDiscrepancy": "For10(b), the guide reverses initial/final labels but gives the correct difference400. Use original figure300before/700after. For10(c)(ii), no instrument identity is needed.",
+      "groupPolicy": "Separate independent10(a),10(b),10(c)(ii) into self-contained groups with their existing original shared stems and media. Retain10(c)(i) as held; no source text or dimensions may change.",
+      "proposedMarkingGuide": "Three valid comparison pairs2each, max6; independent partial credit1for a correct but incomplete distinction."
+    },
+    {
+      "questionIds": [
+        "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-b"
+      ],
+      "sourceDocumentId": "source-74559a7e0a8b9a75",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "guideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "guidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "sourcePages": [
+        8
+      ],
+      "guidePages": [
+        4
+      ],
+      "status": "resolved",
+      "sourceEvidence": [
+        "Original paper page8 contains the complete prompt and all data needed. Guide page(s)[4] explicitly assigns4marks to this part.",
+        "Parts10(a) and10(b) are independent of the rectangular-block instrument question10(c). For10(c)(ii), volume uses only the complete original dimensions in the shared stem; it does not depend on identifying the instrument."
+      ],
+      "proposedSolution": "400cm³. The unchanged original figure shows initial300mL and after immersion700mL, so displaced volume700−300=400mL=400cm³.",
+      "proposedMaximumMarks": 4,
+      "proposedMarkIncrement": 1,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-b": "f9a233069ee9a1b9ba5c84ecc67f1249c7db75a2c5eaf4dae5c0c6ea79d35ba0"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": null,
+      "guideDiscrepancy": "For10(b), the guide reverses initial/final labels but gives the correct difference400. Use original figure300before/700after. For10(c)(ii), no instrument identity is needed.",
+      "groupPolicy": "Separate independent10(a),10(b),10(c)(ii) into self-contained groups with their existing original shared stems and media. Retain10(c)(i) as held; no source text or dimensions may change.",
+      "proposedMarkingGuide": "Assess valid method and correct result/units within the printed4mark maximum. Independent1mark granularity; do not claim extra official substep weights."
+    },
+    {
+      "questionIds": [
+        "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-c-ii"
+      ],
+      "sourceDocumentId": "source-74559a7e0a8b9a75",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "guideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "guidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "guidePages": [
+        4,
+        5
+      ],
+      "status": "resolved",
+      "sourceEvidence": [
+        "Original paper page8 contains the complete prompt and all data needed. Guide page(s)[4, 5] explicitly assigns4marks to this part.",
+        "Parts10(a) and10(b) are independent of the rectangular-block instrument question10(c). For10(c)(ii), volume uses only the complete original dimensions in the shared stem; it does not depend on identifying the instrument."
+      ],
+      "proposedSolution": "V=1.00cm×2.50cm×4.00cm=10.0cm³. Accept10cm³.",
+      "proposedMaximumMarks": 4,
+      "proposedMarkIncrement": 1,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-c-ii": "1aaef83119f671e6caa541fcc62e8b9b8acabbf973859576b5048a86458cb840"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": null,
+      "guideDiscrepancy": "For10(b), the guide reverses initial/final labels but gives the correct difference400. Use original figure300before/700after. For10(c)(ii), no instrument identity is needed.",
+      "groupPolicy": "Separate independent10(a),10(b),10(c)(ii) into self-contained groups with their existing original shared stems and media. Retain10(c)(i) as held; no source text or dimensions may change.",
+      "proposedMarkingGuide": "Assess valid method and correct result/units within the printed4mark maximum. Independent1mark granularity; do not claim extra official substep weights."
+    },
+    {
+      "questionIds": [
+        "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-v"
+      ],
+      "sourceDocumentId": "source-732fe7fb783ed01c",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "guideSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "guidePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "guidePages": [
+        1
+      ],
+      "status": "resolved-with-explicit-multiple-accepted-keys",
+      "sourceEvidence": [
+        "The original sentence uses tu-, first person plural. The printed C names first person andD specifies first person plural; both are true. SourceguideC is one acceptable answer, not grounds to rejectD.",
+        "Original options and original guide are unchanged. Multiple accepted alternatives are independently explained; no unique official key is fabricated."
+      ],
+      "proposedSolution": [
+        "ya kwanza",
+        "ya kwanza wingi"
+      ],
+      "proposedMaximumMarks": 1,
+      "proposedMarkIncrement": 1,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q1-v": "0d6127a0f0bdea0c9271b08e01011653c55bbd1a0784c3118bfb3b5457547d1f"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": null,
+      "proposedAcceptedAnswerKeys": [
+        "ya kwanza",
+        "ya kwanza wingi"
+      ],
+      "guideDiscrepancy": "The original sentence uses tu-, first person plural. The printed C names first person andD specifies first person plural; both are true. SourceguideC is one acceptable answer, not grounds to rejectD.",
+      "proposedMarkingGuide": "Award the source1mark for any of the explicitly independently accepted printed options;0 for the remaining options. Display the reason that multiple source alternatives are accepted, rather than silently changing the original options/key."
+    },
+    {
+      "questionIds": [
+        "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-viii"
+      ],
+      "sourceDocumentId": "source-74559a7e0a8b9a75",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "guideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "guidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "guidePages": [
+        1
+      ],
+      "status": "resolved-with-explicit-multiple-accepted-keys",
+      "sourceEvidence": [
+        "The EXCEPT question admits bothC andD: physikos is a Greek adjective/word, not a physics branch; agribusiness is not a physics branch and molecules are objects, not a branch. The source guideB names only valid branches and contradicts EXCEPT.",
+        "Original options and original guide are unchanged. Multiple accepted alternatives are independently explained; no unique official key is fabricated."
+      ],
+      "proposedSolution": [
+        "C. Wave, physics of the atom and physikos",
+        "D. Agribusiness,.mechanics and molecules"
+      ],
+      "proposedMaximumMarks": 1,
+      "proposedMarkIncrement": 1,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "moshi-dc-2026-physics-74559a7e0a8b9a75-q1-viii": "39368098aeb44158859ec8c59788617b4a32d99d12c8f3665363d7248d5c8eea"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": null,
+      "proposedAcceptedAnswerKeys": [
+        "C. Wave, physics of the atom and physikos",
+        "D. Agribusiness,.mechanics and molecules"
+      ],
+      "guideDiscrepancy": "The EXCEPT question admits bothC andD: physikos is a Greek adjective/word, not a physics branch; agribusiness is not a physics branch and molecules are objects, not a branch. The source guideB names only valid branches and contradicts EXCEPT.",
+      "proposedMarkingGuide": "Award the source1mark for any of the explicitly independently accepted printed options;0 for the remaining options. Display the reason that multiple source alternatives are accepted, rather than silently changing the original options/key."
+    },
+    {
+      "questionIds": [
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-vi"
+      ],
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "guideSha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+      "guidePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "guidePages": [
+        1
+      ],
+      "status": "resolved-with-explicit-multiple-accepted-keys",
+      "sourceEvidence": [
+        "Under the general flammability meaning used by the unchanged item, dry firewood, paper and lamp spirit are burnable materials. The source never specifies a liquid-only or formalGHSclassification restriction. D is the source guide’s expected example, but A/B cannot fairly be rejected on the given general wording. Radioactivity alone does not imply flammability.",
+        "Original options and original guide are unchanged. Multiple accepted alternatives are independently explained; no unique official key is fabricated."
+      ],
+      "proposedSolution": [
+        "Firewood",
+        "Papers",
+        "Spirit used in lamp"
+      ],
+      "proposedMaximumMarks": 1,
+      "proposedMarkIncrement": 1,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-vi": "e0f8b5ba4ebddf2dbbb0e07a331b620441914164028847d606c1fed7e4fc714d"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": null,
+      "proposedAcceptedAnswerKeys": [
+        "Firewood",
+        "Papers",
+        "Spirit used in lamp"
+      ],
+      "guideDiscrepancy": "Under the general flammability meaning used by the unchanged item, dry firewood, paper and lamp spirit are burnable materials. The source never specifies a liquid-only or formalGHSclassification restriction. D is the source guide’s expected example, but A/B cannot fairly be rejected on the given general wording. Radioactivity alone does not imply flammability.",
+      "proposedMarkingGuide": "Award the source1mark for any of the explicitly independently accepted printed options;0 for the remaining options. Display the reason that multiple source alternatives are accepted, rather than silently changing the original options/key."
+    },
+    {
+      "questionIds": [
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-i",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-ii",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-iii",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-iv",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-v",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-vi",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-vii",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-viii",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-ix",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-x"
+      ],
+      "sourceDocumentId": "source-c20befea88f5eb2c",
+      "sourceSha256": "c20befea88f5eb2cef39b9a7dc359116678ec4dcd6f74320b2f4ef92ad8bfb73",
+      "sourcePdf": "/source-papers/source-c20befea88f5eb2c/original.pdf",
+      "guideSha256": "c708101323958282029d9ebdfe1651dab6a9a8e71b77bae298b071c2901196d2",
+      "guidePdf": "/source-papers/guide-c708101323958282/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "guidePages": [
+        1
+      ],
+      "status": "conditional-whole-main-aggregation",
+      "sourceEvidence": [
+        "Guide page1 explicitly prints whole-question10Marks and a10-answer key; original paper SectionA15 minus source matchingQ2five marks also corroborates Q1whole10.",
+        "Printed “@2=10” contradicts ten separate2-mark items. Do not claim an official1-mark allocation for each standalone item.",
+        "If publishing as one linked10-mark main question, its source whole maximum is verified. An explicit independent internal credit schedule can be used, as with existing source-whole-question Mathematics rubrics."
+      ],
+      "proposedSolution": {
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-i": "A. Geography",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-ii": "C. Jupiter",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-iii": "A. The sun",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-iv": "D. Orbit",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-v": "A. Rotate from West to East",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-vi": "C. Rotation",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-vii": "A. 7:00 PM",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-viii": "B. Nebular hypothesis",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-ix": "C. 15° to 24 hours",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-x": "B. Helium, oxygen and hydrogen"
+      },
+      "proposedMaximumMarks": 10,
+      "proposedMarkIncrement": 1,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-i": "535c9f1843ef8ab5b34f6bb688b0f8ef8b9ffcdf73fc7ffd6f3da82a8c949e9d",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-ii": "ba8bba3b09f186f14ee3b84cb74ec34328b249c02fd70052c40ad5ef864d59c3",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-iii": "1cc9c57f37e5cc5feac24bdb2b6272d8f30479b29152987f75ac5f29bc5076b5",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-iv": "ecfb179fd9589620baceb6f65f4db81c0852d116c65e26f832f385bac70dc24b",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-v": "b397f7ccf9806da5365600b0b6001d600774208f6fae465bf31723440f10e611",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-vi": "e8b3a12cd8bb7eab00279317ef00d6ffa839b49369bc6334e8ccb435cfa9b79f",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-vii": "6a4625a27aba593542b6946ff355f2d95eaaee3462aceb2331e3c43d58ed9598",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-viii": "0bd7a52d4213d3eb330a65e6a48b321818a5decc2f36ffb854879832ddd1346a",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-ix": "8d105f4493ac413c45e1849bbd32ad103f7a00b3dcf1b3162c12ba6f9a98798b",
+        "mkalama-f1-2025-geography-c20befea88f5eb2c-q1-x": "e6e5234eb7a6c0d80e3d91d8963db18cf5c48fbddc783bc980714dbdfe14c19d"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": "Official per-item increment remains contradictory; whole-main total10is verified. Parent must select the honest whole-main representation or retain held individuals.",
+      "guideDiscrepancy": "SourceguideB for(ix) is independently corrected to original optionC:15°takes1hour, not24hours. The “@2” printed unit conflicts with the source whole total10.",
+      "proposedMarkingGuide": "Conditional: aggregate the ten unchanged items as one source10-mark main question. State explicitly that giving1internalcredit per correct response is an independent normalization within the source maximum, not an official per-item allocation. Do not add an answer bank or alter any source option.",
+      "groupPolicy": "If strict source-only per-item weights are required, keep the ten individual records held until allocation evidence is obtained. Do not publish their inferred weights as official."
+    },
+    {
+      "questionIds": [
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-v"
+      ],
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "guideSha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+      "guidePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+      "sourcePages": [
+        1
+      ],
+      "guidePages": [
+        1
+      ],
+      "status": "still-unresolved",
+      "sourceEvidence": [
+        "The original says Painting and guide says Confidence; assigning intended Fainting/Consciousness would repair source wording or guess intent."
+      ],
+      "proposedSolution": null,
+      "proposedMaximumMarks": null,
+      "proposedMarkIncrement": null,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-1-v": "a470aa3d23e00576d6268b4dfc7127ab2bda12178a37c798ea857c4ca98acc26"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": "The original says Painting and guide says Confidence; assigning intended Fainting/Consciousness would repair source wording or guess intent."
+    },
+    {
+      "questionIds": [
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-c"
+      ],
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "guideSha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+      "guidePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "guidePages": [
+        1
+      ],
+      "status": "still-unresolved",
+      "sourceEvidence": [
+        "Original asks4precautions; guide lists4 and says@1mark buttotal5. Neither official4nor5part maximum is unambiguously reconciled. A whole-total-priority independent scheme could be labelled, but no official correction is proven."
+      ],
+      "proposedSolution": null,
+      "proposedMaximumMarks": null,
+      "proposedMarkIncrement": null,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-4-c": "a5f01823f8a3ed81a30da88bc8a11484deada29e7fa7eb55741c601b0ecc11f6"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": "Original asks4precautions; guide lists4 and says@1mark buttotal5. Neither official4nor5part maximum is unambiguously reconciled. A whole-total-priority independent scheme could be labelled, but no official correction is proven."
+    },
+    {
+      "questionIds": [
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-b"
+      ],
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "guideSha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+      "guidePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "guidePages": [
+        2
+      ],
+      "status": "still-unresolved",
+      "sourceEvidence": [
+        "Complete original paper has no following apparatus list or figures. The guide’s apparatus table cannot be inserted into the original question without changing its supplied information."
+      ],
+      "proposedSolution": null,
+      "proposedMaximumMarks": null,
+      "proposedMarkIncrement": null,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-5-b": "c46671edcc2779432dd8f2a7d1567ba95261a464daccc1d7de318ed23085fec4"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": "Complete original paper has no following apparatus list or figures. The guide’s apparatus table cannot be inserted into the original question without changing its supplied information."
+    },
+    {
+      "questionIds": [
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-8"
+      ],
+      "sourceDocumentId": "source-d059bebfa47291f7",
+      "sourceSha256": "d059bebfa47291f7a60f2360c44597b50194b947d79e3dcf4b7bb4ecc4483ce1",
+      "sourcePdf": "/source-papers/source-d059bebfa47291f7/original.pdf",
+      "guideSha256": "989adf201ed8ec4a6eed98f5824cbca118511c579d3a276d137835f436a990b5",
+      "guidePdf": "/source-papers/guide-989adf201ed8ec4a/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "guidePages": [
+        3
+      ],
+      "status": "still-unresolved",
+      "sourceEvidence": [
+        "Guide saysfivepoints@2markstotal5; source onlyprintsSectionB70, notindividualQ8max. Need actual issuing-author correction or explicitly independent whole-total interpretation; do not call either5or10 a proven corrected officialmaximum."
+      ],
+      "proposedSolution": null,
+      "proposedMaximumMarks": null,
+      "proposedMarkIncrement": null,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-f1-2025-chemistry-d059bebfa47291f7-8": "4b3ad5fcb8b2483dadbc4eacf360d224a52b77150df4af181737379199f98685"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": "Guide saysfivepoints@2markstotal5; source onlyprintsSectionB70, notindividualQ8max. Need actual issuing-author correction or explicitly independent whole-total interpretation; do not call either5or10 a proven corrected officialmaximum."
+    },
+    {
+      "questionIds": [
+        "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-c-i"
+      ],
+      "sourceDocumentId": "source-74559a7e0a8b9a75",
+      "sourceSha256": "74559a7e0a8b9a7558a465b26853ea0f6d4f8cc0380cee117da11d0de7f8400e",
+      "sourcePdf": "/source-papers/source-74559a7e0a8b9a75/original.pdf",
+      "guideSha256": "5b190daf4574a0e43c292251d5d2aeea4356bde7799f57d36c06d86335166fe2",
+      "guidePdf": "/source-papers/guide-5b190daf4574a0e4/original.pdf",
+      "sourcePages": [
+        8
+      ],
+      "guidePages": [
+        4
+      ],
+      "status": "still-unresolved",
+      "sourceEvidence": [
+        "Reported dimensions alone do not uniquely identify the actual measuring instrument. Guide expectsverniercaliper, but no source instrument figure or method premise establishes that actual instrument. Keep held, or label answer as expectedsourceguide only rather than uniquelyproven."
+      ],
+      "proposedSolution": null,
+      "proposedMaximumMarks": null,
+      "proposedMarkIncrement": null,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "moshi-dc-2026-physics-74559a7e0a8b9a75-q10-c-i": "65433521b6a674cf0e9f23e10dbfdf0346a5de645c6eac9601d96f944725915a"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": "Reported dimensions alone do not uniquely identify the actual measuring instrument. Guide expectsverniercaliper, but no source instrument figure or method premise establishes that actual instrument. Keep held, or label answer as expectedsourceguide only rather than uniquelyproven."
+    },
+    {
+      "questionIds": [
+        "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q9-b"
+      ],
+      "sourceDocumentId": "source-732fe7fb783ed01c",
+      "sourceSha256": "732fe7fb783ed01c9af422b681ee9f80e38a476c73468a17b05523621821c317",
+      "sourcePdf": "/source-papers/source-732fe7fb783ed01c/original.pdf",
+      "guideSha256": "5098a194f2c945754ca99ead4fc260bf20e0a2e30c9f147ad073d3bf941c7f66",
+      "guidePdf": "/source-papers/guide-5098a194f2c94575/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "guidePages": [
+        1
+      ],
+      "status": "still-unresolved",
+      "sourceEvidence": [
+        "The original requests correction of pronunciation errors, but samani is a valid word meaningfurniture. Replacing it with thamani assumes intendedmeaning(value)notgiven. Guide expectsThamani; accepting unchanged furnituremeaning is a different interpretation. No unique sounderror can be verified without context."
+      ],
+      "proposedSolution": null,
+      "proposedMaximumMarks": null,
+      "proposedMarkIncrement": null,
+      "provenance": "SomaSmart independent source-page resolution; not an official correction to the issuing institution’s guide.",
+      "originalTranscriptionDigests": {
+        "mkalama-2025-f1-kiswahili-732fe7fb783ed01c-q9-b": "5d8b8f6fe132bd6c952470aa2f9f5423b18f33b74dbc6a31b5fa98794638b54e"
+      },
+      "questionTextChangesRequired": false,
+      "stillUnresolvedReason": "The original requests correction of pronunciation errors, but samani is a valid word meaningfurniture. Replacing it with thamani assumes intendedmeaning(value)notgiven. Guide expectsThamani; accepting unchanged furnituremeaning is a different interpretation. No unique sounderror can be verified without context."
+    }
+  ]
+}

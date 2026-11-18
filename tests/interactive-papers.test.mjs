@@ -17,7 +17,7 @@ test('every published source selection is exactly the eligible scored subset',()
   assert(papers.length>=12);
   for(const p of papers){
     const bank=eligible(data,{form:p.form,subjectId:p.subjectId,source:'authentic'}).filter(q=>q.paperId===p.id);
-    assert.deepEqual(bank.map(q=>q.id),p.questionIds);
+    assert.deepEqual(new Set(bank.map(q=>q.id)),new Set(p.questionIds));
     assert.equal(result(bank).maximum,p.maximumMarks);
     assert(bank.every(q=>q.sourceType!=='original' && q.sourceTextSha256));
     for(const id of p.draftQuestionIds)assert(!bank.some(q=>q.id===id));
@@ -58,4 +58,23 @@ test('original repeated option labels and underlines render without rewriting te
   assert(q);assert.deepEqual(q.optionLabels,['A','B','A','D']);assert.match(originalOptionLabel(q,2),/>A\.</);
   const underlined=data.questions.find(q=>q.underlinedTerms?.includes('hodari'));assert(underlined);assert.match(verbatimContent(underlined),/<u>hodari<\/u>/);
   assert.equal(verbatimContent({content:'<script>\nA & B'}),'&lt;script&gt;<br>A &amp; B');
+});
+
+test('published alternative keys accept each reviewed option and reject unrelated choices', () => {
+  const alternate = data.questions.find(q => q.publicationStatus === 'published' && q.acceptedAnswerKeys?.length > 1);
+  assert(alternate);
+  for (const answer of alternate.acceptedAnswerKeys) assert.equal(mark(alternate, answer).earned, alternate.maximumMarks);
+  assert.equal(mark(alternate, 'Unlisted option').earned, 0);
+  const matching = data.questions.find(q => q.publicationStatus === 'published' && q.acceptedMatchingAnswers);
+  if (matching) for (const [id, choices] of Object.entries(matching.acceptedMatchingAnswers)) {
+    for (const answer of choices) assert.equal(mark(matching, {...matching.answerKey, [id]:answer}).earned, matching.maximumMarks);
+  }
+});
+test('NECTA whole-question scoring preserves each original part and cites the source mark', () => {
+  const whole = data.questions.find(q => q.sourceParts?.length > 1);
+  assert(whole);
+  assert.equal(whole.maximumMarks, 10);
+  assert.equal(whole.markFormatEvidence.allocation.questions3to9.marksPerMainQuestion, 10);
+  const originals = data.questions.filter(q => q.scoredInQuestionId === whole.id);
+  assert.deepEqual(whole.sourceParts.map(p => [p.questionNumber,p.content]), originals.map(q => [q.questionNumber,q.content]));
 });

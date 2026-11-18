@@ -1,0 +1,1577 @@
+{
+  "paper": {
+    "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+    "title": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+    "form": 1,
+    "subjectId": "mathematics",
+    "sourceType": "district",
+    "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+    "year": 2025,
+    "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+    "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+    "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+    "sourceDocumentId": "source-cb72c35c422420ee",
+    "sourceInstructions": [
+      "This paper consist of ten (10) questions each carrying ten (10) Marks",
+      "Answer all questions in the spaces provided.",
+      "All writings must be in Blue or Black ink, except drawings which must be in pencil.",
+      "Mathematical tables and non – programmable calculator may be used.",
+      "Cellular phones and any unauthorized material are not allowed in the examination room.",
+      "Write your Assessment Number at the top right corner of every page."
+    ],
+    "questionIds": [
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q1-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q1-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q2-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q3-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q6-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q7-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q9-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-b"
+    ],
+    "allTranscribedQuestionIds": [
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q1-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q1-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q2-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q2-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q3-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q3-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q3-c",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q6-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q6-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q7-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q7-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q9-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q9-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-b"
+    ],
+    "draftQuestionIds": [
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q2-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q3-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q3-c",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q6-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q7-a",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-b",
+      "dar-city-f1-2025-mathematics-cb72c35c422420ee-q9-b"
+    ],
+    "sourceMainQuestionCount": 10,
+    "sourceMaximumMarks": 100,
+    "maximumMarks": 68,
+    "completePaper": false,
+    "completeScoredPaper": false,
+    "transcriptionComplete": true,
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+      "verification": "Owner assertion; no permission-document inspection claimed."
+    },
+    "verificationStatus": "verified",
+    "verificationScope": "All ten main questions completely transcribed from every source page; publication excludes held defective/ambiguous parts.",
+    "publicationStatus": "published",
+    "publicationScope": "selected-questions",
+    "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+    "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+    "excludedQuestions": [
+      {
+        "number": "2(a)",
+        "reason": "The original scanned question omits variables and the requested mathematical expression. Guide reconstruction would change the question; original full page retained visibly."
+      },
+      {
+        "number": "3(b)",
+        "reason": "The original source omits the variable before “<−1”. This partial mathematical expression is preserved unchanged and held rather than reconstructed from the guide."
+      },
+      {
+        "number": "3(c)",
+        "reason": "Original source shows only the superscript2 before=7 and does not identify its base. The question is retained exactly with the original page."
+      },
+      {
+        "number": "6(a)",
+        "reason": "Several variable symbols are absent from the original fraction. Source guide interpretation is not an exact substitute for the missing source expression."
+      },
+      {
+        "number": "7(a)",
+        "reason": "The original equation visibly lacks the variable glyphs which appear in the guide. Treating the source as the guide equation would change it."
+      },
+      {
+        "number": "8(b)",
+        "reason": "The printed expression is visibly incomplete/overlapped, with missing variable glyphs; source guide reconstruction is not substituted."
+      },
+      {
+        "number": "9(b)",
+        "reason": "Original PDF is missing the variables and general-form coefficients needed to identify the requested line. Guide-only replacement would change the question."
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q1-a",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "1(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q1-a",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Explain whether or not learning mathematics is important in our lives.\n(At least five points).",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 1: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Yes. It supports logical problem solving, personal finance, scientific/technical careers, data-based decisions, and everyday tasks such as cooking, shopping and telling time. Accept other relevant explained points.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. One mark per distinct explained valid point, five points maximum.",
+      "workedSolution": "Yes. It supports logical problem solving, personal finance, scientific/technical careers, data-based decisions, and everyday tasks such as cooking, shopping and telling time. Accept other relevant explained points.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q1-b",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "1(b)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q1-b",
+      "type": "short",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Identify five activities which use the concepts of mathematics in daily life?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 1: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Examples: cooking with measurements; shopping and calculating discounts; driving using distances/speeds; budgeting income/expenditure; sport scoring/angles.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. One mark for each distinct valid activity, five maximum.",
+      "workedSolution": "Examples: cooking with measurements; shopping and calculating discounts; driving using distances/speeds; budgeting income/expenditure; sport scoring/angles.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q2-a",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "2(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q2-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "If = 2.6 and = 2.83, find the value of  −",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 1: 6 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Not uniquely recoverable from the original paper: the variable names and requested expression are absent. The guide proposes recurring decimals and x/y, but these may not be inserted into the question.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Held: original required expression is missing.",
+      "workedSolution": "Not uniquely recoverable from the original paper: the variable names and requested expression are absent. The guide proposes recurring decimals and x/y, but these may not be inserted into the question.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        1
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The original scanned question omits variables and the requested mathematical expression. Guide reconstruction would change the question; original full page retained visibly.",
+      "sourceImageAuthoritative": true
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q2-b",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "2(b)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q2-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Andrew wants to divide a 1 metre – long ribbon so that he can share it equally with his two friends. How much in metres will each get? Express your answer in decimals.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 2: 4 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Andrew plus two friends are3people. Each receives1/3metre=0.333…m.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Identify3recipients:1; equal division1/3:1; correct recurring decimal with units:2.",
+      "workedSolution": "Andrew plus two friends are3people. Each receives1/3metre=0.333…m.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q3-a",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "3(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q3-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Ester is shorter than Naomi and Naomi is taller than Husna. Express mathematically the relationship between their heights.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 2: 3 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Using heights E,N,H: E<N and N>H, equivalently E<N>H. No ordering between Ester and Husna is given.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Define/identify the height symbols:1; each correct comparison:1.",
+      "workedSolution": "Using heights E,N,H: E<N and N>H, equivalently E<N>H. No ordering between Ester and Husna is given.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q3-b",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "3(b)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q3-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Draw a number line to represent of the following real numbers.\n< −1 or x > 1/2",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 2: 4 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "The left variable before< is missing in the original. Guide assumes x<−1 or x>1/2; original clarification is required.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Held: do not insert a missing source variable.",
+      "workedSolution": "The left variable before< is missing in the original. Guide assumes x<−1 or x>1/2; original clarification is required.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The original source omits the variable before “<−1”. This partial mathematical expression is preserved unchanged and held rather than reconstructed from the guide.",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text",
+      "sourceImageAuthoritative": true
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q3-c",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "3(c)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q3-c",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Find an irrational number such that ² = 7",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-002.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 2; original figures and printed notation retained.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 3,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 2: 3 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "The squared expression/base is absent in the original source. Guide supplies x²=7 and√7; these symbols are not inserted into the source question.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Held for missing mathematical base/variable.",
+      "workedSolution": "The squared expression/base is absent in the original source. Guide supplies x²=7 and√7; these symbols are not inserted into the source question.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        2
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Original source shows only the superscript2 before=7 and does not identify its base. The question is retained exactly with the original page."
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-a",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "4(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "In a certain school, the number of girls is two thirds of the number of boys. How many boys are there if the school has a total of 2355 students?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-003.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 3; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 2: 4 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Let boys B, girls(2/3)B. B+(2/3)B=2355; B=2355×3/5=1413.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct ratio relation:1; total equation:1; solve:1;1413boys:1.",
+      "workedSolution": "Let boys B, girls(2/3)B. B+(2/3)B=2355; B=2355×3/5=1413.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        2
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-b",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "4(b)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Provide an example for each of the following statements",
+      "content": "(i) The sum of two or more irrational numbers gives an irrational number.\n(ii) The product of rational and irrational number is an irrational number.\n(iii) The product of two irrational numbers is an irrational numbers.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-003.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 3; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 3: 6 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Examples:(i)√2+√3;(ii)5×√2=5√2;(iii)√3×√5=√15. These are examples, not claims that every such sum/product is irrational.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Two marks for each correct example and identification of irrational result. Accept valid alternative examples.",
+      "workedSolution": "Examples:(i)√2+√3;(ii)5×√2=5√2;(iii)√3×√5=√15. These are examples, not claims that every such sum/product is irrational.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "subquestions": [
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-b-part-1",
+          "label": "i",
+          "content": "The sum of two or more irrational numbers gives an irrational number.",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-b"
+        },
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-b-part-2",
+          "label": "ii",
+          "content": "The product of rational and irrational number is an irrational number.",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-b"
+        },
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-b-part-3",
+          "label": "iii",
+          "content": "The product of two irrational numbers is an irrational numbers.",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q4-b"
+        }
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-a",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "5(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "A tablet contains 0.1763688 milligrams of a certain chemical. A dose requires a child to take 1/2 a tablet, three times a day for 7 days. Find the total amount of chemical in the dose correct to hundredths of a milligram.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-003.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 3; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 3: 4 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Half-tablet chemical=0.0881844mg.21doses over7days give1.8518724mg, rounded to1.85mg.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Half-tablet amount:1;21doses:1; total calculation:1;1.85mg to hundredths:1.",
+      "workedSolution": "Half-tablet chemical=0.0881844mg.21doses over7days give1.8518724mg, rounded to1.85mg.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-b",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "5(b)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Evaluate 60.32 × 3.233 − 2.222 × 1.232. Give your answer to:",
+      "content": "(i) Two decimal places\n(ii) Three decimal places\n(iii) Two significant figure\n(iv) Four significant figures",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-003.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 3; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 3: 6 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Exact value=192.277056. (i)192.28;(ii)192.277;(iii)190 (two significant figures);(iv)192.3.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct multiplication/subtraction:2; one mark for each of four correctly rounded answers.",
+      "workedSolution": "Exact value=192.277056. (i)192.28;(ii)192.277;(iii)190 (two significant figures);(iv)192.3.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        3
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "subquestions": [
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-b-part-1",
+          "label": "i",
+          "content": "Two decimal places",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-b"
+        },
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-b-part-2",
+          "label": "ii",
+          "content": "Three decimal places",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-b"
+        },
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-b-part-3",
+          "label": "iii",
+          "content": "Two significant figure",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-b"
+        },
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-b-part-4",
+          "label": "iv",
+          "content": "Four significant figures",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q5-b"
+        }
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q6-a",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "6(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q6-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "If (2 − )/(6 − 5) = −3, find the ration 5a:2b",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-004.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 4; original figures and printed notation retained.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 3: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "The original numerator/denominator variable glyphs are missing. Guide suggests(2a−b)/(6a−5b)=−3, but this cannot be silently inserted.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Held: incomplete original equation.",
+      "workedSolution": "The original numerator/denominator variable glyphs are missing. Guide suggests(2a−b)/(6a−5b)=−3, but this cannot be silently inserted.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        3
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Several variable symbols are absent from the original fraction. Source guide interpretation is not an exact substitute for the missing source expression.",
+      "sourceImageAuthoritative": true
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q6-b",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-01"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-01"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "6(b)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q6-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Leonard and Paul are playing a video game. The ratio of Leonard’s game score to Paul’s game score is 1:3. Leonard completes a quest and score 48 points. The ratio of their scores becomes 5:9.",
+      "content": "(i) What is Paul’s score?\n(ii) What was Leonard’s final score?",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-004.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 4; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 4: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Initially Leonard=L and Paul=3L. (L+48)/(3L)=5/9 gives9L+432=15L, L=72. Paul216points; Leonard final120points.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct ratio equation:1; solve initial L=72:2; Paul216:1; Leonard final120:1.",
+      "workedSolution": "Initially Leonard=L and Paul=3L. (L+48)/(3L)=5/9 gives9L+432=15L, L=72. Paul216points; Leonard final120points.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "subquestions": [
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q6-b-part-1",
+          "label": "i",
+          "content": "What is Paul’s score?",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q6-b"
+        },
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q6-b-part-2",
+          "label": "ii",
+          "content": "What was Leonard’s final score?",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q6-b"
+        }
+      ]
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q7-a",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-real-numbers"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "7(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q7-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Solve the absolute value equation |9 − 4| = 3 − 5 and graph it on a number line.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-004.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 4; original figures and printed notation retained.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 4: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Original equation is missing variables. The visible literal numerical equality5=−2 is false; guide inserts x to obtain|9−4x|=3x−5.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Held: missing original variables; no silent reconstruction.",
+      "workedSolution": "Original equation is missing variables. The visible literal numerical equality5=−2 is false; guide inserts x to obtain|9−4x|=3x−5.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The original equation visibly lacks the variable glyphs which appear in the guide. Treating the source as the guide equation would change it.",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text",
+      "sourceImageAuthoritative": true
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q7-b",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "7(b)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q7-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Karen is four years older than Robert, and jerry is half as old as Robert. The sum of their ages is 44. Find Karen’s, Robert’s, and Jerry’s ages.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-004.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 4; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 4: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Let Robert r. Karen r+4, Jerry r/2. r+(r+4)+r/2=44; r=16; Karen20, Robert16, Jerry8years.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct age expressions:2; sum equation:1; solve r=16:1; three ages and valid check:1.",
+      "workedSolution": "Let Robert r. Karen r+4, Jerry r/2. r+(r+4)+r/2=44; r=16; Karen20, Robert16, Jerry8years.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        4
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        4
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-a",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "8(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Monica weighed some fruit on scale. She found that 4 mangoes and 7 oranges weighed 450 grams, and 6 mangoes and 5 oranges weighed 510 grams. Use letters. Write down the equations and solve the equation;",
+      "content": "(i) Find the total weight of 10 mangoes and 4 oranges",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-005.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 5; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 6,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 5: 6 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Let mango m and orange o grams.4m+7o=450,6m+5o=510. Solve o=30,m=60.10m+4o=720grams.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct equations:2; elimination/solution m=60,o=30:2; total calculation:1;720grams:1.",
+      "workedSolution": "Let mango m and orange o grams.4m+7o=450,6m+5o=510. Solve o=30,m=60.10m+4o=720grams.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide first writes6x+6y=510 although the original states5oranges; its subsequent working uses5and gives the correct m60,o30. This independent solution follows the unchanged source values."
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-b",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "8(b)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Simplify [−2(−3x + 7 −)14 + 2]/2 and then state",
+      "content": "(i) The coefficient of x and y\n(ii) The number of terms\n(iii) The constant term",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-005.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 5; original figures and printed notation retained.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 4,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 5: 4 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Original fraction/expression omits variable glyphs. Guide provides[−2(−3x+7y)−14x+2]/2; it is not inserted into the question.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Held: exact original algebraic expression incomplete.",
+      "workedSolution": "Original fraction/expression omits variable glyphs. Guide provides[−2(−3x+7y)−14x+2]/2; it is not inserted into the question.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        5
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "The printed expression is visibly incomplete/overlapped, with missing variable glyphs; source guide reconstruction is not substituted.",
+      "subquestions": [
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-b-part-1",
+          "label": "i",
+          "content": "The coefficient of x and y",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-b"
+        },
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-b-part-2",
+          "label": "ii",
+          "content": "The number of terms",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-b"
+        },
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-b-part-3",
+          "label": "iii",
+          "content": "The constant term",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q8-b"
+        }
+      ],
+      "partialTranscription": true,
+      "sourceImageAuthoritative": true
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q9-a",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "9(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q9-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Find the value of t if the points P(1, 4), Q(t, 7) and R(10, 13) lie on a straight line.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-005.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 5; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 6: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "(7−4)/(t−1)=(13−7)/(10−t);3(10−t)=6(t−1); t=4.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct gradients:2; equality/cross multiplication:1; solve t=4:1; verify collinearity:1.",
+      "workedSolution": "(7−4)/(t−1)=(13−7)/(10−t);3(10−t)=6(t−1); t=4.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        5
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        6
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper"
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q9-b",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "9(b)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q9-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "Find the equation of the straight lines in the form  +  = 0. If the line through the point (3, 1) having the same gradient as the line 3 + 5 = 6.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-006.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 6; original figures and printed notation retained.",
+          "role": "diagram"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 6: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Original general-form variables/coefficient labels and the comparison line variables are missing. Guide assumes3x+5y=6; no exact source reconstruction is justified.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Held: incomplete source line equation.",
+      "workedSolution": "Original general-form variables/coefficient labels and the comparison line variables are missing. Guide assumes3x+5y=6; no exact source reconstruction is justified.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        6
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "held-source-issue",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "draft",
+      "resourceKind": "past-paper",
+      "sourceIssue": "Original PDF is missing the variables and general-form coefficients needed to identify the requested line. Guide-only replacement would change the question.",
+      "sourceImageAuthoritative": true
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-a",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "10(a)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-a",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "Draw a straight line on a graph paper through points P(-4, 5) and Q(-2, 1), then from the graph determine:",
+      "content": "(i) Gradient\n(ii) The x – intercept\n(iii) The y – intercept",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-006.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 6; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 6, 7: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Plot P(−4,5),Q(−2,1) and their line y=−2x−3. Gradient−2; x-intercept(−1.5,0); y-intercept(0,−3).",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct graph through both source points with scaled axes:2; one mark each for gradient−2,x-intercept−1.5,y-intercept−3.",
+      "workedSolution": "Plot P(−4,5),Q(−2,1) and their line y=−2x−3. Gradient−2; x-intercept(−1.5,0); y-intercept(0,−3).",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        6,
+        7
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "guideDiscrepancy": "The guide’s text lists gradient2, but its own graph/working has gradient−2. Independent slope from the unchanged source coordinates is(1−5)/(−2−(−4))=−2.",
+      "subquestions": [
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-a-part-1",
+          "label": "i",
+          "content": "Gradient",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-a"
+        },
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-a-part-2",
+          "label": "ii",
+          "content": "The x – intercept",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-a"
+        },
+        {
+          "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-a-part-3",
+          "label": "iii",
+          "content": "The y – intercept",
+          "parentQuestionId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-a"
+        }
+      ],
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    },
+    {
+      "id": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-b",
+      "paperId": "dar-city-f1-2025-mathematics-cb72c35c422420ee",
+      "form": 1,
+      "subjectId": "mathematics",
+      "topicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "subtopicIds": [
+        "mathematics-f1-lines-equations"
+      ],
+      "sourceType": "district",
+      "sourceTitle": "Dar es Salaam City Secondary Schools Examination Assessment • Basic Mathematics • Form One Annual Examination •2025",
+      "institution": "DAR ES SALAAM CITY SECONDARY SCHOOLS EXAMINATION ASSESSMENT (printed cover)",
+      "year": 2025,
+      "curriculumEdition": "2025 school/district source; mapped to compatible existing Form One lessons only",
+      "questionNumber": "10(b)",
+      "parentQuestionId": null,
+      "groupId": "dar-city-f1-2025-mathematics-cb72c35c422420ee-q10-b",
+      "type": "calculation",
+      "instructions": "",
+      "sharedContent": "",
+      "content": "10 students of class A took part in a Mathematics quiz. If the number of girls is 4 more than the number of boys, find graphically the number of boys and girls who took part in the quiz.",
+      "options": [],
+      "media": [
+        {
+          "path": "/source-papers/source-cb72c35c422420ee/page-006.jpg",
+          "alt": "Unchanged original Mathematics question-paper page 6; original figures and printed notation retained.",
+          "role": "source-page"
+        }
+      ],
+      "maximumMarks": 5,
+      "markIncrement": 1,
+      "marksProvenance": "Associated printed source marking guide, page(s) 8, 9: 5 marks for this source part/group.",
+      "markIncrementProvenance": "Independent whole-mark self-assessment granularity within the source maximum; not a claim of official detailed substep allocations.",
+      "answerKey": "Let boys x,girls y. Plot x+y=10 and y=x+4. Their intersection is(3,7), hence3boys and7girls.",
+      "markingGuide": "Independent SomaSmart self-assessment guidance within the verified source maximum. Correct equations:2; correct graphs/scales and intersection:2; correct contextual answer3boys7girls:1.",
+      "workedSolution": "Let boys x,girls y. Plot x+y=10 and y=x+4. Their intersection is(3,7), hence3boys and7girls.",
+      "solutionProvenance": "Independently calculated and checked by SomaSmart against the unchanged original paper, with associated district guide comparison. Not an official NECTA scheme.",
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1EVC8dnql9OaB_LlSoKQbw3dXsU5h_kI9",
+      "sourcePdf": "/source-papers/source-cb72c35c422420ee/original.pdf",
+      "sourcePages": [
+        6
+      ],
+      "sourceSha256": "cb72c35c422420eed0c0ef51f328a24455f1cd16f1cee3c4a305a62f58531d64",
+      "sourceDocumentId": "source-cb72c35c422420ee",
+      "answerGuidePdf": "/source-papers/guide-2d354b8ade4b01b3/original.pdf",
+      "answerGuideSha256": "2d354b8ade4b01b345379796c35ca387065cf9ec64c1d2760014a864f2ab77e4",
+      "answerGuidePages": [
+        8,
+        9
+      ],
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers and associated marking resources in SomaSmart",
+        "verification": "Owner assertion; no permission-document inspection claimed."
+      },
+      "verificationStatus": "verified",
+      "verificationScope": "Every original question-paper and associated guide page inspected visually; uncertain or defective original material is held rather than silently repaired.",
+      "publicationStatus": "published",
+      "resourceKind": "past-paper",
+      "requiresDrawing": true,
+      "answerMode": "drawing-and-text"
+    }
+  ],
+  "verificationNotes": [
+    "All6original question-paper pages and9associated guide pages visually inspected.",
+    "Original scans genuinely omit mathematical glyphs in several equations; the guide is not used to silently reconstruct source questions. These records retain full original images and are held.",
+    "Explicit source guide part maxima reconcile each main to10; diagram marks forQ10are included in the source part totals.",
+    "Independent corrections follow original paper numerical values, including5oranges inQ8(a), and gradient−2inQ10(a)."
+  ]
+}

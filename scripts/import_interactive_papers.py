@@ -5,6 +5,7 @@ import json,pathlib,hashlib,re,sys,copy
 from validate import validate
 from apply_source_corrections import apply
 from source_integrity import text_hash
+from resolve_source_marks import resolve
 R=pathlib.Path(__file__).resolve().parents[1]
 def merge(data,files):
  data=apply(copy.deepcopy(data));sources={d['sha256']:d for d in data.get('sourceDocuments',[])};report=[]
@@ -39,17 +40,22 @@ def merge(data,files):
    if q.get('publicationStatus')=='published':
     assert q.get('verificationStatus')=='verified' and q.get('maximumMarks') and q.get('markIncrement') and q.get('marksProvenance') and q.get('answerKey') and q.get('markingGuide'),(q['id'],'Missing verified scoring data')
     assert q.get('rightsStatus')=='cleared' and q.get('rightsEvidence')
+  resolve(paper, qs, data['lessons'])
   # A shared passage/dependent group must never be partly admitted to scored selection.
   groups={}
   for q in qs:groups.setdefault(q.get('groupId') or q['id'],[]).append(q)
   for group in groups.values():
-   if any(q.get('publicationStatus')!='published' for q in group):
+   if any(q.get('publicationStatus')=='draft' for q in group):
     for q in group:
      if q.get('publicationStatus')=='published':q.update(publicationStatus='draft',verificationStatus='held-group',sourceIssue='A linked item is unresolved; preserve the complete group outside scored tests.')
   for q in qs:upsert('questions',q)
   published=[q for q in qs if q['publicationStatus']=='published'];all_ids=[q['id'] for q in qs]
-  declared_complete=bool(paper.get('completePaper'))
-  paper.update(questionIds=[q['id'] for q in published],allTranscribedQuestionIds=all_ids,draftQuestionIds=[q['id'] for q in qs if q['publicationStatus']!='published'],maximumMarks=sum(q['maximumMarks'] for q in published),transcriptionComplete=True,completeScoredPaper=declared_complete and len(published)==len(qs),completePaper=declared_complete and len(published)==len(qs),sourceDocumentId=source['id'],publicationScope='complete-paper' if declared_complete and len(published)==len(qs) else 'selected-questions')
+  source_max=paper.get('sourceMaximumMarks')
+  if source_max is None and paper.get('completePaper'):
+   source_max=paper.get('maximumMarks')
+  declared_complete=not any(q['publicationStatus']=='draft' for q in qs) and sum(q['maximumMarks'] for q in published)==source_max
+  if declared_complete:paper['sourceMaximumMarks']=source_max
+  paper.update(questionIds=[q['id'] for q in published],allTranscribedQuestionIds=all_ids,draftQuestionIds=[q['id'] for q in qs if q['publicationStatus']=='draft'],maximumMarks=sum(q['maximumMarks'] for q in published),transcriptionComplete=True,completeScoredPaper=declared_complete,completePaper=declared_complete,sourceDocumentId=source['id'],publicationScope='complete-paper' if declared_complete else 'selected-questions')
   if paper.get('completePaper') and paper.get('sourceMaximumMarks') is not None:assert paper['maximumMarks']==paper['sourceMaximumMarks'],(paper['id'],'Complete paper mark total mismatch')
   paper['publicationStatus']='published' if published else 'draft'
   if published:paper['verificationStatus']='verified'
@@ -60,7 +66,7 @@ def merge(data,files):
   for q in json.loads(support.read_text()).get('questions',[]):
    assert q['sourceType']=='original' and q['paperId'] is None and q['rightsStatus']=='original'
    upsert('questions',q)
- data['version']='0.6.0';errors=validate(data)
+ data['version']='0.7.0';errors=validate(data)
  if errors:raise ValueError('\n'.join(errors))
  return data,report
 if __name__=='__main__':

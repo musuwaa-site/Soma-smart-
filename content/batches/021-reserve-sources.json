@@ -1,0 +1,150 @@
+{
+  "sourceDocuments": [
+    {
+      "id": "source-4bec972259c917e4",
+      "sha256": "4bec972259c917e4470f0dfea8ec5b7448fb1adb4a0b23ee275eec0e561f3e21",
+      "sourcePdf": "/source-papers/source-4bec972259c917e4/original.pdf",
+      "pageImages": [
+        "/source-papers/source-4bec972259c917e4/page-001.jpg",
+        "/source-papers/source-4bec972259c917e4/page-002.jpg",
+        "/source-papers/source-4bec972259c917e4/page-003.jpg",
+        "/source-papers/source-4bec972259c917e4/page-004.jpg",
+        "/source-papers/source-4bec972259c917e4/page-005.jpg",
+        "/source-papers/source-4bec972259c917e4/page-006.jpg",
+        "/source-papers/source-4bec972259c917e4/page-007.jpg",
+        "/source-papers/source-4bec972259c917e4/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1_2n8W5FBh65qwKu-0sSF3LzNnjPoy-vy",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Kilimanjaro Regional Commissioner’s Office • Form One Regional Joint Examination • Historia ya Tanzania na Maadili • 2025",
+      "form": 1,
+      "subjectId": "historia",
+      "year": 2025,
+      "yearBasis": "Public archive listing",
+      "sourceType": "regional",
+      "institution": "Kilimanjaro Regional Commissioner’s Office",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Year attributed by the public archive listing. Issuer, form and subject are printed on the paper."
+    },
+    {
+      "id": "source-5d487476aa996b95",
+      "sha256": "5d487476aa996b959eac3ea4d0d0103d1902bb44f5d20bb180ad86f48df2810b",
+      "sourcePdf": "/source-papers/source-5d487476aa996b95/original.pdf",
+      "pageImages": [
+        "/source-papers/source-5d487476aa996b95/page-001.jpg",
+        "/source-papers/source-5d487476aa996b95/page-002.jpg",
+        "/source-papers/source-5d487476aa996b95/page-003.jpg",
+        "/source-papers/source-5d487476aa996b95/page-004.jpg",
+        "/source-papers/source-5d487476aa996b95/page-005.jpg",
+        "/source-papers/source-5d487476aa996b95/page-006.jpg",
+        "/source-papers/source-5d487476aa996b95/page-007.jpg"
+      ],
+      "pageCount": 7,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=10jbOR3twWyl7gwEhdXLkBF6BcR-KVDFD",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Kilimanjaro Regional Commissioner’s Office • Form One Regional Joint Examination • English Language • 2025",
+      "form": 1,
+      "subjectId": "english",
+      "year": 2025,
+      "yearBasis": "Public archive listing",
+      "sourceType": "regional",
+      "institution": "Kilimanjaro Regional Commissioner’s Office",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Year attributed by the public archive listing. Issuer, form and subject are printed on the paper."
+    },
+    {
+      "id": "source-2429bf79a19c64e0",
+      "sha256": "2429bf79a19c64e078d650599ee068450270327c158fe9ae71611c1c1075560b",
+      "sourcePdf": "/source-papers/source-2429bf79a19c64e0/original.pdf",
+      "pageImages": [
+        "/source-papers/source-2429bf79a19c64e0/page-001.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-002.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-003.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-004.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-005.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-006.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-007.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1_ZsKpUnfm1L50h7BkIQnaxu91TKOyTu8",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Kilimanjaro Regional Commissioner’s Office • Form One Regional Joint Examination • Business Studies • 2025",
+      "form": 1,
+      "subjectId": "business",
+      "year": 2025,
+      "yearBasis": "Public archive listing",
+      "sourceType": "regional",
+      "institution": "Kilimanjaro Regional Commissioner’s Office",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Year attributed by the public archive listing. Issuer, form and subject are printed on the paper."
+    },
+    {
+      "id": "source-51573f3a30109107",
+      "sha256": "51573f3a30109107a5b68bd82d89611972001c682620fe3055885589d556d559",
+      "sourcePdf": "/source-papers/source-51573f3a30109107/original.pdf",
+      "pageImages": [
+        "/source-papers/source-51573f3a30109107/page-001.jpg",
+        "/source-papers/source-51573f3a30109107/page-002.jpg",
+        "/source-papers/source-51573f3a30109107/page-003.jpg",
+        "/source-papers/source-51573f3a30109107/page-004.jpg",
+        "/source-papers/source-51573f3a30109107/page-005.jpg",
+        "/source-papers/source-51573f3a30109107/page-006.jpg",
+        "/source-papers/source-51573f3a30109107/page-007.jpg"
+      ],
+      "pageCount": 7,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=10OfWYMKji4D_bldX4b2OroMjRlgKA5nU",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Markaz Islamic Seminary • Form One Midterm Examination • Geography • 2026",
+      "form": 1,
+      "subjectId": "geography",
+      "year": 2026,
+      "yearBasis": "Printed cover",
+      "sourceType": "school",
+      "institution": "Markaz Islamic Seminary",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Date, form and subject appear on the paper. School attribution comes from the public examination listing and is also referenced in Question 5."
+    }
+  ]
+}

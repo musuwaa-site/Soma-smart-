@@ -1,0 +1,209 @@
+{
+  "source-f1950e79f20619eb": {
+    "sourceSha256": "f1950e79f20619eb2eaa8fbdf6609381b26f2402357230b15bc941a11a937471",
+    "title": "SomaSmart independent marking guide",
+    "provenance": "The examination assigns ten marks to each question. SomaSmart prepared the answers and divided those marks among the subparts for self-assessment.",
+    "groups": {
+      "1": {
+        "maximumMarks": 10,
+        "parts": [
+          {
+            "label": "a",
+            "marks": 6,
+            "answer": "Examples include arithmetic, which studies numbers and their operations, algebra, which uses symbols to study relationships, and geometry, which studies shapes and space. Other recognised branches with accurate explanations are acceptable.",
+            "rubric": "For each of three distinct branches award one mark for its name and one for a correct explanation."
+          },
+          {
+            "label": "b(i)",
+            "marks": 2,
+            "answer": "Physics uses mathematics to describe relationships and calculate quantities. For example, average speed equals total distance divided by elapsed time.",
+            "rubric": "Award one mark for the relationship and one for a valid example."
+          },
+          {
+            "label": "b(ii)",
+            "marks": 2,
+            "answer": "Chemistry uses mathematics to relate measured amounts. For example, the concentration in grams per litre equals solute mass in grams divided by solution volume in litres.",
+            "rubric": "Award one mark for the relationship and one for a valid example."
+          }
+        ]
+      },
+      "2": {
+        "maximumMarks": 10,
+        "parts": [
+          {
+            "label": "a(i–iii)",
+            "marks": 6,
+            "answer": "The repeating blocks are respectively 3, 639 and 47. Bar notation places one bar over the whole repeating block. Dot notation gives 0.3̇, 0.6̇39̇ and 0.4̇7̇.",
+            "rubric": "For each decimal give one mark for bar notation and one for dot notation showing the complete repeating block."
+          },
+          {
+            "label": "b(i)",
+            "marks": 2,
+            "answer": "Only the 3 repeats. For x = 0.8333…, 100x − 10x = 83.333… − 8.333… = 75. Thus x = 75/90 = 5/6.",
+            "rubric": "One mark for a valid recurring-decimal method and one for 5/6 or an equivalent fraction."
+          },
+          {
+            "label": "b(ii)",
+            "marks": 2,
+            "answer": "For x = 0.222…, 10x − x = 2. Thus x = 2/9.",
+            "rubric": "One mark for cancelling the repeating part and one for 2/9."
+          }
+        ]
+      },
+      "3": {
+        "maximumMarks": 10,
+        "parts": [
+          {
+            "label": "a(i)",
+            "marks": 2,
+            "answer": "0.222… + 0.515151… = 2/9 + 51/99 = 73/99.",
+            "rubric": "One mark for converting the recurring decimals and one for the sum."
+          },
+          {
+            "label": "a(ii)",
+            "marks": 2,
+            "answer": "1.6777… + 2.111… = 151/90 + 19/9 = 341/90 = 3.7888….",
+            "rubric": "One mark for correct conversions and one for the result."
+          },
+          {
+            "label": "a(iii)",
+            "marks": 2,
+            "answer": "0.666… − 0.4111… = 2/3 − 37/90 = 23/90.",
+            "rubric": "One mark for correct conversions and one for the result."
+          },
+          {
+            "label": "b",
+            "marks": 4,
+            "answer": "For x = 0.272727…, 100x − x = 27. Therefore x = 27/99 = 3/11. The requested sum in lowest terms is 3 + 11 = 14.",
+            "rubric": "Award one mark each for identifying the repeating pair, forming 27/99, reducing to 3/11, and adding to obtain 14."
+          }
+        ]
+      },
+      "4": {
+        "maximumMarks": 10,
+        "parts": [
+          {
+            "label": "a",
+            "marks": 5,
+            "answer": "The wording omits a second subject. Reading it as −1 < x < 4 gives filled points at 0, 1, 2 and 3. A literal reading, “−1 is less than x and [−1] is less than 4”, gives every integer from 0 upwards. Accept either interpretation if the number line matches it.",
+            "rubric": "Award two marks for a consistent inequality, one for excluding −1, and two for showing the correct discrete points and upper limit or continuation."
+          },
+          {
+            "label": "b",
+            "marks": 5,
+            "answer": "Plot filled points at −2, −1, 0, 1, 2, 3, 4, 5 and 6. Both end points are included.",
+            "rubric": "Award one mark per correct endpoint, one for the interior negative and zero points, one for the interior positive points, and one for using discrete integer points."
+          }
+        ]
+      },
+      "5": {
+        "maximumMarks": 10,
+        "parts": [
+          {
+            "label": "a(i–iii)",
+            "marks": 3,
+            "answer": "The statements are respectively TRUE (3 < 30), TRUE (6 ≥ 2), and FALSE (−30 lies to the left of 3).",
+            "rubric": "One mark for each correct judgement."
+          },
+          {
+            "label": "b(i)",
+            "marks": 3,
+            "answer": "Counting upwards from one gives 1, 2, 3, 4 and 5.",
+            "rubric": "One mark for identifying the lower bound, one for stopping at 5, and one for the complete list."
+          },
+          {
+            "label": "b(ii)",
+            "marks": 4,
+            "answer": "The integers are −2, −1, 0, 1, 2, 3 and 4.",
+            "rubric": "One mark each for excluding −3, including 4, including zero and listing all intervening integers."
+          }
+        ]
+      },
+      "6": {
+        "maximumMarks": 10,
+        "parts": [
+          {
+            "label": "a(i–iii)",
+            "marks": 6,
+            "answer": "591622 rounds to 591600 (tens digit 2). 35.4 rounds to 35 (tenths digit 4). 234 rounds to 200 (tens digit 3).",
+            "rubric": "For each answer, one mark for choosing the correct place value and one for its rounded result."
+          },
+          {
+            "label": "b",
+            "marks": 4,
+            "answer": "5,834,875 men rounds to 6,000,000 men. 5,911,188 women rounds to 6,000,000 women. The hundred-thousands digits, 8 and 9, both round the millions place upwards.",
+            "rubric": "For each population give one mark for correct rounding reasoning and one for the rounded number."
+          }
+        ]
+      },
+      "7": {
+        "maximumMarks": 10,
+        "parts": [
+          {
+            "label": "a(i–iii)",
+            "marks": 6,
+            "answer": "38.5 × 4.1 = 157.85, which rounds to 200. 2.5 ÷ 0.0025 = 1,000, already a multiple of 100. 1985 + 15.58 = 2000.58, which rounds to 2,000.",
+            "rubric": "For each calculation award one mark for the exact value and one for the value to the nearest hundred."
+          },
+          {
+            "label": "c",
+            "marks": 4,
+            "answer": "67,459,853 lies between 67,459,000 and 67,460,000. Its hundreds digit is 8, so the profit rounds up to TSh 67,460,000.",
+            "rubric": "One mark each for selecting thousands, finding the hundreds digit, rounding upwards with the carry and stating the correct amount."
+          }
+        ]
+      },
+      "8": {
+        "maximumMarks": 10,
+        "parts": [
+          {
+            "label": "a(i–iii)",
+            "marks": 6,
+            "answer": "6.2358 rounds to 6.24. 3.4655 rounds to 3.47. 0.2475 rounds to 0.248 using standard school rounding.",
+            "rubric": "Give one mark for inspecting the first discarded digit and one for the correctly rounded value in each item."
+          },
+          {
+            "label": "b",
+            "marks": 4,
+            "answer": "Area = side × side = 3.14 m × 3.14 m = 9.8596 m² ≈ 9.860 m² to three decimal places.",
+            "rubric": "One mark each for the formula, substitution, exact product and correctly rounded result with square units."
+          }
+        ]
+      },
+      "9": {
+        "maximumMarks": 10,
+        "parts": [
+          {
+            "label": "a(i–iii)",
+            "marks": 6,
+            "answer": "5.0372 has 5 significant figures. 97168.9000000 has 12: all six trailing decimal zeros follow a significant digit. 1.00000786 has 9: zeros between non-zero digits count.",
+            "rubric": "Give one mark for applying the significant-zero rule and one for each corresponding count."
+          },
+          {
+            "label": "b",
+            "marks": 4,
+            "answer": "½ + 3⅓ + 4 = 3/6 + 20/6 + 24/6 = 47/6 = 7.8333… ≈ 7.8 to two significant figures.",
+            "rubric": "One mark each for interpreting the mixed number, achieving a common denominator or equivalent decimal calculation, obtaining 47/6 or equivalent and rounding to 7.8."
+          }
+        ]
+      },
+      "10": {
+        "maximumMarks": 10,
+        "parts": [
+          {
+            "label": "a",
+            "marks": 5,
+            "answer": "Let x be the fourth term. 42:36 = 35:x, so 42x = 36 × 35 = 1260. Then x = 30.",
+            "rubric": "Award two marks for the correct proportional relationship, one for cross multiplication, one for the product and one for 30."
+          },
+          {
+            "label": "b",
+            "marks": 5,
+            "answer": "For nonzero n, let x be the third proportional. Then 2n²:3n² = 3n²:x. Thus 2n²x = 9n⁴ and x = (9/2)n².",
+            "rubric": "Award two marks for the repeated middle term in the proportion, one for cross multiplication, one for squaring 3n² correctly and one for simplification."
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "status": "unfinished",
   "counts": {
-    "bundledSourcePaperDocuments": 89,
-    "bundledSourcePages": 790,
+    "bundledSourcePaperDocuments": 125,
+    "bundledSourcePages": 1063,
     "bundledSourceAnswerGuides": 32,
     "bundledSourceAnswerGuidePages": 137,
     "completedTextbooks": 0,
@@ -21,7 +21,7 @@
     "glossaryDefinitions": 397,
     "originalDiagrams": 10,
     "candidatePaperURLsInvestigated": 360,
-    "candidatePaperDocumentsAcquired": 122,
+    "candidatePaperDocumentsAcquired": 144,
     "acquiredOfficialReferencePDFs": 14,
     "extractedPapers": 10,
     "publishedPapers": 22,
@@ -35,9 +35,9 @@
     "heldAuthenticRecords": 66,
     "automaticallyScoredAuthenticRecords": 183,
     "authenticScoredRecords": 641,
-    "independentPracticeGuides": 3,
-    "interactiveSelfCheckPapers": 67,
-    "interactiveSelfCheckGroups": 654,
+    "independentPracticeGuides": 6,
+    "interactiveSelfCheckPapers": 103,
+    "interactiveSelfCheckGroups": 1012,
     "sourcePapersWithoutInteractiveSelection": 0
   },
   "coverage": [

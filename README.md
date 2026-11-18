@@ -69,3 +69,9 @@ Complete past papers: Exams → choose the form and subject → Past-paper libra
 `python scripts/import_interactive_papers.py` integrates the visually transcribed `content/batches/interactive-*.json` assets. Each source part retains its original number, wording, shared instructions, passages, options and figures; a source-text digest rejects unintended changes. MCQs/matching grade automatically; written answers and drawings require self-marking. Original duplicate option labels and underlining remain visible. The canvas saves diagrams with local attempts.
 
 Paper totals distinguish full transcription from complete scoring. Unresolved source items remain drafts and cannot enter a scored selection. An incorrect source key may have explicitly labelled independently checked guidance; the original question and source guide remain unchanged. `content/interactive-conversion-report.json` and the generated inventory contain actual totals. Source attribution corrections are retained in `content/source-corrections.json`; one archived Chemistry entry was Computer Science with a mismatched guide and is quarantined.
+
+## Build the 125-paper edition
+
+Run `npm run build` followed by `node scripts/verify_release.mjs` and `python scripts/package.py` for the complete offline ZIP with original PDFs. For the size-limited ChatGPT Site, follow the full build with `node scripts/build_hosted.mjs` and `node scripts/verify_release.mjs --hosted`. Package the contents of `dist-hosted/` as the hosted `dist/` directory. This edition includes every archived exam and guide page for offline reading and practice. Opening the linked archive PDF requires internet access.
+
+Run `node scripts/check_offline_papers.mjs dist-hosted` and `node scripts/check_practice_session.mjs dist-hosted` to exercise the built service worker and student application in the test harness.

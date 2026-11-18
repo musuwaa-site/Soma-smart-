@@ -23,3 +23,9 @@ Release 0.9.0 passes 68 automated tests, including exact paper binding and the 1
 Release 0.10.0 checks the original scan reading order and both independent guide totals. The combined suite has 69 automated tests.
 
 Release 0.11.0 checks all 67 self-check selections and the source bindings for two full Mathematics guides and one partial Physics guide.
+
+## Release 0.12.0
+
+All 45 Node and 24 Python tests passed. The full ZIP build verified 1,462 offline assets (305.9 MiB expanded) and the private Site build verified 1,305 (83.2 MiB expanded). Both contained 125 interactive papers. The full build preserved every archive PDF hash. The hosted build preserved every published paper and guide page.
+
+With the network disabled after installation in the service-worker harness, both builds served the library and every selected question page across 1,012 groups. The application harness selected questions, entered answers, saved review status, and restarted the app for all 103 page-based papers. For questions with a guide it also checked saved self-marks. The 22 other papers passed scored-record and marking checks. These runs used JavaScript test doubles for device storage and browser APIs. Visual browser and physical Android acceptance are still open.

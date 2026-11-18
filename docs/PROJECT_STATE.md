@@ -1,12 +1,12 @@
 # SomaSmart project state
 
-**Unfinished content release 0.11.0.** Owner-private ChatGPT preview: https://somasmart-study.astuteegret257.chatgpt.site
+**Unfinished content release 0.12.0.** Owner-private ChatGPT preview: https://somasmart-study.astuteegret257.chatgpt.site
 
 ## Integrated educational resources
 
 122 readable chapters; 366 examples; 3026 original questions including 1009 labelled numerical variants. All 36 books remain partial. Eighteen original revision papers and their independent guides remain available. Curriculum locators: 251; 235 have partial support, not full verified subtopic coverage.
 
-51 correctly attributed complete source PDFs, 364 question-paper pages and 32 associated guides (137 pages). One archive Chemistry PDF is actually Computer Science CODE037; its CODE032 Chemistry guide does not match. Both are quarantined from student publication, with original bytes retained. Corrections: content/source-corrections.json. Owner permission is already authorized; do not ask again.
+125 distinct interactive source papers, 1,063 archived question-paper pages and 32 associated guides (137 pages). One archive Chemistry PDF is actually Computer Science CODE037; its CODE032 Chemistry guide does not match. Both are quarantined from student publication, with original bytes retained. Corrections: content/source-corrections.json. Owner permission is already authorized; do not ask again.
 
 ## Interactive conversion
 
@@ -18,7 +18,7 @@ Canonical editorial data: content/library.json. Authored exact-source batches: c
 
 ## Evidence and continuation
 
-67 automated tests passed (43 Node and 24 Python). The offline package passed its asset checks. Physical Android and browser acceptance remain pending. The separate owner studio runs server-side.
+69 automated tests passed (45 Node and 24 Python). The offline package passed its asset checks. Physical Android and browser acceptance remain pending. The separate owner studio runs server-side.
 
 The official NECTA format effective in 2022 establishes the 2025 Biology, Geography and Kiswahili marks. Sections with official whole-question totals use whole-question self-assessment with all original subparts shown. The May 2026 general-education format confirms its alignment with the 2023 syllabuses effective from 2025. The downloaded formats are recorded under acquisition with hashes and page references. Detailed curriculum coverage still needs verification.
 
@@ -48,3 +48,9 @@ A second complete 100-mark independent guide covers the March 2025 Form One Math
 Release 0.11.0 adds seven Physics and seven Kiswahili papers, for 89 of 180 source papers and 654 selectable self-check groups. Two 2024 scans use corrected reading order. The archive PDFs remain byte-identical. The 2011 and 2012 Physics papers retain their printed Ministry of Education attribution. The 2024 Physics paper has independent scoring guidance for Questions 7 and 10, covering 25 printed marks. Archive solutions are recorded separately as third-party reference material. The scored bank remains 641 records. The remaining paper-count gap is 91.
 
 The hosted build uses WebP for page previews where it saves space and validates every original PDF hash. The 89-paper build is approximately 242 MiB expanded, below the 256 MiB Sites limit. Thirty additional Form One candidate PDFs have been acquired and recorded in acquisition/form-one-next-candidates.json. They need printed cover and page-order checks before inclusion.
+
+## 125-paper milestone
+
+Release 0.12.0 contains 76 Form One and 49 Form Two original papers. Students can select and answer 1,012 printed question groups from 103 papers. Another 22 papers supply 641 scored records. Every paper has a student-facing practice route. The 36 additions contribute 273 pages and 358 selectable groups. Four candidates with missing or inconsistent printed material were held and replaced with complete copies of other papers. Three new independent 100-mark guides cover Kigoma Mathematics, Kigoma Business Studies and Markaz Mathematics. The full offline ZIP preserves each acquired PDF. The hosted edition bundles every published page image and offers an online link for downloading the archive original.
+
+To reach 180 evenly distributed papers, the remaining acquisition target is 14 Form One and 41 Form Two. Begin with distinct Form Two candidates in acquisition/documents, match their printed question numbering and check pagination. Keep missing printed pages documented. Manuscript work remains paused.

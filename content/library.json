@@ -1,5 +1,5 @@
 {
-  "version": "0.11.0",
+  "version": "0.12.0",
   "status": "development-partial",
   "subjects": [
     {
@@ -249187,6 +249187,4015 @@
             "label": "10",
             "firstPage": 8,
             "lastPage": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-cf60ecfc976c4929",
+      "sha256": "cf60ecfc976c49295759769711d1ef35d442a9c31058ea5247a57f85efe1d0db",
+      "sourcePdf": "/source-papers/source-cf60ecfc976c4929/original.pdf",
+      "pageImages": [
+        "/source-papers/source-cf60ecfc976c4929/page-001.jpg",
+        "/source-papers/source-cf60ecfc976c4929/page-002.jpg",
+        "/source-papers/source-cf60ecfc976c4929/page-003.jpg",
+        "/source-papers/source-cf60ecfc976c4929/page-004.jpg",
+        "/source-papers/source-cf60ecfc976c4929/page-005.jpg",
+        "/source-papers/source-cf60ecfc976c4929/page-006.jpg",
+        "/source-papers/source-cf60ecfc976c4929/page-007.jpg",
+        "/source-papers/source-cf60ecfc976c4929/page-008.jpg",
+        "/source-papers/source-cf60ecfc976c4929/page-009.jpg"
+      ],
+      "pageCount": 9,
+      "sourceReference": "https://drive.google.com/file/d/1Hh03VcutuPbujPjrUVy__MY69YJnuXDf/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Physics • Form One • 2025",
+      "form": 1,
+      "subjectId": "physics",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "school",
+      "institution": "Catholic Diocese of Kigoma",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "cf60ecfc976c49295759769711d1ef35d442a9c31058ea5247a57f85efe1d0db",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "4",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "6",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "10",
+            "firstPage": 8,
+            "lastPage": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-beec7230ba202638",
+      "sha256": "beec7230ba202638f21479a865e501b01f1038578e3b35aadeaa5125c4188902",
+      "sourcePdf": "/source-papers/source-beec7230ba202638/original.pdf",
+      "pageImages": [
+        "/source-papers/source-beec7230ba202638/page-001.jpg",
+        "/source-papers/source-beec7230ba202638/page-002.jpg",
+        "/source-papers/source-beec7230ba202638/page-003.jpg",
+        "/source-papers/source-beec7230ba202638/page-004.jpg",
+        "/source-papers/source-beec7230ba202638/page-005.jpg",
+        "/source-papers/source-beec7230ba202638/page-006.jpg",
+        "/source-papers/source-beec7230ba202638/page-007.jpg",
+        "/source-papers/source-beec7230ba202638/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://drive.google.com/file/d/1DwBoYGoH2g97ticQhodZOGGnmmQX2tsv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Mathematics • Form One • 2025",
+      "form": 1,
+      "subjectId": "mathematics",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "school",
+      "institution": "Catholic Diocese of Kigoma",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "beec7230ba202638f21479a865e501b01f1038578e3b35aadeaa5125c4188902",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "2",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "4",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "5",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "6",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "10",
+            "firstPage": 7,
+            "lastPage": 8
+          }
+        ]
+      },
+      "independentPracticeGuide": {
+        "sourceSha256": "beec7230ba202638f21479a865e501b01f1038578e3b35aadeaa5125c4188902",
+        "title": "SomaSmart independent Mathematics marking guide",
+        "provenance": "SomaSmart prepared the worked solutions and partial-credit allocations. The source gives ten marks for each question. Accept equivalent correct methods.",
+        "groups": {
+          "1": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 2,
+                "answer": "Arithmetic studies numbers and operations such as addition, subtraction, multiplication and division.",
+                "rubric": "Award one mark for numbers and one for explaining operations or giving examples."
+              },
+              {
+                "label": "b(i–iv)",
+                "marks": 8,
+                "answer": "Physics uses distance divided by time to find speed. Biology uses counts to estimate a population. Chemistry uses ratios to determine the quantities of reacting substances. Business Studies uses the difference between revenue and costs to find profit.",
+                "rubric": "Two marks per subject for a relevant application and a clear explanation of the mathematics used."
+              }
+            ]
+          },
+          "2": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 5,
+                "answer": "The dots above 2 and 7 mean both digits repeat. Set x = 0.272727… . Then 100x − x = 27, so x = 27/99 = 3/11. The sum in lowest terms is 3 + 11 = 14.",
+                "rubric": "One mark each for interpreting the repeating digits, shifting the decimal, subtracting, simplifying and adding."
+              },
+              {
+                "label": "b",
+                "marks": 5,
+                "answer": "The square root requires 5x − 1 ≥ 0, giving x ≥ 1/5. Squaring √(5x − 1) ≤ 3 gives 5x − 1 ≤ 9, hence x ≤ 2. Draw solid dots at 1/5 and 2 and shade between them.",
+                "rubric": "Two marks for the lower bound, two for the upper bound and one for the closed segment."
+              }
+            ]
+          },
+          "3": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a(i–iii)",
+                "marks": 6,
+                "answer": "86.5 to one decimal place, 86.46 to two decimal places and 86.5 to three significant figures. In (i) and (iii) the next digit is 6. In (ii) the next digit is 3.",
+                "rubric": "Two marks per result. Allow one for identifying the correct rounding position if the final digit is wrong."
+              },
+              {
+                "label": "b(i–ii)",
+                "marks": 4,
+                "answer": "5,267,910 rounds up to 5,268,000 because 910 is at least 500. In 31.7842 the thousandths digit is 4, so the answer is 31.78.",
+                "rubric": "Two marks for each correct result. Give one for a correct rounding method with an arithmetic error."
+              }
+            ]
+          },
+          "4": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 5,
+                "answer": "Multiply 1/2 and 1/6 by 6 to get C:B = 3:1. Multiply 1/3 and 1/5 by 15 to get A:C = 5:3. Both ratios now have C = 3, so C:B:A = 3:1:5.",
+                "rubric": "Two marks for each simplified ratio and one for combining them in the requested order."
+              },
+              {
+                "label": "b",
+                "marks": 5,
+                "answer": "Speed = 200/50 = 4 metres per second. Time = 1000/4 = 250 seconds (4 minutes 10 seconds).",
+                "rubric": "Two marks for setting up speed or an equivalent proportion, one for the scale factor or speed, and two for elapsed time with units."
+              }
+            ]
+          },
+          "5": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 3,
+                "answer": "Write the integers as n and n + 1. Then 2n + 1 = 37, giving n = 18. The numbers are 18 and 19.",
+                "rubric": "One mark for representing the pair, one for the equation or equivalent reasoning and one for the pair."
+              },
+              {
+                "label": "b",
+                "marks": 3,
+                "answer": "Multiply the printed equation by 10 to obtain 15x + 2x = 25x − 50. Then 8x = 50, giving x = 25/4.",
+                "rubric": "One mark each for clearing denominators, collecting like terms and the solution."
+              },
+              {
+                "label": "c",
+                "marks": 4,
+                "answer": "Subtract 2x − y = 3 from 3x − y = 2 to obtain x = −1. Substitute into 2x − y = 3 to obtain −2 − y = 3. Thus y = −5.",
+                "rubric": "One mark each for elimination, x, substitution and y."
+              }
+            ]
+          },
+          "6": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 5,
+                "answer": "Gradient = (−8 + 4)/(−4 + 2) = 2. Using (−2, −4), the intercept satisfies −4 = 2(−2) + c, so c = 0 and y = 2x.",
+                "rubric": "Two marks for finding the gradient, two for the intercept calculation and one for the final equation."
+              },
+              {
+                "label": "b",
+                "marks": 5,
+                "answer": "Gradient RT = (0 − 5)/(4 + 1) = −1. Using (4, 0), the line is y = −x + 4. At Q, 3 = −m + 4, so m = 1.",
+                "rubric": "Two marks for the gradient, one for the line or equal-gradient relation, one for substitution and one for m."
+              }
+            ]
+          },
+          "7": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 6,
+                "answer": "A shopping budget helps a family keep spending within its income. Measuring ingredients keeps a recipe in proportion. Calculating distance divided by walking speed helps plan when to leave for school.",
+                "rubric": "Two marks for each distinct use with an explanation. Accept other valid everyday applications."
+              },
+              {
+                "label": "b",
+                "marks": 4,
+                "answer": "5,000,000 ÷ 40,000 = 125 weekly withdrawals. At the stated rate this covers 125 × 7 = 875 days of expenses.",
+                "rubric": "Two marks for calculating the withdrawals and two for converting that number of weeks to days with units."
+              }
+            ]
+          },
+          "8": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 5,
+                "answer": "Use 3.485 ≈ 3.5, √35.95 ≈ √36 = 6 and 349.95 ≈ 350. The estimate is 21/350 = 0.06, which rounds to 0.1 to one decimal place.",
+                "rubric": "Two marks for suitable approximations, one for substitution, one for evaluation and one for rounding. Accept direct evaluation with correct rounding."
+              },
+              {
+                "label": "b",
+                "marks": 5,
+                "answer": "Three parts magnesium combine with two parts oxygen. One part weighs 1.4/2 = 0.7 kg, so the magnesium required weighs 3 × 0.7 = 2.1 kg.",
+                "rubric": "Two marks for matching the ratio to the substances, one for the unit part and two for the final mass with units."
+              }
+            ]
+          },
+          "9": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 5,
+                "answer": "Let the numerator be n. The changed fraction satisfies (n − 4)/(n + 5) = 2/5. Thus 5n − 20 = 2n + 10 and n = 10. The original fraction is 10/15, equivalent to 2/3.",
+                "rubric": "One mark each for representing the denominator, the changed fraction, cross-multiplication, solving and reporting the original fraction."
+              },
+              {
+                "label": "b",
+                "marks": 5,
+                "answer": "The given line crosses the y-axis at (0, −5). Through this point and (2, −2), the gradient is [−2 − (−5)]/2 = 3/2. Hence y = (3/2)x − 5.",
+                "rubric": "Two marks for the intercept, two for the gradient and one for the equation."
+              }
+            ]
+          },
+          "10": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 4,
+                "answer": "A rational number equals p/q for integers p and q with q ≠ 0, as in 1/4. An irrational number cannot be written this way. Its decimal expansion continues without repeating, as in √2.",
+                "rubric": "Two marks for each accurate distinction, accepting correct equivalent explanations."
+              },
+              {
+                "label": "b",
+                "marks": 6,
+                "answer": "For x + y = 3, plot (0, 3) and (3, 0). For x − y = 1, plot (0, −1) and (1, 0). Draw both lines on the same labelled axes. Their intersection is (2, 1), so x = 2 and y = 1.",
+                "rubric": "Two marks per correctly plotted line, one for locating the intersection and one for reading the solution."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "source-0b1b118a81062c00",
+      "sha256": "0b1b118a81062c00fb982e9595d105e95c9daf69ab9f8d5ceb2f5ec301e45511",
+      "sourcePdf": "/source-papers/source-0b1b118a81062c00/original.pdf",
+      "pageImages": [
+        "/source-papers/source-0b1b118a81062c00/page-001.jpg",
+        "/source-papers/source-0b1b118a81062c00/page-002.jpg",
+        "/source-papers/source-0b1b118a81062c00/page-003.jpg",
+        "/source-papers/source-0b1b118a81062c00/page-004.jpg",
+        "/source-papers/source-0b1b118a81062c00/page-005.jpg",
+        "/source-papers/source-0b1b118a81062c00/page-006.jpg",
+        "/source-papers/source-0b1b118a81062c00/page-007.jpg",
+        "/source-papers/source-0b1b118a81062c00/page-008.jpg",
+        "/source-papers/source-0b1b118a81062c00/page-009.jpg",
+        "/source-papers/source-0b1b118a81062c00/page-010.jpg"
+      ],
+      "pageCount": 10,
+      "sourceReference": "https://drive.google.com/file/d/1JD4JGBZj_xbI4_Na3Lh__7zdI6NZeixO/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Kiswahili • Form One • 2025",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "school",
+      "institution": "Catholic Diocese of Kigoma",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "0b1b118a81062c00fb982e9595d105e95c9daf69ab9f8d5ceb2f5ec301e45511",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "9",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "10",
+            "firstPage": 9,
+            "lastPage": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-8e2f9260031a5b15",
+      "sha256": "8e2f9260031a5b15358e25f0f7abff3151d9e2e08c3c0cfe0b731a138745a1d8",
+      "sourcePdf": "/source-papers/source-8e2f9260031a5b15/original.pdf",
+      "pageImages": [
+        "/source-papers/source-8e2f9260031a5b15/page-001.jpg",
+        "/source-papers/source-8e2f9260031a5b15/page-002.jpg",
+        "/source-papers/source-8e2f9260031a5b15/page-003.jpg",
+        "/source-papers/source-8e2f9260031a5b15/page-004.jpg",
+        "/source-papers/source-8e2f9260031a5b15/page-005.jpg",
+        "/source-papers/source-8e2f9260031a5b15/page-006.jpg",
+        "/source-papers/source-8e2f9260031a5b15/page-007.jpg",
+        "/source-papers/source-8e2f9260031a5b15/page-008.jpg",
+        "/source-papers/source-8e2f9260031a5b15/page-009.jpg"
+      ],
+      "pageCount": 9,
+      "sourceReference": "https://drive.google.com/file/d/1wAe52e_Yt5FIyH91u6CYF95kjcC_3mV_/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • English Language • Form One • 2025",
+      "form": 1,
+      "subjectId": "english",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "school",
+      "institution": "Catholic Diocese of Kigoma",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "8e2f9260031a5b15358e25f0f7abff3151d9e2e08c3c0cfe0b731a138745a1d8",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "10",
+            "firstPage": 8,
+            "lastPage": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-01685f87a6f1dc96",
+      "sha256": "01685f87a6f1dc969396171a1f50936e1f86a99250e2751403de5b327b69c08d",
+      "sourcePdf": "/source-papers/source-01685f87a6f1dc96/original.pdf",
+      "pageImages": [
+        "/source-papers/source-01685f87a6f1dc96/page-001.jpg",
+        "/source-papers/source-01685f87a6f1dc96/page-002.jpg",
+        "/source-papers/source-01685f87a6f1dc96/page-003.jpg",
+        "/source-papers/source-01685f87a6f1dc96/page-004.jpg",
+        "/source-papers/source-01685f87a6f1dc96/page-005.jpg",
+        "/source-papers/source-01685f87a6f1dc96/page-006.jpg",
+        "/source-papers/source-01685f87a6f1dc96/page-007.jpg",
+        "/source-papers/source-01685f87a6f1dc96/page-008.jpg",
+        "/source-papers/source-01685f87a6f1dc96/page-009.jpg",
+        "/source-papers/source-01685f87a6f1dc96/page-010.jpg",
+        "/source-papers/source-01685f87a6f1dc96/page-011.jpg",
+        "/source-papers/source-01685f87a6f1dc96/page-012.jpg",
+        "/source-papers/source-01685f87a6f1dc96/page-013.jpg"
+      ],
+      "pageCount": 13,
+      "sourceReference": "https://drive.google.com/file/d/1twTFuZ6W4y4HcEldUAuLHKFRfUlJOoT1/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Chemistry • Form One • 2025",
+      "form": 1,
+      "subjectId": "chemistry",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "school",
+      "institution": "Catholic Diocese of Kigoma",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "01685f87a6f1dc969396171a1f50936e1f86a99250e2751403de5b327b69c08d",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "7",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "8",
+            "firstPage": 8,
+            "lastPage": 10
+          },
+          {
+            "label": "9",
+            "firstPage": 10,
+            "lastPage": 11
+          },
+          {
+            "label": "10",
+            "firstPage": 11,
+            "lastPage": 13
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-d39b70b70872d3af",
+      "sha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "pageImages": [
+        "/source-papers/source-d39b70b70872d3af/page-001.jpg",
+        "/source-papers/source-d39b70b70872d3af/page-002.jpg",
+        "/source-papers/source-d39b70b70872d3af/page-003.jpg",
+        "/source-papers/source-d39b70b70872d3af/page-004.jpg",
+        "/source-papers/source-d39b70b70872d3af/page-005.jpg",
+        "/source-papers/source-d39b70b70872d3af/page-006.jpg",
+        "/source-papers/source-d39b70b70872d3af/page-007.jpg",
+        "/source-papers/source-d39b70b70872d3af/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "form": 1,
+      "subjectId": "business",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "school",
+      "institution": "Catholic Diocese of Kigoma",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "4",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "6",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "7",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "8",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "9",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "10",
+            "firstPage": 5,
+            "lastPage": 8
+          }
+        ]
+      },
+      "independentPracticeGuide": {
+        "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+        "title": "SomaSmart independent Business Studies marking guide",
+        "provenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+        "groups": {
+          "1": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "i–x",
+                "marks": 10,
+                "answer": "(i) C, make profit. (ii) B, production. (iii) D, sunlight. (iv) A, entrepreneurship. (v) C, creativity. (vi) B, food. (vii) C, profit. (viii) D, all of the above. (ix) B, management, leadership and interpersonal skills. (x) D, milk, meat, bread, fruits and vegetables.",
+                "rubric": "Award one mark for each correct selection, in its printed position."
+              }
+            ]
+          },
+          "2": {
+            "maximumMarks": 5,
+            "parts": [
+              {
+                "label": "i–v",
+                "marks": 5,
+                "answer": "(i) G, business. (ii) B, land. (iii) F, labour. (iv) A, capital. (v) E, entrepreneurship.",
+                "rubric": "Award one mark for each correct match."
+              }
+            ]
+          },
+          "3": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 5,
+                "answer": "A mill produces flour by processing grain. A wholesaler distributes sacks to shops. A retailer exchanges flour for payment. A family consumes the flour by using it to cook ugali.",
+                "rubric": "One mark per relevant process explained, up to four. Award the final mark for relevant concrete examples across the response."
+              },
+              {
+                "label": "b",
+                "marks": 5,
+                "answer": "Businesses meet needs by supplying goods and services, earn a return for their owners, create employment and improve products to retain customers.",
+                "rubric": "One mark per distinct purpose, up to four. Award one further mark for an explanation linking a purpose to how a business operates."
+              }
+            ]
+          },
+          "4": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 5,
+                "answer": "Land includes soil, water and other natural inputs. Labour supplies human effort and skills. Capital includes equipment used in production. Entrepreneurship coordinates the inputs and bears business risk.",
+                "rubric": "One mark per correctly explained factor, up to four. Award the final mark for distinguishing their different contributions with an example or explanation."
+              },
+              {
+                "label": "b",
+                "marks": 5,
+                "answer": "Choose a business idea and investigate demand. Plan the costs, finance and location. Arrange the capital. Complete the registrations, licences and permits applicable to the activity. Obtain supplies, keep records and start trading.",
+                "rubric": "One mark per relevant distinct step, up to five. Accept other logical sequences."
+              }
+            ]
+          },
+          "5": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "i–x",
+                "marks": 10,
+                "answer": "Merit goods or services are (i) vaccines, (iii) public libraries, (v) free education, (vii) clean water and (ix) health care. Demerit goods or services in the table are (ii) cigarettes, (iv) alcohol, (vi) hard drugs, (viii) gambling services and (x) junk food.",
+                "rubric": "One mark per correct classification."
+              }
+            ]
+          },
+          "6": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "i–v",
+                "marks": 10,
+                "answer": "Accounting records transactions and prepares financial information. Entrepreneurship identifies opportunities and starts enterprises. Management plans and coordinates resources. Marketing identifies customer needs and promotes products. Finance plans funding and the use of money.",
+                "rubric": "Two marks per distinct field and its relevant contribution. Award one for naming a valid field alone. Accept equivalent fields such as commerce with an explanation."
+              }
+            ]
+          },
+          "7": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 6,
+                "answer": "Needs are essentials for survival or well-being, such as food and safe drinking water. Wants are things people would like beyond these essentials, such as fashionable jewellery or a luxury watch.",
+                "rubric": "One mark for each definition and one for each of four appropriate examples."
+              },
+              {
+                "label": "b",
+                "marks": 4,
+                "answer": "Budgeting helps a person control spending. Comparing alternatives improves purchasing decisions. Recognising opportunities can lead to self-employment. Communicating with customers develops negotiation and listening skills.",
+                "rubric": "One mark for each distinct explained personal benefit, up to four."
+              }
+            ]
+          },
+          "8": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 5,
+                "answer": "One person owns the enterprise. The owner controls decisions. The owner takes the profit. The owner bears losses and has unlimited personal liability for business debts. Continuity often depends on the owner.",
+                "rubric": "One mark per distinct accurately described feature, up to five."
+              },
+              {
+                "label": "b",
+                "marks": 5,
+                "answer": "It can be simple to start. The owner decides quickly. The owner retains the profit. Business information can be kept private. Direct contact helps the owner respond to customers.",
+                "rubric": "One mark per distinct advantage briefly explained, up to five."
+              }
+            ]
+          },
+          "9": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 4,
+                "answer": "An entrepreneur organises resources and bears risk to start or run a venture. An intrapreneur develops an innovation inside an existing organisation using its resources and support.",
+                "rubric": "Two marks per definition explaining the role and its setting."
+              },
+              {
+                "label": "b",
+                "marks": 6,
+                "answer": "An entrepreneur identifies opportunities, creates new solutions, takes calculated risks, persists through setbacks and plans how to use limited resources. For example, testing a new product with a small order limits the potential loss.",
+                "rubric": "One mark per distinct trait explained, up to five. Award one additional mark for developing an explanation or illustrating a trait."
+              }
+            ]
+          },
+          "10": {
+            "maximumMarks": 15,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 6,
+                "answer": "A growing food-processing business can employ local workers and pay them incomes. Processing Tanzanian crops adds value and creates a market for farmers. Successful enterprises can pay taxes that support public services.",
+                "rubric": "Two marks per distinct contribution linked to an economic outcome. Accept other reasoned Tanzanian examples."
+              },
+              {
+                "label": "b",
+                "marks": 9,
+                "answer": "Limited capital can prevent a large order being filled. Saving part of profits or arranging affordable credit can finance the order. Illness of the owner can interrupt sales. Training a trusted deputy and documenting routines can keep trading going. Limited expertise can cause pricing mistakes. Bookkeeping training or specialist advice can improve cost estimates.",
+                "rubric": "Three marks per pair for identifying the challenge, explaining its effect and giving a practical solution that addresses it."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "source-b58457eeb37bed01",
+      "sha256": "b58457eeb37bed0137665bbc3a09290d9f79046964317dcbb0753c0180e6649d",
+      "sourcePdf": "/source-papers/source-b58457eeb37bed01/original.pdf",
+      "pageImages": [
+        "/source-papers/source-b58457eeb37bed01/page-001.jpg",
+        "/source-papers/source-b58457eeb37bed01/page-002.jpg",
+        "/source-papers/source-b58457eeb37bed01/page-003.jpg",
+        "/source-papers/source-b58457eeb37bed01/page-004.jpg",
+        "/source-papers/source-b58457eeb37bed01/page-005.jpg",
+        "/source-papers/source-b58457eeb37bed01/page-006.jpg",
+        "/source-papers/source-b58457eeb37bed01/page-007.jpg",
+        "/source-papers/source-b58457eeb37bed01/page-008.jpg",
+        "/source-papers/source-b58457eeb37bed01/page-009.jpg",
+        "/source-papers/source-b58457eeb37bed01/page-010.jpg",
+        "/source-papers/source-b58457eeb37bed01/page-011.jpg"
+      ],
+      "pageCount": 11,
+      "sourceReference": "https://drive.google.com/file/d/1A0Yv6lbojVt7UvH5A9cpZZvAkJ10DEiW/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Biology • Form One • 2025",
+      "form": 1,
+      "subjectId": "biology",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "school",
+      "institution": "Catholic Diocese of Kigoma",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "b58457eeb37bed0137665bbc3a09290d9f79046964317dcbb0753c0180e6649d",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "7",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "9",
+            "firstPage": 8,
+            "lastPage": 10
+          },
+          {
+            "label": "10",
+            "firstPage": 10,
+            "lastPage": 11
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-117f4702ba82f740",
+      "sha256": "117f4702ba82f740f812d42901dd43710f6dcc48374757172ac99a0d6d3ead5e",
+      "sourcePdf": "/source-papers/source-117f4702ba82f740/original.pdf",
+      "pageImages": [
+        "/source-papers/source-117f4702ba82f740/page-001.jpg",
+        "/source-papers/source-117f4702ba82f740/page-002.jpg",
+        "/source-papers/source-117f4702ba82f740/page-003.jpg",
+        "/source-papers/source-117f4702ba82f740/page-004.jpg",
+        "/source-papers/source-117f4702ba82f740/page-005.jpg",
+        "/source-papers/source-117f4702ba82f740/page-006.jpg",
+        "/source-papers/source-117f4702ba82f740/page-007.jpg",
+        "/source-papers/source-117f4702ba82f740/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://drive.google.com/file/d/1MAq2JZk7KSzbwFj7n9NKRbmZo2EWJ9BH/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Songwe Region • Regional annual joint assessment • Physics • Form One • 2025",
+      "form": 1,
+      "subjectId": "physics",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Songwe Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "117f4702ba82f740f812d42901dd43710f6dcc48374757172ac99a0d6d3ead5e",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "10",
+            "firstPage": 8,
+            "lastPage": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-5b2a1fe88807b36f",
+      "sha256": "5b2a1fe88807b36f0f826819d10821f4066df992d37ea92f6f44b0df4ff0bc15",
+      "sourcePdf": "/source-papers/source-5b2a1fe88807b36f/original.pdf",
+      "pageImages": [
+        "/source-papers/source-5b2a1fe88807b36f/page-001.jpg",
+        "/source-papers/source-5b2a1fe88807b36f/page-002.jpg",
+        "/source-papers/source-5b2a1fe88807b36f/page-003.jpg",
+        "/source-papers/source-5b2a1fe88807b36f/page-004.jpg",
+        "/source-papers/source-5b2a1fe88807b36f/page-005.jpg",
+        "/source-papers/source-5b2a1fe88807b36f/page-006.jpg"
+      ],
+      "pageCount": 6,
+      "sourceReference": "https://drive.google.com/file/d/1QvudvY7kMNnXlLM0tIok4LNCO69mrzhQ/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Songwe Region • Regional annual joint assessment • Mathematics • Form One • 2025",
+      "form": 1,
+      "subjectId": "mathematics",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Songwe Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "5b2a1fe88807b36f0f826819d10821f4066df992d37ea92f6f44b0df4ff0bc15",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "2",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "4",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "6",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "8",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "10",
+            "firstPage": 6,
+            "lastPage": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-3ec995304ddd0ce7",
+      "sha256": "3ec995304ddd0ce78dfc4d32e954d574ad13ae872848a9835645b17e45f8f9ec",
+      "sourcePdf": "/source-papers/source-3ec995304ddd0ce7/original.pdf",
+      "pageImages": [
+        "/source-papers/source-3ec995304ddd0ce7/page-001.jpg",
+        "/source-papers/source-3ec995304ddd0ce7/page-002.jpg",
+        "/source-papers/source-3ec995304ddd0ce7/page-003.jpg",
+        "/source-papers/source-3ec995304ddd0ce7/page-004.jpg",
+        "/source-papers/source-3ec995304ddd0ce7/page-005.jpg"
+      ],
+      "pageCount": 5,
+      "sourceReference": "https://drive.google.com/file/d/16-VsF5SajTD86jfmNoI--UekUY6tGZpt/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Songwe Region • Regional annual joint assessment • Historia ya Tanzania na Maadili • Form One • 2025",
+      "form": 1,
+      "subjectId": "historia",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Songwe Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "3ec995304ddd0ce78dfc4d32e954d574ad13ae872848a9835645b17e45f8f9ec",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "6",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "8",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "9",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "10",
+            "firstPage": 5,
+            "lastPage": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-717d2c58c84d3963",
+      "sha256": "717d2c58c84d39636c6a470c7f009f4feec2739f78dc7163c750bbc5ec1669f7",
+      "sourcePdf": "/source-papers/source-717d2c58c84d3963/original.pdf",
+      "pageImages": [
+        "/source-papers/source-717d2c58c84d3963/page-001.jpg",
+        "/source-papers/source-717d2c58c84d3963/page-002.jpg",
+        "/source-papers/source-717d2c58c84d3963/page-003.jpg",
+        "/source-papers/source-717d2c58c84d3963/page-004.jpg",
+        "/source-papers/source-717d2c58c84d3963/page-005.jpg"
+      ],
+      "pageCount": 5,
+      "sourceReference": "https://drive.google.com/file/d/1d1mGbPrnXs1bx4ggrGy5YE7kCiqzIE59/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Songwe Region • Regional annual joint assessment • Kiswahili • Form One • 2025",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Songwe Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "717d2c58c84d39636c6a470c7f009f4feec2739f78dc7163c750bbc5ec1669f7",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "6",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "7",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "8",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "9",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "10",
+            "firstPage": 5,
+            "lastPage": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-a6168ddd172148ce",
+      "sha256": "a6168ddd172148ce8b5306da16af25e9e59584154a3e93fc2276c23b336bbf79",
+      "sourcePdf": "/source-papers/source-a6168ddd172148ce/original.pdf",
+      "pageImages": [
+        "/source-papers/source-a6168ddd172148ce/page-001.jpg",
+        "/source-papers/source-a6168ddd172148ce/page-002.jpg",
+        "/source-papers/source-a6168ddd172148ce/page-003.jpg",
+        "/source-papers/source-a6168ddd172148ce/page-004.jpg",
+        "/source-papers/source-a6168ddd172148ce/page-005.jpg",
+        "/source-papers/source-a6168ddd172148ce/page-006.jpg"
+      ],
+      "pageCount": 6,
+      "sourceReference": "https://drive.google.com/file/d/14rWHwlnrYsQfI25XNHOR525J_2PR2Lbv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Songwe Region • Regional annual joint assessment • Geography • Form One • 2025",
+      "form": 1,
+      "subjectId": "geography",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Songwe Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Section B restarts numbering at 1. Its printed question numbers skip from 6 to 9. The picker includes the printed section labels.",
+      "practiceIndex": {
+        "sourceSha256": "a6168ddd172148ce8b5306da16af25e9e59584154a3e93fc2276c23b336bbf79",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1 (A)",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2 (A)",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "1 (B)",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "2 (B)",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3 (B)",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4 (B)",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5 (B)",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "6 (B)",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "9 (B)",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "10 (C)",
+            "firstPage": 6,
+            "lastPage": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-8302435c3f20ce3c",
+      "sha256": "8302435c3f20ce3c7b724313a27b99b2ed5b67464839f451ae9337f80561e731",
+      "sourcePdf": "/source-papers/source-8302435c3f20ce3c/original.pdf",
+      "pageImages": [
+        "/source-papers/source-8302435c3f20ce3c/page-001.jpg",
+        "/source-papers/source-8302435c3f20ce3c/page-002.jpg",
+        "/source-papers/source-8302435c3f20ce3c/page-003.jpg",
+        "/source-papers/source-8302435c3f20ce3c/page-004.jpg",
+        "/source-papers/source-8302435c3f20ce3c/page-005.jpg",
+        "/source-papers/source-8302435c3f20ce3c/page-006.jpg",
+        "/source-papers/source-8302435c3f20ce3c/page-007.jpg",
+        "/source-papers/source-8302435c3f20ce3c/page-008.jpg",
+        "/source-papers/source-8302435c3f20ce3c/page-009.jpg"
+      ],
+      "pageCount": 9,
+      "sourceReference": "https://drive.google.com/file/d/1r6RCOCxubWG-qRxZS4yJLvamcV409dcr/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Songwe Region • Regional annual joint assessment • English Language • Form One • 2025",
+      "form": 1,
+      "subjectId": "english",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Songwe Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "8302435c3f20ce3c7b724313a27b99b2ed5b67464839f451ae9337f80561e731",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 8
+          },
+          {
+            "label": "10",
+            "firstPage": 8,
+            "lastPage": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-0d508bbfeb8b7997",
+      "sha256": "0d508bbfeb8b7997fab6fb888f96fb3ca21987fecd15396c59535dd999e4f392",
+      "sourcePdf": "/source-papers/source-0d508bbfeb8b7997/original.pdf",
+      "pageImages": [
+        "/source-papers/source-0d508bbfeb8b7997/page-001.jpg",
+        "/source-papers/source-0d508bbfeb8b7997/page-002.jpg",
+        "/source-papers/source-0d508bbfeb8b7997/page-003.jpg",
+        "/source-papers/source-0d508bbfeb8b7997/page-004.jpg",
+        "/source-papers/source-0d508bbfeb8b7997/page-005.jpg",
+        "/source-papers/source-0d508bbfeb8b7997/page-006.jpg",
+        "/source-papers/source-0d508bbfeb8b7997/page-007.jpg",
+        "/source-papers/source-0d508bbfeb8b7997/page-008.jpg",
+        "/source-papers/source-0d508bbfeb8b7997/page-009.jpg",
+        "/source-papers/source-0d508bbfeb8b7997/page-010.jpg"
+      ],
+      "pageCount": 10,
+      "sourceReference": "https://drive.google.com/file/d/1GxAZifu9DhS1NjXHtNPgi1ltIfQ-joRQ/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Songwe Region • Regional annual joint assessment • Chemistry • Form One • 2025",
+      "form": 1,
+      "subjectId": "chemistry",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Songwe Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "0d508bbfeb8b7997fab6fb888f96fb3ca21987fecd15396c59535dd999e4f392",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "9",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "10",
+            "firstPage": 9,
+            "lastPage": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-fa6c02bb405c6d3b",
+      "sha256": "fa6c02bb405c6d3b95b8b4ad8734d47fb9bbf226c944df2b94a677eecf3de709",
+      "sourcePdf": "/source-papers/source-fa6c02bb405c6d3b/original.pdf",
+      "pageImages": [
+        "/source-papers/source-fa6c02bb405c6d3b/page-001.jpg",
+        "/source-papers/source-fa6c02bb405c6d3b/page-002.jpg",
+        "/source-papers/source-fa6c02bb405c6d3b/page-003.jpg",
+        "/source-papers/source-fa6c02bb405c6d3b/page-004.jpg",
+        "/source-papers/source-fa6c02bb405c6d3b/page-005.jpg",
+        "/source-papers/source-fa6c02bb405c6d3b/page-006.jpg"
+      ],
+      "pageCount": 6,
+      "sourceReference": "https://drive.google.com/file/d/1PMguuAzh6_sIrIJgTluXn_12mGCXCXZ-/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Songwe Region • Regional annual joint assessment • Business Studies • Form One • 2025",
+      "form": 1,
+      "subjectId": "business",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Songwe Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "draft",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-under-review",
+      "note": "The instructions mention ten questions. The six-page file contains Questions 1–9 and ends with an answer page."
+    },
+    {
+      "id": "source-84c1db7dc3d3cc61",
+      "sha256": "84c1db7dc3d3cc611a9e8c3326749b3d71b9f51957939dd76e7e46701a9935b9",
+      "sourcePdf": "/source-papers/source-84c1db7dc3d3cc61/original.pdf",
+      "pageImages": [
+        "/source-papers/source-84c1db7dc3d3cc61/page-001.jpg",
+        "/source-papers/source-84c1db7dc3d3cc61/page-002.jpg",
+        "/source-papers/source-84c1db7dc3d3cc61/page-003.jpg",
+        "/source-papers/source-84c1db7dc3d3cc61/page-004.jpg",
+        "/source-papers/source-84c1db7dc3d3cc61/page-005.jpg",
+        "/source-papers/source-84c1db7dc3d3cc61/page-006.jpg"
+      ],
+      "pageCount": 6,
+      "sourceReference": "https://drive.google.com/file/d/1yGeGu1KDkPAx2v4GpNU-3l420Nj4Ioqj/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Songwe Region • Regional annual joint assessment • Biology • Form One • 2025",
+      "form": 1,
+      "subjectId": "biology",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Songwe Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "84c1db7dc3d3cc611a9e8c3326749b3d71b9f51957939dd76e7e46701a9935b9",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "8",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "10",
+            "firstPage": 6,
+            "lastPage": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-8741fd7cb28631b1",
+      "sha256": "8741fd7cb28631b1640c01d6141208f20ea1b643ecb793162dd74285ed7d16b9",
+      "sourcePdf": "/source-papers/source-8741fd7cb28631b1/original.pdf",
+      "pageImages": [
+        "/source-papers/source-8741fd7cb28631b1/page-001.jpg",
+        "/source-papers/source-8741fd7cb28631b1/page-002.jpg",
+        "/source-papers/source-8741fd7cb28631b1/page-003.jpg",
+        "/source-papers/source-8741fd7cb28631b1/page-004.jpg",
+        "/source-papers/source-8741fd7cb28631b1/page-005.jpg",
+        "/source-papers/source-8741fd7cb28631b1/page-006.jpg",
+        "/source-papers/source-8741fd7cb28631b1/page-007.jpg"
+      ],
+      "pageCount": 7,
+      "sourceReference": "https://drive.google.com/file/d/19JSOkk6bCIBDb28LXZBwI1gQCo_ge4-T/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Kagera Region • Regional annual examination • Chemistry • Form One • 2025",
+      "form": 1,
+      "subjectId": "chemistry",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Kagera Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "8741fd7cb28631b1640c01d6141208f20ea1b643ecb793162dd74285ed7d16b9",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 1,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "8",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "10",
+            "firstPage": 6,
+            "lastPage": 7
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-9c800a621d7d50a1",
+      "sha256": "9c800a621d7d50a1b1ffb79bee03f784c5a733905ff2e5180b9a298ef8a6409d",
+      "sourcePdf": "/source-papers/source-9c800a621d7d50a1/original.pdf",
+      "pageImages": [
+        "/source-papers/source-9c800a621d7d50a1/page-001.jpg",
+        "/source-papers/source-9c800a621d7d50a1/page-002.jpg",
+        "/source-papers/source-9c800a621d7d50a1/page-003.jpg",
+        "/source-papers/source-9c800a621d7d50a1/page-004.jpg"
+      ],
+      "pageCount": 4,
+      "sourceReference": "https://drive.google.com/file/d/1xLv3kxYJMzGMNArYyiEfTn7rANS3jsYC/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Kagera Region • Regional annual examination • Physics • Form One • 2025",
+      "form": 1,
+      "subjectId": "physics",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Kagera Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "9c800a621d7d50a1b1ffb79bee03f784c5a733905ff2e5180b9a298ef8a6409d",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 1,
+            "lastPage": 2
+          },
+          {
+            "label": "2",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "3",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "4",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "5",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "6",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "7",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "8",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "9",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "10",
+            "firstPage": 4,
+            "lastPage": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-32c608287623a1de",
+      "sha256": "32c608287623a1deb6adf279f69cab58aeb8fe1cad2eca7f7a251cb6ddb2b9d8",
+      "sourcePdf": "/source-papers/source-32c608287623a1de/original.pdf",
+      "pageImages": [
+        "/source-papers/source-32c608287623a1de/page-001.jpg",
+        "/source-papers/source-32c608287623a1de/page-002.jpg",
+        "/source-papers/source-32c608287623a1de/page-003.jpg",
+        "/source-papers/source-32c608287623a1de/page-004.jpg",
+        "/source-papers/source-32c608287623a1de/page-005.jpg",
+        "/source-papers/source-32c608287623a1de/page-006.jpg",
+        "/source-papers/source-32c608287623a1de/page-007.jpg"
+      ],
+      "pageCount": 7,
+      "sourceReference": "https://drive.google.com/file/d/1EySkLMeoJhn7xy8nbqWufQctZSyr67jN/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Kagera Region • Regional annual examination • Kiswahili • Form One • 2025",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Kagera Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "draft",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-under-review",
+      "note": "The file contains seven pages and ends with Question 11. Its printed footers refer to nine pages."
+    },
+    {
+      "id": "source-76ec0fefb4326053",
+      "sha256": "76ec0fefb43260534567c59ce821c46a8369e810c4aa214ed0cbbcb392ea05a8",
+      "sourcePdf": "/source-papers/source-76ec0fefb4326053/original.pdf",
+      "pageImages": [
+        "/source-papers/source-76ec0fefb4326053/page-001.jpg",
+        "/source-papers/source-76ec0fefb4326053/page-002.jpg",
+        "/source-papers/source-76ec0fefb4326053/page-003.jpg",
+        "/source-papers/source-76ec0fefb4326053/page-004.jpg",
+        "/source-papers/source-76ec0fefb4326053/page-005.jpg",
+        "/source-papers/source-76ec0fefb4326053/page-006.jpg"
+      ],
+      "pageCount": 6,
+      "sourceReference": "https://drive.google.com/file/d/1cakwal_PAW7OmKMJ9rYHwGaRuOCjXHoA/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Kagera Region • Regional annual examination • Geography • Form One • 2025",
+      "form": 1,
+      "subjectId": "geography",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Kagera Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "76ec0fefb43260534567c59ce821c46a8369e810c4aa214ed0cbbcb392ea05a8",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 1,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "8",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-7824ae312db8b208",
+      "sha256": "7824ae312db8b208b6fc07da3ad0b8539e0e1deb560f27d11af0da42787376ce",
+      "sourcePdf": "/source-papers/source-7824ae312db8b208/original.pdf",
+      "pageImages": [
+        "/source-papers/source-7824ae312db8b208/page-001.jpg",
+        "/source-papers/source-7824ae312db8b208/page-002.jpg",
+        "/source-papers/source-7824ae312db8b208/page-003.jpg",
+        "/source-papers/source-7824ae312db8b208/page-004.jpg",
+        "/source-papers/source-7824ae312db8b208/page-005.jpg"
+      ],
+      "pageCount": 5,
+      "sourceReference": "https://drive.google.com/file/d/1W1ohU07exWlgBBiHNHPMN0ob5xmORCFS/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Kagera Region • Regional annual examination • English Language • Form One • 2025",
+      "form": 1,
+      "subjectId": "english",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Kagera Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "draft",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-under-review",
+      "note": "The first multiple-choice item has options without a printed question stem. The final page contains the list of class readers for Question 10."
+    },
+    {
+      "id": "source-76ba5b7bc68bc768",
+      "sha256": "76ba5b7bc68bc768dc8f5923300b02fa5875dc96eab8034f2665d605455d4cc0",
+      "sourcePdf": "/source-papers/source-76ba5b7bc68bc768/original.pdf",
+      "pageImages": [
+        "/source-papers/source-76ba5b7bc68bc768/page-001.jpg",
+        "/source-papers/source-76ba5b7bc68bc768/page-002.jpg",
+        "/source-papers/source-76ba5b7bc68bc768/page-003.jpg"
+      ],
+      "pageCount": 3,
+      "sourceReference": "https://drive.google.com/file/d/1aZK3mnYEeZ5CPwQgCsGTUtDfwPWzY95v/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Kagera Region • Regional annual examination • Biology • Form One • 2025",
+      "form": 1,
+      "subjectId": "biology",
+      "year": 2025,
+      "yearBasis": "Printed paper",
+      "sourceType": "regional",
+      "institution": "Kagera Region",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "76ba5b7bc68bc768dc8f5923300b02fa5875dc96eab8034f2665d605455d4cc0",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 1,
+            "lastPage": 2
+          },
+          {
+            "label": "2",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "3",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "4",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "5",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "6",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "7",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "8",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "9",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "10",
+            "firstPage": 3,
+            "lastPage": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-887f9f64255ec06f",
+      "sha256": "887f9f64255ec06f05c477a18ad8751478005fde88dfdb8c5749143309269605",
+      "sourcePdf": "/source-papers/source-887f9f64255ec06f/original.pdf",
+      "pageImages": [
+        "/source-papers/source-887f9f64255ec06f/page-001.jpg",
+        "/source-papers/source-887f9f64255ec06f/page-002.jpg",
+        "/source-papers/source-887f9f64255ec06f/page-003.jpg",
+        "/source-papers/source-887f9f64255ec06f/page-004.jpg",
+        "/source-papers/source-887f9f64255ec06f/page-005.jpg",
+        "/source-papers/source-887f9f64255ec06f/page-006.jpg",
+        "/source-papers/source-887f9f64255ec06f/page-007.jpg",
+        "/source-papers/source-887f9f64255ec06f/page-008.jpg",
+        "/source-papers/source-887f9f64255ec06f/page-009.jpg"
+      ],
+      "pageCount": 9,
+      "sourceReference": "https://drive.google.com/file/d/1zna7DMPfHKznqq16ovKDIVDrndUtpb-k/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Physics • Form One • 2026",
+      "form": 1,
+      "subjectId": "physics",
+      "year": 2026,
+      "yearBasis": "Printed paper",
+      "sourceType": "district",
+      "institution": "Wanging’ombe District Council",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "887f9f64255ec06f05c477a18ad8751478005fde88dfdb8c5749143309269605",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "10",
+            "firstPage": 8,
+            "lastPage": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-7466233652259dd5",
+      "sha256": "7466233652259dd50c95b59332f9c8606d81416db755bb71fc5857128535bc46",
+      "sourcePdf": "/source-papers/source-7466233652259dd5/original.pdf",
+      "pageImages": [
+        "/source-papers/source-7466233652259dd5/page-001.jpg",
+        "/source-papers/source-7466233652259dd5/page-002.jpg",
+        "/source-papers/source-7466233652259dd5/page-003.jpg",
+        "/source-papers/source-7466233652259dd5/page-004.jpg",
+        "/source-papers/source-7466233652259dd5/page-005.jpg",
+        "/source-papers/source-7466233652259dd5/page-006.jpg",
+        "/source-papers/source-7466233652259dd5/page-007.jpg",
+        "/source-papers/source-7466233652259dd5/page-008.jpg",
+        "/source-papers/source-7466233652259dd5/page-009.jpg"
+      ],
+      "pageCount": 9,
+      "sourceReference": "https://drive.google.com/file/d/1Jra4VD7hnTv-s6HIf-nODBbvQZXXmZE-/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Mathematics • Form One • 2026",
+      "form": 1,
+      "subjectId": "mathematics",
+      "year": 2026,
+      "yearBasis": "Printed paper",
+      "sourceType": "district",
+      "institution": "Wanging’ombe District Council",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "7466233652259dd50c95b59332f9c8606d81416db755bb71fc5857128535bc46",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "7",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "8",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "9",
+            "firstPage": 9,
+            "lastPage": 9
+          },
+          {
+            "label": "10",
+            "firstPage": 9,
+            "lastPage": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-77e5d244c28a52d8",
+      "sha256": "77e5d244c28a52d8cb1592a8db080f7a50dab9bdf7fa8b58203ec9cd10588351",
+      "sourcePdf": "/source-papers/source-77e5d244c28a52d8/original.pdf",
+      "pageImages": [
+        "/source-papers/source-77e5d244c28a52d8/page-001.jpg",
+        "/source-papers/source-77e5d244c28a52d8/page-002.jpg",
+        "/source-papers/source-77e5d244c28a52d8/page-003.jpg",
+        "/source-papers/source-77e5d244c28a52d8/page-004.jpg",
+        "/source-papers/source-77e5d244c28a52d8/page-005.jpg",
+        "/source-papers/source-77e5d244c28a52d8/page-006.jpg"
+      ],
+      "pageCount": 6,
+      "sourceReference": "https://drive.google.com/file/d/1ft1pd-DCNoVnqhOI5_cLetVjsE1mE6tu/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Kiswahili • Form One • 2026",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "year": 2026,
+      "yearBasis": "Printed paper",
+      "sourceType": "district",
+      "institution": "Wanging’ombe District Council",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "77e5d244c28a52d8cb1592a8db080f7a50dab9bdf7fa8b58203ec9cd10588351",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 1,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "8",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "10",
+            "firstPage": 6,
+            "lastPage": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-7df73ce470e9cc4d",
+      "sha256": "7df73ce470e9cc4de8dfd56b11af01884759e9db7bb6de8674af12fa2d8842da",
+      "sourcePdf": "/source-papers/source-7df73ce470e9cc4d/original.pdf",
+      "pageImages": [
+        "/source-papers/source-7df73ce470e9cc4d/page-001.jpg",
+        "/source-papers/source-7df73ce470e9cc4d/page-002.jpg",
+        "/source-papers/source-7df73ce470e9cc4d/page-003.jpg",
+        "/source-papers/source-7df73ce470e9cc4d/page-004.jpg",
+        "/source-papers/source-7df73ce470e9cc4d/page-005.jpg",
+        "/source-papers/source-7df73ce470e9cc4d/page-006.jpg",
+        "/source-papers/source-7df73ce470e9cc4d/page-007.jpg",
+        "/source-papers/source-7df73ce470e9cc4d/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://drive.google.com/file/d/1BxHvXoPK9wujbLfsHEP6gs3A28vC5bEn/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Historia ya Tanzania na Maadili • Form One • 2026",
+      "form": 1,
+      "subjectId": "historia",
+      "year": 2026,
+      "yearBasis": "Printed paper",
+      "sourceType": "district",
+      "institution": "Wanging’ombe District Council",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "7df73ce470e9cc4de8dfd56b11af01884759e9db7bb6de8674af12fa2d8842da",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 1,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "10",
+            "firstPage": 7,
+            "lastPage": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-b749c4ada4b5eeeb",
+      "sha256": "b749c4ada4b5eeeb140591812e8ad7736afbf0d16b4f53e6947f6d166e65e9dd",
+      "sourcePdf": "/source-papers/source-b749c4ada4b5eeeb/original.pdf",
+      "pageImages": [
+        "/source-papers/source-b749c4ada4b5eeeb/page-001.jpg",
+        "/source-papers/source-b749c4ada4b5eeeb/page-002.jpg",
+        "/source-papers/source-b749c4ada4b5eeeb/page-003.jpg",
+        "/source-papers/source-b749c4ada4b5eeeb/page-004.jpg",
+        "/source-papers/source-b749c4ada4b5eeeb/page-005.jpg",
+        "/source-papers/source-b749c4ada4b5eeeb/page-006.jpg",
+        "/source-papers/source-b749c4ada4b5eeeb/page-007.jpg",
+        "/source-papers/source-b749c4ada4b5eeeb/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://drive.google.com/file/d/1ZVy8A0uqljV77hzqMk6BBEX6n3gzW9U1/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Geography • Form One • 2026",
+      "form": 1,
+      "subjectId": "geography",
+      "year": 2026,
+      "yearBasis": "Printed paper",
+      "sourceType": "district",
+      "institution": "Wanging’ombe District Council",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "b749c4ada4b5eeeb140591812e8ad7736afbf0d16b4f53e6947f6d166e65e9dd",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 1,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "8",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "10",
+            "firstPage": 7,
+            "lastPage": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-6130758feb804567",
+      "sha256": "6130758feb804567a20060d2a13eadaaa39981cc41177e236813fb37d8106f4b",
+      "sourcePdf": "/source-papers/source-6130758feb804567/original.pdf",
+      "pageImages": [
+        "/source-papers/source-6130758feb804567/page-001.jpg",
+        "/source-papers/source-6130758feb804567/page-002.jpg",
+        "/source-papers/source-6130758feb804567/page-003.jpg",
+        "/source-papers/source-6130758feb804567/page-004.jpg",
+        "/source-papers/source-6130758feb804567/page-005.jpg",
+        "/source-papers/source-6130758feb804567/page-006.jpg",
+        "/source-papers/source-6130758feb804567/page-007.jpg",
+        "/source-papers/source-6130758feb804567/page-008.jpg",
+        "/source-papers/source-6130758feb804567/page-009.jpg"
+      ],
+      "pageCount": 9,
+      "sourceReference": "https://drive.google.com/file/d/1dsJV03rhkJz-Hxsmj2GIDXs4ZQT0VRtA/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Chemistry • Form One • 2023",
+      "form": 1,
+      "subjectId": "chemistry",
+      "year": 2023,
+      "yearBasis": "Printed paper",
+      "sourceType": "district",
+      "institution": "Wanging’ombe District Council",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "The paper is dated September 2023 on its cover. The archive groups it with the 2026 papers.",
+      "practiceIndex": {
+        "sourceSha256": "6130758feb804567a20060d2a13eadaaa39981cc41177e236813fb37d8106f4b",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 1,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 8
+          },
+          {
+            "label": "10",
+            "firstPage": 8,
+            "lastPage": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-3608af4bf228d85a",
+      "sha256": "3608af4bf228d85a4dd8340beba9838bedc5bfaf02190895493ff0c2e2c782b9",
+      "sourcePdf": "/source-papers/source-3608af4bf228d85a/original.pdf",
+      "pageImages": [
+        "/source-papers/source-3608af4bf228d85a/page-001.jpg",
+        "/source-papers/source-3608af4bf228d85a/page-002.jpg",
+        "/source-papers/source-3608af4bf228d85a/page-003.jpg",
+        "/source-papers/source-3608af4bf228d85a/page-004.jpg",
+        "/source-papers/source-3608af4bf228d85a/page-005.jpg",
+        "/source-papers/source-3608af4bf228d85a/page-006.jpg",
+        "/source-papers/source-3608af4bf228d85a/page-007.jpg",
+        "/source-papers/source-3608af4bf228d85a/page-008.jpg",
+        "/source-papers/source-3608af4bf228d85a/page-009.jpg"
+      ],
+      "pageCount": 9,
+      "sourceReference": "https://drive.google.com/file/d/1-B2-vBMoIZEgYCjEDy_YpiRrtaQDxmkb/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Business Studies • Form One • 2026",
+      "form": 1,
+      "subjectId": "business",
+      "year": 2026,
+      "yearBasis": "Printed paper",
+      "sourceType": "district",
+      "institution": "Wanging’ombe District Council",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "draft",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-under-review",
+      "note": "The instructions mention eleven questions. The nine pages contain Questions 1–10."
+    },
+    {
+      "id": "source-64ba2e9b9aebacc4",
+      "sha256": "64ba2e9b9aebacc4c44eed920c7442c3b859e8858a083bf0440d80ec6e76fb00",
+      "sourcePdf": "/source-papers/source-64ba2e9b9aebacc4/original.pdf",
+      "pageImages": [
+        "/source-papers/source-64ba2e9b9aebacc4/page-001.jpg",
+        "/source-papers/source-64ba2e9b9aebacc4/page-002.jpg",
+        "/source-papers/source-64ba2e9b9aebacc4/page-003.jpg",
+        "/source-papers/source-64ba2e9b9aebacc4/page-004.jpg",
+        "/source-papers/source-64ba2e9b9aebacc4/page-005.jpg",
+        "/source-papers/source-64ba2e9b9aebacc4/page-006.jpg",
+        "/source-papers/source-64ba2e9b9aebacc4/page-007.jpg",
+        "/source-papers/source-64ba2e9b9aebacc4/page-008.jpg",
+        "/source-papers/source-64ba2e9b9aebacc4/page-009.jpg",
+        "/source-papers/source-64ba2e9b9aebacc4/page-010.jpg"
+      ],
+      "pageCount": 10,
+      "sourceReference": "https://drive.google.com/file/d/1_-Z-AYEanWSnVN8AHBJj4vV4P4AxcltW/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Biology • Form One • 2026",
+      "form": 1,
+      "subjectId": "biology",
+      "year": 2026,
+      "yearBasis": "Printed paper",
+      "sourceType": "district",
+      "institution": "Wanging’ombe District Council",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original Form One examination with selectable printed questions.",
+      "practiceIndex": {
+        "sourceSha256": "64ba2e9b9aebacc4c44eed920c7442c3b859e8858a083bf0440d80ec6e76fb00",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 1,
+            "lastPage": 2
+          },
+          {
+            "label": "2",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "9",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "10",
+            "firstPage": 9,
+            "lastPage": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-d668c0b335d6d596",
+      "sha256": "d668c0b335d6d596e26f1817ddf30f648de1e7ed8f19eddccb90e5e2ff8e367b",
+      "sourcePdf": "/source-papers/source-d668c0b335d6d596/original.pdf",
+      "pageImages": [
+        "/source-papers/source-d668c0b335d6d596/page-001.jpg",
+        "/source-papers/source-d668c0b335d6d596/page-002.jpg",
+        "/source-papers/source-d668c0b335d6d596/page-003.jpg",
+        "/source-papers/source-d668c0b335d6d596/page-004.jpg",
+        "/source-papers/source-d668c0b335d6d596/page-005.jpg",
+        "/source-papers/source-d668c0b335d6d596/page-006.jpg",
+        "/source-papers/source-d668c0b335d6d596/page-007.jpg",
+        "/source-papers/source-d668c0b335d6d596/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2015.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Biology • 2015",
+      "form": 2,
+      "subjectId": "biology",
+      "year": 2015,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "This archived edition follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "d668c0b335d6d596e26f1817ddf30f648de1e7ed8f19eddccb90e5e2ff8e367b",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "10",
+            "firstPage": 7,
+            "lastPage": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-3a0c9bfebac04715",
+      "sha256": "3a0c9bfebac0471593cb43088c1477c48e867b779ecce9a830012b259efc140f",
+      "sourcePdf": "/source-papers/source-3a0c9bfebac04715/original.pdf",
+      "pageImages": [
+        "/source-papers/source-3a0c9bfebac04715/page-001.jpg",
+        "/source-papers/source-3a0c9bfebac04715/page-002.jpg",
+        "/source-papers/source-3a0c9bfebac04715/page-003.jpg",
+        "/source-papers/source-3a0c9bfebac04715/page-004.jpg",
+        "/source-papers/source-3a0c9bfebac04715/page-005.jpg",
+        "/source-papers/source-3a0c9bfebac04715/page-006.jpg",
+        "/source-papers/source-3a0c9bfebac04715/page-007.jpg",
+        "/source-papers/source-3a0c9bfebac04715/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2011.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Biology • 2011",
+      "form": 2,
+      "subjectId": "biology",
+      "year": 2011,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "This archived edition follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "3a0c9bfebac0471593cb43088c1477c48e867b779ecce9a830012b259efc140f",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "10",
+            "firstPage": 7,
+            "lastPage": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-f1950e79f20619eb",
+      "sha256": "f1950e79f20619eb2eaa8fbdf6609381b26f2402357230b15bc941a11a937471",
+      "sourcePdf": "/source-papers/source-f1950e79f20619eb/original.pdf",
+      "pageImages": [
+        "/source-papers/source-f1950e79f20619eb/page-001.jpg",
+        "/source-papers/source-f1950e79f20619eb/page-002.jpg",
+        "/source-papers/source-f1950e79f20619eb/page-003.jpg",
+        "/source-papers/source-f1950e79f20619eb/page-004.jpg"
+      ],
+      "pageCount": 4,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1UPlpTcRk2lE1AE6nPsucnvpafNzv9z_C",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Markaz Islamic Seminary • Midterm Examination • Mathematics • 2026",
+      "form": 1,
+      "subjectId": "mathematics",
+      "year": 2026,
+      "yearBasis": "Printed cover",
+      "sourceType": "school",
+      "institution": "Markaz Islamic Seminary",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Institution attribution from the public examination listing; date, subject and form appear on the paper.",
+      "practiceIndex": {
+        "sourceSha256": "f1950e79f20619eb2eaa8fbdf6609381b26f2402357230b15bc941a11a937471",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "2",
+            "firstPage": 2,
+            "lastPage": 2
+          },
+          {
+            "label": "3",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "4",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "5",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "6",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "7",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "8",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "9",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "10",
+            "firstPage": 4,
+            "lastPage": 4
+          }
+        ]
+      },
+      "independentPracticeGuide": {
+        "sourceSha256": "f1950e79f20619eb2eaa8fbdf6609381b26f2402357230b15bc941a11a937471",
+        "title": "SomaSmart independent marking guide",
+        "provenance": "The examination assigns ten marks to each question. SomaSmart prepared the answers and divided those marks among the subparts for self-assessment.",
+        "groups": {
+          "1": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 6,
+                "answer": "Examples include arithmetic, which studies numbers and their operations, algebra, which uses symbols to study relationships, and geometry, which studies shapes and space. Other recognised branches with accurate explanations are acceptable.",
+                "rubric": "For each of three distinct branches award one mark for its name and one for a correct explanation."
+              },
+              {
+                "label": "b(i)",
+                "marks": 2,
+                "answer": "Physics uses mathematics to describe relationships and calculate quantities. For example, average speed equals total distance divided by elapsed time.",
+                "rubric": "Award one mark for the relationship and one for a valid example."
+              },
+              {
+                "label": "b(ii)",
+                "marks": 2,
+                "answer": "Chemistry uses mathematics to relate measured amounts. For example, the concentration in grams per litre equals solute mass in grams divided by solution volume in litres.",
+                "rubric": "Award one mark for the relationship and one for a valid example."
+              }
+            ]
+          },
+          "2": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a(i–iii)",
+                "marks": 6,
+                "answer": "The repeating blocks are respectively 3, 639 and 47. Bar notation places one bar over the whole repeating block. Dot notation gives 0.3̇, 0.6̇39̇ and 0.4̇7̇.",
+                "rubric": "For each decimal give one mark for bar notation and one for dot notation showing the complete repeating block."
+              },
+              {
+                "label": "b(i)",
+                "marks": 2,
+                "answer": "Only the 3 repeats. For x = 0.8333…, 100x − 10x = 83.333… − 8.333… = 75. Thus x = 75/90 = 5/6.",
+                "rubric": "One mark for a valid recurring-decimal method and one for 5/6 or an equivalent fraction."
+              },
+              {
+                "label": "b(ii)",
+                "marks": 2,
+                "answer": "For x = 0.222…, 10x − x = 2. Thus x = 2/9.",
+                "rubric": "One mark for cancelling the repeating part and one for 2/9."
+              }
+            ]
+          },
+          "3": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a(i)",
+                "marks": 2,
+                "answer": "0.222… + 0.515151… = 2/9 + 51/99 = 73/99.",
+                "rubric": "One mark for converting the recurring decimals and one for the sum."
+              },
+              {
+                "label": "a(ii)",
+                "marks": 2,
+                "answer": "1.6777… + 2.111… = 151/90 + 19/9 = 341/90 = 3.7888….",
+                "rubric": "One mark for correct conversions and one for the result."
+              },
+              {
+                "label": "a(iii)",
+                "marks": 2,
+                "answer": "0.666… − 0.4111… = 2/3 − 37/90 = 23/90.",
+                "rubric": "One mark for correct conversions and one for the result."
+              },
+              {
+                "label": "b",
+                "marks": 4,
+                "answer": "For x = 0.272727…, 100x − x = 27. Therefore x = 27/99 = 3/11. The requested sum in lowest terms is 3 + 11 = 14.",
+                "rubric": "Award one mark each for identifying the repeating pair, forming 27/99, reducing to 3/11, and adding to obtain 14."
+              }
+            ]
+          },
+          "4": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 5,
+                "answer": "The wording omits a second subject. Reading it as −1 < x < 4 gives filled points at 0, 1, 2 and 3. A literal reading, “−1 is less than x and [−1] is less than 4”, gives every integer from 0 upwards. Accept either interpretation if the number line matches it.",
+                "rubric": "Award two marks for a consistent inequality, one for excluding −1, and two for showing the correct discrete points and upper limit or continuation."
+              },
+              {
+                "label": "b",
+                "marks": 5,
+                "answer": "Plot filled points at −2, −1, 0, 1, 2, 3, 4, 5 and 6. Both end points are included.",
+                "rubric": "Award one mark per correct endpoint, one for the interior negative and zero points, one for the interior positive points, and one for using discrete integer points."
+              }
+            ]
+          },
+          "5": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a(i–iii)",
+                "marks": 3,
+                "answer": "The statements are respectively TRUE (3 < 30), TRUE (6 ≥ 2), and FALSE (−30 lies to the left of 3).",
+                "rubric": "One mark for each correct judgement."
+              },
+              {
+                "label": "b(i)",
+                "marks": 3,
+                "answer": "Counting upwards from one gives 1, 2, 3, 4 and 5.",
+                "rubric": "One mark for identifying the lower bound, one for stopping at 5, and one for the complete list."
+              },
+              {
+                "label": "b(ii)",
+                "marks": 4,
+                "answer": "The integers are −2, −1, 0, 1, 2, 3 and 4.",
+                "rubric": "One mark each for excluding −3, including 4, including zero and listing all intervening integers."
+              }
+            ]
+          },
+          "6": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a(i–iii)",
+                "marks": 6,
+                "answer": "591622 rounds to 591600 (tens digit 2). 35.4 rounds to 35 (tenths digit 4). 234 rounds to 200 (tens digit 3).",
+                "rubric": "For each answer, one mark for choosing the correct place value and one for its rounded result."
+              },
+              {
+                "label": "b",
+                "marks": 4,
+                "answer": "5,834,875 men rounds to 6,000,000 men. 5,911,188 women rounds to 6,000,000 women. The hundred-thousands digits, 8 and 9, both round the millions place upwards.",
+                "rubric": "For each population give one mark for correct rounding reasoning and one for the rounded number."
+              }
+            ]
+          },
+          "7": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a(i–iii)",
+                "marks": 6,
+                "answer": "38.5 × 4.1 = 157.85, which rounds to 200. 2.5 ÷ 0.0025 = 1,000, already a multiple of 100. 1985 + 15.58 = 2000.58, which rounds to 2,000.",
+                "rubric": "For each calculation award one mark for the exact value and one for the value to the nearest hundred."
+              },
+              {
+                "label": "c",
+                "marks": 4,
+                "answer": "67,459,853 lies between 67,459,000 and 67,460,000. Its hundreds digit is 8, so the profit rounds up to TSh 67,460,000.",
+                "rubric": "One mark each for selecting thousands, finding the hundreds digit, rounding upwards with the carry and stating the correct amount."
+              }
+            ]
+          },
+          "8": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a(i–iii)",
+                "marks": 6,
+                "answer": "6.2358 rounds to 6.24. 3.4655 rounds to 3.47. 0.2475 rounds to 0.248 using standard school rounding.",
+                "rubric": "Give one mark for inspecting the first discarded digit and one for the correctly rounded value in each item."
+              },
+              {
+                "label": "b",
+                "marks": 4,
+                "answer": "Area = side × side = 3.14 m × 3.14 m = 9.8596 m² ≈ 9.860 m² to three decimal places.",
+                "rubric": "One mark each for the formula, substitution, exact product and correctly rounded result with square units."
+              }
+            ]
+          },
+          "9": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a(i–iii)",
+                "marks": 6,
+                "answer": "5.0372 has 5 significant figures. 97168.9000000 has 12: all six trailing decimal zeros follow a significant digit. 1.00000786 has 9: zeros between non-zero digits count.",
+                "rubric": "Give one mark for applying the significant-zero rule and one for each corresponding count."
+              },
+              {
+                "label": "b",
+                "marks": 4,
+                "answer": "½ + 3⅓ + 4 = 3/6 + 20/6 + 24/6 = 47/6 = 7.8333… ≈ 7.8 to two significant figures.",
+                "rubric": "One mark each for interpreting the mixed number, achieving a common denominator or equivalent decimal calculation, obtaining 47/6 or equivalent and rounding to 7.8."
+              }
+            ]
+          },
+          "10": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 5,
+                "answer": "Let x be the fourth term. 42:36 = 35:x, so 42x = 36 × 35 = 1260. Then x = 30.",
+                "rubric": "Award two marks for the correct proportional relationship, one for cross multiplication, one for the product and one for 30."
+              },
+              {
+                "label": "b",
+                "marks": 5,
+                "answer": "For nonzero n, let x be the third proportional. Then 2n²:3n² = 3n²:x. Thus 2n²x = 9n⁴ and x = (9/2)n².",
+                "rubric": "Award two marks for the repeated middle term in the proportion, one for cross multiplication, one for squaring 3n² correctly and one for simplification."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "source-1de05e992c8caf11",
+      "sha256": "1de05e992c8caf11a731a8166fbd8f121a67b541aef059b1b159b3bb90405f73",
+      "sourcePdf": "/source-papers/source-1de05e992c8caf11/original.pdf",
+      "pageImages": [
+        "/source-papers/source-1de05e992c8caf11/page-001.jpg",
+        "/source-papers/source-1de05e992c8caf11/page-002.jpg",
+        "/source-papers/source-1de05e992c8caf11/page-003.jpg",
+        "/source-papers/source-1de05e992c8caf11/page-004.jpg",
+        "/source-papers/source-1de05e992c8caf11/page-005.jpg",
+        "/source-papers/source-1de05e992c8caf11/page-006.jpg"
+      ],
+      "pageCount": 6,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1PRMhuC4vYlV_s0_NjpPY27iGsTNOod4s",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Markaz Islamic Seminary • Midterm Examination • Historia ya Tanzania na Maadili • 2026",
+      "form": 1,
+      "subjectId": "historia",
+      "year": 2026,
+      "yearBasis": "Printed cover",
+      "sourceType": "school",
+      "institution": "Markaz Islamic Seminary",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Institution attribution from the public examination listing; date, subject and form appear on the paper.",
+      "practiceIndex": {
+        "sourceSha256": "1de05e992c8caf11a731a8166fbd8f121a67b541aef059b1b159b3bb90405f73",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "6",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "7",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "8",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "9",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "10",
+            "firstPage": 5,
+            "lastPage": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-cc7f479d2ce9f28f",
+      "sha256": "cc7f479d2ce9f28fc81c216492cdc0d90842262f951c9d177271748ba6cb993d",
+      "sourcePdf": "/source-papers/source-cc7f479d2ce9f28f/original.pdf",
+      "pageImages": [
+        "/source-papers/source-cc7f479d2ce9f28f/page-001.jpg",
+        "/source-papers/source-cc7f479d2ce9f28f/page-002.jpg",
+        "/source-papers/source-cc7f479d2ce9f28f/page-003.jpg",
+        "/source-papers/source-cc7f479d2ce9f28f/page-004.jpg",
+        "/source-papers/source-cc7f479d2ce9f28f/page-005.jpg",
+        "/source-papers/source-cc7f479d2ce9f28f/page-006.jpg"
+      ],
+      "pageCount": 6,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1MZWZ98-XHVO3-a4knYd8nFFw0FM6Mv4s",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Markaz Islamic Seminary • Midterm Examination • English Language • 2026",
+      "form": 1,
+      "subjectId": "english",
+      "year": 2026,
+      "yearBasis": "Printed cover",
+      "sourceType": "school",
+      "institution": "Markaz Islamic Seminary",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Institution attribution from the public examination listing; date, subject and form appear on the paper.",
+      "practiceIndex": {
+        "sourceSha256": "cc7f479d2ce9f28fc81c216492cdc0d90842262f951c9d177271748ba6cb993d",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "8",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "9",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "10",
+            "firstPage": 6,
+            "lastPage": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-06ca697e21536f9b",
+      "sha256": "06ca697e21536f9b8d666721f784181a3771b75a0d4c368cd3dd06fe7efdad55",
+      "sourcePdf": "/source-papers/source-06ca697e21536f9b/original.pdf",
+      "pageImages": [
+        "/source-papers/source-06ca697e21536f9b/page-001.jpg",
+        "/source-papers/source-06ca697e21536f9b/page-002.jpg",
+        "/source-papers/source-06ca697e21536f9b/page-003.jpg",
+        "/source-papers/source-06ca697e21536f9b/page-004.jpg",
+        "/source-papers/source-06ca697e21536f9b/page-005.jpg",
+        "/source-papers/source-06ca697e21536f9b/page-006.jpg",
+        "/source-papers/source-06ca697e21536f9b/page-007.jpg",
+        "/source-papers/source-06ca697e21536f9b/page-008.jpg",
+        "/source-papers/source-06ca697e21536f9b/page-009.jpg"
+      ],
+      "pageCount": 9,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1mnqUYUn17GWWA-nrfvBC-Jf8XAp_a3e7",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Markaz Islamic Seminary • Midterm Examination • Business Studies • 2026",
+      "form": 1,
+      "subjectId": "business",
+      "year": 2026,
+      "yearBasis": "Printed cover",
+      "sourceType": "school",
+      "institution": "Markaz Islamic Seminary",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Institution attribution from the public examination listing; date, subject and form appear on the paper.",
+      "practiceIndex": {
+        "sourceSha256": "06ca697e21536f9b8d666721f784181a3771b75a0d4c368cd3dd06fe7efdad55",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "9",
+            "firstPage": 8,
+            "lastPage": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-4bec972259c917e4",
+      "sha256": "4bec972259c917e4470f0dfea8ec5b7448fb1adb4a0b23ee275eec0e561f3e21",
+      "sourcePdf": "/source-papers/source-4bec972259c917e4/original.pdf",
+      "pageImages": [
+        "/source-papers/source-4bec972259c917e4/page-001.jpg",
+        "/source-papers/source-4bec972259c917e4/page-002.jpg",
+        "/source-papers/source-4bec972259c917e4/page-003.jpg",
+        "/source-papers/source-4bec972259c917e4/page-004.jpg",
+        "/source-papers/source-4bec972259c917e4/page-005.jpg",
+        "/source-papers/source-4bec972259c917e4/page-006.jpg",
+        "/source-papers/source-4bec972259c917e4/page-007.jpg",
+        "/source-papers/source-4bec972259c917e4/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1_2n8W5FBh65qwKu-0sSF3LzNnjPoy-vy",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Kilimanjaro Regional Commissioner’s Office • Form One Regional Joint Examination • Historia ya Tanzania na Maadili • 2025",
+      "form": 1,
+      "subjectId": "historia",
+      "year": 2025,
+      "yearBasis": "Public archive listing",
+      "sourceType": "regional",
+      "institution": "Kilimanjaro Regional Commissioner’s Office",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Year attributed by the public archive listing. Issuer, form and subject are printed on the paper.",
+      "practiceIndex": {
+        "sourceSha256": "4bec972259c917e4470f0dfea8ec5b7448fb1adb4a0b23ee275eec0e561f3e21",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "10",
+            "firstPage": 7,
+            "lastPage": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-5d487476aa996b95",
+      "sha256": "5d487476aa996b959eac3ea4d0d0103d1902bb44f5d20bb180ad86f48df2810b",
+      "sourcePdf": "/source-papers/source-5d487476aa996b95/original.pdf",
+      "pageImages": [
+        "/source-papers/source-5d487476aa996b95/page-001.jpg",
+        "/source-papers/source-5d487476aa996b95/page-002.jpg",
+        "/source-papers/source-5d487476aa996b95/page-003.jpg",
+        "/source-papers/source-5d487476aa996b95/page-004.jpg",
+        "/source-papers/source-5d487476aa996b95/page-005.jpg",
+        "/source-papers/source-5d487476aa996b95/page-006.jpg",
+        "/source-papers/source-5d487476aa996b95/page-007.jpg"
+      ],
+      "pageCount": 7,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=10jbOR3twWyl7gwEhdXLkBF6BcR-KVDFD",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Kilimanjaro Regional Commissioner’s Office • Form One Regional Joint Examination • English Language • 2025",
+      "form": 1,
+      "subjectId": "english",
+      "year": 2025,
+      "yearBasis": "Public archive listing",
+      "sourceType": "regional",
+      "institution": "Kilimanjaro Regional Commissioner’s Office",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Year attributed by the public archive listing. Issuer, form and subject are printed on the paper.",
+      "practiceIndex": {
+        "sourceSha256": "5d487476aa996b959eac3ea4d0d0103d1902bb44f5d20bb180ad86f48df2810b",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "6",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "8",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "10",
+            "firstPage": 7,
+            "lastPage": 7
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-2429bf79a19c64e0",
+      "sha256": "2429bf79a19c64e078d650599ee068450270327c158fe9ae71611c1c1075560b",
+      "sourcePdf": "/source-papers/source-2429bf79a19c64e0/original.pdf",
+      "pageImages": [
+        "/source-papers/source-2429bf79a19c64e0/page-001.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-002.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-003.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-004.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-005.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-006.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-007.jpg",
+        "/source-papers/source-2429bf79a19c64e0/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=1_ZsKpUnfm1L50h7BkIQnaxu91TKOyTu8",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Kilimanjaro Regional Commissioner’s Office • Form One Regional Joint Examination • Business Studies • 2025",
+      "form": 1,
+      "subjectId": "business",
+      "year": 2025,
+      "yearBasis": "Public archive listing",
+      "sourceType": "regional",
+      "institution": "Kilimanjaro Regional Commissioner’s Office",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Year attributed by the public archive listing. Issuer, form and subject are printed on the paper.",
+      "practiceIndex": {
+        "sourceSha256": "2429bf79a19c64e078d650599ee068450270327c158fe9ae71611c1c1075560b",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "10",
+            "firstPage": 7,
+            "lastPage": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-51573f3a30109107",
+      "sha256": "51573f3a30109107a5b68bd82d89611972001c682620fe3055885589d556d559",
+      "sourcePdf": "/source-papers/source-51573f3a30109107/original.pdf",
+      "pageImages": [
+        "/source-papers/source-51573f3a30109107/page-001.jpg",
+        "/source-papers/source-51573f3a30109107/page-002.jpg",
+        "/source-papers/source-51573f3a30109107/page-003.jpg",
+        "/source-papers/source-51573f3a30109107/page-004.jpg",
+        "/source-papers/source-51573f3a30109107/page-005.jpg",
+        "/source-papers/source-51573f3a30109107/page-006.jpg",
+        "/source-papers/source-51573f3a30109107/page-007.jpg"
+      ],
+      "pageCount": 7,
+      "sourceReference": "https://drive.google.com/uc?export=download&id=10OfWYMKji4D_bldX4b2OroMjRlgKA5nU",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Markaz Islamic Seminary • Form One Midterm Examination • Geography • 2026",
+      "form": 1,
+      "subjectId": "geography",
+      "year": 2026,
+      "yearBasis": "Printed cover",
+      "sourceType": "school",
+      "institution": "Markaz Islamic Seminary",
+      "curriculumStream": "school-current-attribution",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Date, form and subject appear on the paper. School attribution comes from the public examination listing and is also referenced in Question 5.",
+      "practiceIndex": {
+        "sourceSha256": "51573f3a30109107a5b68bd82d89611972001c682620fe3055885589d556d559",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "4",
+            "firstPage": 3,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "9",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "10",
+            "firstPage": 6,
+            "lastPage": 7
           }
         ]
       }

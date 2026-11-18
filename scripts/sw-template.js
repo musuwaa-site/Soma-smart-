@@ -27,23 +27,28 @@ self.addEventListener("install", (event) =>
       const cache = await caches.open(CACHE);
       let done = 0;
       try {
-        for (const asset of ASSETS) {
-          const existing = await cache.match(asset.url);
-          if (!existing || (await digest(existing)) !== asset.sha256) {
-            const response = await fetch(asset.url, { cache: "no-store" });
-            if (
-              !response.ok ||
-              (await digest(response.clone())) !== asset.sha256
-            )
-              throw Error("Missing or corrupted asset: " + asset.url);
-            await cache.put(asset.url, response);
+        // Limit concurrent requests on phones while avoiding a round trip per page.
+        let next = 0;
+        let failure;
+        async function installAssets() {
+          while (!failure && next < ASSETS.length) {
+            const asset = ASSETS[next++];
+            try {
+              const existing = await cache.match(asset.url);
+              if (!existing || (await digest(existing)) !== asset.sha256) {
+                const response = await fetch(asset.url, { cache: "no-store" });
+                if (!response.ok || (await digest(response.clone())) !== asset.sha256)
+                  throw Error("Missing or corrupted asset: " + asset.url);
+                await cache.put(asset.url, response);
+              }
+              await broadcast({ type: "PROGRESS", done: ++done, total: ASSETS.length });
+            } catch (error) {
+              failure = error;
+            }
           }
-          await broadcast({
-            type: "PROGRESS",
-            done: ++done,
-            total: ASSETS.length,
-          });
         }
+        await Promise.all(Array.from({length: Math.min(6, ASSETS.length)}, installAssets));
+        if (failure) throw failure;
         if (!(await valid(cache)))
           throw Error("Offline content validation failed");
         await self.skipWaiting();

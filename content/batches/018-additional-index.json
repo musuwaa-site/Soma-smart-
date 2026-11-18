@@ -1,0 +1,333 @@
+{
+  "source-d668c0b335d6d596": {
+    "sourceSha256": "d668c0b335d6d596e26f1817ddf30f648de1e7ed8f19eddccb90e5e2ff8e367b",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "6",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "7",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "8",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "9",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "10",
+        "firstPage": 7,
+        "lastPage": 8
+      }
+    ]
+  },
+  "source-3a0c9bfebac04715": {
+    "sourceSha256": "3a0c9bfebac0471593cb43088c1477c48e867b779ecce9a830012b259efc140f",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "8",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "9",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "10",
+        "firstPage": 7,
+        "lastPage": 8
+      }
+    ]
+  },
+  "source-f1950e79f20619eb": {
+    "sourceSha256": "f1950e79f20619eb2eaa8fbdf6609381b26f2402357230b15bc941a11a937471",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "2",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "3",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "4",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "5",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "6",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "7",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "8",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "9",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "10",
+        "firstPage": 4,
+        "lastPage": 4
+      }
+    ]
+  },
+  "source-1de05e992c8caf11": {
+    "sourceSha256": "1de05e992c8caf11a731a8166fbd8f121a67b541aef059b1b159b3bb90405f73",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "6",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "7",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "8",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "9",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "10",
+        "firstPage": 5,
+        "lastPage": 6
+      }
+    ]
+  },
+  "source-cc7f479d2ce9f28f": {
+    "sourceSha256": "cc7f479d2ce9f28fc81c216492cdc0d90842262f951c9d177271748ba6cb993d",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "8",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "9",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "10",
+        "firstPage": 6,
+        "lastPage": 6
+      }
+    ]
+  },
+  "source-06ca697e21536f9b": {
+    "sourceSha256": "06ca697e21536f9b8d666721f784181a3771b75a0d4c368cd3dd06fe7efdad55",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 7
+      },
+      {
+        "label": "8",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "9",
+        "firstPage": 8,
+        "lastPage": 9
+      }
+    ]
+  }
+}

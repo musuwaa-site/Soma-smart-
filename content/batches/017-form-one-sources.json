@@ -553,9 +553,9 @@
       "sourceType": "regional",
       "institution": "Songwe Region",
       "curriculumStream": "school-current-attribution",
-      "publicationStatus": "published",
+      "publicationStatus": "draft",
       "interactivePaperId": null,
-      "questionTranscriptionStatus": "source-page-indexed",
+      "questionTranscriptionStatus": "source-under-review",
       "note": "The instructions mention ten questions. The six-page file contains Questions 1–9 and ends with an answer page."
     },
     {
@@ -693,9 +693,9 @@
       "sourceType": "regional",
       "institution": "Kagera Region",
       "curriculumStream": "school-current-attribution",
-      "publicationStatus": "published",
+      "publicationStatus": "draft",
       "interactivePaperId": null,
-      "questionTranscriptionStatus": "source-page-indexed",
+      "questionTranscriptionStatus": "source-under-review",
       "note": "The file contains seven pages and ends with Question 11. Its printed footers refer to nine pages."
     },
     {
@@ -762,9 +762,9 @@
       "sourceType": "regional",
       "institution": "Kagera Region",
       "curriculumStream": "school-current-attribution",
-      "publicationStatus": "published",
+      "publicationStatus": "draft",
       "interactivePaperId": null,
-      "questionTranscriptionStatus": "source-page-indexed",
+      "questionTranscriptionStatus": "source-under-review",
       "note": "The first multiple-choice item has options without a printed question stem. The final page contains the list of class readers for Question 10."
     },
     {
@@ -1055,9 +1055,9 @@
       "sourceType": "district",
       "institution": "Wanging’ombe District Council",
       "curriculumStream": "school-current-attribution",
-      "publicationStatus": "published",
+      "publicationStatus": "draft",
       "interactivePaperId": null,
-      "questionTranscriptionStatus": "source-page-indexed",
+      "questionTranscriptionStatus": "source-under-review",
       "note": "The instructions mention eleven questions. The nine pages contain Questions 1–10."
     },
     {

@@ -1,6 +1,6 @@
 # SomaSmart project state
 
-**Unfinished content release 0.7.0.** Owner-private ChatGPT preview: https://somasmart-study.astuteegret257.chatgpt.site
+**Unfinished content release 0.8.0.** Owner-private ChatGPT preview: https://somasmart-study.astuteegret257.chatgpt.site
 
 ## Integrated educational resources
 
@@ -18,12 +18,14 @@ Canonical editorial data: content/library.json. Authored exact-source batches: c
 
 ## Evidence and continuation
 
-66 automated tests passed (42 Node and 24 Python). The offline package passed its asset checks. Physical Android and browser acceptance remain pending. The separate owner studio runs server-side.
+67 automated tests passed (43 Node and 24 Python). The offline package passed its asset checks. Physical Android and browser acceptance remain pending. The separate owner studio runs server-side.
 
 The official NECTA format effective in 2022 establishes the 2025 Biology, Geography and Kiswahili marks. Sections with official whole-question totals use whole-question self-assessment with all original subparts shown. The May 2026 general-education format confirms its alignment with the 2023 syllabuses effective from 2025. The downloaded formats are recorded under acquisition with hashes and page references. Detailed curriculum coverage still needs verification.
 
 The exam review now offers an offline guided conversation about accepted answers, marks and relevant chapters. Replies use the stored marking guidance and chapter links.
 
-Continue the remaining 29 source-paper conversions from the source library and investigate the held records in the conversion batches. Prioritize papers with attached guides. Complete the partial books and curriculum coverage and verify real Android offline operation before production handover.
+All 29 previously document-only papers now support question selection and self-check practice. The 282 groups use the original page images, including continuation pages and any diagrams or passages. Students choose groups, save a separate answer for each, and record review progress on the device. Source guides are linked when available. These groups do not count toward the verified scored bank. The vocational Historia file contains pages 1–11 of the 15 indicated on the original scans. Question 10 is present on page 11, and the release preserves the pages that were available.
+
+The current request pauses manuscript expansion. The 22 scored source selections and 641 scored records are unchanged. Scoring the newly indexed groups would require checked keys, scoring allocations and, where relevant, additional source pages.
 
 Latest repair: visible startup/progress and bounded network/storage waits replace blank loading; authenticated production HTTP checks pass. The user’s reported connection error is not yet reproduced in their browser. See ACCESS_DIAGNOSIS.md.

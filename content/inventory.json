@@ -34,7 +34,10 @@
     "transcribedAuthenticRecords": 751,
     "heldAuthenticRecords": 66,
     "automaticallyScoredAuthenticRecords": 183,
-    "authenticScoredRecords": 641
+    "authenticScoredRecords": 641,
+    "interactiveSelfCheckPapers": 29,
+    "interactiveSelfCheckGroups": 282,
+    "sourcePapersWithoutInteractiveSelection": 0
   },
   "coverage": [
     {

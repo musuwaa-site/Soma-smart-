@@ -15,3 +15,5 @@ The overall readiness gate remains failed for incomplete books/curriculum, genui
 Startup/access repair: six new tests cover Unicode streaming/progress, authentication responses, HTML sign-in responses, stalled network requests, unreachable/malformed data and storage timeouts without data deletion. Production DNS and authenticated critical-asset HTTP checks succeeded; these do not reproduce the user’s browser connection error. See ACCESS_DIAGNOSIS.md.
 
 Release 0.7.0 passed 66 automated tests. New checks cover alternate objective keys and preservation of the original parts under source-verified whole-question marks. The offline build includes 641 scored genuine records. The guided exam review remains unverified on a physical Android device.
+
+Release 0.8.0 passed 67 automated tests. The source practice test checks coverage of the 29 added papers, 282 selectable groups, printed order, unclipped source-page references and exclusion from the scored question bank. Browser and device acceptance remain pending.

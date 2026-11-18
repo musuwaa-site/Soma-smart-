@@ -40,3 +40,6 @@ for (const d of data.sourceDocuments || []) {
     if (!manifest.assets.some(a=>a.url===path)) throw Error('Unbundled complete paper asset: '+path);
   }
 }
+
+const withoutInteractive = data.sourceDocuments.filter(doc => !doc.interactivePaperId && !doc.practiceIndex);
+if (withoutInteractive.length) throw Error('Source papers missing interactive practice: ' + withoutInteractive.map(doc=>doc.id).join(', '));

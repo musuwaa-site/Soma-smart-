@@ -36,6 +36,9 @@ Generated from published student data and locally available acquisition metadata
 - heldAuthenticRecords: 66
 - automaticallyScoredAuthenticRecords: 183
 - authenticScoredRecords: 641
+- interactiveSelfCheckPapers: 29
+- interactiveSelfCheckGroups: 282
+- sourcePapersWithoutInteractiveSelection: 0
 
 | Form | Subject | Chapters | Textbook words¹ | Original questions | Distinct workbook tasks | Partially supported official activities |
 |---|---|---:|---:|---:|---:|---:|

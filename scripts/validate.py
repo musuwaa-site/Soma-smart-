@@ -48,6 +48,19 @@ def validate(d):
   if not pages or len(pages)!=document.get('pageCount'):errors.append(f'{document.get("id")}: incomplete source pages')
   for page in pages:
    if not (ROOT/'public'/page.lstrip('/')).is_file():errors.append(f'{document.get("id")}: missing source page')
+  index=document.get('practiceIndex')
+  if index is not None:
+   if index.get('mode')!='source-page-self-check' or index.get('sourceSha256')!=document.get('sha256'):
+    errors.append(f'{document["id"]}: invalid practice source identity')
+   groups=index.get('groups',[])
+   if not groups or len({group.get('label') for group in groups})!=len(groups):
+    errors.append(f'{document["id"]}: empty selection or repeated practice ID')
+   for i,group in enumerate(groups):
+    first,last=group.get('firstPage'),group.get('lastPage')
+    if not group.get('label') or not isinstance(first,int) or not isinstance(last,int) or not (1<=first<=last<=len(pages)):
+     errors.append(f'{document["id"]}: invalid practice page span')
+    elif last!=(groups[i+1]['firstPage'] if i+1<len(groups) else len(pages)):
+     errors.append(f'{document["id"]}: practice page span omits continuation pages')
   if document.get('answerGuide'):
    guide=document['answerGuide'];gp=ROOT/'public'/guide['sourcePdf'].lstrip('/')
    if not gp.is_file() or hashlib.sha256(gp.read_bytes()).hexdigest()!=guide['sha256']:errors.append(f'{document["id"]}: missing or changed answer guide')

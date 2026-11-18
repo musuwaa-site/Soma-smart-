@@ -10,7 +10,7 @@
     "subjectId": "physics",
     "sourceTitle": "CATHOLIC DIOCESE OF KIGOMA ANNUAL EXAMINATION • physics",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -19,7 +19,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 9,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "beec7230ba202638",
@@ -32,7 +34,7 @@
     "subjectId": "mathematics",
     "sourceTitle": "CATHOLIC DIOCESE OF KIGOMA ANNUAL EXAMINATION • mathematics",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -41,7 +43,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 8,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "0b1b118a81062c00",
@@ -54,7 +58,7 @@
     "subjectId": "kiswahili",
     "sourceTitle": "CATHOLIC DIOCESE OF KIGOMA ANNUAL EXAMINATION • kiswahili",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -63,7 +67,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 10,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "8e2f9260031a5b15",
@@ -76,7 +82,7 @@
     "subjectId": "english",
     "sourceTitle": "CATHOLIC DIOCESE OF KIGOMA ANNUAL EXAMINATION • english",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -85,7 +91,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 9,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "01685f87a6f1dc96",
@@ -98,7 +106,7 @@
     "subjectId": "chemistry",
     "sourceTitle": "CATHOLIC DIOCESE OF KIGOMA ANNUAL EXAMINATION • chemistry",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -107,7 +115,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 13,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "d39b70b70872d3af",
@@ -120,7 +130,7 @@
     "subjectId": "business",
     "sourceTitle": "CATHOLIC DIOCESE OF KIGOMA ANNUAL EXAMINATION • business",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -129,7 +139,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 8,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "b58457eeb37bed01",
@@ -142,7 +154,7 @@
     "subjectId": "biology",
     "sourceTitle": "CATHOLIC DIOCESE OF KIGOMA ANNUAL EXAMINATION • biology",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -151,7 +163,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 11,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "117f4702ba82f740",
@@ -164,7 +178,7 @@
     "subjectId": "physics",
     "sourceTitle": "FORM ONE ANNUAL JOINT EXAMINATION SONGWE REGION • physics",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -173,7 +187,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 8,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "5b2a1fe88807b36f",
@@ -186,7 +202,7 @@
     "subjectId": "mathematics",
     "sourceTitle": "FORM ONE ANNUAL JOINT EXAMINATION SONGWE REGION • mathematics",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -195,7 +211,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 6,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "3ec995304ddd0ce7",
@@ -208,7 +226,7 @@
     "subjectId": "historia",
     "sourceTitle": "FORM ONE ANNUAL JOINT EXAMINATION SONGWE REGION • historia",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -217,7 +235,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 5,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "717d2c58c84d3963",
@@ -230,7 +250,7 @@
     "subjectId": "kiswahili",
     "sourceTitle": "FORM ONE ANNUAL JOINT EXAMINATION SONGWE REGION • kiswahili",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -239,7 +259,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 5,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "a6168ddd172148ce",
@@ -252,7 +274,7 @@
     "subjectId": "geography",
     "sourceTitle": "FORM ONE ANNUAL JOINT EXAMINATION SONGWE REGION • geography",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -261,7 +283,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 6,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "8302435c3f20ce3c",
@@ -274,7 +298,7 @@
     "subjectId": "english",
     "sourceTitle": "FORM ONE ANNUAL JOINT EXAMINATION SONGWE REGION • english",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -283,7 +307,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 9,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "0d508bbfeb8b7997",
@@ -296,7 +322,7 @@
     "subjectId": "chemistry",
     "sourceTitle": "FORM ONE ANNUAL JOINT EXAMINATION SONGWE REGION • chemistry",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -305,7 +331,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 10,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "fa6c02bb405c6d3b",
@@ -318,7 +346,7 @@
     "subjectId": "business",
     "sourceTitle": "FORM ONE ANNUAL JOINT EXAMINATION SONGWE REGION • business",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -327,7 +355,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 6,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "84c1db7dc3d3cc61",
@@ -340,7 +370,7 @@
     "subjectId": "biology",
     "sourceTitle": "FORM ONE ANNUAL JOINT EXAMINATION SONGWE REGION • biology",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -349,7 +379,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 6,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "8741fd7cb28631b1",
@@ -362,7 +394,7 @@
     "subjectId": "chemistry",
     "sourceTitle": "KAGERA ANNUAL EXAMINATION • chemistry",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -371,7 +403,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 7,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "9c800a621d7d50a1",
@@ -384,7 +418,7 @@
     "subjectId": "physics",
     "sourceTitle": "KAGERA ANNUAL EXAMINATION • physics",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -393,7 +427,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 4,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "32c608287623a1de",
@@ -406,7 +442,7 @@
     "subjectId": "kiswahili",
     "sourceTitle": "KAGERA ANNUAL EXAMINATION • kiswahili",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -415,7 +451,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 7,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "76ec0fefb4326053",
@@ -428,7 +466,7 @@
     "subjectId": "geography",
     "sourceTitle": "KAGERA ANNUAL EXAMINATION • geography",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -437,7 +475,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 6,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "7824ae312db8b208",
@@ -450,7 +490,7 @@
     "subjectId": "english",
     "sourceTitle": "KAGERA ANNUAL EXAMINATION • english",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -459,7 +499,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 5,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "76ba5b7bc68bc768",
@@ -472,7 +514,7 @@
     "subjectId": "biology",
     "sourceTitle": "KAGERA ANNUAL EXAMINATION • biology",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -481,7 +523,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 3,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2025
   },
   {
     "id": "887f9f64255ec06f",
@@ -494,7 +538,7 @@
     "subjectId": "physics",
     "sourceTitle": "WANGINGOMBE FORM ONE AUGOST MID TERM JOINT EXAMINATION • physics",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -503,7 +547,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 9,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2026
   },
   {
     "id": "7466233652259dd5",
@@ -516,7 +562,7 @@
     "subjectId": "mathematics",
     "sourceTitle": "WANGINGOMBE FORM ONE AUGOST MID TERM JOINT EXAMINATION • mathematics",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -525,7 +571,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 9,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2026
   },
   {
     "id": "77e5d244c28a52d8",
@@ -538,7 +586,7 @@
     "subjectId": "kiswahili",
     "sourceTitle": "WANGINGOMBE FORM ONE AUGOST MID TERM JOINT EXAMINATION • kiswahili",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -547,7 +595,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 6,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2026
   },
   {
     "id": "7df73ce470e9cc4d",
@@ -560,7 +610,7 @@
     "subjectId": "historia",
     "sourceTitle": "WANGINGOMBE FORM ONE AUGOST MID TERM JOINT EXAMINATION • historia",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -569,7 +619,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 8,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2026
   },
   {
     "id": "b749c4ada4b5eeeb",
@@ -582,7 +634,7 @@
     "subjectId": "geography",
     "sourceTitle": "WANGINGOMBE FORM ONE AUGOST MID TERM JOINT EXAMINATION • geography",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -591,7 +643,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 8,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2026
   },
   {
     "id": "6130758feb804567",
@@ -604,7 +658,7 @@
     "subjectId": "chemistry",
     "sourceTitle": "WANGINGOMBE FORM ONE AUGOST MID TERM JOINT EXAMINATION • chemistry",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -613,7 +667,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 9,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2023
   },
   {
     "id": "3608af4bf228d85a",
@@ -626,7 +682,7 @@
     "subjectId": "business",
     "sourceTitle": "WANGINGOMBE FORM ONE AUGOST MID TERM JOINT EXAMINATION • business",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -635,7 +691,9 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 9,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2026
   },
   {
     "id": "64ba2e9b9aebacc4",
@@ -648,7 +706,7 @@
     "subjectId": "biology",
     "sourceTitle": "WANGINGOMBE FORM ONE AUGOST MID TERM JOINT EXAMINATION • biology",
     "category": "candidate-paper",
-    "publicationStatus": "draft",
+    "publicationStatus": "published",
     "rightsStatus": "cleared",
     "rightsEvidence": {
       "type": "owner-attestation-in-chat",
@@ -657,6 +715,8 @@
       "verification": "Owner assertion; no document inspection claimed."
     },
     "pageCount": 10,
-    "verificationStatus": "cover-and-order-pending"
+    "verificationStatus": "cover-and-question-index-checked",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2026
   }
 ]

@@ -1,0 +1,1677 @@
+{
+  "source-cf60ecfc976c4929": {
+    "sourceSha256": "cf60ecfc976c49295759769711d1ef35d442a9c31058ea5247a57f85efe1d0db",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "4",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "6",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "8",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "9",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "10",
+        "firstPage": 8,
+        "lastPage": 9
+      }
+    ]
+  },
+  "source-beec7230ba202638": {
+    "sourceSha256": "beec7230ba202638f21479a865e501b01f1038578e3b35aadeaa5125c4188902",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "2",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "4",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "5",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "6",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "8",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "9",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "10",
+        "firstPage": 7,
+        "lastPage": 8
+      }
+    ]
+  },
+  "source-0b1b118a81062c00": {
+    "sourceSha256": "0b1b118a81062c00fb982e9595d105e95c9daf69ab9f8d5ceb2f5ec301e45511",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "7",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "8",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "9",
+        "firstPage": 8,
+        "lastPage": 9
+      },
+      {
+        "label": "10",
+        "firstPage": 9,
+        "lastPage": 10
+      }
+    ]
+  },
+  "source-8e2f9260031a5b15": {
+    "sourceSha256": "8e2f9260031a5b15358e25f0f7abff3151d9e2e08c3c0cfe0b731a138745a1d8",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "7",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "8",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "9",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "10",
+        "firstPage": 8,
+        "lastPage": 9
+      }
+    ]
+  },
+  "source-01685f87a6f1dc96": {
+    "sourceSha256": "01685f87a6f1dc969396171a1f50936e1f86a99250e2751403de5b327b69c08d",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "6",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "7",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "8",
+        "firstPage": 8,
+        "lastPage": 10
+      },
+      {
+        "label": "9",
+        "firstPage": 10,
+        "lastPage": 11
+      },
+      {
+        "label": "10",
+        "firstPage": 11,
+        "lastPage": 13
+      }
+    ]
+  },
+  "source-d39b70b70872d3af": {
+    "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "4",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "6",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "7",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "8",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "9",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "10",
+        "firstPage": 5,
+        "lastPage": 8
+      }
+    ]
+  },
+  "source-b58457eeb37bed01": {
+    "sourceSha256": "b58457eeb37bed0137665bbc3a09290d9f79046964317dcbb0753c0180e6649d",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "6",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "7",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "8",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "9",
+        "firstPage": 8,
+        "lastPage": 10
+      },
+      {
+        "label": "10",
+        "firstPage": 10,
+        "lastPage": 11
+      }
+    ]
+  },
+  "source-117f4702ba82f740": {
+    "sourceSha256": "117f4702ba82f740f812d42901dd43710f6dcc48374757172ac99a0d6d3ead5e",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "4",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "6",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "7",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "8",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "9",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "10",
+        "firstPage": 8,
+        "lastPage": 8
+      }
+    ]
+  },
+  "source-5b2a1fe88807b36f": {
+    "sourceSha256": "5b2a1fe88807b36f0f826819d10821f4066df992d37ea92f6f44b0df4ff0bc15",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "2",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "4",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "6",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "8",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "9",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "10",
+        "firstPage": 6,
+        "lastPage": 6
+      }
+    ]
+  },
+  "source-3ec995304ddd0ce7": {
+    "sourceSha256": "3ec995304ddd0ce78dfc4d32e954d574ad13ae872848a9835645b17e45f8f9ec",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "6",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "8",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "9",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "10",
+        "firstPage": 5,
+        "lastPage": 5
+      }
+    ]
+  },
+  "source-717d2c58c84d3963": {
+    "sourceSha256": "717d2c58c84d39636c6a470c7f009f4feec2739f78dc7163c750bbc5ec1669f7",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "6",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "7",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "8",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "9",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "10",
+        "firstPage": 5,
+        "lastPage": 5
+      }
+    ]
+  },
+  "source-a6168ddd172148ce": {
+    "sourceSha256": "a6168ddd172148ce8b5306da16af25e9e59584154a3e93fc2276c23b336bbf79",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1 (A)",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2 (A)",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "1 (B)",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "2 (B)",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3 (B)",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4 (B)",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5 (B)",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "6 (B)",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "9 (B)",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "10 (C)",
+        "firstPage": 6,
+        "lastPage": 6
+      }
+    ]
+  },
+  "source-8302435c3f20ce3c": {
+    "sourceSha256": "8302435c3f20ce3c7b724313a27b99b2ed5b67464839f451ae9337f80561e731",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "7",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "8",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "9",
+        "firstPage": 6,
+        "lastPage": 8
+      },
+      {
+        "label": "10",
+        "firstPage": 8,
+        "lastPage": 9
+      }
+    ]
+  },
+  "source-0d508bbfeb8b7997": {
+    "sourceSha256": "0d508bbfeb8b7997fab6fb888f96fb3ca21987fecd15396c59535dd999e4f392",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "6",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "7",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "8",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "9",
+        "firstPage": 8,
+        "lastPage": 9
+      },
+      {
+        "label": "10",
+        "firstPage": 9,
+        "lastPage": 10
+      }
+    ]
+  },
+  "source-fa6c02bb405c6d3b": {
+    "sourceSha256": "fa6c02bb405c6d3b95b8b4ad8734d47fb9bbf226c944df2b94a677eecf3de709",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "6",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "8",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "9",
+        "firstPage": 5,
+        "lastPage": 6
+      }
+    ]
+  },
+  "source-84c1db7dc3d3cc61": {
+    "sourceSha256": "84c1db7dc3d3cc611a9e8c3326749b3d71b9f51957939dd76e7e46701a9935b9",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "8",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "9",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "10",
+        "firstPage": 6,
+        "lastPage": 6
+      }
+    ]
+  },
+  "source-8741fd7cb28631b1": {
+    "sourceSha256": "8741fd7cb28631b1640c01d6141208f20ea1b643ecb793162dd74285ed7d16b9",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 1,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "8",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "9",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "10",
+        "firstPage": 6,
+        "lastPage": 7
+      }
+    ]
+  },
+  "source-9c800a621d7d50a1": {
+    "sourceSha256": "9c800a621d7d50a1b1ffb79bee03f784c5a733905ff2e5180b9a298ef8a6409d",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 1,
+        "lastPage": 2
+      },
+      {
+        "label": "2",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "3",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "4",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "5",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "6",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "7",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "8",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "9",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "10",
+        "firstPage": 4,
+        "lastPage": 4
+      }
+    ]
+  },
+  "source-32c608287623a1de": {
+    "sourceSha256": "32c608287623a1deb6adf279f69cab58aeb8fe1cad2eca7f7a251cb6ddb2b9d8",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "8",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "9",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "10",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "11",
+        "firstPage": 7,
+        "lastPage": 7
+      }
+    ]
+  },
+  "source-76ec0fefb4326053": {
+    "sourceSha256": "76ec0fefb43260534567c59ce821c46a8369e810c4aa214ed0cbbcb392ea05a8",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 1,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "8",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "9",
+        "firstPage": 6,
+        "lastPage": 6
+      }
+    ]
+  },
+  "source-7824ae312db8b208": {
+    "sourceSha256": "7824ae312db8b208b6fc07da3ad0b8539e0e1deb560f27d11af0da42787376ce",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 1,
+        "lastPage": 2
+      },
+      {
+        "label": "2",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "4",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "5",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "6",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "7",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "8",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "9",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "10",
+        "firstPage": 5,
+        "lastPage": 5
+      }
+    ]
+  },
+  "source-76ba5b7bc68bc768": {
+    "sourceSha256": "76ba5b7bc68bc768dc8f5923300b02fa5875dc96eab8034f2665d605455d4cc0",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 1,
+        "lastPage": 2
+      },
+      {
+        "label": "2",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "3",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "4",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "5",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "6",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "7",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "8",
+        "firstPage": 2,
+        "lastPage": 2
+      },
+      {
+        "label": "9",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "10",
+        "firstPage": 3,
+        "lastPage": 3
+      }
+    ]
+  },
+  "source-887f9f64255ec06f": {
+    "sourceSha256": "887f9f64255ec06f05c477a18ad8751478005fde88dfdb8c5749143309269605",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "7",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "8",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "9",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "10",
+        "firstPage": 8,
+        "lastPage": 9
+      }
+    ]
+  },
+  "source-7466233652259dd5": {
+    "sourceSha256": "7466233652259dd50c95b59332f9c8606d81416db755bb71fc5857128535bc46",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "6",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "7",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "8",
+        "firstPage": 8,
+        "lastPage": 9
+      },
+      {
+        "label": "9",
+        "firstPage": 9,
+        "lastPage": 9
+      },
+      {
+        "label": "10",
+        "firstPage": 9,
+        "lastPage": 9
+      }
+    ]
+  },
+  "source-77e5d244c28a52d8": {
+    "sourceSha256": "77e5d244c28a52d8cb1592a8db080f7a50dab9bdf7fa8b58203ec9cd10588351",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 1,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "8",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "9",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "10",
+        "firstPage": 6,
+        "lastPage": 6
+      }
+    ]
+  },
+  "source-7df73ce470e9cc4d": {
+    "sourceSha256": "7df73ce470e9cc4de8dfd56b11af01884759e9db7bb6de8674af12fa2d8842da",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 1,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "8",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "9",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "10",
+        "firstPage": 7,
+        "lastPage": 8
+      }
+    ]
+  },
+  "source-b749c4ada4b5eeeb": {
+    "sourceSha256": "b749c4ada4b5eeeb140591812e8ad7736afbf0d16b4f53e6947f6d166e65e9dd",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 1,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "8",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "9",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "10",
+        "firstPage": 7,
+        "lastPage": 8
+      }
+    ]
+  },
+  "source-6130758feb804567": {
+    "sourceSha256": "6130758feb804567a20060d2a13eadaaa39981cc41177e236813fb37d8106f4b",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 1,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "8",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "9",
+        "firstPage": 6,
+        "lastPage": 8
+      },
+      {
+        "label": "10",
+        "firstPage": 8,
+        "lastPage": 9
+      }
+    ]
+  },
+  "source-3608af4bf228d85a": {
+    "sourceSha256": "3608af4bf228d85a4dd8340beba9838bedc5bfaf02190895493ff0c2e2c782b9",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 1,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "5",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "7",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "8",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "9",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "10",
+        "firstPage": 7,
+        "lastPage": 9
+      }
+    ]
+  },
+  "source-64ba2e9b9aebacc4": {
+    "sourceSha256": "64ba2e9b9aebacc4c44eed920c7442c3b859e8858a083bf0440d80ec6e76fb00",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 1,
+        "lastPage": 2
+      },
+      {
+        "label": "2",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "3",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "7",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "8",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "9",
+        "firstPage": 8,
+        "lastPage": 9
+      },
+      {
+        "label": "10",
+        "firstPage": 9,
+        "lastPage": 10
+      }
+    ]
+  }
+}

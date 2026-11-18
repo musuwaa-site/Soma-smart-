@@ -1,6 +1,6 @@
 # SomaSmart project state
 
-**Unfinished content release 0.9.0.** Owner-private ChatGPT preview: https://somasmart-study.astuteegret257.chatgpt.site
+**Unfinished content release 0.10.0.** Owner-private ChatGPT preview: https://somasmart-study.astuteegret257.chatgpt.site
 
 ## Integrated educational resources
 
@@ -33,8 +33,13 @@ Latest repair: visible startup/progress and bounded network/storage waits replac
 
 ## Progress toward 180 papers
 
-SomaSmart includes 65 interactive paper sources. The library now adds 14 NECTA Form Two papers from 2021–2023 in Mathematics, Biology, Chemistry, English and Geography. They add 141 selectable original question groups. The archive PDFs and full page images are bundled. Earlier-syllabus papers are labelled so students can compare topics with their current lessons. Six other downloaded candidates are held for scan and pagination review. The site needs 115 more paper sources to reach the count of 180. The scored bank contains 641 records across 22 sources.
+Release 0.9.0 brought SomaSmart to 65 interactive paper sources by adding 14 NECTA Form Two papers from 2021–2023 in Mathematics, Biology, Chemistry, English and Geography. They add 141 selectable original question groups. The archive PDFs and full page images are bundled. Earlier-syllabus papers are labelled so students can compare topics with their current lessons. Six other downloaded candidates are held for scan and pagination review.  The scored bank contains 641 records across 22 sources.
 
 The Form One opening Mathematics paper now has a complete 100-mark independent SomaSmart guide, with answers and partial-credit guidance for all 30 subparts. The guide uses the paper’s printed part maxima. Students can read it from the review panel. This guide does not add automatic scoring to the original-page practice mode.
 
 Downloaded candidate metadata and source hashes are in acquisition/legacy-ftna-2021-2024.json. Published document records are in content/batches/016-legacy-ftna-sources.json. Original question page spans are stored in batch 014 and the independent guide in batch 015.
+
+
+Release 0.10.0 adds ten interactive Form Two papers, bringing the total to 75 of 180. Five recovered 2024 papers use corrected reading order while retaining the original PDF bytes and every source image. Five additional archived papers cover 2019–2020. The Geography file labelled 2020 by the archive is shown as 2019, as printed on the cover. The 2022 Chemistry scan remains held because a printed page is missing. The 53 self-check sources contain 524 selectable groups and the 22 scored sources retain 641 scored records.
+
+A second complete 100-mark independent guide covers the March 2025 Form One Mathematics test. The source supplies ten marks per question. SomaSmart supplies model answers and subpart credit where the paper gives no split. Students can save optional local self-awarded marks on questions with an independent guide.

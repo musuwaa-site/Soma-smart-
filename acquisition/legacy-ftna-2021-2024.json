@@ -20,7 +20,26 @@
     "pageCount": 16,
     "sourceType": "necta",
     "yearBasis": "Archive filename with printed cover to check",
-    "selectionStatus": "held-for-scan-and-pagination-review"
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2024,
+    "archivePageOrder": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      5,
+      7,
+      8,
+      10,
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
   },
   {
     "id": "008cd0defec60484",
@@ -112,7 +131,22 @@
     "pageCount": 12,
     "sourceType": "necta",
     "yearBasis": "Archive filename with printed cover to check",
-    "selectionStatus": "held-for-scan-and-pagination-review"
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2024,
+    "archivePageOrder": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      8,
+      10,
+      11,
+      12
+    ]
   },
   {
     "id": "4b27f407b00db3a3",
@@ -204,7 +238,21 @@
     "pageCount": 11,
     "sourceType": "necta",
     "yearBasis": "Archive filename with printed cover to check",
-    "selectionStatus": "held-for-scan-and-pagination-review"
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2024,
+    "archivePageOrder": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      8,
+      10,
+      11
+    ]
   },
   {
     "id": "01f1e170e2d9bce7",
@@ -296,7 +344,21 @@
     "pageCount": 11,
     "sourceType": "necta",
     "yearBasis": "Archive filename with printed cover to check",
-    "selectionStatus": "held-for-scan-and-pagination-review"
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2024,
+    "archivePageOrder": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      6,
+      8,
+      9,
+      10,
+      11
+    ]
   },
   {
     "id": "2822d80d7883fb53",
@@ -388,7 +450,24 @@
     "pageCount": 14,
     "sourceType": "necta",
     "yearBasis": "Archive filename with printed cover to check",
-    "selectionStatus": "held-for-scan-and-pagination-review"
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2024,
+    "archivePageOrder": [
+      1,
+      2,
+      3,
+      5,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
   },
   {
     "id": "e7880386a9723de1",
@@ -458,5 +537,182 @@
     "sourceType": "necta",
     "yearBasis": "Archive filename with printed cover to check",
     "selectionStatus": "published-source-practice"
+  },
+  {
+    "id": "b8b10eddefc04a13",
+    "sha256": "b8b10eddefc04a13ae72801d1c3a487356a90c24229be384e316ca666743434c",
+    "url": "https://maktaba.tetea.org/past-papers/form_ii/math/BasicMath-F2-2020.pdf",
+    "form": 2,
+    "year": 2020,
+    "subjectId": "mathematics",
+    "sourceTitle": "BasicMath-F2-2020.pdf",
+    "sourcePage": "https://maktaba.tetea.org/resources/form-1-2/",
+    "category": "candidate-paper",
+    "publicationStatus": "draft",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "scope": "Use of genuine examination papers in SomaSmart",
+      "confirmedBy": "owner",
+      "verification": "Owner assertion; no document inspection claimed."
+    },
+    "pageCount": 11,
+    "sourceType": "necta",
+    "yearBasis": "Archive filename with printed cover to check",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2020,
+    "archivePageOrder": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "fcbbbd6f9fd616ba",
+    "sha256": "fcbbbd6f9fd616bade3ce1729a106aef632e6712aff506f6ae91e9d606685871",
+    "url": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2020.pdf",
+    "form": 2,
+    "year": 2020,
+    "subjectId": "biology",
+    "sourceTitle": "Biology-F2-2020.pdf",
+    "sourcePage": "https://maktaba.tetea.org/resources/form-1-2/",
+    "category": "candidate-paper",
+    "publicationStatus": "draft",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "scope": "Use of genuine examination papers in SomaSmart",
+      "confirmedBy": "owner",
+      "verification": "Owner assertion; no document inspection claimed."
+    },
+    "pageCount": 8,
+    "sourceType": "necta",
+    "yearBasis": "Archive filename with printed cover to check",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2020,
+    "archivePageOrder": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "4a793b07dd77488e",
+    "sha256": "4a793b07dd77488e9ec8ed5b881f904d99cd47cfd22ad1a07e3611b7c5fb3818",
+    "url": "https://maktaba.tetea.org/past-papers/form_ii/chemistry/Chemistry-F2-2020.pdf",
+    "form": 2,
+    "year": 2020,
+    "subjectId": "chemistry",
+    "sourceTitle": "Chemistry-F2-2020.pdf",
+    "sourcePage": "https://maktaba.tetea.org/resources/form-1-2/",
+    "category": "candidate-paper",
+    "publicationStatus": "draft",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "scope": "Use of genuine examination papers in SomaSmart",
+      "confirmedBy": "owner",
+      "verification": "Owner assertion; no document inspection claimed."
+    },
+    "pageCount": 10,
+    "sourceType": "necta",
+    "yearBasis": "Archive filename with printed cover to check",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2020,
+    "archivePageOrder": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "d9a78ded8d892ef5",
+    "sha256": "d9a78ded8d892ef5ac7ef775fe668c215a39acbc578757b4b92253d2b1fb487c",
+    "url": "https://maktaba.tetea.org/past-papers/form_ii/english/English-F2-2020.pdf",
+    "form": 2,
+    "year": 2020,
+    "subjectId": "english",
+    "sourceTitle": "English-F2-2020.pdf",
+    "sourcePage": "https://maktaba.tetea.org/resources/form-1-2/",
+    "category": "candidate-paper",
+    "publicationStatus": "draft",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "scope": "Use of genuine examination papers in SomaSmart",
+      "confirmedBy": "owner",
+      "verification": "Owner assertion; no document inspection claimed."
+    },
+    "pageCount": 9,
+    "sourceType": "necta",
+    "yearBasis": "Archive filename with printed cover to check",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2020,
+    "archivePageOrder": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "id": "4ee1d4416aa0de42",
+    "sha256": "4ee1d4416aa0de42e3b5e108f5fce61c48fb8eba0e6c66e604f03dc00ef34de1",
+    "url": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2020.pdf",
+    "form": 2,
+    "year": 2020,
+    "subjectId": "geography",
+    "sourceTitle": "Geography-F2-2020.pdf",
+    "sourcePage": "https://maktaba.tetea.org/resources/form-1-2/",
+    "category": "candidate-paper",
+    "publicationStatus": "draft",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "scope": "Use of genuine examination papers in SomaSmart",
+      "confirmedBy": "owner",
+      "verification": "Owner assertion; no document inspection claimed."
+    },
+    "pageCount": 9,
+    "sourceType": "necta",
+    "yearBasis": "Archive filename with printed cover to check",
+    "selectionStatus": "published-source-practice",
+    "printedYear": 2019,
+    "archivePageOrder": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
   }
 ]

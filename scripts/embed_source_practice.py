@@ -27,7 +27,7 @@ if __name__ == '__main__':
             if group['maximumMarks'] != sum(part['marks'] for part in group['parts']):
                 raise SystemExit('Independent guide has inconsistent marks.')
         doc['independentPracticeGuide'] = guide
-    data['version'] = '0.9.0'
+    data['version'] = '0.10.0'
     problems = validate(data)
     if problems:
         raise SystemExit('\n'.join(problems))

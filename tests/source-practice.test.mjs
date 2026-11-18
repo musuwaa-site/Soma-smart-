@@ -7,8 +7,8 @@ import { selectSourceGroups, sourceGroupPages } from '../src/source-practice.js'
 const library = studentRelease(JSON.parse(readFileSync('content/library.json')));
 test('every released original paper has a scored selection or an original-page selection', () => {
   const indexed = library.sourceDocuments.filter(doc => doc.practiceIndex);
-  assert.equal(indexed.length, 43);
-  assert.equal(indexed.reduce((sum, doc) => sum + doc.practiceIndex.groups.length, 0), 423);
+  assert.equal(indexed.length, 53);
+  assert.equal(indexed.reduce((sum, doc) => sum + doc.practiceIndex.groups.length, 0), 524);
   assert(library.sourceDocuments.every(doc => doc.interactivePaperId || doc.practiceIndex));
   for (const doc of indexed) {
     assert.equal(doc.practiceIndex.sourceSha256, doc.sha256);
@@ -24,9 +24,17 @@ test('every released original paper has a scored selection or an original-page s
   }
 });
 
-test('independent marking guide is attached to the exact paper and covers its printed total', () => {
-  const doc = library.sourceDocuments.find(document => document.independentPracticeGuide);
-  assert(doc);
+test('reordered scans preserve all archive images and use the corrected reading order', () => {
+  const document = library.sourceDocuments.find(doc => doc.id === 'source-0cb716c0571976ac');
+  assert.equal(document.pageImages.length, 11);
+  assert.equal(new Set(document.pageImages).size, 11);
+  const group = document.practiceIndex.groups.find(item => item.label === '6');
+  assert.deepEqual(sourceGroupPages(document,group).map(page=>page.split('/').at(-1)), ['page-007.jpg','page-006.jpg']);
+});
+test('independent marking guides are attached to exact papers and cover their printed totals', () => {
+  const papers = library.sourceDocuments.filter(document => document.independentPracticeGuide);
+  assert.equal(papers.length, 2);
+  for (const doc of papers) {
   const guide = doc.independentPracticeGuide;
   assert.equal(guide.sourceSha256, doc.sha256);
   assert.equal(Object.values(guide.groups).reduce((sum, group) => sum + group.maximumMarks, 0), 100);
@@ -34,5 +42,6 @@ test('independent marking guide is attached to the exact paper and covers its pr
   for (const group of Object.values(guide.groups)) {
     assert.equal(group.maximumMarks, group.parts.reduce((sum, part) => sum + part.marks, 0));
     assert(group.parts.every(part => part.answer && part.rubric));
+  }
   }
 });

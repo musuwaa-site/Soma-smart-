@@ -19,3 +19,5 @@ Release 0.7.0 passed 66 automated tests. New checks cover alternate objective ke
 Release 0.8.0 passed 67 automated tests. The source practice test checks coverage of the 29 added papers, 282 selectable groups, printed order, unclipped source-page references and exclusion from the scored question bank. Browser and device acceptance remain pending.
 
 Release 0.9.0 passes 68 automated tests, including exact paper binding and the 100-mark total for the independent guide. The offline package was built and checked.
+
+Release 0.10.0 checks the original scan reading order and both independent guide totals. The combined suite has 69 automated tests.

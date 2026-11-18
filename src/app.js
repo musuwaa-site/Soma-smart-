@@ -198,6 +198,7 @@ function showSourcePractice(id, label) {
   if (!doc) throw Error('Interactive source practice is unavailable for this paper.');
   const index = doc.practiceIndex;
   const saved = sourcePractice[id] ??= { selected: [], answers: {}, checked: {} };
+  saved.marks ??= {};
   const route = 'paper-practice/' + id;
   const back = link('exams', '← Examination centre', '');
   const original = link('paper/' + id + '/1', 'Full original paper', 'button secondary');
@@ -216,10 +217,16 @@ function showSourcePractice(id, label) {
 
   const selected = selectSourceGroups(index, saved.selected);
   const position = selected.findIndex(group => group.label === label);
+  const graded = selected.filter(group => Number.isFinite(saved.marks[group.label]) &&
+    doc.independentPracticeGuide?.groups[group.label]);
+  const earned = graded.reduce((sum, group) => sum + saved.marks[group.label], 0);
+  const available = graded.reduce((sum, group) => sum + doc.independentPracticeGuide.groups[group.label].maximumMarks, 0);
+  const progressNote = graded.length ? `<p>Self-marked ${earned}/${available} across ${graded.length} of ${selected.length} selected questions.</p>` : '';
   if (position === -1) {
     frame(`${back}<h1>${esc(doc.title)}</h1>
-      <p>Choose the original question groups you want to answer. Each group keeps its subparts together. This activity records your work for self-check without assigning marks.</p>
+      <p>Choose the original question groups you want to answer. Each group keeps its subparts together. ${doc.independentPracticeGuide ? 'Use the SomaSmart guide to record your own marks.' : 'This activity records your work for self-check without assigning marks.'}</p>
       <p>${original} ${guide}</p>
+      ${progressNote}
       <form id="source-practice-picker" class="card">
         <fieldset><legend>Questions to practise</legend>
           ${index.groups.map(group => `<label><input type="checkbox" name="source-group" value="${esc(group.label)}" ${saved.selected.length === 0 || saved.selected.includes(group.label) ? 'checked' : ''}> Question ${esc(group.label)} · page ${group.firstPage}${saved.checked[group.label] ? ' · reviewed' : ''}</label>`).join('')}
@@ -250,6 +257,7 @@ function showSourcePractice(id, label) {
     <h1>${esc(doc.title)}</h1>
     <h2>Question ${esc(group.label)}</h2>
     <p>${position + 1} of ${selected.length} selected · ${selected.filter(q => saved.checked[q.label]).length} reviewed</p>
+    ${progressNote}
     <p>Answer the numbered question and its subparts on these original pages. The pages may also show nearby questions.</p>
     <p>${original}</p>
     ${group.firstPage > 1 ? `<details><summary>Original cover and instructions</summary><img src="${esc(doc.pageImages[0])}" alt="Original cover and instructions" loading="lazy" style="width:100%;height:auto"></details>` : ''}
@@ -257,12 +265,16 @@ function showSourcePractice(id, label) {
     <label for="source-practice-answer">My answer and working</label>
     <textarea id="source-practice-answer" rows="8">${esc(saved.answers[group.label] || '')}</textarea>
     <p id="source-practice-status" role="status"></p>
-    <details class="card"><summary>Self-check this response</summary>
+    <details class="card" ${saved.marks[group.label] !== undefined ? 'open' : ''}><summary>Self-check this response</summary>
       <p>${model ? 'Compare your answer with the independent marking guide below.' : doc.answerGuide ? 'Compare your answer with the source guide using the printed question number.' : 'Re-read the original instructions and check that your answer covers every requested part. A source answer guide is unavailable.'}</p>
       ${model ? `<h3>${esc(doc.independentPracticeGuide.title)}</h3>
         <p>${esc(doc.independentPracticeGuide.provenance)}</p>
         ${model.parts.map(part => `<p><strong>${esc(part.label)} · ${part.marks} marks</strong><br>${esc(part.answer)}<br>${esc(part.rubric)}</p>`).join('')}` : ''}
       ${doc.answerGuide ? `<p>${guide}</p>` : ''}
+      ${model ? `<form id="source-practice-mark">
+        <label>My mark out of ${model.maximumMarks}<input name="mark" type="number" min="0" max="${model.maximumMarks}" step="0.5" value="${saved.marks[group.label] ?? ''}" required></label>
+        <button type="submit" class="secondary">Save my mark</button>
+      </form>` : ''}
       <button type="button" class="secondary" id="source-practice-check">${saved.checked[group.label] ? 'Undo reviewed status' : 'Mark reviewed'}</button>
     </details>
     <div class="row">
@@ -274,7 +286,25 @@ function showSourcePractice(id, label) {
     saved.answers[group.label] = event.target.value;
     try { await persistPractice(); } catch { /* Keep the draft in memory. */ }
   };
-  document.querySelector('#source-practice-check').onclick = async event => {
+  const markForm = document.querySelector('#source-practice-mark');
+  if (markForm && model) markForm.onsubmit = async event => {
+    event.preventDefault();
+    const mark = markForm.elements.mark.valueAsNumber;
+    if (!Number.isFinite(mark) || mark < 0 || mark > model.maximumMarks || !Number.isInteger(mark * 2)) return;
+    const previousMark = saved.marks[group.label];
+    const previousChecked = saved.checked[group.label];
+    saved.marks[group.label] = mark;
+    saved.checked[group.label] = true;
+    try {
+      await persistPractice();
+      render();
+    } catch {
+      if (previousMark === undefined) delete saved.marks[group.label];
+      else saved.marks[group.label] = previousMark;
+      saved.checked[group.label] = previousChecked;
+    }
+  };
+  document.querySelector('#source-practice-check').onclick = async () => {
     saved.checked[group.label] = !saved.checked[group.label];
     try {
       await persistPractice();

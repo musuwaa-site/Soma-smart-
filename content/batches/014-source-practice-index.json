@@ -2936,5 +2936,739 @@
         "lastPage": 9
       }
     ]
+  },
+  "source-13317c795549c9bb": {
+    "sourceSha256": "13317c795549c9bb1c7fd0f0e0f5099eabcf5bac4c383cf9cd5d4f7872e48460",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 6
+      },
+      {
+        "label": "4",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "5",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "6",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "7",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "8",
+        "firstPage": 8,
+        "lastPage": 9
+      },
+      {
+        "label": "9",
+        "firstPage": 9,
+        "lastPage": 10
+      },
+      {
+        "label": "10",
+        "firstPage": 10,
+        "lastPage": 11
+      }
+    ]
+  },
+  "source-abba530e1820fa75": {
+    "sourceSha256": "abba530e1820fa752bef028faadd7b980a0ad4347ea9b9e69fad74e032fde4e6",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 6
+      },
+      {
+        "label": "4",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "5",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "6",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "7",
+        "firstPage": 8,
+        "lastPage": 8
+      },
+      {
+        "label": "8",
+        "firstPage": 8,
+        "lastPage": 9
+      },
+      {
+        "label": "9",
+        "firstPage": 9,
+        "lastPage": 10
+      },
+      {
+        "label": "10",
+        "firstPage": 10,
+        "lastPage": 11
+      }
+    ]
+  },
+  "source-06306010d99b6063": {
+    "sourceSha256": "06306010d99b606338a6bb1abd2e39df14a3a07d1de60a9b6a4f6c10107df1a1",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "4",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "5",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "6",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "7",
+        "firstPage": 8,
+        "lastPage": 8
+      },
+      {
+        "label": "8",
+        "firstPage": 8,
+        "lastPage": 9
+      },
+      {
+        "label": "9",
+        "firstPage": 9,
+        "lastPage": 9
+      },
+      {
+        "label": "10",
+        "firstPage": 9,
+        "lastPage": 12
+      }
+    ]
+  },
+  "source-fde5c735289120f4": {
+    "sourceSha256": "fde5c735289120f48e2a879f0e08348bf4d01115a97f3977161fa3570ab41808",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "4",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "5",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "6",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "7",
+        "firstPage": 8,
+        "lastPage": 9
+      },
+      {
+        "label": "8",
+        "firstPage": 9,
+        "lastPage": 9
+      },
+      {
+        "label": "9",
+        "firstPage": 9,
+        "lastPage": 10
+      },
+      {
+        "label": "10",
+        "firstPage": 10,
+        "lastPage": 10
+      }
+    ]
+  },
+  "source-9a545880d8280277": {
+    "sourceSha256": "9a545880d82802771ed38a692d7301ac2825856f5ab9ff56e499e66787cac00f",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "6",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "7",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "8",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "9",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "10",
+        "firstPage": 8,
+        "lastPage": 9
+      }
+    ]
+  },
+  "source-fcc1f2e2f412ba0e": {
+    "sourceSha256": "fcc1f2e2f412ba0eb3774bce6463f0b40f3c9efc3715a8b686483eff75e3358d",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "4",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "5",
+        "firstPage": 6,
+        "lastPage": 6
+      }
+    ]
+  },
+  "source-03da68ba284ee25f": {
+    "sourceSha256": "03da68ba284ee25fe2da0a7222f19a295091757f9d2335097cd21453f228ff35",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 3
+      },
+      {
+        "label": "2",
+        "firstPage": 3,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "4",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "5",
+        "firstPage": 6,
+        "lastPage": 6
+      }
+    ]
+  },
+  "source-817d378b48f73ba6": {
+    "sourceSha256": "817d378b48f73ba6af0effa37397f9f7d54eb0ffe138e0c86d5618d5197c61c3",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 4
+      },
+      {
+        "label": "2",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "4",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "5",
+        "firstPage": 6,
+        "lastPage": 8
+      },
+      {
+        "label": "6",
+        "firstPage": 8,
+        "lastPage": 9
+      },
+      {
+        "label": "7",
+        "firstPage": 9,
+        "lastPage": 10
+      },
+      {
+        "label": "8",
+        "firstPage": 10,
+        "lastPage": 11
+      },
+      {
+        "label": "9",
+        "firstPage": 11,
+        "lastPage": 12
+      },
+      {
+        "label": "10",
+        "firstPage": 12,
+        "lastPage": 14
+      }
+    ]
+  },
+  "source-a05f50934150b37a": {
+    "sourceSha256": "a05f50934150b37ab7914f8aac5c9a52b82a2b0a14f129929e653fe09c0a72be",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 4
+      },
+      {
+        "label": "2",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "4",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "5",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "6",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "7",
+        "firstPage": 8,
+        "lastPage": 8
+      },
+      {
+        "label": "8",
+        "firstPage": 8,
+        "lastPage": 9
+      },
+      {
+        "label": "9",
+        "firstPage": 9,
+        "lastPage": 11
+      },
+      {
+        "label": "10",
+        "firstPage": 11,
+        "lastPage": 14
+      }
+    ]
+  },
+  "source-470e88f8383bd46d": {
+    "sourceSha256": "470e88f8383bd46dfb171baf8aef46a0b71ef42f4fed8ab55f14d11beed09198",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 4
+      },
+      {
+        "label": "2",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "4",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "5",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "6",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "7",
+        "firstPage": 8,
+        "lastPage": 10
+      },
+      {
+        "label": "8",
+        "firstPage": 10,
+        "lastPage": 11
+      },
+      {
+        "label": "9",
+        "firstPage": 11,
+        "lastPage": 12
+      },
+      {
+        "label": "10",
+        "firstPage": 12,
+        "lastPage": 13
+      }
+    ]
+  },
+  "source-17f8c44c1462848b": {
+    "sourceSha256": "17f8c44c1462848bdbe0b79de478a2e9bd3270be0b8c4da7678486980fbd0f5e",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 5
+      },
+      {
+        "label": "2",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "3",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "4",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "5",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "6",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "7",
+        "firstPage": 8,
+        "lastPage": 9
+      },
+      {
+        "label": "8",
+        "firstPage": 9,
+        "lastPage": 10
+      },
+      {
+        "label": "9",
+        "firstPage": 10,
+        "lastPage": 12
+      },
+      {
+        "label": "10",
+        "firstPage": 12,
+        "lastPage": 12
+      }
+    ]
+  },
+  "source-90d766f3e7dcb2a4": {
+    "sourceSha256": "90d766f3e7dcb2a488330eedbc1fd859e1fc82962c534bb12ecd199a8682d016",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 4
+      },
+      {
+        "label": "2",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "3",
+        "firstPage": 4,
+        "lastPage": 4
+      },
+      {
+        "label": "4",
+        "firstPage": 4,
+        "lastPage": 5
+      },
+      {
+        "label": "5",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "6",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "7",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "8",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "9",
+        "firstPage": 7,
+        "lastPage": 9
+      },
+      {
+        "label": "10",
+        "firstPage": 9,
+        "lastPage": 9
+      }
+    ]
+  },
+  "source-4128880adbbc7af0": {
+    "sourceSha256": "4128880adbbc7af00748cef6a4a5f1e33850194ed537993ed21abe5652bb5d97",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 5
+      },
+      {
+        "label": "2",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "3",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "4",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "5",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "6",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "7",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "8",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "9",
+        "firstPage": 8,
+        "lastPage": 8
+      },
+      {
+        "label": "10",
+        "firstPage": 8,
+        "lastPage": 8
+      }
+    ]
+  },
+  "source-8083df0fd6599a7f": {
+    "sourceSha256": "8083df0fd6599a7f87050c7b7d2c97dc7106aa78bb94db54679056b1c4dc864f",
+    "mode": "source-page-self-check",
+    "groups": [
+      {
+        "label": "1",
+        "firstPage": 2,
+        "lastPage": 5
+      },
+      {
+        "label": "2",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "3",
+        "firstPage": 5,
+        "lastPage": 5
+      },
+      {
+        "label": "4",
+        "firstPage": 5,
+        "lastPage": 6
+      },
+      {
+        "label": "5",
+        "firstPage": 6,
+        "lastPage": 6
+      },
+      {
+        "label": "6",
+        "firstPage": 6,
+        "lastPage": 7
+      },
+      {
+        "label": "7",
+        "firstPage": 7,
+        "lastPage": 7
+      },
+      {
+        "label": "8",
+        "firstPage": 7,
+        "lastPage": 8
+      },
+      {
+        "label": "9",
+        "firstPage": 8,
+        "lastPage": 8
+      },
+      {
+        "label": "10",
+        "firstPage": 8,
+        "lastPage": 8
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": "0.10.0",
+  "version": "0.11.0",
   "status": "development-partial",
   "subjects": [
     {
@@ -247822,6 +247822,1371 @@
             "label": "10",
             "firstPage": 7,
             "lastPage": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-13317c795549c9bb",
+      "sha256": "13317c795549c9bb1c7fd0f0e0f5099eabcf5bac4c383cf9cd5d4f7872e48460",
+      "sourcePdf": "/source-papers/source-13317c795549c9bb/original.pdf",
+      "pageImages": [
+        "/source-papers/source-13317c795549c9bb/page-001.jpg",
+        "/source-papers/source-13317c795549c9bb/page-011.jpg",
+        "/source-papers/source-13317c795549c9bb/page-002.jpg",
+        "/source-papers/source-13317c795549c9bb/page-003.jpg",
+        "/source-papers/source-13317c795549c9bb/page-004.jpg",
+        "/source-papers/source-13317c795549c9bb/page-005.jpg",
+        "/source-papers/source-13317c795549c9bb/page-006.jpg",
+        "/source-papers/source-13317c795549c9bb/page-007.jpg",
+        "/source-papers/source-13317c795549c9bb/page-008.jpg",
+        "/source-papers/source-13317c795549c9bb/page-009.jpg",
+        "/source-papers/source-13317c795549c9bb/page-010.jpg"
+      ],
+      "pageCount": 11,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/kiswahili/Kiswahili-F2-2024.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Kiswahili • Form Two • 2024",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "year": 2024,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons. The practice reader follows printed question order. The PDF download preserves the archive file.",
+      "archivePageOrder": [
+        1,
+        11,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "practiceIndex": {
+        "sourceSha256": "13317c795549c9bb1c7fd0f0e0f5099eabcf5bac4c383cf9cd5d4f7872e48460",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 6
+          },
+          {
+            "label": "4",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "6",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "7",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "8",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "9",
+            "firstPage": 9,
+            "lastPage": 10
+          },
+          {
+            "label": "10",
+            "firstPage": 10,
+            "lastPage": 11
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-abba530e1820fa75",
+      "sha256": "abba530e1820fa752bef028faadd7b980a0ad4347ea9b9e69fad74e032fde4e6",
+      "sourcePdf": "/source-papers/source-abba530e1820fa75/original.pdf",
+      "pageImages": [
+        "/source-papers/source-abba530e1820fa75/page-001.jpg",
+        "/source-papers/source-abba530e1820fa75/page-002.jpg",
+        "/source-papers/source-abba530e1820fa75/page-003.jpg",
+        "/source-papers/source-abba530e1820fa75/page-004.jpg",
+        "/source-papers/source-abba530e1820fa75/page-005.jpg",
+        "/source-papers/source-abba530e1820fa75/page-006.jpg",
+        "/source-papers/source-abba530e1820fa75/page-007.jpg",
+        "/source-papers/source-abba530e1820fa75/page-008.jpg",
+        "/source-papers/source-abba530e1820fa75/page-009.jpg",
+        "/source-papers/source-abba530e1820fa75/page-010.jpg",
+        "/source-papers/source-abba530e1820fa75/page-011.jpg"
+      ],
+      "pageCount": 11,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/kiswahili/Kiswahili-F2-2023.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Kiswahili • Form Two • 2023",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "year": 2023,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "abba530e1820fa752bef028faadd7b980a0ad4347ea9b9e69fad74e032fde4e6",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 6
+          },
+          {
+            "label": "4",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "5",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "6",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "7",
+            "firstPage": 8,
+            "lastPage": 8
+          },
+          {
+            "label": "8",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "9",
+            "firstPage": 9,
+            "lastPage": 10
+          },
+          {
+            "label": "10",
+            "firstPage": 10,
+            "lastPage": 11
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-06306010d99b6063",
+      "sha256": "06306010d99b606338a6bb1abd2e39df14a3a07d1de60a9b6a4f6c10107df1a1",
+      "sourcePdf": "/source-papers/source-06306010d99b6063/original.pdf",
+      "pageImages": [
+        "/source-papers/source-06306010d99b6063/page-001.jpg",
+        "/source-papers/source-06306010d99b6063/page-002.jpg",
+        "/source-papers/source-06306010d99b6063/page-003.jpg",
+        "/source-papers/source-06306010d99b6063/page-004.jpg",
+        "/source-papers/source-06306010d99b6063/page-005.jpg",
+        "/source-papers/source-06306010d99b6063/page-006.jpg",
+        "/source-papers/source-06306010d99b6063/page-007.jpg",
+        "/source-papers/source-06306010d99b6063/page-008.jpg",
+        "/source-papers/source-06306010d99b6063/page-009.jpg",
+        "/source-papers/source-06306010d99b6063/page-010.jpg",
+        "/source-papers/source-06306010d99b6063/page-011.jpg",
+        "/source-papers/source-06306010d99b6063/page-012.jpg"
+      ],
+      "pageCount": 12,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/kiswahili/Kiswahili-F2-2022.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Kiswahili • Form Two • 2022",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "year": 2022,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "06306010d99b606338a6bb1abd2e39df14a3a07d1de60a9b6a4f6c10107df1a1",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "6",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "7",
+            "firstPage": 8,
+            "lastPage": 8
+          },
+          {
+            "label": "8",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "9",
+            "firstPage": 9,
+            "lastPage": 9
+          },
+          {
+            "label": "10",
+            "firstPage": 9,
+            "lastPage": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-fde5c735289120f4",
+      "sha256": "fde5c735289120f48e2a879f0e08348bf4d01115a97f3977161fa3570ab41808",
+      "sourcePdf": "/source-papers/source-fde5c735289120f4/original.pdf",
+      "pageImages": [
+        "/source-papers/source-fde5c735289120f4/page-001.jpg",
+        "/source-papers/source-fde5c735289120f4/page-002.jpg",
+        "/source-papers/source-fde5c735289120f4/page-003.jpg",
+        "/source-papers/source-fde5c735289120f4/page-004.jpg",
+        "/source-papers/source-fde5c735289120f4/page-005.jpg",
+        "/source-papers/source-fde5c735289120f4/page-006.jpg",
+        "/source-papers/source-fde5c735289120f4/page-007.jpg",
+        "/source-papers/source-fde5c735289120f4/page-008.jpg",
+        "/source-papers/source-fde5c735289120f4/page-009.jpg",
+        "/source-papers/source-fde5c735289120f4/page-010.jpg"
+      ],
+      "pageCount": 10,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/kiswahili/Kiswahili-F2-2021.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Kiswahili • Form Two • 2021",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "year": 2021,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "fde5c735289120f48e2a879f0e08348bf4d01115a97f3977161fa3570ab41808",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "6",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "7",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "8",
+            "firstPage": 9,
+            "lastPage": 9
+          },
+          {
+            "label": "9",
+            "firstPage": 9,
+            "lastPage": 10
+          },
+          {
+            "label": "10",
+            "firstPage": 10,
+            "lastPage": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-9a545880d8280277",
+      "sha256": "9a545880d82802771ed38a692d7301ac2825856f5ab9ff56e499e66787cac00f",
+      "sourcePdf": "/source-papers/source-9a545880d8280277/original.pdf",
+      "pageImages": [
+        "/source-papers/source-9a545880d8280277/page-001.jpg",
+        "/source-papers/source-9a545880d8280277/page-002.jpg",
+        "/source-papers/source-9a545880d8280277/page-003.jpg",
+        "/source-papers/source-9a545880d8280277/page-004.jpg",
+        "/source-papers/source-9a545880d8280277/page-005.jpg",
+        "/source-papers/source-9a545880d8280277/page-006.jpg",
+        "/source-papers/source-9a545880d8280277/page-007.jpg",
+        "/source-papers/source-9a545880d8280277/page-008.jpg",
+        "/source-papers/source-9a545880d8280277/page-009.jpg"
+      ],
+      "pageCount": 9,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/kiswahili/Kiswahili-F2-2020.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Kiswahili • Form Two • 2020",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "year": 2020,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "9a545880d82802771ed38a692d7301ac2825856f5ab9ff56e499e66787cac00f",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "7",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "10",
+            "firstPage": 8,
+            "lastPage": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-fcc1f2e2f412ba0e",
+      "sha256": "fcc1f2e2f412ba0eb3774bce6463f0b40f3c9efc3715a8b686483eff75e3358d",
+      "sourcePdf": "/source-papers/source-fcc1f2e2f412ba0e/original.pdf",
+      "pageImages": [
+        "/source-papers/source-fcc1f2e2f412ba0e/page-001.jpg",
+        "/source-papers/source-fcc1f2e2f412ba0e/page-002.jpg",
+        "/source-papers/source-fcc1f2e2f412ba0e/page-003.jpg",
+        "/source-papers/source-fcc1f2e2f412ba0e/page-004.jpg",
+        "/source-papers/source-fcc1f2e2f412ba0e/page-005.jpg",
+        "/source-papers/source-fcc1f2e2f412ba0e/page-006.jpg"
+      ],
+      "pageCount": 6,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/kiswahili/Kiswahili-F2-2013.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Form Two Secondary Education Examination • Kiswahili • Form Two • 2013",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "year": 2013,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "fcc1f2e2f412ba0eb3774bce6463f0b40f3c9efc3715a8b686483eff75e3358d",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-03da68ba284ee25f",
+      "sha256": "03da68ba284ee25fe2da0a7222f19a295091757f9d2335097cd21453f228ff35",
+      "sourcePdf": "/source-papers/source-03da68ba284ee25f/original.pdf",
+      "pageImages": [
+        "/source-papers/source-03da68ba284ee25f/page-001.jpg",
+        "/source-papers/source-03da68ba284ee25f/page-002.jpg",
+        "/source-papers/source-03da68ba284ee25f/page-003.jpg",
+        "/source-papers/source-03da68ba284ee25f/page-004.jpg",
+        "/source-papers/source-03da68ba284ee25f/page-005.jpg",
+        "/source-papers/source-03da68ba284ee25f/page-006.jpg"
+      ],
+      "pageCount": 6,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/kiswahili/Kiswahili-F2-2012.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Form Two Secondary Education Examination • Kiswahili • Form Two • 2012",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "year": 2012,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "03da68ba284ee25fe2da0a7222f19a295091757f9d2335097cd21453f228ff35",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-817d378b48f73ba6",
+      "sha256": "817d378b48f73ba6af0effa37397f9f7d54eb0ffe138e0c86d5618d5197c61c3",
+      "sourcePdf": "/source-papers/source-817d378b48f73ba6/original.pdf",
+      "pageImages": [
+        "/source-papers/source-817d378b48f73ba6/page-001.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-002.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-003.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-004.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-006.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-005.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-007.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-008.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-009.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-010.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-011.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-012.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-014.jpg",
+        "/source-papers/source-817d378b48f73ba6/page-013.jpg"
+      ],
+      "pageCount": 14,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2024.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Physics • Form Two • 2024",
+      "form": 2,
+      "subjectId": "physics",
+      "year": 2024,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons. The practice reader follows printed question order. The PDF download preserves the archive file.",
+      "archivePageOrder": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        13
+      ],
+      "practiceIndex": {
+        "sourceSha256": "817d378b48f73ba6af0effa37397f9f7d54eb0ffe138e0c86d5618d5197c61c3",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 4
+          },
+          {
+            "label": "2",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 8
+          },
+          {
+            "label": "6",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "7",
+            "firstPage": 9,
+            "lastPage": 10
+          },
+          {
+            "label": "8",
+            "firstPage": 10,
+            "lastPage": 11
+          },
+          {
+            "label": "9",
+            "firstPage": 11,
+            "lastPage": 12
+          },
+          {
+            "label": "10",
+            "firstPage": 12,
+            "lastPage": 14
+          }
+        ]
+      },
+      "independentPracticeGuide": {
+        "sourceSha256": "817d378b48f73ba6af0effa37397f9f7d54eb0ffe138e0c86d5618d5197c61c3",
+        "title": "SomaSmart independent Physics marking guide",
+        "provenance": "SomaSmart worked answers for selected questions. The paper supplies the maximum marks shown for each part.",
+        "groups": {
+          "7": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 4,
+                "answer": "Examples include a lever, pulley, inclined plane and wheel and axle. A wedge or screw is also valid.",
+                "rubric": "Award one mark for each of four distinct types."
+              },
+              {
+                "label": "b(i)",
+                "marks": 3,
+                "answer": "Mechanical advantage = load ÷ effort = 225 N ÷ 75 N = 3.",
+                "rubric": "Award one mark each for the relationship, substitution and correct result."
+              },
+              {
+                "label": "b(ii)",
+                "marks": 3,
+                "answer": "Efficiency = (mechanical advantage ÷ velocity ratio) × 100% = (3 ÷ 4) × 100% = 75%.",
+                "rubric": "Award one mark each for the relationship, substitution and percentage."
+              }
+            ]
+          },
+          "10": {
+            "maximumMarks": 15,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 5,
+                "answer": "A cell or low-voltage supply, switch, resistor, ammeter and voltmeter. Connecting leads complete the circuit. A variable resistor allows several readings to be taken.",
+                "rubric": "Award one mark each for five distinct suitable components."
+              },
+              {
+                "label": "b",
+                "marks": 5,
+                "answer": "Draw a closed series loop with a low-voltage supply, switch, ammeter and test resistor. Draw the voltmeter across the test resistor. A variable resistor may go in series to adjust the current.",
+                "rubric": "Award one mark each for the supply, closed series path with switch, test resistor, ammeter in series and voltmeter across the resistor."
+              },
+              {
+                "label": "c",
+                "marks": 5,
+                "answer": "The ammeter goes in series to measure the current through the resistor. The voltmeter goes in parallel across the resistor to measure potential difference across it. For DC meters, match their polarity to the circuit and select appropriate ranges.",
+                "rubric": "Award two marks for the ammeter connection with its reason, two for the voltmeter connection with its reason and one for an appropriate meter precaution."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "source-a05f50934150b37a",
+      "sha256": "a05f50934150b37ab7914f8aac5c9a52b82a2b0a14f129929e653fe09c0a72be",
+      "sourcePdf": "/source-papers/source-a05f50934150b37a/original.pdf",
+      "pageImages": [
+        "/source-papers/source-a05f50934150b37a/page-001.jpg",
+        "/source-papers/source-a05f50934150b37a/page-002.jpg",
+        "/source-papers/source-a05f50934150b37a/page-003.jpg",
+        "/source-papers/source-a05f50934150b37a/page-004.jpg",
+        "/source-papers/source-a05f50934150b37a/page-005.jpg",
+        "/source-papers/source-a05f50934150b37a/page-006.jpg",
+        "/source-papers/source-a05f50934150b37a/page-007.jpg",
+        "/source-papers/source-a05f50934150b37a/page-008.jpg",
+        "/source-papers/source-a05f50934150b37a/page-009.jpg",
+        "/source-papers/source-a05f50934150b37a/page-010.jpg",
+        "/source-papers/source-a05f50934150b37a/page-011.jpg",
+        "/source-papers/source-a05f50934150b37a/page-012.jpg",
+        "/source-papers/source-a05f50934150b37a/page-013.jpg",
+        "/source-papers/source-a05f50934150b37a/page-014.jpg"
+      ],
+      "pageCount": 14,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2023.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Physics • Form Two • 2023",
+      "form": 2,
+      "subjectId": "physics",
+      "year": 2023,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "a05f50934150b37ab7914f8aac5c9a52b82a2b0a14f129929e653fe09c0a72be",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 4
+          },
+          {
+            "label": "2",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "6",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "7",
+            "firstPage": 8,
+            "lastPage": 8
+          },
+          {
+            "label": "8",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "9",
+            "firstPage": 9,
+            "lastPage": 11
+          },
+          {
+            "label": "10",
+            "firstPage": 11,
+            "lastPage": 14
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-470e88f8383bd46d",
+      "sha256": "470e88f8383bd46dfb171baf8aef46a0b71ef42f4fed8ab55f14d11beed09198",
+      "sourcePdf": "/source-papers/source-470e88f8383bd46d/original.pdf",
+      "pageImages": [
+        "/source-papers/source-470e88f8383bd46d/page-001.jpg",
+        "/source-papers/source-470e88f8383bd46d/page-002.jpg",
+        "/source-papers/source-470e88f8383bd46d/page-003.jpg",
+        "/source-papers/source-470e88f8383bd46d/page-004.jpg",
+        "/source-papers/source-470e88f8383bd46d/page-005.jpg",
+        "/source-papers/source-470e88f8383bd46d/page-006.jpg",
+        "/source-papers/source-470e88f8383bd46d/page-007.jpg",
+        "/source-papers/source-470e88f8383bd46d/page-008.jpg",
+        "/source-papers/source-470e88f8383bd46d/page-009.jpg",
+        "/source-papers/source-470e88f8383bd46d/page-010.jpg",
+        "/source-papers/source-470e88f8383bd46d/page-011.jpg",
+        "/source-papers/source-470e88f8383bd46d/page-012.jpg",
+        "/source-papers/source-470e88f8383bd46d/page-013.jpg"
+      ],
+      "pageCount": 13,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2022.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Physics • Form Two • 2022",
+      "form": 2,
+      "subjectId": "physics",
+      "year": 2022,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "470e88f8383bd46dfb171baf8aef46a0b71ef42f4fed8ab55f14d11beed09198",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 4
+          },
+          {
+            "label": "2",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "6",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "7",
+            "firstPage": 8,
+            "lastPage": 10
+          },
+          {
+            "label": "8",
+            "firstPage": 10,
+            "lastPage": 11
+          },
+          {
+            "label": "9",
+            "firstPage": 11,
+            "lastPage": 12
+          },
+          {
+            "label": "10",
+            "firstPage": 12,
+            "lastPage": 13
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-17f8c44c1462848b",
+      "sha256": "17f8c44c1462848bdbe0b79de478a2e9bd3270be0b8c4da7678486980fbd0f5e",
+      "sourcePdf": "/source-papers/source-17f8c44c1462848b/original.pdf",
+      "pageImages": [
+        "/source-papers/source-17f8c44c1462848b/page-001.jpg",
+        "/source-papers/source-17f8c44c1462848b/page-002.jpg",
+        "/source-papers/source-17f8c44c1462848b/page-003.jpg",
+        "/source-papers/source-17f8c44c1462848b/page-004.jpg",
+        "/source-papers/source-17f8c44c1462848b/page-005.jpg",
+        "/source-papers/source-17f8c44c1462848b/page-006.jpg",
+        "/source-papers/source-17f8c44c1462848b/page-007.jpg",
+        "/source-papers/source-17f8c44c1462848b/page-008.jpg",
+        "/source-papers/source-17f8c44c1462848b/page-009.jpg",
+        "/source-papers/source-17f8c44c1462848b/page-010.jpg",
+        "/source-papers/source-17f8c44c1462848b/page-011.jpg",
+        "/source-papers/source-17f8c44c1462848b/page-012.jpg"
+      ],
+      "pageCount": 12,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2021.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Physics • Form Two • 2021",
+      "form": 2,
+      "subjectId": "physics",
+      "year": 2021,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "17f8c44c1462848bdbe0b79de478a2e9bd3270be0b8c4da7678486980fbd0f5e",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 5
+          },
+          {
+            "label": "2",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "3",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "6",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "7",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "8",
+            "firstPage": 9,
+            "lastPage": 10
+          },
+          {
+            "label": "9",
+            "firstPage": 10,
+            "lastPage": 12
+          },
+          {
+            "label": "10",
+            "firstPage": 12,
+            "lastPage": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-90d766f3e7dcb2a4",
+      "sha256": "90d766f3e7dcb2a488330eedbc1fd859e1fc82962c534bb12ecd199a8682d016",
+      "sourcePdf": "/source-papers/source-90d766f3e7dcb2a4/original.pdf",
+      "pageImages": [
+        "/source-papers/source-90d766f3e7dcb2a4/page-001.jpg",
+        "/source-papers/source-90d766f3e7dcb2a4/page-002.jpg",
+        "/source-papers/source-90d766f3e7dcb2a4/page-003.jpg",
+        "/source-papers/source-90d766f3e7dcb2a4/page-004.jpg",
+        "/source-papers/source-90d766f3e7dcb2a4/page-005.jpg",
+        "/source-papers/source-90d766f3e7dcb2a4/page-006.jpg",
+        "/source-papers/source-90d766f3e7dcb2a4/page-007.jpg",
+        "/source-papers/source-90d766f3e7dcb2a4/page-008.jpg",
+        "/source-papers/source-90d766f3e7dcb2a4/page-009.jpg"
+      ],
+      "pageCount": 9,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2020.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Physics • Form Two • 2020",
+      "form": 2,
+      "subjectId": "physics",
+      "year": 2020,
+      "yearBasis": "Printed cover",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "90d766f3e7dcb2a488330eedbc1fd859e1fc82962c534bb12ecd199a8682d016",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 4
+          },
+          {
+            "label": "2",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 9
+          },
+          {
+            "label": "10",
+            "firstPage": 9,
+            "lastPage": 9
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-4128880adbbc7af0",
+      "sha256": "4128880adbbc7af00748cef6a4a5f1e33850194ed537993ed21abe5652bb5d97",
+      "sourcePdf": "/source-papers/source-4128880adbbc7af0/original.pdf",
+      "pageImages": [
+        "/source-papers/source-4128880adbbc7af0/page-001.jpg",
+        "/source-papers/source-4128880adbbc7af0/page-002.jpg",
+        "/source-papers/source-4128880adbbc7af0/page-003.jpg",
+        "/source-papers/source-4128880adbbc7af0/page-004.jpg",
+        "/source-papers/source-4128880adbbc7af0/page-005.jpg",
+        "/source-papers/source-4128880adbbc7af0/page-006.jpg",
+        "/source-papers/source-4128880adbbc7af0/page-007.jpg",
+        "/source-papers/source-4128880adbbc7af0/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2012.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Form Two Secondary Education Examination • Physics • Form Two • 2012",
+      "form": 2,
+      "subjectId": "physics",
+      "year": 2012,
+      "yearBasis": "Printed cover",
+      "sourceType": "national-assessment",
+      "institution": "Ministry of Education and Vocational Training",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "4128880adbbc7af00748cef6a4a5f1e33850194ed537993ed21abe5652bb5d97",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 5
+          },
+          {
+            "label": "2",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "3",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "4",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "7",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "9",
+            "firstPage": 8,
+            "lastPage": 8
+          },
+          {
+            "label": "10",
+            "firstPage": 8,
+            "lastPage": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-8083df0fd6599a7f",
+      "sha256": "8083df0fd6599a7f87050c7b7d2c97dc7106aa78bb94db54679056b1c4dc864f",
+      "sourcePdf": "/source-papers/source-8083df0fd6599a7f/original.pdf",
+      "pageImages": [
+        "/source-papers/source-8083df0fd6599a7f/page-001.jpg",
+        "/source-papers/source-8083df0fd6599a7f/page-002.jpg",
+        "/source-papers/source-8083df0fd6599a7f/page-003.jpg",
+        "/source-papers/source-8083df0fd6599a7f/page-004.jpg",
+        "/source-papers/source-8083df0fd6599a7f/page-005.jpg",
+        "/source-papers/source-8083df0fd6599a7f/page-006.jpg",
+        "/source-papers/source-8083df0fd6599a7f/page-007.jpg",
+        "/source-papers/source-8083df0fd6599a7f/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/physics/Physics-F2-2011.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "Form Two Secondary Education Examination • Physics • Form Two • 2011",
+      "form": 2,
+      "subjectId": "physics",
+      "year": 2011,
+      "yearBasis": "Printed cover",
+      "sourceType": "national-assessment",
+      "institution": "Ministry of Education and Vocational Training",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "8083df0fd6599a7f87050c7b7d2c97dc7106aa78bb94db54679056b1c4dc864f",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 5
+          },
+          {
+            "label": "2",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "3",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "7",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "9",
+            "firstPage": 8,
+            "lastPage": 8
+          },
+          {
+            "label": "10",
+            "firstPage": 8,
+            "lastPage": 8
           }
         ]
       }

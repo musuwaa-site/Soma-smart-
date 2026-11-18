@@ -1,6 +1,6 @@
 # SomaSmart project state
 
-**Unfinished content release 0.10.0.** Owner-private ChatGPT preview: https://somasmart-study.astuteegret257.chatgpt.site
+**Unfinished content release 0.11.0.** Owner-private ChatGPT preview: https://somasmart-study.astuteegret257.chatgpt.site
 
 ## Integrated educational resources
 
@@ -43,3 +43,6 @@ Downloaded candidate metadata and source hashes are in acquisition/legacy-ftna-2
 Release 0.10.0 adds ten interactive Form Two papers, bringing the total to 75 of 180. Five recovered 2024 papers use corrected reading order while retaining the original PDF bytes and every source image. Five additional archived papers cover 2019–2020. The Geography file labelled 2020 by the archive is shown as 2019, as printed on the cover. The 2022 Chemistry scan remains held because a printed page is missing. The 53 self-check sources contain 524 selectable groups and the 22 scored sources retain 641 scored records.
 
 A second complete 100-mark independent guide covers the March 2025 Form One Mathematics test. The source supplies ten marks per question. SomaSmart supplies model answers and subpart credit where the paper gives no split. Students can save optional local self-awarded marks on questions with an independent guide.
+
+
+Release 0.11.0 adds seven Physics and seven Kiswahili papers, for 89 of 180 source papers and 654 selectable self-check groups. Two 2024 scans use corrected reading order. The archive PDFs remain byte-identical. The 2011 and 2012 Physics papers retain their printed Ministry of Education attribution. The 2024 Physics paper has independent scoring guidance for Questions 7 and 10, covering 25 printed marks. Archive solutions are recorded separately as third-party reference material. The scored bank remains 641 records. The remaining paper-count gap is 91.

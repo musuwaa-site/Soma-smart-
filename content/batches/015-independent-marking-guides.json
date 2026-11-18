@@ -382,5 +382,58 @@
         ]
       }
     }
+  },
+  "source-817d378b48f73ba6": {
+    "sourceSha256": "817d378b48f73ba6af0effa37397f9f7d54eb0ffe138e0c86d5618d5197c61c3",
+    "title": "SomaSmart independent Physics marking guide",
+    "provenance": "SomaSmart worked answers for selected questions. The paper supplies the maximum marks shown for each part.",
+    "groups": {
+      "7": {
+        "maximumMarks": 10,
+        "parts": [
+          {
+            "label": "a",
+            "marks": 4,
+            "answer": "Examples include a lever, pulley, inclined plane and wheel and axle. A wedge or screw is also valid.",
+            "rubric": "Award one mark for each of four distinct types."
+          },
+          {
+            "label": "b(i)",
+            "marks": 3,
+            "answer": "Mechanical advantage = load ÷ effort = 225 N ÷ 75 N = 3.",
+            "rubric": "Award one mark each for the relationship, substitution and correct result."
+          },
+          {
+            "label": "b(ii)",
+            "marks": 3,
+            "answer": "Efficiency = (mechanical advantage ÷ velocity ratio) × 100% = (3 ÷ 4) × 100% = 75%.",
+            "rubric": "Award one mark each for the relationship, substitution and percentage."
+          }
+        ]
+      },
+      "10": {
+        "maximumMarks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "marks": 5,
+            "answer": "A cell or low-voltage supply, switch, resistor, ammeter and voltmeter. Connecting leads complete the circuit. A variable resistor allows several readings to be taken.",
+            "rubric": "Award one mark each for five distinct suitable components."
+          },
+          {
+            "label": "b",
+            "marks": 5,
+            "answer": "Draw a closed series loop with a low-voltage supply, switch, ammeter and test resistor. Draw the voltmeter across the test resistor. A variable resistor may go in series to adjust the current.",
+            "rubric": "Award one mark each for the supply, closed series path with switch, test resistor, ammeter in series and voltmeter across the resistor."
+          },
+          {
+            "label": "c",
+            "marks": 5,
+            "answer": "The ammeter goes in series to measure the current through the resistor. The voltmeter goes in parallel across the resistor to measure potential difference across it. For DC meters, match their polarity to the circuit and select appropriate ranges.",
+            "rubric": "Award two marks for the ammeter connection with its reason, two for the voltmeter connection with its reason and one for an appropriate meter precaution."
+          }
+        ]
+      }
+    }
   }
 }

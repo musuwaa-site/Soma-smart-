@@ -21,3 +21,5 @@ Release 0.8.0 passed 67 automated tests. The source practice test checks coverag
 Release 0.9.0 passes 68 automated tests, including exact paper binding and the 100-mark total for the independent guide. The offline package was built and checked.
 
 Release 0.10.0 checks the original scan reading order and both independent guide totals. The combined suite has 69 automated tests.
+
+Release 0.11.0 checks all 67 self-check selections and the source bindings for two full Mathematics guides and one partial Physics guide.

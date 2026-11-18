@@ -1,5 +1,5 @@
 {
-  "version": "0.8.0",
+  "version": "0.9.0",
   "status": "development-partial",
   "subjects": [
     {
@@ -242199,6 +242199,243 @@
             "lastPage": 2
           }
         ]
+      },
+      "independentPracticeGuide": {
+        "sourceSha256": "8efb486855404b8e95ba7ea2bcb6a8c6f3e2f89c515b083786585ad208876105",
+        "title": "SomaSmart independent marking guide",
+        "provenance": "Worked answers and point-by-point guidance prepared by SomaSmart. Part maxima follow the marks printed in this paper.",
+        "groups": {
+          "1": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 3,
+                "answer": "Mathematics studies quantities, structures, patterns and relationships through reasoning. It includes measurements, geometry and algebra, in addition to calculations involving money.",
+                "rubric": "One mark for a clear definition, one for scope beyond money, and one for a suitable example."
+              },
+              {
+                "label": "b",
+                "marks": 3,
+                "answer": "Science uses measurement and graphs to describe experiments. Geography uses scales and coordinates to measure distances and locate places.",
+                "rubric": "One mark per correct subject link and one for a relevant supporting example."
+              },
+              {
+                "label": "c",
+                "marks": 4,
+                "answer": "For example, budgeting, measuring ingredients, estimating travel time and comparing prices.",
+                "rubric": "One mark per distinct valid reason."
+              }
+            ]
+          },
+          "2": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 3,
+                "answer": "3/4 and 1/5 are rational. The total is 15/20 + 4/20 = 19/20.",
+                "rubric": "One mark for recognising the fractions as rational, one for a common denominator and one for the total."
+              },
+              {
+                "label": "b",
+                "marks": 3,
+                "answer": "√5 and π are irrational. Neither is the quotient of two integers with a nonzero denominator. √5 is the square root of a non-square integer.",
+                "rubric": "One mark for each named irrational number and one for the correct explanation."
+              },
+              {
+                "label": "c",
+                "marks": 4,
+                "answer": "All four are real. √16 = 4, so −3 + 0 + 4.5 + 4 = 5.5.",
+                "rubric": "One mark for identifying all the real numbers, one for √16, one for the working and one for 5.5."
+              }
+            ]
+          },
+          "3": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 3,
+                "answer": "Let p be the price of a pen in TZS and n the number bought. Then 0 < p < 500 and np ≤ 2000. Four pens are affordable at any qualifying price. The largest affordable quantity is ⌊2000/p⌋ and depends on p.",
+                "rubric": "One mark for the strict price inequality, one for the budget relation and one for explaining the quantity or giving the four-pen guarantee. Accept an equivalent interpretation supported by working."
+              },
+              {
+                "label": "b",
+                "marks": 3,
+                "answer": "No. |−7| = 7 because distance from zero is nonnegative.",
+                "rubric": "One mark for rejecting the claim, one for 7 and one for a valid explanation."
+              },
+              {
+                "label": "c",
+                "marks": 4,
+                "answer": "5x − 10 = 15 or 5x − 10 = −15, giving x = 5 or x = −1. Both make the expression’s magnitude 15.",
+                "rubric": "One mark for each case set up, one for both roots and one for interpreting or checking them."
+              }
+            ]
+          },
+          "4": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 2,
+                "answer": "88 km.",
+                "rubric": "One mark for using the tenths digit to decide and one for the rounded value."
+              },
+              {
+                "label": "b",
+                "marks": 4,
+                "answer": "Nearest thousand: 175,000 TZS. Nearest hundred: 175,000 TZS.",
+                "rubric": "Two marks per result, including a correct explanation or rounding step."
+              },
+              {
+                "label": "c",
+                "marks": 4,
+                "answer": "38.2 rounds to 40 and 41.9 rounds to 40. Estimated total: 80.",
+                "rubric": "One mark per rounding, one for addition and one for the correct estimate."
+              }
+            ]
+          },
+          "5": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 3,
+                "answer": "6.31 kg.",
+                "rubric": "Identify the first three significant digits, use the next digit and state the rounded value with units, one mark each."
+              },
+              {
+                "label": "b",
+                "marks": 3,
+                "answer": "0.0056 m.",
+                "rubric": "Ignore the leading zeroes, use the third significant digit to decide and give the result with units, one mark each."
+              },
+              {
+                "label": "c",
+                "marks": 4,
+                "answer": "3.415 + 0.00879 = 3.42379, which is 3.42 to three significant figures.",
+                "rubric": "Two marks for the sum, one for selecting the first three significant digits and one for 3.42."
+              }
+            ]
+          },
+          "6": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 3,
+                "answer": "Eight ratio parts. The girls account for 5/8 × 40 = 25.",
+                "rubric": "One mark for eight parts, one for the girls’ share and one for 25."
+              },
+              {
+                "label": "b",
+                "marks": 3,
+                "answer": "Sand is 20 × 3/2 = 30 kg.",
+                "rubric": "One mark for the ratio, one for substitution and one for the result with units."
+              },
+              {
+                "label": "c",
+                "marks": 4,
+                "answer": "Speed is 180 ÷ 3 = 60 km/h. Distance in five hours is 60 × 5 = 300 km.",
+                "rubric": "One mark for the speed relation, one for 60 km/h, one for multiplying by five and one for 300 km."
+              }
+            ]
+          },
+          "7": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 3,
+                "answer": "x + 3 fruits.",
+                "rubric": "One mark for each quantity and one for using addition."
+              },
+              {
+                "label": "b",
+                "marks": 3,
+                "answer": "2(x + 3) − 4(x − 2) = 2x + 6 − 4x + 8 = −2x + 14.",
+                "rubric": "One mark per correct expansion and one for collecting terms."
+              },
+              {
+                "label": "c",
+                "marks": 4,
+                "answer": "At x = 5, x² + 5x + 6 = 25 + 25 + 6 = 56.",
+                "rubric": "One each for substitution, the square, the product and the correct sum."
+              }
+            ]
+          },
+          "8": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 3,
+                "answer": "2x + 3 years.",
+                "rubric": "One mark for doubling x, one for adding three and one for correctly expressing the age."
+              },
+              {
+                "label": "b",
+                "marks": 3,
+                "answer": "3x = 15, so x = 5.",
+                "rubric": "One mark for adding five to both sides, one for dividing by three and one for the result."
+              },
+              {
+                "label": "c",
+                "marks": 4,
+                "answer": "Let the number be n. Then n + 2n = 18, so 3n = 18 and n = 6.",
+                "rubric": "One mark each for defining the variable, forming the equation, simplifying and solving."
+              }
+            ]
+          },
+          "9": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 3,
+                "answer": "Let p be the price of a pencil and b the price of a pen. 2p + b = 1500 and p + 2b = 2000.",
+                "rubric": "One mark for the definitions and one per correct equation."
+              },
+              {
+                "label": "b",
+                "marks": 4,
+                "answer": "b = 1500 − 2p. Substitute to get p + 3000 − 4p = 2000, hence p = 1000/3 and b = 2500/3.",
+                "rubric": "One mark for isolating b, one for substitution and one for each price."
+              },
+              {
+                "label": "c",
+                "marks": 3,
+                "answer": "A pencil costs 1000/3 TZS (about 333.33 TZS). A pen costs 2500/3 TZS (about 833.33 TZS). The exact values satisfy both totals.",
+                "rubric": "One mark for each contextual interpretation and one for checking or explaining rounding."
+              }
+            ]
+          },
+          "10": {
+            "maximumMarks": 10,
+            "parts": [
+              {
+                "label": "a",
+                "marks": 3,
+                "answer": "On labelled x and y axes, place A at (2, 3) and B at (4, 7).",
+                "rubric": "One mark for suitable axes and scale and one per correctly plotted point."
+              },
+              {
+                "label": "b",
+                "marks": 3,
+                "answer": "m = (7 − 3)/(4 − 2) = 2.",
+                "rubric": "One mark each for the slope relation, substitution and result."
+              },
+              {
+                "label": "c",
+                "marks": 4,
+                "answer": "y − 3 = 2(x − 2), so y = 2x − 1. Both points satisfy it.",
+                "rubric": "One mark for using the slope, one for substituting a point, one for the equation and one for a check or valid working."
+              }
+            ]
+          }
+        }
       }
     },
     {
@@ -245034,6 +245271,1373 @@
       "transcribedRecords": 43,
       "scoredRecords": 30,
       "completeScoredPaper": false
+    },
+    {
+      "id": "source-4b27f407b00db3a3",
+      "sha256": "4b27f407b00db3a3e0f5eb3778ed0284fe238167298b4895ecb9f8d4ae6c8c12",
+      "sourcePdf": "/source-papers/source-4b27f407b00db3a3/original.pdf",
+      "pageImages": [
+        "/source-papers/source-4b27f407b00db3a3/page-001.jpg",
+        "/source-papers/source-4b27f407b00db3a3/page-002.jpg",
+        "/source-papers/source-4b27f407b00db3a3/page-003.jpg",
+        "/source-papers/source-4b27f407b00db3a3/page-004.jpg",
+        "/source-papers/source-4b27f407b00db3a3/page-005.jpg",
+        "/source-papers/source-4b27f407b00db3a3/page-006.jpg",
+        "/source-papers/source-4b27f407b00db3a3/page-007.jpg",
+        "/source-papers/source-4b27f407b00db3a3/page-008.jpg",
+        "/source-papers/source-4b27f407b00db3a3/page-009.jpg",
+        "/source-papers/source-4b27f407b00db3a3/page-010.jpg",
+        "/source-papers/source-4b27f407b00db3a3/page-011.jpg",
+        "/source-papers/source-4b27f407b00db3a3/page-012.jpg",
+        "/source-papers/source-4b27f407b00db3a3/page-013.jpg"
+      ],
+      "pageCount": 13,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2023.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Biology • Form Two • 2023",
+      "form": 2,
+      "subjectId": "biology",
+      "year": 2023,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "4b27f407b00db3a3e0f5eb3778ed0284fe238167298b4895ecb9f8d4ae6c8c12",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "7",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "8",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "9",
+            "firstPage": 9,
+            "lastPage": 10
+          },
+          {
+            "label": "10",
+            "firstPage": 10,
+            "lastPage": 13
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-01f1e170e2d9bce7",
+      "sha256": "01f1e170e2d9bce77b39f488836b2c8fd9baf851107a5ca50dbb56f57a595b9c",
+      "sourcePdf": "/source-papers/source-01f1e170e2d9bce7/original.pdf",
+      "pageImages": [
+        "/source-papers/source-01f1e170e2d9bce7/page-001.jpg",
+        "/source-papers/source-01f1e170e2d9bce7/page-002.jpg",
+        "/source-papers/source-01f1e170e2d9bce7/page-003.jpg",
+        "/source-papers/source-01f1e170e2d9bce7/page-004.jpg",
+        "/source-papers/source-01f1e170e2d9bce7/page-005.jpg",
+        "/source-papers/source-01f1e170e2d9bce7/page-006.jpg",
+        "/source-papers/source-01f1e170e2d9bce7/page-007.jpg",
+        "/source-papers/source-01f1e170e2d9bce7/page-008.jpg",
+        "/source-papers/source-01f1e170e2d9bce7/page-009.jpg",
+        "/source-papers/source-01f1e170e2d9bce7/page-010.jpg",
+        "/source-papers/source-01f1e170e2d9bce7/page-011.jpg",
+        "/source-papers/source-01f1e170e2d9bce7/page-012.jpg",
+        "/source-papers/source-01f1e170e2d9bce7/page-013.jpg"
+      ],
+      "pageCount": 13,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/chemistry/Chemistry-F2-2023.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Chemistry • Form Two • 2023",
+      "form": 2,
+      "subjectId": "chemistry",
+      "year": 2023,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "01f1e170e2d9bce77b39f488836b2c8fd9baf851107a5ca50dbb56f57a595b9c",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "7",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "8",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "9",
+            "firstPage": 9,
+            "lastPage": 11
+          },
+          {
+            "label": "10",
+            "firstPage": 11,
+            "lastPage": 13
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-2822d80d7883fb53",
+      "sha256": "2822d80d7883fb53046d56c8b344a32d18f556b745f72b949884cbb248df9754",
+      "sourcePdf": "/source-papers/source-2822d80d7883fb53/original.pdf",
+      "pageImages": [
+        "/source-papers/source-2822d80d7883fb53/page-001.jpg",
+        "/source-papers/source-2822d80d7883fb53/page-002.jpg",
+        "/source-papers/source-2822d80d7883fb53/page-003.jpg",
+        "/source-papers/source-2822d80d7883fb53/page-004.jpg",
+        "/source-papers/source-2822d80d7883fb53/page-005.jpg",
+        "/source-papers/source-2822d80d7883fb53/page-006.jpg",
+        "/source-papers/source-2822d80d7883fb53/page-007.jpg",
+        "/source-papers/source-2822d80d7883fb53/page-008.jpg",
+        "/source-papers/source-2822d80d7883fb53/page-009.jpg",
+        "/source-papers/source-2822d80d7883fb53/page-010.jpg",
+        "/source-papers/source-2822d80d7883fb53/page-011.jpg"
+      ],
+      "pageCount": 11,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/english/English-F2-2023.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • English Language • Form Two • 2023",
+      "form": 2,
+      "subjectId": "english",
+      "year": 2023,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "2822d80d7883fb53046d56c8b344a32d18f556b745f72b949884cbb248df9754",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 4
+          },
+          {
+            "label": "2",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "9",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "10",
+            "firstPage": 9,
+            "lastPage": 11
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-e7880386a9723de1",
+      "sha256": "e7880386a9723de18449f8afed5a2c76048c63888dc61807e31e6a5c263bca6a",
+      "sourcePdf": "/source-papers/source-e7880386a9723de1/original.pdf",
+      "pageImages": [
+        "/source-papers/source-e7880386a9723de1/page-001.jpg",
+        "/source-papers/source-e7880386a9723de1/page-002.jpg",
+        "/source-papers/source-e7880386a9723de1/page-003.jpg",
+        "/source-papers/source-e7880386a9723de1/page-004.jpg",
+        "/source-papers/source-e7880386a9723de1/page-005.jpg",
+        "/source-papers/source-e7880386a9723de1/page-006.jpg",
+        "/source-papers/source-e7880386a9723de1/page-007.jpg",
+        "/source-papers/source-e7880386a9723de1/page-008.jpg",
+        "/source-papers/source-e7880386a9723de1/page-009.jpg",
+        "/source-papers/source-e7880386a9723de1/page-010.jpg",
+        "/source-papers/source-e7880386a9723de1/page-011.jpg",
+        "/source-papers/source-e7880386a9723de1/page-012.jpg"
+      ],
+      "pageCount": 12,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2023.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Geography • Form Two • 2023",
+      "form": 2,
+      "subjectId": "geography",
+      "year": 2023,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "e7880386a9723de18449f8afed5a2c76048c63888dc61807e31e6a5c263bca6a",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "9",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "10",
+            "firstPage": 9,
+            "lastPage": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-008cd0defec60484",
+      "sha256": "008cd0defec60484ea6f8d7d2d694fd47a4726cfca71df86ca69c90aa4dae27c",
+      "sourcePdf": "/source-papers/source-008cd0defec60484/original.pdf",
+      "pageImages": [
+        "/source-papers/source-008cd0defec60484/page-001.jpg",
+        "/source-papers/source-008cd0defec60484/page-002.jpg",
+        "/source-papers/source-008cd0defec60484/page-003.jpg",
+        "/source-papers/source-008cd0defec60484/page-004.jpg",
+        "/source-papers/source-008cd0defec60484/page-005.jpg",
+        "/source-papers/source-008cd0defec60484/page-006.jpg",
+        "/source-papers/source-008cd0defec60484/page-007.jpg",
+        "/source-papers/source-008cd0defec60484/page-008.jpg",
+        "/source-papers/source-008cd0defec60484/page-009.jpg",
+        "/source-papers/source-008cd0defec60484/page-010.jpg",
+        "/source-papers/source-008cd0defec60484/page-011.jpg",
+        "/source-papers/source-008cd0defec60484/page-012.jpg",
+        "/source-papers/source-008cd0defec60484/page-013.jpg",
+        "/source-papers/source-008cd0defec60484/page-014.jpg",
+        "/source-papers/source-008cd0defec60484/page-015.jpg",
+        "/source-papers/source-008cd0defec60484/page-016.jpg"
+      ],
+      "pageCount": 16,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/math/BasicMath-F2-2023.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Mathematics • Form Two • 2023",
+      "form": 2,
+      "subjectId": "mathematics",
+      "year": 2023,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "008cd0defec60484ea6f8d7d2d694fd47a4726cfca71df86ca69c90aa4dae27c",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "6",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "7",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "8",
+            "firstPage": 9,
+            "lastPage": 10
+          },
+          {
+            "label": "9",
+            "firstPage": 10,
+            "lastPage": 11
+          },
+          {
+            "label": "10",
+            "firstPage": 11,
+            "lastPage": 16
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-a1578619daa013b2",
+      "sha256": "a1578619daa013b214ba66df565e6a9943b99f0276b4f6872053cf2aa8322fbb",
+      "sourcePdf": "/source-papers/source-a1578619daa013b2/original.pdf",
+      "pageImages": [
+        "/source-papers/source-a1578619daa013b2/page-001.jpg",
+        "/source-papers/source-a1578619daa013b2/page-002.jpg",
+        "/source-papers/source-a1578619daa013b2/page-003.jpg",
+        "/source-papers/source-a1578619daa013b2/page-004.jpg",
+        "/source-papers/source-a1578619daa013b2/page-005.jpg",
+        "/source-papers/source-a1578619daa013b2/page-006.jpg",
+        "/source-papers/source-a1578619daa013b2/page-007.jpg",
+        "/source-papers/source-a1578619daa013b2/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2022.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Biology • Form Two • 2022",
+      "form": 2,
+      "subjectId": "biology",
+      "year": 2022,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "a1578619daa013b214ba66df565e6a9943b99f0276b4f6872053cf2aa8322fbb",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 3
+          },
+          {
+            "label": "3",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "10",
+            "firstPage": 8,
+            "lastPage": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-73feef9d42e2f50d",
+      "sha256": "73feef9d42e2f50d05deb9858decd45ae3317cce7d2c56dd853034542357d24e",
+      "sourcePdf": "/source-papers/source-73feef9d42e2f50d/original.pdf",
+      "pageImages": [
+        "/source-papers/source-73feef9d42e2f50d/page-001.jpg",
+        "/source-papers/source-73feef9d42e2f50d/page-002.jpg",
+        "/source-papers/source-73feef9d42e2f50d/page-003.jpg",
+        "/source-papers/source-73feef9d42e2f50d/page-004.jpg",
+        "/source-papers/source-73feef9d42e2f50d/page-005.jpg",
+        "/source-papers/source-73feef9d42e2f50d/page-006.jpg",
+        "/source-papers/source-73feef9d42e2f50d/page-007.jpg",
+        "/source-papers/source-73feef9d42e2f50d/page-008.jpg",
+        "/source-papers/source-73feef9d42e2f50d/page-009.jpg",
+        "/source-papers/source-73feef9d42e2f50d/page-010.jpg",
+        "/source-papers/source-73feef9d42e2f50d/page-011.jpg",
+        "/source-papers/source-73feef9d42e2f50d/page-012.jpg"
+      ],
+      "pageCount": 12,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/english/English-F2-2022.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • English Language • Form Two • 2022",
+      "form": 2,
+      "subjectId": "english",
+      "year": 2022,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "73feef9d42e2f50d05deb9858decd45ae3317cce7d2c56dd853034542357d24e",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 4
+          },
+          {
+            "label": "2",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "7",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "8",
+            "firstPage": 8,
+            "lastPage": 8
+          },
+          {
+            "label": "9",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "10",
+            "firstPage": 9,
+            "lastPage": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-3e3434753d432bd9",
+      "sha256": "3e3434753d432bd9cc301ce39bedad3b1363163ce46c832bcf900a246326c0e1",
+      "sourcePdf": "/source-papers/source-3e3434753d432bd9/original.pdf",
+      "pageImages": [
+        "/source-papers/source-3e3434753d432bd9/page-001.jpg",
+        "/source-papers/source-3e3434753d432bd9/page-002.jpg",
+        "/source-papers/source-3e3434753d432bd9/page-003.jpg",
+        "/source-papers/source-3e3434753d432bd9/page-004.jpg",
+        "/source-papers/source-3e3434753d432bd9/page-005.jpg",
+        "/source-papers/source-3e3434753d432bd9/page-006.jpg",
+        "/source-papers/source-3e3434753d432bd9/page-007.jpg",
+        "/source-papers/source-3e3434753d432bd9/page-008.jpg"
+      ],
+      "pageCount": 8,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2022.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Geography • Form Two • 2022",
+      "form": 2,
+      "subjectId": "geography",
+      "year": 2022,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "3e3434753d432bd9cc301ce39bedad3b1363163ce46c832bcf900a246326c0e1",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "10",
+            "firstPage": 7,
+            "lastPage": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-7b055f03fdc6206c",
+      "sha256": "7b055f03fdc6206c95d577bcb809d127ab8de4d55b464cc1d8e0807e2bbe2941",
+      "sourcePdf": "/source-papers/source-7b055f03fdc6206c/original.pdf",
+      "pageImages": [
+        "/source-papers/source-7b055f03fdc6206c/page-001.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-002.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-003.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-004.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-005.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-006.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-007.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-008.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-009.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-010.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-011.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-012.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-013.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-014.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-015.jpg",
+        "/source-papers/source-7b055f03fdc6206c/page-016.jpg"
+      ],
+      "pageCount": 16,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/math/BasicMath-F2-2022.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Mathematics • Form Two • 2022",
+      "form": 2,
+      "subjectId": "mathematics",
+      "year": 2022,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "7b055f03fdc6206c95d577bcb809d127ab8de4d55b464cc1d8e0807e2bbe2941",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 5
+          },
+          {
+            "label": "3",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "4",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "5",
+            "firstPage": 7,
+            "lastPage": 9
+          },
+          {
+            "label": "6",
+            "firstPage": 9,
+            "lastPage": 10
+          },
+          {
+            "label": "7",
+            "firstPage": 10,
+            "lastPage": 12
+          },
+          {
+            "label": "8",
+            "firstPage": 12,
+            "lastPage": 14
+          },
+          {
+            "label": "9",
+            "firstPage": 14,
+            "lastPage": 15
+          },
+          {
+            "label": "10",
+            "firstPage": 15,
+            "lastPage": 16
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-7f1e2fc4f2c1d2a3",
+      "sha256": "7f1e2fc4f2c1d2a39ce34b996f63229db130945173ef5cfe908de67f0b23a0c3",
+      "sourcePdf": "/source-papers/source-7f1e2fc4f2c1d2a3/original.pdf",
+      "pageImages": [
+        "/source-papers/source-7f1e2fc4f2c1d2a3/page-001.jpg",
+        "/source-papers/source-7f1e2fc4f2c1d2a3/page-002.jpg",
+        "/source-papers/source-7f1e2fc4f2c1d2a3/page-003.jpg",
+        "/source-papers/source-7f1e2fc4f2c1d2a3/page-004.jpg",
+        "/source-papers/source-7f1e2fc4f2c1d2a3/page-005.jpg",
+        "/source-papers/source-7f1e2fc4f2c1d2a3/page-006.jpg",
+        "/source-papers/source-7f1e2fc4f2c1d2a3/page-007.jpg",
+        "/source-papers/source-7f1e2fc4f2c1d2a3/page-008.jpg",
+        "/source-papers/source-7f1e2fc4f2c1d2a3/page-009.jpg",
+        "/source-papers/source-7f1e2fc4f2c1d2a3/page-010.jpg",
+        "/source-papers/source-7f1e2fc4f2c1d2a3/page-011.jpg"
+      ],
+      "pageCount": 11,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/biology/Biology-F2-2021.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Biology • Form Two • 2021",
+      "form": 2,
+      "subjectId": "biology",
+      "year": 2021,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "7f1e2fc4f2c1d2a39ce34b996f63229db130945173ef5cfe908de67f0b23a0c3",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "5",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "6",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "7",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "8",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "10",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "11",
+            "firstPage": 7,
+            "lastPage": 11
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-4c5b7a088ed7d904",
+      "sha256": "4c5b7a088ed7d904dcc1973fa59be9d31fbee40e85e9b882bff5a42cf4315f1a",
+      "sourcePdf": "/source-papers/source-4c5b7a088ed7d904/original.pdf",
+      "pageImages": [
+        "/source-papers/source-4c5b7a088ed7d904/page-001.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-002.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-003.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-004.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-005.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-006.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-007.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-008.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-009.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-010.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-011.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-012.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-013.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-014.jpg",
+        "/source-papers/source-4c5b7a088ed7d904/page-015.jpg"
+      ],
+      "pageCount": 15,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/chemistry/Chemistry-F2-2021.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Chemistry • Form Two • 2021",
+      "form": 2,
+      "subjectId": "chemistry",
+      "year": 2021,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "4c5b7a088ed7d904dcc1973fa59be9d31fbee40e85e9b882bff5a42cf4315f1a",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "5",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "6",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "7",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "8",
+            "firstPage": 9,
+            "lastPage": 10
+          },
+          {
+            "label": "9",
+            "firstPage": 10,
+            "lastPage": 11
+          },
+          {
+            "label": "10",
+            "firstPage": 11,
+            "lastPage": 15
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-4cf58c6d4a8ea888",
+      "sha256": "4cf58c6d4a8ea888a905c7d00766662d093c2514ef2e720f2ed0e559b6813c6a",
+      "sourcePdf": "/source-papers/source-4cf58c6d4a8ea888/original.pdf",
+      "pageImages": [
+        "/source-papers/source-4cf58c6d4a8ea888/page-001.jpg",
+        "/source-papers/source-4cf58c6d4a8ea888/page-002.jpg",
+        "/source-papers/source-4cf58c6d4a8ea888/page-003.jpg",
+        "/source-papers/source-4cf58c6d4a8ea888/page-004.jpg",
+        "/source-papers/source-4cf58c6d4a8ea888/page-005.jpg",
+        "/source-papers/source-4cf58c6d4a8ea888/page-006.jpg",
+        "/source-papers/source-4cf58c6d4a8ea888/page-007.jpg",
+        "/source-papers/source-4cf58c6d4a8ea888/page-008.jpg",
+        "/source-papers/source-4cf58c6d4a8ea888/page-009.jpg",
+        "/source-papers/source-4cf58c6d4a8ea888/page-010.jpg"
+      ],
+      "pageCount": 10,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/english/English-F2-2021.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • English Language • Form Two • 2021",
+      "form": 2,
+      "subjectId": "english",
+      "year": 2021,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "4cf58c6d4a8ea888a905c7d00766662d093c2514ef2e720f2ed0e559b6813c6a",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 6
+          },
+          {
+            "label": "7",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "9",
+            "firstPage": 7,
+            "lastPage": 9
+          },
+          {
+            "label": "10",
+            "firstPage": 9,
+            "lastPage": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-84fa6f94c9d0fb7b",
+      "sha256": "84fa6f94c9d0fb7b40d65d25065c708aa9d2ed01417d83114f7e41292e217e6e",
+      "sourcePdf": "/source-papers/source-84fa6f94c9d0fb7b/original.pdf",
+      "pageImages": [
+        "/source-papers/source-84fa6f94c9d0fb7b/page-001.jpg",
+        "/source-papers/source-84fa6f94c9d0fb7b/page-002.jpg",
+        "/source-papers/source-84fa6f94c9d0fb7b/page-003.jpg",
+        "/source-papers/source-84fa6f94c9d0fb7b/page-004.jpg",
+        "/source-papers/source-84fa6f94c9d0fb7b/page-005.jpg",
+        "/source-papers/source-84fa6f94c9d0fb7b/page-006.jpg",
+        "/source-papers/source-84fa6f94c9d0fb7b/page-007.jpg",
+        "/source-papers/source-84fa6f94c9d0fb7b/page-008.jpg",
+        "/source-papers/source-84fa6f94c9d0fb7b/page-009.jpg",
+        "/source-papers/source-84fa6f94c9d0fb7b/page-010.jpg",
+        "/source-papers/source-84fa6f94c9d0fb7b/page-011.jpg",
+        "/source-papers/source-84fa6f94c9d0fb7b/page-012.jpg"
+      ],
+      "pageCount": 12,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/geography/Geography-F2-2021.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Geography • Form Two • 2021",
+      "form": 2,
+      "subjectId": "geography",
+      "year": 2021,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "84fa6f94c9d0fb7b40d65d25065c708aa9d2ed01417d83114f7e41292e217e6e",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 4
+          },
+          {
+            "label": "4",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "5",
+            "firstPage": 5,
+            "lastPage": 6
+          },
+          {
+            "label": "6",
+            "firstPage": 6,
+            "lastPage": 7
+          },
+          {
+            "label": "7",
+            "firstPage": 7,
+            "lastPage": 7
+          },
+          {
+            "label": "8",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "9",
+            "firstPage": 8,
+            "lastPage": 8
+          },
+          {
+            "label": "10",
+            "firstPage": 8,
+            "lastPage": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": "source-f49fd880dad4f4a3",
+      "sha256": "f49fd880dad4f4a3494625a5d944bbbef9f95a3379b8f15edf9906f51fe053ae",
+      "sourcePdf": "/source-papers/source-f49fd880dad4f4a3/original.pdf",
+      "pageImages": [
+        "/source-papers/source-f49fd880dad4f4a3/page-001.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-002.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-003.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-004.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-005.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-006.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-007.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-008.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-009.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-010.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-011.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-012.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-013.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-014.jpg",
+        "/source-papers/source-f49fd880dad4f4a3/page-015.jpg"
+      ],
+      "pageCount": 15,
+      "sourceReference": "https://maktaba.tetea.org/past-papers/form_ii/math/BasicMath-F2-2021.pdf",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "confirmedBy": "owner",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "contentMode": "source-document",
+      "title": "NECTA FTNA • Mathematics • Form Two • 2021",
+      "form": 2,
+      "subjectId": "mathematics",
+      "year": 2021,
+      "yearBasis": "Printed cover and archive listing compared",
+      "sourceType": "necta",
+      "institution": "National Examinations Council of Tanzania",
+      "curriculumStream": "legacy-general",
+      "publicationStatus": "published",
+      "interactivePaperId": null,
+      "questionTranscriptionStatus": "source-page-indexed",
+      "note": "Original archived paper. It follows an earlier syllabus. Check the topic against your current lessons.",
+      "practiceIndex": {
+        "sourceSha256": "f49fd880dad4f4a3494625a5d944bbbef9f95a3379b8f15edf9906f51fe053ae",
+        "mode": "source-page-self-check",
+        "groups": [
+          {
+            "label": "1",
+            "firstPage": 2,
+            "lastPage": 3
+          },
+          {
+            "label": "2",
+            "firstPage": 3,
+            "lastPage": 4
+          },
+          {
+            "label": "3",
+            "firstPage": 4,
+            "lastPage": 5
+          },
+          {
+            "label": "4",
+            "firstPage": 5,
+            "lastPage": 7
+          },
+          {
+            "label": "5",
+            "firstPage": 7,
+            "lastPage": 8
+          },
+          {
+            "label": "6",
+            "firstPage": 8,
+            "lastPage": 9
+          },
+          {
+            "label": "7",
+            "firstPage": 9,
+            "lastPage": 10
+          },
+          {
+            "label": "8",
+            "firstPage": 10,
+            "lastPage": 12
+          },
+          {
+            "label": "9",
+            "firstPage": 12,
+            "lastPage": 13
+          },
+          {
+            "label": "10",
+            "firstPage": 13,
+            "lastPage": 15
+          }
+        ]
+      }
     }
   ]
 }

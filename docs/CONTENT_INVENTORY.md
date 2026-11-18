@@ -2,8 +2,8 @@
 
 Generated from published student data and locally available acquisition metadata. Learning activities are broader than individual subtopics; partial support is not full coverage.
 
-- bundledSourcePaperDocuments: 51
-- bundledSourcePages: 364
+- bundledSourcePaperDocuments: 65
+- bundledSourcePages: 536
 - bundledSourceAnswerGuides: 32
 - bundledSourceAnswerGuidePages: 137
 - completedTextbooks: 0
@@ -22,7 +22,7 @@ Generated from published student data and locally available acquisition metadata
 - glossaryDefinitions: 397
 - originalDiagrams: 10
 - candidatePaperURLsInvestigated: 360
-- candidatePaperDocumentsAcquired: 53
+- candidatePaperDocumentsAcquired: 73
 - acquiredOfficialReferencePDFs: 14
 - extractedPapers: 10
 - publishedPapers: 22
@@ -36,8 +36,9 @@ Generated from published student data and locally available acquisition metadata
 - heldAuthenticRecords: 66
 - automaticallyScoredAuthenticRecords: 183
 - authenticScoredRecords: 641
-- interactiveSelfCheckPapers: 29
-- interactiveSelfCheckGroups: 282
+- independentPracticeGuides: 1
+- interactiveSelfCheckPapers: 43
+- interactiveSelfCheckGroups: 423
 - sourcePapersWithoutInteractiveSelection: 0
 
 | Form | Subject | Chapters | Textbook words¹ | Original questions | Distinct workbook tasks | Partially supported official activities |

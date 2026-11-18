@@ -7,8 +7,8 @@ import { selectSourceGroups, sourceGroupPages } from '../src/source-practice.js'
 const library = studentRelease(JSON.parse(readFileSync('content/library.json')));
 test('every released original paper has a scored selection or an original-page selection', () => {
   const indexed = library.sourceDocuments.filter(doc => doc.practiceIndex);
-  assert.equal(indexed.length, 29);
-  assert.equal(indexed.reduce((sum, doc) => sum + doc.practiceIndex.groups.length, 0), 282);
+  assert.equal(indexed.length, 43);
+  assert.equal(indexed.reduce((sum, doc) => sum + doc.practiceIndex.groups.length, 0), 423);
   assert(library.sourceDocuments.every(doc => doc.interactivePaperId || doc.practiceIndex));
   for (const doc of indexed) {
     assert.equal(doc.practiceIndex.sourceSha256, doc.sha256);
@@ -21,5 +21,18 @@ test('every released original paper has a scored selection or an original-page s
       assert.equal(sourceGroupPages(doc, group).at(0), doc.pageImages[group.firstPage - 1]);
     }
     assert(!library.questions.some(q => q.sourceSha256 === doc.sha256));
+  }
+});
+
+test('independent marking guide is attached to the exact paper and covers its printed total', () => {
+  const doc = library.sourceDocuments.find(document => document.independentPracticeGuide);
+  assert(doc);
+  const guide = doc.independentPracticeGuide;
+  assert.equal(guide.sourceSha256, doc.sha256);
+  assert.equal(Object.values(guide.groups).reduce((sum, group) => sum + group.maximumMarks, 0), 100);
+  assert.deepEqual(Object.keys(guide.groups), doc.practiceIndex.groups.map(group => group.label));
+  for (const group of Object.values(guide.groups)) {
+    assert.equal(group.maximumMarks, group.parts.reduce((sum, part) => sum + part.marks, 0));
+    assert(group.parts.every(part => part.answer && part.rubric));
   }
 });

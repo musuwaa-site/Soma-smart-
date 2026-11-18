@@ -1,6 +1,6 @@
 # SomaSmart project state
 
-**Unfinished content release 0.8.0.** Owner-private ChatGPT preview: https://somasmart-study.astuteegret257.chatgpt.site
+**Unfinished content release 0.9.0.** Owner-private ChatGPT preview: https://somasmart-study.astuteegret257.chatgpt.site
 
 ## Integrated educational resources
 
@@ -29,3 +29,12 @@ All 29 previously document-only papers now support question selection and self-c
 The current request pauses manuscript expansion. The 22 scored source selections and 641 scored records are unchanged. Scoring the newly indexed groups would require checked keys, scoring allocations and, where relevant, additional source pages.
 
 Latest repair: visible startup/progress and bounded network/storage waits replace blank loading; authenticated production HTTP checks pass. The user’s reported connection error is not yet reproduced in their browser. See ACCESS_DIAGNOSIS.md.
+
+
+## Progress toward 180 papers
+
+SomaSmart includes 65 interactive paper sources. The library now adds 14 NECTA Form Two papers from 2021–2023 in Mathematics, Biology, Chemistry, English and Geography. They add 141 selectable original question groups. The archive PDFs and full page images are bundled. Earlier-syllabus papers are labelled so students can compare topics with their current lessons. Six other downloaded candidates are held for scan and pagination review. The site needs 115 more paper sources to reach the count of 180. The scored bank contains 641 records across 22 sources.
+
+The Form One opening Mathematics paper now has a complete 100-mark independent SomaSmart guide, with answers and partial-credit guidance for all 30 subparts. The guide uses the paper’s printed part maxima. Students can read it from the review panel. This guide does not add automatic scoring to the original-page practice mode.
+
+Downloaded candidate metadata and source hashes are in acquisition/legacy-ftna-2021-2024.json. Published document records are in content/batches/016-legacy-ftna-sources.json. Original question page spans are stored in batch 014 and the independent guide in batch 015.

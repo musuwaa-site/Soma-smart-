@@ -36,6 +36,10 @@ for (const p of data.papers.filter(p => p.sourceType === 'original' && p.publica
   }
 }
 for (const d of data.sourceDocuments || []) {
+  for (const resource of [d, d.answerGuide].filter(Boolean)) {
+    const actual = createHash('sha256').update(readFileSync('dist' + resource.sourcePdf)).digest('hex');
+    if (actual !== resource.sha256) throw Error('Archived PDF bytes changed: ' + resource.sourcePdf);
+  }
   for (const path of [d.sourcePdf,...d.pageImages,...(d.answerGuide?[d.answerGuide.sourcePdf,...d.answerGuide.pageImages]:[])]) {
     if (!manifest.assets.some(a=>a.url===path)) throw Error('Unbundled complete paper asset: '+path);
   }

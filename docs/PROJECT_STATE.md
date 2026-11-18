@@ -46,3 +46,5 @@ A second complete 100-mark independent guide covers the March 2025 Form One Math
 
 
 Release 0.11.0 adds seven Physics and seven Kiswahili papers, for 89 of 180 source papers and 654 selectable self-check groups. Two 2024 scans use corrected reading order. The archive PDFs remain byte-identical. The 2011 and 2012 Physics papers retain their printed Ministry of Education attribution. The 2024 Physics paper has independent scoring guidance for Questions 7 and 10, covering 25 printed marks. Archive solutions are recorded separately as third-party reference material. The scored bank remains 641 records. The remaining paper-count gap is 91.
+
+The hosted build uses WebP for page previews where it saves space and validates every original PDF hash. The 89-paper build is approximately 242 MiB expanded, below the 256 MiB Sites limit. Thirty additional Form One candidate PDFs have been acquired and recorded in acquisition/form-one-next-candidates.json. They need printed cover and page-order checks before inclusion.

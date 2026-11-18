@@ -22,7 +22,7 @@ Generated from published student data and locally available acquisition metadata
 - glossaryDefinitions: 397
 - originalDiagrams: 10
 - candidatePaperURLsInvestigated: 360
-- candidatePaperDocumentsAcquired: 92
+- candidatePaperDocumentsAcquired: 122
 - acquiredOfficialReferencePDFs: 14
 - extractedPapers: 10
 - publishedPapers: 22

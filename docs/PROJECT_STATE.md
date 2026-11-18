@@ -1,16 +1,16 @@
 # SomaSmart project state
 
-**Unfinished content release 0.12.0.** Owner-private ChatGPT preview: https://somasmart-study.astuteegret257.chatgpt.site
+**Exam library release 0.13.0. Overall project unfinished.** Owner-private ChatGPT preview: https://somasmart-study.astuteegret257.chatgpt.site
 
 ## Integrated educational resources
 
 122 readable chapters; 366 examples; 3026 original questions including 1009 labelled numerical variants. All 36 books remain partial. Eighteen original revision papers and their independent guides remain available. Curriculum locators: 251; 235 have partial support, not full verified subtopic coverage.
 
-125 distinct interactive source papers, 1,063 archived question-paper pages and 32 associated guides (137 pages). One archive Chemistry PDF is actually Computer Science CODE037; its CODE032 Chemistry guide does not match. Both are quarantined from student publication, with original bytes retained. Corrections: content/source-corrections.json. Owner permission is already authorized; do not ask again.
+180 distinct interactive source papers, 1,455 archived question-paper pages and 32 associated guides (137 pages). One archive Chemistry PDF is actually Computer Science CODE037; its CODE032 Chemistry guide does not match. Both are quarantined from student publication, with original bytes retained. Corrections: content/source-corrections.json. Owner permission is already authorized; do not ask again.
 
 ## Interactive conversion
 
-21 complete paper transcriptions plus the previous seven-group Mathematics selection. The bank contains 641 scored records and 797 answerable parts across 22 sources. 8 papers are fully scored. 124 previously held records now support scored practice, including original parts scored within a verified whole-question total. Across all batches, 66 records remain held.
+23 complete paper transcriptions plus the previous seven-group Mathematics selection. The bank contains 676 scored records and 845 answerable parts across 24 sources. 10 papers are fully scored. 124 previously held records now support scored practice, including original parts scored within a verified whole-question total. Across all batches, 66 records remain held.
 
 Original wording, numbering, repeated labels, underlines, complete reading passages/poems, tables and figures are preserved. Source text has per-record digests; unexpected text edits fail validation. Erroneous guide keys may have explicitly labelled independent corrections while the source question/guide remain unchanged. Unknown/contradictory individual source allocations and genuinely ambiguous questions remain draft. Matching/MCQs grade automatically; written and drawing tasks use self-marking. Touch canvas drawings persist with local attempts. Linked material groups remain together through selection.
 
@@ -54,3 +54,9 @@ The hosted build uses WebP for page previews where it saves space and validates 
 Release 0.12.0 contains 76 Form One and 49 Form Two original papers. Students can select and answer 1,012 printed question groups from 103 papers. Another 22 papers supply 641 scored records. Every paper has a student-facing practice route. The 36 additions contribute 273 pages and 358 selectable groups. Four candidates with missing or inconsistent printed material were held and replaced with complete copies of other papers. Three new independent 100-mark guides cover Kigoma Mathematics, Kigoma Business Studies and Markaz Mathematics. The full offline ZIP preserves each acquired PDF. The hosted edition bundles every published page image and offers an online link for downloading the archive original.
 
 To reach 180 evenly distributed papers, the remaining acquisition target is 14 Form One and 41 Form Two. Begin with distinct Form Two candidates in acquisition/documents, match their printed question numbering and check pagination. Keep missing printed pages documented. Manuscript work remains paused.
+
+## 180-paper milestone
+
+Release 0.13.0 adds 14 Form One and 41 Form Two papers for a total of 90 per form. All 180 have at least one interactive question-selection route. Of these, 156 offer page-based self-check only. The scored exam builder contains 24 sources with 676 records. Ten offer complete scoring and 14 offer scored subsets. Two of the fully scored papers also retain their page-based practice and previously saved responses. The 158 page-based readers contain 1,615 selectable groups. The new full scoring conversions are Kigoma Form One Business Studies and Markaz Form One Mathematics, each worth 100 marks. Independent solutions are labelled.
+
+The target for distinct papers has been reached. Further scoring work should convert the 156 self-check-only sources and complete the 14 partial scored sources. The curriculum manuscript work is paused. Physical Android acceptance remains open.

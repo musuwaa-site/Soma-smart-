@@ -1,0 +1,1290 @@
+{
+  "paper": {
+    "subjectId": "business",
+    "form": 1,
+    "year": 2025,
+    "institution": "Catholic Diocese of Kigoma",
+    "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+    "rightsStatus": "cleared",
+    "rightsEvidence": {
+      "type": "owner-attestation-in-chat",
+      "confirmedBy": "owner",
+      "scope": "Use of genuine examination papers in SomaSmart",
+      "verification": "Owner assertion; no document inspection claimed."
+    },
+    "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+    "sourceType": "school",
+    "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+    "verificationStatus": "verified",
+    "publicationStatus": "published",
+    "id": "kigoma-2025-f1-business-d39b70b70872d3af",
+    "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+    "sourceMaximumMarks": 100,
+    "maximumMarks": 100,
+    "completePaper": true
+  },
+  "questions": [
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q1-i",
+      "questionNumber": "1(i)",
+      "originalLabel": "1(i)",
+      "content": "Which of the following is the primary goal of a business?",
+      "type": "mcq",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        2
+      ],
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q1",
+      "mainQuestionNumber": "1",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "A",
+      "maximumMarks": 1,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "To make profit",
+      "markingGuide": "Award one mark for each correct selection, in its printed position.",
+      "markIncrement": 1,
+      "options": [
+        "To provide free goods and services",
+        "To employ all people in the community",
+        "To make profit",
+        "To minimize creativity and innovation"
+      ],
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "instructions": "For each of the following items (i) to (x), choose the correct answer from among the given alternatives and write its letter in the box provided."
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q1-ii",
+      "questionNumber": "1(ii)",
+      "originalLabel": "1(ii)",
+      "content": "The process of transforming raw-materials into finished products to satisfy human needs and wants is known as;",
+      "type": "mcq",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        2
+      ],
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q1",
+      "mainQuestionNumber": "1",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "A",
+      "maximumMarks": 1,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Production",
+      "markingGuide": "Award one mark for each correct selection, in its printed position.",
+      "markIncrement": 1,
+      "options": [
+        "Consumption",
+        "Production",
+        "Exchange",
+        "Distribution"
+      ],
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "instructions": "For each of the following items (i) to (x), choose the correct answer from among the given alternatives and write its letter in the box provided."
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q1-iii",
+      "questionNumber": "1(iii)",
+      "originalLabel": "1(iii)",
+      "content": "Which of the following is an example of a free goods?",
+      "type": "mcq",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        2
+      ],
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q1",
+      "mainQuestionNumber": "1",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "A",
+      "maximumMarks": 1,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Sunlight",
+      "markingGuide": "Award one mark for each correct selection, in its printed position.",
+      "markIncrement": 1,
+      "options": [
+        "Computer",
+        "Pen",
+        "Cloth",
+        "Sunlight"
+      ],
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "instructions": "For each of the following items (i) to (x), choose the correct answer from among the given alternatives and write its letter in the box provided."
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q1-iv",
+      "questionNumber": "1(iv)",
+      "originalLabel": "1(iv)",
+      "content": "Which factor of production involves innovation, risk taking and organization?",
+      "type": "mcq",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        2
+      ],
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q1",
+      "mainQuestionNumber": "1",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "A",
+      "maximumMarks": 1,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Entrepreneurship",
+      "markingGuide": "Award one mark for each correct selection, in its printed position.",
+      "markIncrement": 1,
+      "options": [
+        "Entrepreneurship",
+        "Land",
+        "Capital",
+        "Labour"
+      ],
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "instructions": "For each of the following items (i) to (x), choose the correct answer from among the given alternatives and write its letter in the box provided."
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q1-v",
+      "questionNumber": "1(v)",
+      "originalLabel": "1(v)",
+      "content": "__________ is the ability to produce new and unique ideas.",
+      "type": "mcq",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        2
+      ],
+      "topicIds": [
+        "business-f1-expanded-entrepreneurial-explanations"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q1",
+      "mainQuestionNumber": "1",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "A",
+      "maximumMarks": 1,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Creativity",
+      "markingGuide": "Award one mark for each correct selection, in its printed position.",
+      "markIncrement": 1,
+      "options": [
+        "Risk-taking",
+        "Perseverance",
+        "Creativity",
+        "Innovation"
+      ],
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "instructions": "For each of the following items (i) to (x), choose the correct answer from among the given alternatives and write its letter in the box provided."
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q1-vi",
+      "questionNumber": "1(vi)",
+      "originalLabel": "1(vi)",
+      "content": "Mariam earns Tzs 20,000 per day, she spends part of her money on food and the rest on buying a new handling and internet bills, which of the following is a need in Mariam’s spending?",
+      "type": "mcq",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        2
+      ],
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q1",
+      "mainQuestionNumber": "1",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "A",
+      "maximumMarks": 1,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Food",
+      "markingGuide": "Award one mark for each correct selection, in its printed position.",
+      "markIncrement": 1,
+      "options": [
+        "The handbag",
+        "Food",
+        "A new dress",
+        "Internet bills"
+      ],
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "instructions": "For each of the following items (i) to (x), choose the correct answer from among the given alternatives and write its letter in the box provided."
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q1-vii",
+      "questionNumber": "1(vii)",
+      "originalLabel": "1(vii)",
+      "content": "The main goal of any business is to generate:-",
+      "type": "mcq",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        2
+      ],
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q1",
+      "mainQuestionNumber": "1",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "A",
+      "maximumMarks": 1,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Profit",
+      "markingGuide": "Award one mark for each correct selection, in its printed position.",
+      "markIncrement": 1,
+      "options": [
+        "Ideas",
+        "Money",
+        "Profit",
+        "Goods and services"
+      ],
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "instructions": "For each of the following items (i) to (x), choose the correct answer from among the given alternatives and write its letter in the box provided."
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q1-viii",
+      "questionNumber": "1(viii)",
+      "originalLabel": "1(viii)",
+      "content": "Mr. Kalinga is uncertain about the scope of business studies. Which among the following is a component of business studies?",
+      "type": "mcq",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        2
+      ],
+      "topicIds": [
+        "business-f1-business-planning"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q1",
+      "mainQuestionNumber": "1",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "A",
+      "maximumMarks": 1,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "All of the above",
+      "markingGuide": "Award one mark for each correct selection, in its printed position.",
+      "markIncrement": 1,
+      "options": [
+        "Entrepreneurship",
+        "Accounting",
+        "Business management",
+        "All of the above"
+      ],
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "instructions": "For each of the following items (i) to (x), choose the correct answer from among the given alternatives and write its letter in the box provided."
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q1-ix",
+      "questionNumber": "1(ix)",
+      "originalLabel": "1(ix)",
+      "content": "To become a successful entrepreneur one needs to develop several type of skills which an entrepreneur is supposed to have for efficient and effective operation of business. These skills are;",
+      "type": "mcq",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        2
+      ],
+      "topicIds": [
+        "business-f1-expanded-skills-negotiation"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q1",
+      "mainQuestionNumber": "1",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "A",
+      "maximumMarks": 1,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Business management skills, leadership skills and interpersonal skills",
+      "markingGuide": "Award one mark for each correct selection, in its printed position.",
+      "markIncrement": 1,
+      "options": [
+        "Innovation, Invention and risk taking",
+        "Business management skills, leadership skills and interpersonal skills",
+        "Business studies, Boo keeping, Marketing",
+        "Food, clothes, shelter and water"
+      ],
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "instructions": "For each of the following items (i) to (x), choose the correct answer from among the given alternatives and write its letter in the box provided."
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q1-x",
+      "questionNumber": "1(x)",
+      "originalLabel": "1(x)",
+      "content": "Osward was sent by his brother to buy only perishable goods. What are the correct examples will he will buy?",
+      "type": "mcq",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        2
+      ],
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q1",
+      "mainQuestionNumber": "1",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "A",
+      "maximumMarks": 1,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Milk, meat, bread, fruits and vegetables",
+      "markingGuide": "Award one mark for each correct selection, in its printed position.",
+      "markIncrement": 1,
+      "options": [
+        "Machines, Vehicles, Equipment, building",
+        "Health services, sport facilities and fire protection",
+        "Pen, pencil, exercise book and rubber",
+        "Milk, meat, bread, fruits and vegetables"
+      ],
+      "optionLabels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "instructions": "For each of the following items (i) to (x), choose the correct answer from among the given alternatives and write its letter in the box provided."
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q2",
+      "questionNumber": "2",
+      "originalLabel": "2",
+      "content": "Match the descriptions in LIST A with their correct answers in LIST B by writing the letter of the correct response beside the item number.",
+      "type": "matching",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        3
+      ],
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q2",
+      "mainQuestionNumber": "2",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "A",
+      "maximumMarks": 5,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": {
+        "i": "G. Business",
+        "ii": "B. Land",
+        "iii": "F. Labor",
+        "iv": "A. Capital",
+        "v": "E. Entrepreneurship"
+      },
+      "markingGuide": "Award one mark for each correct match.",
+      "markIncrement": 1,
+      "pairs": [
+        {
+          "id": "i",
+          "left": "(i) An organization engaged in producing or buying and selling goods and service with the aim of earning profit and satisfying customer needs."
+        },
+        {
+          "id": "ii",
+          "left": "(ii) The natural resources used in Production."
+        },
+        {
+          "id": "iii",
+          "left": "(iii) The human effort, both physical and Mental used to produce goods and Services."
+        },
+        {
+          "id": "iv",
+          "left": "(iv) Man-made resources like machinery and tools used in production."
+        },
+        {
+          "id": "v",
+          "left": "(v) The ability to organize and manage resources to create a business."
+        }
+      ],
+      "options": [
+        "A. Capital",
+        "B. Land",
+        "C. Opportunity cost",
+        "D. Production",
+        "E. Entrepreneurship",
+        "F. Labor",
+        "G. Business"
+      ]
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q3-a",
+      "questionNumber": "3(a)",
+      "originalLabel": "3(a)",
+      "content": "Explain four (4) business processes with examples.",
+      "type": "short",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        3
+      ],
+      "topicIds": [
+        "business-f1-business-planning"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q3",
+      "mainQuestionNumber": "3",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "B",
+      "maximumMarks": 5,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "A mill produces flour by processing grain. A wholesaler distributes sacks to shops. A retailer exchanges flour for payment. A family consumes the flour by using it to cook ugali.",
+      "markingGuide": "One mark per relevant process explained, up to four. Award the final mark for relevant concrete examples across the response.",
+      "markIncrement": 1,
+      "options": []
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q3-b",
+      "questionNumber": "3(b)",
+      "originalLabel": "3(b)",
+      "content": "Describe four (4) purposes of a business",
+      "type": "short",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        3
+      ],
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q3",
+      "mainQuestionNumber": "3",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "B",
+      "maximumMarks": 5,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Businesses meet needs by supplying goods and services, earn a return for their owners, create employment and improve products to retain customers.",
+      "markingGuide": "One mark per distinct purpose, up to four. Award one further mark for an explanation linking a purpose to how a business operates.",
+      "markIncrement": 1,
+      "options": []
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q4-a",
+      "questionNumber": "4(a)",
+      "originalLabel": "4(a)",
+      "content": "Identify and explain four (4) resources used in production of goods and services",
+      "type": "short",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        3
+      ],
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q4",
+      "mainQuestionNumber": "4",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "B",
+      "maximumMarks": 5,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Land includes soil, water and other natural inputs. Labour supplies human effort and skills. Capital includes equipment used in production. Entrepreneurship coordinates the inputs and bears business risk.",
+      "markingGuide": "One mark per correctly explained factor, up to four. Award the final mark for distinguishing their different contributions with an example or explanation.",
+      "markIncrement": 1,
+      "options": []
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q4-b",
+      "questionNumber": "4(b)",
+      "originalLabel": "4(b)",
+      "content": "Describe the steps involved in forming a sole proprietorship.",
+      "type": "short",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        3
+      ],
+      "topicIds": [
+        "business-f1-business-planning"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q4",
+      "mainQuestionNumber": "4",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "B",
+      "maximumMarks": 5,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Choose a business idea and investigate demand. Plan the costs, finance and location. Arrange the capital. Complete the registrations, licences and permits applicable to the activity. Obtain supplies, keep records and start trading.",
+      "markingGuide": "One mark per relevant distinct step, up to five. Accept other logical sequences.",
+      "markIncrement": 1,
+      "options": []
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q5",
+      "questionNumber": "5",
+      "originalLabel": "5",
+      "content": "The government of Tanzania encourages people to use some goods while discouraging to use of others. Some goods provide long term benefits to individuals and society while others can have negative effect if over used. Classify the following goods into merit and demerit goods.",
+      "type": "matching",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        4
+      ],
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q5",
+      "mainQuestionNumber": "5",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "B",
+      "maximumMarks": 10,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": {
+        "i": "Merit goods",
+        "ii": "Demerit goods",
+        "iii": "Merit goods",
+        "iv": "Demerit goods",
+        "v": "Merit goods",
+        "vi": "Demerit goods",
+        "vii": "Merit goods",
+        "viii": "Demerit goods",
+        "ix": "Merit goods",
+        "x": "Demerit goods"
+      },
+      "markingGuide": "One mark per correct classification.",
+      "markIncrement": 1,
+      "pairs": [
+        {
+          "id": "i",
+          "left": "(i) Vaccines"
+        },
+        {
+          "id": "ii",
+          "left": "(ii) Cigarettes"
+        },
+        {
+          "id": "iii",
+          "left": "(iii) Public libraries"
+        },
+        {
+          "id": "iv",
+          "left": "(iv) Alcohol"
+        },
+        {
+          "id": "v",
+          "left": "(v) Free education"
+        },
+        {
+          "id": "vi",
+          "left": "(vi) Hard drugs"
+        },
+        {
+          "id": "vii",
+          "left": "(vii) Clean water"
+        },
+        {
+          "id": "viii",
+          "left": "(viii) Gambling services"
+        },
+        {
+          "id": "ix",
+          "left": "(ix) Health care services"
+        },
+        {
+          "id": "x",
+          "left": "(x) Junk food"
+        }
+      ],
+      "options": [
+        "Merit goods",
+        "Demerit goods"
+      ]
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q6",
+      "questionNumber": "6",
+      "originalLabel": "6",
+      "content": "Business studies is a combination of various fields of study. By using five (5) components of business show the evidence over this statement.",
+      "type": "short",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        4
+      ],
+      "topicIds": [
+        "business-f1-business-planning"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q6",
+      "mainQuestionNumber": "6",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "B",
+      "maximumMarks": 10,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Accounting records transactions and prepares financial information. Entrepreneurship identifies opportunities and starts enterprises. Management plans and coordinates resources. Marketing identifies customer needs and promotes products. Finance plans funding and the use of money.",
+      "markingGuide": "Two marks per distinct field and its relevant contribution. Award one for naming a valid field alone. Accept equivalent fields such as commerce with an explanation.",
+      "markIncrement": 1,
+      "options": []
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q7-a",
+      "questionNumber": "7(a)",
+      "originalLabel": "7(a)",
+      "content": "Differentiate between “needs” and “wants” and give two (2) examples of each.",
+      "type": "short",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        4
+      ],
+      "topicIds": [
+        "business-f1-01"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q7",
+      "mainQuestionNumber": "7",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "B",
+      "maximumMarks": 6,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Needs are essentials for survival or well-being, such as food and safe drinking water. Wants are things people would like beyond these essentials, such as fashionable jewellery or a luxury watch.",
+      "markingGuide": "One mark for each definition and one for each of four appropriate examples.",
+      "markIncrement": 1,
+      "options": []
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q7-b",
+      "questionNumber": "7(b)",
+      "originalLabel": "7(b)",
+      "content": "Explain why business studies is important for individual or personal development (4 points)",
+      "type": "short",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        4
+      ],
+      "topicIds": [
+        "business-f1-expanded-skills-negotiation"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q7",
+      "mainQuestionNumber": "7",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "B",
+      "maximumMarks": 4,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Budgeting helps a person control spending. Comparing alternatives improves purchasing decisions. Recognising opportunities can lead to self-employment. Communicating with customers develops negotiation and listening skills.",
+      "markingGuide": "One mark for each distinct explained personal benefit, up to four.",
+      "markIncrement": 1,
+      "options": []
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q8-a",
+      "questionNumber": "8(a)",
+      "originalLabel": "8(a)",
+      "content": "Describe five (5) features of a solo proprietorship",
+      "type": "short",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        5
+      ],
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q8",
+      "mainQuestionNumber": "8",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "B",
+      "maximumMarks": 5,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "One person owns the enterprise. The owner controls decisions. The owner takes the profit. The owner bears losses and has unlimited personal liability for business debts. Continuity often depends on the owner.",
+      "markingGuide": "One mark per distinct accurately described feature, up to five.",
+      "markIncrement": 1,
+      "options": []
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q8-b",
+      "questionNumber": "8(b)",
+      "originalLabel": "8(b)",
+      "content": "Explain briefly five (5) advantages of a sole of proprietorship",
+      "type": "short",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        5
+      ],
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q8",
+      "mainQuestionNumber": "8",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "B",
+      "maximumMarks": 5,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "It can be simple to start. The owner decides quickly. The owner retains the profit. Business information can be kept private. Direct contact helps the owner respond to customers.",
+      "markingGuide": "One mark per distinct advantage briefly explained, up to five.",
+      "markIncrement": 1,
+      "options": []
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q9-a",
+      "questionNumber": "9(a)",
+      "originalLabel": "9(a)",
+      "content": "Define an entropreneur and an Intrapreneur",
+      "type": "short",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        5
+      ],
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q9",
+      "mainQuestionNumber": "9",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "B",
+      "maximumMarks": 4,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "An entrepreneur organises resources and bears risk to start or run a venture. An intrapreneur develops an innovation inside an existing organisation using its resources and support.",
+      "markingGuide": "Two marks per definition explaining the role and its setting.",
+      "markIncrement": 1,
+      "options": []
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q9-b",
+      "questionNumber": "9(b)",
+      "originalLabel": "9(b)",
+      "content": "Explain five (5) characteristics of an entropreneur",
+      "type": "short",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        5
+      ],
+      "topicIds": [
+        "business-f1-expanded-skills-negotiation"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q9",
+      "mainQuestionNumber": "9",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "B",
+      "maximumMarks": 6,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "An entrepreneur identifies opportunities, creates new solutions, takes calculated risks, persists through setbacks and plans how to use limited resources. For example, testing a new product with a small order limits the potential loss.",
+      "markingGuide": "One mark per distinct trait explained, up to five. Award one additional mark for developing an explanation or illustrating a trait.",
+      "markIncrement": 1,
+      "options": []
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q10-a",
+      "questionNumber": "10(a)",
+      "originalLabel": "10(a)",
+      "content": "Evaluate the importance of entrepreneurship in the development of Tanzanian Economy. (Three (3) points)",
+      "type": "essay",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        5
+      ],
+      "topicIds": [
+        "business-f1-enterprise"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q10",
+      "mainQuestionNumber": "10",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "C",
+      "maximumMarks": 6,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "A growing food-processing business can employ local workers and pay them incomes. Processing Tanzanian crops adds value and creates a market for farmers. Successful enterprises can pay taxes that support public services.",
+      "markingGuide": "Two marks per distinct contribution linked to an economic outcome. Accept other reasoned Tanzanian examples.",
+      "markIncrement": 1,
+      "options": []
+    },
+    {
+      "subjectId": "business",
+      "form": 1,
+      "year": 2025,
+      "institution": "Catholic Diocese of Kigoma",
+      "sourceReference": "https://drive.google.com/file/d/1vHtxo6Znv8EGpvidFqf_5pN_ja36Xxrv/view?usp=drive_link",
+      "rightsStatus": "cleared",
+      "rightsEvidence": {
+        "type": "owner-attestation-in-chat",
+        "confirmedBy": "owner",
+        "scope": "Use of genuine examination papers in SomaSmart",
+        "verification": "Owner assertion; no document inspection claimed."
+      },
+      "sourcePdf": "/source-papers/source-d39b70b70872d3af/original.pdf",
+      "sourceType": "school",
+      "sourceSha256": "d39b70b70872d3afbb3fa93ae73983987e3b8d770cba0756e00ac30aaa0eabac",
+      "verificationStatus": "verified",
+      "publicationStatus": "published",
+      "id": "kigoma-2025-f1-business-d39b70b70872d3af-q10-b",
+      "questionNumber": "10(b)",
+      "originalLabel": "10(b)",
+      "content": "Discuss the challenges faced by sole proprietorship and suggest solutions for each challenge. (Three (3) points)",
+      "type": "essay",
+      "paperId": "kigoma-2025-f1-business-d39b70b70872d3af",
+      "sourcePages": [
+        7
+      ],
+      "topicIds": [
+        "business-f1-expanded-sole-trader-launch"
+      ],
+      "groupId": "kigoma-2025-f1-business-d39b70b70872d3af-q10",
+      "mainQuestionNumber": "10",
+      "sourceTitle": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "section": "C",
+      "maximumMarks": 9,
+      "solutionProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "marksProvenance": "SomaSmart prepared the example answers and practice allocations. Section totals of 15, 70 and 15 follow the original. The distribution within each section is independently assigned. Accept other sound examples.",
+      "answerKey": "Limited capital can prevent a large order being filled. Saving part of profits or arranging affordable credit can finance the order. Illness of the owner can interrupt sales. Training a trusted deputy and documenting routines can keep trading going. Limited expertise can cause pricing mistakes. Bookkeeping training or specialist advice can improve cost estimates.",
+      "markingGuide": "Three marks per pair for identifying the challenge, explaining its effect and giving a practical solution that addresses it.",
+      "markIncrement": 1,
+      "options": []
+    }
+  ]
+}

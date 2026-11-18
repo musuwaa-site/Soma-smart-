@@ -9,7 +9,7 @@ if __name__ == '__main__':
     batches = ROOT / 'content/batches'
     existing = {doc['id']: doc for doc in data['sourceDocuments']}
     indexes = {}
-    for filename in ('016-legacy-ftna-sources.json', '017-form-one-sources.json', '018-additional-sources.json', '021-reserve-sources.json'):
+    for filename in ('016-legacy-ftna-sources.json', '017-form-one-sources.json', '018-additional-sources.json', '021-reserve-sources.json', '022-f1-sources.json', '023-f2a-sources.json', '024-f2b-sources.json', '025-f2c-sources.json'):
         for doc in json.loads((batches / filename).read_text())['sourceDocuments']:
             previous = existing.get(doc['id'])
             if previous and previous['sha256'] != doc['sha256']:
@@ -21,7 +21,7 @@ if __name__ == '__main__':
             else:
                 existing[doc['id']] = doc
                 data['sourceDocuments'].append(doc)
-    for filename in ('014-source-practice-index.json', '017-form-one-index.json', '018-additional-index.json', '021-reserve-index.json'):
+    for filename in ('014-source-practice-index.json', '017-form-one-index.json', '018-additional-index.json', '021-reserve-index.json', '022-f1-index.json', '023-f2a-index.json', '024-f2b-index.json', '025-f2c-index.json'):
         batch = json.loads((batches / filename).read_text())
         if indexes.keys() & batch.keys():
             raise SystemExit(f'Duplicate practice index in {filename}')
@@ -48,7 +48,11 @@ if __name__ == '__main__':
             if group['maximumMarks'] != sum(part['marks'] for part in group['parts']):
                 raise SystemExit('Independent guide has inconsistent marks.')
         doc['independentPracticeGuide'] = guide
-    data['version'] = '0.12.0'
+    from import_kigoma_business import apply
+    data = apply(data)
+    from import_markaz_math import apply as apply_math
+    apply_math(data)
+    data['version'] = '0.13.0'
     problems = validate(data)
     if problems:
         raise SystemExit('\n'.join(problems))

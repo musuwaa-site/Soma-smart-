@@ -63,7 +63,8 @@ for (const doc of data.sourceDocuments) {
       }
       groups++;
     }
-  } else {
+  }
+  if (doc.interactivePaperId) {
     const paper = paperIds.get(doc.interactivePaperId);
     assert(paper?.questionIds.length, doc.id);
     for (const id of paper.questionIds) assert(questions.get(id)?.markingGuide, id);

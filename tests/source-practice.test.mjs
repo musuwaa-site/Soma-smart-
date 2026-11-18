@@ -8,7 +8,7 @@ const library = studentRelease(JSON.parse(readFileSync('content/library.json')))
 test('every released original paper has a scored selection or an original-page selection', () => {
   const indexed = library.sourceDocuments.filter(doc => doc.practiceIndex);
   assert.equal(library.sourceDocuments.length, new Set(library.sourceDocuments.map(doc => doc.sha256)).size);
-  assert(library.sourceDocuments.length >= 125);
+  for (const form of [1, 2]) assert(library.sourceDocuments.filter(doc => doc.form === form).length >= 90);
   assert(indexed.length >= 103);
   assert(indexed.every(doc => doc.practiceIndex.groups.length > 0));
   assert(indexed.reduce((sum, doc) => sum + doc.practiceIndex.groups.length, 0) >= 1012);
@@ -23,7 +23,8 @@ test('every released original paper has a scored selection or an original-page s
       assert.equal(sourceGroupPages(doc, group).length, group.lastPage - group.firstPage + 1);
       assert.equal(sourceGroupPages(doc, group).at(0), doc.pageImages[group.firstPage - 1]);
     }
-    assert(!library.questions.some(q => q.sourceSha256 === doc.sha256));
+    const scored = library.questions.filter(q => q.sourceSha256 === doc.sha256);
+    assert(scored.every(q => q.paperId === doc.interactivePaperId));
   }
 });
 

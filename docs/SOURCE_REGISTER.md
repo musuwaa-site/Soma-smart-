@@ -116,3 +116,12 @@ Printed-source corrections take precedence over archive labels; see content/sour
 ## Release 0.12.0
 
 The 26 released and four held Kigoma, Kagera, Songwe and Wanging’ombe Form One records are in [the acquisition register](../acquisition/form-one-next-candidates.json). Four Markaz Islamic Seminary Form One papers and two archived Form Two Biology papers are in [the additional source register](../acquisition/additional-milestone-sources.json). Three Kilimanjaro regional papers and one Markaz Geography paper replace the four held candidates. See [their source register](../acquisition/reserve-milestone-sources.json). Batches 017, 018 and 021 retain the printed institution and year, acquisition reference, SHA-256 identity, page images and numbered practice selections. Reader notes identify discrepancies between archive listings, cover instructions and available pages.
+
+## 180-paper release
+
+Four acquisition registers record the 55 additional genuine papers and their source hashes. Batches 022–025 preserve the source PDFs, printed question groups and page references. Earlier-curriculum papers retain their printed year and institution.
+
+- [14 Form One papers](../acquisition/form-one-180-sources.json)
+- [14 Form Two Mathematics and Physics papers](../acquisition/f2a-milestone-sources.json)
+- [14 Form Two language and Geography papers](../acquisition/f2b-180-sources.json)
+- [13 Form Two Chemistry, Biology, Business Studies and Historia papers](../acquisition/f2c-180-sources.json)

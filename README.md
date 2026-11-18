@@ -70,7 +70,7 @@ Complete past papers: Exams → choose the form and subject → Past-paper libra
 
 Paper totals distinguish full transcription from complete scoring. Unresolved source items remain drafts and cannot enter a scored selection. An incorrect source key may have explicitly labelled independently checked guidance; the original question and source guide remain unchanged. `content/interactive-conversion-report.json` and the generated inventory contain actual totals. Source attribution corrections are retained in `content/source-corrections.json`; one archived Chemistry entry was Computer Science with a mismatched guide and is quarantined.
 
-## Build the 125-paper edition
+## Build the 180-paper edition
 
 Run `npm run build` followed by `node scripts/verify_release.mjs` and `python scripts/package.py` for the complete offline ZIP with original PDFs. For the size-limited ChatGPT Site, follow the full build with `node scripts/build_hosted.mjs` and `node scripts/verify_release.mjs --hosted`. Package the contents of `dist-hosted/` as the hosted `dist/` directory. This edition includes every archived exam and guide page for offline reading and practice. Opening the linked archive PDF requires internet access.
 

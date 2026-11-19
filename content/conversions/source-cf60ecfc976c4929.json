@@ -1,0 +1,401 @@
+{
+  "sourceId": "source-cf60ecfc976c4929",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Beam balance, stopwatch and vernier calipers measure mass, time and length."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Physics studies matter, energy and their interactions."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Cohesion within mercury exceeds adhesion between mercury and clean glass."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A hydrometer directly indicates liquid density or relative density."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Upthrust is ρgV for displaced volume V and fluid density ρ."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Surface tension can support a very light carefully placed needle."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Spring constant F/x=5/1=5 N/m."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Removing some material reduces the mass."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A floating ship displaces more volume in less-dense fresh water."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Restoring forces act towards the original shape."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "answer": {
+          "i": "A",
+          "ii": "B",
+          "iii": "F",
+          "iv": "G",
+          "v": "D"
+        },
+        "explanation": "Brownian motion is random particle motion, capillarity occurs in narrow tubes, cohesion acts between like molecules, surface tension acts along liquid surfaces and diffusion spreads particles down concentration gradients."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Physics studies matter, energy and their interactions.",
+        "explanation": "It seeks experimentally tested laws describing physical events."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "It helps explain natural events such as rainbows and falling objects.",
+        "explanation": "Optics explains coloured light; gravity explains falling motion."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "It develops measuring and problem-solving skills.",
+        "explanation": "Measurements connect predictions to repeatable evidence."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "It supports technology such as radios, engines and medical imaging.",
+        "explanation": "These devices apply principles of waves, energy and forces."
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "written",
+        "answer": "It prepares students for careers in engineering, medicine and science.",
+        "explanation": "Those fields use physical models and careful measurements."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "A scalar has magnitude only, for example mass. A vector has magnitude and direction, for example velocity.",
+        "explanation": "Direction is essential when combining or comparing vectors."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Draw a U-shaped frame with fixed anvil, movable spindle, sleeve scale, rotating thimble, ratchet and locking device.",
+        "explanation": "Label the wire between anvil and spindle and show the thimble advancing the spindle."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "0.82 mm.",
+        "explanation": "Observed reading=0.5+27×0.01=0.77 mm. Correct for −0.005 cm=−0.05 mm by subtracting the error."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Gravitational force.",
+        "explanation": "It attracts masses."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Electromagnetic force.",
+        "explanation": "It acts between electric charges and underlies electric and magnetic interactions."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Strong nuclear interaction.",
+        "explanation": "It binds quarks and, as a residual interaction, helps bind nuclei."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Weak nuclear interaction.",
+        "explanation": "It is involved in processes such as beta decay."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Approximately 1.67 N/kg for the Moon’s gravitational field strength.",
+        "explanation": "Mass=900/10=90 kg; gMoon=150/90. The gravitational force on the astronaut there is the given 150 N."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Density is mass per unit volume.",
+        "explanation": "Its SI unit is kg/m³."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Relative density is density divided by reference density, normally that of water for solids or liquids.",
+        "explanation": "It has no unit because identical density units cancel."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "800 kg/m³.",
+        "explanation": "Liquid mass=35−15=20 g; density=20/25=0.8 g/cm³."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "0.8.",
+        "explanation": "Water in the same bottle weighs 40−15=25 g, so the density ratio is 20/25."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "For C to stay resting on the bottom, its density can exceed the liquid’s; its weight exceeds upthrust alone; the bottom supplies an upward contact force.",
+        "explanation": "In static equilibrium weight equals upthrust plus the support force."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "D has average density lower than the liquid, floats partly immersed, and displaces a weight of liquid equal to its weight.",
+        "explanation": "At rest its upward buoyancy balances its downward weight."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "The law of flotation.",
+        "explanation": "A floating body displaces its own weight of fluid."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "100 cm³.",
+        "explanation": "Displaced water has mass 400 g, so wood mass is 400 g. Total wood volume=400/0.8=500 cm³; above-water volume=500−400."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "1 N downwards.",
+        "explanation": "Full immersion displaces 500 cm³ and gives 5 N buoyancy while weight is 4 N."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "The broad foot spreads the load over a large area, which can reduce ground pressure.",
+        "explanation": "Sinking depends on F/A and soil conditions; body mass alone is not enough to compare actual animals."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Hydraulic vehicle lifts.",
+        "explanation": "Equal pressure acting on a larger output piston provides a larger supporting force."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Hydraulic forming or baling presses.",
+        "explanation": "A small input force over a long travel produces a larger output force over a shorter travel."
+      },
+      {
+        "label": "8(c)(i)",
+        "type": "written",
+        "answer": "1,000 N.",
+        "explanation": "Equal pressure gives Fsmall/0.02=5000/0.1."
+      },
+      {
+        "label": "8(c)(ii)",
+        "type": "written",
+        "answer": "1.5 m.",
+        "explanation": "Volume conservation gives 0.02×d=0.1×0.3."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Work is energy transferred by a force through displacement; SI unit joule.",
+        "explanation": "For a constant parallel force W=Fs."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Energy is the capacity to do work; SI unit joule.",
+        "explanation": "Energy can be stored or transferred."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "Power is work done or energy transferred per time; SI unit watt.",
+        "explanation": "P=W/t."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "28.125 J against friction.",
+        "explanation": "Initial energy=½×3×3²+3×10×3.3=112.5 J. Final kinetic energy=½×3×7.5²=84.375 J. The difference is frictional loss."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Acceleration is the rate of change of velocity.",
+        "explanation": "Its unit is m/s²."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "Velocity is the rate of change of displacement in a specified direction.",
+        "explanation": "Its unit is m/s."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "Speed is distance travelled per unit time.",
+        "explanation": "It has magnitude but no direction."
+      },
+      {
+        "label": "10(a)(iv)",
+        "type": "written",
+        "answer": "Displacement is directed change from initial to final position.",
+        "explanation": "It is a vector measured in metres."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "20 m/s upwards.",
+        "explanation": "At maximum height v=0; u=√(2gh)=√400."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "2 s.",
+        "explanation": "t=u/g=20/10."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "480 m.",
+        "explanation": "Plot (0,0), (5,20), (25,20), (28,0); add triangle and rectangle areas 50+400+30."
+      }
+    ]
+  }
+}

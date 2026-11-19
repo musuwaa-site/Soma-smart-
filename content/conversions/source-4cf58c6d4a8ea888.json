@@ -1,0 +1,508 @@
+{
+  "sourceId": "source-4cf58c6d4a8ea888",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)(i)",
+        "type": "written",
+        "answer": "To teach her son kindness and the importance of helping people in need.",
+        "explanation": "The narrator remembers the emphasis on giving to the poor."
+      },
+      {
+        "label": "1(a)(ii)",
+        "type": "written",
+        "answer": "Giving to people in need is presented as a moral act that can make amends for wrongdoing.",
+        "explanation": "The comparison with water and fire stresses the power of generosity in the mother’s teaching."
+      },
+      {
+        "label": "1(a)(iii)",
+        "type": "written",
+        "answer": "Help promptly, listen politely and avoid adding to the person’s trouble.",
+        "explanation": "The passage advises against delaying help."
+      },
+      {
+        "label": "1(a)(iv)",
+        "type": "written",
+        "answer": "Show respect to people in authority.",
+        "explanation": "Bowing the head is used as a sign of respect."
+      },
+      {
+        "label": "1(a)(v)",
+        "type": "written",
+        "answer": "Resources and opportunities are unequally shared; some people lack food or water while others have more than they use.",
+        "explanation": "The narrator contrasts unmet needs with waste and full tanks."
+      },
+      {
+        "label": "1(b)(i)",
+        "type": "mcq",
+        "answer": "TRUE",
+        "explanation": "The mother usually narrated in the evening.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      },
+      {
+        "label": "1(b)(ii)",
+        "type": "mcq",
+        "answer": "TRUE",
+        "explanation": "Work opportunities support independence.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      },
+      {
+        "label": "1(b)(iii)",
+        "type": "mcq",
+        "answer": "FALSE",
+        "explanation": "The passage says kindness considers the future.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      },
+      {
+        "label": "1(b)(iv)",
+        "type": "mcq",
+        "answer": "FALSE",
+        "explanation": "A true friend helps in difficulty.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      },
+      {
+        "label": "1(b)(v)",
+        "type": "mcq",
+        "answer": "TRUE",
+        "explanation": "The passage values respect and care regardless of wealth.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "written",
+        "answer": "wakes up",
+        "explanation": "The timetable begins with waking at six o’clock."
+      },
+      {
+        "label": "2(ii)",
+        "type": "written",
+        "answer": "six o'clock",
+        "explanation": "The first activity starts at6:00."
+      },
+      {
+        "label": "2(iii)",
+        "type": "written",
+        "answer": "half past six",
+        "explanation": "The walking journey begins at 6:30."
+      },
+      {
+        "label": "2(iv)",
+        "type": "written",
+        "answer": "seven o'clock",
+        "explanation": "Cleaning starts at 7:00."
+      },
+      {
+        "label": "2(v)",
+        "type": "written",
+        "answer": "announcements",
+        "explanation": "The parade period includes announcements and inspection."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The man at the wedding is the bridegroom.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "A caterer supplies food and drinks.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "The woman at her wedding is the bride.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A reception is the wedding celebration.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "The gown is a wedding dress.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "label": "4(1)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Begin with the boy playing, then the broken window, the woman’s reaction, shouting and the boy running. The given final sentence is the apology.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "4(2)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Begin with the boy playing, then the broken window, the woman’s reaction, shouting and the boy running. The given final sentence is the apology.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "4(3)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Begin with the boy playing, then the broken window, the woman’s reaction, shouting and the boy running. The given final sentence is the apology.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "4(4)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Begin with the boy playing, then the broken window, the woman’s reaction, shouting and the boy running. The given final sentence is the apology.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "4(5)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Begin with the boy playing, then the broken window, the woman’s reaction, shouting and the boy running. The given final sentence is the apology.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Mr and Mrs Biziku request the pleasure of [guest name] at the birthday party of their daughter Anjilili, at Serena Hotel, Dar es Salaam, on 20 November 2021 from 6:00 p.m. to 9:00 p.m. Regrets only to Mrs Biziku Fulumo, 0797 090 7789.",
+        "explanation": "A formal card clearly identifies hosts, guest, purpose, venue, date, time and contact. Regrets only means contact is requested from those unable to attend."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Matter",
+        "explanation": "Compare the second letters a and o."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Element",
+        "explanation": "After ele, m comes before p."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "Balance",
+        "explanation": "After bala, n comes before r."
+      },
+      {
+        "label": "6(d)",
+        "type": "written",
+        "answer": "Pass",
+        "explanation": "After p, a comes before u."
+      },
+      {
+        "label": "6(e)",
+        "type": "written",
+        "answer": "Calm",
+        "explanation": "After c, a comes before o."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "confirmed",
+        "explanation": "The map verified the location."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "zebra crossing",
+        "explanation": "This is a marked pedestrian crossing."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "held",
+        "explanation": "Held is the past tense of hold."
+      },
+      {
+        "label": "7(a)(iv)",
+        "type": "written",
+        "answer": "pedestrians",
+        "explanation": "These are people walking."
+      },
+      {
+        "label": "7(a)(v)",
+        "type": "written",
+        "answer": "tributary",
+        "explanation": "A tributary flows into another river."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Daudi enjoys writing stories.",
+        "explanation": "Enjoy takes the -ing form."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "The teacher hates punishing the students.",
+        "explanation": "Hates agrees with the teacher."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "They are very lazy; they dislike working.",
+        "explanation": "Dislike takes the -ing form."
+      },
+      {
+        "label": "7(b)(iv)",
+        "type": "written",
+        "answer": "Ngailo likes watching football.",
+        "explanation": "Likes agrees with Ngailo."
+      },
+      {
+        "label": "7(b)(v)",
+        "type": "written",
+        "answer": "Musa likes beans more than meat.",
+        "explanation": "More than preserves the comparison."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "dancing",
+        "explanation": "Enjoy takes an -ing form."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "rinsing",
+        "explanation": "Drop final e before -ing."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "going",
+        "explanation": "Am forms the present progressive."
+      },
+      {
+        "label": "8(a)(iv)",
+        "type": "written",
+        "answer": "reading",
+        "explanation": "Are reading describes the current activity."
+      },
+      {
+        "label": "8(a)(v)",
+        "type": "written",
+        "answer": "playing",
+        "explanation": "Are playing describes the activity now."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "nephew",
+        "explanation": "A sibling’s son is a nephew."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "cousin",
+        "explanation": "An aunt’s child is a cousin."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "brother-in-law",
+        "explanation": "A sister’s husband is a brother-in-law."
+      },
+      {
+        "label": "8(b)(iv)",
+        "type": "written",
+        "answer": "sister-in-law",
+        "explanation": "A brother’s wife is a sister-in-law."
+      },
+      {
+        "label": "8(b)(v)",
+        "type": "written",
+        "answer": "great grandfather",
+        "explanation": "One generation above a grandfather is a great grandfather."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Mama Martina in Mabala the Farmer works hard to sustain the household and farm.",
+        "explanation": "Support the description with an action from the reader."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Mabala represents people who underestimate agricultural work and leave responsibilities to others.",
+        "explanation": "Explain how this behaviour still affects families or workplaces."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Mabala the Farmer follows a family’s move from town to farming and the difficulties caused by Mabala’s attitude to work.",
+        "explanation": "The account should identify the central conflict and its resolution."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Mama Martina, because she is hardworking and practical when the family faces difficulties.",
+        "explanation": "Another character is valid if the preference has a reason supported by the book."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "People should work responsibly, cooperate and value farming skills.",
+        "explanation": "Connect the lesson to the character’s experience."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "A preacher, a judge and a teacher.",
+        "explanation": "The first stanza names them."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "The community loses reliable moral, legal and educational service when these people are harmed by drug misuse.",
+        "explanation": "The poem links their suffering to a nation going down the drain."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "Seven verses.",
+        "explanation": "Count the seven printed lines in the third stanza."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "Three stanzas.",
+        "explanation": "Blank spaces divide the poem into three groups."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "Cocaine and liquor are named as harmful; the poem also warns against sniffing glue.",
+        "explanation": "The speaker associates substance misuse with illness and damage to society."
+      },
+      {
+        "label": "10(d)",
+        "type": "written",
+        "answer": "Avoid harmful substance use, seek help early and support people receiving treatment.",
+        "explanation": "The appeal asks the audience to act instead of standing aside."
+      },
+      {
+        "label": "10(e)",
+        "type": "written",
+        "answer": "Provide prevention education, accessible treatment, support services and enforce laws against harmful illicit supply.",
+        "explanation": "Prevention and recovery measures address both risk and harm."
+      }
+    ]
+  }
+}

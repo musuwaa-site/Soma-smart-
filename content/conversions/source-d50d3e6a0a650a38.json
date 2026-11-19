@@ -1,0 +1,460 @@
+{
+  "sourceId": "source-d50d3e6a0a650a38",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Industrial formulation uses physical and chemical properties."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "The instruments measure mass, time and length."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Water crosses a selectively permeable membrane into the beans."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Solid particles occupy closely spaced positions."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Mirrors in a periscope redirect light around an obstacle."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "For fixed force, pressure varies inversely with area."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "0.12/0.00012 = 1,000 kg/m³."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Call medical assistance and make the electrical supply safe before attempting contact."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Luminous bodies generate light."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Random molecular motion spreads odours."
+      },
+      {
+        "label": "1(xi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Tidal motion is the periodic rise and fall of ocean water levels."
+      },
+      {
+        "label": "1(xii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Neither ordinary sand nor glass is attracted strongly by a magnet."
+      },
+      {
+        "label": "1(xiii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A submerged volume z adds to the cylinder’s original reading x."
+      },
+      {
+        "label": "1(xiv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A wider base and lower centre of gravity increase stability."
+      },
+      {
+        "label": "1(xv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "0.6 × 10 × 6 = 36 J."
+      },
+      {
+        "label": "1(xvi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "The upward buoyant force reduces apparent weight."
+      },
+      {
+        "label": "1(xvii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Parallel resistance = (2 × 3)/(2 + 3) = 1.2 Ω."
+      },
+      {
+        "label": "1(xviii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "One coulomb equals one ampere-second."
+      },
+      {
+        "label": "1(xix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Acceleration = force/mass = 150/30 = 5 m/s²."
+      },
+      {
+        "label": "1(xx)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Conductors transmit heat or charge readily."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ],
+        "answer": {
+          "i": "D",
+          "ii": "E",
+          "iii": "K",
+          "iv": "L",
+          "v": "H",
+          "vi": "C",
+          "vii": "B",
+          "viii": "G"
+        },
+        "explanation": "Cohesion binds like molecules; luminous objects emit light. A switch controls current, windmills turn in moving air, and a neutral point has zero net field. A clinical thermometer measures body temperature, a beam balance mass, and mv is momentum."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Acceleration.",
+        "explanation": "Slope is the change in velocity per unit time."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Apparent weight.",
+        "explanation": "Immersion produces upward buoyancy which reduces the supporting force."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Capacitors.",
+        "explanation": "Separated conductors store electric charge."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Compressive force.",
+        "explanation": "Inward forces can shorten or compact a body."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Buoyancy or flotation.",
+        "explanation": "Upthrust can support the body at the surface."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Normal force per unit area.",
+        "explanation": "Pressure = F/A in pascals."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "200 Pa.",
+        "explanation": "Volume = 0.28 m³, mass = 56 kg and weight = 560 N. Divide by the largest face area, 2.8 m²."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Space occupied by a body.",
+        "explanation": "Volume is measured in cubic metres."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Turning effect about a point, equal to force times the perpendicular distance from pivot to its line of action.",
+        "explanation": "A longer lever arm gives a larger moment."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "5,000 J.",
+        "explanation": "Work = mgh = 100 × 10 × 5."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "About 1,667 W.",
+        "explanation": "Power = 5,000 J / 3 s."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "A push or pull, measured in newtons.",
+        "explanation": "A resultant force causes acceleration."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "2 N.",
+        "explanation": "The apparent weight drops from 12 N to 10 N."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "6.",
+        "explanation": "For complete immersion in water, relative density = true weight/apparent loss = 12/2."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "The resisting force overcome by a machine.",
+        "explanation": "The load is the output-side force."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Force applied to operate a machine.",
+        "explanation": "The effort is the input-side force."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "Useful work output divided by work input, often multiplied by 100%.",
+        "explanation": "Losses reduce useful output."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "4.",
+        "explanation": "VR = 25/5 = 5 and MA = 0.80 × 5."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Total momentum of an isolated system remains constant.",
+        "explanation": "External net impulse must be zero."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "A collision conserving total kinetic energy as well as momentum.",
+        "explanation": "The kinetic energies of individual bodies can change."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "20 m/s forwards.",
+        "explanation": "8 × 20 + 4 × 10 = 8 × 15 + 4v."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "A ray is an ideal direction line for light propagation. A beam is a collection of rays.",
+        "explanation": "A beam can spread, converge or remain parallel."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Virtual, upright, laterally reversed, and equal in size to the object.",
+        "explanation": "The image appears the same distance behind the mirror as the object is in front."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "Like magnetic poles repel and unlike poles attract.",
+        "explanation": "These forces act between magnetic poles."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "Sketch field lines emerging from both N poles and curving away from the gap. For equal poles mark the midpoint neutral.",
+        "explanation": "At that point equal fields point oppositely."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "Draw field lines connecting N to S with arrows towards S; there is no neutral point in the gap.",
+        "explanation": "The fields between opposite poles reinforce each other."
+      }
+    ]
+  }
+}

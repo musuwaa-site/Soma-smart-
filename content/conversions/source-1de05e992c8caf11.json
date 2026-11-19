@@ -1,0 +1,369 @@
+{
+  "sourceId": "source-1de05e992c8caf11",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Jamii ni mkusanyiko wa watu wenye mahusiano."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Historia hutusaidia kuelewa tulikotoka na tulipo."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Maadili ni miongozo ya mwenendo."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Waalawa, Wagorowa na Wairaki ni miongoni mwa jamii za Kikushito."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Wangoni walihusishwa na uhamaji kutoka eneo la Natal."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Wanilo, Wakichembe, Wabantu na Wakushito ndiyo makundi manne yanayotajwa."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Kutupa taka hovyo kunadhuru mazingira."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Kaole na Engaruka zote zina mabaki muhimu ya shughuli za binadamu.",
+        "acceptedAnswers": [
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Jiografia huchunguza shughuli za uchumi katika mazingira mbalimbali."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Kikwete alifuatiwa na Magufuli mwaka 2015."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "answer": {
+          "i": "C",
+          "ii": "D",
+          "iii": "A",
+          "iv": "E",
+          "v": "B"
+        },
+        "explanation": "Vyanzo vya maji ni asilia. Beit al-Ajaib ni jengo la kitamaduni; mila ni urithi usioshikika; UNESCO hushughulikia urithi wa dunia; majengo hushikika."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Kusuluhisha migogoro.",
+        "explanation": "Majukumu yalitegemea mfumo wa jamii husika; toa mfano wa uamuzi au usimamizi."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Kusimamia utendaji wa sheria za jamii.",
+        "explanation": "Majukumu yalitegemea mfumo wa jamii husika; toa mfano wa uamuzi au usimamizi."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Kuitisha mashauriano.",
+        "explanation": "Majukumu yalitegemea mfumo wa jamii husika; toa mfano wa uamuzi au usimamizi."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Kuratibu kazi za pamoja.",
+        "explanation": "Majukumu yalitegemea mfumo wa jamii husika; toa mfano wa uamuzi au usimamizi."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Kulinda maslahi ya jamii.",
+        "explanation": "Majukumu yalitegemea mfumo wa jamii husika; toa mfano wa uamuzi au usimamizi."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Majengo ya kale kama Kaole, zana za Isimila, michoro ya Kondoa, simulizi za wazee na nyimbo za kihistoria ni urithi. Hutuonyesha jinsi watu walivyoishi, walivyozalisha na walivyotunza kumbukumbu.",
+        "explanation": "Jibu linajumuisha ushahidi unaoshikika na urithi wa masimulizi."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Kuelewa hatua za maendeleo ya taifa.",
+        "explanation": "Taja mchango wa somo kwa mwanafunzi au jamii."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Kujifunza kwa ushahidi wa zamani.",
+        "explanation": "Taja mchango wa somo kwa mwanafunzi au jamii."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Kuthamini mashujaa na urithi.",
+        "explanation": "Taja mchango wa somo kwa mwanafunzi au jamii."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Kukuza uzalendo.",
+        "explanation": "Taja mchango wa somo kwa mwanafunzi au jamii."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Kuimarisha maamuzi ya kimaadili.",
+        "explanation": "Taja mchango wa somo kwa mwanafunzi au jamii."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Umoja.",
+        "explanation": "Hii ni thamani inayoweza kuonekana katika sera na maisha ya raia."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Usawa.",
+        "explanation": "Hii ni thamani inayoweza kuonekana katika sera na maisha ya raia."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Uhuru.",
+        "explanation": "Hii ni thamani inayoweza kuonekana katika sera na maisha ya raia."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Utu.",
+        "explanation": "Hii ni thamani inayoweza kuonekana katika sera na maisha ya raia."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Amani.",
+        "explanation": "Hii ni thamani inayoweza kuonekana katika sera na maisha ya raia."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Hekima katika kutoa maamuzi.",
+        "explanation": "Katika baadhi ya jamii ukoo na urithi pia vilihusika. Usidhani sifa zote zilikuwa sawa kila mahali."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Uaminifu.",
+        "explanation": "Katika baadhi ya jamii ukoo na urithi pia vilihusika. Usidhani sifa zote zilikuwa sawa kila mahali."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Uwezo wa kupatanisha watu.",
+        "explanation": "Katika baadhi ya jamii ukoo na urithi pia vilihusika. Usidhani sifa zote zilikuwa sawa kila mahali."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Uzoefu wa mambo ya jamii.",
+        "explanation": "Katika baadhi ya jamii ukoo na urithi pia vilihusika. Usidhani sifa zote zilikuwa sawa kila mahali."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Kuheshimika na wanajamii.",
+        "explanation": "Katika baadhi ya jamii ukoo na urithi pia vilihusika. Usidhani sifa zote zilikuwa sawa kila mahali."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Kilimo kilizalisha nafaka.",
+        "explanation": "Taja shughuli kisha ueleze bidhaa au faida yake."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Ufugaji ulitoa maziwa na nyama.",
+        "explanation": "Taja shughuli kisha ueleze bidhaa au faida yake."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Uvuvi ulitoa samaki.",
+        "explanation": "Taja shughuli kisha ueleze bidhaa au faida yake."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Ufinyanzi ulizalisha vyungu.",
+        "explanation": "Taja shughuli kisha ueleze bidhaa au faida yake."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Uhunzi ulitengeneza zana za kazi.",
+        "explanation": "Taja shughuli kisha ueleze bidhaa au faida yake."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Kutafuta maji.",
+        "explanation": "Linganisha mazingira ya zamani na hitaji lililowafanya watu wahame."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Kutafuta malisho.",
+        "explanation": "Linganisha mazingira ya zamani na hitaji lililowafanya watu wahame."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Kutafuta ardhi yenye rutuba.",
+        "explanation": "Linganisha mazingira ya zamani na hitaji lililowafanya watu wahame."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Kuepuka vita.",
+        "explanation": "Linganisha mazingira ya zamani na hitaji lililowafanya watu wahame."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Kutafuta makazi baada ya majanga.",
+        "explanation": "Linganisha mazingira ya zamani na hitaji lililowafanya watu wahame."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Jiografia huchambua mazingira ya uhamaji. Hisabati husaidia kupanga matukio kwa tarehe. Lugha hutunza masimulizi. Sanaa na michezo huonyesha desturi. Muziki huhifadhi matukio na kufundisha maadili.",
+        "explanation": "Mifano mitano ionyeshe jinsi kila somo linavyosaidia kupata au kueleza ushahidi wa historia na maadili."
+      }
+    ]
+  }
+}

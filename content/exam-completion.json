@@ -1,0 +1,1627 @@
+{
+  "papers": 180,
+  "papersWithIndividualControls": 180,
+  "remaining": [],
+  "sources": [
+    {
+      "sourceId": "source-200032d2d5376daf",
+      "title": "Mathematics • Form Two • 2025",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 13,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-6a69809a412db331",
+      "title": "Business Studies • Form Two • 2025 • Vocational",
+      "form": 2,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 31,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-82d4ba0ae1a6bac4",
+      "title": "Physics • Form Two • 2025",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 33,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-a334bdc2a86ba166",
+      "title": "Chemistry • Form Two • 2025",
+      "form": 2,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 53,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-a956fd65662a1f92",
+      "title": "English Language • Form Two • 2025",
+      "form": 2,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 66,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-a9ccc340e86c5170",
+      "title": "Geography • Form Two • 2025",
+      "form": 2,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 18,
+      "unscoredResponses": 8
+    },
+    {
+      "sourceId": "source-b58af0443afab32f",
+      "title": "Kiswahili • Form Two • 2025",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 18,
+      "unscoredResponses": 5
+    },
+    {
+      "sourceId": "source-ee22e64d18597ebd",
+      "title": "Biology • Form Two • 2025",
+      "form": 2,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 13,
+      "unscoredResponses": 10
+    },
+    {
+      "sourceId": "source-eec1d0787d689fcf",
+      "title": "Historia ya Tanzania na Maadili • Form Two • 2025 • Vocational",
+      "form": 2,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 55,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-0d43d9ce96e02fdb",
+      "title": "English • Form One • 2025",
+      "form": 1,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 55,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-3524b0fe8b23f712",
+      "title": "Mkalama District Council • English • Form One • 2025",
+      "form": 1,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 59,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-44f8608a340bb962",
+      "title": "GLORY SECONDARY SCHOOL • Physics • Form One • 2025",
+      "form": 1,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 46,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-4d11c09ae81c2634",
+      "title": "Mkalama District Council • Biology • Form One • 2025",
+      "form": 1,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 42,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-546ec245ba6d02e6",
+      "title": "GLORY SECONDARY SCHOOL • English • Form One • 2025",
+      "form": 1,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 76,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-65136a74a1bc75d1",
+      "title": "Physics • Form One • 2025",
+      "form": 1,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 33,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-6edcaa925c55bcb1",
+      "title": "Mkalama District Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "form": 1,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 19,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-732fe7fb783ed01c",
+      "title": "Mkalama District Council • Kiswahili • Form One • 2025",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 32,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-889faaee681eeb5f",
+      "title": "Mathematics • Form One • 2025",
+      "form": 1,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 21,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-8da8b6f5f86b75cf",
+      "title": "Business • Form One • 2025",
+      "form": 1,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 35,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-8efb486855404b8e",
+      "title": "Mathematics • Form One • 2025",
+      "form": 1,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 30,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-921c2b37e04f9529",
+      "title": "Mkalama District Council • Business Studies • Form One • 2025",
+      "form": 1,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 24,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-9256f7e1b84f17a8",
+      "title": "Mkalama District Council • Mathematics • Form One • 2025",
+      "form": 1,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 21,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-c20befea88f5eb2c",
+      "title": "Mkalama District Council • Geography • Form One • 2025",
+      "form": 1,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 27,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-c8b2f4cbdb53027b",
+      "title": "Historia • Form One • 2025",
+      "form": 1,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 42,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-c977ab3988ff9577",
+      "title": "Business • Form One • 2025",
+      "form": 1,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 33,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-d059bebfa47291f7",
+      "title": "Mkalama District Council • Chemistry • Form One • 2025",
+      "form": 1,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 27,
+      "unscoredResponses": 4
+    },
+    {
+      "sourceId": "source-d57b149cf9465339",
+      "title": "Nkerege Secondary School • Historia ya Tanzania na Maadili • Form One • 2025",
+      "form": 1,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 41,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-08ca2cd821a35126",
+      "title": "Moshi District Council • Biology • Form One • 2026",
+      "form": 1,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 42,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-1b61ec27372553a6",
+      "title": "Dar es Salaam City • Chemistry • Form One • 2025",
+      "form": 1,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 50,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-3cb4fd78472135b9",
+      "title": "Morogoro Municipal Council • Kiswahili • Form One • 2025",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 37,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-44cc9ec8f639a8a7",
+      "title": "Dar es Salaam City • Kiswahili • Form One • 2025",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 31,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-4831676f0d03963e",
+      "title": "Moshi District Council • Mathematics • Form One • 2026",
+      "form": 1,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 29,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-4ab986d08a4f1540",
+      "title": "Morogoro Municipal Council • Biology • Form One • 2025",
+      "form": 1,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 26,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-51f00554e2a9cb41",
+      "title": "Morogoro Municipal Council • English • Form One • 2025",
+      "form": 1,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 91,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-5e07c19752944cd8",
+      "title": "Moshi District Council • English • Form One • 2026",
+      "form": 1,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 64,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-6bdac1b165c6b6df",
+      "title": "Dar es Salaam City • Physics • Form One • 2025",
+      "form": 1,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 45,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-74559a7e0a8b9a75",
+      "title": "Moshi District Council • Physics • Form One • 2026",
+      "form": 1,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 32,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-7a52a8429f24dd9e",
+      "title": "Morogoro Municipal Council • Business Studies • Form One • 2025",
+      "form": 1,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 46,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-8d6cdce416f1dfcd",
+      "title": "Morogoro Municipal Council • Mathematics • Form One • 2025",
+      "form": 1,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 23,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-8d8741b25bb7c68f",
+      "title": "Moshi District Council • Geography • Form One • 2026",
+      "form": 1,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 64,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-904fb0abe67e22db",
+      "title": "Morogoro Municipal Council • Historia ya Tanzania na Maadili • Form One • 2025",
+      "form": 1,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 23,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-b7a0c6972b4250dc",
+      "title": "Moshi District Council • Business Studies • Form One • 2026",
+      "form": 1,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 24,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-be5bcf634dc9a761",
+      "title": "Dar es Salaam City • Geography • Form One • 2025",
+      "form": 1,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 35,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-c53d5ab5436e540b",
+      "title": "Dar es Salaam City • Historia ya Tanzania na Maadili • Form One • 2025",
+      "form": 1,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 51,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-cb72c35c422420ee",
+      "title": "Dar es Salaam City • Mathematics • Form One • 2025",
+      "form": 1,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 14,
+      "unscoredResponses": 7
+    },
+    {
+      "sourceId": "source-dc990931c03b742e",
+      "title": "Dar es Salaam City • Business Studies • Form One • 2025",
+      "form": 1,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 30,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-ea77027104de0364",
+      "title": "Morogoro Municipal Council • Chemistry • Form One • 2025",
+      "form": 1,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 38,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-eaa943cde43dff36",
+      "title": "Dar es Salaam City • Biology • Form One • 2025",
+      "form": 1,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 43,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-f041cceff6adf8e7",
+      "title": "Morogoro Municipal Council • Geography • Form One • 2025",
+      "form": 1,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 19,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-f2fa06ae74512159",
+      "title": "Moshi District Council • Kiswahili • Form One • 2026",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 24,
+      "unscoredResponses": 12
+    },
+    {
+      "sourceId": "source-fdf35496ef2658db",
+      "title": "Morogoro Municipal Council • Physics • Form One • 2025",
+      "form": 1,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 30,
+      "unscoredResponses": 13
+    },
+    {
+      "sourceId": "source-4b27f407b00db3a3",
+      "title": "NECTA FTNA • Biology • Form Two • 2023",
+      "form": 2,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 51,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-01f1e170e2d9bce7",
+      "title": "NECTA FTNA • Chemistry • Form Two • 2023",
+      "form": 2,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 64,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-2822d80d7883fb53",
+      "title": "NECTA FTNA • English Language • Form Two • 2023",
+      "form": 2,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 53,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-e7880386a9723de1",
+      "title": "NECTA FTNA • Geography • Form Two • 2023",
+      "form": 2,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 33,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-008cd0defec60484",
+      "title": "NECTA FTNA • Mathematics • Form Two • 2023",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 23,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-a1578619daa013b2",
+      "title": "NECTA FTNA • Biology • Form Two • 2022",
+      "form": 2,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 55,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-73feef9d42e2f50d",
+      "title": "NECTA FTNA • English Language • Form Two • 2022",
+      "form": 2,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 52,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-3e3434753d432bd9",
+      "title": "NECTA FTNA • Geography • Form Two • 2022",
+      "form": 2,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 37,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-7b055f03fdc6206c",
+      "title": "NECTA FTNA • Mathematics • Form Two • 2022",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 39,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-7f1e2fc4f2c1d2a3",
+      "title": "NECTA FTNA • Biology • Form Two • 2021",
+      "form": 2,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 67,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-4c5b7a088ed7d904",
+      "title": "NECTA FTNA • Chemistry • Form Two • 2021",
+      "form": 2,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 59,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-4cf58c6d4a8ea888",
+      "title": "NECTA FTNA • English Language • Form Two • 2021",
+      "form": 2,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 63,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-84fa6f94c9d0fb7b",
+      "title": "NECTA FTNA • Geography • Form Two • 2021",
+      "form": 2,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 35,
+      "unscoredResponses": 3
+    },
+    {
+      "sourceId": "source-f49fd880dad4f4a3",
+      "title": "NECTA FTNA • Mathematics • Form Two • 2021",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 36,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-5f321d2a9ee47f45",
+      "title": "NECTA FTNA • Mathematics • Form Two • 2024",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 23,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-97c06424e5823ff4",
+      "title": "NECTA FTNA • Biology • Form Two • 2024",
+      "form": 2,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 57,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-676fe04c2ca5d18d",
+      "title": "NECTA FTNA • Chemistry • Form Two • 2024",
+      "form": 2,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 39,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-0cb716c0571976ac",
+      "title": "NECTA FTNA • English Language • Form Two • 2024",
+      "form": 2,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 51,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-aa037aaf5c525213",
+      "title": "NECTA FTNA • Geography • Form Two • 2024",
+      "form": 2,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 32,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-b8b10eddefc04a13",
+      "title": "NECTA FTNA • Mathematics • Form Two • 2020",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 33,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-fcbbbd6f9fd616ba",
+      "title": "NECTA FTNA • Biology • Form Two • 2020",
+      "form": 2,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 71,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-4a793b07dd77488e",
+      "title": "NECTA FTNA • Chemistry • Form Two • 2020",
+      "form": 2,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 44,
+      "unscoredResponses": 3
+    },
+    {
+      "sourceId": "source-d9a78ded8d892ef5",
+      "title": "NECTA FTNA • English Language • Form Two • 2020",
+      "form": 2,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 67,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-4ee1d4416aa0de42",
+      "title": "NECTA FTNA • Geography • Form Two • 2019",
+      "form": 2,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 38,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-13317c795549c9bb",
+      "title": "NECTA FTNA • Kiswahili • Form Two • 2024",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 55,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-abba530e1820fa75",
+      "title": "NECTA FTNA • Kiswahili • Form Two • 2023",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 54,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-06306010d99b6063",
+      "title": "NECTA FTNA • Kiswahili • Form Two • 2022",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 54,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-fde5c735289120f4",
+      "title": "NECTA FTNA • Kiswahili • Form Two • 2021",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 46,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-9a545880d8280277",
+      "title": "NECTA FTNA • Kiswahili • Form Two • 2020",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 56,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-fcc1f2e2f412ba0e",
+      "title": "Form Two Secondary Education Examination • Kiswahili • Form Two • 2013",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 41,
+      "unscoredResponses": 6
+    },
+    {
+      "sourceId": "source-03da68ba284ee25f",
+      "title": "Form Two Secondary Education Examination • Kiswahili • Form Two • 2012",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 40,
+      "unscoredResponses": 7
+    },
+    {
+      "sourceId": "source-817d378b48f73ba6",
+      "title": "NECTA FTNA • Physics • Form Two • 2024",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 32,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-a05f50934150b37a",
+      "title": "NECTA FTNA • Physics • Form Two • 2023",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 42,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-470e88f8383bd46d",
+      "title": "NECTA FTNA • Physics • Form Two • 2022",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 44,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-17f8c44c1462848b",
+      "title": "NECTA FTNA • Physics • Form Two • 2021",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 54,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-90d766f3e7dcb2a4",
+      "title": "NECTA FTNA • Physics • Form Two • 2020",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 58,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-4128880adbbc7af0",
+      "title": "Form Two Secondary Education Examination • Physics • Form Two • 2012",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 53,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-8083df0fd6599a7f",
+      "title": "Form Two Secondary Education Examination • Physics • Form Two • 2011",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 47,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-cf60ecfc976c4929",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Physics • Form One • 2025",
+      "form": 1,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 49,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-beec7230ba202638",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Mathematics • Form One • 2025",
+      "form": 1,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 27,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-0b1b118a81062c00",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Kiswahili • Form One • 2025",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 61,
+      "unscoredResponses": 3
+    },
+    {
+      "sourceId": "source-8e2f9260031a5b15",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • English Language • Form One • 2025",
+      "form": 1,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 72,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-01685f87a6f1dc96",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Chemistry • Form One • 2025",
+      "form": 1,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 50,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-d39b70b70872d3af",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Business Studies • Form One • 2025",
+      "form": 1,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 25,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-b58457eeb37bed01",
+      "title": "Catholic Diocese of Kigoma • Diocesan annual examination • Biology • Form One • 2025",
+      "form": 1,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 52,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-117f4702ba82f740",
+      "title": "Songwe Region • Regional annual joint assessment • Physics • Form One • 2025",
+      "form": 1,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 56,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-5b2a1fe88807b36f",
+      "title": "Songwe Region • Regional annual joint assessment • Mathematics • Form One • 2025",
+      "form": 1,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 29,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-3ec995304ddd0ce7",
+      "title": "Songwe Region • Regional annual joint assessment • Historia ya Tanzania na Maadili • Form One • 2025",
+      "form": 1,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 16,
+      "unscoredResponses": 3
+    },
+    {
+      "sourceId": "source-717d2c58c84d3963",
+      "title": "Songwe Region • Regional annual joint assessment • Kiswahili • Form One • 2025",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 47,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-a6168ddd172148ce",
+      "title": "Songwe Region • Regional annual joint assessment • Geography • Form One • 2025",
+      "form": 1,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 24,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-8302435c3f20ce3c",
+      "title": "Songwe Region • Regional annual joint assessment • English Language • Form One • 2025",
+      "form": 1,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 65,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-0d508bbfeb8b7997",
+      "title": "Songwe Region • Regional annual joint assessment • Chemistry • Form One • 2025",
+      "form": 1,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 63,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-84c1db7dc3d3cc61",
+      "title": "Songwe Region • Regional annual joint assessment • Biology • Form One • 2025",
+      "form": 1,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 44,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-8741fd7cb28631b1",
+      "title": "Kagera Region • Regional annual examination • Chemistry • Form One • 2025",
+      "form": 1,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 45,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-9c800a621d7d50a1",
+      "title": "Kagera Region • Regional annual examination • Physics • Form One • 2025",
+      "form": 1,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 48,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-76ec0fefb4326053",
+      "title": "Kagera Region • Regional annual examination • Geography • Form One • 2025",
+      "form": 1,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 35,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-76ba5b7bc68bc768",
+      "title": "Kagera Region • Regional annual examination • Biology • Form One • 2025",
+      "form": 1,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 38,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-887f9f64255ec06f",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Physics • Form One • 2026",
+      "form": 1,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 39,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-7466233652259dd5",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Mathematics • Form One • 2026",
+      "form": 1,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 29,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-77e5d244c28a52d8",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Kiswahili • Form One • 2026",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 60,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-7df73ce470e9cc4d",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Historia ya Tanzania na Maadili • Form One • 2026",
+      "form": 1,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 47,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-b749c4ada4b5eeeb",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Geography • Form One • 2026",
+      "form": 1,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 31,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-6130758feb804567",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Chemistry • Form One • 2023",
+      "form": 1,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 40,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-64ba2e9b9aebacc4",
+      "title": "Wanging’ombe District Council • District joint mid-term examination • Biology • Form One • 2026",
+      "form": 1,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 48,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-d668c0b335d6d596",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Biology • 2015",
+      "form": 2,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 64,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-3a0c9bfebac04715",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Biology • 2011",
+      "form": 2,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 70,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-f1950e79f20619eb",
+      "title": "Markaz Islamic Seminary • Midterm Examination • Mathematics • 2026",
+      "form": 1,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 10,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-1de05e992c8caf11",
+      "title": "Markaz Islamic Seminary • Midterm Examination • Historia ya Tanzania na Maadili • 2026",
+      "form": 1,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 43,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-cc7f479d2ce9f28f",
+      "title": "Markaz Islamic Seminary • Midterm Examination • English Language • 2026",
+      "form": 1,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 51,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-06ca697e21536f9b",
+      "title": "Markaz Islamic Seminary • Midterm Examination • Business Studies • 2026",
+      "form": 1,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 33,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-4bec972259c917e4",
+      "title": "Kilimanjaro Regional Commissioner’s Office • Form One Regional Joint Examination • Historia ya Tanzania na Maadili • 2025",
+      "form": 1,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 23,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-5d487476aa996b95",
+      "title": "Kilimanjaro Regional Commissioner’s Office • Form One Regional Joint Examination • English Language • 2025",
+      "form": 1,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 53,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-2429bf79a19c64e0",
+      "title": "Kilimanjaro Regional Commissioner’s Office • Form One Regional Joint Examination • Business Studies • 2025",
+      "form": 1,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 36,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-51573f3a30109107",
+      "title": "Markaz Islamic Seminary • Form One Midterm Examination • Geography • 2026",
+      "form": 1,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 31,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-71c6beef4bf87403",
+      "title": "Kilimanjaro Regional Commissioner’s Office • Form One Annual Examination • Kiswahili • 2025",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 55,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-988a18bc983e4270",
+      "title": "Kilimanjaro Regional Commissioner’s Office • Form One Annual Examination • Biology • 2025",
+      "form": 1,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 59,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-14b1f7f4a19f35e3",
+      "title": "St. Aloysius Girls’ Secondary School • Form One First Continuous Assessment • Geography • 2026",
+      "form": 1,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 48,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-50efe1d0adc25e36",
+      "title": "St. Aloysius Girls’ Secondary School • Form One First Continuous Assessment • English Language • 2026",
+      "form": 1,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 51,
+      "unscoredResponses": 5
+    },
+    {
+      "sourceId": "source-fccb7d7e7298d1fc",
+      "title": "St. Aloysius Girls’ Secondary School • Form One First Continuous Assessment • Biology • 2026",
+      "form": 1,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 60,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-67bce258decc0628",
+      "title": "Markaz Islamic Seminary • Form One Midterm Examination • Physics • 2026",
+      "form": 1,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 52,
+      "unscoredResponses": 7
+    },
+    {
+      "sourceId": "source-c5b3184f094b12bf",
+      "title": "Markaz Islamic Seminary • Form One Midterm Examination • Kiswahili • 2026",
+      "form": 1,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 56,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-cb367c115ccc472e",
+      "title": "Markaz Islamic Seminary • Form One Midterm Examination • Chemistry • 2026",
+      "form": 1,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 44,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-56bb7e30744c8188",
+      "title": "St. Aloysius Girls’ Secondary School • Form One Midterm Examination • Mathematics • 2026",
+      "form": 1,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 21,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-cb0b71ad8e4e2e39",
+      "title": "St. Aloysius Girls’ Secondary School • Form One Midterm Examination • Historia ya Tanzania na Maadili • 2026",
+      "form": 1,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 18,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-d476660506f85f6a",
+      "title": "St. Aloysius Girls’ Secondary School • Form One Midterm Examination • Geography • 2026",
+      "form": 1,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 40,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-8bec80d3a1e6f906",
+      "title": "St. Aloysius Girls’ Secondary School • Form One Midterm Examination • English Language • 2026",
+      "form": 1,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 53,
+      "unscoredResponses": 3
+    },
+    {
+      "sourceId": "source-22e77144999070f3",
+      "title": "St. Aloysius Girls’ Secondary School • Form One Midterm Examination • Biology • 2026",
+      "form": 1,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 57,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-040c2128ed32e508",
+      "title": "St. Aloysius Girls’ Secondary School • Form One Midterm Examination • Business Studies • 2026",
+      "form": 1,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 31,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-3b383a6f12e58e0b",
+      "title": "National Examinations Council of Tanzania • Form Two National Assessment • Mathematics • 2019",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 26,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-14fc99ff6a400195",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Mathematics • 2015",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 25,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-218bb361988deab6",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Mathematics • 2014",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 25,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-3cb56c29c09deef4",
+      "title": "Ministry of Education and Vocational Training • Form Two Secondary Education Examination • Mathematics • 2013",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 27,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-1632ec0fa4b3350c",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Mathematics • 2011",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 26,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-bd74b712f673b5ad",
+      "title": "Ministry of Education and Vocational Training • Form Two Secondary Education Examination • Mathematics • 2007",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 27,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-71fb156d9c45fb57",
+      "title": "Ministry of Education and Culture • Form Two Secondary Education Examination • Mathematics • 2005",
+      "form": 2,
+      "subjectId": "mathematics",
+      "converted": true,
+      "scoredItems": 36,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-4412551423301ab8",
+      "title": "National Examinations Council of Tanzania • Form Two National Assessment • Physics • 2019",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 59,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-fae901368e55cacc",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Physics • 2014",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 55,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-d50d3e6a0a650a38",
+      "title": "Ministry of Education and Vocational Training • Form Two Secondary Education Examination • Physics • 2013",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 47,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-1de1c6507c0b90d5",
+      "title": "Ministry of Education and Vocational Training • Form Two Secondary Education Examination • Physics • 2010",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 38,
+      "unscoredResponses": 9
+    },
+    {
+      "sourceId": "source-ae8bdba961b173b9",
+      "title": "Ministry of Education and Vocational Training • Form Two Secondary Education Examination • Physics • 2009",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 40,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-34eec3c15ad4699d",
+      "title": "Ministry of Education and Vocational Training • Form Two Secondary Education Examination • Physics • 2008",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 44,
+      "unscoredResponses": 4
+    },
+    {
+      "sourceId": "source-ef90fa07b12c286c",
+      "title": "Ministry of Education and Vocational Training • Form Two Secondary Education Examination • Physics • 2007",
+      "form": 2,
+      "subjectId": "physics",
+      "converted": true,
+      "scoredItems": 47,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-d0d40d886c8da009",
+      "title": "Ministry of Education and Vocational Training • Form Two Secondary Education Examination • English Language • 2008",
+      "form": 2,
+      "subjectId": "english",
+      "converted": true,
+      "scoredItems": 66,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-a1d6e27d34cdae73",
+      "title": "Ministry of Education and Vocational Training • Form Two Secondary Education Examination • Geography • 2012",
+      "form": 2,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 47,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-1360b80b22e7d808",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Geography • 2009",
+      "form": 2,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 43,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-430c06188c40852c",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Geography • 2008",
+      "form": 2,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 38,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-2259b4b37a9c7e71",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Geography • 2007",
+      "form": 2,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 36,
+      "unscoredResponses": 3
+    },
+    {
+      "sourceId": "source-d87cb371f43187a2",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Geography • 2005",
+      "form": 2,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 43,
+      "unscoredResponses": 4
+    },
+    {
+      "sourceId": "source-edb7b4b380899633",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Geography • 2004",
+      "form": 2,
+      "subjectId": "geography",
+      "converted": true,
+      "scoredItems": 45,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-db614b6721c131f1",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Kiswahili • 2010",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 50,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-d6842066e1b26513",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Kiswahili • 2009",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 40,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-9e921fa674070fcc",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Kiswahili • 2008",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 43,
+      "unscoredResponses": 2
+    },
+    {
+      "sourceId": "source-d23fc1f5437647e1",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Kiswahili • 2007",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 46,
+      "unscoredResponses": 8
+    },
+    {
+      "sourceId": "source-5b425b06adb64822",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Kiswahili • 2006",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 55,
+      "unscoredResponses": 8
+    },
+    {
+      "sourceId": "source-3d5d0eb5d242995d",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Kiswahili • 2005",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 52,
+      "unscoredResponses": 3
+    },
+    {
+      "sourceId": "source-2fa48337ba0b876a",
+      "title": "National Examinations Council of Tanzania • Form Two Secondary Education Examination • Kiswahili • 2004",
+      "form": 2,
+      "subjectId": "kiswahili",
+      "converted": true,
+      "scoredItems": 42,
+      "unscoredResponses": 7
+    },
+    {
+      "sourceId": "source-040b48814517ee64",
+      "title": "Arusha Region • Pre-mock examination • Business Studies • Form Two • 2026",
+      "form": 2,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 29,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-07ed95157992d9d1",
+      "title": "Arusha Region • Pre-mock examination • Historia ya Tanzania na Maadili • Form Two • 2026",
+      "form": 2,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 19,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-0d8cc4e5309a9d85",
+      "title": "Arusha Region • Pre-mock examination • Biology • Form Two • 2026",
+      "form": 2,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 45,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-45a6c3ce3aaa29ea",
+      "title": "St Aloysius Girls’ Secondary School • First continuous assessment • Business Studies • Form Two • 2026",
+      "form": 2,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 35,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-53de7eb998f80037",
+      "title": "Kagera Region • March regional test • Biology • Form Two • 2026",
+      "form": 2,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 47,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-64414f6bb0cbda08",
+      "title": "Morogoro Region • Terminal examination • Chemistry • Form Two • 2026",
+      "form": 2,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 58,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-896ae58d385e3e98",
+      "title": "Intersecondary Schools Examination Series • July opening test • Chemistry • Form Two • 2026",
+      "form": 2,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 50,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-92b77baf170595e7",
+      "title": "Intersecondary Schools Examination Series • Jaribio la utangulizi • Historia ya Tanzania na Maadili • Form Two • 2026",
+      "form": 2,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 31,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-9cffc31c58fd006e",
+      "title": "Arusha Region • March examination • Chemistry • Form Two • 2026",
+      "form": 2,
+      "subjectId": "chemistry",
+      "converted": true,
+      "scoredItems": 52,
+      "unscoredResponses": 3
+    },
+    {
+      "sourceId": "source-b2da0c9d2a0861e9",
+      "title": "Morogoro Region • Terminal examination • Business Studies • Form Two • 2026",
+      "form": 2,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 30,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-c043bb387510cb23",
+      "title": "Kagera Region • Regional assessment • Business Studies • Form Two • 2026",
+      "form": 2,
+      "subjectId": "business",
+      "converted": true,
+      "scoredItems": 24,
+      "unscoredResponses": 0
+    },
+    {
+      "sourceId": "source-c2c42dac6ee65bf0",
+      "title": "Biharamulo District Council • Terminal assessment • Historia ya Tanzania na Maadili • Form Two • 2026",
+      "form": 2,
+      "subjectId": "historia",
+      "converted": true,
+      "scoredItems": 34,
+      "unscoredResponses": 1
+    },
+    {
+      "sourceId": "source-d0962e3d0f9b0de9",
+      "title": "Morogoro Region • Terminal examination • Biology • Form Two • 2026",
+      "form": 2,
+      "subjectId": "biology",
+      "converted": true,
+      "scoredItems": 83,
+      "unscoredResponses": 1
+    }
+  ]
+}

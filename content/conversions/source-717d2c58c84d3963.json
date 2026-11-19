@@ -1,0 +1,423 @@
+{
+  "sourceId": "source-717d2c58c84d3963",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Upatanisho wa kisarufi huhusisha makubaliano ya viambishi na mahusiano ya maneno.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Viunganishi huunganisha sentensi na mawazo katika aya.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Mkazo wa kawaida huangukia silabi ya pili kutoka mwisho wa neno.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Kiimbo cha kuuliza kinaweza kupanda; hutegemea pia aina na muktadha wa swali.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Kamusi ya tiba au fasihi hushughulikia fani mahususi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Muktadha na uhusiano wa wahusika huamua lugha inayofaa.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Chini ya huonesha uhusiano wa mahali.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Lafudhi inaweza kudokeza asili ya lugha au eneo la mzungumzaji.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Kuweka maneno si dhima ya mawasiliano iliyoainishwa hapa.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Kuelewa utamaduni husaidia kutumia lugha kwa kufaa katika muktadha.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Wetu huonesha umilikaji wa mwalimu.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Wale huonesha wanafunzi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Kichau ni jina linalotambulisha mjomba.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Wangapi huuliza idadi ya wanakijiji.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Watatu hutaja idadi ya watoto.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Huonesha mahali mwandishi alipo.",
+        "explanation": "Huonesha mahali mwandishi alipo."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Humpa mpokeaji anwani ya kutuma jibu.",
+        "explanation": "Humpa mpokeaji anwani ya kutuma jibu."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Husaidia kutambua mahali pa asili ya barua.",
+        "explanation": "Husaidia kutambua mahali pa asili ya barua."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Kidahizo ni fumbua.",
+        "explanation": "Neno linalofafanuliwa hutangulia maelezo."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "/fumbua/ huonesha namna ya kulitamka neno.",
+        "explanation": "Matamshi ni taarifa ya kifonolojia katika kitomeo."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Kt ni kifupisho cha kitenzi.",
+        "explanation": "Kifupisho kinaonesha aina ya neno."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Ele huelekeza kwenye aina ya kitenzi elekezi.",
+        "explanation": "Kitenzi elekezi kinaweza kuchukua yambwa."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Mahali pa kutamkia sauti.",
+        "explanation": "Mahali pa kutamkia sauti."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Namna hewa inavyozuiwa au kupitishwa.",
+        "explanation": "Namna hewa inavyozuiwa au kupitishwa."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Utendaji wa nyuzi sauti, yaani ghuna au si ghuna.",
+        "explanation": "Utendaji wa nyuzi sauti, yaani ghuna au si ghuna."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Vya kuunganisha: na.",
+        "explanation": "Vya kuunganisha: na."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Vya uchaguzi: au.",
+        "explanation": "Vya uchaguzi: au."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Vya kinyume: lakini.",
+        "explanation": "Vya kinyume: lakini."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Vya sababu: kwa sababu.",
+        "explanation": "Vya sababu: kwa sababu."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Vya masharti: ikiwa.",
+        "explanation": "Vya masharti: ikiwa."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Hutamka maneno kwa usahihi.",
+        "explanation": "Hutamka maneno kwa usahihi."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Hupanga hoja kwa mtiririko.",
+        "explanation": "Hupanga hoja kwa mtiririko."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Hutumia sauti inayosikika.",
+        "explanation": "Hutumia sauti inayosikika."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Huzingatia hadhira na muktadha.",
+        "explanation": "Huzingatia hadhira na muktadha."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Hutumia ishara na lugha ya heshima.",
+        "explanation": "Hutumia ishara na lugha ya heshima."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Taarifa za nchi.",
+        "explanation": "Sherehe huweza kutoa maarifa ya ziada nje ya orodha ya vidahizo."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Vipimo vya urefu.",
+        "explanation": "Majedwali ya vipimo husaidia msomaji kufasiri taarifa."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Vipimo vya uzito.",
+        "explanation": "Vipimo vinaweza kulinganishwa katika viambatisho."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Majina ya wanyama.",
+        "explanation": "Orodha maalumu hurahisisha marejeo."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Vifupisho vinavyotumika.",
+        "explanation": "Vifupisho hufafanuliwa ili kamusi itumike kwa usahihi."
+      },
+      {
+        "label": "8(vi)",
+        "type": "written",
+        "answer": "Orodha au majedwali ya taarifa za ziada.",
+        "explanation": "Toleo la kamusi ndilo huamua taarifa hasa zilizojumuishwa; thibitisha katika sherehe yake."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Kila lugha huwasilisha mahitaji na mawazo ya watumiaji wake.",
+        "explanation": "Kila lugha huwasilisha mahitaji na mawazo ya watumiaji wake."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Kila lugha ina kanuni zake za sarufi.",
+        "explanation": "Kila lugha ina kanuni zake za sarufi."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Lugha zote huweza kupanua msamiati kwa dhana mpya.",
+        "explanation": "Lugha zote huweza kupanua msamiati kwa dhana mpya."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Kila lugha hubeba utamaduni na historia ya jamii.",
+        "explanation": "Kila lugha hubeba utamaduni na historia ya jamii."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Idadi ya wazungumzaji haiamui uwezo wa lugha.",
+        "explanation": "Idadi ya wazungumzaji haiamui uwezo wa lugha."
+      },
+      {
+        "label": "9(vi)",
+        "type": "written",
+        "answer": "Hadhi ya kisiasa au kiuchumi haiwezi kufanya lugha iwe bora kiasili.",
+        "explanation": "Hadhi ya kisiasa au kiuchumi haiwezi kufanya lugha iwe bora kiasili."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "review",
+        "answer": "Karatasi hutumia neno “kimai” bila kulifafanua. Haiwezekani kubainisha kwa uhakika kama inakusudia insha, kipengele cha kifonetiki au aina nyingine ya tungo. Omba ufafanuzi wa neno hilo kabla ya kutunga nusu ukurasa.",
+        "explanation": "Neno la agizo haliko wazi. Hifadhi maandishi ya chanzo na epuka kudai kuwa aina fulani ya tungo ndiyo jibu la lazima."
+      }
+    ]
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "sourceId": "source-0cb716c0571976ac",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Marital status records whether someone is married.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Furious means angry.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "At identifies the meeting place.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Not anybody means nobody.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "At this moment takes the present progressive.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Daily, usually and always mark repetition.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "How do you sell asks about method rather than a specific price.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Will be eating from next Monday describes a future routine.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Going to refers to a planned future event.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A numerical reported result is a checkable factual claim.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Cruelty causes suffering.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Greed means wanting excessive things.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Gentleness is careful, calm behaviour.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Good-heartedness is willingness to help.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Generosity is willingness to give.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Host’s name",
+        "explanation": "Identifies who is inviting."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Guest’s name",
+        "explanation": "Identifies the person invited."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Purpose or event",
+        "explanation": "Explains what will happen."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Date and time",
+        "explanation": "Tells when to attend."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Venue and reply contact",
+        "explanation": "Tells where to go and how to respond."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Noun and verb",
+        "explanation": "The entry labels both word classes."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "A vehicle device making a loud warning or signal sound.",
+        "explanation": "This is the fifth numbered noun sense."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "British /hɔːn/; American /hɔːrn/.",
+        "explanation": "The slashes show phonetic pronunciation."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "On the horns of a dilemma.",
+        "explanation": "The idiom means facing equally unpleasant choices; other printed idioms are acceptable."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "To involve yourself in a matter that does not concern you.",
+        "explanation": "This is the meaning of horn in on somebody or something."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "The referee blew the whistle to start the match.",
+        "explanation": "Use both supplied expressions in a grammatical sentence describing a football event."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "The striker scored a goal in the second half.",
+        "explanation": "Use both supplied expressions in a grammatical sentence describing a football event."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Many spectators filled the stadium.",
+        "explanation": "Use both supplied expressions in a grammatical sentence describing a football event."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "The winger sent a shot towards the goalkeeper.",
+        "explanation": "Use both supplied expressions in a grammatical sentence describing a football event."
+      },
+      {
+        "label": "5(vi)",
+        "type": "written",
+        "answer": "The centre half stepped forward while the striker was offside.",
+        "explanation": "Use both supplied expressions in a grammatical sentence describing a football event."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Heavy training, resting and taking soft drinks.",
+        "explanation": "These activities appear on Tuesday."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "A long run and watching videos of other teams’ games.",
+        "explanation": "These are the Thursday activities."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Monday morning.",
+        "explanation": "Treatment is in Monday’s morning session."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Tuesday.",
+        "explanation": "Rest and soft drinks appear on Tuesday."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Friday.",
+        "explanation": "The coach explains the match plan on Friday."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Mr Kingu.",
+        "explanation": "He is the caller and father."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Uledi’s mother.",
+        "explanation": "Mr Kingu asks to speak to her and leaves a message for her."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "11:00 a.m.",
+        "explanation": "The caller states the time."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "11 September 2024.",
+        "explanation": "The caller states the date."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "His phone was stolen, so she should contact him through Mr Upatu during that week.",
+        "explanation": "This is the practical information to pass on."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Listen for the main ideas.",
+        "explanation": "Prioritise the speaker’s central points."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Use short forms and symbols.",
+        "explanation": "They save time."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Record names, numbers and decisions accurately.",
+        "explanation": "These details may be essential."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Organise points with headings and spacing.",
+        "explanation": "Structure makes notes easier to review."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Review and clarify the notes soon afterwards.",
+        "explanation": "Fill gaps while the meaning is still fresh."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "I like reading stories.",
+        "explanation": "Like can take an -ing complement."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "I dislike wasting water.",
+        "explanation": "Dislike takes an -ing complement."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "My hobby is gardening.",
+        "explanation": "Hobby is a noun for a leisure activity."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "We enjoy playing chess.",
+        "explanation": "Enjoy takes an -ing complement."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "I prefer tea to coffee.",
+        "explanation": "Prefer compares choices using to."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "In Mabala the Farmer, Mama Martina shows hard work, practical planning and responsibility for the family. These practices help the family cope with farming difficulties. In Hawa the Bus Driver, Hawa’s persistence, commitment to her work and courage in facing prejudice are practices worth imitating.",
+        "explanation": "Use three distinct practices from each of two readers and support each with a concrete incident from the text. Accept other accurate practices and readers."
+      }
+    ]
+  }
+}

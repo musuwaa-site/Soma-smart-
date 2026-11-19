@@ -1,0 +1,241 @@
+{
+  "sourceId": "source-f49fd880dad4f4a3",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)(i)",
+        "type": "written",
+        "answer": "Four hundred and ninety-eight thousand and thirty.",
+        "explanation": "Group digits into thousands and units."
+      },
+      {
+        "label": "1(a)(ii)",
+        "type": "written",
+        "answer": "4.9803×10⁵",
+        "explanation": "Move the decimal five places left."
+      },
+      {
+        "label": "1(a)(iii)",
+        "type": "written",
+        "answer": "30",
+        "explanation": "The first positive common multiple of 3,10 and15 is30."
+      },
+      {
+        "label": "1(b)(i)",
+        "type": "written",
+        "answer": "999,999,901",
+        "explanation": "Combine 999 million,999 thousand and901."
+      },
+      {
+        "label": "1(b)(ii) 400780",
+        "type": "written",
+        "answer": "Five significant figures; to one significant figure, 400,000.",
+        "explanation": "The internal zeros are significant; the unmarked final zero is conventionally a place holder."
+      },
+      {
+        "label": "1(b)(ii) 0.00606",
+        "type": "written",
+        "answer": "Three significant figures; to one significant figure, 0.006.",
+        "explanation": "Leading zeros are not significant, but the internal zero is."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)(i)",
+        "type": "written",
+        "answer": "1/2, 5/8, 2/3, 3/4",
+        "explanation": "Compare values 0.5,0.625,0.666… and0.75."
+      },
+      {
+        "label": "2(a)(ii)",
+        "type": "written",
+        "answer": "5/32",
+        "explanation": "Multiply numerators and denominators: 30/192 simplifies to5/32."
+      },
+      {
+        "label": "2(b)",
+        "type": "written",
+        "answer": "Tsh 12,600",
+        "explanation": "36% of50,000 is18,000; 0.02 of270,000 is5,400. Subtract."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "11.65 m",
+        "explanation": "500 cm=5 m and3150 mm=3.15 m. Add3.5 m."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "6 years",
+        "explanation": "For simple interest, t=4800/(20000×0.04)."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Rhombus",
+        "explanation": "The marks show four equal sides and opposite parallel sides."
+      },
+      {
+        "label": "4(a)(ii) x",
+        "type": "written",
+        "answer": "30°",
+        "explanation": "Adjacent angles in a parallelogram sum to180°, so x+150=180."
+      },
+      {
+        "label": "4(a)(ii) y",
+        "type": "written",
+        "answer": "150°",
+        "explanation": "Opposite angles in a parallelogram are equal."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "49 +147π/4 cm², or164.5 cm² using π=22/7.",
+        "explanation": "The region is a7×7 square plus three quarters of a circle of radius7."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a) father",
+        "type": "written",
+        "answer": "48 years",
+        "explanation": "Let the son's age be s. Then3s+s=64."
+      },
+      {
+        "label": "5(a) son",
+        "type": "written",
+        "answer": "16 years",
+        "explanation": "Divide64 by4."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "x=−3 or x=−4",
+        "explanation": "Factor x²+7x+12 as(x+3)(x+4)."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a) slope",
+        "type": "written",
+        "answer": "1/3",
+        "explanation": "Rise/run=(6−4)/(12−6)."
+      },
+      {
+        "label": "6(a) equation",
+        "type": "written",
+        "answer": "y=x/3+2",
+        "explanation": "Substitute(6,4) into y=mx+c."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "(−2,−6)",
+        "explanation": "Add the translation vector(−3,−4) to(1,−2)."
+      },
+      {
+        "label": "6(b)(ii) A",
+        "type": "written",
+        "answer": "(5,2)",
+        "explanation": "Reflection in the y-axis reverses x."
+      },
+      {
+        "label": "6(b)(ii) B",
+        "type": "written",
+        "answer": "(−4,−7)",
+        "explanation": "Reflection in the y-axis reverses x."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "x=0 or x=1/16",
+        "explanation": "Rewrite as3^(−√x)=3^(−4x). Thus√x=4x; putting u=√x gives u(4u−1)=0."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "x=10",
+        "explanation": "Subtract logarithms: log(x²/10)=1. Thus x²=100, and positive log arguments require x>0."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "The triangles are congruent by AAS.",
+        "explanation": "Both have right angles, the angles at A are vertically opposite, and PX=QY. State corresponding vertices X↔Y,P↔Q,A↔A."
+      },
+      {
+        "label": "8(b) x",
+        "type": "written",
+        "answer": "30°",
+        "explanation": "Subtract90° and60° from180°."
+      },
+      {
+        "label": "8(b) y",
+        "type": "written",
+        "answer": "60°",
+        "explanation": "The similarity order ABC↔DEF maps A to D."
+      },
+      {
+        "label": "8(b) z",
+        "type": "written",
+        "answer": "30°",
+        "explanation": "The similarity maps C to F."
+      },
+      {
+        "label": "8(b) w",
+        "type": "written",
+        "answer": "90°",
+        "explanation": "The similarity maps B to E."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "x=10 cm",
+        "explanation": "The altitude PS has length√(17²−15²)=8. Then PR=√(8²+6²)."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "37.3 m",
+        "explanation": "Height=80 tan25°. The ground, wall and sight line form a right triangle."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "5 students",
+        "explanation": "17 debate participants include12 who do both."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "13 students",
+        "explanation": "Every student participates. The complement of the17 debate participants is30−17."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "Age13:2;14:3;15:5;16:6;17:3;18:1.",
+        "explanation": "Tally each of the20 ages once."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "Plot and join(13,2),(14,3),(15,5),(16,6),(17,3),(18,1), with zero endpoints(12,0),(19,0).",
+        "explanation": "Use age horizontally and frequency vertically; join successive points with straight lines."
+      }
+    ]
+  }
+}

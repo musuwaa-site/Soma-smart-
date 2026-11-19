@@ -1,0 +1,507 @@
+{
+  "sourceId": "source-fae901368e55cacc",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Physics studies matter and energy."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Friction wears surfaces that slide together."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Atmospheric density generally decreases with height."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The ferry’s average density is below seawater’s."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Balance 50×80 =150×b, so b≈26.7 cm."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A narrow tip concentrates force into a small area."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A freely suspended magnetic needle aligns with the magnetic meridian."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Increasing the mirror angle decreases 360°/θ−1."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Human bodies are opaque to visible light."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A periscope redirects rays around an obstacle."
+      },
+      {
+        "label": "1(xi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Water enters cells through selectively permeable membranes by osmosis."
+      },
+      {
+        "label": "1(xii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Mercury boils near 357°C, often rounded to 360°C in school tables."
+      },
+      {
+        "label": "1(xiii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "The area gives displacement; it equals distance for motion without reversal."
+      },
+      {
+        "label": "1(xiv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "With the usual 0.01 mm least count, 0.5/0.01=50 divisions."
+      },
+      {
+        "label": "1(xv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Cobalt is ferromagnetic."
+      },
+      {
+        "label": "1(xvi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "An electrophorus can repeatedly produce charge by induction."
+      },
+      {
+        "label": "1(xvii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Charge describes an excess or deficit of electrons."
+      },
+      {
+        "label": "1(xviii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A generator requires an energy input and does not itself name a renewable source."
+      },
+      {
+        "label": "1(xix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "F=9×68/5+32=154.4°F."
+      },
+      {
+        "label": "1(xx)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Equal and opposite interaction forces form Newton’s third-law pair."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "K",
+          "iii": "G",
+          "iv": "I",
+          "v": "J",
+          "vi": "C",
+          "vii": "E",
+          "viii": "I"
+        },
+        "explanation": "Distance records the path length; displacement the net directed position change; speed is distance per time; velocity is displacement per time; constant velocity is uniform velocity; acceleration changes velocity; free fall is motion under gravity."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Linear momentum.",
+        "explanation": "Momentum = mass × velocity."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "First class.",
+        "explanation": "The fulcrum lies between effort and load."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Force.",
+        "explanation": "Weight is a gravitational force, measured in newtons."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Manometer.",
+        "explanation": "It compares gas pressure with a reference pressure."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Capillarity.",
+        "explanation": "Surface tension and adhesion can raise a liquid in a narrow tube."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Fundamental quantities are independently defined base quantities, for example length and mass.",
+        "explanation": "Their SI units include metre and kilogram."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Derived quantities combine base quantities, for example speed and density.",
+        "explanation": "Speed is distance/time and density is mass/volume."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "200 cm³.",
+        "explanation": "The water reading rises from 100 to 300 cm³."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "0.25 g/cm³.",
+        "explanation": "Divide the stated 50 g by the 200 cm³ displaced. The unexpectedly low density follows the stated numbers."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Virtual and upright; also same size and laterally inverted.",
+        "explanation": "Reflected rays appear to originate behind the mirror at the same distance as the object."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Air molecules scatter shorter visible wavelengths more strongly.",
+        "explanation": "Blue light is scattered across the sky into the eye."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Draw straight equally spaced rays with arrowheads pointing in the same direction.",
+        "explanation": "Parallel rays neither meet nor spread apart."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Draw rays spreading from one point, with arrowheads away from the point.",
+        "explanation": "Their separation increases with travel."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Draw rays approaching one common point, with arrowheads towards it.",
+        "explanation": "Their separation decreases to zero at the convergence point."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Work is energy transferred when a force moves its point of application through a displacement; SI unit joule.",
+        "explanation": "For a parallel constant force W=Fs."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Energy is the capacity to do work; SI unit joule.",
+        "explanation": "Energy may be stored or transferred between systems."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "800 J.",
+        "explanation": "W=mgh=20×10×4."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "80 W.",
+        "explanation": "Power=work/time=800/10."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "For rotational equilibrium, total clockwise moment equals total anticlockwise moment about the same pivot.",
+        "explanation": "The resultant turning effect is zero."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "90 g, assuming the 30 g body hangs at the 5 cm mark.",
+        "explanation": "The uniform rule’s weight acts at 25 cm. Balance 30×15 = M×5."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Equilibrium means zero resultant force and zero resultant moment.",
+        "explanation": "The body has no translational or angular acceleration."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Balancing a beam balance, supporting a standing person, and balancing a see-saw.",
+        "explanation": "In each static example forces and turning effects balance."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Inertia is the tendency to resist changes in velocity.",
+        "explanation": "Mass measures translational inertia."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Impulse is the product of force and duration, equal to change in momentum.",
+        "explanation": "Its unit is N·s or kg·m/s."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Airbags lengthen collision time to reduce average force; a batter changes a ball’s momentum during impact.",
+        "explanation": "For a given momentum change, average force is inversely proportional to interaction time."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "60 N opposite to the ball’s original motion.",
+        "explanation": "Change in momentum magnitude=0.120×10=1.2 kg·m/s; divide by 0.02 s."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "A rheostat varies circuit resistance to control current.",
+        "explanation": "Moving the contact changes the active length of resistance wire."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Length, cross-sectional area, material resistivity and temperature.",
+        "explanation": "R=ρL/A, with resistivity also varying with temperature."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "1 A.",
+        "explanation": "The parallel branches share voltage. The 5 Ω branch has 2×5=10 V, so the 10 Ω branch carries 10/10."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "60 V.",
+        "explanation": "Total current through the series 20 Ω resistor is 2+1=3 A; V=3×20."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Pressure is normal force per unit area; SI unit pascal (Pa).",
+        "explanation": "One pascal equals one newton per square metre."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "Water pressure increases with depth.",
+        "explanation": "The thicker base withstands the greater load near the bottom."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "Hydraulic car jacks, vehicle lifts and industrial metal-forming presses.",
+        "explanation": "A confined liquid transmits pressure from the input piston to the output piston."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "200,000 Pa.",
+        "explanation": "50 cm²=0.005 m²; P=1000/0.005."
+      }
+    ]
+  }
+}

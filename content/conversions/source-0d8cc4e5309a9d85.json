@@ -1,0 +1,409 @@
+{
+  "sourceId": "source-0d8cc4e5309a9d85",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A hypothesis is a proposed explanation; formulating it is a skill.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A mortar holds the pieces while the pestle grinds them.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "The arm traditionally faces the observer during use of this bench microscope.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Amoeba extends pseudopodia.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Numerous chloroplasts contain chlorophyll that absorbs light.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Entomology studies insects.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Prokaryotes have a cell membrane; most reproduce by binary fission.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "D",
+          "B"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Gills exchange dissolved oxygen and carbon dioxide with water.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "review",
+        "answer": "All four activities can form part of scientific research.",
+        "explanation": "Evaluation of evidence and methods is an important research activity. The question provides no fixed sequence that excludes it."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Multiply 15 by 20 to obtain 300×.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Contraction of the ventricular walls expels blood.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Cardiac muscle sustains rhythmic contraction throughout life.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Semilunar valves prevent backflow from arteries into ventricles.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "The septum separates the two sides of the heart.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Coronary veins drain blood carrying metabolic waste from the heart muscle.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Worms move by contracting muscles, feed on organic matter, respire to release energy, grow as they develop, and reproduce.",
+        "explanation": "Each example demonstrates a characteristic of living organisms. Response to stimuli and excretion are also valid."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Biology helps explain disease prevention, nutrition, crop production, animal husbandry and environmental conservation.",
+        "explanation": "A suitable example links each use to living organisms, for example a balanced diet supplies nutrients and conservation protects habitats."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Angiosperms produce flowers; ovules lie inside an ovary; the ovary develops into a fruit enclosing seeds; double fertilisation produces an embryo and endosperm.",
+        "explanation": "Together these features distinguish flowering plants, including those with inconspicuous flowers."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Panthera leo.",
+        "explanation": "Panthera is the genus and leo is the species epithet."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Homo sapiens.",
+        "explanation": "Capitalise the genus Homo and write sapiens in lower case."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Zea mays.",
+        "explanation": "This is the binomial for cultivated maize."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Musca domestica.",
+        "explanation": "The common housefly belongs to the genus Musca."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Felis catus.",
+        "explanation": "This name refers to the domestic cat."
+      },
+      {
+        "label": "4(b)(vi)",
+        "type": "written",
+        "answer": "Mimosa pudica, if the sensitive plant is meant.",
+        "explanation": "Mimosa is a genus with several species; the species depends on which plant the paper intends."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "A typical owl cell has no cellulose wall, no chloroplasts, no large permanent vacuole, a more variable shape, and stores glycogen. A maize leaf cell has a cellulose wall, chloroplasts, a large vacuole, a more fixed shape, and can store starch.",
+        "explanation": "Specify a green maize cell when comparing chloroplasts because root cells usually lack them."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Cell theory states that living organisms consist of cells, cells are the basic units of structure and function, and new cells arise from pre-existing cells. Modern extensions include inheritance of genetic material and metabolism within cells.",
+        "explanation": "Hooke described cells in cork. The theory was developed later by several scientists, including Schleiden, Schwann and Virchow."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Water and carbon dioxide.",
+        "explanation": "Both supply atoms incorporated into the products."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Light and chlorophyll.",
+        "explanation": "Light supplies energy and chlorophyll absorbs it."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, in light with chlorophyll.",
+        "explanation": "Check that the equation conserves carbon, hydrogen and oxygen atoms."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "It stores solar energy as chemical energy, supplies organic food to food webs, releases oxygen for aerobic respiration, and takes carbon dioxide from the environment.",
+        "explanation": "Organisms that do not photosynthesise often depend indirectly on these products."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Draw and label mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus in sequence. Show the liver, gall bladder and pancreas connected to the upper small intestine.",
+        "explanation": "Continuous passage and correctly placed accessory organs distinguish the alimentary canal from glands."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "The small intestine, especially the jejunum and ileum.",
+        "explanation": "Villi absorb the products of digestion."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Numerous villi and microvilli give a large surface; the epithelium is thin; capillaries transport absorbed nutrients away; lacteals transport absorbed fats.",
+        "explanation": "These features support rapid absorption and transport."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "A virus is acellular and replicates inside host cells; a bacterium is a prokaryotic cell and usually divides by binary fission.",
+        "explanation": "Compare cellular structure and reproduction."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Artificial classification uses a few convenient features; natural classification uses many characteristics and aims to reflect biological relationships.",
+        "explanation": "One may group by appearance or use; the other seeks shared ancestry."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "A biology laboratory houses instruments and specimens for practical work; a library houses books and other information resources for reading and research.",
+        "explanation": "Contrast its materials and its main activity."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Holozoic feeders ingest food and digest it internally; saprotrophs secrete enzymes onto dead organic material and absorb soluble products.",
+        "explanation": "The site of digestion and method of intake differ."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Diffusion is net movement of particles down their concentration gradient; osmosis is net movement of water down its water-potential gradient through a partially permeable membrane.",
+        "explanation": "A membrane is essential for osmosis but optional for diffusion."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "A is hypotonic to the cell.",
+        "explanation": "The outside has higher water potential."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "B is hypertonic to the cell.",
+        "explanation": "The outside has lower water potential."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "C is isotonic to the cell.",
+        "explanation": "The water potentials balance."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "Water enters A by osmosis, causing swelling and eventual bursting.",
+        "explanation": "The animal cell has no cell wall to resist the increasing volume."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "Water leaves the cell in B by osmosis and the cell shrinks.",
+        "explanation": "Water moves toward the solution of lower water potential."
+      },
+      {
+        "label": "9(b)(iii)",
+        "type": "written",
+        "answer": "Water enters and leaves at equal average rates in C.",
+        "explanation": "There is no net change in volume."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "A respiratory surface is large, thin, moist and permeable to gases. Ventilation or circulation maintains concentration gradients.",
+        "explanation": "The features support rapid diffusion of oxygen and carbon dioxide."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Insects pollinate crops, decompose wastes, recycle nutrients, control agricultural pests, provide food for other animals and supply products such as honey and silk.",
+        "explanation": "For example, bees transfer pollen, beetles help break down dung and ladybirds feed on aphids. Indiscriminate spraying can kill beneficial insects too."
+      }
+    ]
+  }
+}

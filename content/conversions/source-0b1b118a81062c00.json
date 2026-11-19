@@ -1,0 +1,474 @@
+{
+  "sourceId": "source-0b1b118a81062c00",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Faraja hutaja hali ya moyoni na ni nomino dhahania hata inapotumiwa kuwa jina.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "review",
+        "answer": "Lugha hufunzwa na kurithishwa katika jamii.",
+        "explanation": "Kujifunza lugha katika jamii hueleza urithishaji wa kijamii. Hakuna chaguo linalotaja wazi kipengele hicho; unasibu huhusu kutokuwa na uhusiano wa lazima kati ya sauti na maana."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Kiimbo ni kupanda na kushuka kwa sauti katika tungo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Ni-ta-go-mba-ni-sha ni silabi sita.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Wa kifaransa hufafanua nomino mwalimu na kufanya kazi ya kivumishi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Methali huonya kuhusu hasara na kutokuwa na akiba ya kukabili mahitaji.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Alama za mtajo hutenga maneno halisi ya mzazi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Kwa mpangilio wa kawaida: anwani, tarehe, salamu, kiini, mwisho na jina.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Ajenda ni mambo yaliyowekwa ili kujadiliwa katika mkutano.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Mwanafunzi ni nomino, wetu kivumishi, hapendi kitenzi kisaidizi, kuimba kitenzi kikuu na sana kielezi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "written",
+        "answer": "Visawe au sinonimu.",
+        "explanation": "Neno lenye maana sawa na jingine linaweza kuitwa kisawe au sinonimu; orodha ina istilahi mbili zinazokaribiana."
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Polisemi ni neno moja lenye maana kadhaa zinazohusiana.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "written",
+        "answer": "Visawe vya karibu au sinonimu.",
+        "explanation": "Maana zinazokaribiana huweza kuelezwa kwa visawe. Orodha ina maneno A na C yanayokaribiana kimaana."
+      },
+      {
+        "label": "2(iv)",
+        "type": "written",
+        "answer": "Homonimu au vitawe.",
+        "explanation": "Maneno haya hufanana kimaandishi au kimatamshi lakini maana zake hazina uhusiano; D na F ni istilahi zinazotumika kueleza hali hii."
+      },
+      {
+        "label": "2(v)",
+        "type": "written",
+        "answer": "Visawe au sinonimu.",
+        "explanation": "Umbo na matamshi yanaweza kutofautiana huku maana ikiwa sawa. Kubali A au C kwa mlingano ulioelezwa."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Kidahizo ni neno linalofafanuliwa; kitomeo ni kidahizo pamoja na taarifa zake.",
+        "explanation": "Kidahizo ni neno linalofafanuliwa; kitomeo ni kidahizo pamoja na taarifa zake."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Kihusishi huonesha uhusiano kama kwa au chini ya; kihisishi huonesha hisia kama lo! au lahaula!",
+        "explanation": "Kihusishi huonesha uhusiano kama kwa au chini ya; kihisishi huonesha hisia kama lo! au lahaula!"
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Nomino za jumla ni za mkusanyiko kama kundi; nomino za kawaida hutaja vitu vya aina fulani kama mtoto.",
+        "explanation": "Nomino za jumla ni za mkusanyiko kama kundi; nomino za kawaida hutaja vitu vya aina fulani kama mtoto."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Lafudhi ni namna ya matamshi inayotambulisha athari ya lugha au eneo; mkazo ni nguvu ya ziada katika silabi.",
+        "explanation": "Lafudhi ni namna ya matamshi inayotambulisha athari ya lugha au eneo; mkazo ni nguvu ya ziada katika silabi."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Fonimu ni kitengo kidogo cha sauti kinachotofautisha maana; mofimu ni kitengo kidogo chenye maana au kazi ya kisarufi.",
+        "explanation": "Fonimu ni kitengo kidogo cha sauti kinachotofautisha maana; mofimu ni kitengo kidogo chenye maana au kazi ya kisarufi."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Huimarisha mawasiliano kati ya makabila.",
+        "explanation": "Huimarisha mawasiliano kati ya makabila."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Hufanikisha shughuli za elimu na kujifunza.",
+        "explanation": "Hufanikisha shughuli za elimu na kujifunza."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Hutambulisha na kuhifadhi utamaduni wa Tanzania.",
+        "explanation": "Hutambulisha na kuhifadhi utamaduni wa Tanzania."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Huwezesha biashara na ajira ndani na nje ya nchi.",
+        "explanation": "Huwezesha biashara na ajira ndani na nje ya nchi."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Huimarisha ushiriki katika taasisi na shughuli za kikanda.",
+        "explanation": "Huimarisha ushiriki katika taasisi na shughuli za kikanda."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Kujua fasili za maneno.",
+        "explanation": "Kujua fasili za maneno."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Kujua tahajia sahihi.",
+        "explanation": "Kujua tahajia sahihi."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Kujua matamshi na mkazo.",
+        "explanation": "Kujua matamshi na mkazo."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Kujua aina za maneno na maelezo ya kisarufi.",
+        "explanation": "Kujua aina za maneno na maelezo ya kisarufi."
+      },
+      {
+        "label": "5(a)(v)",
+        "type": "written",
+        "answer": "Kujua matumizi kwa mifano, visawe na vinyume.",
+        "explanation": "Kujua matumizi kwa mifano, visawe na vinyume."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Mdau, Safari, saramba, Sarah, Sarehe.",
+        "explanation": "Linganisha herufi kutoka mwanzo: M hutangulia S; katika Sa, f hutangulia r, halafu saramba, Sarah na Sarehe hufuata tofauti za a, h na e katika nafasi inayotofautiana."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Kuamua mada na lengo.",
+        "explanation": "Kuamua mada na lengo."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Kutambua washiriki na muktadha.",
+        "explanation": "Kutambua washiriki na muktadha."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "Kuanzisha mazungumzo kwa salamu na utambulisho.",
+        "explanation": "Kuanzisha mazungumzo kwa salamu na utambulisho."
+      },
+      {
+        "label": "6(a)(iv)",
+        "type": "written",
+        "answer": "Kubadilishana hoja kwa zamu huku mkisikilizana.",
+        "explanation": "Kubadilishana hoja kwa zamu huku mkisikilizana."
+      },
+      {
+        "label": "6(a)(v)",
+        "type": "written",
+        "answer": "Kuhitimisha kwa makubaliano au muhtasari na kuagana.",
+        "explanation": "Kuhitimisha kwa makubaliano au muhtasari na kuagana."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Muktadha wa mazungumzo.",
+        "explanation": "Muktadha wa mazungumzo."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Umri na uhusiano wa washiriki.",
+        "explanation": "Umri na uhusiano wa washiriki."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "Mada na kusudi la ujumbe.",
+        "explanation": "Mada na kusudi la ujumbe."
+      },
+      {
+        "label": "6(b)(iv)",
+        "type": "written",
+        "answer": "Kiwango cha uelewa wa hadhira.",
+        "explanation": "Kiwango cha uelewa wa hadhira."
+      },
+      {
+        "label": "6(b)(v)",
+        "type": "written",
+        "answer": "Usahihi wa sarufi na maana ya maneno.",
+        "explanation": "Usahihi wa sarufi na maana ya maneno."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)(1)",
+        "type": "written",
+        "answer": "Eneo la kijiografia.",
+        "explanation": "Hii ni maana moja ya neno Kanda."
+      },
+      {
+        "label": "7(a)(i)(2)",
+        "type": "written",
+        "answer": "Kitendo cha kusugua au kukamua sehemu ya mwili.",
+        "explanation": "Hii ni maana nyingine ya neno Kanda inayotofautishwa na muktadha."
+      },
+      {
+        "label": "7(a)(ii)(1)",
+        "type": "written",
+        "answer": "Tunda linalotumiwa kama kiungo cha chakula.",
+        "explanation": "Hii ni maana moja ya neno Nyanya."
+      },
+      {
+        "label": "7(a)(ii)(2)",
+        "type": "written",
+        "answer": "Mama wa baba au mama.",
+        "explanation": "Hii ni maana nyingine ya neno Nyanya inayotofautishwa na muktadha."
+      },
+      {
+        "label": "7(a)(iii)(1)",
+        "type": "written",
+        "answer": "Mkusanyiko mkubwa wa maji uliozungukwa na nchi kavu.",
+        "explanation": "Hii ni maana moja ya neno Ziwa."
+      },
+      {
+        "label": "7(a)(iii)(2)",
+        "type": "written",
+        "answer": "Sehemu ya mwili inayotoa maziwa.",
+        "explanation": "Hii ni maana nyingine ya neno Ziwa inayotofautishwa na muktadha."
+      },
+      {
+        "label": "7(a)(iv)(1)",
+        "type": "written",
+        "answer": "Ndege anayefanana na kuku mwenye madoa.",
+        "explanation": "Hii ni maana moja ya neno Kanga."
+      },
+      {
+        "label": "7(a)(iv)(2)",
+        "type": "written",
+        "answer": "Kitambaa cha kuvaa chenye maandishi na michoro.",
+        "explanation": "Hii ni maana nyingine ya neno Kanga inayotofautishwa na muktadha."
+      },
+      {
+        "label": "7(a)(v)(1)",
+        "type": "written",
+        "answer": "Ndege mkubwa asiyeruka.",
+        "explanation": "Hii ni maana moja ya neno Mbuni."
+      },
+      {
+        "label": "7(a)(v)(2)",
+        "type": "written",
+        "answer": "Mti unaotoa kahawa.",
+        "explanation": "Hii ni maana nyingine ya neno Mbuni inayotofautishwa na muktadha."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "review",
+        "answer": "Kwa mtazamo wa kawaida wa matumizi, sema Ashura amenenepa siku hizi. Hata hivyo, amenona hutumiwa pia kumhusu mtu, kutegemea mtindo na muktadha.",
+        "explanation": "Swali linachukulia uteuzi wa neno kuwa kosa bila kuweka muktadha. Linganisha maana badala ya kudai kosa la lazima."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Mtoto mtundu ameadhibiwa. Kosa ni mpangilio wa maneno.",
+        "explanation": "Kivumishi cha sifa kwa kawaida hufuata nomino inayofafanuliwa."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "Thelathini na saba. Kosa ni kubadili sauti katika selathini.",
+        "explanation": "Tahajia sanifu ya namba 30 ni thelathini."
+      },
+      {
+        "label": "7(b)(iv)",
+        "type": "review",
+        "answer": "Mama ameondoka kazini ni sentensi inayoweza kuwa sahihi: ametoka mahali pa kazi.",
+        "explanation": "Chanzo hakitoi muktadha unaothibitisha kosa. Usibadilishe maana kwa kubuni kosa."
+      },
+      {
+        "label": "7(b)(v)",
+        "type": "written",
+        "answer": "Mkuu wa shule ataenda kuwasilisha taarifa za wanafunzi. Kosa ni kuchanganya wasilisha na wakilisha.",
+        "explanation": "Kuwasilisha ni kutoa taarifa mbele ya wengine; kuwakilisha ni kuchukua nafasi ya mtu au kundi."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Mfano: Andika anwani yako na tarehe. Msalimie Richard. Mshukuru kwa barua ya tarehe 14/10/2025 na mpango wa kukutembelea Desemba. Mweleze kuwa utakuwa safarini na hutakuwepo nyumbani. Pendekeza kupanga siku nyingine, mtakie mema na uhitimishe kwa jina lako.",
+        "explanation": "Barua ya kirafiki inahitaji sauti ya ukaribu, taarifa kuu ya kutokuwepo, na sehemu zake sita. Anwani yako ndiyo iwe juu; anwani ya Richard si anwani ya mwandishi wa jibu."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)(a)",
+        "type": "written",
+        "answer": "Katika habari neno lililopigiwa mstari ni bashasha, yaani furaha na uchangamfu. Bahasha katika swali maana yake kifungashio cha barua.",
+        "explanation": "Karatasi ina tofauti kati ya neno la kifungu na lile la swali; toa maana kwa kila umbo bila kubadili chanzo."
+      },
+      {
+        "label": "9(i)(b)",
+        "type": "written",
+        "answer": "Hafla ni shughuli au mkusanyiko maalumu wa kusherehekea au kutekeleza tukio.",
+        "explanation": "Hapa ni tukio la kuzindua mabweni."
+      },
+      {
+        "label": "9(i)(c)",
+        "type": "written",
+        "answer": "Tamalaki ni kuenea au kuwepo kwa wingi huku na huko.",
+        "explanation": "Habari inatumia neno kueleza uwepo wa mabweni."
+      },
+      {
+        "label": "9(i)(d)",
+        "type": "written",
+        "answer": "Mtu mwenye subira hupata matokeo mema mwishowe.",
+        "explanation": "Wanakijiji walisubiri kwa muda hadi ujenzi ulipokamilika."
+      },
+      {
+        "label": "9(i)(e)",
+        "type": "written",
+        "answer": "Umetumia au umechukua kiasi cha fedha kwa ajili ya kufanikisha jambo.",
+        "explanation": "Habari inaonesha gharama za ujenzi kuwa shilingi milioni 150."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Wakazi wa Lyambamgongo wamejenga mabweni manane kwa ushirikiano ili kupunguza umbali wanaotembea wanafunzi. Matatu ni ya wasichana na matano ya wavulana. Mkuu wa Mkoa amewapongeza kwa subira na kujitolea. Ujenzi umetumia takribani shilingi milioni 150 pamoja na nguvu kazi za wanakijiji.",
+        "explanation": "Huu ni muhtasari wa mfano. Jibu la mwanafunzi lipangwe kwa maneno 50, lihifadhi hoja kuu kuhusu waliojenga, idadi ya mabweni, sababu, pongezi na gharama. Epuka kunakili maelezo yasiyo muhimu."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Mfano wa mpango wa aya saba: (1) utangulizi unaofafanua tatizo; (2) shinikizo la marafiki; (3) madhara kwa afya; (4) kuvuruga masomo na familia; (5) elimu na malezi; (6) matibabu, ushauri na juhudi za jamii; (7) hitimisho linalohimiza kushirikiana. Andika kila hoja kama aya kamili yenye sentensi zinazofungamana.",
+        "explanation": "Insha itimize aya saba na mada ya kupambana na matumizi ya dawa za kulevya. Tumia mifano ya kuzuia matumizi na kuwasaidia wanaohitaji matibabu, pamoja na lugha sanifu."
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "sourceId": "source-a334bdc2a86ba166",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Political science is the intended exception among practical chemistry fields.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A measuring cylinder measures volume.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Gas stove and spirit burner are useful controlled laboratory alternatives.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A kept-constant condition is a controlled variable.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Solid directly to gas is described as sublimation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Magnesium corrodes preferentially and protects iron.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Wind is continually replenished.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Eighteen electrons identify neutral argon.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Metalloids show mixed metallic and nonmetallic properties.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "review",
+        "answer": "If sulfide S²⁻ was intended, sulfur gains two electrons. The printed sulfate SO4²⁻ is a polyatomic ion and the wording is chemically inaccurate.",
+        "explanation": "A sulfide ion gains two electrons; sulfate is a polyatomic ion and cannot be described as sulfur simply gaining electrons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Evaporation recovers salt.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A separating funnel separates immiscible oil and water.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Simple distillation recovers water from nonvolatile copper sulfate.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Ethanol extracts soluble pigments.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Centrifugation separates suspended blood components.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Reaction flask, dropping or thistle funnel, stopper, delivery tube and gas-collection vessel.",
+        "explanation": "These provide a reaction vessel, controlled addition and collection path; work requires trained supervision."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Hydrogen peroxide decomposes with a suitable catalyst such as manganese dioxide, releasing oxygen: 2H2O2 → 2H2O + O2.",
+        "explanation": "The catalyst speeds decomposition without being consumed; collect and handle gases only under laboratory supervision."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Wear eye protection, enter only with permission, avoid food and tasting, inspect apparatus and report accidents immediately.",
+        "explanation": "These reduce exposure and ensure trained help."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Cooking, space heating, electricity generation and engine operation.",
+        "explanation": "Combustion transfers stored chemical energy as heat."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "A trained user selects an appropriate extinguisher, removes its safety device, aims at the base and operates it using the maker’s instructions while retaining a clear escape route.",
+        "explanation": "Raise the alarm and evacuate if the fire is spreading; never approach an unsafe fire."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Most of an atom is empty space; positive charge is concentrated in a tiny nucleus; almost all mass is nuclear; electrons occupy surrounding space.",
+        "explanation": "Alpha-particle scattering supplied evidence for the nuclear model."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Proton: nucleus, +1 charge.",
+        "explanation": "Protons determine atomic number."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Neutron: nucleus, zero charge.",
+        "explanation": "Neutrons contribute mass and isotope differences."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "Electron: outside nucleus, −1 charge.",
+        "explanation": "Electron arrangement governs much chemical behaviour."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Lithium, sodium and potassium.",
+        "explanation": "These reactive alkali metals are normally protected from air and moisture by suitable storage under trained handling."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "They react readily with oxygen and water vapour.",
+        "explanation": "Reaction can cause oxidation, heat and fire hazards."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Alkaline earth metals are group II, have two valence electrons, usually form +2 ions, are metallic conductors and form basic oxides or hydroxides.",
+        "explanation": "Two outer electrons explain their characteristic chemistry."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Water reacts with some active metals, producing hydrogen and metal hydroxides.",
+        "explanation": "It can participate in chemical change."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Electrolysis can decompose water into hydrogen and oxygen.",
+        "explanation": "Electrical energy drives decomposition."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Evaporation and transpiration add vapour, cooling causes condensation into clouds, precipitation returns water, and runoff and infiltration return it to rivers, groundwater and oceans.",
+        "explanation": "Solar energy and gravity drive circulation."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Stable: Ca²⁺ has 2,8,8.",
+        "explanation": "Apply the full outer-shell rule to the actual atom, ion or bonded molecule."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Unstable in the octet model: N has 2,5.",
+        "explanation": "Apply the full outer-shell rule to the actual atom, ion or bonded molecule."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "Stable molecule: nitrogen shares electrons to complete its octet in NH3.",
+        "explanation": "Apply the full outer-shell rule to the actual atom, ion or bonded molecule."
+      },
+      {
+        "label": "9(a)(iv)",
+        "type": "written",
+        "answer": "Stable: Cl⁻ has 2,8,8.",
+        "explanation": "Apply the full outer-shell rule to the actual atom, ion or bonded molecule."
+      },
+      {
+        "label": "9(a)(v)",
+        "type": "written",
+        "answer": "Stable: Al³⁺ has 2,8.",
+        "explanation": "Apply the full outer-shell rule to the actual atom, ion or bonded molecule."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "0.",
+        "explanation": "An uncombined element has oxidation number zero."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "−1.",
+        "explanation": "In a metal hydride hydrogen is assigned −1."
+      },
+      {
+        "label": "9(b)(iii)",
+        "type": "written",
+        "answer": "−2.",
+        "explanation": "Oxygen normally has oxidation number −2 in water."
+      },
+      {
+        "label": "9(b)(iv)",
+        "type": "written",
+        "answer": "−2.",
+        "explanation": "Oxygen is −2 in carbon dioxide, making carbon +4."
+      },
+      {
+        "label": "9(b)(v)",
+        "type": "written",
+        "answer": "9 atoms.",
+        "explanation": "Each H2O molecule has three atoms; three molecules have nine."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "Water gas contains combustible hydrogen and carbon monoxide and provides useful industrial heat.",
+        "explanation": "It is hazardous because carbon monoxide is toxic."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Burning wood and charcoal contributes forest loss and harmful air pollution.",
+        "explanation": "Cleaner energy and sustainable forestry reduce these impacts."
+      },
+      {
+        "label": "10(c)(i)",
+        "type": "written",
+        "answer": "Secondary",
+        "explanation": "Petrol is refined from petroleum."
+      },
+      {
+        "label": "10(c)(ii)",
+        "type": "written",
+        "answer": "Primary",
+        "explanation": "Wood occurs as a natural biomass fuel."
+      },
+      {
+        "label": "10(c)(iii)",
+        "type": "written",
+        "answer": "Secondary",
+        "explanation": "Fuel alcohol is manufactured or processed."
+      },
+      {
+        "label": "10(c)(iv)",
+        "type": "written",
+        "answer": "Secondary",
+        "explanation": "Kerosene is a petroleum fraction."
+      },
+      {
+        "label": "10(c)(v)",
+        "type": "written",
+        "answer": "Primary",
+        "explanation": "Coal is extracted from natural deposits."
+      },
+      {
+        "label": "10(c)(vi)",
+        "type": "written",
+        "answer": "Secondary",
+        "explanation": "Diesel is a refined fraction."
+      },
+      {
+        "label": "10(c)(vii)",
+        "type": "written",
+        "answer": "Primary",
+        "explanation": "Crude petroleum is a natural resource."
+      },
+      {
+        "label": "10(c)(viii)",
+        "type": "written",
+        "answer": "Secondary",
+        "explanation": "Hydrogen fuel must be produced."
+      },
+      {
+        "label": "10(c)(ix)",
+        "type": "written",
+        "answer": "Secondary",
+        "explanation": "Water gas is manufactured."
+      },
+      {
+        "label": "10(c)(x)",
+        "type": "written",
+        "answer": "Secondary",
+        "explanation": "Coal gas is manufactured from coal."
+      },
+      {
+        "label": "10(c)(xi)",
+        "type": "written",
+        "answer": "Primary",
+        "explanation": "Natural gas occurs in deposits."
+      },
+      {
+        "label": "10(c)(xii)",
+        "type": "written",
+        "answer": "Secondary",
+        "explanation": "Producer gas is manufactured."
+      }
+    ]
+  }
+}

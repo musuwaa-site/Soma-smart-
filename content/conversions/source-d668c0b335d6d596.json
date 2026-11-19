@@ -1,0 +1,687 @@
+{
+  "sourceId": "source-d668c0b335d6d596",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A conclusion should follow evidence rather than a guess.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The eyepiece magnifies the image formed by the objective.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Apply firm direct pressure using a clean dressing and seek urgent help.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "HIV infection, which may progress to AIDS, can be sexually transmitted.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The stomach consists of several tissues working together.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Burning household plastic releases harmful pollutants.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Fungal walls contain chitin.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Sickle-cell anaemia and abnormal blood pressure concern the circulatory system.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Lipases digest fats to fatty acids and glycerol.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Animal anaerobic respiration produces lactate.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Microscopes reveal structures too small for unaided vision.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Cellulose walls are characteristic of plant cells.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "review",
+        "answer": "With power switched off, a dry non-conducting object may help separate a low-voltage contact, but do not approach a live source. The printed statement omits vital safety conditions.",
+        "explanation": "Switch off the electricity and seek emergency assistance; a stick may be wet or inadequate, so do not approach a live source."
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Botany studies plants.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Charcoal can cause fatal carbon-monoxide poisoning indoors.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(vi)",
+        "type": "review",
+        "answer": "Onion stores food in fleshy leaves, and carrot stores food in a swollen taproot. Calling carrot a root tuber is imprecise.",
+        "explanation": "Onion bulbs have fleshy storage leaves; carrot is a storage root, more precisely a swollen taproot.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(vii)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Fish exchange gases using gills.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(viii)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "These materials can be processed for reuse.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(ix)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "The cell is the basic unit of life.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(x)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Biology studies living organisms.",
+        "options": [
+          "True",
+          "False"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "answer": "N",
+        "explanation": "Ruminants have a four-compartment stomach.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "Protein deficiency contributes to kwashiorkor.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Pepsin digests protein in the stomach.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Vitamin D deficiency impairs bone mineralisation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Vitamin A is needed for dim-light vision.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(vi)",
+        "type": "mcq",
+        "answer": "K",
+        "explanation": "Acid reflux causes heartburn.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Scurvy follows vitamin C deficiency.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(viii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "An ulcer is a sore in the digestive lining.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(ix)",
+        "type": "mcq",
+        "answer": "L",
+        "explanation": "Rennin, also called chymosin, coagulates milk in young mammals.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(x)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Thiamine deficiency causes beri-beri.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Monera.",
+        "explanation": "The traditional kingdom includes prokaryotes."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Protoctista.",
+        "explanation": "It includes diverse eukaryotes such as Amoeba."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Fungi.",
+        "explanation": "Fungi obtain nutrients from organic matter."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "Plantae.",
+        "explanation": "Plants are generally multicellular photosynthetic eukaryotes."
+      },
+      {
+        "label": "4(a)(v)",
+        "type": "written",
+        "answer": "Animalia.",
+        "explanation": "Animals are multicellular heterotrophs without cell walls."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Rhizopus, bread mould.",
+        "explanation": "It has sporangia, upright sporangiophores and rhizoids."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Rhizoids.",
+        "explanation": "The root-like hyphae attach the mould and absorb nutrients."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Zygomycota in the traditional classification.",
+        "explanation": "Rhizopus was classified by its sexual zygospore stage."
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "Fungi spoil food.",
+        "explanation": "Their growth and enzymes damage stored products."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "Some fungi cause disease.",
+        "explanation": "Examples include ringworm and crop rust."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Keeping the body and personal belongings clean to maintain health.",
+        "explanation": "Hygiene reduces exposure to pathogens."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Wash the body regularly.",
+        "explanation": "This removes sweat and dirt."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Wash hands with soap at important times.",
+        "explanation": "This interrupts contamination."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Clean teeth and mouth.",
+        "explanation": "Oral care reduces plaque and disease."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "Wear clean clothes and care for nails and hair.",
+        "explanation": "Clean personal items reduce contamination."
+      },
+      {
+        "label": "5(c)(i)",
+        "type": "written",
+        "answer": "Respect other people.",
+        "explanation": "Consider their rights and dignity."
+      },
+      {
+        "label": "5(c)(ii)",
+        "type": "written",
+        "answer": "Use polite language.",
+        "explanation": "Courtesy supports good relationships."
+      },
+      {
+        "label": "5(c)(iii)",
+        "type": "written",
+        "answer": "Show good table manners.",
+        "explanation": "Eat carefully and keep shared eating areas clean."
+      },
+      {
+        "label": "5(c)(iv)",
+        "type": "written",
+        "answer": "Be punctual and considerate.",
+        "explanation": "This respects others’ time and wellbeing."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Diffusion is net movement of particles from higher to lower concentration.",
+        "explanation": "Random motion produces net movement down a gradient."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Osmosis is net water movement through a selectively permeable membrane from higher water potential to lower water potential.",
+        "explanation": "The membrane allows water through more readily than solutes."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Water enters by osmosis and the cell swells until its membrane ruptures.",
+        "explanation": "Red cells have no supporting cell wall."
+      },
+      {
+        "label": "6(c)(i)",
+        "type": "written",
+        "answer": "Red blood cells transport oxygen.",
+        "explanation": "Haemoglobin binds oxygen reversibly."
+      },
+      {
+        "label": "6(c)(ii)",
+        "type": "written",
+        "answer": "Platelets help blood clot.",
+        "explanation": "They contribute to the clotting response that limits blood loss."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Immediate help given to an injured or suddenly ill person before professional treatment.",
+        "explanation": "It aims to preserve life and prevent worsening."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Sterile dressings.",
+        "explanation": "They cover wounds."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Bandages.",
+        "explanation": "They secure dressings."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "Disposable gloves.",
+        "explanation": "They reduce contact with blood."
+      },
+      {
+        "label": "7(b)(iv)",
+        "type": "written",
+        "answer": "Scissors.",
+        "explanation": "They cut dressing material safely."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Reassure the person, keep them and the bitten limb still, remove constricting jewellery and arrange urgent medical care. Monitor breathing.",
+        "explanation": "Do not cut or suck the bite, apply ice, or use a tight tourniquet. Appropriate hospital assessment is essential."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "A food chain is a single feeding pathway showing transfer of energy.",
+        "explanation": "It links a producer to successive consumers."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "A food web is a network of interconnected food chains.",
+        "explanation": "Organisms often have more than one food source or predator."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Grass → grasshopper → frog → snake.",
+        "explanation": "Each arrow points towards the consumer receiving energy."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "They show feeding relationships and help predict effects of population change.",
+        "explanation": "They support conservation and management of pests and ecosystems."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Cholera is caused by Vibrio cholerae and spreads through faecally contaminated food or water. Prevent it with safe water, sanitation, hand washing and hygienic food preparation; seek prompt treatment for watery diarrhoea.",
+        "explanation": "The faecal–oral route explains why these measures interrupt transmission."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Tuberculosis is usually caused by Mycobacterium tuberculosis and spreads through infectious airborne particles. Early diagnosis, completing prescribed treatment, good ventilation, respiratory hygiene and vaccination according to local policy reduce harm.",
+        "explanation": "Reducing airborne exposure and treating active disease interrupt transmission."
+      }
+    ]
+  }
+}

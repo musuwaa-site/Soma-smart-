@@ -1,0 +1,495 @@
+{
+  "sourceId": "source-fccb7d7e7298d1fc",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Astrology is not a biological science.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Experiments test hypotheses.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Muscle, blood and bone are tissues.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "The cell membrane regulates exchange.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Fine adjustment sharpens the image.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Contaminated syringes require controlled medical-waste disposal.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Prokaryotes lack mitochondria.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "An exoskeleton is not a feature of all animals.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "All listed organisms in D are arthropods.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Supportive safe company reduces risky exposure.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Mitochondria have double membranes.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Chloroplasts contain chlorophyll.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "The nucleus houses genetic material.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Cytoplasm is a watery reaction medium.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "The plant wall is made chiefly of cellulose.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Adequate space and a safe layout.",
+        "explanation": "Users need room to move and work."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Good ventilation and lighting.",
+        "explanation": "Airflow and visibility support safe work."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Reliable water supply and drainage.",
+        "explanation": "Cleaning and experiments need water."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "written",
+        "answer": "Safe services, benches and storage.",
+        "explanation": "Appropriate fittings reduce risks."
+      },
+      {
+        "label": "3(a)(v)",
+        "type": "written",
+        "answer": "Emergency exits and safety equipment.",
+        "explanation": "Preparation supports prompt accident response."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "A room equipped for practical biological investigations.",
+        "explanation": "It supports observation and experimentation."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Scoop net.",
+        "explanation": "It can collect a frog from shallow water for observation."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Sweep net or suitable collecting apparatus.",
+        "explanation": "It gathers small animals from vegetation."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Quadrat.",
+        "explanation": "A known area permits a population-density estimate."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Pooter with a filter and appropriate suction bulb, or a small net.",
+        "explanation": "Use a method that avoids inhaling insects and minimises injury."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Forceps.",
+        "explanation": "They lift small delicate specimens gently."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)A",
+        "type": "written",
+        "answer": "Eukaryotic cells.",
+        "explanation": "They have membrane-bound organelles."
+      },
+      {
+        "label": "5(a)B",
+        "type": "written",
+        "answer": "Prokaryotic cells.",
+        "explanation": "Their DNA is not enclosed in a nucleus."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Eukaryotes have a nuclear envelope; prokaryotes lack one.",
+        "explanation": "This distinguishes nuclear organisation."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Eukaryotes have membrane-bound organelles; prokaryotes do not.",
+        "explanation": "Examples include mitochondria."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Eukaryotic cells are generally larger; prokaryotic cells generally smaller.",
+        "explanation": "Size is a usual trend, not an absolute rule."
+      },
+      {
+        "label": "5(c)(i)",
+        "type": "written",
+        "answer": "Both plant and animal cells have a membrane.",
+        "explanation": "It regulates exchange."
+      },
+      {
+        "label": "5(c)(ii)",
+        "type": "written",
+        "answer": "Both contain cytoplasm.",
+        "explanation": "It supports reactions."
+      },
+      {
+        "label": "5(c)(iii)",
+        "type": "written",
+        "answer": "Typical cells of both have a nucleus.",
+        "explanation": "Both groups are eukaryotes."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Medicine uses knowledge of body function and pathogens to prevent and treat disease.",
+        "explanation": "Biology explains health processes."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Agriculture uses plant and animal biology to improve yields and care.",
+        "explanation": "Examples include crop breeding and pest control."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "Forestry uses knowledge of tree growth and ecology.",
+        "explanation": "It supports sustainable forest management."
+      },
+      {
+        "label": "6(d)",
+        "type": "written",
+        "answer": "Nutrition studies food needs, digestion and health.",
+        "explanation": "Biology explains nutrient use."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "A cell is a basic unit of life; an organ contains several tissues working together.",
+        "explanation": "For example, the heart contains muscle, nervous and connective tissues."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Classification groups organisms; taxonomy includes identification, naming and classification.",
+        "explanation": "Taxonomy is the broader scientific activity."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "It contains biological specimens.",
+        "explanation": "These support organism study."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "It has specialised instruments such as microscopes.",
+        "explanation": "They reveal small structures."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "It has practical benches and appropriate services.",
+        "explanation": "The room supports experiments."
+      },
+      {
+        "label": "7(b)(iv)",
+        "type": "written",
+        "answer": "It has laboratory safety rules and equipment.",
+        "explanation": "Practical investigations require controlled procedures."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "The scientific method is an organised process of testing explanations using evidence.",
+        "explanation": "It links questions, hypotheses and observations."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Identify the problem.",
+        "explanation": "State what needs explaining."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Collect background information.",
+        "explanation": "Use relevant existing knowledge."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "Form a hypothesis.",
+        "explanation": "Make a testable proposal."
+      },
+      {
+        "label": "8(b)(iv)",
+        "type": "written",
+        "answer": "Plan the investigation.",
+        "explanation": "Identify variables and safe methods."
+      },
+      {
+        "label": "8(b)(v)",
+        "type": "written",
+        "answer": "Carry out the experiment.",
+        "explanation": "Follow the controlled plan."
+      },
+      {
+        "label": "8(b)(vi)",
+        "type": "written",
+        "answer": "Record and analyse results.",
+        "explanation": "Look for patterns."
+      },
+      {
+        "label": "8(b)(vii)",
+        "type": "written",
+        "answer": "Draw a conclusion.",
+        "explanation": "Assess whether evidence supports the hypothesis."
+      },
+      {
+        "label": "8(b)(viii)",
+        "type": "written",
+        "answer": "Communicate and evaluate.",
+        "explanation": "Others can examine and repeat the work."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Hand lens magnifies a specimen.",
+        "explanation": "It provides a larger image."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Beaker holds, mixes or heats liquids.",
+        "explanation": "Its graduations are normally approximate."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "Thermometer measures temperature.",
+        "explanation": "Read the calibrated scale."
+      },
+      {
+        "label": "9(b) Mass",
+        "type": "written",
+        "answer": "Balance; kilogram (kg).",
+        "explanation": "The kilogram is the SI base unit."
+      },
+      {
+        "label": "9(b) Length",
+        "type": "written",
+        "answer": "Ruler or measuring tape; metre (m).",
+        "explanation": "Length is compared with a distance scale."
+      },
+      {
+        "label": "9(b) Temperature",
+        "type": "written",
+        "answer": "Thermometer; kelvin (K).",
+        "explanation": "Kelvin is the SI base temperature unit."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Biology supports health decisions, food production, environmental conservation, understanding living organisms and careers such as medicine or agriculture.",
+        "explanation": "Each reason connects biological knowledge with a practical need."
+      }
+    ]
+  }
+}

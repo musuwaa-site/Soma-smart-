@@ -1,0 +1,529 @@
+{
+  "sourceId": "source-01f1e170e2d9bce7",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Experiments are systematic tests conducted in the laboratory. Demonstrations are also routinely conducted there.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "D",
+          "B"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Plaster of Paris is a casting material rather than a usual component of a basic school kit.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Ammonium chloride sublimes on heating and reforms on cooling while the sand remains.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Vinegar is a homogeneous solution of ethanoic acid in water.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Magnesium oxidises more readily than iron and protects the hull.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The complete set includes both a delivery tube and a vessel for collecting gas over water.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "review",
+        "answer": "Activated carbon adsorbs impurities.",
+        "explanation": "None of the choices accurately states the main role of activated carbon in a filter."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Wind is naturally replenished. Low direct emissions also make wind power attractive.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "D",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "8400 J ÷ 46 g ≈ 182.6 J/g.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Phosphate has a charge of −3.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Bromochlorodifluoromethane is a halon.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Bicarbonate and urea complexes are dry chemical powders.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Potassium acetate solution is a wet agent.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Monoammonium phosphate is the powder in many ABC extinguishers.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Protein and fluoroprotein concentrates make foam.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Solids retain their bulk shape; gases fill their container. Individual particle shape does not define the state.",
+        "explanation": "Particles in a solid vibrate around fixed positions; gas particles move freely."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Solids have a definite volume; gases expand to fill the available volume.",
+        "explanation": "The separation of gas particles can vary considerably."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Gases compress readily; solids are very difficult to compress.",
+        "explanation": "Gases contain much more empty space between particles."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "Gases flow; rigid solids retain their form.",
+        "explanation": "Gas particles move past one another."
+      },
+      {
+        "label": "3(e)",
+        "type": "written",
+        "answer": "Gas particles are far apart and disordered; solid particles are closely packed, often in an ordered arrangement.",
+        "explanation": "The differences explain their bulk properties."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "A mixture forms: the salt-to-water ratio can vary and evaporation can recover the salt.",
+        "explanation": "Dissolving produces a solution without creating a compound with a fixed salt-to-water ratio."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Simple distillation.",
+        "explanation": "Water vaporises and condenses separately from the nonvolatile tea solids."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Separating funnel or careful decantation.",
+        "explanation": "The immiscible liquids form separate layers."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Fractional distillation.",
+        "explanation": "The miscible liquids have different boiling points."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Magnetic separation, for an iron or steel nail; hand sorting is also possible.",
+        "explanation": "The nail is attracted by a magnet and can be separated physically."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Evaporation and crystallisation.",
+        "explanation": "Water leaves while the dissolved salt forms crystals."
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "Melting during smelting or casting; solidification as a casting cools.",
+        "explanation": "Metallurgy includes more than one process involving changes of state."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "Evaporation.",
+        "explanation": "Liquid moisture changes into vapour."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Valency gives combining capacity without a sign; oxidation state assigns a signed formal number to an atom.",
+        "explanation": "For a polyatomic ion the sum of its atomic oxidation states equals the ion charge."
+      },
+      {
+        "label": "5(b) Nitrate",
+        "type": "written",
+        "answer": "NO₃⁻; 1; −1 for the ion.",
+        "explanation": "The overall radical charge is one negative unit."
+      },
+      {
+        "label": "5(b) Hydrogen sulphate",
+        "type": "written",
+        "answer": "HSO₄⁻; 1; −1 for the ion.",
+        "explanation": "Adding one H⁺ to sulphate leaves a single negative charge."
+      },
+      {
+        "label": "5(b) Phosphate",
+        "type": "written",
+        "answer": "PO₄³⁻; 3; −3 for the ion.",
+        "explanation": "Three positive charges are required for neutrality."
+      },
+      {
+        "label": "5(b) Carbonate",
+        "type": "written",
+        "answer": "CO₃²⁻; 2; −2 for the ion.",
+        "explanation": "Two positive charges are needed for neutrality."
+      },
+      {
+        "label": "5(b) Sulphite",
+        "type": "written",
+        "answer": "SO₃²⁻; 2; −2 for the ion.",
+        "explanation": "Sulphite and sulphate have the same charge but different oxygen counts."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "1 g H and 35.5 g Cl correspond to equal mole amounts, forming HCl in a 1:1 atomic ratio. Their masses total 36.5 g.",
+        "explanation": "This supports combination in simple whole-number ratios and conservation of atoms in chemical reactions."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Atoms have subatomic particles; isotopes of an element have different masses.",
+        "explanation": "These observations revise the claims that atoms are indivisible and that all atoms of one element have identical masses."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "Carbon can have different mass numbers, but every carbon atom must have atomic number 6.",
+        "explanation": "Neutron number varies between isotopes; proton number defines the element."
+      },
+      {
+        "label": "6(b) Proton",
+        "type": "written",
+        "answer": "p⁺; nucleus; +1; approximately 1.",
+        "explanation": "The proton is a positively charged nucleon."
+      },
+      {
+        "label": "6(b) Neutron",
+        "type": "written",
+        "answer": "n⁰; nucleus; 0; approximately 1.",
+        "explanation": "It is an electrically neutral nucleon."
+      },
+      {
+        "label": "6(b) Electrons",
+        "type": "written",
+        "answer": "e⁻; outside the nucleus; −1; about 1/1836.",
+        "explanation": "An electron has much less mass than a proton."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "Ionic.",
+        "explanation": "Mg²⁺ and O²⁻ attract electrostatically."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Ionic.",
+        "explanation": "Salt contains Na⁺ and Cl⁻."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "Polar covalent within H₂O.",
+        "explanation": "Hydrogen and oxygen share electron pairs."
+      },
+      {
+        "label": "7(a)(iv)",
+        "type": "written",
+        "answer": "Polar covalent.",
+        "explanation": "Nitrogen shares electron pairs with hydrogen."
+      },
+      {
+        "label": "7(a)(v)",
+        "type": "written",
+        "answer": "Ionic.",
+        "explanation": "Ca²⁺ and Cl⁻ form an ionic lattice."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Water.",
+        "explanation": "Oxygen is joined to two hydrogens."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "H₂O.",
+        "explanation": "There are two hydrogen atoms for each oxygen atom."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "Covalent bonds hold the atoms together; hydrogen bonds attract separate water molecules.",
+        "explanation": "The shared pairs drawn are the covalent O–H bonds. The wording also allows an intermolecular interpretation."
+      },
+      {
+        "label": "7(b)(iv)",
+        "type": "written",
+        "answer": "For covalent bonds: methane and carbon dioxide. For intermolecular hydrogen bonds: ammonia and ethanol.",
+        "explanation": "Examples must match the interpretation given in part (iii)."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "E, atomic number 18.",
+        "explanation": "Its electron arrangement is 2,8,8."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "review",
+        "answer": "None of the listed elements is a halogen.",
+        "explanation": "A halogen would have seven outer-shell electrons. The table lists atomic numbers 3, 12, 16, 18 and 20."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "A, atomic number 3.",
+        "explanation": "Its electron arrangement 2,1 places it in group 1."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "C and F.",
+        "explanation": "Atomic numbers 12 and 20 have two outer electrons and belong to group 2."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "C, D and E.",
+        "explanation": "The elements with atomic numbers 12, 16 and 18 all have three occupied shells."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Electron configuration or electronic arrangement.",
+        "explanation": "It describes the distribution of electrons around the nucleus."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Electron shells or principal energy levels.",
+        "explanation": "The innermost shell is K."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "n is the principal quantum number or shell number.",
+        "explanation": "It starts at 1 for K."
+      },
+      {
+        "label": "9(a)(iv)",
+        "type": "written",
+        "answer": "K: 2; L: 8; M: 18; N: 32.",
+        "explanation": "Substitute 1, 2, 3 and 4 in 2n²."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "79.9.",
+        "explanation": "The weighted mean is (55×79 + 45×81)/100."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "How does changing temperature affect the solubility of potassium nitrate in water?",
+        "explanation": "The question connects the measured outcome to the variable being changed."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "The solubility of potassium nitrate increases as water temperature rises.",
+        "explanation": "This prediction can be tested with the recorded masses."
+      },
+      {
+        "label": "10(c)(i)",
+        "type": "written",
+        "answer": "Salt solubility, measured as mass of salt dissolving per 100 g of water.",
+        "explanation": "It is the measured outcome."
+      },
+      {
+        "label": "10(c)(ii)",
+        "type": "written",
+        "answer": "Water temperature.",
+        "explanation": "It is the quantity varied in the experiment."
+      },
+      {
+        "label": "10(c)(iii)",
+        "type": "written",
+        "answer": "Mass of water, 100 g.",
+        "explanation": "Keeping it fixed makes the dissolved masses directly comparable."
+      },
+      {
+        "label": "10(d)",
+        "type": "written",
+        "answer": "Temperature (°C) → solubility (g per 100 g water): 0 → 10; 20 → 30; 30 → 50; 40 → 65; 50 → 87; 60 → 113.",
+        "explanation": "Use two labelled columns with the correct units and all six data pairs."
+      },
+      {
+        "label": "10(e)",
+        "type": "written",
+        "answer": "Solubility rises from 10 to 113 g per 100 g of water between 0 and 60 °C.",
+        "explanation": "Every successive higher temperature in the table corresponds to a greater mass dissolved."
+      }
+    ]
+  }
+}

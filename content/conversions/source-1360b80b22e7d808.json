@@ -1,0 +1,426 @@
+{
+  "sourceId": "source-1360b80b22e7d808",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Geography studies people and their environment and spatial relationships."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "17° eastward adds 68 minutes to 3 p.m."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Wavelength is the distance between successive crests."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Zero grazing brings feed to confined livestock."
+      },
+      {
+        "label": "1(v)",
+        "type": "review",
+        "answer": "16.4°C. None of the printed choices matches the temperature calculated from the stated 20°C.",
+        "explanation": "Subtract 600/100 × 0.6 = 3.6°C from 20°C."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Earth’s rotation deflects moving air and water in the rotating frame."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "WSW has bearing 247.5°."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Rwenzori is a fault-block range."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "13 km divided by 0.5 km/cm gives 26 cm."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Coal, gas and oil form on geological timescales."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P",
+          "Q",
+          "R"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ],
+        "answer": {
+          "i": "L",
+          "ii": "F",
+          "iii": "E",
+          "iv": "Q",
+          "v": "M",
+          "vi": "P",
+          "vii": "N",
+          "viii": "I",
+          "ix": "H",
+          "x": "A"
+        },
+        "explanation": "Pollution adds contaminants; convection produces tropical rain; comets have bright tails; conserving water supports sustainable use; sea breeze blows inland; volcanoes erupt molten rock; erosion removes soil; distributaries branch at river mouths; deforestation removes trees; altitude affects temperature."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Agulhas transports warm water."
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Pests and diseases are important farm problems."
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Earth rotates west to east."
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Transport moves people and goods between places."
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Moving water generates hydroelectricity, not biogas."
+      },
+      {
+        "label": "3(vi)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "A key explains map symbols."
+      },
+      {
+        "label": "3(vii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Evaporation affects concentration of dissolved salts."
+      },
+      {
+        "label": "3(viii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Revolution and axial tilt create seasons."
+      },
+      {
+        "label": "3(ix)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Only the Equator is a great circle among latitudes."
+      },
+      {
+        "label": "3(x)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Cotton was a central crop in the Gezira scheme."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Orographic or relief rainfall, on the windward side of mountains.",
+        "explanation": "Moist air is forced up the slope and cools to condensation."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Moist onshore wind.",
+        "explanation": "A shows air moving from sea toward land."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Descending dry air.",
+        "explanation": "Air warms as it descends on the leeward side."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "Windward slope.",
+        "explanation": "D faces the moist incoming wind and receives rain."
+      },
+      {
+        "label": "4(a)(v)",
+        "type": "written",
+        "answer": "Leeward slope or rain-shadow side.",
+        "explanation": "E is sheltered from the moist flow."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Grid references and latitude/longitude coordinates.",
+        "explanation": "Both provide numerical positions on a map."
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "337.5°.",
+        "explanation": "NNW lies halfway between 315° and 360°."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "Northeast.",
+        "explanation": "045° is halfway between north and east."
+      },
+      {
+        "label": "4(c)(iii)",
+        "type": "written",
+        "answer": "North.",
+        "explanation": "000° and 360° describe the same direction."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "24.392°C, approximately 24.48°C.",
+        "explanation": "Add the twelve monthly temperatures and divide by twelve."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "1578.0 mm.",
+        "explanation": "Add the monthly rainfall totals."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "1°C.",
+        "explanation": "25 − 24 = 1."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Equatorial-type climate.",
+        "explanation": "Temperatures remain high with very little annual variation and rainfall has two peaks."
+      },
+      {
+        "label": "5(a)(v) highest",
+        "type": "written",
+        "answer": "April, 230 mm.",
+        "explanation": "It has the largest monthly total."
+      },
+      {
+        "label": "5(a)(v) lowest",
+        "type": "written",
+        "answer": "January, 40.6 mm.",
+        "explanation": "It has the smallest monthly total."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Cultivation of crops and rearing of livestock.",
+        "explanation": "It produces food, fibre and other biological products."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "A detailed map showing natural and human features and relief of an area.",
+        "explanation": "Topographic maps commonly use contours and standardized symbols."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "A reliable water flow and sufficient vertical head; suitable dam foundations are also needed.",
+        "explanation": "Electrical power comes from water discharge and fall."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Limited finance, poor maintenance, seasonal road damage, congestion, difficult terrain, high fuel costs and inadequate rail/port links.",
+        "explanation": "Transport development requires construction, reliable operation and continuing maintenance."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Flood control, electricity, navigation, soil/forest restoration, irrigation, industrial development and jobs.",
+        "explanation": "The Tennessee Valley Authority coordinated several uses of the river basin."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Forests face clearing for farms, fuel cutting, logging and fires. Improve law enforcement, community management, replanting, alternative energy and sustainable harvesting.",
+        "explanation": "Reducing destructive demand and restoring vegetation must work together."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Waste and habitat pressure, wildlife disturbance, local price increases, cultural disruption, seasonal employment and dependence on outside visitors.",
+        "explanation": "Each effect should be linked to a mechanism and an example."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Land degradation, polluted water, dust, accidents, displacement and conflicts over land or revenue.",
+        "explanation": "Mining requires waste controls, rehabilitation and fair community arrangements."
+      }
+    ]
+  }
+}

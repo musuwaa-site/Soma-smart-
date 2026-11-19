@@ -1,0 +1,294 @@
+{
+  "sourceId": "source-92b77baf170595e7",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Mzee anapitisha historia kwa kusimulia."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Zanzibar ina mashamba ya karafuu na fukwe za utalii."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Nyerere alikuwa rais wa kwanza wa Muungano."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Kusalimia na kusaidia huonyesha nidhamu na kujali."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Tanganyika ilipata uhuru tarehe 9 Desemba 1961."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Ngao ya taifa imo ndani ya nembo yenye mwanamume na mwanamke."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Kuthamini uzalishaji wa nchini kunaonyesha uzalendo."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Tanganyika na Zanzibar ziliungana tarehe 26 Aprili 1964."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Kupanda miti hulinda mazingira ya shule."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Tume ya uchaguzi husimamia uchaguzi."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "answer": {
+          "i": "B",
+          "ii": "C",
+          "iii": "A",
+          "iv": "D",
+          "v": "E"
+        },
+        "explanation": "Mwenge ni ishara ya matumaini. Uaminifu kazini ni maadili ya kazi. Kiswahili huunganisha watu. Uchaguzi ni msingi wa demokrasia. Kuhujumu mali ya umma kunadhuru uchumi."
+      }
+    ],
+    "3": [
+      {
+        "label": "3",
+        "type": "written",
+        "answer": "Wimbo wa Taifa hutukumbusha umoja, heshima kwa nchi na wajibu wa kutunza amani. Wanafunzi wa makundi tofauti huimba kama wanajamii wa taifa moja.",
+        "explanation": "Sisitiza maana ya alama ya pamoja badala ya utaratibu wa kuimba pekee."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Nguvu kazi hupunguza gharama za ujenzi.",
+        "explanation": "Kila hoja ihusishe ushiriki wa wananchi na matokeo ya maendeleo."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Ushiriki hujenga hisia za umiliki.",
+        "explanation": "Kila hoja ihusishe ushiriki wa wananchi na matokeo ya maendeleo."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Wananchi hufuatilia ubora wa kazi.",
+        "explanation": "Kila hoja ihusishe ushiriki wa wananchi na matokeo ya maendeleo."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Mahitaji ya eneo hutambuliwa vizuri.",
+        "explanation": "Kila hoja ihusishe ushiriki wa wananchi na matokeo ya maendeleo."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Ushirikiano huongeza uwezo wa kutunza zahanati.",
+        "explanation": "Kila hoja ihusishe ushiriki wa wananchi na matokeo ya maendeleo."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Utunzaji wa Serengeti na Kilimanjaro hufundisha kutupa taka mahali panapofaa, kuacha ujangili, kulinda vyanzo vya maji na kutumia mapato ya utalii katika uhifadhi.",
+        "explanation": "Vitendo vinavyorudiwa hujenga uwajibikaji kwa vizazi vijavyo."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Elimu shuleni na nyumbani kuhusu mavazi yanayofaa katika mazingira mbalimbali.",
+        "explanation": "Tumia ushawishi na mazungumzo yanayoheshimu utu."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Kuhamasisha wabunifu kuonyesha mitindo ya asili inayopendwa na vijana.",
+        "explanation": "Tumia ushawishi na mazungumzo yanayoheshimu utu."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Kuchapisha mapato na matumizi ya baraza la wanafunzi.",
+        "explanation": "Hatua ihusishe uwazi, usawa au uwajibikaji unaoweza kufuatiliwa."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Kusikiliza malalamiko bila upendeleo.",
+        "explanation": "Hatua ihusishe uwazi, usawa au uwajibikaji unaoweza kufuatiliwa."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Kugawa majukumu wazi na kuripoti utekelezaji.",
+        "explanation": "Hatua ihusishe uwazi, usawa au uwajibikaji unaoweza kufuatiliwa."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Mapinduzi yalimaliza utawala wa sultani.",
+        "explanation": "Tofautisha malengo ya usawa na matokeo halisi ya sera katika huduma na mahusiano ya jamii."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Serikali mpya ililenga kupunguza tabaka za kijamii.",
+        "explanation": "Tofautisha malengo ya usawa na matokeo halisi ya sera katika huduma na mahusiano ya jamii."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Upatikanaji wa elimu ulipanuliwa.",
+        "explanation": "Tofautisha malengo ya usawa na matokeo halisi ya sera katika huduma na mahusiano ya jamii."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Huduma za afya kwa umma zilipanuliwa.",
+        "explanation": "Tofautisha malengo ya usawa na matokeo halisi ya sera katika huduma na mahusiano ya jamii."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Sera za makazi na ardhi zililenga kuboresha maisha ya wananchi.",
+        "explanation": "Tofautisha malengo ya usawa na matokeo halisi ya sera katika huduma na mahusiano ya jamii."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Mgonjwa akiombwa hongo ili aonwe anaweza kukosa matibabu kwa wakati.",
+        "explanation": "Mfano uonyeshe huduma iliyopotoshwa na athari kwa mhusika."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Nafasi ya shule ikitolewa kwa hongo mwanafunzi mwenye sifa anaweza kukosa nafasi.",
+        "explanation": "Mfano uonyeshe huduma iliyopotoshwa na athari kwa mhusika."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Utandawazi hurahisisha kusambaza Kiswahili kwenye mtandao na kutangaza sanaa za Tanzania. Huleta pia maarifa ya teknolojia yanayoweza kusaidia kutunza kumbukumbu. Hata hivyo, matumizi yasiyochunguzwa yanaweza kusambaza uvumi au kupunguza matumizi ya lugha za jamii. Elimu ya vyombo vya habari na kutengeneza maudhui ya ndani husaidia kutumia fursa hizo kwa uwajibikaji.",
+        "explanation": "Jadili pande zote kwa mifano ya lugha, tabia na teknolojia."
+      }
+    ]
+  }
+}

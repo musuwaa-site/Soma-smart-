@@ -1,0 +1,398 @@
+{
+  "sourceId": "source-14b1f7f4a19f35e3",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Cooling lava builds a volcanic cone."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Economic geography explains how livelihoods depend on location and resources."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Earth spins eastward, so easterly places meet daylight first."
+      },
+      {
+        "label": "1(iv)",
+        "type": "review",
+        "answer": "If the stated quantity means time, 55°W to 35°E adds six hours, giving 10:00 from 4:00. The question literally asks for temperature, which these data cannot determine.",
+        "explanation": "Longitude changes time at four minutes per degree; it does not determine air temperature."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "360° divided into bands of 15° gives 24 time zones."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The Sun rises approximately in the east."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Northern summer solstice is around 21 June."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "People, air and surroundings share Earth’s motion."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The Big Bang describes the early expansion of the universe."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Very low rain and a large daily temperature range characterize desert conditions."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "H",
+          "ii": "C",
+          "iii": "I",
+          "iv": "B",
+          "v": "J"
+        },
+        "explanation": "Aphelion is near 4 July; a solar eclipse places the Moon between Earth and Sun; comets can show tails; a theory explains phenomena; longitude measures east or west."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "The living and non-living surroundings of an organism, including air, water, soils and other organisms.",
+        "explanation": "Environment includes natural and human-created conditions."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "A change of position with time; examples include Earth’s rotation and revolution.",
+        "explanation": "Motion is described relative to another position or body."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "The Sun and the bodies held in orbit by its gravity, including planets, satellites, asteroids and comets.",
+        "explanation": "The Sun is the central star."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "The galaxy containing the Sun and our solar system.",
+        "explanation": "It contains billions of stars and interstellar matter."
+      },
+      {
+        "label": "3(e)",
+        "type": "written",
+        "answer": "A large outer planet similar to Jupiter: Jupiter, Saturn, Uranus or Neptune.",
+        "explanation": "The school classification groups these large planets by their size and thick atmospheres, although Uranus and Neptune are more precisely ice giants."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Oceans cover about 71% of the surface, making Earth look blue from space.",
+        "explanation": "Sunlight reflected and scattered by water and atmosphere contributes to this appearance."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Water is the substance H₂O, occurring naturally as liquid, ice and water vapour.",
+        "explanation": "Its molecules contain hydrogen and oxygen."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "Earth is approximately spherical with a slight equatorial bulge; it has land and oceans; an atmosphere; a solid rocky surface; and liquid water supporting life.",
+        "explanation": "Each statement describes a distinct physical property."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Both subjects can discuss human ideas about creation and care for the environment.",
+        "explanation": "Religious accounts and scientific geographical explanations use different kinds of evidence and interpretation."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Chemistry helps explain rock composition, dissolved salts and pollution.",
+        "explanation": "Substances and reactions affect soils, rivers and air."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Biology helps explain vegetation, ecosystems and how organisms respond to climate.",
+        "explanation": "Life and environmental conditions influence each other."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Physical geography: astronomy.",
+        "explanation": "It concerns celestial natural phenomena."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Human geography: population geography.",
+        "explanation": "It studies the distribution and movement of people."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Physical geography.",
+        "explanation": "Natural landforms and processes are its focus."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "Economic geography, a branch of human geography.",
+        "explanation": "Agriculture is a human productive activity."
+      },
+      {
+        "label": "5(b)(v)",
+        "type": "written",
+        "answer": "Physical geography: geology.",
+        "explanation": "Earth’s structure is a natural characteristic."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Day and night",
+        "explanation": "Earth turns different places toward and away from the Sun."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Differences in local solar time",
+        "explanation": "Different meridians face the Sun at different times."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Apparent daily movement of the Sun and stars",
+        "explanation": "Their apparent westward motion reflects Earth’s eastward spin."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Deflection of moving air and water",
+        "explanation": "The Coriolis effect changes the apparent paths in Earth’s rotating frame."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "A slight equatorial bulge",
+        "explanation": "Rotation contributes to Earth’s oblate shape."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "The Moon is Earth’s natural satellite; Earth is a planet orbiting the Sun.",
+        "explanation": "They differ in size, orbit and physical conditions."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "An ordinary calendar year has 365 days; a leap year has 366 days, including 29 February.",
+        "explanation": "The extra day helps align the calendar with the approximately 365¼-day orbital period."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Low tide is the lower sea level in a tidal cycle; high tide is the higher level.",
+        "explanation": "The water rises and falls through the cycle."
+      },
+      {
+        "label": "7(d)",
+        "type": "written",
+        "answer": "Location states where a place is; place describes its characteristics.",
+        "explanation": "Coordinates give location, while vegetation and buildings describe place."
+      },
+      {
+        "label": "7(e)",
+        "type": "written",
+        "answer": "A planetesimal is a small body involved in planet formation; planetoid usually means a small planet-like object such as an asteroid.",
+        "explanation": "The first term emphasizes formation history and the second its size or category."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Draw the Sun beside a globe; show parallel rays lighting one hemisphere and leaving the opposite hemisphere dark. Label day, night, axis and eastward rotation.",
+        "explanation": "Only the hemisphere facing the Sun is illuminated at one time."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Supplies gases needed for life.",
+        "explanation": "Oxygen supports respiration and carbon dioxide supports photosynthesis."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Moderates surface temperatures.",
+        "explanation": "Atmospheric gases redistribute and retain heat."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "Protects life from harmful radiation and many small meteoroids.",
+        "explanation": "Ozone absorbs much ultraviolet radiation and air resistance heats incoming debris."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Tides.",
+        "explanation": "The coastal sea level rises and falls periodically."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "The periodic rise and fall of sea level, mainly caused by the Moon’s gravitational influence with an additional effect from the Sun.",
+        "explanation": "Earth’s rotation carries coasts through the tidal pattern."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "Draw Earth with a water bulge facing the Moon and another on the opposite side. Label high tides at the bulges, low tides at the sides, Earth and Moon.",
+        "explanation": "The bulges represent differences in gravitational and inertial effects across Earth."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Sun",
+        "explanation": "It supplies the light."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "Earth",
+        "explanation": "It casts the shadow in a lunar eclipse."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "Moon",
+        "explanation": "It enters Earth’s shadow."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "An eclipse occurs when one celestial body obscures another or passes through another body’s shadow.",
+        "explanation": "Approximate alignment of the bodies is required."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "Draw Sun → Earth → Moon in a straight line, with rays passing Earth and an umbral shadow reaching the Moon; label all three bodies, umbra and penumbra.",
+        "explanation": "At a lunar eclipse Earth lies between the Sun and the full Moon."
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "sourceId": "source-76ec0fefb4326053",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "60 degrees east gives four hours later, or 9 p.m."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Mercury, Venus, Earth and Mars are the inner planets in order."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Earth’s shadow on the Moon produces a lunar eclipse."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The Pacific has the greatest area."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Mountains, plains and plateaus are major land relief types."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The nebular hypothesis describes solar-system formation from gas and dust."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Axial tilt causes seasonal heating as Earth revolves.",
+        "acceptedAnswers": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A dormant volcano has erupted before but is currently quiet and can erupt again."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Compression buckles rock layers into folds."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Transporting crops is an economic activity in human geography."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "D",
+          "ii": "E",
+          "iii": "A",
+          "iv": "F",
+          "v": "C"
+        },
+        "explanation": "The list describes land relief, capes, Antarctica, straits and a continent respectively."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a) residual",
+        "type": "written",
+        "answer": "The Aravalli range and isolated remnants such as inselbergs on eroded uplands.",
+        "explanation": "Differential erosion leaves resistant rock standing."
+      },
+      {
+        "label": "3 fold",
+        "type": "written",
+        "answer": "Himalayas and Alps.",
+        "explanation": "Tectonic compression folded and uplifted rock."
+      },
+      {
+        "label": "3 volcanic",
+        "type": "written",
+        "answer": "Kilimanjaro and Mount Kenya.",
+        "explanation": "Volcanic eruptions built these mountains."
+      },
+      {
+        "label": "3(B)(i)",
+        "type": "written",
+        "answer": "A planet is a large, nearly spherical object orbiting a star that dominates its orbital neighbourhood.",
+        "explanation": "Earth is a planet."
+      },
+      {
+        "label": "3(B)(ii)",
+        "type": "written",
+        "answer": "The plants growing in an area.",
+        "explanation": "Vegetation may be natural or cultivated."
+      },
+      {
+        "label": "3(B)(iii)",
+        "type": "written",
+        "answer": "The Sun is overhead at the equator; day and night are nearly equal.",
+        "explanation": "This occurs twice in the year."
+      },
+      {
+        "label": "3(B)(iv)",
+        "type": "written",
+        "answer": "A major landmass or land division.",
+        "explanation": "Africa is a continent."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Map reading for travel; identifying suitable farmland; protecting water supplies; planning settlements; and preparing for careers such as surveying.",
+        "explanation": "Describe the decision or activity helped by geographical knowledge."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Aphelion is farthest from the Sun; perihelion is nearest.",
+        "explanation": "Distance varies along an elliptical orbit."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "An orbit is a path around a body; an axis is the line about which a body spins.",
+        "explanation": "Revolution follows the orbit, rotation is around the axis."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Rotation is spinning; revolution is orbiting another body.",
+        "explanation": "Earth rotates daily and revolves yearly."
+      },
+      {
+        "label": "5(d)",
+        "type": "written",
+        "answer": "An ocean is a major saltwater body; a sea is generally smaller and partly enclosed.",
+        "explanation": "The Indian Ocean includes smaller seas."
+      },
+      {
+        "label": "5(e)",
+        "type": "written",
+        "answer": "Local mean time is referenced to a place’s meridian; GMT is referenced to Greenwich.",
+        "explanation": "Longitude differences change local solar time."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "0°",
+        "explanation": "Latitude is measured north or south of the equator."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "23½°S",
+        "explanation": "Latitude is measured north or south of the equator."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "23½°N",
+        "explanation": "Latitude is measured north or south of the equator."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "90°N",
+        "explanation": "Latitude is measured north or south of the equator."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "90°S",
+        "explanation": "Latitude is measured north or south of the equator."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "A major expanse of interconnected salt water.",
+        "explanation": "Oceans occupy large basins between continents."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Pacific, Atlantic, Indian, Southern and Arctic.",
+        "explanation": "These are the five named oceans."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "An eclipse occurs when alignment of the Sun, Earth and Moon blocks direct sunlight or puts a body in shadow.",
+        "explanation": "The three bodies must align closely."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Solar and lunar.",
+        "explanation": "Solar obscures the Sun; lunar darkens the Moon."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Label Sun, Earth and Moon in that order with the Moon entering Earth’s shadow. Show sunlight travelling from the Sun, the dark umbra and partial penumbra.",
+        "explanation": "Earth lies between Sun and Moon."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Vegetation produces oxygen; stores carbon; supplies food; reduces erosion; provides medicines; and supplies timber and fibre for livelihoods.",
+        "explanation": "Photosynthesis drives oxygen production and carbon uptake. Roots stabilise soil, and plant tissues supply raw materials."
+      }
+    ]
+  }
+}

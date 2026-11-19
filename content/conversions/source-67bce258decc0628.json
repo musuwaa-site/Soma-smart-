@@ -1,0 +1,456 @@
+{
+  "sourceId": "source-67bce258decc0628",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "One litre is 1,000 cm³."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Density=0.72/0.24=3 g/cm³=3,000 kg/m³."
+      },
+      {
+        "label": "1(iii)",
+        "type": "review",
+        "answer": "Current and viscosity are both not ordinarily listed as changes caused by applying a force to an object.",
+        "explanation": "Stretching is a deformation and attraction names an interaction. The printed choices do not identify a unique exception."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Weight=mg=1×10=10 N."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Compression reduces the size of a body."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A spring balance measures force."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The three mechanical base quantities are length, mass and time, excluding temperature."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Being fun is a subjective description rather than a practical importance."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A measured value has a numerical magnitude and a unit."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B (Speed)",
+          "B (Velocity)",
+          "D"
+        ],
+        "answer": "B (Velocity)",
+        "explanation": "The printed paper repeats B for speed and velocity. Choose the B beside velocity, since north gives the direction."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "answer": {
+          "i": "E",
+          "ii": "D",
+          "iii": "G",
+          "iv": "A",
+          "v": "H"
+        },
+        "explanation": "Stretching extends material, gravity acts towards Earth, torsion twists, viscosity opposes fluid-layer movement and like electric charges repel."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Physical quantities are measurable properties of bodies or phenomena.",
+        "explanation": "Examples are length, mass and time."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "A unit is an agreed standard used to express a quantity.",
+        "explanation": "The metre is the SI base unit for length."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Approximately 200 cm³.",
+        "explanation": "The printed cylinders show water rising from 100 to 300 cm³."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "0.25 g/cm³.",
+        "explanation": "Density=50/200. The low value follows the printed mass and displaced volume."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Mathematics expresses physical laws quantitatively and enables calculation, comparison and prediction.",
+        "explanation": "For example, ρ=m/V connects measurements of mass and volume to density."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Geography uses instruments and physical principles for weather, climate and Earth studies.",
+        "explanation": "Temperature, pressure and rainfall observations are physical measurements."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Chemistry uses energy, atomic structure, pressure and electrical measurements.",
+        "explanation": "For example, heating and electrical conductivity connect chemical substances to physical properties."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Space.",
+        "explanation": "It provides dimensions and positions for physical events."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Time.",
+        "explanation": "It orders events and measures their duration."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Matter.",
+        "explanation": "It comprises the material contents of physical systems."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Energy.",
+        "explanation": "It is carried, stored and transferred in physical processes."
+      },
+      {
+        "label": "5(b)(i)(a)",
+        "type": "written",
+        "answer": "Astronomy.",
+        "explanation": "It investigates distant celestial objects."
+      },
+      {
+        "label": "5(b)(i)(b)",
+        "type": "written",
+        "answer": "Telescope.",
+        "explanation": "It collects and focuses radiation from distant objects."
+      },
+      {
+        "label": "5(b)(ii)(a)",
+        "type": "written",
+        "answer": "Medicine.",
+        "explanation": "It diagnoses and treats disease using physical measurements and interventions."
+      },
+      {
+        "label": "5(b)(ii)(b)",
+        "type": "written",
+        "answer": "Ultrasound scanner or X-ray machine.",
+        "explanation": "Sound or electromagnetic radiation provides internal images."
+      },
+      {
+        "label": "5(b)(iii)(a)",
+        "type": "written",
+        "answer": "Geography or geophysics.",
+        "explanation": "Weather and Earth's crust involve atmospheric and Earth physics."
+      },
+      {
+        "label": "5(b)(iii)(b)",
+        "type": "written",
+        "answer": "Thermometer, barometer or seismometer.",
+        "explanation": "These measure temperature, atmospheric pressure or Earth vibrations."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "review",
+        "answer": "A ruler, tape or suitable calipers could measure these dimensions; the exact instrument is not stated.",
+        "explanation": "The decimal places alone cannot uniquely identify the apparatus."
+      },
+      {
+        "label": "6(b)",
+        "type": "review",
+        "answer": "The accuracy cannot be determined without specifying the actual instrument and its calibration.",
+        "explanation": "Resolution and accuracy are different characteristics."
+      },
+      {
+        "label": "6(c)",
+        "type": "review",
+        "answer": "The instrument error cannot be determined from the supplied dimensions alone.",
+        "explanation": "A least count and any zero error or calibration result are needed."
+      },
+      {
+        "label": "6(d)",
+        "type": "review",
+        "answer": "The stated length converts to 30 cm.",
+        "explanation": "A true corrected length cannot be known without an error estimate."
+      },
+      {
+        "label": "6(e)",
+        "type": "written",
+        "answer": "0.006 m³.",
+        "explanation": "V=0.3×0.2×0.1."
+      },
+      {
+        "label": "6(f)",
+        "type": "written",
+        "answer": "2,500 kg/m³.",
+        "explanation": "Divide 15 kg by 0.006 m³."
+      },
+      {
+        "label": "6(g)",
+        "type": "written",
+        "answer": "Glass, consistent with the given reference density.",
+        "explanation": "Density is useful evidence but is not a unique material identification by itself."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "Fundamental quantities are independently defined base quantities, such as length and time.",
+        "explanation": "They define the base unit set."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Derived quantities combine base quantities, such as speed and density.",
+        "explanation": "Their units are products or quotients of base units."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Trading goods by mass.",
+        "explanation": "A balance enables a seller to supply a specified amount."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Timing travel or school activities.",
+        "explanation": "Clocks and watches compare durations to seconds, minutes or hours."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "Measuring building dimensions.",
+        "explanation": "Accurate lengths help materials fit and support planning."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Physics explains natural phenomena.",
+        "explanation": "For example, optics explains reflection and refraction."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Physics supports technology.",
+        "explanation": "Generators, radios and medical scanners apply physical laws."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "Physics develops quantitative problem-solving and career skills.",
+        "explanation": "Experiments connect measurements to models and predictions."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Tape measure.",
+        "explanation": "It can cover long distances with fewer placements than a metre rule."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "It is longer and flexible, making the route easier to measure.",
+        "explanation": "Fewer joins can reduce cumulative placement errors."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "Misalignment, a sagging tape, starting away from zero, or repeated-placement error.",
+        "explanation": "The measured path and tension need consistent control."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(1)",
+        "type": "written",
+        "answer": "Mass is matter quantity or inertia; weight is gravitational force.",
+        "explanation": "Weight=mg."
+      },
+      {
+        "label": "9(2)",
+        "type": "written",
+        "answer": "Mass is scalar; weight is vector.",
+        "explanation": "Weight has a direction towards the attracting body."
+      },
+      {
+        "label": "9(3)",
+        "type": "written",
+        "answer": "Mass has SI unit kilogram; weight has SI unit newton.",
+        "explanation": "Force units are kg·m/s²."
+      },
+      {
+        "label": "9(4)",
+        "type": "written",
+        "answer": "A beam balance measures mass; a spring balance measures weight or force.",
+        "explanation": "They compare different physical effects."
+      },
+      {
+        "label": "9(5)",
+        "type": "written",
+        "answer": "Mass is constant between locations; weight varies with gravitational field strength.",
+        "explanation": "Changing g changes W for the same m."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Vernier calipers.",
+        "explanation": "The sliding vernier gives a fractional main-scale reading."
+      },
+      {
+        "label": "10(a)(ii)-A",
+        "type": "written",
+        "answer": "Locking screw.",
+        "explanation": "It holds the movable jaw at the measured position."
+      },
+      {
+        "label": "10(a)(ii)-B",
+        "type": "written",
+        "answer": "Vernier scale.",
+        "explanation": "Its marks resolve a fraction of a main-scale division."
+      },
+      {
+        "label": "10(a)(ii)-C",
+        "type": "written",
+        "answer": "Main scale.",
+        "explanation": "It supplies the coarse length reading."
+      },
+      {
+        "label": "10(a)(ii)-D",
+        "type": "written",
+        "answer": "Movable external jaw.",
+        "explanation": "It slides against the other side of an object."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "External dimensions and internal dimensions; a complete caliper with depth rod also measures depths.",
+        "explanation": "The particular simplified drawing emphasises external jaws, so match each function to an actual feature of the instrument."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "review",
+        "answer": "Read the last visible sleeve division and add the aligned thimble division × 0.01 mm.",
+        "explanation": "The sleeve-edge coincidence is too indistinct in this scan for a unique accurate numerical reading."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "review",
+        "answer": "Use main-scale reading + circular-scale reading × least count.",
+        "explanation": "The second sleeve and thimble overlap are too indistinct for a unique reliable exact value from this copy."
+      }
+    ]
+  }
+}

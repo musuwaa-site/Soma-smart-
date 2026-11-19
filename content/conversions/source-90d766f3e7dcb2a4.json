@@ -1,0 +1,515 @@
+{
+  "sourceId": "source-90d766f3e7dcb2a4",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Physics connects matter with energy."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Sugar is sold by its mass, ordinarily measured in kilograms."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Divide grams by 1,000 to obtain kilograms."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Equal masses need equal net forces for the same acceleration, assuming other resisting forces are equal."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Relative density 2.5 means density 2.5 times that of water."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A floating body displaces fluid with weight equal to its own."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Surface tension can support a very light organism at the water surface."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Narrower tubes produce greater capillary rise for the same liquid and surface."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Hydrostatic pressure is ρgh."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "One watt is one joule transferred per second."
+      },
+      {
+        "label": "1(xi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "360°/90° − 1 = 3 images."
+      },
+      {
+        "label": "1(xii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The electroscope responds to small electric charges."
+      },
+      {
+        "label": "1(xiii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Parallel resistance is 4×6/(4+6) = 2.4 Ω."
+      },
+      {
+        "label": "1(xiv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A magnetic field is the region where a magnet exerts magnetic forces."
+      },
+      {
+        "label": "1(xv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Distance = moment/force = 1120/5600 = 0.2 m."
+      },
+      {
+        "label": "1(xvi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A crowbar and claw hammer can have the fulcrum between effort and load."
+      },
+      {
+        "label": "1(xvii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Constant acceleration gives a straight line on a velocity–time graph."
+      },
+      {
+        "label": "1(xviii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "F = ma = 40×0.2 = 8 N."
+      },
+      {
+        "label": "1(xix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A hypsometer supplies steam at the boiling point to establish the upper fixed point."
+      },
+      {
+        "label": "1(xx)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A dry cell consumes stored chemical material and is not a renewable energy source."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "D",
+          "iii": "G",
+          "iv": "A",
+          "v": "B"
+        },
+        "explanation": "Geothermal energy comes from Earth’s heat; wood energy uses biomass; sustainable sources can be replenished; rotating turbine blades capture wind; sunlight is solar energy."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "A physical quantity, expressed as a numerical value and a unit.",
+        "explanation": "The number describes how many units are measured."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Energy losses, chiefly through friction and deformation.",
+        "explanation": "Some input energy becomes heat or sound instead of useful output work."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "10 kg·m/s.",
+        "explanation": "Momentum = mass × velocity = 5×2."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Umbra.",
+        "explanation": "No direct light from the source reaches the total-shadow region."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Concave meniscus.",
+        "explanation": "Adhesion to clean glass raises the water near the walls."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "s = ut + ½at².",
+        "explanation": "Integrating uniformly changing velocity over time gives the displacement equation."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "v² = u² + 2as.",
+        "explanation": "Eliminating time between v = u+at and the displacement equation gives this result."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Velocity is the rate of change of displacement, with a direction.",
+        "explanation": "Its SI unit is m/s."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Retardation is acceleration opposite to the direction of motion.",
+        "explanation": "It reduces the speed while that direction persists."
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "10 s.",
+        "explanation": "The ascent takes u/g = 50/10 = 5 s and the descent to the same level takes another 5 s, neglecting air resistance."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "125 m.",
+        "explanation": "At the top v=0; h=u²/(2g)=2500/20."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Elastic potential energy.",
+        "explanation": "Reversible stretching or compression stores energy in the deformation."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "The upward support force on the books is perpendicular to their horizontal displacement.",
+        "explanation": "Mechanical work by that support force is F s cos90° = 0."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "5 m.",
+        "explanation": "Initial mgh=40 J; 10 J remain after the 30 J loss, so h=10/(0.2×10)."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "A thin wire produces greater pressure for the same applied force.",
+        "explanation": "Pressure equals force divided by contact area."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Drinking through a straw.",
+        "explanation": "Lower pressure inside the straw lets atmospheric pressure push the drink upwards."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Operating a suction pump.",
+        "explanation": "Reducing pressure in the chamber allows atmospheric pressure to lift liquid within the pump’s limit."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "Using a syringe.",
+        "explanation": "Pulling the plunger reduces internal pressure so the surrounding pressure pushes fluid in."
+      },
+      {
+        "label": "6(b)(iv)",
+        "type": "written",
+        "answer": "Attaching a suction cup.",
+        "explanation": "Air is expelled and the higher outside pressure holds the cup against the surface."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "4,000,000 Pa.",
+        "explanation": "Weight=80,000 N. Four equal contacts have total area 200 cm²=0.02 m², so P=80,000/0.02."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Centre of gravity is the point through which resultant weight acts; centre of mass describes the mass distribution.",
+        "explanation": "They coincide in a uniform gravitational field but need not coincide in a nonuniform field."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Bending forward keeps the vertical line through the centre of gravity within the supporting feet.",
+        "explanation": "This improves stability on the slope."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "8/3 m ≈ 2.67 m.",
+        "explanation": "With a perpendicular force, moment=force×length, so length=320/120."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "The resultant force equals the rate of change of momentum and acts in that direction.",
+        "explanation": "For constant mass, F=ma."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Walking.",
+        "explanation": "The foot pushes the ground backwards and the ground pushes the person forwards."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Rocket propulsion.",
+        "explanation": "Expelled gas is pushed backwards and exerts a forward force on the rocket."
+      },
+      {
+        "label": "8(c)(i)",
+        "type": "written",
+        "answer": "0 m/s.",
+        "explanation": "The momenta 0.100×5 and 0.500×(−1) cancel, leaving zero total momentum for the joined 0.600 kg body."
+      },
+      {
+        "label": "8(c)(ii)",
+        "type": "written",
+        "answer": "Perfectly inelastic collision.",
+        "explanation": "The bodies stick together and kinetic energy is not conserved."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "It spreads the rise over a longer distance so a smaller effort can raise the load.",
+        "explanation": "An ideal plane trades force for distance while the work remains mgh."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Draw two fixed pulleys and two movable pulleys with four rope sections supporting the movable block.",
+        "explanation": "Anchor one rope end to the fixed support, thread it alternately around movable and fixed pulleys, attach the load to the movable block and pull the free end."
+      },
+      {
+        "label": "9(c)(i)",
+        "type": "written",
+        "answer": "6.4, assuming the arrangement has velocity ratio 8.",
+        "explanation": "Efficiency = MA/VR, hence MA=0.8×8."
+      },
+      {
+        "label": "9(c)(ii)",
+        "type": "written",
+        "answer": "1,280 N under that assumption.",
+        "explanation": "Load = MA×effort = 6.4×200. The number of pulleys alone needs an arrangement to determine VR."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "Connect a battery, switch, ammeter, 2 Ω, 4 Ω and 6 Ω resistors in one closed series loop.",
+        "explanation": "Use conventional circuit symbols and put the ammeter in series."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "2 A.",
+        "explanation": "Total resistance=12 Ω, so I=24/12."
+      },
+      {
+        "label": "10(c)(i)",
+        "type": "written",
+        "answer": "4 V across 2 Ω.",
+        "explanation": "V=IR=2×2."
+      },
+      {
+        "label": "10(c)(ii)",
+        "type": "written",
+        "answer": "8 V across 4 Ω.",
+        "explanation": "V=IR=2×4."
+      },
+      {
+        "label": "10(c)(iii)",
+        "type": "written",
+        "answer": "12 V across 6 Ω.",
+        "explanation": "V=IR=2×6; all three drops add to 24 V."
+      }
+    ]
+  }
+}

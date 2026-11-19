@@ -112,3 +112,14 @@ test('page-backed attempts preserve every original group with keyed, independent
     }
   }
 });
+
+test('every published paper has a complete individual-response practice route', () => {
+  const published = studentRelease(data);
+  assert.equal(published.sourceDocuments.length,180);
+  for (const doc of published.sourceDocuments) {
+    const paper = published.papers.find(p=>p.id===doc.interactivePaperId);
+    assert(paper?.questionIds.length,doc.id);
+    assert(paper.completePaper || paper.practiceOrder || paper.transcriptionComplete,doc.id);
+    assert(paper.completePaper || !(paper.excludedQuestions?.length) || paper.reviewOnlyItems?.length,doc.id);
+  }
+});

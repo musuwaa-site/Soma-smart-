@@ -1,0 +1,435 @@
+{
+  "sourceId": "source-edb7b4b380899633",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Rotation means spinning on an axis."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Earth has known life-supporting environments."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Read the first three digits as eastings and the last three as northings."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "At 0.6°C per 100 m, 1,500 m reduces 30°C by 9°C."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The main layers are crust, mantle and core."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Compression folds or wrinkles the crust."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Dry air and clear skies allow rapid heating and cooling."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Three hours later means 45° east of 10°W, or 35°E."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A wind vane indicates where wind comes from."
+      },
+      {
+        "label": "1(x)",
+        "type": "review",
+        "answer": "The representative fraction is missing from this copy, so the statement scale cannot be selected uniquely.",
+        "explanation": "For example, 1:250,000 would mean 1 cm to 2.5 km, but that value is not printed."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "D",
+          "iii": "J",
+          "iv": "M",
+          "v": "E",
+          "vi": "K",
+          "vii": "B",
+          "viii": "H",
+          "ix": "G",
+          "x": "N"
+        },
+        "explanation": "Rotation causes day and night; cardinal directions are N/E/S/W; the date line follows roughly 180°; meteors involve incoming space material; beaches lie at the shore; Mozambique is warm; isotherms join equal temperature; equatorial rainfall often has two maxima; lapse rate is cooling with height; contours and spot heights show relief."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Back bearing looks from the target back toward the observer."
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Africa is crossed by both tropics; the Americas are normally divided into North and South America."
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "A single meridian is a semicircle; opposite meridians together make a great circle."
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "An orbit is the path of a body around another; both Moon and Earth follow orbital paths."
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Tanganyika occupies a rift depression."
+      },
+      {
+        "label": "3(vi)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Industrial fuel burning and processes can pollute air."
+      },
+      {
+        "label": "3(vii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Both describe temperature, rain, wind and other atmospheric elements over different time periods."
+      },
+      {
+        "label": "3(viii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "The windward slope faces the incoming wind."
+      },
+      {
+        "label": "3(ix)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "A depression is a low-pressure area with inward circulation."
+      },
+      {
+        "label": "3(x)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Maps represent places at a reduced scale."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "13°C.",
+        "explanation": "23 − 10 = 13."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "933 mm.",
+        "explanation": "Add all twelve rainfall observations."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Mediterranean-type climate: dry warmer summer and wet cooler winter.",
+        "explanation": "Rain is highest around June–August while the warmest months at the start and end of the year are relatively dry."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "A Southern Hemisphere Mediterranean climatic region, such as southwestern Cape South Africa.",
+        "explanation": "June–August are cool and wet, consistent with southern winter."
+      },
+      {
+        "label": "4(a)(v)",
+        "type": "written",
+        "answer": "Grapes and olives; wheat is also suitable.",
+        "explanation": "These crops are associated with Mediterranean seasonal conditions."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Square-grid counting; dividing the shape into regular geometrical figures; or a planimeter.",
+        "explanation": "All estimate area within an irregular boundary."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Thread or string, dividers, and a strip of paper marked along the bends.",
+        "explanation": "Follow the river’s curved course and convert the accumulated map length using scale."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Representative fraction 1:50,000.",
+        "explanation": "One unit on the map represents 50,000 of the same units on the ground."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Check scale, direction and the key.",
+        "explanation": "These establish distance conversion, orientation and symbol meaning."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Reliable water flow, sufficient head or steep fall, and suitable dam foundations/reservoir space.",
+        "explanation": "Power depends on water discharge and vertical fall."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Treat sewage and industrial effluent; prevent dumping into water; and protect water sources through regulation and monitoring.",
+        "explanation": "These measures reduce pollution at its sources."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Pests such as boll weevil, drought or unsuitable rainfall, soil exhaustion and competition from other crops or synthetic fibres.",
+        "explanation": "Cotton needs adequate growing conditions and a profitable market."
+      },
+      {
+        "label": "5(d)",
+        "type": "written",
+        "answer": "Oil spills, damage to habitats, fire risk, costly equipment and technically difficult deposits.",
+        "explanation": "Drilling poses environmental, safety and financial challenges."
+      },
+      {
+        "label": "5(e)(i)",
+        "type": "written",
+        "answer": "Keeping livestock confined and bringing feed to them.",
+        "explanation": "Animals do not graze freely over pasture."
+      },
+      {
+        "label": "5(e)(ii)",
+        "type": "written",
+        "answer": "Improving damaged, waterlogged or otherwise unproductive land for use.",
+        "explanation": "Drainage, irrigation and soil restoration are examples."
+      },
+      {
+        "label": "5(f)",
+        "type": "written",
+        "answer": "Use efficient stoves; adopt solar or other clean cooking energy; and improve cooking efficiency, such as lids and shared cooking.",
+        "explanation": "Reducing fuel demand reduces pressure on woodlands."
+      },
+      {
+        "label": "5(g)",
+        "type": "written",
+        "answer": "Contour farming, terracing and maintaining vegetation cover.",
+        "explanation": "They slow runoff and retain soil."
+      },
+      {
+        "label": "5(h)",
+        "type": "written",
+        "answer": "Creates employment, adds value to raw materials and earns tax/export income.",
+        "explanation": "Processing increases the economic value of output."
+      },
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Export earnings, public revenue and employment.",
+        "explanation": "Mineral activity can fund infrastructure and stimulate related services."
+      },
+      {
+        "label": "5(j)",
+        "type": "written",
+        "answer": "Unequal access to land, exclusion from education and restrictions on employment or decision-making.",
+        "explanation": "These deny women equal opportunities and rights."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Storms, piracy, shallow or poorly equipped ports, high investment costs, pollution, long travel times and limited inland access.",
+        "explanation": "Marine transport needs safe routes, suitable harbours and links to roads or rail."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Agriculture supplies food, rural jobs, industrial raw materials, export earnings and markets for manufactured goods. Better farm incomes can improve health and education.",
+        "explanation": "Each benefit links farm production to households and other sectors."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Attractions and conservation; safe and reliable transport; accommodation; security; trained staff; marketing; and supportive public services.",
+        "explanation": "Tourists need worthwhile places to visit and services that make the visit possible."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Limited finance or collateral, unequal property rights, unpaid care workloads, lack of business networks, limited training and discrimination.",
+        "explanation": "These barriers restrict women’s resources, time and market access."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Solar energy is renewable, reduces operating fuel costs, creates little pollution during use, supports remote services and reduces demand for wood or fossil fuels.",
+        "explanation": "Discuss benefits while recognizing initial cost, storage and variable sunlight."
+      }
+    ]
+  }
+}

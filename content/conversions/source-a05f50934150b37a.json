@@ -1,0 +1,359 @@
+{
+  "sourceId": "source-a05f50934150b37a",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Telephones transmit messages over long distances."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Laboratory rules reduce the risk of injury and damage."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A hollow ship has a low average density including the air it encloses."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Bicycle motion involves friction, turning couples and pulling forces."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A narrow stem gives a greater height change for a small displaced-volume change."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A drop spread into a film gives thickness approximately equal to volume/area."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A thick handle spreads the load over more skin area."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The Sun, stars and lightning emit light without artificial lighting equipment."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Falling reduces height and increases speed."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Contact with a positive conductor can remove electrons from the neutral conductor."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "answer": {
+          "i": "B",
+          "ii": "C",
+          "iii": "D",
+          "iv": "E",
+          "v": "A"
+        },
+        "explanation": "Hydrometers measure liquid density; a Eureka can displaces liquid for an irregular solid; a pipette transfers a fixed volume; a measuring cylinder measures the collected volume; a density bottle enables density measurement of insoluble granules."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Heat the magnet strongly.",
+        "explanation": "Thermal agitation disrupts alignment of magnetic domains."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Hammer the magnet while it is away from a strong aligning magnetic field.",
+        "explanation": "Mechanical disturbance can randomise domain alignment."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Place it in an alternating magnetic field and gradually reduce the field.",
+        "explanation": "Repeated reversal with decreasing amplitude leaves little net alignment."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Compass navigation.",
+        "explanation": "A compass magnet aligns with Earth’s field."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Electric motors.",
+        "explanation": "Magnetic forces on current-carrying conductors create rotation."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "Loudspeakers.",
+        "explanation": "A coil in a magnetic field moves a diaphragm when current changes."
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "written",
+        "answer": "Magnetic door catches.",
+        "explanation": "Attraction holds the catch shut until pulled open."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "The constriction delays the return of mercury to the bulb so the maximum reading can be read after removal.",
+        "explanation": "Shake the thermometer to return the liquid before another measurement."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "The liquid expands when heated and contracts when cooled relative to the glass.",
+        "explanation": "The change in volume moves the liquid along a narrow calibrated capillary."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "−40°.",
+        "explanation": "Set C = 9C/5 + 32, giving −4C/5=32 and C=−40."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "The car usually needs a greater force to overcome rolling resistance and has greater inertia.",
+        "explanation": "For the same unbalanced force its larger mass gives less acceleration. Mass alone does not require zero motion."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Balanced forces can act on a stationary object or one moving at constant velocity.",
+        "explanation": "Newton’s first law requires zero resultant force, not absence of all forces."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "11,666.7 kg·m/s for the car.",
+        "explanation": "120 km/h = 33⅓ m/s; multiply by 350 kg."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "11,111.1 kg·m/s for the bus.",
+        "explanation": "40 km/h = 11.111 m/s; multiply by 1,000 kg."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "0.4 m/s².",
+        "explanation": "Use a=F/m=20/50. The three-second duration is not needed for acceleration."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "480 m.",
+        "explanation": "Speed after accelerating is 20 m/s. Add areas ½×5×20 + 20×20 + ½×3×20 = 50+400+30."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "An inclined plane raises a load with less force applied over a greater distance.",
+        "explanation": "It transfers the lifting work over the ramp length."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "10/3 ≈ 3.33.",
+        "explanation": "Velocity ratio R/r = 50/15."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "17/6 ≈ 2.83.",
+        "explanation": "Mechanical advantage = efficiency × velocity ratio = 0.85×10/3."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "A force causes rotation when its line of action has a perpendicular distance from the pivot and the resulting moments do not balance.",
+        "explanation": "Its turning effect is moment=force×perpendicular distance."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "6.5 N downwards at the left end.",
+        "explanation": "Balance X×0.40 = 4×0.60 + 2×0.10, giving X=2.6/0.4."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Natural gas combustion emits carbon dioxide and may leak methane. Geothermal usually has lower emissions but may release underground gases or hot mineral-rich water.",
+        "explanation": "Neither is impact-free; controlled geothermal extraction usually causes less air pollution than burning gas."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Natural gas is finite. Geothermal can be sustained by managing extraction and reinjecting fluids.",
+        "explanation": "A renewable heat source can be depleted locally if removed faster than it is replenished."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "Solar cars reduce direct fossil-fuel consumption.",
+        "explanation": "Their panels can obtain energy from replenished sunlight."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "They avoid exhaust emissions while running on solar electricity.",
+        "explanation": "Their full environmental impact also depends on manufacturing and stored energy sources."
+      },
+      {
+        "label": "9(c)(i)",
+        "type": "written",
+        "answer": "Output can fall during drought.",
+        "explanation": "Generation depends on water flow and reservoir level."
+      },
+      {
+        "label": "9(c)(ii)",
+        "type": "written",
+        "answer": "Dams can flood land and displace communities.",
+        "explanation": "Reservoir construction changes land use over a large area."
+      },
+      {
+        "label": "9(c)(iii)",
+        "type": "written",
+        "answer": "Dams disrupt river habitats and sediment movement.",
+        "explanation": "Fish migration and downstream ecosystems can be affected."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "An ammeter is connected in series with the component.",
+        "explanation": "The same current passes through the low-resistance meter and component."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "A voltmeter is connected in parallel across the component.",
+        "explanation": "It measures potential difference between the two ends and has high resistance."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "1.4 A.",
+        "explanation": "The branches have 2 Ω and 2+3=5 Ω. Their currents at 2 V are 1 A and 0.4 A; the ammeter reads the sum."
+      }
+    ]
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "sourceId": "source-d23fc1f5437647e1",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)(i)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Kifungu kinataja umri na jinsia zote.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(a)(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Ofisi za serikali hazijatajwa.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(a)(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Vifo vya wazazi na ugumu wa maisha husukuma watoto kutafuta riziki.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(a)(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Elimu inaongeza uwezo wa maisha ya baadaye.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(a)(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Vimbunga ni tukio la kiasili.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(a)(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Kuzingatia sheria na umakini hupunguza ajali.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(a)(vii)(i)",
+        "type": "written",
+        "answer": "Alionyesha huzuni.",
+        "explanation": "Fasiri usemi kwa maana yake ya muktadha."
+      },
+      {
+        "label": "1(a)(vii)(ii)",
+        "type": "written",
+        "answer": "Liwe jambo la muhimu linalohitaji jitihada zote.",
+        "explanation": "Fasiri usemi kwa maana yake ya muktadha."
+      },
+      {
+        "label": "1(a)(vii)(iii)",
+        "type": "written",
+        "answer": "Dhamira thabiti husaidia kupata ufumbuzi.",
+        "explanation": "Fasiri usemi kwa maana yake ya muktadha."
+      },
+      {
+        "label": "1(a)(viii)",
+        "type": "written",
+        "answer": "Ajali na Watoto",
+        "explanation": "Kichwa cha maneno matatu kinabeba kiungo cha ajali na athari kwa watoto."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "Ajali husababisha vifo na majeraha kwa watu wa rika zote. Watoto wanaopoteza wazazi huweza kuacha shule na kuingia katika kazi hatari. Hupata madhara ya kiafya na kukosa ulinzi. Jamii ijitahidi kuzuia ajali zinazozuilika, kupinga ajira hatarishi kwa watoto na kuwapatia elimu walioathirika.",
+        "explanation": "Bana habari kwa maneno yasiyozidi sitini."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)(i)",
+        "type": "mcq",
+        "answer": "KWELI",
+        "explanation": "Lugha huonyesha utambulisho.",
+        "options": [
+          "KWELI",
+          "SI KWELI"
+        ]
+      },
+      {
+        "label": "2(a)(ii)",
+        "type": "mcq",
+        "answer": "SI KWELI",
+        "explanation": "Fani na maudhui ni nyanja za fasihi.",
+        "options": [
+          "KWELI",
+          "SI KWELI"
+        ]
+      },
+      {
+        "label": "2(a)(iii)",
+        "type": "mcq",
+        "answer": "SI KWELI",
+        "explanation": "Tanzu kuu ni mazungumzo na maandishi; maeneo yaliyotajwa ni ya sarufi.",
+        "options": [
+          "KWELI",
+          "SI KWELI"
+        ]
+      },
+      {
+        "label": "2(a)(iv)",
+        "type": "mcq",
+        "answer": "SI KWELI",
+        "explanation": "Mawasiliano yapo pia ana kwa ana kwa lugha na ishara.",
+        "options": [
+          "KWELI",
+          "SI KWELI"
+        ]
+      },
+      {
+        "label": "2(a)(v)",
+        "type": "mcq",
+        "answer": "KWELI",
+        "explanation": "Muktadha hubadili uteuzi wa lugha.",
+        "options": [
+          "KWELI",
+          "SI KWELI"
+        ]
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "Wamebeba sehemu ya juu ya nyumba / mnyama paa.",
+        "explanation": "Kila tafsiri itofautishe maana ya neno au muundo tata."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "Amekodi chumba / amekipanga kwa kuweka vitu sawasawa.",
+        "explanation": "Kila tafsiri itofautishe maana ya neno au muundo tata."
+      },
+      {
+        "label": "2(b)(iii)",
+        "type": "written",
+        "answer": "Aliniunga mkono niliovunjika / alinisaidia au kunikubalia.",
+        "explanation": "Kila tafsiri itofautishe maana ya neno au muundo tata."
+      },
+      {
+        "label": "2(b)(iv)",
+        "type": "written",
+        "answer": "Njoo na mboga nyanya / njoo na bibi.",
+        "explanation": "Kila tafsiri itofautishe maana ya neno au muundo tata."
+      },
+      {
+        "label": "2(b)(v)",
+        "type": "written",
+        "answer": "Si nyumba ya kulaza wageni / si nyumba inayomilikiwa na wageni.",
+        "explanation": "Kila tafsiri itofautishe maana ya neno au muundo tata."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Mchezo.",
+        "explanation": "Nomino hutaja mtu, kitendo au matokeo yanayohusiana na kitenzi."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Mwandishi.",
+        "explanation": "Nomino hutaja mtu, kitendo au matokeo yanayohusiana na kitenzi."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Msemaji.",
+        "explanation": "Nomino hutaja mtu, kitendo au matokeo yanayohusiana na kitenzi."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "written",
+        "answer": "Mkulima.",
+        "explanation": "Nomino hutaja mtu, kitendo au matokeo yanayohusiana na kitenzi."
+      },
+      {
+        "label": "3(a)(v)",
+        "type": "written",
+        "answer": "Kifungo.",
+        "explanation": "Nomino hutaja mtu, kitendo au matokeo yanayohusiana na kitenzi."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "review",
+        "answer": "Neno lililopigiwa mstari halionekani katika nakala hii. Sentensi ina aina kadhaa za maneno, hivyo neno lengwa linahitajika.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "review",
+        "answer": "Neno lililopigiwa mstari halionekani katika nakala hii. Sentensi ina aina kadhaa za maneno, hivyo neno lengwa linahitajika.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "review",
+        "answer": "Neno lililopigiwa mstari halionekani katika nakala hii. Sentensi ina aina kadhaa za maneno, hivyo neno lengwa linahitajika.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "review",
+        "answer": "Neno lililopigiwa mstari halionekani katika nakala hii. Sentensi ina aina kadhaa za maneno, hivyo neno lengwa linahitajika.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(b)(v)",
+        "type": "review",
+        "answer": "Neno lililopigiwa mstari halionekani katika nakala hii. Sentensi ina aina kadhaa za maneno, hivyo neno lengwa linahitajika.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(c)",
+        "type": "review",
+        "answer": "Asili, mpangilio wa kialfabeti, matamshi, aina, maana na matumizi yote yanaweza kuonekana katika kamusi. Swali linaomba matano lakini orodha inatoa angalau sita yanayofaa; kubali matano sahihi badala ya ufunguo mmoja wa lazima.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(d)(i)",
+        "type": "written",
+        "answer": "nimpige",
+        "explanation": "Nafsi ya kwanza mtenda na yambwa mtoto zinatoa ni-m-pig-e."
+      },
+      {
+        "label": "3(d)(ii)",
+        "type": "written",
+        "answer": "nisingelikuja",
+        "explanation": "Kama ningejua huambatana na matokeo ya hali ambayo haikutokea."
+      },
+      {
+        "label": "3(d)(iii)",
+        "type": "written",
+        "answer": "wasaa",
+        "explanation": "Wasaa ni nafasi au muda wa kufanya jambo."
+      },
+      {
+        "label": "3(d)(iv)",
+        "type": "written",
+        "answer": "dhana",
+        "explanation": "Dhana ni wazo au taswira ya kufikiri."
+      },
+      {
+        "label": "3(d)(v)",
+        "type": "written",
+        "answer": "kumwagiwa",
+        "explanation": "Umbo la kutendewa linaonyesha mafuta kuwekwa juu ya nyoka; swali linapima lugha, si njia salama ya kushughulikia nyoka."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "review",
+        "answer": "Kielelezo kinachotakiwa kujazwa hakipo katika nakala hii. Barua rasmi kwa kawaida ina anuani ya mwandishi, tarehe, anuani ya mpokeaji, salamu, kichwa, mwili, hitimisho, sahihi na jina.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "review",
+        "answer": "Mchoro wa kujaza hauonekani katika nakala hii, hivyo nafasi na vipengele vinavyotakiwa haviwezi kutambuliwa.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "mcq",
+        "answer": "K",
+        "explanation": "Linganisha utani, fani, michezo, semi, mandhari, hadhira, fanani, hadithi, maudhui na majigambo na fasili zao.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Linganisha utani, fani, michezo, semi, mandhari, hadhira, fanani, hadithi, maudhui na majigambo na fasili zao.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Linganisha utani, fani, michezo, semi, mandhari, hadhira, fanani, hadithi, maudhui na majigambo na fasili zao.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Linganisha utani, fani, michezo, semi, mandhari, hadhira, fanani, hadithi, maudhui na majigambo na fasili zao.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      {
+        "label": "5(b)(v)",
+        "type": "mcq",
+        "answer": "M",
+        "explanation": "Linganisha utani, fani, michezo, semi, mandhari, hadhira, fanani, hadithi, maudhui na majigambo na fasili zao.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      {
+        "label": "5(b)(vi)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Linganisha utani, fani, michezo, semi, mandhari, hadhira, fanani, hadithi, maudhui na majigambo na fasili zao.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      {
+        "label": "5(b)(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Linganisha utani, fani, michezo, semi, mandhari, hadhira, fanani, hadithi, maudhui na majigambo na fasili zao.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      {
+        "label": "5(b)(viii)",
+        "type": "mcq",
+        "answer": "J",
+        "explanation": "Linganisha utani, fani, michezo, semi, mandhari, hadhira, fanani, hadithi, maudhui na majigambo na fasili zao.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      {
+        "label": "5(b)(ix)",
+        "type": "mcq",
+        "answer": "L",
+        "explanation": "Linganisha utani, fani, michezo, semi, mandhari, hadhira, fanani, hadithi, maudhui na majigambo na fasili zao.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      {
+        "label": "5(b)(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Linganisha utani, fani, michezo, semi, mandhari, hadhira, fanani, hadithi, maudhui na majigambo na fasili zao.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N"
+        ]
+      },
+      {
+        "label": "5(c)(i)",
+        "type": "written",
+        "answer": "Inaweza kutumiwa kuhalalisha kuchelewa kufanya jambo la haraka.",
+        "explanation": "Jadili madhara ya kutumia methali bila kuzingatia muktadha na ushahidi."
+      },
+      {
+        "label": "5(c)(ii)",
+        "type": "written",
+        "answer": "Inaweza kuzuia kuuliza maswali au kupinga ushauri mbaya wa mtu mwenye mamlaka.",
+        "explanation": "Jadili madhara ya kutumia methali bila kuzingatia muktadha na ushahidi."
+      },
+      {
+        "label": "5(c)(iii)",
+        "type": "written",
+        "answer": "Inaweza kuhamasisha uzembe badala ya kupanga muda.",
+        "explanation": "Jadili madhara ya kutumia methali bila kuzingatia muktadha na ushahidi."
+      },
+      {
+        "label": "5(c)(iv)",
+        "type": "written",
+        "answer": "Inaweza kuwafanya watu waache tahadhari ingawa ajali nyingi zinaweza kuzuilika.",
+        "explanation": "Jadili madhara ya kutumia methali bila kuzingatia muktadha na ushahidi."
+      },
+      {
+        "label": "5(c)(v)",
+        "type": "written",
+        "answer": "Inaweza kuwahukumu watu wote kwa kosa la mtu mmoja.",
+        "explanation": "Jadili madhara ya kutumia methali bila kuzingatia muktadha na ushahidi."
+      }
+    ]
+  }
+}

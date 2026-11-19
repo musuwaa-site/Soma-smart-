@@ -1,0 +1,372 @@
+{
+  "sourceId": "source-470e88f8383bd46d",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Density = mass/volume expresses a quantitative relation."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Emergency medical help is required; first ensure the electricity is safely disconnected before touching the victim."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Subtract empty cup mass: 71.06−43.63=27.43 g."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Lubricant separates rough moving surfaces and lowers friction."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A lower-density liquid requires more displaced volume for the same ship weight."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Molecules move more freely through gas than through a liquid."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "For fixed force P=F/A increases as area decreases."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A smooth surface reflects parallel incident rays into one direction."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Kinetic energy=½×5×10²=250 J."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Parallel capacitances add: 3+6+9=18 µF."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "answer": {
+          "i": "H",
+          "ii": "E",
+          "iii": "F",
+          "iv": "C",
+          "v": "D"
+        },
+        "explanation": "Velocity ratio is effort distance/load distance; mechanical advantage is load/effort; a fixed pulley redirects effort; efficiency compares work output with input; a lever turns about a fulcrum."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)-ferromagnetic",
+        "type": "written",
+        "answer": "Ferromagnetic materials such as iron, cobalt and nickel are strongly attracted by magnets and can form magnetic domains.",
+        "explanation": "Iron is used in electromagnet cores and steel can retain magnetism for permanent magnets."
+      },
+      {
+        "label": "3(a)-paramagnetic",
+        "type": "written",
+        "answer": "Paramagnetic materials such as aluminium are weakly attracted by a magnetic field and usually do not retain useful magnetisation.",
+        "explanation": "Their weak response distinguishes them from iron; they are used in scientific instruments or components requiring weak magnetic behaviour."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Store paired bar magnets with opposite poles adjacent and soft-iron keepers across their ends.",
+        "explanation": "The keepers form a lower-reluctance magnetic path that helps preserve domain alignment."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Place a soft-iron keeper across the poles of a horseshoe magnet.",
+        "explanation": "This closes the magnetic circuit."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "Keep magnets away from strong heating, repeated impacts and alternating magnetic fields.",
+        "explanation": "These disturbances can randomise magnetic domains and reduce magnetisation."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Temperature relates to the average random kinetic energy of particles.",
+        "explanation": "Heating generally increases random molecular motion, so kinetic theory explains hotness quantitatively."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Approximately 77°C.",
+        "explanation": "Use T°C=TK−273: 350−273=77."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Approximately 303 K.",
+        "explanation": "For equal water masses without heat loss, average temperature=(15+45)/2=30°C; add 273. This arithmetic does not establish a medically suitable bathing temperature."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Weight downwards and the table’s normal reaction upwards.",
+        "explanation": "For the book at rest, the forces balance in magnitude."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Newton’s third law, together with momentum conservation.",
+        "explanation": "The thrown object is pushed one way and the boat receives an opposite interaction force."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Approximately 1.90 m/s, assuming the boy has mass 55 kg and remains on the 90 kg trolley.",
+        "explanation": "Momentum conservation gives (55×5)/(55+90). The original wording attaches 55 kg ambiguously, so state this mass interpretation."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Acceleration is vector because it is the rate of change of velocity, including direction.",
+        "explanation": "An object can accelerate while keeping the same speed, as in circular motion."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "320 m if the bird begins falling from rest.",
+        "explanation": "Use v²=u²+2gh with u=0: h=80²/(2×10). A nonzero starting velocity would change the result."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "8 s under the same rest assumption.",
+        "explanation": "v=u+gt gives t=80/10."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "A pulley or block-and-tackle system.",
+        "explanation": "It lifts a load by redirecting effort and, with several supporting ropes, multiplying force."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "For an ideal frictionless incline, MA=VR=1/sinθ.",
+        "explanation": "The ramp length divided by its vertical rise equals 1/sinθ; real mechanical advantage is lower because of losses."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Approximately 15.5 N.",
+        "explanation": "VR=2πr/p=2×3.14×0.40/0.005=502.4; MA=0.45×502.4=226.08. Effort=3500/226.08."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Centre of mass is the weighted mean position of a body's mass distribution.",
+        "explanation": "The body can be treated as if all its mass were concentrated there for translational dynamics."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Moment of force is force multiplied by perpendicular distance from the pivot to its line of action.",
+        "explanation": "It measures turning effect and has unit N·m."
+      },
+      {
+        "label": "8(b)-P",
+        "type": "written",
+        "answer": "6.3 N upwards at D.",
+        "explanation": "Taking moments about C gives P×100=9×70."
+      },
+      {
+        "label": "8(b)-Q",
+        "type": "written",
+        "answer": "2.7 N upwards at C.",
+        "explanation": "Vertical equilibrium gives P+Q=9, or moments about D give Q×100=9×30."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Assess the local resource before choosing: reliable stream flow and head favour hydropower, while persistent adequate wind favours wind power.",
+        "explanation": "Available energy depends on local water conditions or wind speed, not merely the existence of a river or breeze."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Compare seasonal reliability, costs, maintenance and environmental effects.",
+        "explanation": "Water schemes may alter habitats; turbines need suitable siting, and either source may need storage or backup."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "Avoid sites exposed to escaping hot fluids or hazardous gases from geothermal operations.",
+        "explanation": "Properly engineered containment and regulated safety distances reduce these risks."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "Consider ground instability, subsidence, noise and possible induced seismic activity.",
+        "explanation": "Site-specific geological and engineering assessments determine safe habitation areas."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "A battery or DC power supply.",
+        "explanation": "It supplies electrical energy and potential difference."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "A test resistor.",
+        "explanation": "Its voltage–current relationship is measured."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "An ammeter.",
+        "explanation": "It measures current through the resistor."
+      },
+      {
+        "label": "10(a)(iv)",
+        "type": "written",
+        "answer": "A voltmeter.",
+        "explanation": "It measures potential difference across the resistor."
+      },
+      {
+        "label": "10(a)(v)",
+        "type": "written",
+        "answer": "A rheostat and switch, with connecting wires.",
+        "explanation": "The rheostat varies the current and the switch controls the circuit."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Draw the battery, switch, ammeter, rheostat and resistor in series; connect a voltmeter across the test resistor.",
+        "explanation": "Use standard symbols and label the measured resistor R."
+      },
+      {
+        "label": "10(c)-current",
+        "type": "written",
+        "answer": "Connect the ammeter in series.",
+        "explanation": "Its low resistance limits disturbance while the test current passes through it."
+      },
+      {
+        "label": "10(c)-voltage",
+        "type": "written",
+        "answer": "Connect the voltmeter in parallel across the resistor.",
+        "explanation": "Its high resistance reduces the current it diverts from the test resistor."
+      }
+    ]
+  }
+}

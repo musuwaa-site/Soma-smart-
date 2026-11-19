@@ -55,9 +55,20 @@
       },
       {
         "label": "1(v)",
-        "type": "written",
-        "answer": "A au C: Nina budi / Sina budi kusoma kwa bidii ili nifaulu mtihani wangu.",
-        "explanation": "Nina budi kusoma ina maana ya kulazimika kusoma; nifaulu huonyesha kusudi. Pia C hukubalika katika matumizi ya lazima kulingana na mwongozo."
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Nina budi kusoma ina maana ya kulazimika kusoma; nifaulu huonyesha kusudi. Pia C hukubalika katika matumizi ya lazima kulingana na mwongozo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "acceptedAnswers": [
+          "C",
+          "A"
+        ]
       },
       {
         "label": "1(vi)",

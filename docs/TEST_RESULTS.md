@@ -38,3 +38,9 @@ The manual offline download update passed 46 Node tests and 24 Python tests. Wor
 The student navigation harness verified leaving a scored exam for the dashboard and reopening its saved answer. The hosted and full offline packages passed integrity checks.
 
 Release 0.14.0 passed 47 Node tests and 24 Python tests. The built application harness opened old paper links into practice, checked a correct immediate response, withheld feedback for an incorrect end-mode response until submission, and verified saved answers after reopening. Both packages passed integrity validation. Offline worker checks exercised all 180 papers. All 676 published genuine scored records have an offline student-facing explanation.
+
+## Release 0.15.0
+
+All 49 Node tests and 24 Python tests passed. The conversion completion gate found 180 published papers with individual response routes and zero remaining document-only papers. The built student application opened all 180 and found an answer control for each included item. Immediate feedback, end-of-exam marking, save/resume and the original page notebooks passed the application harness. Both the full and hosted packages passed integrity checks. Offline tests exercised all 180 papers and the separately unscored source-review records.
+
+The new conversion manifests cover 156 papers. Source questions remain displayed in their original page images, with response controls for labelled parts and independent feedback. Practice scoring uses one point per response or matching pair, with half credit for written work. The 210 unscored responses identify missing information, ambiguous wording, or unresolved source allocation. They remain available for learning. Tests use browser API simulations; physical Android testing is pending.

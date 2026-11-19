@@ -11,7 +11,8 @@ checks=ROOT/'acquisition/candidate-checks.json';source_docs=[x for x in D.get('s
 counts.update(completeAuthenticTranscriptions=sum(bool(p.get('transcriptionComplete')) for p in D['papers'] if p.get('sourceType')!='original'),transcribedAuthenticRecords=sum(x.get('sourceType')!='original' and bool(x.get('sourceTextSha256')) and not x.get('sourcePagePrompt') and not x.get('sourceParts') for x in D['questions']),heldAuthenticRecords=sum(x.get('sourceType')!='original' and x.get('publicationStatus')=='draft' for x in D['questions']),automaticallyScoredAuthenticRecords=sum(x['type'] in ['mcq','matching'] for x in auth),authenticScoredRecords=len(auth))
 practice_docs=[doc for doc in source_docs if doc.get('practiceIndex')]
 counts.update(independentPracticeGuides=sum(bool(doc.get('independentPracticeGuide')) for doc in source_docs), interactiveSelfCheckPapers=len(practice_docs),interactiveSelfCheckGroups=sum(len(doc['practiceIndex']['groups']) for doc in practice_docs),sourcePapersWithoutInteractiveSelection=sum(not (doc.get('interactivePaperId') or doc.get('practiceIndex')) for doc in source_docs))
-counts.update(pageBackedScoredRecords=sum(bool(q.get('sourcePagePrompt')) for q in auth),
+counts.update(papersWithIndividualResponses=sum(bool(doc.get('interactivePaperId')) for doc in source_docs),
+              pageBackedScoredRecords=sum(bool(q.get('sourcePagePrompt')) for q in auth),
               sourcePapersWithoutScoredItems=sum(not doc.get('interactivePaperId') for doc in source_docs),
               separatelyInteractiveUnscoredItems=sum(len(p.get('reviewOnlyItems', [])) for p in genuine))
 report=dict(status='unfinished',counts=counts,coverage=coverage,integrityErrors=validate(D));(ROOT/'content/inventory.json').write_text(json.dumps(report,indent=2))

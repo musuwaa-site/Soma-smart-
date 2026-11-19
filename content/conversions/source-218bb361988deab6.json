@@ -1,0 +1,205 @@
+{
+  "sourceId": "source-218bb361988deab6",
+  "groups": {
+    "1": [
+      {
+        "label": "1",
+        "type": "written",
+        "answer": "39",
+        "explanation": "Substitute into 2 × 8 + 12 + 20 − 9."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "written",
+        "answer": "6.37 × 10⁶ m",
+        "explanation": "Move the decimal six positions to write a coefficient from 1 to 10."
+      }
+    ],
+    "3": [
+      {
+        "label": "3",
+        "type": "written",
+        "answer": "x = 40°",
+        "explanation": "Complementary angles give 25° + x + 25° = 90°."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "x = 80/3",
+        "explanation": "0.8/x = 0.03 means 0.03x = 0.8."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "24m − 5n",
+        "explanation": "Expand to 21m + 7n + 4m − 12n − m and collect like terms."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "3x + 9 > 90, equivalently x > 27.",
+        "explanation": "Subtract 9 and divide by positive 3."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "2.592",
+        "explanation": "Cancel the difference factor in (a² − b²)/(a − b), leaving 1.295 + 1.297."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "P = 16x + 20 cm",
+        "explanation": "The new side is 4x + 5 cm. A square has four such sides."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "4",
+        "explanation": "875 = 7 × 125 = 7¹ × 5³, giving m + n = 1 + 3."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "2.7 m",
+        "explanation": "Multiply 1.8 by 1.5."
+      }
+    ],
+    "11": [
+      {
+        "label": "11",
+        "type": "written",
+        "answer": "x < 3; open circle at 3 with the line shaded to the left.",
+        "explanation": "Subtract 5 then divide by 5, preserving the inequality."
+      }
+    ],
+    "12": [
+      {
+        "label": "12",
+        "type": "written",
+        "answer": "3/5, 1/4, 0.1, 5%",
+        "explanation": "Their decimal values are 0.6, 0.25, 0.10 and 0.05."
+      }
+    ],
+    "13": [
+      {
+        "label": "13",
+        "type": "written",
+        "answer": "1/8",
+        "explanation": "Convert 3 kg to 3,000 g, then reduce 375/3,000."
+      }
+    ],
+    "14": [
+      {
+        "label": "14",
+        "type": "written",
+        "answer": "d₁ = 2d₂; d₃ = 3d₁; consequently d₃ = 6d₂.",
+        "explanation": "Substitute 2d₂ in place of d₁ in the second equation."
+      }
+    ],
+    "15": [
+      {
+        "label": "15",
+        "type": "written",
+        "answer": "x = 11",
+        "explanation": "Cross-multiply x + 10 = 3x − 12. The solution does not make the denominator zero."
+      }
+    ],
+    "16": [
+      {
+        "label": "16",
+        "type": "written",
+        "answer": "log 9",
+        "explanation": "Combine as log(3⁴ / √81) = log(81/9)."
+      }
+    ],
+    "17": [
+      {
+        "label": "17",
+        "type": "written",
+        "answer": "270",
+        "explanation": "The GCF is 3 and LCM is 90 (2 × 3² × 5)."
+      }
+    ],
+    "18": [
+      {
+        "label": "18",
+        "type": "written",
+        "answer": "0",
+        "explanation": "The change in y is zero over a nonzero horizontal distance."
+      }
+    ],
+    "19": [
+      {
+        "label": "19",
+        "type": "written",
+        "answer": "P = 5x/2 cm",
+        "explanation": "The third side is (2x)/4 = x/2. Add the two equal sides."
+      }
+    ],
+    "20": [
+      {
+        "label": "20",
+        "type": "written",
+        "answer": "Tsh 18,750",
+        "explanation": "A 25% loss is a quarter of the original cost, Tsh 75,000."
+      }
+    ],
+    "21": [
+      {
+        "label": "21",
+        "type": "written",
+        "answer": "70 cm",
+        "explanation": "4w² = 196 gives a width of 7 cm and a length of 28 cm. The perimeter is twice their sum."
+      }
+    ],
+    "22": [
+      {
+        "label": "22",
+        "type": "written",
+        "answer": "About 16.98",
+        "explanation": "√0.3481 = 0.59. Divide 2.78 × 3.604 by 0.59."
+      }
+    ],
+    "23": [
+      {
+        "label": "23",
+        "type": "written",
+        "answer": "About 7.39 m",
+        "explanation": "The wall is adjacent to the given angle with the ladder, so its height is 12 cos 52°."
+      }
+    ],
+    "24": [
+      {
+        "label": "24",
+        "type": "written",
+        "answer": "21 students, reading the stated 10 as the number who study neither.",
+        "explanation": "The union then contains 45 − 10 = 35 students. The intersection is 23 + 33 − 35."
+      }
+    ],
+    "25": [
+      {
+        "label": "25",
+        "type": "written",
+        "answer": "△ABC ∼ △EDC.",
+        "explanation": "AB/ED = 36/30 = 6/5, and AC/EC = BC/DC = 24/20 = 6/5. Apply side–side–side similarity."
+      }
+    ]
+  }
+}

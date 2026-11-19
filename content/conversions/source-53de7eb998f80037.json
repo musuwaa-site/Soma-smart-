@@ -1,0 +1,416 @@
+{
+  "sourceId": "source-53de7eb998f80037",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "250 ÷ 10 = 25×.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Houseflies, beetles, butterflies and grasshoppers are insects.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Species is the most specific named rank among the alternatives.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Prokaryotic cells have a cell membrane. Binary fission is their usual means of reproduction, so A is also defensible.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "D",
+          "A"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Plants have specialised cell types forming tissues.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Mosses can retain water close to the soil.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A vernier caliper is the least characteristic item of the four in a school biology laboratory, though it can be used to measure specimens.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "All three have jointed appendages and an exoskeleton.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "An onion stores food in the swollen leaf bases of a bulb.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The body tube links the eyepiece and objective assembly.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The membrane regulates exchange with the surroundings.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Many metabolic reactions occur in the cytoplasm.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The nucleus contains genetic instructions.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Photosynthesis occurs in chloroplasts.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Aerobic respiration occurs mainly in mitochondria.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Eyes.",
+        "explanation": "Vision detects colour."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Nose.",
+        "explanation": "Olfactory receptors respond to volatile compounds."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Tongue.",
+        "explanation": "Taste receptors respond to dissolved substances."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "written",
+        "answer": "Skin, for instance the fingertips.",
+        "explanation": "Touch receptors respond to surface texture."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "A systematic way of investigating questions using observations, testable explanations, evidence and conclusions.",
+        "explanation": "Conclusions can be revised as evidence changes."
+      },
+      {
+        "label": "3(c)(i)",
+        "type": "written",
+        "answer": "Identification of a problem.",
+        "explanation": "The symptoms prompt an investigation."
+      },
+      {
+        "label": "3(c)(ii)",
+        "type": "written",
+        "answer": "Gathering information.",
+        "explanation": "The doctor asks about the symptoms and history."
+      },
+      {
+        "label": "3(c)(iii)",
+        "type": "written",
+        "answer": "Testing a possible diagnosis.",
+        "explanation": "Samples and measurements provide evidence."
+      },
+      {
+        "label": "3(c)(iv)",
+        "type": "written",
+        "answer": "Analysing results.",
+        "explanation": "The technician interprets evidence in the blood sample."
+      },
+      {
+        "label": "3(c)(v)",
+        "type": "written",
+        "answer": "Drawing a conclusion and applying it.",
+        "explanation": "The diagnosis guides treatment."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Carbon dioxide and water.",
+        "explanation": "The atoms in the products come from these raw materials."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Light and photosynthetic pigment such as chlorophyll; a suitable temperature supports enzyme activity.",
+        "explanation": "Chlorophyll absorbs light energy."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "It produces carbohydrates, supplies energy to food webs, releases oxygen in plants and algae, and removes atmospheric carbon dioxide.",
+        "explanation": "These products and effects support life beyond the producers themselves."
+      },
+      {
+        "label": "4(d)",
+        "type": "written",
+        "answer": "Primarily leaves, particularly cells of the mesophyll.",
+        "explanation": "Their chloroplasts capture light."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Chemistry, physics, mathematics and geography.",
+        "explanation": "They support biochemistry, bioenergetics, statistical analysis and the study of organism distribution."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Students can make informed health and nutrition decisions, improve agricultural practices and protect ecosystems.",
+        "explanation": "Each is a practical application of understanding living things."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Artificial classification.",
+        "explanation": "The grouping is based only on the presence of wings."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Unrelated organisms can be grouped together, relatives can be separated, and the groups give little information about evolutionary relationships.",
+        "explanation": "Grouping by a single trait ignores many other features."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "Bacteria recycle nutrients by decomposition, some fix nitrogen in soils, and some are used to ferment milk into yoghurt.",
+        "explanation": "These are beneficial ecological and food-production activities."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "The basic structural and functional unit of a living organism.",
+        "explanation": "Cells carry out life processes."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Plant cells generally have cellulose walls and a large permanent vacuole, and green plant cells have chloroplasts. Animal cells lack cellulose walls and chloroplasts and usually lack a large permanent central vacuole.",
+        "explanation": "Pair each difference with the corresponding animal feature."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Root hair cells absorb water and ions; guard cells control stomatal opening; palisade mesophyll cells photosynthesise.",
+        "explanation": "Their surface area, shape changes and chloroplast content respectively support these roles."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Nutrient-dense foods with adequate protein, calcium, vitamin D, fibre and water; match energy intake to activity.",
+        "explanation": "These support muscle, bones and bowel function."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Small regular meals with enough energy and protein, iron, calcium and vitamins.",
+        "explanation": "Young children have high nutrient needs during growth."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "A varied diet with adequate folate, iron, protein and calcium and appropriate extra energy.",
+        "explanation": "These support the developing fetus and the mother’s increased needs."
+      },
+      {
+        "label": "8(d)",
+        "type": "written",
+        "answer": "Adequate energy, protein, micronutrients and fluids.",
+        "explanation": "Milk production increases nutritional demands."
+      },
+      {
+        "label": "8(e)",
+        "type": "written",
+        "answer": "Match energy intake to lower physical activity while including vegetables, fruit, fibre and sufficient protein.",
+        "explanation": "Lower energy expenditure need not reduce the need for essential nutrients."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Severe acute malnutrition with mixed features of wasting and possible kwashiorkor.",
+        "explanation": "Marked wasting suggests marasmus; swollen abdomen and discoloured hair can occur with kwashiorkor. Clinical assessment must check for oedema and other causes."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Seek urgent medical assessment for severe malnutrition and persistent diarrhoea, follow the clinical feeding plan, and discuss balanced age-appropriate meals and clean water for recovery.",
+        "explanation": "Severe malnutrition may need supervised treatment, and diarrhoea can rapidly worsen dehydration."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "31.1 kg/m².",
+        "explanation": "BMI = 70 ÷ 1.50² = 31.11."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "If Nyachilo is an adult, this BMI is in the obesity range, associated with increased risk of type 2 diabetes, hypertension and cardiovascular disease.",
+        "explanation": "For a child or adolescent interpretation requires age- and sex-specific charts."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "Ask a health professional for an individual assessment; aim for varied meals, manageable regular activity and sustainable habits.",
+        "explanation": "BMI is a screening measure, and appropriate advice depends on age, health and circumstances."
+      }
+    ]
+  }
+}

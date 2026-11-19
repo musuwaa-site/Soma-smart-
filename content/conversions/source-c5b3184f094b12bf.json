@@ -1,0 +1,467 @@
+{
+  "sourceId": "source-c5b3184f094b12bf",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Tafsida hubadilisha kauli kali kwa ya heshima.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Mazungumzo yana mzungumzaji na msikilizaji.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Lafudhi hudokeza matamshi ya jamii.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Lafudhi, kiimbo na mkazo ni vipengele muhimu vya matamshi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Mpangilio wa maneno ni eneo la sarufi miundo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Irabu na konsonanti ni makundi ya sauti; herufi ni alama zake za maandishi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Kauli inaita Samira na pia ina amri ya njoo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "B",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Mimi ni W, nilikuwa/nataka vitenzi saidizi katika uainishaji uliotolewa, kusoma T na kitabu N.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Fu ni silabi ya pili kutoka mwisho katika mwanafunzi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Vifupisho na namna ya kutumia kamusi kwa kawaida huelekezwa katika utangulizi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Linganisha kila neno na kazi yake katika sentensi ya Orodha B.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Linganisha kila neno na kazi yake katika sentensi ya Orodha B.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Linganisha kila neno na kazi yake katika sentensi ya Orodha B.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Linganisha kila neno na kazi yake katika sentensi ya Orodha B.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "review",
+        "answer": "Hakuna chaguo lenye T + E + E wazi. “Alikimbia upesi” lina T + E pekee; hivyo haliwezi kujaza muundo uliotolewa bila neno la ziada.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Neno kuu linaloelezwa katika kamusi.",
+        "explanation": "Tofautisha sehemu za kamusi na aina za kamusi."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Kidahizo pamoja na taarifa zake zote.",
+        "explanation": "Tofautisha sehemu za kamusi na aina za kamusi."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Kamusi ya lugha mbili.",
+        "explanation": "Tofautisha sehemu za kamusi na aina za kamusi."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Kamusi inayochanganya ufafanuzi na tafsiri au kutumia lugha zaidi ya moja kwa namna maalumu.",
+        "explanation": "Tofautisha sehemu za kamusi na aina za kamusi."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Kamusi inayofafanua kwa lugha moja.",
+        "explanation": "Tofautisha sehemu za kamusi na aina za kamusi."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Hufafanua maana.",
+        "explanation": "Picha na michoro huunga mkono maelezo ya neno."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Huonyesha umbo.",
+        "explanation": "Picha na michoro huunga mkono maelezo ya neno."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Hutofautisha vitu vinavyokaribiana.",
+        "explanation": "Picha na michoro huunga mkono maelezo ya neno."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Husaidia kukumbuka.",
+        "explanation": "Picha na michoro huunga mkono maelezo ya neno."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Huonyesha sehemu za kitu kwa urahisi.",
+        "explanation": "Picha na michoro huunga mkono maelezo ya neno."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Juma anasoma kitabu.",
+        "explanation": "Mifano huonyesha maelezo, swali, amri na mwito; kiimbo kiendane na kusudi."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Juma anasoma kitabu?",
+        "explanation": "Mifano huonyesha maelezo, swali, amri na mwito; kiimbo kiendane na kusudi."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Juma, soma kitabu!",
+        "explanation": "Mifano huonyesha maelezo, swali, amri na mwito; kiimbo kiendane na kusudi."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Juma, njoo hapa.",
+        "explanation": "Mifano huonyesha maelezo, swali, amri na mwito; kiimbo kiendane na kusudi."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Maji: kivumishi cha jina kwa jina katika bata maji.",
+        "explanation": "Uainishaji hutegemea jinsi kipashio kinavyofafanua nomino."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "La nne: kivumishi cha idadi ya mpangilio.",
+        "explanation": "Uainishaji hutegemea jinsi kipashio kinavyofafanua nomino."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Mbovu: kivumishi cha sifa.",
+        "explanation": "Uainishaji hutegemea jinsi kipashio kinavyofafanua nomino."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Mwenyewe: kivumishi cha pekee.",
+        "explanation": "Uainishaji hutegemea jinsi kipashio kinavyofafanua nomino."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Wengi: kivumishi cha idadi isiyodhihirika.",
+        "explanation": "Uainishaji hutegemea jinsi kipashio kinavyofafanua nomino."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "Alilala ilhali wenzake walisoma.",
+        "explanation": "Kiunganishi kionyeshe kupingana, uchaguzi, mfuatano au kubadilisha kauli kulingana na maana yake."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Alicheka ilhali tulikuwa na huzuni.",
+        "explanation": "Kiunganishi kionyeshe kupingana, uchaguzi, mfuatano au kubadilisha kauli kulingana na maana yake."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Alienda ingawa mvua ilinyesha.",
+        "explanation": "Kiunganishi kionyeshe kupingana, uchaguzi, mfuatano au kubadilisha kauli kulingana na maana yake."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Nitasoma ingawa nimechoka.",
+        "explanation": "Kiunganishi kionyeshe kupingana, uchaguzi, mfuatano au kubadilisha kauli kulingana na maana yake."
+      },
+      {
+        "label": "7(c)(i)",
+        "type": "written",
+        "answer": "Chagua ama chai ama maziwa.",
+        "explanation": "Kiunganishi kionyeshe kupingana, uchaguzi, mfuatano au kubadilisha kauli kulingana na maana yake."
+      },
+      {
+        "label": "7(c)(ii)",
+        "type": "written",
+        "answer": "Tutafika ama leo ama kesho.",
+        "explanation": "Kiunganishi kionyeshe kupingana, uchaguzi, mfuatano au kubadilisha kauli kulingana na maana yake."
+      },
+      {
+        "label": "7(d)(i)",
+        "type": "written",
+        "answer": "Aliosha mikono halafu akala.",
+        "explanation": "Kiunganishi kionyeshe kupingana, uchaguzi, mfuatano au kubadilisha kauli kulingana na maana yake."
+      },
+      {
+        "label": "7(d)(ii)",
+        "type": "written",
+        "answer": "Soma swali halafu ujibu.",
+        "explanation": "Kiunganishi kionyeshe kupingana, uchaguzi, mfuatano au kubadilisha kauli kulingana na maana yake."
+      },
+      {
+        "label": "7(e)(i)",
+        "type": "written",
+        "answer": "Sikununua kalamu bali kitabu.",
+        "explanation": "Kiunganishi kionyeshe kupingana, uchaguzi, mfuatano au kubadilisha kauli kulingana na maana yake."
+      },
+      {
+        "label": "7(e)(ii)",
+        "type": "written",
+        "answer": "Yeye si mwalimu bali daktari.",
+        "explanation": "Kiunganishi kionyeshe kupingana, uchaguzi, mfuatano au kubadilisha kauli kulingana na maana yake."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Sifa, matumizi na hadhi ya Kiswahili.",
+        "explanation": "Kiswahili kimepewa sauti ya mtu anayejieleza."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Ni sauti za nasibu zilizokubaliwa.",
+        "explanation": "Sifa zinatokana na ubeti wa kwanza na wa pili."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Hufuata kanuni za mawasiliano.",
+        "explanation": "Sifa zinatokana na ubeti wa kwanza na wa pili."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Kiswahili kinajivunia uwezo wake wa kuwasilisha ujumbe na kukubalika.",
+        "explanation": "Ni tashihisi ya kuipa lugha uwezo wa kujisifu."
+      },
+      {
+        "label": "8(d)(i)",
+        "type": "written",
+        "answer": "Watumiaji wamekubaliana maana ya alama za lugha.",
+        "explanation": "Ubeti wa pili unaunganisha makubaliano na kufuata kanuni."
+      },
+      {
+        "label": "8(d)(ii)",
+        "type": "written",
+        "answer": "Kanuni husaidia kuelewana na kushirikiana.",
+        "explanation": "Ubeti wa pili unaunganisha makubaliano na kufuata kanuni."
+      },
+      {
+        "label": "8(e)",
+        "type": "written",
+        "answer": "Lugha rasmi inayotumika Tanzania na lugha ya kimataifa inayokua Afrika na duniani.",
+        "explanation": "Hizi ndizo hadhi zilizotajwa katika ubeti wa mwisho."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Huunganisha wananchi.",
+        "explanation": "Toa mfano unaoonyesha faida ya kila matumizi."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Huwezesha biashara.",
+        "explanation": "Toa mfano unaoonyesha faida ya kila matumizi."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Husaidia kutoa elimu.",
+        "explanation": "Toa mfano unaoonyesha faida ya kila matumizi."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Hutunza utamaduni.",
+        "explanation": "Toa mfano unaoonyesha faida ya kila matumizi."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Hutumiwa katika huduma na utawala.",
+        "explanation": "Toa mfano unaoonyesha faida ya kila matumizi."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Shule ya Sekondari Mfano, S.L.P. 10, Dodoma. 20/4/2026.\nMpendwa Rafiki,\nHabari zako? Likizo yangu imekuwa nzuri. Nimesaidia familia shambani, nimesoma vitabu na kutembelea maktaba ya wilaya. Nimejifunza kupanga muda na kutunza mazingira. Nilipanda miche ya matunda na kuona umuhimu wa kuimwagilia mara kwa mara. Likizo ijayo nataka kujiunga na klabu ya kusoma na kuandaa ratiba ya marudio. Niandikie nawe ulivyotumia likizo yako huko Arusha.\nRafiki yako, Chinua Achebe.",
+        "explanation": "Tumia anuani halisi ya shule yako, jina lililoagizwa na maelezo ya shughuli, mafunzo na mipango ijayo."
+      }
+    ]
+  }
+}

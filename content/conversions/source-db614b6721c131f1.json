@@ -1,0 +1,335 @@
+{
+  "sourceId": "source-db614b6721c131f1",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "Changamoto za Maendeleo Tanzania",
+        "explanation": "Kichwa kinahusisha rushwa, pengo la kipato na utawala."
+      },
+      {
+        "label": "1(b)(i)",
+        "type": "written",
+        "answer": "Hali ya baadaye.",
+        "explanation": "Maana ihusiane na risala."
+      },
+      {
+        "label": "1(b)(ii)",
+        "type": "written",
+        "answer": "Hali ya kutokuwa salama au yenye shaka.",
+        "explanation": "Maana ihusiane na risala."
+      },
+      {
+        "label": "1(b)(iii)",
+        "type": "written",
+        "answer": "Hali ya umaskini mkubwa unaomzonga mtu.",
+        "explanation": "Maana ihusiane na risala."
+      },
+      {
+        "label": "1(b)(iv)",
+        "type": "written",
+        "answer": "Makubaliano yenye masharti na wajibu.",
+        "explanation": "Maana ihusiane na risala."
+      },
+      {
+        "label": "1(b)(v)",
+        "type": "written",
+        "answer": "Kuweka jambo katika hatari au dhamana.",
+        "explanation": "Maana ihusiane na risala."
+      },
+      {
+        "label": "1(c)(i)",
+        "type": "written",
+        "answer": "Kuongezeka kwa pengo kati ya matajiri na maskini.",
+        "explanation": "Mwandishi anasema hili ni jambo la kusikitisha katika jamii inayodai usawa."
+      },
+      {
+        "label": "1(c)(ii)",
+        "type": "written",
+        "answer": "Mbunge au kundi la wabunge.",
+        "explanation": "Risala inawaambia wabunge na kuhusisha kuomba kura."
+      },
+      {
+        "label": "1(d)",
+        "type": "written",
+        "answer": "Risala inaonya kwamba ubinafsi, rushwa na ufisadi vinahatarisha mustakabali wa taifa. Pengo la matajiri na maskini linaongezeka, huku ajira na mitaji vikiwa haba. Mikataba mibovu na migogoro ya ardhi inadhoofisha ustawi na amani. Mwandishi anapongeza hatua za uwajibikaji na kuwataka wabunge waboreshe mazingira ya uchumi na fursa kwa wananchi.",
+        "explanation": "Ufupisho wa maneno 50–80 uweke matatizo, hatua na wito wa mwandishi."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)(i)",
+        "type": "mcq",
+        "answer": "SI SAHIHI",
+        "explanation": "Fani na maudhui ni nyanja za fasihi.",
+        "options": [
+          "SAHIHI",
+          "SI SAHIHI"
+        ]
+      },
+      {
+        "label": "2(a)(ii)",
+        "type": "mcq",
+        "answer": "SI SAHIHI",
+        "explanation": "Binadamu hutumia lugha na ishara pia katika mawasiliano ya ana kwa ana.",
+        "options": [
+          "SAHIHI",
+          "SI SAHIHI"
+        ]
+      },
+      {
+        "label": "2(a)(iii)",
+        "type": "mcq",
+        "answer": "SAHIHI",
+        "explanation": "Muktadha na washiriki huathiri rejesta.",
+        "options": [
+          "SAHIHI",
+          "SI SAHIHI"
+        ]
+      },
+      {
+        "label": "2(a)(iv)",
+        "type": "mcq",
+        "answer": "SAHIHI",
+        "explanation": "Lugha hutumia alama za sauti za nasibu zenye maana.",
+        "options": [
+          "SAHIHI",
+          "SI SAHIHI"
+        ]
+      },
+      {
+        "label": "2(a)(v)",
+        "type": "mcq",
+        "answer": "SI SAHIHI",
+        "explanation": "Umbo, sauti, mpangilio na maana ni maeneo ya sarufi; si tanzu za mazungumzo na maandishi.",
+        "options": [
+          "SAHIHI",
+          "SI SAHIHI"
+        ]
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "Kuwasiliana.",
+        "explanation": "Eleza matumizi yanayoonekana ya lugha katika maisha ya watu."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "Kuelimisha.",
+        "explanation": "Eleza matumizi yanayoonekana ya lugha katika maisha ya watu."
+      },
+      {
+        "label": "2(b)(iii)",
+        "type": "written",
+        "answer": "Kuhifadhi utamaduni.",
+        "explanation": "Eleza matumizi yanayoonekana ya lugha katika maisha ya watu."
+      },
+      {
+        "label": "2(b)(iv)",
+        "type": "written",
+        "answer": "Kuunganisha jamii.",
+        "explanation": "Eleza matumizi yanayoonekana ya lugha katika maisha ya watu."
+      },
+      {
+        "label": "2(b)(v)",
+        "type": "written",
+        "answer": "Kuburudisha.",
+        "explanation": "Eleza matumizi yanayoonekana ya lugha katika maisha ya watu."
+      },
+      {
+        "label": "2(c)(i)",
+        "type": "written",
+        "answer": "Siku zote tunaenda kumsalimia.",
+        "explanation": "Sahihisha tahajia na matumizi yasiyo sanifu bila kubadili ujumbe."
+      },
+      {
+        "label": "2(c)(ii)",
+        "type": "written",
+        "answer": "Kikao kiliazimia kukupandisha cheo.",
+        "explanation": "Sahihisha tahajia na matumizi yasiyo sanifu bila kubadili ujumbe."
+      },
+      {
+        "label": "2(c)(iii)",
+        "type": "written",
+        "answer": "Tafadhali usiniache peke yangu.",
+        "explanation": "Sahihisha tahajia na matumizi yasiyo sanifu bila kubadili ujumbe."
+      },
+      {
+        "label": "2(c)(iv)",
+        "type": "written",
+        "answer": "Ni lazima kila mtu abebe mzigo wake.",
+        "explanation": "Sahihisha tahajia na matumizi yasiyo sanifu bila kubadili ujumbe."
+      },
+      {
+        "label": "2(c)(v)",
+        "type": "written",
+        "answer": "Kikao kimeahirishwa hadi kesho.",
+        "explanation": "Sahihisha tahajia na matumizi yasiyo sanifu bila kubadili ujumbe."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)(i)",
+        "type": "written",
+        "answer": "alikwea",
+        "explanation": "Mfano wa kitenzi kinachoonyesha tendo katika kifungu; lingine sahihi linakubalika."
+      },
+      {
+        "label": "3(a)(ii)(i)",
+        "type": "written",
+        "answer": "kwe",
+        "explanation": "Ondoa viambishi vya nafsi, wakati na irabu tamati ili kubainisha kiini cha kitenzi ulichochagua."
+      },
+      {
+        "label": "3(a)(i)(ii)",
+        "type": "written",
+        "answer": "aliangua",
+        "explanation": "Mfano wa kitenzi kinachoonyesha tendo katika kifungu; lingine sahihi linakubalika."
+      },
+      {
+        "label": "3(a)(ii)(ii)",
+        "type": "written",
+        "answer": "angu",
+        "explanation": "Ondoa viambishi vya nafsi, wakati na irabu tamati ili kubainisha kiini cha kitenzi ulichochagua."
+      },
+      {
+        "label": "3(a)(i)(iii)",
+        "type": "written",
+        "answer": "zilidondoka",
+        "explanation": "Mfano wa kitenzi kinachoonyesha tendo katika kifungu; lingine sahihi linakubalika."
+      },
+      {
+        "label": "3(a)(ii)(iii)",
+        "type": "written",
+        "answer": "dondok",
+        "explanation": "Ondoa viambishi vya nafsi, wakati na irabu tamati ili kubainisha kiini cha kitenzi ulichochagua."
+      },
+      {
+        "label": "3(a)(i)(iv)",
+        "type": "written",
+        "answer": "nilipiga",
+        "explanation": "Mfano wa kitenzi kinachoonyesha tendo katika kifungu; lingine sahihi linakubalika."
+      },
+      {
+        "label": "3(a)(ii)(iv)",
+        "type": "written",
+        "answer": "pig",
+        "explanation": "Ondoa viambishi vya nafsi, wakati na irabu tamati ili kubainisha kiini cha kitenzi ulichochagua."
+      },
+      {
+        "label": "3(a)(i)(v)",
+        "type": "written",
+        "answer": "aliruka",
+        "explanation": "Mfano wa kitenzi kinachoonyesha tendo katika kifungu; lingine sahihi linakubalika."
+      },
+      {
+        "label": "3(a)(ii)(v)",
+        "type": "written",
+        "answer": "ruk",
+        "explanation": "Ondoa viambishi vya nafsi, wakati na irabu tamati ili kubainisha kiini cha kitenzi ulichochagua."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Kamusi.",
+        "explanation": "Fasili hubainisha kitabu, neno kuu, neno na maelezo, kipashio cha maana au sehemu zinazoongezwa kwenye mzizi."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Kidahizo.",
+        "explanation": "Fasili hubainisha kitabu, neno kuu, neno na maelezo, kipashio cha maana au sehemu zinazoongezwa kwenye mzizi."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "Kitomeo.",
+        "explanation": "Fasili hubainisha kitabu, neno kuu, neno na maelezo, kipashio cha maana au sehemu zinazoongezwa kwenye mzizi."
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "written",
+        "answer": "Mofimu.",
+        "explanation": "Fasili hubainisha kitabu, neno kuu, neno na maelezo, kipashio cha maana au sehemu zinazoongezwa kwenye mzizi."
+      },
+      {
+        "label": "3(b)(v)",
+        "type": "written",
+        "answer": "Viambishi.",
+        "explanation": "Fasili hubainisha kitabu, neno kuu, neno na maelezo, kipashio cha maana au sehemu zinazoongezwa kwenye mzizi."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Methali.",
+        "explanation": "Linganisha kila fasili na dhana yake; hadithi haijawekwa wazi katika kisanduku cha nakala hii."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Sanaa za maonesho.",
+        "explanation": "Linganisha kila fasili na dhana yake; hadithi haijawekwa wazi katika kisanduku cha nakala hii."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Majigambo.",
+        "explanation": "Linganisha kila fasili na dhana yake; hadithi haijawekwa wazi katika kisanduku cha nakala hii."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "Hadithi.",
+        "explanation": "Linganisha kila fasili na dhana yake; hadithi haijawekwa wazi katika kisanduku cha nakala hii."
+      },
+      {
+        "label": "4(a)(v)",
+        "type": "written",
+        "answer": "Sanaa.",
+        "explanation": "Linganisha kila fasili na dhana yake; hadithi haijawekwa wazi katika kisanduku cha nakala hii."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Malalamiko ya kupokonywa au kuvamiwa kitu kinachothaminiwa.",
+        "explanation": "Ua linaweza kusomwa kama ishara; thibitisha tafsiri kwa mistari. Tishio la vurugu katika shairi lisichukuliwe kuwa ushauri wa kufuata."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Msemaji na aliyelichukua ua wanakinzana.",
+        "explanation": "Ua linaweza kusomwa kama ishara; thibitisha tafsiri kwa mistari. Tishio la vurugu katika shairi lisichukuliwe kuwa ushauri wa kufuata."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Ametumia fedha, muda, maji na mbolea kulitunza.",
+        "explanation": "Ua linaweza kusomwa kama ishara; thibitisha tafsiri kwa mistari. Tishio la vurugu katika shairi lisichukuliwe kuwa ushauri wa kufuata."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Ningetafuta ufafanuzi na suluhu ya amani; nikihitaji ningeomba msaada wa mamlaka husika.",
+        "explanation": "Ua linaweza kusomwa kama ishara; thibitisha tafsiri kwa mistari. Tishio la vurugu katika shairi lisichukuliwe kuwa ushauri wa kufuata."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Heshimu mali na haki za wengine na shughulikia migogoro bila vurugu.",
+        "explanation": "Ua linaweza kusomwa kama ishara; thibitisha tafsiri kwa mistari. Tishio la vurugu katika shairi lisichukuliwe kuwa ushauri wa kufuata."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "S.L.P. 10, Dar es Salaam. 20/11/2010.\nMkuu wa Shule, Shule ya Sekondari Jitegemee, Dar es Salaam.\nYAH: MWALIKO WA HARUSI\nNdugu Mkuu wa Shule, kwa niaba ya familia ya Bw. na Bi. Sikudhani Sikumoja Ingekuwa hivyo, nakualika kwenye ndoa ya Msomi na Tunu tarehe 05/12/2010 saa 9 alasiri katika Kanisa la Mtakatifu Bwana, Mtoni Kijichi. Tafrija itafanyika ukumbi wa Mtoni Kijichi saa 12 jioni. Mchango wako katika elimu ya Msomi unathaminiwa. Tafadhali fika na kadi.\nWako mwaminifu, Amani Juma.",
+        "explanation": "Taja wahusika, tukio, tarehe, muda na maeneo yaliyopo kwenye kadi. Tarehe na siku ya wiki ya kadi vinatofautiana katika kalenda; usibuni tarehe nyingine."
+      }
+    ]
+  }
+}

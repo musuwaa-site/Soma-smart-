@@ -1,0 +1,454 @@
+{
+  "sourceId": "source-5d487476aa996b95",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "review",
+        "answer": "A, B and C are all defensible.",
+        "explanation": "Chrome and Firefox are browsers and Facebook is a social network. Baidu provides a search engine."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Casual street conversation generally uses informal language.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Car contains the long vowel /ɑː/ in the classroom British model.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Use on with a specified day.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "School is pronounced in one syllable.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Furniture is uncountable and stays unchanged.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "How, what and why introduce requests for explanations.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Nouns name people and things.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The main sound classes are vowels and consonants.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A barber cuts hair.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "A child's daughter is a granddaughter.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A parent's sister is an aunt.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A parent's mother is a grandmother.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "A sibling's daughter is a niece.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A daughter of your parent, other than yourself, is your sister.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Four.",
+        "explanation": "Ed-u-ca-tion has four syllabic beats."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "One.",
+        "explanation": "Book has one vowel sound."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Two.",
+        "explanation": "Teach-er has two syllables."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Three.",
+        "explanation": "Tel-e-phone has three syllables."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "One.",
+        "explanation": "The diphthong in town is one syllable nucleus."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Elephant, pig, giraffe, lion and parrot.",
+        "explanation": "Each names an animal. Hyena, cheetah and bat are other valid examples from the passage."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Google Search, Bing, Firefox and Chrome.",
+        "explanation": "The first pair find indexed information; the second pair are browsers used to access it."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Listening to recordings, practising pronunciation, consulting dictionaries and exchanging written feedback.",
+        "explanation": "Each activity develops a specific language skill."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Distraction and misinformation.",
+        "explanation": "Unrelated media take time away from practice; unreliable sites may teach incorrect usage."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "meat",
+        "explanation": "Meat is a food and can be tasteless."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "week",
+        "explanation": "Last week expresses past time."
+      },
+      {
+        "label": "6(c)",
+        "type": "review",
+        "answer": "The likely intended word is stairs.",
+        "explanation": "The printed alternatives do not include stairs, the usual surface someone may fall on."
+      },
+      {
+        "label": "6(d)",
+        "type": "written",
+        "answer": "sight",
+        "explanation": "Sight means the ability to see."
+      },
+      {
+        "label": "6(e)",
+        "type": "written",
+        "answer": "our",
+        "explanation": "Our is the possessive determiner."
+      },
+      {
+        "label": "6(f)",
+        "type": "written",
+        "answer": "blue",
+        "explanation": "Blue names a colour."
+      },
+      {
+        "label": "6(g)",
+        "type": "written",
+        "answer": "sea",
+        "explanation": "Ships sail on water."
+      },
+      {
+        "label": "6(h)",
+        "type": "written",
+        "answer": "write",
+        "explanation": "Write is the action of composing a letter."
+      },
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "mail",
+        "explanation": "A mail address is used to send correspondence."
+      },
+      {
+        "label": "6(j)",
+        "type": "written",
+        "answer": "wait",
+        "explanation": "Wait means remain until the bus arrives."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "An elephant.",
+        "explanation": "Its tusks, ears and size identify the elephant."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "A hen.",
+        "explanation": "A hen lays eggs and hatches chicks."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "A father.",
+        "explanation": "The description identifies a male parent."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "A car.",
+        "explanation": "The clues mention wheels, seats, fuel and a metal body."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "A lion.",
+        "explanation": "A mane and predatory behaviour identify the lion."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "I am washing my clothes.",
+        "explanation": "Use am with I and the present participle washing. If reading the printed verb literally as wish, the form is am wishing."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "We are eating ugali.",
+        "explanation": "We takes are plus eating."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "She is speaking English.",
+        "explanation": "She takes is plus speaking."
+      },
+      {
+        "label": "8(a)(iv)",
+        "type": "written",
+        "answer": "You are playing netball.",
+        "explanation": "You takes are plus playing."
+      },
+      {
+        "label": "8(a)(v)",
+        "type": "written",
+        "answer": "Paulo is kicking the ball with his friend.",
+        "explanation": "A singular name takes is plus kicking."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "I am not watching movies now.",
+        "explanation": "Place not after am."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Mary and Asha did not play netball yesterday.",
+        "explanation": "Use did not and the base verb."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "He has not eaten lunch yet.",
+        "explanation": "Negate the auxiliary has; yet suits a negative perfect sentence."
+      },
+      {
+        "label": "8(b)(iv)",
+        "type": "written",
+        "answer": "My father is not a farmer.",
+        "explanation": "Place not after is."
+      },
+      {
+        "label": "8(b)(v)",
+        "type": "written",
+        "answer": "Juma is not a rude boy.",
+        "explanation": "Negate the linking verb is."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "P.O. Box 14, Mbeya. 16 November 2025. Dear Asha, I was deeply saddened to hear of the death of your mother. I remember how kindly she welcomed us when we visited your home. I am thinking of you and your family. If it would help, I can bring you the class notes or come and sit with you after school. Please accept my heartfelt condolences. Your friend, Rehema.",
+        "explanation": "A personal condolence letter acknowledges the loss gently, expresses sympathy and offers appropriate support before closing warmly."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "Animal Farm.",
+        "explanation": "Name the book you actually read; this is one worked example."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "George Orwell.",
+        "explanation": "Identify the author of the chosen title."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "Napoleon, Snowball, Squealer and Boxer.",
+        "explanation": "Identify central characters. The animals overthrow their human owner, but the pigs gradually take power."
+      },
+      {
+        "label": "10(d)",
+        "type": "written",
+        "answer": "Boxer, because his loyalty and hard work show real generosity even when others exploit him.",
+        "explanation": "Support the character choice with evidence."
+      },
+      {
+        "label": "10(e)",
+        "type": "written",
+        "answer": "I learnt to question leaders who change rules to favour themselves.",
+        "explanation": "Explain a lesson and connect it to events in the chosen book."
+      }
+    ]
+  }
+}

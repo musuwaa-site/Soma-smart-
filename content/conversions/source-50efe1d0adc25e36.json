@@ -1,0 +1,457 @@
+{
+  "sourceId": "source-50efe1d0adc25e36",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The simple present buys describes a habitual action by one person.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A word processor creates and edits text documents.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The internet provides network access to online services.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Hour starts with a vowel sound because h is silent.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Homophones sound alike and differ in meaning.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Interrupting speech is not a general strategy for improving language skills.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Myself emphasises the subject I, which already performs the action.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The subject form we must be replaced by the object form us.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Projectors and interactive whiteboards display shared presentations and support collaboration.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Flight mode changes a device’s wireless settings for travel.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "review",
+        "answer": "D if the intended wording is passage; neither position follows from passenger.",
+        "explanation": "An aisle seat is next to the passage. The printed wording next to the passenger does not distinguish it from a window seat."
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Passengers check in when presenting their travel documents.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Guests check out when they leave a hotel.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A reservation is an advance booking.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A vacation is a holiday.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "going",
+        "explanation": "Love can take an -ing complement or to go."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "having",
+        "explanation": "Like can take having picnics or to have picnics."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "being",
+        "explanation": "Love being near the animals is grammatical."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "cooking",
+        "explanation": "Hates cooking describes an activity he dislikes."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "making",
+        "explanation": "Likes making refers to preparing sandwiches."
+      },
+      {
+        "label": "3(vi)",
+        "type": "written",
+        "answer": "playing",
+        "explanation": "Love playing describes the children's activity."
+      },
+      {
+        "label": "3(vii)",
+        "type": "written",
+        "answer": "feeding",
+        "explanation": "Feeding coordinates with playing."
+      },
+      {
+        "label": "3(viii)",
+        "type": "written",
+        "answer": "laying, using the supplied verb; lying for reclining.",
+        "explanation": "Lay generally takes an object. For resting on the blanket the idiomatic form is lying."
+      },
+      {
+        "label": "3(ix)",
+        "type": "written",
+        "answer": "watching",
+        "explanation": "Loves watching indicates enjoyment of the activity."
+      },
+      {
+        "label": "3(x)",
+        "type": "written",
+        "answer": "listening",
+        "explanation": "Listening takes to before the birds."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "A previously mentioned noun: I saw a dog. The dog barked.",
+        "explanation": "The listener can identify the dog from the first sentence."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "A unique object in context: The sun is shining.",
+        "explanation": "The referent is identifiable."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "A superlative: She is the fastest runner in class.",
+        "explanation": "The fastest singles out the top runner."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "An ordinal: Take the second road.",
+        "explanation": "The ordinal identifies a particular road."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "A river name: The Nile flows north.",
+        "explanation": "The definite article conventionally accompanies river names."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "review",
+        "answer": "Slashes normally enclose a phonemic transcription.",
+        "explanation": "They mark a pronunciation; the source extract itself is missing."
+      },
+      {
+        "label": "5(ii)",
+        "type": "review",
+        "answer": "The expected headword appears to be material.",
+        "explanation": "The example asks about material, but the missing dictionary entry prevents confirmation."
+      },
+      {
+        "label": "5(iii)",
+        "type": "review",
+        "answer": "SYM normally abbreviates symbol; SYN abbreviates synonym.",
+        "explanation": "The extract or its abbreviation key is needed to establish the printed usage."
+      },
+      {
+        "label": "5(iv)",
+        "type": "review",
+        "answer": "Supplies, substances or resources, depending on the sense.",
+        "explanation": "The relevant definition is missing, so several synonyms are defensible."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "The teacher thought she had the qualities or potential to succeed at university.",
+        "explanation": "Material here describes suitability for a role, not a physical substance."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "thin, bath",
+        "explanation": "Both contain the voiceless dental fricative /θ/."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "this, mother",
+        "explanation": "Both contain the voiced dental fricative /ð/."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "jam, judge",
+        "explanation": "Both contain the affricate /dʒ/."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "measure, vision",
+        "explanation": "Both contain the voiced fricative /ʒ/."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "ship, fish",
+        "explanation": "Both contain /ʃ/."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Speak English with a classmate every day.",
+        "explanation": "Frequent short conversations develop fluency."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Listen to a recording and imitate its pronunciation.",
+        "explanation": "Repeating a model trains stress and rhythm."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Record a short talk and listen back.",
+        "explanation": "Review helps identify unclear sounds and pauses."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Ask a teacher for feedback on one pronunciation difficulty.",
+        "explanation": "Targeted correction guides the next practice."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Use new words in a debate or storytelling club.",
+        "explanation": "Purposeful speech turns vocabulary into active use."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Readers can search many titles quickly.",
+        "explanation": "Keyword indexes reduce looking-up time."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "An authorised copy can be accessed remotely.",
+        "explanation": "A reader can use the resource without travelling to a building."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Many books fit on one device.",
+        "explanation": "Digital storage saves shelf space."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Text can often be enlarged or read aloud.",
+        "explanation": "These features support different accessibility needs."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Digital collections can include sound and video.",
+        "explanation": "Multimedia can demonstrate pronunciation or experiments."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "concave",
+        "explanation": "Concave curves inward while convex curves outward."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "disadvantage",
+        "explanation": "The prefix dis- gives the opposite sense."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "unintelligible",
+        "explanation": "This means impossible to understand."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "unpaid",
+        "explanation": "Unpaid indicates that payment has not been made."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "indiscipline",
+        "explanation": "This denotes a lack of discipline."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Ashura can check spellings before handing in work; read definitions to choose a precise word; check word class to fit the sentence; study examples to learn collocations; check forms such as irregular plurals; and use pronunciation guides to practise saying the same words.",
+        "explanation": "For example, a dictionary shows that advice is a noun and advise is a verb, helping her revise “She gave me useful advice.” Connect each reference feature to a specific improvement."
+      }
+    ]
+  }
+}

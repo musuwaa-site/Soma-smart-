@@ -1,0 +1,305 @@
+{
+  "sourceId": "source-aa037aaf5c525213",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Earth’s shadow on the Moon creates a lunar eclipse."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Transhumance is a seasonal livestock movement."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Reclamation increases land’s useful productive capacity."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "The equatorial belt generally has rising air and low pressure."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Air transport can pass above many surface barriers."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The inner sequence is Mercury, Venus, Earth, Mars."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Deciduous trees shed leaves seasonally."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "50,000 cm equals half a kilometre."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Soft-drink production is beverage manufacturing."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Vertical shafts are associated with underground mining."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "D",
+          "ii": "C",
+          "iii": "G",
+          "iv": "B",
+          "v": "F"
+        },
+        "explanation": "A distant approaching ship becomes visible top-first; global travel can return to its origin; satellite photographs show curvature; the horizon curves; sunrise/sunset times differ around Earth."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Large-scale commercial livestock production.",
+        "explanation": "It uses extensive land and advanced inputs for market output."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Milk and dairy products.",
+        "explanation": "Dairy cattle supply milk for processing and sale."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Meat or hides/leather.",
+        "explanation": "Animals provide additional commercial products."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "High capital input, productive breeds, managed feeding/veterinary care and market orientation.",
+        "explanation": "Each supports high output and commercial sales."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "One of Earth’s large conventionally recognized landmasses.",
+        "explanation": "Continents are geographical divisions, not always completely separated by sea."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Africa, Asia, Europe, North America, South America, Australia and Antarctica.",
+        "explanation": "These form the commonly taught seven-continent system."
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "Arctic Ocean.",
+        "explanation": "It is the smallest recognized ocean."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "Pacific Ocean.",
+        "explanation": "It has the largest surface area."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Latitude controls solar angle; altitude generally lowers temperature with height; distance from the sea moderates daily/seasonal extremes.",
+        "explanation": "Clouds, currents and winds are other valid factors affecting temperature."
+      },
+      {
+        "label": "5(b)",
+        "type": "review",
+        "answer": "The annual mean cannot be calculated from this one daily reading of 36°C.",
+        "explanation": "It requires temperatures representative of the whole year, such as all twelve monthly means. Dividing one daily value by twelve is invalid."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Draw horizontal rock layers compressed by inward arrows, then folded into anticlines and synclines. Label both folds and compression.",
+        "explanation": "Compression shortens and buckles strata to build fold ranges."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Draw parallel faults with a raised central block or lower neighbouring blocks. Label faults, relative movement and horst/block mountain.",
+        "explanation": "Fault displacement creates relative height differences."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "A feature, place or event that draws visitors for natural, historical, cultural or recreational interest.",
+        "explanation": "An attraction supplies a reason to visit."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Olduvai Gorge, Kilwa Kisiwani and Bagamoyo.",
+        "explanation": "These preserve archaeological or historical heritage."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Habitat damage and waste; disturbance of local culture; and unequal or seasonal economic benefits.",
+        "explanation": "Link each effect to visitor activity or tourism development."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Approximately 9.5 km² using the labelled one-kilometre grid; accept a reasonable tracing tolerance.",
+        "explanation": "Trace the farm, count full and partial grid squares, then convert square units using the verified map scale. Reproduction size can affect ruler measurements."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Approximately 6.8 km along the railway, allowing a reasonable tracing tolerance.",
+        "explanation": "Follow the bends between the stated grid references using a marked paper edge or thread and convert with the map scale."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "One centimetre represents half a kilometre.",
+        "explanation": "1:50,000 means 50,000 cm or 0.5 km per map centimetre."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Equatorial, tropical savanna, hot desert, Mediterranean and mountain climates are major regions.",
+        "explanation": "Altitude modifies climate in uplands as well as the broad latitude-related zones."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Tropical savanna climate covers a large area.",
+        "explanation": "Seasonal wet and dry conditions are widespread between equatorial and desert zones."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "Crop farming, livestock rearing and wildlife tourism.",
+        "explanation": "Seasonal rain supports crops and grasslands, while climate affects the timing of activities."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Improve suitable mechanization, irrigation, seeds and soil management, pest control, finance, agricultural research and extension, transport/storage and market access.",
+        "explanation": "Explain how each proposed change increases output, reduces loss or improves returns without degrading land."
+      }
+    ]
+  }
+}

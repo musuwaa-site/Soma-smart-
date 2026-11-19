@@ -66,3 +66,13 @@ Offline provisioning is user-controlled. Opening SomaSmart registers the worker 
 ## Examination feedback update
 
 The default paper entry opens scored practice when a scored selection exists, and opens question selection for a self-check paper. The two modes for scored attempts are **Check each answer** and **Mark at the end**. Immediate objective checks keep the first submitted choice. Matching responses are checked after the last pair is filled. Written work supports comparison with the model and self-marking. The results display keeps the guided review conversation. Existing saved attempts retain end-of-exam marking. No additional paper is counted as fully scored from this interface change.
+
+## Individual question conversion
+
+Source-page question groups now support individual labelled response controls, model answers and explanations through scripts/import_page_items.py and content/conversions. Original question pages preserve exact wording, mathematics, tables and figures. Objective responses use their printed answer labels. Independently written solutions award one practice point per response or matching pair, with half credit for written work. These independent practice totals appear in the paper instructions.
+
+Defective source questions have separate unscored response controls and an explanation of the missing or ambiguous information. Earlier held items are accessible for learning without supplying a false correct option. The original editorial records remain available. The separate source-page notebooks and existing attempts remain saved, with earlier group working displayed alongside the new controls.
+
+scripts/exam_completion.py --require-complete checks the 180-paper individual-response milestone. This milestone covers exam interactions. The overall application remains unfinished against the original textbook and curriculum scope. Physical Android testing remains pending.
+
+The release 0.15.0 conversion gate passes all 180 papers. There are 7,576 scored genuine response records and 210 separately interactive unscored responses. All 156 formerly page-only papers now have individual controls. The built application harness opens all 180 and verifies each included answer control. Earlier student notebooks remain available as saved working. This exam-interface task is complete with source defects explicitly represented in feedback. The original broad textbook/curriculum mission remains unfinished.

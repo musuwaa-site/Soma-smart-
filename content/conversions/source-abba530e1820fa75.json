@@ -1,0 +1,454 @@
+{
+  "sourceId": "source-abba530e1820fa75",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Anayetafuta jambo anahitaji kujitahidi na kujifunza.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Picha huonyesha wasanii na utendaji uliorekodiwa.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Ngonjera ni majibizano ya kishairi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Si ni kitenzi kishirikishi cha ukanushi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Irabu hutamkwa bila kizuizi kamili cha mkondo wa hewa.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Nukta huonyesha mwisho wa sentensi kamili.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A ni kiambishi cha nafsi, na cha wakati, a ya mwisho ni tamati.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Friji na jokofu hutaja kifaa kimoja.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Kamusi thaniya hutumia lugha mbili.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Mofimu ni kipashio kidogo chenye maana ya kileksika au kisarufi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Ushairi hutumia lugha ya mkato; tenzi ni mashairi ya kimapokeo; majigambo hutukuza ushujaa; nyimbo huimbwa; maigizo huambatana na utendaji.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Ushairi hutumia lugha ya mkato; tenzi ni mashairi ya kimapokeo; majigambo hutukuza ushujaa; nyimbo huimbwa; maigizo huambatana na utendaji.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Ushairi hutumia lugha ya mkato; tenzi ni mashairi ya kimapokeo; majigambo hutukuza ushujaa; nyimbo huimbwa; maigizo huambatana na utendaji.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Ushairi hutumia lugha ya mkato; tenzi ni mashairi ya kimapokeo; majigambo hutukuza ushujaa; nyimbo huimbwa; maigizo huambatana na utendaji.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Ushairi hutumia lugha ya mkato; tenzi ni mashairi ya kimapokeo; majigambo hutukuza ushujaa; nyimbo huimbwa; maigizo huambatana na utendaji.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Furaha na Huzuni Maishani",
+        "explanation": "Kichwa kinahusisha kurasa mbili za maisha."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Kupitia hali zote mbili humwezesha mtu kuelewa maisha, kuwafariji wenye shida na kuthamini furaha.",
+        "explanation": "Kifungu kinaeleza kuwa uzoefu wa huzuni na furaha huzuia kudharau wengine."
+      },
+      {
+        "label": "3(c)(i)",
+        "type": "written",
+        "answer": "Lazima.",
+        "explanation": "Fasili ifuate muktadha wa maisha katika kifungu."
+      },
+      {
+        "label": "3(c)(ii)",
+        "type": "written",
+        "answer": "Imeonekana wazi.",
+        "explanation": "Fasili ifuate muktadha wa maisha katika kifungu."
+      },
+      {
+        "label": "3(c)(iii)",
+        "type": "written",
+        "answer": "Yaliyofunikwa.",
+        "explanation": "Fasili ifuate muktadha wa maisha katika kifungu."
+      },
+      {
+        "label": "3(c)(iv)",
+        "type": "written",
+        "answer": "Kabisa.",
+        "explanation": "Fasili ifuate muktadha wa maisha katika kifungu."
+      },
+      {
+        "label": "3(c)(v)",
+        "type": "written",
+        "answer": "Kuwaonya au kuwazuia kufanya mabaya.",
+        "explanation": "Fasili ifuate muktadha wa maisha katika kifungu."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "Nivumilie shida, nifurahie mema na niwasaidie wengine wanapopitia huzuni.",
+        "explanation": "Funzo litokane na kauli kwamba furaha na huzuni ni sehemu ya maisha."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Mimi nitasoma kitabu hiki.",
+        "explanation": "Mimi ni kiwakilishi; letu humiliki nomino; tutaendelea husaidia kusoma; na huunganisha; upendo ni dhana."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Shamba letu limepandwa mahindi.",
+        "explanation": "Mimi ni kiwakilishi; letu humiliki nomino; tutaendelea husaidia kusoma; na huunganisha; upendo ni dhana."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Tutaendelea kusoma hadi jioni.",
+        "explanation": "Mimi ni kiwakilishi; letu humiliki nomino; tutaendelea husaidia kusoma; na huunganisha; upendo ni dhana."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Asha na Hamisi wamefika.",
+        "explanation": "Mimi ni kiwakilishi; letu humiliki nomino; tutaendelea husaidia kusoma; na huunganisha; upendo ni dhana."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Upendo huleta mshikamano.",
+        "explanation": "Mimi ni kiwakilishi; letu humiliki nomino; tutaendelea husaidia kusoma; na huunganisha; upendo ni dhana."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Tambua tahajia sahihi ya neno.",
+        "explanation": "Kamusi hupanga vidahizo kialfabeti na neno moja linaweza kuwa na maana kadhaa."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Tazama herufi ya kwanza.",
+        "explanation": "Kamusi hupanga vidahizo kialfabeti na neno moja linaweza kuwa na maana kadhaa."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Fuata mpangilio wa herufi zinazofuata.",
+        "explanation": "Kamusi hupanga vidahizo kialfabeti na neno moja linaweza kuwa na maana kadhaa."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Tafuta kidahizo katika kundi hilo.",
+        "explanation": "Kamusi hupanga vidahizo kialfabeti na neno moja linaweza kuwa na maana kadhaa."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Soma maana mbalimbali na uchague inayofaa muktadha.",
+        "explanation": "Kamusi hupanga vidahizo kialfabeti na neno moja linaweza kuwa na maana kadhaa."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Hufanya ujumbe ueleweke.",
+        "explanation": "Lugha fasaha hufuata kanuni na kutimiza kusudi la mawasiliano."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Hupunguza utata.",
+        "explanation": "Lugha fasaha hufuata kanuni na kutimiza kusudi la mawasiliano."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Huongeza heshima katika mazungumzo.",
+        "explanation": "Lugha fasaha hufuata kanuni na kutimiza kusudi la mawasiliano."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Hurahisisha kujifunza.",
+        "explanation": "Lugha fasaha hufuata kanuni na kutimiza kusudi la mawasiliano."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Huimarisha maandishi rasmi.",
+        "explanation": "Lugha fasaha hufuata kanuni na kutimiza kusudi la mawasiliano."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Mada inayozungumziwa.",
+        "explanation": "Maneno na tungo viteuliwe ili kuwafaa wapokeaji na mazingira."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Kusudi la mazungumzo.",
+        "explanation": "Maneno na tungo viteuliwe ili kuwafaa wapokeaji na mazingira."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Umri na uhusiano wa washiriki.",
+        "explanation": "Maneno na tungo viteuliwe ili kuwafaa wapokeaji na mazingira."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Mazingira au muktadha.",
+        "explanation": "Maneno na tungo viteuliwe ili kuwafaa wapokeaji na mazingira."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Kiwango cha elimu na uelewa wa hadhira.",
+        "explanation": "Maneno na tungo viteuliwe ili kuwafaa wapokeaji na mazingira."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Maandishi yanaweza kusomwa vizazi vingi.",
+        "explanation": "Ni faida ya kuhifadhi ujumbe katika namna inayoweza kurudiwa."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Huwezesha kujifunza kazi bila kuwepo kwa msanii.",
+        "explanation": "Ni faida ya kuhifadhi ujumbe katika namna inayoweza kurudiwa."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Sauti na kiimbo vinaweza kupotea.",
+        "explanation": "Maandishi hayahifadhi kila kipengele cha uhai wa utendaji."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Ishara na vitendo haviwasilishwi kikamilifu.",
+        "explanation": "Maandishi hayahifadhi kila kipengele cha uhai wa utendaji."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "Wasioweza kusoma hukosa ufikiaji wa moja kwa moja.",
+        "explanation": "Maandishi hayahifadhi kila kipengele cha uhai wa utendaji."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Huendeleza matukio.",
+        "explanation": "Majukumu ya wahusika yahusishwe na matendo yao katika kazi."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Huwasilisha ujumbe.",
+        "explanation": "Majukumu ya wahusika yahusishwe na matendo yao katika kazi."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Huonyesha tabia za jamii.",
+        "explanation": "Majukumu ya wahusika yahusishwe na matendo yao katika kazi."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Hujenga migogoro.",
+        "explanation": "Majukumu ya wahusika yahusishwe na matendo yao katika kazi."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Hutoa mifano inayofundisha au kuonya.",
+        "explanation": "Majukumu ya wahusika yahusishwe na matendo yao katika kazi."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Shule ya Sekondari Tegemeo, S.L.P. 130, Dodoma. 10/11/2023.\nMkuu wa Shule, Shule ya Sekondari Tegemeo, S.L.P. 130, Dodoma.\nYAH: KUOMBA RUHUSA YA SIKU MBILI\nNdugu Mkuu wa Shule, ninaomba ruhusa ya siku mbili kuanzia tarehe 11 hadi 12 Novemba ili kupata matibabu katika Hospitali ya Mkoa wa Dodoma. Nimekuwa na tatizo la kiafya linalohitaji kuonwa na daktari. Nitarejea shuleni baada ya matibabu na kufidia masomo nitakayokosa. Naomba ombi langu likubaliwe.\nWako mtiifu, Juhudi Sabuni.",
+        "explanation": "Hifadhi jina na anuani ulizopewa, ombi la siku mbili, sababu ya matibabu na umbo rasmi la barua."
+      }
+    ]
+  }
+}

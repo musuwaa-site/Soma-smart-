@@ -1,0 +1,329 @@
+{
+  "sourceId": "source-03da68ba284ee25f",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "Kuimarisha Matumizi ya Kiswahili",
+        "explanation": "Kichwa kinabeba wazo kuu la kifungu."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "Baadhi ya watu hawathamini Kiswahili na hupendelea lugha za kigeni kama ishara ya hadhi.",
+        "explanation": "Tatizo limeelezwa katika aya ya pili."
+      },
+      {
+        "label": "1(c)(i)",
+        "type": "written",
+        "answer": "Biashara.",
+        "explanation": "Hizi ni njia zilizotajwa katika kifungu."
+      },
+      {
+        "label": "1(c)(ii)",
+        "type": "written",
+        "answer": "Uenezi wa dini na safari za wamishonari.",
+        "explanation": "Hizi ni njia zilizotajwa katika kifungu."
+      },
+      {
+        "label": "1(d)(i)",
+        "type": "written",
+        "answer": "Kubadilishana ujumbe.",
+        "explanation": "Maana ihusiane na muktadha."
+      },
+      {
+        "label": "1(d)(ii)",
+        "type": "written",
+        "answer": "Ununuzi na uuzaji wa bidhaa au huduma.",
+        "explanation": "Maana ihusiane na muktadha."
+      },
+      {
+        "label": "1(d)(iii)",
+        "type": "written",
+        "answer": "Lugha inayotambuliwa kwa matumizi ya shughuli rasmi.",
+        "explanation": "Maana ihusiane na muktadha."
+      },
+      {
+        "label": "1(d)(iv)",
+        "type": "written",
+        "answer": "Namna ya maisha ya jamii.",
+        "explanation": "Maana ihusiane na muktadha."
+      },
+      {
+        "label": "1(d)(v)",
+        "type": "written",
+        "answer": "Uwezo wa kutumia lugha vizuri na kwa kueleweka.",
+        "explanation": "Maana ihusiane na muktadha."
+      },
+      {
+        "label": "1(e)",
+        "type": "written",
+        "answer": "Kiswahili kimetumika Afrika kwa muda mrefu na kikaenea kupitia biashara na dini. Ni lugha ya mawasiliano kwa watu wengi. Baadhi ya watu hukipa nafasi ndogo wakipendelea lugha za kigeni. Ili kukiimarisha, wananchi wakitumie vizuri katika maandishi na hotuba, na shule zifundishe wanafunzi kukithamini.",
+        "explanation": "Muhtasari wa maneno 40–80 utaje kuenea, changamoto na hatua. Kiswahili ni lugha ya Kibantu; usichukulie dai la kifungu kwamba kilizaliwa kwa ndoa pekee kuwa ukweli wa kiisimu."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Fasili inaeleza kazi ya kipashio hicho.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(a)(iii)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Fasili inaeleza kazi ya kipashio hicho.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(a)(iv)",
+        "type": "review",
+        "answer": "Jibu ni viunganishi, lakini neno hili halipo katika Orodha B iliyochapishwa.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "2(a)(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Fasili inaeleza kazi ya kipashio hicho.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(a)(vi)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Fasili inaeleza kazi ya kipashio hicho.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "Kwa nini Kiswahili ni muhimu, mwalimu?",
+        "explanation": "Mfano wa mazungumzo yenye swali, jibu na mwendelezo wa mada."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "Kinatuwezesha kuwasiliana na kuhifadhi utamaduni wetu.",
+        "explanation": "Mfano wa mazungumzo yenye swali, jibu na mwendelezo wa mada."
+      },
+      {
+        "label": "2(b)(iii)",
+        "type": "written",
+        "answer": "Tunaweza kukiendelezaje?",
+        "explanation": "Mfano wa mazungumzo yenye swali, jibu na mwendelezo wa mada."
+      },
+      {
+        "label": "2(b)(iv)",
+        "type": "written",
+        "answer": "Tukitumie kwa usahihi na tusome vitabu vyake.",
+        "explanation": "Mfano wa mazungumzo yenye swali, jibu na mwendelezo wa mada."
+      },
+      {
+        "label": "2(b)(v)",
+        "type": "written",
+        "answer": "Tumeelewa; tuko tayari kujifunza.",
+        "explanation": "Mfano wa mazungumzo yenye swali, jibu na mwendelezo wa mada."
+      },
+      {
+        "label": "2(c)(i)",
+        "type": "written",
+        "answer": "Baba ameotesha miti / amekwea miti.",
+        "explanation": "Maana mbili lazima ziwe na muktadha unaokubalika; baadhi ya sentensi si tata kwa uwazi bila muktadha."
+      },
+      {
+        "label": "2(c)(ii)",
+        "type": "written",
+        "answer": "Ana bahati / ana nyota kama alama au kitu kinachoonekana.",
+        "explanation": "Maana mbili lazima ziwe na muktadha unaokubalika; baadhi ya sentensi si tata kwa uwazi bila muktadha."
+      },
+      {
+        "label": "2(c)(iii)",
+        "type": "written",
+        "answer": "Mama amewasili akiwa na ndege kuku / anaweza kuwa amekuja na kuku aliyepikwa.",
+        "explanation": "Maana mbili lazima ziwe na muktadha unaokubalika; baadhi ya sentensi si tata kwa uwazi bila muktadha."
+      },
+      {
+        "label": "2(c)(iv)",
+        "type": "written",
+        "answer": "Nimeona barua iliyokuwapo / nimekutana na ujumbe fulani kwa namna ya muktadha.",
+        "explanation": "Maana mbili lazima ziwe na muktadha unaokubalika; baadhi ya sentensi si tata kwa uwazi bila muktadha."
+      },
+      {
+        "label": "2(c)(v)",
+        "type": "review",
+        "answer": "“Tuna wimbo” kwa kawaida humaanisha sisi tuna wimbo. Hakuna utata wa maana mbili unaothibitishwa bila muktadha wa ziada.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(ii)",
+        "type": "review",
+        "answer": "Nakala hii haionyeshi neno lililopigiwa mstari; hivyo haiwezi kuchaguliwa aina moja kwa uhakika.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "review",
+        "answer": "Nakala hii haionyeshi neno lililopigiwa mstari; hivyo haiwezi kuchaguliwa aina moja kwa uhakika.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "review",
+        "answer": "Nakala hii haionyeshi neno lililopigiwa mstari; hivyo haiwezi kuchaguliwa aina moja kwa uhakika.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(a)(v)",
+        "type": "review",
+        "answer": "Nakala hii haionyeshi neno lililopigiwa mstari; hivyo haiwezi kuchaguliwa aina moja kwa uhakika.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(a)(vi)",
+        "type": "review",
+        "answer": "Nakala hii haionyeshi neno lililopigiwa mstari; hivyo haiwezi kuchaguliwa aina moja kwa uhakika.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Kucheka: chek; kuchekeana; kuchekwa.",
+        "explanation": "Viambishi vya kutendeana vinaonyesha washiriki kufanya tendo kwa wao kwa wao; kutendwa huonyesha mtendwa."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Kupenda: pend; kupendana; kupendwa.",
+        "explanation": "Viambishi vya kutendeana vinaonyesha washiriki kufanya tendo kwa wao kwa wao; kutendwa huonyesha mtendwa."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "Kuimba: imb; kuimbiana; kuimbwa.",
+        "explanation": "Viambishi vya kutendeana vinaonyesha washiriki kufanya tendo kwa wao kwa wao; kutendwa huonyesha mtendwa."
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "written",
+        "answer": "Kuandika: andik; kuandikiana; kuandikwa.",
+        "explanation": "Viambishi vya kutendeana vinaonyesha washiriki kufanya tendo kwa wao kwa wao; kutendwa huonyesha mtendwa."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Kupata maana, tahajia, matamshi, aina za maneno na mifano ya matumizi.",
+        "explanation": "Kamusi husaidia kuelewa na kutumia neno kwa usahihi."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Hadithi, nyimbo, methali, vitendawili na maigizo.",
+        "explanation": "Hii ni mifano ya tanzu au vipera vya fasihi inayowasilishwa kwa mdomo na matendo."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Mchumia juani hulia kivulini.",
+        "explanation": "Chagua usemi unaofafanua tabia. Methali kuhusu wivu ni tamathali; si agizo la kujidhuru."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Haraka haraka haina baraka.",
+        "explanation": "Chagua usemi unaofafanua tabia. Methali kuhusu wivu ni tamathali; si agizo la kujidhuru."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Asiyejua maana haambiwi maana.",
+        "explanation": "Chagua usemi unaofafanua tabia. Methali kuhusu wivu ni tamathali; si agizo la kujidhuru."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Uaminifu ni msingi wa heshima.",
+        "explanation": "Chagua usemi unaofafanua tabia. Methali kuhusu wivu ni tamathali; si agizo la kujidhuru."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Mwenye wivu ajinyonge.",
+        "explanation": "Chagua usemi unaofafanua tabia. Methali kuhusu wivu ni tamathali; si agizo la kujidhuru."
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "Kuhimiza elimu, bidii na subira.",
+        "explanation": "Tumia hoja zinazotokana na utungo."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "Kupoteza muda kwa starehe zisizo na faida.",
+        "explanation": "Tumia hoja zinazotokana na utungo."
+      },
+      {
+        "label": "4(c)(iii)",
+        "type": "written",
+        "answer": "Elimu na maandalizi hujenga maisha bora.",
+        "explanation": "Tumia hoja zinazotokana na utungo."
+      },
+      {
+        "label": "4(c)(iv)",
+        "type": "written",
+        "answer": "Maisha yanahitaji maandalizi kama safari.",
+        "explanation": "Tumia hoja zinazotokana na utungo."
+      },
+      {
+        "label": "4(c)(v)",
+        "type": "written",
+        "answer": "Nitasoma, kupanga muda na kujifunza kutokana na wengine.",
+        "explanation": "Tumia hoja zinazotokana na utungo."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "S.L.P. 20, Dodoma. 10/11/2012.\nMhariri, Gazeti la Taifa, Dar es Salaam.\nYAH: KUIMARISHA KISWAHILI SHULENI\nNdugu Mhariri, napendekeza shule iwe na klabu ya Kiswahili ya mijadala na uandishi. Pili, maktaba iongeze vitabu vinavyofaa umri wa wanafunzi. Tatu, walimu na wanafunzi wahimizwe kutumia Kiswahili sanifu katika shughuli za shule. Hivyo wanafunzi wataongeza msamiati na kujiamini katika mawasiliano.\nWako mwaminifu, Amani Juma.",
+        "explanation": "Zingatia umbo la barua kwa mhariri na hoja tatu tu."
+      }
+    ]
+  }
+}

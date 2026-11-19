@@ -23,13 +23,14 @@ if (data.questions.some(q => q.publicationStatus !== "published") ||
     data.sourceDocuments.some(d => d.publicationStatus !== "published"))
   throw Error("Unpublished content in student release");
 for (const lesson of data.lessons) if (lesson.diagram) requireAsset(lesson.diagram);
-for (const question of data.questions) for (const media of question.media) requireAsset(media.path);
+for (const question of [...data.questions,...data.papers.flatMap(p => p.reviewOnlyItems || [])])
+  for (const media of question.media) requireAsset(media.path);
 for (const book of data.books) requireAsset("/books/" + book.id + ".epub");
 for (const paper of data.papers.filter(p => p.sourceType === "original" && p.publicationStatus === "published"))
   for (const suffix of [".pdf", "-answers.pdf"]) requireAsset("/exams/" + paper.id + suffix);
 
 for (const doc of data.sourceDocuments) {
-  if (!doc.interactivePaperId && !doc.practiceIndex) throw Error("Missing interactive practice: " + doc.id);
+  if (!doc.interactivePaperId) throw Error("Missing interactive practice: " + doc.id);
   for (const resource of [doc, doc.answerGuide].filter(Boolean)) {
     if (!resource.pageCount || resource.pageImages.length !== resource.pageCount)
       throw Error("Original pages missing: " + resource.id);

@@ -1,0 +1,302 @@
+{
+  "sourceId": "source-b749c4ada4b5eeeb",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Water covers approximately 71%."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Trade and livestock keeping are human economic activities.",
+        "acceptedAnswers": [
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Eratosthenes used the term geography and estimated Earth’s circumference."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The Big Bang describes expansion from an early hot, dense state."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Volcanic material accumulates and solidifies."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "These are the four outer planets."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Antarctica lacks a permanent indigenous population."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Opposite hemispheres experience opposite seasons."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Westward crossing adds a calendar day.",
+        "acceptedAnswers": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Without rotation the familiar 24-hour day–night cycle would cease."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "A",
+          "ii": "F",
+          "iii": "D",
+          "iv": "C",
+          "v": "B"
+        },
+        "explanation": "Relief features describe land shape. Straits divide landmasses, continents are major landmasses, capes project into water and Antarctica is the polar continent without a permanent indigenous population."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Geography studies places, physical environments and human activities and their spatial relationships.",
+        "explanation": "It relates Earth systems to human activity."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "The International Date Line is the conventional calendar-date boundary near 180° longitude.",
+        "explanation": "It distinguishes two successive calendar dates."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "An eclipse occurs when alignment of the Sun, Earth and Moon blocks direct sunlight or puts a body in shadow.",
+        "explanation": "An eclipse requires close alignment."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "written",
+        "answer": "The seabed beneath ocean water.",
+        "explanation": "It has features such as ridges and trenches."
+      },
+      {
+        "label": "3(a)(v)",
+        "type": "written",
+        "answer": "An occasion when the Sun is overhead at the equator and day and night are approximately equal.",
+        "explanation": "This happens near March and September."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Map reading for travel; identifying suitable farmland; protecting water supplies; planning settlements; and preparing for careers such as surveying.",
+        "explanation": "Relate each example to a practical decision."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "A circle formed where a plane through Earth’s centre cuts its surface.",
+        "explanation": "The equator is an example."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "It divides Earth into hemispheres, provides shortest surface routes and aids aviation and marine navigation.",
+        "explanation": "The shorter arc between two points gives the shortest route on a sphere."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "Locate places, plot routes, calculate local solar time and identify latitude-related climate zones.",
+        "explanation": "Coordinates and angular distances underpin these uses."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Earth’s orbital motion around the Sun.",
+        "explanation": "A revolution takes about 365¼ days."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "A year, changing apparent solar position, seasonal differences in day length and the seasons (with axial tilt).",
+        "explanation": "The direction of Earth’s tilted axis stays approximately fixed during the orbit."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Earth’s eastward spin about its axis.",
+        "explanation": "One solar day lasts approximately 24 hours."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Day and night; differences in local solar time; apparent daily movement of the Sun and stars; deflection of winds and currents; and slight equatorial bulging.",
+        "explanation": "Different places turn into sunlight at different times and the rotating frame affects moving air and water."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "The Sun and all objects gravitationally bound to it.",
+        "explanation": "These include planets, moons, asteroids and comets."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.",
+        "explanation": "List outward from the Sun."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Mathematics supports scales and statistics; physics explains atmospheric pressure; chemistry helps explain weathering; biology explains vegetation; economics explains trade and industrial location.",
+        "explanation": "Show how knowledge or methods from each subject contribute to geographical work."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Use a sketch for each: ships disappear hull first; Earth casts a round shadow in lunar eclipses; travellers can circumnavigate; different stars become visible with latitude; photographs from orbit show a globe.",
+        "explanation": "Draw four observations and indicate what a curved surface predicts."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(i)",
+        "type": "written",
+        "answer": "The plant cover of a place.",
+        "explanation": "It includes trees, shrubs, grasses and other plants."
+      },
+      {
+        "label": "10(ii)",
+        "type": "written",
+        "answer": "Natural vegetation grows without deliberate planting; cultivated vegetation is planted and managed.",
+        "explanation": "A natural woodland contrasts with a plantation."
+      },
+      {
+        "label": "10(iii)",
+        "type": "written",
+        "answer": "Temperature, rainfall, soil, relief and human land use influence vegetation.",
+        "explanation": "These control available moisture, nutrients, growing conditions and disturbance."
+      }
+    ]
+  }
+}

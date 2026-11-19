@@ -70,6 +70,10 @@ for (const doc of data.sourceDocuments) {
     const paper = paperIds.get(doc.interactivePaperId);
     assert(paper?.questionIds.length, doc.id);
     for (const id of paper.questionIds) assert(questions.get(id)?.markingGuide, id);
+    for (const item of paper.reviewOnlyItems || []) {
+      assert(item.answerKey && item.feedbackExplanation, item.id);
+      for (const media of item.media) assert((await offlineRead(media.path)).ok, media.path);
+    }
   }
 }
 console.log(directory, data.sourceDocuments.length, 'interactive papers readable offline,',

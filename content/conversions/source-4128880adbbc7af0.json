@@ -1,0 +1,504 @@
+{
+  "sourceId": "source-4128880adbbc7af0",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Physics relates matter to energy."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A hydrometer measures liquid density rather than length."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Force=pressure×area=20×2=40 N."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A broad heavy base gives a low centre of gravity and greater stability."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A body gaining electrons becomes negative and attracts positive charge; it can also polarise and attract neutral material.",
+        "acceptedAnswers": [
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Liquid pressure depends on density and depth, so more than one printed choice is physically valid.",
+        "acceptedAnswers": [
+          "A",
+          "B"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Geothermal energy comes from hot rocks within Earth."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Translucent material passes some light while scattering it."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "An equal-arm balance uses balanced moments."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "V=IR=0.2×20=4 V."
+      },
+      {
+        "label": "1(xi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Cobalt and nickel are ferromagnetic materials."
+      },
+      {
+        "label": "1(xii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A first-class lever has its fulcrum between effort and load."
+      },
+      {
+        "label": "1(xiii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Atmospheric pressure generally decreases as altitude rises."
+      },
+      {
+        "label": "1(xiv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Work equals force times displacement along the force."
+      },
+      {
+        "label": "1(xv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "200 cm=2 m, so average speed=2/2=1 m/s."
+      },
+      {
+        "label": "1(xvi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "The passenger tends to remain at rest as the bus accelerates forwards."
+      },
+      {
+        "label": "1(xvii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Water boils at 100°C=212°F at standard sea-level pressure."
+      },
+      {
+        "label": "1(xviii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Cohesive forces attract molecules of the same substance."
+      },
+      {
+        "label": "1(xix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The reflected rays only appear to meet behind a plane mirror."
+      },
+      {
+        "label": "1(xx)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Tyre grooves help maintain traction, particularly by channelling away water."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ],
+        "answer": {
+          "i": "J",
+          "ii": "G",
+          "iii": "D",
+          "iv": "L",
+          "v": "A",
+          "vi": "H",
+          "vii": "E",
+          "viii": "F"
+        },
+        "explanation": "Speed is path per time; lunar eclipse puts Earth between Sun and Moon; Hooke’s law links force and extension; viscosity resists fluid-layer movement; an ammeter measures current; manometer gas pressure; impulse equals momentum change; kelvin is the thermodynamic-temperature unit."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "A scalar has magnitude only; a vector has magnitude and direction.",
+        "explanation": "Mass is scalar while force is vector."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Kinetic energy is due to motion; potential energy is stored by position or configuration.",
+        "explanation": "A moving ball has kinetic energy; lifting it increases gravitational potential energy."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Mass is measured in kilograms, weight in newtons.",
+        "explanation": "Weight is gravitational force, W=mg."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Mass stays constant when location changes; weight changes with local gravitational field strength.",
+        "explanation": "The same mass experiences different g on Earth and the Moon."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Elasticity is the ability to recover original shape and size after the deforming force is removed.",
+        "explanation": "Recovery applies within the elastic limit."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Stroking with a permanent magnet in one direction repeatedly.",
+        "explanation": "The magnetic field aligns domains in a suitable material."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Using direct current in a solenoid around the material.",
+        "explanation": "The coil’s magnetic field can magnetise it."
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "Cohesive forces.",
+        "explanation": "These act between molecules of the same substance."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "Adhesive forces.",
+        "explanation": "These act between unlike substances."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Solid.",
+        "explanation": "Particles occupy relatively fixed positions and the body has a definite shape and volume."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Liquid.",
+        "explanation": "It has a definite volume but takes the container’s shape."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Gas.",
+        "explanation": "It expands to fill the available container volume."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Reduce friction and wear between moving surfaces.",
+        "explanation": "Lubricant forms a film that separates surface irregularities."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Draw a bar labelled N and S, with curved field lines outside going N→S and continuing inside S→N.",
+        "explanation": "Lines form closed loops, are closer near the poles and do not cross."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Stable equilibrium.",
+        "explanation": "A small displacement produces a restoring tendency."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Unstable equilibrium.",
+        "explanation": "A small displacement produces a tendency to move farther away."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "Neutral equilibrium.",
+        "explanation": "After a small displacement, the body remains balanced in the new position."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "4.",
+        "explanation": "Mechanical advantage=efficiency×velocity ratio=0.8×5."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "Work is energy transferred by a force acting through displacement.",
+        "explanation": "For a parallel constant force W=Fs."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Energy is the capacity to do work.",
+        "explanation": "Its SI unit is joule."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "Power is energy transferred or work done per unit time.",
+        "explanation": "The SI unit is watt."
+      },
+      {
+        "label": "7(a)(iv)",
+        "type": "written",
+        "answer": "Density is mass per unit volume.",
+        "explanation": "The SI unit is kg/m³."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "16 m/s immediately before the stated stop; 0 m/s after stopping.",
+        "explanation": "During the 8 s force acts, a=10/5=2 m/s² and v=0+2×8. The separate stopping process is not described."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Liquid pressure is greatest near the bottom, and a low outlet also lets most water drain.",
+        "explanation": "Pressure increases with depth according to ρgh."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Wide tyres spread the same load over a greater contact area.",
+        "explanation": "Lower ground pressure reduces sinking in soft mud."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "62.5 Pa.",
+        "explanation": "Use the smallest face 4×6=24 m² for maximum pressure. Weight=150×10=1500 N; P=1500/24."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "An immersed body experiences upthrust equal to the weight of the displaced fluid.",
+        "explanation": "This is Archimedes’ principle."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "A floating body displaces fluid whose weight equals its own weight.",
+        "explanation": "At rest buoyancy balances weight."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "It sinks.",
+        "explanation": "Density=120/100=1.2 g/cm³, greater than water’s 1 g/cm³."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "At constant temperature and other physical conditions, current through an ohmic conductor is proportional to potential difference across it.",
+        "explanation": "V=IR with constant resistance."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "25/9 Ω ≈ 2.78 Ω.",
+        "explanation": "The voltmeter reads 5 V and ammeter 1.8 A, so R=V/I."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "7.5 A total.",
+        "explanation": "Parallel branch currents are 10/2=5 A and 10/4=2.5 A."
+      }
+    ]
+  }
+}

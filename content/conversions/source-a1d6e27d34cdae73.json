@@ -1,0 +1,466 @@
+{
+  "sourceId": "source-a1d6e27d34cdae73",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Transhumance is a seasonal livestock movement."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Longitude measures angular distance east/west of Greenwich."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Revolution combined with axial tilt changes solar heating through the year."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Northern summer falls approximately in June–August."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Both traditional systems involve movement rather than continuous cultivation of one permanent plot."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Observation, measurement and recording are core geographical skills."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Management involves wise, planned use and control."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Shelf, slope and trench are ocean-floor features."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Open-cast methods remove minerals near the surface."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "We move with the Earth and atmosphere."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "viii(second)"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "B",
+          "iii": "A",
+          "iv": "E",
+          "vi": "C",
+          "vii": "N",
+          "viii": "H",
+          "ix": "J",
+          "viii(second)": "M"
+        },
+        "explanation": "Tourism can degrade environments; subsistence farming is widespread; afforestation supports sustainable land use; convection rises after heating; HEP supplies electricity; aphelion is farthest from the Sun; wind vane measures direction; contours join equal heights; shelves support fisheries; Serengeti attracts tourists."
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ],
+        "answer": "G",
+        "acceptedAnswers": [
+          "G",
+          "I"
+        ],
+        "explanation": "Both hydroelectric power and natural gas are used to generate electricity in Tanzania."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "At equinox the overhead Sun crosses the Equator."
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Good networks generally support economic activity."
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Mine waste can pollute water."
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Desert groundwater occurs in aquifers."
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Malawi/Nyasa lies in the East African Rift."
+      },
+      {
+        "label": "3(vi)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "The Moon reflects sunlight."
+      },
+      {
+        "label": "3(vii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Tanzania produces diamonds."
+      },
+      {
+        "label": "3(viii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Trenches are the deepest ocean-floor features."
+      },
+      {
+        "label": "3(ix)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "The Equator divides Earth into equal halves."
+      },
+      {
+        "label": "3(x)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Solar use usually reduces operational pollution compared with burning fuels."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Draw Sun → Earth → Moon, with Earth’s umbra and penumbra extending toward the full Moon. A lunar eclipse occurs when the Moon moves into Earth’s shadow.",
+        "explanation": "Earth must lie approximately between Sun and Moon."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "A scaled representation of an area, usually on a flat surface.",
+        "explanation": "It represents locations and features."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Seasonal movement of people and livestock between pastures.",
+        "explanation": "The movement follows grazing and water availability."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Long-term pattern of atmospheric conditions in a place.",
+        "explanation": "It differs from daily weather."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Resources replenished naturally on useful human timescales if managed sustainably.",
+        "explanation": "Solar energy and growing forests are examples."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Extraction of minerals from Earth.",
+        "explanation": "It may use surface or underground methods."
+      },
+      {
+        "label": "4(b)(vi)",
+        "type": "written",
+        "answer": "Breakdown and alteration of rock in place.",
+        "explanation": "Physical, chemical and biological processes act without transport."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "High capital and equipment costs, unreliable infrastructure, fluctuating mineral prices and environmental/safety challenges.",
+        "explanation": "Each constrains efficient and responsible mineral extraction."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "23.25°C.",
+        "explanation": "Sum monthly temperatures and divide by twelve."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "1015 mm.",
+        "explanation": "Sum all twelve rainfall totals."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "4°C.",
+        "explanation": "25 − 21 = 4."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Tropical savanna-type climate.",
+        "explanation": "There is a distinct dry winter and warm wet season."
+      },
+      {
+        "label": "5(a)(v)",
+        "type": "written",
+        "answer": "Rain-fed crop farming and livestock rearing.",
+        "explanation": "Seasonal rains support crops and pasture."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Responsible tourism conserving nature and benefiting local communities.",
+        "explanation": "Conservation and local participation distinguish ecotourism."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Mobile livestock keeping in search of pasture and water.",
+        "explanation": "Settlements or camps move with animals."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Electricity generated from moving or falling water.",
+        "explanation": "Water drives turbines."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "Land degradation in drylands.",
+        "explanation": "Vegetation and soil decline through climatic and human pressures."
+      },
+      {
+        "label": "5(b)(v)",
+        "type": "written",
+        "answer": "Farming mainly to sell produce.",
+        "explanation": "Market production is the chief aim."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Title, key, scale, direction indicator and coordinate/grid references.",
+        "explanation": "These support identification, interpretation, measurement and location."
+      },
+      {
+        "label": "5(d)",
+        "type": "written",
+        "answer": "Terraces, contour cultivation, cover crops, afforestation and controlled grazing.",
+        "explanation": "They reduce runoff or maintain protective cover."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Renewable input, low fuel cost, less pollution during use, power in remote places and reduced woodland pressure.",
+        "explanation": "Solar technology can support households, schools and water supply with suitable storage."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Rainfall, temperature, soils, relief, finance, labour, technology, markets and government services.",
+        "explanation": "Natural conditions affect what grows; social and economic factors affect production methods and returns."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Forests protect catchments and soil, store carbon, supply products and livelihoods, conserve biodiversity and support tourism.",
+        "explanation": "Sustainable use maintains these services for future generations."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Better boats and gear, cold storage, roads and markets, training, finance, fisheries management and pollution control.",
+        "explanation": "Increase value and safety without exhausting fish stocks."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Limited capital and equipment, pests/diseases, poor roads and storage, small plots, unreliable rainfall and weak markets.",
+        "explanation": "These reduce yields, increase losses and limit income."
+      }
+    ]
+  }
+}

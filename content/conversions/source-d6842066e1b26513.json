@@ -1,0 +1,261 @@
+{
+  "sourceId": "source-d6842066e1b26513",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "Kuwalinda Watoto wa Mitaani",
+        "explanation": "Kichwa hubana wazo la kuwajibika kwa watoto wanaokosa ulinzi."
+      },
+      {
+        "label": "1(b)(i)",
+        "type": "written",
+        "answer": "Hali ya kukosa mwenzi au ukaribu wa watu baada ya msiba.",
+        "explanation": "Fasili ifuate matumizi ya neno katika barua."
+      },
+      {
+        "label": "1(b)(ii)",
+        "type": "written",
+        "answer": "Maeneo yanayohusishwa na biashara ya ngono.",
+        "explanation": "Fasili ifuate matumizi ya neno katika barua."
+      },
+      {
+        "label": "1(b)(iii)",
+        "type": "written",
+        "answer": "Zuia tatizo mapema kabla halijawa kubwa.",
+        "explanation": "Fasili ifuate matumizi ya neno katika barua."
+      },
+      {
+        "label": "1(b)(iv)",
+        "type": "written",
+        "answer": "Watu waliopatwa na madhara.",
+        "explanation": "Fasili ifuate matumizi ya neno katika barua."
+      },
+      {
+        "label": "1(c)(i)",
+        "type": "written",
+        "answer": "Watoto wanaweza kukosa elimu.",
+        "explanation": "Eleza athari za kukosa huduma na ulinzi; usiwahukumu watoto kwa hali zao."
+      },
+      {
+        "label": "1(c)(ii)",
+        "type": "written",
+        "answer": "Huongezeka hatari ya kutumiwa katika kazi au vitendo hatari.",
+        "explanation": "Eleza athari za kukosa huduma na ulinzi; usiwahukumu watoto kwa hali zao."
+      },
+      {
+        "label": "1(c)(iii)",
+        "type": "written",
+        "answer": "Huathirika afya, usalama na uwezo wa kujitegemea.",
+        "explanation": "Eleza athari za kukosa huduma na ulinzi; usiwahukumu watoto kwa hali zao."
+      },
+      {
+        "label": "1(d)",
+        "type": "written",
+        "answer": "Gazeti la Sauti ya Msomaji limechapisha barua ya Mtendawema Mtuwangu kuhusu watoto wa mitaani. Mwandishi anasema uhamaji na ukosefu wa ajira vimeongeza matatizo ya vijana. Anaitaka jamii, viongozi wa dini na serikali iwajibike kutoa elimu, makazi salama na fursa. Pia anataka mashirika yahakikishe misaada inawanufaisha watoto waliokusudiwa.",
+        "explanation": "Habari ya redio iwe na chanzo, tatizo na mapendekezo kwa maneno 50–80. Epuka kurudia ubaguzi uliomo katika baadhi ya lugha ya kifungu."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)(i)",
+        "type": "written",
+        "answer": "Unadhani utampata?",
+        "explanation": "Sahihisha tahajia, upatanisho wa ngeli na matumizi ya maneno. Mlinzi ni mtu hivyo alikwenda, si ilikwenda."
+      },
+      {
+        "label": "2(a)(ii)",
+        "type": "written",
+        "answer": "Wewe ndiye mwizi wangu au vipi?",
+        "explanation": "Sahihisha tahajia, upatanisho wa ngeli na matumizi ya maneno. Mlinzi ni mtu hivyo alikwenda, si ilikwenda."
+      },
+      {
+        "label": "2(a)(iii)",
+        "type": "written",
+        "answer": "Ng’ombe yule ana thamani kubwa, hawezi kwenda hivi hivi; afadhali angemchukua mbuzi.",
+        "explanation": "Sahihisha tahajia, upatanisho wa ngeli na matumizi ya maneno. Mlinzi ni mtu hivyo alikwenda, si ilikwenda."
+      },
+      {
+        "label": "2(a)(iv)",
+        "type": "written",
+        "answer": "Mlinzi alikuwa wapi wakati ng’ombe anaibiwa?",
+        "explanation": "Sahihisha tahajia, upatanisho wa ngeli na matumizi ya maneno. Mlinzi ni mtu hivyo alikwenda, si ilikwenda."
+      },
+      {
+        "label": "2(a)(v)",
+        "type": "written",
+        "answer": "Juma jana alikuwa na ugonjwa wa malaria; alikwenda hospitalini, lakini sijui alikuwa na nani.",
+        "explanation": "Sahihisha tahajia, upatanisho wa ngeli na matumizi ya maneno. Mlinzi ni mtu hivyo alikwenda, si ilikwenda."
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "Mchezo au wimbo wa watoto.",
+        "explanation": "Msamiati na kusudi la kauli hudokeza mazingira ya rejesta."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "Ibada ya dini.",
+        "explanation": "Msamiati na kusudi la kauli hudokeza mazingira ya rejesta."
+      },
+      {
+        "label": "2(b)(iii)",
+        "type": "written",
+        "answer": "Mazungumzo ya watu kuhusu hukumu ya kifungo.",
+        "explanation": "Msamiati na kusudi la kauli hudokeza mazingira ya rejesta."
+      },
+      {
+        "label": "2(b)(iv)",
+        "type": "written",
+        "answer": "Mahakamani.",
+        "explanation": "Msamiati na kusudi la kauli hudokeza mazingira ya rejesta."
+      },
+      {
+        "label": "2(b)(v)",
+        "type": "written",
+        "answer": "Uwanja wa mpira wa miguu.",
+        "explanation": "Msamiati na kusudi la kauli hudokeza mazingira ya rejesta."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "C, A, B, D, E: Tafadhali, Tafrani, Takabali, Tashtiti, Tazama.",
+        "explanation": "Linganisha herufi za kila neno kuanzia kushoto; tafadhali hutangulia tafrani."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Pamba, pambanua.",
+        "explanation": "Maneno yaonyeshe uhusiano na mzizi uliopewa; umbo la mzizi linaweza kubadilika kwa kanuni za lugha."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Ita, itisha.",
+        "explanation": "Maneno yaonyeshe uhusiano na mzizi uliopewa; umbo la mzizi linaweza kubadilika kwa kanuni za lugha."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "Ona, onyesha.",
+        "explanation": "Maneno yaonyeshe uhusiano na mzizi uliopewa; umbo la mzizi linaweza kubadilika kwa kanuni za lugha."
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "written",
+        "answer": "Kula, ulaji.",
+        "explanation": "Maneno yaonyeshe uhusiano na mzizi uliopewa; umbo la mzizi linaweza kubadilika kwa kanuni za lugha."
+      },
+      {
+        "label": "3(b)(v)",
+        "type": "written",
+        "answer": "Cheka, chekesha.",
+        "explanation": "Maneno yaonyeshe uhusiano na mzizi uliopewa; umbo la mzizi linaweza kubadilika kwa kanuni za lugha."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Haba na haba hujaza kibaba.",
+        "explanation": "Methali iwe na ujumbe unaoendana na tukio."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Mchumia juani hulia kivulini.",
+        "explanation": "Methali iwe na ujumbe unaoendana na tukio."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Umoja ni nguvu, utengano ni udhaifu.",
+        "explanation": "Methali iwe na ujumbe unaoendana na tukio."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "Haraka haraka haina baraka.",
+        "explanation": "Methali iwe na ujumbe unaoendana na tukio."
+      },
+      {
+        "label": "4(a)(v)",
+        "type": "written",
+        "answer": "Uchungu wa mwana aujuae mzazi.",
+        "explanation": "Methali iwe na ujumbe unaoendana na tukio."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Matambiko.",
+        "explanation": "Dhana zinahusu ibada, semi zenye maadili, mhusika wa ngano, mtendaji na sehemu inayojirudia."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Methali.",
+        "explanation": "Dhana zinahusu ibada, semi zenye maadili, mhusika wa ngano, mtendaji na sehemu inayojirudia."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Sungura, kwa mfano.",
+        "explanation": "Dhana zinahusu ibada, semi zenye maadili, mhusika wa ngano, mtendaji na sehemu inayojirudia."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Fanani.",
+        "explanation": "Dhana zinahusu ibada, semi zenye maadili, mhusika wa ngano, mtendaji na sehemu inayojirudia."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Kibwagizo.",
+        "explanation": "Dhana zinahusu ibada, semi zenye maadili, mhusika wa ngano, mtendaji na sehemu inayojirudia."
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "Kukemea tabia anazoziona hazifai na kuhimiza elimu.",
+        "explanation": "Haya ni maoni ya mtunzi yaliyomo shairini. Kuchambua maoni yake hakumaanishi kuunga mkono lugha ya kudhalilisha mtu au mwonekano wake."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "Mtunzi anataka vijana wathamini mwenendo anaouona kuwa wa jamii yao.",
+        "explanation": "Haya ni maoni ya mtunzi yaliyomo shairini. Kuchambua maoni yake hakumaanishi kuunga mkono lugha ya kudhalilisha mtu au mwonekano wake."
+      },
+      {
+        "label": "4(c)(iii)",
+        "type": "written",
+        "answer": "Mzazi na watoto wanatofautiana kuhusu mavazi na mwenendo.",
+        "explanation": "Haya ni maoni ya mtunzi yaliyomo shairini. Kuchambua maoni yake hakumaanishi kuunga mkono lugha ya kudhalilisha mtu au mwonekano wake."
+      },
+      {
+        "label": "4(c)(iv)",
+        "type": "written",
+        "answer": "Anaamini ushauri na nidhamu vinaweza kubadili tabia.",
+        "explanation": "Haya ni maoni ya mtunzi yaliyomo shairini. Kuchambua maoni yake hakumaanishi kuunga mkono lugha ya kudhalilisha mtu au mwonekano wake."
+      },
+      {
+        "label": "4(c)(v)",
+        "type": "written",
+        "answer": "Nitatathmini matendo kwa athari zake na nitaheshimu utu wa watu wakati wa kutoa ushauri.",
+        "explanation": "Haya ni maoni ya mtunzi yaliyomo shairini. Kuchambua maoni yake hakumaanishi kuunga mkono lugha ya kudhalilisha mtu au mwonekano wake."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "review",
+        "answer": "Barua yenye maelekezo ya kuunda kadi haipo katika nakala hii. Kadi inahitaji majina, aina ya tukio, tarehe, saa, mahali, mwalikaji na njia ya kujibu; taarifa hizo haziwezi kubuniwa kuwa za chanzo.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      }
+    ]
+  }
+}

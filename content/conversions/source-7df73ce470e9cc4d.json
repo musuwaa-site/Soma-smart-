@@ -1,0 +1,391 @@
+{
+  "sourceId": "source-7df73ce470e9cc4d",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Uaminifu na uwajibikaji huchangia maendeleo."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Kuleta amani ni tendo la kimaadili."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Malezi katika jamii huathiri tabia ya mtu."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Vitabu vya shule hutaja Wahadzabe na Wasandawe katika kundi hili."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Urithi hutambulisha jamii."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Mila na desturi hubeba maadili yanayorithishwa."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Nguzo za Isimila ziliundwa kwa michakato ya kiasili."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Nyerere alihusisha elimu na kuboresha maisha."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Urithi hutoa nafasi za biashara endelevu na kujifunza uhifadhi.",
+        "acceptedAnswers": [
+          "A",
+          "B"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Uwindaji na ukusanyaji wa vyakula vya porini vilihusiana na maisha ya wawindaji."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": {
+          "i": "D",
+          "ii": "C",
+          "iii": "A",
+          "iv": "B",
+          "v": "E"
+        },
+        "explanation": "Misitu ni asilia; lugha ni urithi usioshikika; majengo na zana hushikika; maana pana ya urithi ni rasilimali anazoachiwa mtu; urithi wa kihistoria hubeba kumbukumbu za vizazi."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Kujua chimbuko la taifa.",
+        "explanation": "Mfano wa faida ya kujifunza historia na maadili. Hoja zinaweza kutolewa kwa mpangilio wowote."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Kujenga uzalendo.",
+        "explanation": "Mfano wa faida ya kujifunza historia na maadili. Hoja zinaweza kutolewa kwa mpangilio wowote."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Kuelewa matukio kwa ushahidi.",
+        "explanation": "Mfano wa faida ya kujifunza historia na maadili. Hoja zinaweza kutolewa kwa mpangilio wowote."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Kulinda urithi wa jamii.",
+        "explanation": "Mfano wa faida ya kujifunza historia na maadili. Hoja zinaweza kutolewa kwa mpangilio wowote."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Kuchagua matendo ya haki.",
+        "explanation": "Mfano wa faida ya kujifunza historia na maadili. Hoja zinaweza kutolewa kwa mpangilio wowote."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Kujenga uaminifu.",
+        "explanation": "Lengo lieleze hali nzuri ambayo jamii inalenga kujenga."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Kulinda haki.",
+        "explanation": "Lengo lieleze hali nzuri ambayo jamii inalenga kujenga."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Kuimarisha mshikamano.",
+        "explanation": "Lengo lieleze hali nzuri ambayo jamii inalenga kujenga."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Kudumisha amani.",
+        "explanation": "Lengo lieleze hali nzuri ambayo jamii inalenga kujenga."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Kukuza uwajibikaji.",
+        "explanation": "Lengo lieleze hali nzuri ambayo jamii inalenga kujenga."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Kusema ukweli.",
+        "explanation": "Mfano wa tabia njema inayoweza kufundishwa kupitia matendo."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Kuheshimu wengine.",
+        "explanation": "Mfano wa tabia njema inayoweza kufundishwa kupitia matendo."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Kusaidia wenye mahitaji.",
+        "explanation": "Mfano wa tabia njema inayoweza kufundishwa kupitia matendo."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Kutunza mali ya pamoja.",
+        "explanation": "Mfano wa tabia njema inayoweza kufundishwa kupitia matendo."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Kutekeleza ahadi.",
+        "explanation": "Mfano wa tabia njema inayoweza kufundishwa kupitia matendo."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Uchunguzi wa matukio na mabadiliko ya zamani katika Tanzania, mfano uhuru wa Tanganyika.",
+        "explanation": "Jibu lieleze maana na liambatane na mfano."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Miongozo ya mwenendo unaofaa, mfano kusema ukweli.",
+        "explanation": "Jibu lieleze maana na liambatane na mfano."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Utawala wa taifa la kigeni juu ya nchi nyingine, mfano ukoloni wa Ujerumani Tanganyika.",
+        "explanation": "Jibu lieleze maana na liambatane na mfano."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Watu wanaohusiana na kushirikiana, mfano jamii ya wavuvi.",
+        "explanation": "Jibu lieleze maana na liambatane na mfano."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Makundi yanayozungumza lugha za Kibantu, mfano Wasukuma na Wachaga.",
+        "explanation": "Jibu lieleze maana na liambatane na mfano."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Kutafuta ardhi ya kilimo.",
+        "explanation": "Hoja inaonyesha hitaji au hatari iliyochochea uhamaji."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Kutafuta malisho.",
+        "explanation": "Hoja inaonyesha hitaji au hatari iliyochochea uhamaji."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Kutafuta maji.",
+        "explanation": "Hoja inaonyesha hitaji au hatari iliyochochea uhamaji."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Kukimbia vita.",
+        "explanation": "Hoja inaonyesha hitaji au hatari iliyochochea uhamaji."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Kukwepa majanga kama ukame.",
+        "explanation": "Hoja inaonyesha hitaji au hatari iliyochochea uhamaji."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Huduma kucheleweshwa kwa wanaoshindwa kulipa hongo.",
+        "explanation": "Eleza jinsi kutoa au kupokea hongo kunavyosababisha madhara haya."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Fedha za miradi kupotea.",
+        "explanation": "Eleza jinsi kutoa au kupokea hongo kunavyosababisha madhara haya."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Mikataba kutolewa bila ushindani wa haki.",
+        "explanation": "Eleza jinsi kutoa au kupokea hongo kunavyosababisha madhara haya."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Wananchi kukosa imani na viongozi.",
+        "explanation": "Eleza jinsi kutoa au kupokea hongo kunavyosababisha madhara haya."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Miradi kujengwa chini ya kiwango.",
+        "explanation": "Eleza jinsi kutoa au kupokea hongo kunavyosababisha madhara haya."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Masimulizi na maandishi huhifadhi historia kwa lugha.",
+        "explanation": "Uhusiano uonyeshe matumizi ya somo hilo katika kuelewa yaliyopita."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Hisabati hupanga tarehe na takwimu za zamani.",
+        "explanation": "Uhusiano uonyeshe matumizi ya somo hilo katika kuelewa yaliyopita."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Milo ya jadi hufundisha historia ya mazao na lishe.",
+        "explanation": "Uhusiano uonyeshe matumizi ya somo hilo katika kuelewa yaliyopita."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Nyimbo huhifadhi kumbukumbu na maadili.",
+        "explanation": "Uhusiano uonyeshe matumizi ya somo hilo katika kuelewa yaliyopita."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Jiografia hueleza mazingira ya makazi na uhamaji.",
+        "explanation": "Uhusiano uonyeshe matumizi ya somo hilo katika kuelewa yaliyopita."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Kurekodi simulizi za wazee, kufundisha lugha za jamii, kutunza majengo ya kale, kuheshimu maeneo ya kumbukumbu, kutekeleza ahadi na kulinda mali ya umma. Simulizi na majengo hubeba ushahidi; lugha huendeleza maarifa; uaminifu na uwajibikaji hufanya uhifadhi kuwa jukumu la pamoja.",
+        "explanation": "Panga matendo sita katika aya na eleza mchango wa kila moja."
+      }
+    ]
+  }
+}

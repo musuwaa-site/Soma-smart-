@@ -1,0 +1,494 @@
+{
+  "sourceId": "source-77e5d244c28a52d8",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Mpangilio wa sauti unaeleza muundo wa lugha; dhima ni kazi yake katika jamii.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Askari hutaja mtu anayeonekana; uongo, wema na huzuni hutaja dhana.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Salamu, mavazi na vyakula hudhihirisha desturi za jamii.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Fonolojia huchunguza mfumo na matumizi ya sauti za lugha.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Kamusi hutoa maana na matumizi ya maneno.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Mazungumzo huhitaji anayezungumza na anayesikiliza. B pia ina maana hiyo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "A",
+          "B"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Maneno halisi ya msemaji kwa kawaida huwekwa ndani ya alama za kunukuu.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Neno lililopigiwa mstari ni Mtoto, lenye silabi m-to-to.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Fonimu za Kiswahili hugawanywa kuwa irabu na konsonanti.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Sauti huunda silabi, silabi maneno, na maneno tungo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Utangulizi huelekeza jinsi ya kuitumia kamusi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Kidahizo ni neno linaloingizwa na kuelezwa kwenye kamusi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Sherehe ni maelezo ya ziada kama orodha za vipimo na taarifa nyingine.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Kiini hubeba vidahizo na maelezo yake.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Kitomeo ni kidahizo pamoja na taarifa zake.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Maadili katika jamii",
+        "explanation": "Kichwa hiki kina maneno matatu na kinabeba wazo kuu la habari."
+      },
+      {
+        "label": "3(ii)(a)",
+        "type": "written",
+        "answer": "Kanuni za mwenendo mwema unaokubalika katika jamii.",
+        "explanation": "Maadili yanaongoza namna ya kuishi na kuwatendea wengine."
+      },
+      {
+        "label": "3(ii)(b)",
+        "type": "written",
+        "answer": "Kundi la watu wenye umri unaolingana.",
+        "explanation": "Habari inalinganisha watu wa rika moja wanaposalimiana."
+      },
+      {
+        "label": "3(ii)(c)",
+        "type": "written",
+        "answer": "Kuwa na vitu vingi au kujazwa kwa wingi.",
+        "explanation": "Maneno yaliyosheheni mila yana utajiri mkubwa wa mila hizo."
+      },
+      {
+        "label": "3(iii)(a)",
+        "type": "written",
+        "answer": "Kuwa wa kwanza kuwasalimia wakubwa.",
+        "explanation": "Tendo hili limetajwa katika habari kama heshima kwa wakubwa."
+      },
+      {
+        "label": "3(iii)(b)",
+        "type": "written",
+        "answer": "Kuwapokea wakubwa mizigo.",
+        "explanation": "Tendo hili limetajwa katika habari kama heshima kwa wakubwa."
+      },
+      {
+        "label": "3(iii)(c)",
+        "type": "written",
+        "answer": "Kuwasaidia wakubwa kazi.",
+        "explanation": "Tendo hili limetajwa katika habari kama heshima kwa wakubwa."
+      },
+      {
+        "label": "3(iv)(a)",
+        "type": "written",
+        "answer": "Badala ya kusema mtu amekufa, sema amefariki.",
+        "explanation": "Tumia tafsida inayolinda heshima ya anayezungumziwa."
+      },
+      {
+        "label": "3(iv)(b)",
+        "type": "written",
+        "answer": "Badala ya kutaja kujamiiana wazi katika mazungumzo ya heshima, sema tendo la ndoa.",
+        "explanation": "Tumia tafsida inayolinda heshima ya anayezungumziwa."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Mtu mwema huwasaidia wengine.",
+        "explanation": "Mwema hueleza sifa ya mtu."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Fundi stadi ametengeneza mlango.",
+        "explanation": "Stadi hueleza sifa ya fundi."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Mwalimu mwenyewe amefika.",
+        "explanation": "Mwenyewe husisitiza nomino mwalimu."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "Kitabu hiki ni kipya.",
+        "explanation": "Hiki kinaonesha kitabu."
+      },
+      {
+        "label": "4(a)(v)",
+        "type": "written",
+        "answer": "Nyumba ya kwetu iko karibu.",
+        "explanation": "Ya kwetu inaeleza umilikaji wa nyumba."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Ni ni kitenzi kishirikishi.",
+        "explanation": "Ni kinaunganisha kiima Amina na taarifa msichana hodari."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Upande wa kulia ni kirai kielezi cha mahali.",
+        "explanation": "Kirai kinaeleza mahali pa kusimama."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Kwa ni kihusishi.",
+        "explanation": "Kwa huonesha uhusiano wa kwenda na mahali alipo mjomba."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Mwembamba ni kivumishi cha sifa.",
+        "explanation": "Mwembamba kinaeleza sifa ya kijana."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Lahaula! ni kihisishi.",
+        "explanation": "Lahaula huonesha hisia ya mshangao."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Lugha rasmi ya Jumuiya ya Afrika Mashariki.",
+        "explanation": "EAC huitumia kwa shughuli na mawasiliano yake."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Lugha inayotumika katika Umoja wa Afrika.",
+        "explanation": "AU imepanua matumizi ya lugha za Afrika, ikiwemo Kiswahili."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Lugha ya kazi ya SADC.",
+        "explanation": "SADC imeikubali kwa shughuli za kikanda."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Lugha ya mawasiliano katika nchi nyingi za Afrika Mashariki na Kati.",
+        "explanation": "Hadhi ya lingua franca huvuka mipaka ya nchi."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Lugha inayofundishwa katika vyuo vikuu nje ya Afrika.",
+        "explanation": "Ufundishaji wa kimataifa huipa nafasi ya kielimu."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Kupanda na kushuka kwa sauti wakati wa kutamka tungo.",
+        "explanation": "Kiimbo huhusu mwendo wa sauti katika tungo nzima."
+      },
+      {
+        "label": "6(ii)(i)",
+        "type": "written",
+        "answer": "Kutofautisha swali na taarifa.",
+        "explanation": "Kiimbo husaidia msikilizaji kutambua lengo la tungo."
+      },
+      {
+        "label": "6(ii)(ii)",
+        "type": "written",
+        "answer": "Kuonesha mshangao.",
+        "explanation": "Sauti inaweza kubeba mshangao hata kwa maneno yale yale."
+      },
+      {
+        "label": "6(ii)(iii)",
+        "type": "written",
+        "answer": "Kuonesha hasira au furaha.",
+        "explanation": "Hisia huathiri namna sauti inavyopanda au kushuka."
+      },
+      {
+        "label": "6(ii)(iv)",
+        "type": "written",
+        "answer": "Kusisitiza ujumbe au nia.",
+        "explanation": "Msemaji huelekeza uzito wa ujumbe kwa sauti."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Kumwangalia mzungumzaji kwa umakini.",
+        "explanation": "Kumwangalia mzungumzaji kwa umakini."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Kuepuka kumkatiza bila sababu.",
+        "explanation": "Kuepuka kumkatiza bila sababu."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Kuepuka shughuli na kelele zinazovuruga.",
+        "explanation": "Kuepuka shughuli na kelele zinazovuruga."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Kutambua ujumbe mkuu na hoja zake.",
+        "explanation": "Kutambua ujumbe mkuu na hoja zake."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Kuuliza ufafanuzi kwa heshima inapohitajika.",
+        "explanation": "Kuuliza ufafanuzi kwa heshima inapohitajika."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Kujua maana za maneno.",
+        "explanation": "Kujua maana za maneno."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Kujua tahajia sahihi.",
+        "explanation": "Kujua tahajia sahihi."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Kujua matamshi au mkazo.",
+        "explanation": "Kujua matamshi au mkazo."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Kujua aina za maneno na maelezo ya kisarufi.",
+        "explanation": "Kujua aina za maneno na maelezo ya kisarufi."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Kujua matumizi kwa mifano, visawe na vinyume.",
+        "explanation": "Kujua matumizi kwa mifano, visawe na vinyume."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Sauti inayotamkwa bila hewa kuzuiwa kwa kiasi kikubwa kwenye mkondo wa sauti.",
+        "explanation": "Sauti inayotamkwa bila hewa kuzuiwa kwa kiasi kikubwa kwenye mkondo wa sauti."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Ujumbe ulioandikwa na kutumwa kwa mtu au taasisi.",
+        "explanation": "Ujumbe ulioandikwa na kutumwa kwa mtu au taasisi."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Kitabu au mfumo wa vidahizo na taarifa zake zilizopangwa kwa utaratibu.",
+        "explanation": "Kitabu au mfumo wa vidahizo na taarifa zake zilizopangwa kwa utaratibu."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Mchakato wa kubadilishana ujumbe na maana.",
+        "explanation": "Mchakato wa kubadilishana ujumbe na maana."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Kidahizo pamoja na maelezo yake ndani ya kamusi.",
+        "explanation": "Kidahizo pamoja na maelezo yake ndani ya kamusi."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Lugha huwezesha kupashana habari, kuomba na kutoa huduma, kufundisha, kueleza hisia, kujenga uhusiano, kutambulisha utamaduni na kuhifadhi historia. Kwa mfano, mwalimu hutumia lugha kufafanua jambo na mwanafunzi kuuliza swali.",
+        "explanation": "Jibu la insha lieleze dhima kwa mifano badala ya kuorodhesha majina pekee. Panga utangulizi, hoja zinazofafanuliwa na hitimisho."
+      }
+    ]
+  }
+}

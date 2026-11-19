@@ -1,0 +1,479 @@
+{
+  "sourceId": "source-988a18bc983e4270",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Botany studies plants, including mosses.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Photosynthesis uses light to form organic food.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Hearing and responding show sensitivity and movement.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Mangifera is the genus.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A conclusion states what the evidence supports.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A thermometer measures temperature.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Plasmodium and Amoeba are protists.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Fats yield about twice the energy per gram of carbohydrates or proteins.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Yeast ferments sugars.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Developing and managing trees is forestry.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Plants commonly store starch.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Animals commonly store glycogen.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Prokaryotes lack membrane-bound nuclei.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Eukaryotes have membrane-bound nuclei and organelles.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Spherical, spiral and comma shapes are common bacterial forms.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Cell membrane.",
+        "explanation": "It encloses cytoplasm and regulates exchange."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Nucleus.",
+        "explanation": "It houses hereditary information in eukaryotes."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Mitochondrion.",
+        "explanation": "It carries out major stages of aerobic respiration."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "Cytoplasm.",
+        "explanation": "The jelly-like cell material supports reactions."
+      },
+      {
+        "label": "3(e)",
+        "type": "written",
+        "answer": "Cell wall.",
+        "explanation": "The cellulose wall protects and supports a plant cell."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Plant and animal specimens.",
+        "explanation": "Biological material is used for observation."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Microscopes and slides.",
+        "explanation": "They reveal cells and small organisms."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Skeletons or anatomical models.",
+        "explanation": "They illustrate organism structure."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "Biological charts.",
+        "explanation": "They show life processes and classification."
+      },
+      {
+        "label": "4(a)(v)",
+        "type": "written",
+        "answer": "Aquaria or terraria.",
+        "explanation": "They may house study organisms."
+      },
+      {
+        "label": "4(a)(vi)",
+        "type": "written",
+        "answer": "Ecological sampling equipment such as quadrats and nets.",
+        "explanation": "These are used to study populations. Some equipment is shared with other laboratories."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Test-tube rack.",
+        "explanation": "It supports tubes upright."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Balance.",
+        "explanation": "It measures mass."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Aquarium.",
+        "explanation": "It holds aquatic animals in suitable conditions."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Sweep net or an appropriate insect net.",
+        "explanation": "It catches flying insects."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Thermometer.",
+        "explanation": "It measures liquid temperature."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Draw an animal cell and label its nucleus.",
+        "explanation": "The nucleus houses DNA."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Label the cytoplasm.",
+        "explanation": "Many chemical reactions occur there."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Label the cell membrane.",
+        "explanation": "It selectively regulates exchange."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Label mitochondria.",
+        "explanation": "They supply ATP through aerobic respiration."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Eyes.",
+        "explanation": "Vision."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Ears.",
+        "explanation": "Hearing and balance."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "Nose.",
+        "explanation": "Smell."
+      },
+      {
+        "label": "6(a)(iv)",
+        "type": "written",
+        "answer": "Tongue.",
+        "explanation": "Taste."
+      },
+      {
+        "label": "6(a)(v)",
+        "type": "written",
+        "answer": "Skin.",
+        "explanation": "Touch, pressure and temperature sensation."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Sight, smell and touch can examine a flower.",
+        "explanation": "Appearance, scent and texture are different observable features."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Smell for perfume.",
+        "explanation": "Olfactory receptors detect airborne chemicals."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "Hearing for a whistle.",
+        "explanation": "Sound stimulates the ears."
+      },
+      {
+        "label": "6(b)(iv)",
+        "type": "written",
+        "answer": "Sight and touch for cloth.",
+        "explanation": "Vision detects colour and touch detects texture."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Decomposition.",
+        "explanation": "Fungi recycle nutrients from dead matter."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Food.",
+        "explanation": "Edible mushrooms provide nutrients."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Bread making.",
+        "explanation": "Yeast releases carbon dioxide that raises dough."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Medicines.",
+        "explanation": "Some fungi produce useful substances such as penicillin."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Problem identification.",
+        "explanation": "Benn notices that he is unwell."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Gathering information.",
+        "explanation": "The doctor asks about symptoms."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Testing or investigation.",
+        "explanation": "Samples and measurements collect evidence."
+      },
+      {
+        "label": "8(d)",
+        "type": "written",
+        "answer": "Analysis and interpretation.",
+        "explanation": "The laboratory finding identifies parasites."
+      },
+      {
+        "label": "8(e)",
+        "type": "written",
+        "answer": "Conclusion and application.",
+        "explanation": "The diagnosis supports treatment."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Nutrition, respiration, excretion, growth, reproduction, movement and sensitivity.",
+        "explanation": "Together these are the usual school characteristics of living things."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "Viral diseases reduce health and labour productivity.",
+        "explanation": "Illness imposes treatment and care costs."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "Viruses damage crops or livestock.",
+        "explanation": "Disease can reduce yields and incomes."
+      },
+      {
+        "label": "9(b)(iii)",
+        "type": "written",
+        "answer": "Viruses are used in some vaccines and medical research.",
+        "explanation": "Controlled use supports prevention and scientific knowledge."
+      },
+      {
+        "label": "9(b)(iv)",
+        "type": "written",
+        "answer": "Some viruses provide tools in biotechnology, such as gene-delivery vectors.",
+        "explanation": "Applications require specialist safety controls."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Insects pollinate crops, provide honey, produce silk, recycle organic matter, control pests as predators and serve as food in ecosystems. Indiscriminate insecticide use can kill these useful insects.",
+        "explanation": "Give concrete examples such as bees, silkworms, dung beetles and ladybirds."
+      }
+    ]
+  }
+}

@@ -1,0 +1,521 @@
+{
+  "sourceId": "source-4412551423301ab8",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Natural science combines explanatory theory with observation and practical tests."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Careful equipment use prevents accidents."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Inside jaws of Vernier calipers measure an internal diameter."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A beam balance compares unknown mass with known masses."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A hydrometer floats to a depth determined by liquid density."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Raising the body stores gravitational potential energy."
+      },
+      {
+        "label": "1(vii)",
+        "type": "review",
+        "answer": "Five images. None of the printed alternatives is 5.",
+        "explanation": "For a 60° angle, 360°/60°−1=5. The original lists 2, 3, 4 and 4, so a correct letter cannot be selected."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "An electroscope indicates electric charge."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "V=IR=0.2×4=0.8 V."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Removing magnetism is demagnetisation."
+      },
+      {
+        "label": "1(xi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Rays physically meet at a real image; rays only appear to meet at a virtual image."
+      },
+      {
+        "label": "1(xii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Equal opposite proton and electron charges cancel."
+      },
+      {
+        "label": "1(xiii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "I=V/R=12/24=0.5 A."
+      },
+      {
+        "label": "1(xiv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "In single stroking the starting end acquires the same polarity as the stroking pole."
+      },
+      {
+        "label": "1(xv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Balance X×20 =4×25, so X=5 N."
+      },
+      {
+        "label": "1(xvi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The effort is between fulcrum and load in a fishing rod."
+      },
+      {
+        "label": "1(xvii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Different accelerations change relative velocity and generally change separation over time."
+      },
+      {
+        "label": "1(xviii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Gas pushed backwards exerts an equal opposite forward force on a rocket."
+      },
+      {
+        "label": "1(xix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "−40+273=233 K."
+      },
+      {
+        "label": "1(xx)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Fossil fuels take geological time to form and are used faster than replaced."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "answer": {
+          "i": "C",
+          "ii": "A",
+          "iii": "E",
+          "iv": "B",
+          "v": "F"
+        },
+        "explanation": "Vernier calipers measure dimensions; a measuring cylinder volumes; a spring balance pulling force; a pipette fixed liquid volumes; a clinical thermometer body temperature."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Fundamental or base physical quantities.",
+        "explanation": "They are independently chosen and cannot be defined by multiplying or dividing other quantities in the base set."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Inclined planes.",
+        "explanation": "These devices spread a rise over a longer path to reduce the applied effort."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Inertia.",
+        "explanation": "A mass resists changes to its state of motion."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Incandescent objects.",
+        "explanation": "They emit visible thermal radiation when sufficiently hot."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Elastic materials within their proportional limit.",
+        "explanation": "Their extension is proportional to the applied force over that range."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Work is energy transferred by a force acting through a displacement.",
+        "explanation": "For a constant parallel force W=Fs."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Energy is the capacity to do work.",
+        "explanation": "It can be stored as kinetic, potential or other forms."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Power is the rate of energy transfer or work done per time.",
+        "explanation": "The unit watt is one joule per second."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "1,200 W.",
+        "explanation": "P=mgh/t=200×10×6/10."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "112,500 J.",
+        "explanation": "Kinetic energy=½mv²=½×1000×15²."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "The upward-moving ball slows at 10 m/s², stops momentarily at the top and accelerates downwards.",
+        "explanation": "Gravity acts downwards throughout, neglecting air resistance."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "−5/3 m/s² ≈ −1.67 m/s² along the initial direction.",
+        "explanation": "Convert 60 km/h to 50/3 m/s and use a=(0−50/3)/10."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Distance is total path length; displacement is directed change in position.",
+        "explanation": "Distance is scalar, displacement is vector."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "A passenger lurches forward when a moving bus brakes suddenly.",
+        "explanation": "The passenger’s body tends to continue its original forward motion."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "3/7 kg ≈ 0.429 kg.",
+        "explanation": "Rearrange F=ma to m=F/a=3/7."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "A pressure change applied to a confined fluid is transmitted undiminished throughout the fluid and to its container walls.",
+        "explanation": "This permits force multiplication using pistons with different areas."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Depth below the surface.",
+        "explanation": "Greater depth gives more fluid weight above a point."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Liquid density.",
+        "explanation": "For equal depth a denser liquid has greater weight per volume."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "Gravitational field strength.",
+        "explanation": "Hydrostatic pressure is ρgh."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "10 m².",
+        "explanation": "A=F/P=2/0.2."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "Light can travel through a vacuum.",
+        "explanation": "It does not require a material medium."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Light travels in straight lines in a uniform medium and can form shadows.",
+        "explanation": "A narrow beam follows an approximately straight path until it interacts with matter or a different medium."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Draw a reflecting surface, a perpendicular normal and incident/reflected rays. Label i=r, with all rays and the normal in one plane.",
+        "explanation": "The two laws are equal incident and reflection angles, measured from the normal, and coplanarity of both rays with that normal."
+      },
+      {
+        "label": "7(c)(i)",
+        "type": "written",
+        "answer": "5 images.",
+        "explanation": "360°/60°−1=5."
+      },
+      {
+        "label": "7(c)(ii)",
+        "type": "written",
+        "answer": "Infinitely many ideal images.",
+        "explanation": "Light repeatedly reflects back and forth between parallel mirrors; real visibility is limited by absorption and alignment."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "For equilibrium, the sum of clockwise moments equals the sum of anticlockwise moments about a pivot.",
+        "explanation": "The net turning effect is zero."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "In stable equilibrium a slight displacement produces a restoring effect; in unstable equilibrium it produces an effect that increases the displacement.",
+        "explanation": "A stable body's centre of gravity rises on a slight displacement, whereas an unstable body's centre of gravity falls."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "0.005 kg = 5 g.",
+        "explanation": "The pivot is 10 cm from the left end and the uniform rule's weight acts at 50 cm. Balance 0.2×10=W×40, so W=0.05 N and m=W/g."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "A manometer measures a gas pressure relative to a reference.",
+        "explanation": "A fluid height difference corresponds to the pressure difference."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Hare’s apparatus compares densities of two liquids.",
+        "explanation": "Under the same suction their raised column heights are inversely proportional to density."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "A U-tube can compare liquid densities or measure a pressure difference.",
+        "explanation": "At a common horizontal level, connected static liquid has equal pressure."
+      },
+      {
+        "label": "9(a)(iv)",
+        "type": "written",
+        "answer": "A barometer measures atmospheric pressure.",
+        "explanation": "A mercury column or aneroid mechanism responds to outside air pressure."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "The broad foot spreads the load over a larger area, reducing pressure relative to a more concentrated load.",
+        "explanation": "Whether an actual animal sinks also depends on weight, foot area and soil strength; pressure is F/A."
+      },
+      {
+        "label": "9(b)-diagram",
+        "type": "written",
+        "answer": "Draw a water container with three equal holes at increasing depths and show the lowest jet extending farthest horizontally.",
+        "explanation": "Label the water surface, depths and jets. The greater pressure at greater depth produces a larger exit speed."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Lighting.",
+        "explanation": "Electric current powers lamps that convert energy to light and heat."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "Heating and cooking.",
+        "explanation": "Electrical resistance converts energy to heat."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "Running motors in appliances or machinery.",
+        "explanation": "A motor converts electrical energy into mechanical motion."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Each parallel bulb receives the supply voltage and can work independently.",
+        "explanation": "Switching off or failure of one branch need not interrupt the others."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "Draw battery, switch, ammeter, rheostat and resistor R in one series loop. Connect the voltmeter across R only.",
+        "explanation": "The ammeter measures R's current and the parallel voltmeter measures its potential difference."
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "sourceId": "source-5b425b06adb64822",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "written",
+        "answer": "Watoto wa Mitaani",
+        "explanation": "Kichwa kinataja kundi linalojadiliwa."
+      },
+      {
+        "label": "1(ii)",
+        "type": "written",
+        "answer": "Kukutana na mtoto wa mitaani na kusikiliza hali yake.",
+        "explanation": "Mwandishi anataka msomaji aone hali halisi."
+      },
+      {
+        "label": "1(iii)",
+        "type": "written",
+        "answer": "UKIMWI, pamoja na sababu nyingine kama umaskini.",
+        "explanation": "Kifungu kimeuita ugonjwa huo sababu kubwa iliyoongeza tatizo."
+      },
+      {
+        "label": "1(iv)",
+        "type": "written",
+        "answer": "Miji mikubwa na midogo na maeneo yenye mikusanyiko ya watu.",
+        "explanation": "Mahali hapa pametajwa katika aya ya kwanza."
+      },
+      {
+        "label": "1(v)",
+        "type": "written",
+        "answer": "Dawa za kulevya, pombe na wizi.",
+        "explanation": "Haya ndiyo makimbilio yanayotajwa na mwandishi, si tabia za lazima kwa kila mtoto."
+      },
+      {
+        "label": "1(vi)",
+        "type": "written",
+        "answer": "Kukataa kuwajibika na kuwalaumu wengine pekee.",
+        "explanation": "Usemi unaonya dhidi ya kuhamisha jukumu lote kwa mtu mwingine."
+      },
+      {
+        "label": "1(vii)(i)",
+        "type": "written",
+        "answer": "Nafuu ya hali ngumu.",
+        "explanation": "Fasiri lugha ya picha kulingana na habari."
+      },
+      {
+        "label": "1(vii)(ii)",
+        "type": "written",
+        "answer": "Ndoto au matumaini yasiyotimia kwa urahisi.",
+        "explanation": "Fasiri lugha ya picha kulingana na habari."
+      },
+      {
+        "label": "1(vii)(iii)",
+        "type": "written",
+        "answer": "Jukumu linalohamishiwa mwingine.",
+        "explanation": "Fasiri lugha ya picha kulingana na habari."
+      },
+      {
+        "label": "1(vii)(iv)",
+        "type": "written",
+        "answer": "Kazi au dhima inayompasa mtu.",
+        "explanation": "Fasiri lugha ya picha kulingana na habari."
+      },
+      {
+        "label": "1(vii)(v)",
+        "type": "written",
+        "answer": "Kuongeza maelezo kuliko hali halisi.",
+        "explanation": "Fasiri lugha ya picha kulingana na habari."
+      },
+      {
+        "label": "1(viii)",
+        "type": "written",
+        "answer": "Ulinzi na malezi ya watoto ni wajibu wa jamii nzima.",
+        "explanation": "Huu ndio wito wa mwisho wa kifungu."
+      },
+      {
+        "label": "1(ix)",
+        "type": "written",
+        "answer": "Watoto wa mitaani huomba msaada kutokana na umaskini, kuvunjika kwa familia, ukosefu wa elimu na athari za magonjwa. Hukosa huduma na hukabili unyanyasaji na hatari za kiafya. Mwandishi anataka wananchi na serikali washirikiane kuwasaidia badala ya kuhamishiana jukumu.",
+        "explanation": "Muhtasari usizidi maneno sitini na utunze hoja kuu."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)(i)",
+        "type": "written",
+        "answer": "Kuwasiliana.",
+        "explanation": "Kila kazi ihusishwe na matumizi ya ujumbe katika jamii."
+      },
+      {
+        "label": "2(a)(ii)",
+        "type": "written",
+        "answer": "Kuelimisha.",
+        "explanation": "Kila kazi ihusishwe na matumizi ya ujumbe katika jamii."
+      },
+      {
+        "label": "2(a)(iii)",
+        "type": "written",
+        "answer": "Kuhifadhi utamaduni.",
+        "explanation": "Kila kazi ihusishwe na matumizi ya ujumbe katika jamii."
+      },
+      {
+        "label": "2(a)(iv)",
+        "type": "written",
+        "answer": "Kuburudisha.",
+        "explanation": "Kila kazi ihusishwe na matumizi ya ujumbe katika jamii."
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "Mazoezi ya kijeshi au gwaride.",
+        "explanation": "Maneno maalumu hudokeza washiriki na kusudi la rejesta."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "Ibada au mazishi.",
+        "explanation": "Maneno maalumu hudokeza washiriki na kusudi la rejesta."
+      },
+      {
+        "label": "2(b)(iii)",
+        "type": "written",
+        "answer": "Mazungumzo ya usafirishaji au bandarini.",
+        "explanation": "Maneno maalumu hudokeza washiriki na kusudi la rejesta."
+      },
+      {
+        "label": "2(b)(iv)",
+        "type": "written",
+        "answer": "Mazungumzo yasiyo rasmi ya wanafunzi.",
+        "explanation": "Maneno maalumu hudokeza washiriki na kusudi la rejesta."
+      },
+      {
+        "label": "2(b)(v)",
+        "type": "written",
+        "answer": "Biashara ya vifaa vya mapambo sokoni.",
+        "explanation": "Maneno maalumu hudokeza washiriki na kusudi la rejesta."
+      },
+      {
+        "label": "2(c)(i)",
+        "type": "written",
+        "answer": "Enyi ndugu zangu, samahani kwa makosa niliyowatendea.",
+        "explanation": "Samahani hubaki hivyo hata ikielekezwa kwa watu wengi."
+      },
+      {
+        "label": "2(c)(ii)",
+        "type": "written",
+        "answer": "Wakati huu utakuwa ama nyumbani au kazini.",
+        "explanation": "Ama ... au huonyesha uchaguzi; aidha huongeza hoja."
+      },
+      {
+        "label": "2(c)(iii)",
+        "type": "review",
+        "answer": "“Nyinyi nyote njooni hapa” ni sentensi inayokubalika; haihitaji kurekebishwa bila maelekezo ya muktadha.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "2(c)(iv)",
+        "type": "review",
+        "answer": "“Asha anasambaza vitabu mashuleni” ni sentensi yenye maana sahihi ya kupeleka vitabu kwenye shule mbalimbali.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "2(c)(v)",
+        "type": "review",
+        "answer": "“Hatuna budi kufanya kazi kwa bidii” ni matumizi sanifu ya lazima; “kwa mapungufu tuliyoona” inaweza kufafanuliwa kuwa “kutokana na mapungufu tuliyoona”. Hakuna kosa moja la lazima.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Marafiki, mwanadamu.",
+        "explanation": "Toa mifano miwili kutoka kifunguni kwa kila aina ya maneno."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Wanahitajika, hupatikana.",
+        "explanation": "Toa mifano miwili kutoka kifunguni kwa kila aina ya maneno."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Sana, popote.",
+        "explanation": "Toa mifano miwili kutoka kifunguni kwa kila aina ya maneno."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "written",
+        "answer": "Wema, wabaya.",
+        "explanation": "Toa mifano miwili kutoka kifunguni kwa kila aina ya maneno."
+      },
+      {
+        "label": "3(a)(v)",
+        "type": "written",
+        "answer": "Na, lakini.",
+        "explanation": "Toa mifano miwili kutoka kifunguni kwa kila aina ya maneno."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Buriani, kafeli, kaheshimu, paroko, roho, tosha, zainabu, zaituni.",
+        "explanation": "Mpangilio wa alfabeti huanzia herufi ya kwanza na huendelea kwa inayofuata inapolingana."
+      },
+      {
+        "label": "3(c)(i)",
+        "type": "review",
+        "answer": "Nakala hii haionyeshi sehemu iliyopigiwa mstari. Mofimu lengwa lazima ibainike kabla ya kupewa dhima moja.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(c)(ii)",
+        "type": "review",
+        "answer": "Nakala hii haionyeshi sehemu iliyopigiwa mstari. Mofimu lengwa lazima ibainike kabla ya kupewa dhima moja.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(c)(iii)",
+        "type": "review",
+        "answer": "Nakala hii haionyeshi sehemu iliyopigiwa mstari. Mofimu lengwa lazima ibainike kabla ya kupewa dhima moja.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(c)(iv)",
+        "type": "review",
+        "answer": "Nakala hii haionyeshi sehemu iliyopigiwa mstari. Mofimu lengwa lazima ibainike kabla ya kupewa dhima moja.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(c)(v)",
+        "type": "review",
+        "answer": "Nakala hii haionyeshi sehemu iliyopigiwa mstari. Mofimu lengwa lazima ibainike kabla ya kupewa dhima moja.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(d)(i)",
+        "type": "written",
+        "answer": "Fyeka: fyekeka, fyekea, fyekwa.",
+        "explanation": "Mpangilio ni kutendeka, kutendea na kutendwa."
+      },
+      {
+        "label": "3(d)(ii)",
+        "type": "written",
+        "answer": "Vunja: vunjika, vunjia, vunjwa.",
+        "explanation": "Mpangilio ni kutendeka, kutendea na kutendwa."
+      },
+      {
+        "label": "3(d)(iii)",
+        "type": "written",
+        "answer": "Lipa: lipika, lipia, lipwa.",
+        "explanation": "Mpangilio ni kutendeka, kutendea na kutendwa."
+      },
+      {
+        "label": "3(d)(iv)",
+        "type": "written",
+        "answer": "Tesa: teseka, tesea, teswa.",
+        "explanation": "Mpangilio ni kutendeka, kutendea na kutendwa."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "WARIDI KAZI SLP18 SAME NINA MTIHANI SITAFIKA HARAKA BAHATI KAZI",
+        "explanation": "Ujumbe wa mfano una vipashio kumi vinavyotenganishwa kwa nafasi; unataja mpokeaji, anuani, sababu na mtumaji."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)(i)",
+        "type": "written",
+        "answer": "Fanani.",
+        "explanation": "Utendaji wa fasihi unahitaji mtu anayeuwasilisha, wapokeaji na hali inayowezesha mawasiliano."
+      },
+      {
+        "label": "5(a)(i)(ii)",
+        "type": "written",
+        "answer": "Hadhira.",
+        "explanation": "Utendaji wa fasihi unahitaji mtu anayeuwasilisha, wapokeaji na hali inayowezesha mawasiliano."
+      },
+      {
+        "label": "5(a)(i)(iii)",
+        "type": "written",
+        "answer": "Ujumbe au kazi ya fasihi.",
+        "explanation": "Utendaji wa fasihi unahitaji mtu anayeuwasilisha, wapokeaji na hali inayowezesha mawasiliano."
+      },
+      {
+        "label": "5(a)(i)(iv)",
+        "type": "written",
+        "answer": "Mazingira ya utendaji.",
+        "explanation": "Utendaji wa fasihi unahitaji mtu anayeuwasilisha, wapokeaji na hali inayowezesha mawasiliano."
+      },
+      {
+        "label": "5(a)(i)(v)",
+        "type": "written",
+        "answer": "Njia au vifaa vinavyosaidia uwasilishaji.",
+        "explanation": "Utendaji wa fasihi unahitaji mtu anayeuwasilisha, wapokeaji na hali inayowezesha mawasiliano."
+      },
+      {
+        "label": "5(a)(ii)(i)",
+        "type": "written",
+        "answer": "Wahusika.",
+        "explanation": "Hivi ni vipengele vya namna kazi ya fasihi inavyoundwa na kuwasilishwa."
+      },
+      {
+        "label": "5(a)(ii)(ii)",
+        "type": "written",
+        "answer": "Muundo.",
+        "explanation": "Hivi ni vipengele vya namna kazi ya fasihi inavyoundwa na kuwasilishwa."
+      },
+      {
+        "label": "5(a)(ii)(iii)",
+        "type": "written",
+        "answer": "Mtindo.",
+        "explanation": "Hivi ni vipengele vya namna kazi ya fasihi inavyoundwa na kuwasilishwa."
+      },
+      {
+        "label": "5(a)(ii)(iv)",
+        "type": "written",
+        "answer": "Lugha.",
+        "explanation": "Hivi ni vipengele vya namna kazi ya fasihi inavyoundwa na kuwasilishwa."
+      },
+      {
+        "label": "5(a)(ii)(v)",
+        "type": "written",
+        "answer": "Mandhari.",
+        "explanation": "Hivi ni vipengele vya namna kazi ya fasihi inavyoundwa na kuwasilishwa."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Akilini: gharama ndogo; inaweza kusahaulika.",
+        "explanation": "Kila jibu litaje faida na hasara ya njia hiyo."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Maandishi: huhifadhi kwa muda; sauti na ishara hupungua.",
+        "explanation": "Kila jibu litaje faida na hasara ya njia hiyo."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Sinema: hutunza picha na sauti; inahitaji vifaa na umeme.",
+        "explanation": "Kila jibu litaje faida na hasara ya njia hiyo."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "Kanda za sauti: hutunza matamshi na kiimbo; picha na ishara hazionekani.",
+        "explanation": "Kila jibu litaje faida na hasara ya njia hiyo."
+      },
+      {
+        "label": "5(b)(v)",
+        "type": "written",
+        "answer": "Picha: hutunza mwonekano; haziwezi pekee kurejesha mwendelezo wote wa sauti na matendo.",
+        "explanation": "Kila jibu litaje faida na hasara ya njia hiyo."
+      },
+      {
+        "label": "5(c)(i)",
+        "type": "written",
+        "answer": "Utani.",
+        "explanation": "Fasili zinatofautisha mzaha, ibada, semi za kipindi, mafumbo na hadithi za chimbuko."
+      },
+      {
+        "label": "5(c)(ii)",
+        "type": "written",
+        "answer": "Matambiko.",
+        "explanation": "Fasili zinatofautisha mzaha, ibada, semi za kipindi, mafumbo na hadithi za chimbuko."
+      },
+      {
+        "label": "5(c)(iii)",
+        "type": "written",
+        "answer": "Misimu.",
+        "explanation": "Fasili zinatofautisha mzaha, ibada, semi za kipindi, mafumbo na hadithi za chimbuko."
+      },
+      {
+        "label": "5(c)(iv)",
+        "type": "written",
+        "answer": "Vitendawili.",
+        "explanation": "Fasili zinatofautisha mzaha, ibada, semi za kipindi, mafumbo na hadithi za chimbuko."
+      },
+      {
+        "label": "5(c)(v)",
+        "type": "written",
+        "answer": "Visasili.",
+        "explanation": "Fasili zinatofautisha mzaha, ibada, semi za kipindi, mafumbo na hadithi za chimbuko."
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "sourceId": "source-51573f3a30109107",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Among these branches, physical geography concerns natural phenomena; stars are studied specifically in astronomy."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Neptune orbits farthest out."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Mercury follows the innermost orbit."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Surveying and map interpretation are practical geography."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The Sun is the central star."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Jupiter, Saturn, Uranus and Neptune are larger than Earth."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Circumnavigation is possible on a globe."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The outer four are Jupiter, Saturn, Uranus and Neptune."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The nebular model begins with a rotating cloud of gas and dust."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Geography develops evidence-based understanding rather than guesswork."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "C",
+          "ii": "D",
+          "iii": "E",
+          "iv": "H",
+          "v": "G"
+        },
+        "explanation": "The solar system includes the Sun, planets and smaller bodies. Comets form visible tails, a meteor is the luminous streak of entering material, and asteroids are minor planets."
+      }
+    ],
+    "3": [
+      {
+        "label": "3",
+        "type": "written",
+        "answer": "Solar radiation supports crop growth, dries harvests, heats water, provides photovoltaic lighting and powers pumps or small appliances.",
+        "explanation": "These applications convert sunlight into biological, thermal or electrical energy."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Draw a ship departing over a curved horizon, hull disappearing before mast.",
+        "explanation": "Earth’s curvature hides the lowest parts first."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Draw two places at different longitudes entering and leaving the illuminated hemisphere.",
+        "explanation": "A rotating globe produces different local sunrise times."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "Draw a route round a globe returning to the starting port.",
+        "explanation": "Travel in one general direction can circle Earth."
+      },
+      {
+        "label": "4(d)",
+        "type": "written",
+        "answer": "Draw Earth casting a curved shadow on the Moon.",
+        "explanation": "A sphere casts a circular shadow from every direction."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Map reading for travel; identifying suitable farmland; protecting water supplies; planning settlements; and preparing for careers such as surveying.",
+        "explanation": "Explain a practical benefit in each example."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Liquid water, suitable temperatures, a protective atmosphere and energy from the Sun support life.",
+        "explanation": "Each condition supports organisms and their life processes."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Climate change, habitat loss, pollution, soil degradation and unsustainable extraction.",
+        "explanation": "Explain how each threatens ecosystems or human well-being."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Mathematics supports scales and statistics; physics explains atmospheric pressure; chemistry helps explain weathering; biology explains vegetation; economics explains trade and industrial location.",
+        "explanation": "Pair each discipline with one specific link."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Map the source and spread of pollution or locate forest clearing for restoration.",
+        "explanation": "Spatial evidence shows where to intervene."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Physical geography examines natural systems, human geography examines settlement and human activities.",
+        "explanation": "Compare landforms with patterns of trade."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Geography develops mapping, data analysis and planning skills used by surveyors, planners and conservation officers.",
+        "explanation": "Practical skills connect to particular occupations."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a) Geo",
+        "type": "written",
+        "answer": "Earth.",
+        "explanation": "The word refers to the subject of the description."
+      },
+      {
+        "label": "9(a) Graphier",
+        "type": "written",
+        "answer": "To write or describe.",
+        "explanation": "The roots convey description of Earth."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "Physical geography studies natural environments.",
+        "explanation": "Examples include climate and drainage."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "Human geography studies relations between people, places and activities.",
+        "explanation": "Examples include settlement and industry."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "The Sun and all objects bound by its gravity.",
+        "explanation": "It includes eight planets and smaller bodies."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "For example, Mars, Earth and Venus.",
+        "explanation": "All three orbit the Sun."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "Moons and asteroids.",
+        "explanation": "Small bodies are also part of the solar system."
+      },
+      {
+        "label": "10(c) diagram",
+        "type": "written",
+        "answer": "Draw and label the Sun then planets in this order: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.",
+        "explanation": "Show separate orbits in the correct sequence."
+      }
+    ]
+  }
+}

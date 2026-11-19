@@ -1,0 +1,515 @@
+{
+  "sourceId": "source-0d508bbfeb8b7997",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Iron rusts when oxygen and water are present.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Unknown chemical mixing can cause dangerous reactions.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "review",
+        "answer": "Dissolve the salt in water, filter away sand, then evaporate or crystallise the filtrate. None of the alternatives gives the complete sequence.",
+        "explanation": "Salt must first dissolve, sand must be filtered and salt recovered by evaporation; no listed series states the complete method.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Properties describe a substance’s behaviour.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Adequate air gives a blue, clean heating flame.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Galvanising coats iron with zinc.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A magnet attracts iron from sand.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Cooking oil and fat fires are class F.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Agriculture, chemistry and biology support farming.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A pestle crushes solids in a mortar.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A syringe draws and measures a volume.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "A burette dispenses measured volume accurately.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A measuring cylinder measures liquid volume.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A beaker gives only rough volume estimates.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "A pipette transfers a specified volume.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Non-luminous blue flame.",
+        "explanation": "It is suitable for efficient heating."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "It is hotter, produces little soot and can be controlled.",
+        "explanation": "More complete combustion releases heat cleanly."
+      },
+      {
+        "label": "3(c)(i)",
+        "type": "written",
+        "answer": "A flame is a region of hot gases emitting heat and often light during combustion.",
+        "explanation": "Not all combustion produces a visible flame."
+      },
+      {
+        "label": "3(c)(ii)",
+        "type": "written",
+        "answer": "Electric hot plate, heating mantle, water bath and supervised spirit burner.",
+        "explanation": "The safe choice depends on the experiment."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Soil tests, pH management, fertiliser selection, irrigation-water analysis and safe crop-protection products.",
+        "explanation": "Chemistry helps manage plant nutrients and environmental impacts."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Medicines and disinfectants.",
+        "explanation": "Their composition determines useful effects."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Fuels and lubricants.",
+        "explanation": "These provide energy and reduce friction."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Food preservatives and flavourings.",
+        "explanation": "Chemical control improves food properties and storage."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Dyes and synthetic fibres.",
+        "explanation": "They change colour and material properties."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Battery materials and optical fibres.",
+        "explanation": "Chemical materials support electronic communication."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Separating funnel.",
+        "explanation": "It drains immiscible liquids in density order."
+      },
+      {
+        "label": "5(b)(A)",
+        "type": "written",
+        "answer": "Kerosene.",
+        "explanation": "0.65 g/cm³ is the lowest density."
+      },
+      {
+        "label": "5(b)(B)",
+        "type": "written",
+        "answer": "Cooking oil.",
+        "explanation": "0.92 g/cm³ lies between the others."
+      },
+      {
+        "label": "5(b)(C)",
+        "type": "written",
+        "answer": "Water.",
+        "explanation": "1.00 g/cm³ is the highest density."
+      },
+      {
+        "label": "5(c)(A)",
+        "type": "written",
+        "answer": "Kerosene floats above the denser liquids.",
+        "explanation": "The least dense layer is uppermost."
+      },
+      {
+        "label": "5(c)(B)",
+        "type": "written",
+        "answer": "Oil lies below kerosene and above water.",
+        "explanation": "Its density is intermediate."
+      },
+      {
+        "label": "5(c)(C)",
+        "type": "written",
+        "answer": "Water forms the bottom layer.",
+        "explanation": "It is the densest of the three."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "A chemist uses evidence-based investigation of substances; an alchemist historically sought transformations such as base metals into gold.",
+        "explanation": "Modern chemistry depends on controlled reproducible evidence."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Cooking oil.",
+        "explanation": "The burning liquid supplies fuel."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "review",
+        "answer": "A cooking-oil-rated wet-chemical extinguisher is appropriate; suitable rated fire blankets may control small contained pan fires.",
+        "explanation": "The question asks for three, but it is unsafe to invent universally suitable agents for a spread cooking-oil fire; raise the alarm and evacuate."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "Water is dangerous.",
+        "explanation": "It can cause violent splashing and spread burning oil."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Gloves reduce blood contact; sterile gauze applies direct pressure; a clean dressing covers the wound; bandages hold it in place.",
+        "explanation": "Persistent or serious bleeding requires medical help."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "No: there is no water supply, the door opens inward and the floor is slippery.",
+        "explanation": "A laboratory needs safe washing, exit access and stable surfaces."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "First aid preserves life, limits injury, relieves suffering and obtains professional help.",
+        "explanation": "Immediate safe assistance can reduce complications."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Symbols are short, internationally recognised, identify elements consistently and allow concise formulas and equations.",
+        "explanation": "A common notation supports scientific communication."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Sublimation.",
+        "explanation": "Iodine sublimes while sand remains."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Fractional distillation.",
+        "explanation": "The liquids have different boiling points."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "Winnowing.",
+        "explanation": "Moving air carries lighter husks away."
+      },
+      {
+        "label": "8(b)(iv)",
+        "type": "written",
+        "answer": "Solvent extraction followed by chromatography if separating pigments.",
+        "explanation": "Chlorophyll dissolves in a suitable solvent."
+      },
+      {
+        "label": "8(b)(v)",
+        "type": "written",
+        "answer": "Solvent extraction or brewing followed by filtration.",
+        "explanation": "Soluble tea components pass into water."
+      },
+      {
+        "label": "8(b)(vi)",
+        "type": "written",
+        "answer": "The intended component must be specified; distillation recovers water and evaporation recovers dissolved sugar.",
+        "explanation": "A syrup is a solution rather than a mixture with just one universal separation objective."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Rust forms in A.",
+        "explanation": "Wet cotton provides moisture and air supplies oxygen."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Little or no rust forms in B.",
+        "explanation": "Boiling removes dissolved air and the oil limits oxygen re-entry."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "Little or no rust forms in C; dry conditions in D also prevent rust.",
+        "explanation": "Water is absent or removed by a drying agent."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Iron, water and oxygen must be present.",
+        "explanation": "Rusting requires the metal plus moisture and oxygen."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "Boiling removes dissolved air and oil prevents it dissolving again.",
+        "explanation": "This isolates the oxygen requirement."
+      },
+      {
+        "label": "9(d)",
+        "type": "written",
+        "answer": "Painting, galvanising and electroplating.",
+        "explanation": "Barriers or sacrificial protection reduce corrosion."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(A)",
+        "type": "written",
+        "answer": "Ionisation",
+        "explanation": "Gas becomes plasma."
+      },
+      {
+        "label": "10(a)(B)",
+        "type": "written",
+        "answer": "Deionisation or recombination",
+        "explanation": "Plasma becomes gas."
+      },
+      {
+        "label": "10(a)(C)",
+        "type": "written",
+        "answer": "Condensation",
+        "explanation": "Gas becomes liquid."
+      },
+      {
+        "label": "10(a)(D)",
+        "type": "written",
+        "answer": "Vaporisation",
+        "explanation": "Liquid becomes gas."
+      },
+      {
+        "label": "10(a)(E)",
+        "type": "written",
+        "answer": "Freezing",
+        "explanation": "Liquid becomes solid."
+      },
+      {
+        "label": "10(a)(F)",
+        "type": "written",
+        "answer": "Melting",
+        "explanation": "Solid becomes liquid."
+      },
+      {
+        "label": "10(a)(G)",
+        "type": "written",
+        "answer": "Sublimation",
+        "explanation": "Solid becomes gas directly."
+      },
+      {
+        "label": "10(a)(H)",
+        "type": "written",
+        "answer": "Deposition",
+        "explanation": "Gas becomes solid directly."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Drying by evaporation, refrigeration through evaporation and condensation, and purification by distillation.",
+        "explanation": "Changes of state transfer heat and can separate volatile substances."
+      },
+      {
+        "label": "10(c)(i)",
+        "type": "written",
+        "answer": "Calcium.",
+        "explanation": "Ca is its standard symbol."
+      },
+      {
+        "label": "10(c)(ii)",
+        "type": "written",
+        "answer": "Copper.",
+        "explanation": "Cu derives from cuprum."
+      },
+      {
+        "label": "10(c)(iii)",
+        "type": "written",
+        "answer": "Mercury.",
+        "explanation": "Hg derives from hydrargyrum."
+      },
+      {
+        "label": "10(c)(iv)",
+        "type": "written",
+        "answer": "Lead.",
+        "explanation": "Pb derives from plumbum."
+      }
+    ]
+  }
+}

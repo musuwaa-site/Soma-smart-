@@ -1,0 +1,315 @@
+{
+  "sourceId": "source-2fa48337ba0b876a",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)(i)",
+        "type": "written",
+        "answer": "Vijana na Kujikinga na VVU",
+        "explanation": "Kichwa hubeba elimu ya afya na wajibu wa vijana."
+      },
+      {
+        "label": "1(a)(ii)",
+        "type": "written",
+        "answer": "Mwonekano hauonyeshi hali ya VVU; mtu anaweza kuishi na VVU bila dalili.",
+        "explanation": "Kipimo kinachofaa ndicho huonyesha hali ya maambukizi."
+      },
+      {
+        "label": "1(a)(iii)(i)",
+        "type": "written",
+        "answer": "Mwenye wapenzi wengi katika kauli ya mzungumzaji.",
+        "explanation": "Hizi ni maana za kimuktadha; kauli za kifungu zisigeuzwe kuwa hukumu kuhusu mtu."
+      },
+      {
+        "label": "1(a)(iii)(ii)",
+        "type": "written",
+        "answer": "Anaendelea kuishi akiwa anaonekana mzima.",
+        "explanation": "Hizi ni maana za kimuktadha; kauli za kifungu zisigeuzwe kuwa hukumu kuhusu mtu."
+      },
+      {
+        "label": "1(a)(iv)",
+        "type": "written",
+        "answer": "Kujua hali ya maambukizi, kupata ushauri na kuunganishwa na kinga au matibabu yanayofaa.",
+        "explanation": "Huduma za kupima husaidia maamuzi ya afya, na matibabu huruhusu watu wengi kuishi maisha marefu yenye afya."
+      },
+      {
+        "label": "1(a)(v)",
+        "type": "written",
+        "answer": "Hapana; idadi ya wapenzi pekee haithibitishi hali ya maambukizi. Kupima na kuzingatia ushauri wa kinga ni muhimu.",
+        "explanation": "Mtu anaweza kuwa na maambukizi ya awali bila kuyajua."
+      },
+      {
+        "label": "1(a)(vi)",
+        "type": "written",
+        "answer": "Kuepuka ngono isiyo salama na kufuata njia za kinga zilizothibitishwa.",
+        "explanation": "Kinga hujumuisha kondomu zinazotumiwa sawasawa, kutoshirikiana sindano na huduma za afya zinazofaa; kupima pekee si kinga ya maambukizi."
+      },
+      {
+        "label": "1(a)(vii)",
+        "type": "written",
+        "answer": "Kwa mujibu wa kifungu, kujiepusha na vitendo vya ngono.",
+        "explanation": "Swali linauliza pendekezo la mwandishi kwa vijana."
+      },
+      {
+        "label": "1(a)(viii)",
+        "type": "written",
+        "answer": "Anataka vijana walinde afya na wajielekeze katika masomo na maisha yao ya baadaye.",
+        "explanation": "Jibu litokane na wito wa aya ya mwisho."
+      },
+      {
+        "label": "1(a)(ix)",
+        "type": "written",
+        "answer": "Taifa linaweza kupoteza nguvu kazi na kuongeza gharama za huduma na mahitaji ya malezi.",
+        "explanation": "Tiba na huduma bora hupunguza athari hizi; kuishi na VVU hakumaanishi mtu hawezi kufanya kazi au kuchangia jamii."
+      },
+      {
+        "label": "1(a)(x)",
+        "type": "written",
+        "answer": "Usione aibu.",
+        "explanation": "Kauli inahimiza mazungumzo ya wazi kuhusu kupima na kinga."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "Kifungu kinaeleza kwamba mwonekano hauwezi kutambua VVU. Kupima na ushauri wa afya husaidia kujua hali na kuishi salama. Kuwa na mpenzi mmoja pekee hakuthibitishi usalama wa maambukizi. Vijana wahimizwe kulinda afya, kufuata kinga na kutambua nafasi yao katika maisha ya taifa.",
+        "explanation": "Ufupisho usizidi maneno themanini; epuka lugha ya kudhalilisha wanaoishi na VVU."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Fasili inahusisha mfumo, sauti za nasibu, mpangilio, maana, makubaliano ya jamii na mawasiliano.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "Hospitalini.",
+        "explanation": "Tambua mazingira kwa msamiati na washiriki wa kauli."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "Ibada ya dini.",
+        "explanation": "Tambua mazingira kwa msamiati na washiriki wa kauli."
+      },
+      {
+        "label": "2(b)(iii)",
+        "type": "written",
+        "answer": "Kituoni mwa usafiri au mazingira ya kupokea abiria.",
+        "explanation": "Tambua mazingira kwa msamiati na washiriki wa kauli."
+      },
+      {
+        "label": "2(b)(iv)",
+        "type": "written",
+        "answer": "Ofisini.",
+        "explanation": "Tambua mazingira kwa msamiati na washiriki wa kauli."
+      },
+      {
+        "label": "2(b)(v)",
+        "type": "written",
+        "answer": "Bungeni au kikao rasmi chenye maswali ya waheshimiwa.",
+        "explanation": "Tambua mazingira kwa msamiati na washiriki wa kauli."
+      },
+      {
+        "label": "2(c)(i)",
+        "type": "written",
+        "answer": "Mwenyekiti aliwasilisha taarifa ya mapato na matumizi katika kikao.",
+        "explanation": "Wasilisha ni kutoa taarifa; wakilisha ni kusimamia mwingine. Upatanisho wa sisi unahitaji sote."
+      },
+      {
+        "label": "2(c)(ii)",
+        "type": "written",
+        "answer": "Nachukua nafasi hii kumkaribisha mgeni rasmi.",
+        "explanation": "Wasilisha ni kutoa taarifa; wakilisha ni kusimamia mwingine. Upatanisho wa sisi unahitaji sote."
+      },
+      {
+        "label": "2(c)(iii)",
+        "type": "written",
+        "answer": "Yule kijana huwa hapendi fujo.",
+        "explanation": "Wasilisha ni kutoa taarifa; wakilisha ni kusimamia mwingine. Upatanisho wa sisi unahitaji sote."
+      },
+      {
+        "label": "2(c)(iv)",
+        "type": "written",
+        "answer": "Sisi sote tutaondoka kesho jioni.",
+        "explanation": "Wasilisha ni kutoa taarifa; wakilisha ni kusimamia mwingine. Upatanisho wa sisi unahitaji sote."
+      },
+      {
+        "label": "2(c)(v)",
+        "type": "written",
+        "answer": "Sisimizi wameingia kwenye chai.",
+        "explanation": "Wasilisha ni kutoa taarifa; wakilisha ni kusimamia mwingine. Upatanisho wa sisi unahitaji sote."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Sarufi ni kanuni za lugha kuhusu sauti, maumbo ya maneno, miundo ya tungo na maana.",
+        "explanation": "Sarufi huchunguza namna vipashio vya lugha vinavyohusiana."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "review",
+        "answer": "Maneno yaliyopigiwa mstari hayaonekani katika nakala hii. Bila neno lengwa, sentensi inaweza kuwa na majibu kadhaa ya aina za maneno.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "review",
+        "answer": "Maneno yaliyopigiwa mstari hayaonekani katika nakala hii. Bila neno lengwa, sentensi inaweza kuwa na majibu kadhaa ya aina za maneno.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "review",
+        "answer": "Maneno yaliyopigiwa mstari hayaonekani katika nakala hii. Bila neno lengwa, sentensi inaweza kuwa na majibu kadhaa ya aina za maneno.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "review",
+        "answer": "Maneno yaliyopigiwa mstari hayaonekani katika nakala hii. Bila neno lengwa, sentensi inaweza kuwa na majibu kadhaa ya aina za maneno.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(b)(v)",
+        "type": "review",
+        "answer": "Maneno yaliyopigiwa mstari hayaonekani katika nakala hii. Bila neno lengwa, sentensi inaweza kuwa na majibu kadhaa ya aina za maneno.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(c)(i)",
+        "type": "written",
+        "answer": "Lima: limika, limwa, limiana.",
+        "explanation": "Mpangilio ni kutendeka, kutendwa na kutendeana. Maumbo yanahitaji pia kuzingatia maana na matumizi yanayokubalika."
+      },
+      {
+        "label": "3(c)(ii)",
+        "type": "written",
+        "answer": "Oga: ogeka, ogwa, ogeana.",
+        "explanation": "Mpangilio ni kutendeka, kutendwa na kutendeana. Maumbo yanahitaji pia kuzingatia maana na matumizi yanayokubalika."
+      },
+      {
+        "label": "3(c)(iii)",
+        "type": "written",
+        "answer": "Fua: fulika, fulwa, fuliana.",
+        "explanation": "Mpangilio ni kutendeka, kutendwa na kutendeana. Maumbo yanahitaji pia kuzingatia maana na matumizi yanayokubalika."
+      },
+      {
+        "label": "3(d)(i)",
+        "type": "review",
+        "answer": "Mofimu iliyopigiwa mstari haionekani; si- inaweza kuonyesha ukanushi, na walioadhibiwa ina nafsi/wingi wa-, wakati -li-, urejeshi -o- na kauli ya kutendwa -w-.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(d)(ii)",
+        "type": "review",
+        "answer": "Mofimu iliyopigiwa mstari haionekani; si- inaweza kuonyesha ukanushi, na walioadhibiwa ina nafsi/wingi wa-, wakati -li-, urejeshi -o- na kauli ya kutendwa -w-.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Shule ya Sekondari Mwalize, S.L.P. 280, Iringa. 10/11/2004.\nMkuu wa Shule, Shule ya Sekondari Mwalize, S.L.P. 280, Iringa.\nYAH: OMBI LA RUHUSA YA SIKU SABA\nNdugu Mkuu wa Shule, nimepokea simu ya maandishi kutoka kwa Waridi ikinijulisha kwamba baba yangu amelazwa katika Hospitali ya Mkoa. Ninaomba ruhusa ya siku saba kwenda kumwona na kuisaidia familia. Nitajitahidi kufidia masomo nitakayokosa na kurejea baada ya muda niliopewa. Naomba ombi langu lifikiriwe.\nWako mtiifu, Amani Jalia.",
+        "explanation": "Barua iwe na anuani, tarehe, kichwa, sababu ya ombi, siku saba na jina linalolingana na ujumbe."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Mifumo ya maisha ya jamii katika siasa, uchumi na utamaduni.",
+        "explanation": "Fasihi hutokana na maisha ya jamii na kuwasilishwa kwa utendaji kwa wapokeaji."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Kuzungumza au kusimulia kwa mdomo.",
+        "explanation": "Fasihi hutokana na maisha ya jamii na kuwasilishwa kwa utendaji kwa wapokeaji."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Fanani na hadhira.",
+        "explanation": "Fasihi hutokana na maisha ya jamii na kuwasilishwa kwa utendaji kwa wapokeaji."
+      },
+      {
+        "label": "5(b)(i)(i)",
+        "type": "written",
+        "answer": "Muundo.",
+        "explanation": "Vipengele hivi huonyesha namna kazi ya fasihi imejengwa."
+      },
+      {
+        "label": "5(b)(i)(ii)",
+        "type": "written",
+        "answer": "Mtindo.",
+        "explanation": "Vipengele hivi huonyesha namna kazi ya fasihi imejengwa."
+      },
+      {
+        "label": "5(b)(i)(iii)",
+        "type": "written",
+        "answer": "Lugha.",
+        "explanation": "Vipengele hivi huonyesha namna kazi ya fasihi imejengwa."
+      },
+      {
+        "label": "5(b)(i)(iv)",
+        "type": "written",
+        "answer": "Wahusika.",
+        "explanation": "Vipengele hivi huonyesha namna kazi ya fasihi imejengwa."
+      },
+      {
+        "label": "5(b)(i)(v)",
+        "type": "written",
+        "answer": "Mandhari.",
+        "explanation": "Vipengele hivi huonyesha namna kazi ya fasihi imejengwa."
+      },
+      {
+        "label": "5(b)(ii)(i)",
+        "type": "written",
+        "answer": "Hukuza msamiati.",
+        "explanation": "Kila faida ihusishwe na kusimulia au kusikiliza hadithi."
+      },
+      {
+        "label": "5(b)(ii)(ii)",
+        "type": "written",
+        "answer": "Hufundisha maadili.",
+        "explanation": "Kila faida ihusishwe na kusimulia au kusikiliza hadithi."
+      },
+      {
+        "label": "5(b)(ii)(iii)",
+        "type": "written",
+        "answer": "Huburudisha.",
+        "explanation": "Kila faida ihusishwe na kusimulia au kusikiliza hadithi."
+      },
+      {
+        "label": "5(b)(ii)(iv)",
+        "type": "written",
+        "answer": "Hukuza ubunifu.",
+        "explanation": "Kila faida ihusishwe na kusimulia au kusikiliza hadithi."
+      },
+      {
+        "label": "5(b)(ii)(v)",
+        "type": "written",
+        "answer": "Huhifadhi historia na utamaduni.",
+        "explanation": "Kila faida ihusishwe na kusimulia au kusikiliza hadithi."
+      },
+      {
+        "label": "5(b)(ii)(vi)",
+        "type": "written",
+        "answer": "Hujenga uwezo wa kusikiliza na kufikiri.",
+        "explanation": "Kila faida ihusishwe na kusimulia au kusikiliza hadithi."
+      }
+    ]
+  }
+}

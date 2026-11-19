@@ -1,0 +1,579 @@
+{
+  "sourceId": "source-7f1e2fc4f2c1d2a3",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Vitamin C deficiency causes scurvy.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The cell membrane is selectively permeable.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Solving a school question is not a named scientific-investigation stage.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Plasmodium is the malaria parasite.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Carbon dioxide diffuses down its concentration gradient.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Fibrinogen forms fibrin during clotting.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Rabbits feed on producers.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A first-aid kit is for immediate assistance rather than a collection of curative medicines.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Mucor, mushrooms and yeast are fungi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Multiple sexual partners can increase exposure to STIs.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "A sterile dressing protects a wound while allowing ventilation; gauze should be used appropriately.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Stomach acid kills many swallowed microbes.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Beard growth is typically a male secondary characteristic; breast development is typically female.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "The pulmonary artery, not the aorta, carries blood to the lungs.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Typical bacterial walls distinguish bacteria from wall-less Amoeba.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(vi)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Corrosives chemically damage tissues; radiation is a different hazard.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(vii)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "An organ combines tissues for particular functions.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(viii)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Protein digestion normally begins in the stomach.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(ix)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Alveoli provide a large exchange surface.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(x)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Moss mats can shelter small organisms.",
+        "options": [
+          "True",
+          "False"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Producers synthesise food.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "A population comprises members of one species in an area.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "Consumers obtain food from other organisms.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A community includes interacting populations.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Predators kill prey for food.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Inhalation or inspiration.",
+        "explanation": "Air moves into the lungs."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Diaphragm.",
+        "explanation": "The muscular sheet separates chest and abdomen."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Gaseous exchange.",
+        "explanation": "Oxygen and carbon dioxide diffuse across respiratory surfaces."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Rib cage.",
+        "explanation": "The ribs protect the lungs."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Book lungs, and in some species tracheae.",
+        "explanation": "Spider respiratory structures differ between groups."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Mortar and pestle crush and grind materials.",
+        "explanation": "The pestle presses material against the mortar."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "A Petri dish holds small specimens or prepared cultures under supervised laboratory conditions.",
+        "explanation": "Its shallow shape permits observation."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "A test-tube rack supports test tubes upright.",
+        "explanation": "It helps prevent spilling."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "A Bunsen burner supplies heat.",
+        "explanation": "Its flame can be adjusted."
+      },
+      {
+        "label": "5(a)(v)",
+        "type": "written",
+        "answer": "A thermometer measures temperature.",
+        "explanation": "The reading is compared with a calibrated scale."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Zoology studies animals; botany studies plants.",
+        "explanation": "These branches differ in the organisms they study."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Biology explains nutrients, digestion, absorption and the effects of diets on living organisms.",
+        "explanation": "Nutrition is a biological process."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "A balanced diet supplies required nutrients in appropriate amounts for energy, growth, repair and normal body functions.",
+        "explanation": "Both deficiency and excess can harm health."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Swelling of feet or abdomen.",
+        "explanation": "Oedema is a characteristic sign."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Poor growth and wasted muscles.",
+        "explanation": "Inadequate nutrition limits tissue maintenance."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "Changes in hair or skin and reduced activity.",
+        "explanation": "Severe malnutrition affects multiple tissues."
+      },
+      {
+        "label": "6(c)(i)",
+        "type": "written",
+        "answer": "Beans or other pulses.",
+        "explanation": "Legumes provide protein."
+      },
+      {
+        "label": "6(c)(ii)",
+        "type": "written",
+        "answer": "Eggs, milk, fish or meat.",
+        "explanation": "Animal foods also supply protein; severe malnutrition needs professional care."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Infection is invasion and multiplication of a pathogen; disease is an impairment of normal health that may result.",
+        "explanation": "An infection can occur without obvious symptoms."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Syphilis and gonorrhoea.",
+        "explanation": "Both can spread through sexual contact."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Cholera and typhoid.",
+        "explanation": "Both can spread through contaminated food or water."
+      },
+      {
+        "label": "7(c)(i)",
+        "type": "written",
+        "answer": "Helps access and adhere to antiretroviral treatment.",
+        "explanation": "Treatment suppresses HIV."
+      },
+      {
+        "label": "7(c)(ii)",
+        "type": "written",
+        "answer": "Supports adequate nutrition.",
+        "explanation": "Good nutrition supports wellbeing."
+      },
+      {
+        "label": "7(c)(iii)",
+        "type": "written",
+        "answer": "Reduces stigma and psychological distress.",
+        "explanation": "Respect and inclusion protect dignity."
+      },
+      {
+        "label": "7(c)(iv)",
+        "type": "written",
+        "answer": "Helps prevent or promptly treat opportunistic infections.",
+        "explanation": "Early care limits complications."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i) Tissue",
+        "type": "written",
+        "answer": "Muscle tissue and nervous tissue.",
+        "explanation": "Similar specialised cells work together."
+      },
+      {
+        "label": "8(a)(i) Organ",
+        "type": "written",
+        "answer": "Heart and kidney.",
+        "explanation": "Each contains several tissues."
+      },
+      {
+        "label": "8(a)(ii) System",
+        "type": "written",
+        "answer": "Digestive system and circulatory system.",
+        "explanation": "Organs cooperate in broader functions."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "A cell is bounded by a membrane.",
+        "explanation": "The membrane separates internal and external environments."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Cells contain cytoplasm.",
+        "explanation": "It supports metabolic reactions."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "Cells contain genetic material.",
+        "explanation": "DNA carries instructions."
+      },
+      {
+        "label": "8(b)(iv)",
+        "type": "written",
+        "answer": "Cells contain ribosomes.",
+        "explanation": "They synthesise proteins."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "A photosynthetic cell loses its ability to photosynthesise if its chloroplasts are removed.",
+        "explanation": "Chloroplasts contain the photosynthetic machinery."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Movement of substances between parts of an organism and between cells and their surroundings.",
+        "explanation": "Transport supplies needs and removes wastes."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "Water enters by osmosis and the plant cell becomes turgid.",
+        "explanation": "The wall usually prevents bursting."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "Blood pumping stops, depriving tissues of oxygen and nutrients.",
+        "explanation": "Cardiac arrest requires emergency treatment."
+      },
+      {
+        "label": "9(c)(i)",
+        "type": "written",
+        "answer": "Chemotherapy under specialist care.",
+        "explanation": "It can destroy leukaemia cells."
+      },
+      {
+        "label": "9(c)(ii)",
+        "type": "written",
+        "answer": "Targeted or other prescribed anti-cancer therapy where appropriate.",
+        "explanation": "Treatment depends on the type of leukaemia."
+      },
+      {
+        "label": "9(c)(iii)",
+        "type": "written",
+        "answer": "Stem-cell transplantation in selected patients.",
+        "explanation": "Specialists assess benefits and risks."
+      }
+    ],
+    "10": [
+      {
+        "label": "10 advantages",
+        "type": "written",
+        "answer": "Bacteria recycle nutrients by decomposition; some fix nitrogen; others are used in food production such as yoghurt.",
+        "explanation": "Different bacterial species perform useful ecological and industrial roles."
+      },
+      {
+        "label": "10 disadvantages",
+        "type": "written",
+        "answer": "Some cause disease, some spoil food, and some produce harmful toxins.",
+        "explanation": "The kingdom includes both useful and harmful organisms."
+      }
+    ],
+    "11": [
+      {
+        "label": "11",
+        "type": "written",
+        "answer": "Poor waste disposal pollutes water, contaminates soil, creates pest breeding sites, causes bad smells, blocks drains and damages habitats. Burning unsuitable waste also pollutes air.",
+        "explanation": "These effects expose people and ecosystems to physical, chemical and biological hazards."
+      }
+    ]
+  }
+}

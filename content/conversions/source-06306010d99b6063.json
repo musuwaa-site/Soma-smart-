@@ -1,0 +1,454 @@
+{
+  "sourceId": "source-06306010d99b6063",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Wahusika, lugha, muundo, mtindo na mandhari ni vipengele vya fani.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Takhmisa ina mishororo mitano.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Kupungua kwa hadhi au ubora ni athari hasi; nyingine ni faida.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Kanuni za uandishi husaidia kuondoa utata.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Sana huonyesha kiwango cha kuimba vizuri, hivyo ni kielezi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Wa Dodoma huonyesha uhusiano kati ya Janeth na eneo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "review",
+        "answer": "Hakuna chaguo lisilo sahihi kwa uwazi: matamshi, mpangilio, muundo na matumizi ya lugha yote yanafaa katika usimulizi.",
+        "explanation": "Kanuni zote zinahusu usimulizi kwa namna fulani; hakuna kosa la wazi."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Nukta pacha inaweza kutenga tungo yenye ufafanuzi wa iliyotangulia.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Picha huongeza kumbukumbu na uelewa.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Shina huundwa kwa mzizi na viambishi tamati vijenzi, bila viambishi vya nafsi na wakati.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Tumbuizo huburudisha; kongozi huaga mwaka; mbolezi ni za misiba; wawe ni za kilimo; nyiso ni za jando na unyago.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Tumbuizo huburudisha; kongozi huaga mwaka; mbolezi ni za misiba; wawe ni za kilimo; nyiso ni za jando na unyago.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Tumbuizo huburudisha; kongozi huaga mwaka; mbolezi ni za misiba; wawe ni za kilimo; nyiso ni za jando na unyago.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Tumbuizo huburudisha; kongozi huaga mwaka; mbolezi ni za misiba; wawe ni za kilimo; nyiso ni za jando na unyago.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Tumbuizo huburudisha; kongozi huaga mwaka; mbolezi ni za misiba; wawe ni za kilimo; nyiso ni za jando na unyago.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Madhara ya Msimamo Mkali",
+        "explanation": "Kichwa kinaonyesha tatizo kuu la familia."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Kukosa mwelekeo au kuharibika.",
+        "explanation": "Maana ifuate matumizi ya kauli katika kifungu."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Mtu au kitu kinachopendwa sana.",
+        "explanation": "Maana ifuate matumizi ya kauli katika kifungu."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "Anayezuiliwa nyumbani kama getini pekee.",
+        "explanation": "Maana ifuate matumizi ya kauli katika kifungu."
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "written",
+        "answer": "Mwenye umbo kubwa na nguvu.",
+        "explanation": "Maana ifuate matumizi ya kauli katika kifungu."
+      },
+      {
+        "label": "3(b)(v)",
+        "type": "written",
+        "answer": "Huzuni au wasiwasi wenye hofu.",
+        "explanation": "Maana ifuate matumizi ya kauli katika kifungu."
+      },
+      {
+        "label": "3(c)(i)",
+        "type": "written",
+        "answer": "Alikosa uhuru na kuona mazingira ya nyumbani hayakidhi mahitaji yake.",
+        "explanation": "Kifungu kinataja kujisikia kufungiwa na kutosikilizwa."
+      },
+      {
+        "label": "3(c)(ii)",
+        "type": "written",
+        "answer": "Alikuwa mkali na hakutaka kusikiliza maoni mengine.",
+        "explanation": "Msimamo wake ulizuia mawasiliano ya familia."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "Familia inahitaji kusikilizana na kuongoza kwa mazungumzo badala ya hofu pekee.",
+        "explanation": "Baba anatambua mwishoni kuwa hakuna binadamu mkamilifu."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Wanapigana: -an-, kutendana.",
+        "explanation": "Umbo la kauli ni sehemu inayoongezwa kwenye mzizi kabla ya irabu tamati."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Atatusomesha: -esh-, kutendesha.",
+        "explanation": "Umbo la kauli ni sehemu inayoongezwa kwenye mzizi kabla ya irabu tamati."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Limelimwa: -w-, kutendwa.",
+        "explanation": "Umbo la kauli ni sehemu inayoongezwa kwenye mzizi kabla ya irabu tamati."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Amechomewa: -ew-, kutendewa.",
+        "explanation": "Umbo la kauli ni sehemu inayoongezwa kwenye mzizi kabla ya irabu tamati."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Amepigika: -ik-, kutendeka.",
+        "explanation": "Umbo la kauli ni sehemu inayoongezwa kwenye mzizi kabla ya irabu tamati."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Yule: kionyeshi.",
+        "explanation": "Kiwakilishi huchukua nafasi ya nomino; kivumishi huambatana na nomino."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Sisi: nafsi ya kwanza wingi.",
+        "explanation": "Kiwakilishi huchukua nafasi ya nomino; kivumishi huambatana na nomino."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Wako: kimilikishi; wangu katika mtoto wangu ni kivumishi.",
+        "explanation": "Kiwakilishi huchukua nafasi ya nomino; kivumishi huambatana na nomino."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Wengi: idadi isiyodhihirika.",
+        "explanation": "Kiwakilishi huchukua nafasi ya nomino; kivumishi huambatana na nomino."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Mrefu: cha sifa kilichosimama badala ya nomino.",
+        "explanation": "Kiwakilishi huchukua nafasi ya nomino; kivumishi huambatana na nomino."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Kuwasiliana.",
+        "explanation": "Toa mfano wa matumizi katika maisha."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Kuelimisha.",
+        "explanation": "Toa mfano wa matumizi katika maisha."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Kuburudisha.",
+        "explanation": "Toa mfano wa matumizi katika maisha."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Kuhifadhi utamaduni.",
+        "explanation": "Toa mfano wa matumizi katika maisha."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Kutambulisha jamii.",
+        "explanation": "Toa mfano wa matumizi katika maisha."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Huzuka katika mazingira au makundi maalumu.",
+        "explanation": "Misimu hutegemea wakati, watumiaji na mabadiliko ya jamii."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Mingi ina uhai mfupi.",
+        "explanation": "Misimu hutegemea wakati, watumiaji na mabadiliko ya jamii."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Hutambulisha kundi.",
+        "explanation": "Misimu hutegemea wakati, watumiaji na mabadiliko ya jamii."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Hubuni maana mpya au za picha.",
+        "explanation": "Misimu hutegemea wakati, watumiaji na mabadiliko ya jamii."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Baadhi hubadilika na kuwa maneno yanayokubalika zaidi.",
+        "explanation": "Misimu hutegemea wakati, watumiaji na mabadiliko ya jamii."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Fundisha tabia nzuri mapema.",
+        "explanation": "Mafunzo ya methali yatumike kwa muktadha bila kuhalalisha ukatili au ubaguzi."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Juhudi za sasa huleta manufaa baadaye.",
+        "explanation": "Mafunzo ya methali yatumike kwa muktadha bila kuhalalisha ukatili au ubaguzi."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Akiba husaidia wakati wa mahitaji.",
+        "explanation": "Mafunzo ya methali yatumike kwa muktadha bila kuhalalisha ukatili au ubaguzi."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Mafanikio hujengwa kidogo kidogo.",
+        "explanation": "Mafunzo ya methali yatumike kwa muktadha bila kuhalalisha ukatili au ubaguzi."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Watu wana mawazo tofauti; sikiliza maoni mengine.",
+        "explanation": "Mafunzo ya methali yatumike kwa muktadha bila kuhalalisha ukatili au ubaguzi."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Maandishi katika vitabu.",
+        "explanation": "Kila njia huhifadhi sehemu za kazi; video huunganisha sauti na picha, kumbukumbu ya kichwani hutegemea mtendaji."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Rekodi za sauti.",
+        "explanation": "Kila njia huhifadhi sehemu za kazi; video huunganisha sauti na picha, kumbukumbu ya kichwani hutegemea mtendaji."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Filamu au video.",
+        "explanation": "Kila njia huhifadhi sehemu za kazi; video huunganisha sauti na picha, kumbukumbu ya kichwani hutegemea mtendaji."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Picha na michoro.",
+        "explanation": "Kila njia huhifadhi sehemu za kazi; video huunganisha sauti na picha, kumbukumbu ya kichwani hutegemea mtendaji."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Kukumbuka na kurithisha kwa utendaji.",
+        "explanation": "Kila njia huhifadhi sehemu za kazi; video huunganisha sauti na picha, kumbukumbu ya kichwani hutegemea mtendaji."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "UMUHIMU WA MICHEZO\nMichezo ina nafasi muhimu katika maisha ya mwanafunzi na jamii. Inapaswa kupangwa kwa namna inayowapa watu nafasi salama ya kushiriki kulingana na uwezo wao. Faida zake zinaonekana shuleni na nje ya shule.\nKwanza, michezo huimarisha afya. Kutembea, kukimbia na kucheza huupa mwili mazoezi. Mwanafunzi anayefanya mazoezi kwa ratiba inayofaa hupata nafasi ya kupumzisha akili baada ya masomo.\nPili, michezo hufundisha ushirikiano. Katika timu kila mshiriki ana wajibu. Wachezaji wanapowasiliana na kusaidiana, wanajifunza kuheshimu wenzao na kushughulikia tofauti zao. Tabia hizo zinaweza kutumika pia darasani.\nTatu, michezo hukuza vipaji. Mwanafunzi anaweza kugundua uwezo wa kukimbia, kucheza mpira au kuwa mwamuzi. Mazoezi na mafunzo yanayofaa yanaweza kufungua nafasi za kuwakilisha shule na baadaye kupata ajira.\nNne, michezo hutoa burudani. Washiriki na watazamaji hufurahia mashindano na kukutana na watu. Furaha hii huimarisha uhusiano wa kijamii.\nKwa hiyo shule ziweke muda, vifaa na usimamizi wa michezo. Ushiriki uwe wa hiari, wenye usawa na salama ili manufaa haya yawafikie wanafunzi wengi.",
+        "explanation": "Mfano wenye hoja nne; hakiki kikomo cha maneno 150–200 na jenga kila hoja katika aya yake."
+      }
+    ]
+  }
+}

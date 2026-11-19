@@ -1,0 +1,447 @@
+{
+  "sourceId": "source-4b27f407b00db3a3",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Botany studies plants.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Perfume molecules spread by diffusion from high to low concentration.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Bilharzia damages urinary or intestinal tissues and can cause bleeding.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A thermometer measures temperature.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The diaphragm contracts during inspiration, increasing chest volume.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Cancer can be treated with chemotherapy and radiotherapy under specialist care.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Chlorophyll absorbs light energy.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Plants have cellulose walls and membrane-bound nuclei.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Protein-rich foods support growth and repair.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Producers convert sunlight to chemical energy stored in food.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "Pulmonary veins return oxygenated blood from lungs.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "review",
+        "answer": "The printed options do not name the aorta or renal artery. A systemic artery carries blood containing metabolic wastes away from the heart. Hepatic artery is one example, but the wording is not unique.",
+        "explanation": "The hepatic artery carries blood to the liver, whose cells process wastes; the wording is broad so accept a justified interpretation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Pulmonary artery carries blood to the lungs.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Inferior vena cava drains the lower body.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Superior vena cava drains the upper body.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Cholera, tuberculosis, malaria and syphilis.",
+        "explanation": "These diseases are caused by transmissible pathogens."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Marasmus, scurvy, pellagra and leukaemia.",
+        "explanation": "The first three are nutrient deficiencies; leukaemia is cancer."
+      },
+      {
+        "label": "3(b) Cholera",
+        "type": "written",
+        "answer": "Faecal contamination of food or drinking water.",
+        "explanation": "The bacteria enter through the mouth."
+      },
+      {
+        "label": "3(b) Tuberculosis",
+        "type": "written",
+        "answer": "Inhaling airborne particles from an infectious person.",
+        "explanation": "Transmission is favoured by close contact in poorly ventilated spaces."
+      },
+      {
+        "label": "3(b) Malaria",
+        "type": "written",
+        "answer": "An infected female Anopheles mosquito bite.",
+        "explanation": "The mosquito transfers the parasite."
+      },
+      {
+        "label": "3(b) Syphilis",
+        "type": "written",
+        "answer": "Sexual contact with an infected person; transmission can also occur during pregnancy.",
+        "explanation": "Treponema pallidum passes through infected tissues."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Plant cells are too small to distinguish clearly with the unaided eye.",
+        "explanation": "A light microscope magnifies cells and reveals their structure."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Draw a microscope and label eyepiece, objective lenses, stage, mirror or lamp, coarse adjustment, fine adjustment and arm.",
+        "explanation": "Place each label line accurately on the relevant part."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Plant cells have a cellulose wall; animal cells do not.",
+        "explanation": "The wall supports the cell."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Photosynthetic plant cells have chloroplasts; animal cells do not.",
+        "explanation": "Chloroplasts contain chlorophyll."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Mature plant cells usually have a large permanent vacuole; animal cells have small temporary vacuoles or none.",
+        "explanation": "The central vacuole helps maintain turgor."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Plant cells usually have a more regular outline; animal cells are often irregular or rounded.",
+        "explanation": "The wall constrains plant cell shape."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Contents may leak and uncontrolled entry or loss of substances may kill the cell.",
+        "explanation": "The membrane maintains the cell’s internal conditions."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Refrigeration or freezing.",
+        "explanation": "Low temperatures slow microbial activity and enzyme reactions."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Pasteurisation of milk.",
+        "explanation": "Controlled heat reduces harmful microbes, followed by hygienic storage."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Canning.",
+        "explanation": "Heat treatment and a sealed container prevent recontamination."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Drying.",
+        "explanation": "Removing available water restricts microbial growth."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "Sterile gauze covers wounds.",
+        "explanation": "It protects the wound and can apply pressure to bleeding."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Bandage holds dressings in place.",
+        "explanation": "It supports an injured area."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "Disposable gloves protect the helper and patient.",
+        "explanation": "They reduce contact with body fluids."
+      },
+      {
+        "label": "7(a)(iv)",
+        "type": "written",
+        "answer": "Scissors cut bandages.",
+        "explanation": "They allow dressings to be fitted."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Sit the person upright.",
+        "explanation": "This reduces blood flow to the nose."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Lean the person forward.",
+        "explanation": "This helps avoid swallowing blood."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "Pinch the soft part of the nose firmly for 10–15 minutes.",
+        "explanation": "Steady pressure helps bleeding stop."
+      },
+      {
+        "label": "7(b)(iv)",
+        "type": "written",
+        "answer": "Seek medical help for heavy or persistent bleeding, and avoid nose blowing.",
+        "explanation": "Continued bleeding needs assessment."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Ascomycota.",
+        "explanation": "Yeasts and many moulds belong to this fungal group."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Basidiomycota.",
+        "explanation": "Mushrooms are examples."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Fungi decompose organic matter.",
+        "explanation": "Decomposition returns nutrients to ecosystems."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Some fungi are edible.",
+        "explanation": "Mushrooms provide food."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "Yeast is used in bread making.",
+        "explanation": "Fermentation releases carbon dioxide that raises dough."
+      },
+      {
+        "label": "8(b)(iv)",
+        "type": "written",
+        "answer": "Some fungi supply medicines.",
+        "explanation": "Penicillin was developed from a mould."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Confirm compatible blood groups and cross-match.",
+        "explanation": "Incompatible blood can cause a dangerous immune reaction."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Screen donated blood for transmissible infections.",
+        "explanation": "Screening reduces the risk of infection."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "Use sterile, single-use equipment.",
+        "explanation": "This prevents contamination."
+      },
+      {
+        "label": "9(a)(iv)",
+        "type": "written",
+        "answer": "Use properly stored blood and trained medical personnel with monitoring.",
+        "explanation": "Safe transfusion requires correct handling and observation."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "It replaces lost circulating blood and restores oxygen-carrying capacity.",
+        "explanation": "Red blood cells carry haemoglobin."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Provide emotional support, reduce stigma, help access antiretroviral treatment, encourage adherence, support adequate nutrition and help prevent or treat opportunistic infections.",
+        "explanation": "Each measure supports health, dignity and continued participation in family and community life. HIV does not spread through ordinary social contact."
+      }
+    ]
+  }
+}

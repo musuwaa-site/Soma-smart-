@@ -1,0 +1,181 @@
+{
+  "sourceId": "source-3b383a6f12e58e0b",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "6",
+        "explanation": "All three numbers share 2 × 3, and no larger common prime-power product."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "109,000",
+        "explanation": "Sum the populations to get 108,700, then round to the nearest thousand."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)",
+        "type": "written",
+        "answer": "Tsh 128,000",
+        "explanation": "The remaining fraction is 1 − 1/8 − 1/4 = 5/8. Divide 80,000 by 5/8."
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "62.5%",
+        "explanation": "Multiply 5/8 by 100%."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "0.625",
+        "explanation": "Divide 5 by 8."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Tsh 252,000",
+        "explanation": "Multiply the cost by 1.40 to include a 40% profit."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Rose Tsh 60,000 and Japheth Tsh 90,000.",
+        "explanation": "Each of the five equal shares is Tsh 30,000. Multiply by 2 and 3."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "250°",
+        "explanation": "The parallel lines give a = 70°. Exterior angle b = 70° + 60° = 130°. Along the straight base, c = 180° − 60° − 70° = 50°."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "x = 2, AB = 7 cm and AC = 4 cm.",
+        "explanation": "The perimeter is (5 + x) + (2 + x) + 5 = 16. Solve and substitute."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "x = 3 and y = 1.",
+        "explanation": "Use y = 4 − x in 2x − y = 5 to get 3x = 9."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "8 and 9",
+        "explanation": "Let the numbers be t and t + 1. Solve t² + (t + 1)² = 145 to get t = 8 or −9, then select the positive solution."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "k = 1",
+        "explanation": "The gradient is (k + 1)/k. Equate it to 2 and solve."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "7 (point (0,7))",
+        "explanation": "With k = 1 the equation is y = 2x + 7."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Final point (−2,−3).",
+        "explanation": "Sketch (2,3) reflected to (3,2) across y = x. Across y = −x each coordinate takes the negative of the other."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "n = 14/3",
+        "explanation": "Write 16 as 2⁴; the exponent on the left is 4(3 − n) + 1 + n = 13 − 3n. Equate this to −1."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "x = 4",
+        "explanation": "The product rule gives 4(2x + 1) = 7x + 8; the solution gives positive logarithm arguments."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "△ABC ≅ △DCB by SAS.",
+        "explanation": "AB equals DC, BC is shared, and the included angles ABC and DCB are equal."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "AB = 18 cm and BC = 24 cm.",
+        "explanation": "The scale factor AC/PR is 2. Multiply the corresponding sides PQ and QR by 2."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "x = 12 cm, y = 15 cm.",
+        "explanation": "First y² = 17² − 8² = 225, then x² = y² − 9² = 144."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "(√6 + √3)/4",
+        "explanation": "Substitute √3/2 for sin 60°, √2/2 for cos 45° and 1/2 for sin 30°."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "1",
+        "explanation": "The expression becomes 1 × (4 × 1/2 − √3 × 1/√3) = 1."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "25 students",
+        "explanation": "Place 15 in the overlap, 6 in commercial only and 4 in science only. Their union totals 25."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "10 students",
+        "explanation": "Subtract the union of 25 from the class total of 35."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "6 students",
+        "explanation": "Subtract the 15 who study both from the 21 who study commercial subjects."
+      },
+      {
+        "label": "10(a)(iv)",
+        "type": "written",
+        "answer": "19 students",
+        "explanation": "Add the 4 who take science only to the 15 who take both."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Football 80, netball 40, swimming 30 and volleyball 50.",
+        "explanation": "Multiply 200 by each sector angle divided by 360. The angles are respectively 144°, 72°, 54° and the remaining 90°."
+      }
+    ]
+  }
+}

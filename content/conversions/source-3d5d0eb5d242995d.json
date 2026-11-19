@@ -1,0 +1,365 @@
+{
+  "sourceId": "source-3d5d0eb5d242995d",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)(i)",
+        "type": "written",
+        "answer": "Faida na Uhifadhi wa Miti",
+        "explanation": "Kichwa kinabeba manufaa na wajibu wa kutunza miti."
+      },
+      {
+        "label": "1(a)(ii)",
+        "type": "written",
+        "answer": "Huongeza mahitaji ya kuni na mkaa, hivyo ukataji miti unaweza kuongezeka.",
+        "explanation": "Ongezeko la watu pamoja na nishati mbadala chache huongeza shinikizo kwa misitu."
+      },
+      {
+        "label": "1(a)(iii)(i)",
+        "type": "written",
+        "answer": "Nyingi sana.",
+        "explanation": "Maana ya roho hapa ni ya picha; chemchem ni chanzo cha maji."
+      },
+      {
+        "label": "1(a)(iii)(ii)",
+        "type": "written",
+        "answer": "Msingi muhimu wa uhai au ustawi.",
+        "explanation": "Maana ya roho hapa ni ya picha; chemchem ni chanzo cha maji."
+      },
+      {
+        "label": "1(a)(iii)(iii)",
+        "type": "written",
+        "answer": "Mahali maji yanapochipuka kutoka ardhini.",
+        "explanation": "Maana ya roho hapa ni ya picha; chemchem ni chanzo cha maji."
+      },
+      {
+        "label": "1(a)(iii)(iv)",
+        "type": "written",
+        "answer": "Jitihada zilizopangwa kutimiza lengo.",
+        "explanation": "Maana ya roho hapa ni ya picha; chemchem ni chanzo cha maji."
+      },
+      {
+        "label": "1(a)(iv)",
+        "type": "written",
+        "answer": "Kupanda na kuhifadhi miti.",
+        "explanation": "Upandaji urejeshe miti na uhifadhi uzuie upotevu zaidi."
+      },
+      {
+        "label": "1(a)(v)(i)",
+        "type": "written",
+        "answer": "Uhamasishaji kwa redio.",
+        "explanation": "Vyombo hivi vimetajwa katika kifungu; siku maalumu ya kupanda miti pia ni njia sahihi."
+      },
+      {
+        "label": "1(a)(v)(ii)",
+        "type": "written",
+        "answer": "Uhamasishaji kupitia magazeti.",
+        "explanation": "Vyombo hivi vimetajwa katika kifungu; siku maalumu ya kupanda miti pia ni njia sahihi."
+      },
+      {
+        "label": "1(a)(v)(iii)",
+        "type": "written",
+        "answer": "Uhamasishaji kupitia televisheni.",
+        "explanation": "Vyombo hivi vimetajwa katika kifungu; siku maalumu ya kupanda miti pia ni njia sahihi."
+      },
+      {
+        "label": "1(a)(vi)",
+        "type": "written",
+        "answer": "Miti hutoa chakula, malighafi, nishati, makazi ya viumbe na msaada wa kulinda maji na udongo.",
+        "explanation": "Hivyo misitu huchangia ustawi wa watu na mazingira."
+      },
+      {
+        "label": "1(a)(vii)(i)",
+        "type": "written",
+        "answer": "Matunda hutoa virutubishi.",
+        "explanation": "Usitumie mimea isiyojulikana kama tiba bila ushauri unaofaa."
+      },
+      {
+        "label": "1(a)(vii)(ii)",
+        "type": "written",
+        "answer": "Baadhi ya miti hutoa malighafi za dawa zinazohitaji kuthibitishwa na kutumiwa salama.",
+        "explanation": "Usitumie mimea isiyojulikana kama tiba bila ushauri unaofaa."
+      },
+      {
+        "label": "1(a)(viii)",
+        "type": "written",
+        "answer": "Usipozuia tatizo likiwa dogo utahitaji gharama au jitihada kubwa baadaye.",
+        "explanation": "Usemi ni onyo la kuchukua hatua mapema."
+      },
+      {
+        "label": "1(a)(ix)",
+        "type": "written",
+        "answer": "Upandaji umefikia miti milioni 120 mwaka unaotajwa na mwandishi.",
+        "explanation": "Hii ni takwimu inayoripotiwa katika kifungu, si idadi ya sasa."
+      },
+      {
+        "label": "1(a)(x)",
+        "type": "written",
+        "answer": "Kila mtu.",
+        "explanation": "Sentensi ya mwisho inaeleza wajibu wa pamoja."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "Miti hutoa mbao, vifaa, matunda na nishati, na husaidia kulinda maji na udongo. Ongezeko la watu na uhaba wa nishati mbadala vimeongeza ukataji. Serikali imehamasisha upandaji kwa vyombo vya habari na siku maalumu. Kifungu kinaripoti miti milioni 120 kupandwa. Kila mtu ana wajibu wa kutunza miti na misitu.",
+        "explanation": "Muhtasari usizidi maneno themanini na ubane sababu, hatua na faida."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)",
+        "type": "review",
+        "answer": "Tanzu kuu za lugha ni mazungumzo na maandishi. Hakuna chaguo linalotoa jibu hili. Chaguo D linahusu maeneo ya sarufi.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "2(b)(i)(i)",
+        "type": "written",
+        "answer": "Mgonjwa apewe dawa kwa maelekezo ya daktari.",
+        "explanation": "Sentensi iwe na msamiati na kusudi linalofaa mazingira yaliyotajwa."
+      },
+      {
+        "label": "2(b)(i)(ii)",
+        "type": "written",
+        "answer": "Nyanya hizi ni shilingi ngapi kwa kilo?",
+        "explanation": "Sentensi iwe na msamiati na kusudi linalofaa mazingira yaliyotajwa."
+      },
+      {
+        "label": "2(b)(i)(iii)",
+        "type": "written",
+        "answer": "Mambo vipi, rafiki?",
+        "explanation": "Sentensi iwe na msamiati na kusudi linalofaa mazingira yaliyotajwa."
+      },
+      {
+        "label": "2(b)(i)(iv)",
+        "type": "written",
+        "answer": "Tupalilie mahindi kabla magugu hayajamea.",
+        "explanation": "Sentensi iwe na msamiati na kusudi linalofaa mazingira yaliyotajwa."
+      },
+      {
+        "label": "2(b)(i)(v)",
+        "type": "written",
+        "answer": "Fungueni vitabu ukurasa wa kumi.",
+        "explanation": "Sentensi iwe na msamiati na kusudi linalofaa mazingira yaliyotajwa."
+      },
+      {
+        "label": "2(b)(ii)(i)",
+        "type": "written",
+        "answer": "Kienyeji.",
+        "explanation": "Sahihisha tahajia. Kulingalinga halina urekebishaji mmoja unaothibitishwa bila sentensi; jibu la mwisho ni tafsiri ya uwezekano."
+      },
+      {
+        "label": "2(b)(ii)(ii)",
+        "type": "written",
+        "answer": "Vitoto.",
+        "explanation": "Sahihisha tahajia. Kulingalinga halina urekebishaji mmoja unaothibitishwa bila sentensi; jibu la mwisho ni tafsiri ya uwezekano."
+      },
+      {
+        "label": "2(b)(ii)(iii)",
+        "type": "written",
+        "answer": "Haidhuru.",
+        "explanation": "Sahihisha tahajia. Kulingalinga halina urekebishaji mmoja unaothibitishwa bila sentensi; jibu la mwisho ni tafsiri ya uwezekano."
+      },
+      {
+        "label": "2(b)(ii)(iv)",
+        "type": "written",
+        "answer": "Baridi.",
+        "explanation": "Sahihisha tahajia. Kulingalinga halina urekebishaji mmoja unaothibitishwa bila sentensi; jibu la mwisho ni tafsiri ya uwezekano."
+      },
+      {
+        "label": "2(b)(ii)(v)",
+        "type": "written",
+        "answer": "Kulinganisha, kama kilichokusudiwa ni kulinganisha vitu.",
+        "explanation": "Sahihisha tahajia. Kulingalinga halina urekebishaji mmoja unaothibitishwa bila sentensi; jibu la mwisho ni tafsiri ya uwezekano."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "review",
+        "answer": "Mchoro hauonekani. Maeneo manne ya sarufi yanayotarajiwa ni sauti (fonolojia), maumbo (mofolojia), miundo (sintaksia) na maana (semantiki).",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "mcq",
+        "answer": "SI KWELI",
+        "explanation": "Sana ni kielezi, si kivumishi.",
+        "options": [
+          "KWELI",
+          "SI KWELI"
+        ]
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "mcq",
+        "answer": "SI KWELI",
+        "explanation": "Yule pamoja na mzee ni kivumishi kionyeshi.",
+        "options": [
+          "KWELI",
+          "SI KWELI"
+        ]
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "mcq",
+        "answer": "KWELI",
+        "explanation": "Wangapi hufafanua wageni kama kivumishi kiulizi.",
+        "options": [
+          "KWELI",
+          "SI KWELI"
+        ]
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "mcq",
+        "answer": "KWELI",
+        "explanation": "Si ni kitenzi kishirikishi.",
+        "options": [
+          "KWELI",
+          "SI KWELI"
+        ]
+      },
+      {
+        "label": "3(b)(v)",
+        "type": "mcq",
+        "answer": "SI KWELI",
+        "explanation": "Kwa ni kihusishi ikiwa ndilo neno lengwa, lakini mstari wa kuchagua hauko wazi.",
+        "options": [
+          "KWELI",
+          "SI KWELI"
+        ]
+      },
+      {
+        "label": "3(c)(i)",
+        "type": "written",
+        "answer": "Wakati uliopo.",
+        "explanation": "Tafsiri mofimu kwa mfano anasoma, amesoma, alisoma na atasoma."
+      },
+      {
+        "label": "3(c)(ii)",
+        "type": "written",
+        "answer": "Hali timilifu; tendo limekwisha fanyika.",
+        "explanation": "Tafsiri mofimu kwa mfano anasoma, amesoma, alisoma na atasoma."
+      },
+      {
+        "label": "3(c)(iii)",
+        "type": "written",
+        "answer": "Wakati uliopita.",
+        "explanation": "Tafsiri mofimu kwa mfano anasoma, amesoma, alisoma na atasoma."
+      },
+      {
+        "label": "3(c)(iv)",
+        "type": "written",
+        "answer": "Wakati ujao.",
+        "explanation": "Tafsiri mofimu kwa mfano anasoma, amesoma, alisoma na atasoma."
+      },
+      {
+        "label": "3(d)(i)",
+        "type": "written",
+        "answer": "Mkulima.",
+        "explanation": "Kila neno limeundwa kwa kiini kilichotolewa na viambishi vinavyofaa."
+      },
+      {
+        "label": "3(d)(ii)",
+        "type": "written",
+        "answer": "Upendo.",
+        "explanation": "Kila neno limeundwa kwa kiini kilichotolewa na viambishi vinavyofaa."
+      },
+      {
+        "label": "3(d)(iii)",
+        "type": "written",
+        "answer": "Mchezo.",
+        "explanation": "Kila neno limeundwa kwa kiini kilichotolewa na viambishi vinavyofaa."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "review",
+        "answer": "Barua yenye maelekezo ya mwaliko haipo katika nakala. Taarifa za tukio haziwezi kupatikana kwa anuani ya John Saganda pekee.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Semi: nahau na methali (D, H).",
+        "explanation": "Utanzu unaweza kuwa na vipera zaidi ya kimoja; jedwali linahitaji kuvipanga kwa aina."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Maigizo: vichekesho (I), na majigambo katika baadhi ya miainisho.",
+        "explanation": "Utanzu unaweza kuwa na vipera zaidi ya kimoja; jedwali linahitaji kuvipanga kwa aina."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Hadithi: visasili na tarihi (B, G).",
+        "explanation": "Utanzu unaweza kuwa na vipera zaidi ya kimoja; jedwali linahitaji kuvipanga kwa aina."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Ushairi: nyimbo na tenzi (A, E).",
+        "explanation": "Utanzu unaweza kuwa na vipera zaidi ya kimoja; jedwali linahitaji kuvipanga kwa aina."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Akilini.",
+        "explanation": "Hizi ni njia za kuhifadhi ujumbe au utendaji wa fasihi."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Maandishi.",
+        "explanation": "Hizi ni njia za kuhifadhi ujumbe au utendaji wa fasihi."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Rekodi ya sauti.",
+        "explanation": "Hizi ni njia za kuhifadhi ujumbe au utendaji wa fasihi."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "Filamu au video.",
+        "explanation": "Hizi ni njia za kuhifadhi ujumbe au utendaji wa fasihi."
+      },
+      {
+        "label": "5(c)(i)",
+        "type": "written",
+        "answer": "Simulizi huwasilishwa kwa mdomo na vitendo; andishi kwa maandishi.",
+        "explanation": "Tofauti zilinganishe kipengele kilekile; teknolojia inaweza kufanya tanzu hizi kuingiliana."
+      },
+      {
+        "label": "5(c)(ii)",
+        "type": "written",
+        "answer": "Simulizi huhusisha fanani na hadhira wakati wa utendaji; andishi linaweza kusomwa mbali na mwandishi.",
+        "explanation": "Tofauti zilinganishe kipengele kilekile; teknolojia inaweza kufanya tanzu hizi kuingiliana."
+      },
+      {
+        "label": "5(c)(iii)",
+        "type": "written",
+        "answer": "Simulizi linaweza kubadilika kwa hadhira; maandishi yaliyokamilishwa huwa thabiti zaidi.",
+        "explanation": "Tofauti zilinganishe kipengele kilekile; teknolojia inaweza kufanya tanzu hizi kuingiliana."
+      },
+      {
+        "label": "5(c)(iv)",
+        "type": "written",
+        "answer": "Simulizi linaweza kutumia ishara na sauti; andishi hutumia maelezo kuziwakilisha.",
+        "explanation": "Tofauti zilinganishe kipengele kilekile; teknolojia inaweza kufanya tanzu hizi kuingiliana."
+      },
+      {
+        "label": "5(c)(v)",
+        "type": "written",
+        "answer": "Simulizi hurithishwa pia kwa kukumbuka; andishi huhifadhiwa katika nakala.",
+        "explanation": "Tofauti zilinganishe kipengele kilekile; teknolojia inaweza kufanya tanzu hizi kuingiliana."
+      }
+    ]
+  }
+}

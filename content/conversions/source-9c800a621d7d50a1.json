@@ -1,0 +1,393 @@
+{
+  "sourceId": "source-9c800a621d7d50a1",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "b",
+        "explanation": "The three conventional natural-science subjects are Physics, Chemistry and Biology."
+      },
+      {
+        "label": "1(ii)",
+        "type": "review",
+        "answer": "A hypothesis supported by consistent evidence may contribute to a theory or a law. One contradicted by evidence must be revised or rejected.",
+        "explanation": "The source combines support and non-support into one question, so no one option applies to both situations."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "a",
+        "explanation": "Parallax arises when the eye is not aligned with the scale."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "b",
+        "explanation": "Density=85/100=0.85 g/cm³, below water’s."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "b",
+        "explanation": "Relative density 11.3 means 11.3 g/cm³ using water at 1 g/cm³."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "a",
+        "explanation": "Capillary height is inversely proportional to tube radius."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "c",
+        "explanation": "A pascal is kg/(m·s²)."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "c",
+        "explanation": "Neglecting air resistance, objects at the same location have the same gravitational acceleration."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "b",
+        "explanation": "Work and energy are both measured in joules."
+      },
+      {
+        "label": "1(x)",
+        "type": "review",
+        "answer": "A negative zero error: the vernier zero is to the left of the main-scale zero.",
+        "explanation": "The hand-drawn vernier does not provide unambiguous line coincidence or a precise scale; a unique value of −0.3 or −0.7 mm cannot be read reliably from this copy."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": {
+          "i": "C",
+          "ii": "A",
+          "iii": "D",
+          "iv": "E",
+          "v": "B"
+        },
+        "explanation": "Stretching increases length, attraction draws materials together, friction opposes sliding, viscosity opposes fluid motion and tension acts along a taut string."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Yes, each crane does 40,000 J of work on the load.",
+        "explanation": "Both lift the same 200 kg mass through 20 m, so mgh=200×10×20."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Crane A: approximately 2,667 W; crane B: 2,000 W, so A is more powerful.",
+        "explanation": "The same work divided by the shorter 15 s interval gives a larger rate."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Energy cannot be created or destroyed; it can be transferred or transformed.",
+        "explanation": "The total energy of an isolated system stays constant."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "v=u+at.",
+        "explanation": "Uniform acceleration changes velocity by at."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "s=ut+½at².",
+        "explanation": "The area under a straight velocity–time graph gives displacement."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "v²=u²+2as.",
+        "explanation": "Eliminate time between the first two equations."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Speed is distance per time and is scalar; velocity is displacement per time with direction.",
+        "explanation": "A round trip may have positive average speed and zero average velocity."
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "62.5 J.",
+        "explanation": "Kinetic energy=½×5×5²."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "250 J.",
+        "explanation": "Kinetic energy=½×5×10²; doubling speed quadruples it."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Medicine.",
+        "explanation": "Imaging instruments use waves, radiation, magnets and lenses."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Transport.",
+        "explanation": "Friction, buoyancy, aerodynamics and engines explain vehicle operation."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Communication.",
+        "explanation": "Electronic signals transmit information using electromagnetic waves."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Agriculture.",
+        "explanation": "Pumps, irrigation machinery and weather instruments apply mechanics and measurements."
+      },
+      {
+        "label": "5(a)(v)",
+        "type": "written",
+        "answer": "Construction.",
+        "explanation": "Forces, equilibrium and material properties guide safe building design."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "16 cm³.",
+        "explanation": "Immersed volume is 81−65."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "4 g/cm³.",
+        "explanation": "Divide 64 g by 16 cm³."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Gravitational field strength.",
+        "explanation": "It is gravitational force per mass, measured in N/kg."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Acceleration due to gravity.",
+        "explanation": "For freely falling bodies it is approximately 10 m/s² near Earth’s surface, ignoring air resistance."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "A net force can speed up, slow down or change the direction of motion; forces can also deform an object.",
+        "explanation": "These effects concern changes in velocity or shape. Deformation can also occur with balanced external forces."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "0.325.",
+        "explanation": "On a horizontal surface N=mg=80 N. μ=26/80."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Density is mass per volume; relative density is the ratio of sample density to reference density.",
+        "explanation": "Density has units, relative density is dimensionless."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "1,000 kg/m³.",
+        "explanation": "Water mass=40−15=25 g and volume=25 cm³, giving 1 g/cm³."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "800 kg/m³.",
+        "explanation": "Liquid mass=35−15=20 g. Divide by 25 cm³ to obtain 0.8 g/cm³."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "0.8.",
+        "explanation": "The same bottle volume gives the mass ratio 20/25."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Actual weight is the gravitational force mg on the object.",
+        "explanation": "It is distinct from the force registered by a support or balance."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Apparent weight is the supporting force or force reading in the specified condition.",
+        "explanation": "Buoyancy reduces a submerged object's balance reading."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "Apparent loss of weight is actual weight minus apparent weight.",
+        "explanation": "For an object immersed at rest this equals the upthrust."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "A body immersed in fluid experiences upthrust equal to the weight of fluid displaced.",
+        "explanation": "This is Archimedes’ principle."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "16/13 ≈ 1.23.",
+        "explanation": "Upthrust in Q is 8.6−5.4=3.2 N and in water 8.6−6.0=2.6 N. Their ratio gives the liquid's relative density for equal immersed volume."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Plimsoll lines indicate safe loading depths in waters of different densities and conditions.",
+        "explanation": "They help ensure sufficient freeboard and reserve buoyancy."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Within its proportional limit, extension is proportional to applied force: F=kx.",
+        "explanation": "The constant k is the spring stiffness."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "25 cm.",
+        "explanation": "Weight=0.5×10=5 N; x=F/k=5/20=0.25 m."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "700 g, if 35 cm means the extension.",
+        "explanation": "F=20×0.35=7 N; using 0.01 N/g gives 700 g. If 35 cm is total length, natural length is also needed."
+      },
+      {
+        "label": "9(a)-mercury",
+        "type": "written",
+        "answer": "The mercury level is depressed in a narrow glass tube and its meniscus is convex.",
+        "explanation": "Mercury does not wet clean glass; its cohesive attraction exceeds adhesion to glass."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Pressure is perpendicular force per unit area; SI unit pascal (Pa).",
+        "explanation": "P=F/A and 1 Pa=1 N/m²."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "Water pressure rises with depth, so the bottom must withstand greater pressure.",
+        "explanation": "Hydrostatic pressure is ρgh."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "205.4 Pa.",
+        "explanation": "The top-to-bottom depth difference is 0.02 m, so ΔP=1027×10×0.02."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "0.08216 N upwards.",
+        "explanation": "Multiply the pressure difference by face area 0.02²=0.0004 m²."
+      },
+      {
+        "label": "10(b)(iii)",
+        "type": "written",
+        "answer": "0.08216 N for the displaced liquid of stated density.",
+        "explanation": "Weight=ρgV=1027×10×0.02³. If “water” means fresh water at 1000 kg/m³ instead, its weight would be 0.080 N."
+      }
+    ]
+  }
+}

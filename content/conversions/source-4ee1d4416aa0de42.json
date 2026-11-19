@@ -1,0 +1,375 @@
+{
+  "sourceId": "source-4ee1d4416aa0de42",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Dense forests are supported by the warm, wet equatorial climate."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A compass aligns with Earth’s magnetic field."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Large commercial farms commonly use advanced technology."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Weather is short-term atmospheric conditions."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Revolution and axial tilt together produce seasons."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Transhumance is regular seasonal livestock movement."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Southern summer solstice is around 22 December."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A valley is an elongated low area through higher land."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Sea breeze blows inland from the sea."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Local solar time advances eastward by four minutes per degree."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "C",
+          "ii": "D",
+          "iii": "G",
+          "iv": "E",
+          "v": "A"
+        },
+        "explanation": "Moons are satellites; incoming bodies cause meteors; Earth’s moon is the Moon; Sun is the solar-system centre; stars emit their own light."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Rain gauges collect and measure rain."
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "The core is innermost; crust is outermost."
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Fault displacement forms block mountains; denudation forms residual hills."
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "The Moon moves in orbit around Earth."
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "The water cycle circulates water between surface, atmosphere and subsurface."
+      },
+      {
+        "label": "3(vi)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Winds are pressure-driven from high to low pressure."
+      },
+      {
+        "label": "3(vii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Tourism may commercialize or disrupt local culture."
+      },
+      {
+        "label": "3(viii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "The windward side faces incoming wind."
+      },
+      {
+        "label": "3(ix)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Skills, technology, inputs and markets matter as well as capital."
+      },
+      {
+        "label": "3(x)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Scale relates mapped and actual distances."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Fish, salt, water supply, hydroelectric energy and recreation/tourism.",
+        "explanation": "Water bodies provide products and opportunities for economic activity."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Protect catchments, control pollution, repair leaks, reuse water safely and educate users about efficient use.",
+        "explanation": "Conservation maintains water quality and quantity."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "Road vehicles, trains, pipelines, animal transport and human porterage/bicycles.",
+        "explanation": "These carry people or goods over land."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a) fold",
+        "type": "written",
+        "answer": "Compression folds rock strata; examples include Himalayas and Atlas.",
+        "explanation": "Anticlines and synclines arise when layers buckle."
+      },
+      {
+        "label": "5(a) block",
+        "type": "written",
+        "answer": "Fault movement leaves a block raised relative to adjacent blocks; Rwenzori is an example.",
+        "explanation": "Relative uplift creates the high land."
+      },
+      {
+        "label": "5(a) volcanic",
+        "type": "written",
+        "answer": "Repeated lava and ash accumulation builds a mountain, such as Kilimanjaro.",
+        "explanation": "Material emerges from a volcanic vent."
+      },
+      {
+        "label": "5(a) residual",
+        "type": "written",
+        "answer": "Erosion removes softer rocks and leaves resistant high remnants, for example Aravalli remnants.",
+        "explanation": "Differential erosion produces the remaining relief."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Tension creates parallel normal faults and a central block subsides relative to its sides.",
+        "explanation": "The lowered block forms a rift valley or graben."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Tanganyika, Malawi/Nyasa, Turkana, Albert and Edward.",
+        "explanation": "These occupy parts of East Africa’s rift system."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "A drawn straight bar; equal main divisions; numerical labels with ground units; and finer subdivisions near zero.",
+        "explanation": "The scale allows mapped distances to be compared with ground distances and resizes with the map."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Title identifies the map; key explains symbols; scale converts distance; north indicator gives orientation; grid or coordinates locate features.",
+        "explanation": "Each element helps read the map accurately."
+      },
+      {
+        "label": "6(c)(i)",
+        "type": "written",
+        "answer": "Draw closed contours with short inward hachures to indicate a depression.",
+        "explanation": "The hachures point toward lower ground."
+      },
+      {
+        "label": "6(c)(ii)",
+        "type": "written",
+        "answer": "Draw the conventional swamp/marsh vegetation symbol with intermittent or seasonal-water styling and label it seasonal swamp.",
+        "explanation": "The key used on the particular map determines the exact conventional styling."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Heavy industries usually require more capital, bulkier raw materials, larger equipment, more power and stronger transport links; light industries tend to make smaller consumer goods with less heavy infrastructure. Examples are steelmaking versus clothing manufacture.",
+        "explanation": "Compare the same features for both types and recognize that size and technology can vary."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Domestic power and fuel, jobs, tax/royalty revenue, local industrial inputs, foreign investment and reduced fuel imports.",
+        "explanation": "Benefits depend on responsible extraction, revenue management and useful market access."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Foreign exchange, employment, public revenue, demand for local goods/services, infrastructure and conservation funding.",
+        "explanation": "Explain how visitor spending produces each benefit."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Drought or floods, pests, high input costs, limited finance, weak roads/storage and unstable crop prices.",
+        "explanation": "These limit output, quality or the price received by growers."
+      }
+    ]
+  }
+}

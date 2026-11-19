@@ -1,0 +1,475 @@
+{
+  "sourceId": "source-9cffc31c58fd006e",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Settling particles require redispersion.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "CO contains bonded carbon and oxygen.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Fainting is a temporary loss of consciousness.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Spirit is the intended readily ignitable liquid.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Ag comes from argentum.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Fabrics are not primarily agricultural chemicals.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "review",
+        "answer": "Cool the burn with cool running water for about 20 minutes and seek help. Do not use ice, petroleum jelly or the listed dyes as immediate treatment.",
+        "explanation": "None is appropriate immediate burn first aid; cool running water is used.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Citric acid occurs in citrus fruits.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Group I elements usually form one bond or lose one electron.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A proton has relative mass about one and charge +1.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Complete hydrocarbon combustion gives carbon dioxide, water and energy.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Aim a suitable extinguisher at the base, following training.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "A non-luminous flame receives plentiful air.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The listed materials are fuels.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "review",
+        "answer": "Use a locally approved extinguisher rated for the material and electrical risk; isolate electricity if safe. Halon is environmentally restricted and foam is unsuitable for live electrical equipment.",
+        "explanation": "No listed extinguisher is an appropriate universally recommended modern answer for both ordinary solids and electrical faults.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Phosphorus-32 can trace phosphate uptake.",
+        "explanation": "A radioactive tracer follows a substance through a system under licensed controls."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Cobalt-60 radiation can inspect material or equipment.",
+        "explanation": "Industrial radiography detects internal defects."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Technetium-99m is used in diagnostic imaging.",
+        "explanation": "Its emissions can be detected to show organ function."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Uranium-235 supports nuclear fission power.",
+        "explanation": "Controlled fission releases heat used to generate electricity."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Carbon-14 dating estimates the age of once-living material.",
+        "explanation": "Its known radioactive decay relates remaining activity to elapsed time."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Wear eye protection, inspect apparatus, follow chemical labels and work under supervision.",
+        "explanation": "Preventing exposure and equipment failure reduces injury."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Safety measures prevent poisoning, burns, cuts and fires.",
+        "explanation": "Laboratory hazards can affect the user and nearby people."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "Call emergency help, keep the person lying flat if safe and injuries allow, maintain warmth and monitor breathing; use the recovery position if unconscious but breathing.",
+        "explanation": "Do not give food or drink, and avoid moving a person with suspected spine injury except for immediate danger."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Carbon dioxide.",
+        "explanation": "The intended diagram has carbon bonded to two oxygens."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "CO2.",
+        "explanation": "There is one carbon for two oxygen atoms."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Covalent bonding, with two C=O double bonds.",
+        "explanation": "Each double bond shares two electron pairs."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Water and methane.",
+        "explanation": "Their atoms are joined by shared electrons."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "review",
+        "answer": "Sulfur is −2 in ordinary metal sulfides; in the printed PbS2 interpreted as Pb(IV) sulfide it gives lead +4.",
+        "explanation": "The formula and the underlined element must be read exactly as printed."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Copper is +2 in CuSO4.",
+        "explanation": "The sulfate ion carries −2 overall."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "HCO3 requires a charge to identify bicarbonate: carbon is +4 in HCO3⁻, but +5 if the printed uncharged formula is treated formally.",
+        "explanation": "The source omits the negative charge, so the distinction must be stated."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "Nitrogen is −1 in NH2OH.",
+        "explanation": "With three H at +1 and O at −2, neutrality gives N = −1."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Draw protons and neutrons in a central nucleus with electrons in shells around it.",
+        "explanation": "The nucleus is positive; electrons are negative."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "13 protons, 14 neutrons, 13 electrons.",
+        "explanation": "27 − 13 gives the neutron count of neutral aluminium."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "56 protons, 81 neutrons, 56 electrons.",
+        "explanation": "137 − 56 = 81."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "38 protons, 52 neutrons, 38 electrons.",
+        "explanation": "90 − 38 = 52 for strontium-90."
+      },
+      {
+        "label": "6(b)(iv)",
+        "type": "written",
+        "answer": "92 protons, 143 neutrons, 92 electrons.",
+        "explanation": "235 − 92 = 143 for uranium-235."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Aluminium is preferable: it is malleable, conducts heat well and is less brittle.",
+        "explanation": "A brittle material can fracture during use."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Thermal conductivity makes metals useful for cooking equipment.",
+        "explanation": "Energy passes readily through the metal."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Electrical conductivity makes suitable metals useful in wires.",
+        "explanation": "Mobile electrons carry current."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "Malleability and ductility allow sheets and wires.",
+        "explanation": "Layers of metal atoms can slide without destroying metallic bonding."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Observe and identify a problem, collect information, formulate a hypothesis, plan and perform a controlled test, analyse results, draw and communicate a conclusion.",
+        "explanation": "A conclusion must follow the evidence and may require revision."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Products used to clean or maintain a home.",
+        "explanation": "Examples include detergents and surface cleaners."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Use of organisms or biological processes to make useful products.",
+        "explanation": "Fermentation is an example."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "Chemistry applied to agriculture.",
+        "explanation": "It includes fertilisers, soil analysis and crop-protection chemistry."
+      },
+      {
+        "label": "8(b)(iv)",
+        "type": "written",
+        "answer": "Scientists who study the chemistry of Earth materials.",
+        "explanation": "They analyse rocks, minerals, soils and waters."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(A)",
+        "type": "written",
+        "answer": "Melting",
+        "explanation": "Solid becomes liquid."
+      },
+      {
+        "label": "9(a)(B)",
+        "type": "written",
+        "answer": "Vaporisation",
+        "explanation": "Liquid becomes gas."
+      },
+      {
+        "label": "9(a)(C)",
+        "type": "written",
+        "answer": "Ionisation",
+        "explanation": "Gas becomes plasma."
+      },
+      {
+        "label": "9(a)(D)",
+        "type": "written",
+        "answer": "Recombination or deionisation",
+        "explanation": "Plasma returns to gas."
+      },
+      {
+        "label": "9(a)(E)",
+        "type": "written",
+        "answer": "Condensation",
+        "explanation": "Gas becomes liquid."
+      },
+      {
+        "label": "9(a)(F)",
+        "type": "written",
+        "answer": "Freezing",
+        "explanation": "Liquid becomes solid."
+      },
+      {
+        "label": "9(a)(G)",
+        "type": "written",
+        "answer": "Deposition",
+        "explanation": "Gas changes directly to solid."
+      },
+      {
+        "label": "9(a)(H)",
+        "type": "written",
+        "answer": "Sublimation",
+        "explanation": "Solid changes directly to gas."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Distillation evaporates water and condenses its vapour, leaving many non-volatile impurities behind.",
+        "explanation": "Changing state separates substances according to volatility; it does not guarantee removal of every volatile contaminant."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Do not touch the victim while connected to electricity. Raise the alarm, switch off power if safe, summon emergency help and have a trained person check breathing and give CPR if required once the scene is safe. Seek medical assessment even after apparent recovery.",
+        "explanation": "Isolating the electrical supply prevents a second casualty; electrical injury can affect the heart and cause internal burns."
+      }
+    ]
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "sourceId": "source-13317c795549c9bb",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Tarbia ina mishororo minne katika ubeti.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Mafunzo, mtazamo na msimamo ni vipengele vya maudhui; msisitizo huhusu namna ya kuwasilisha.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Lakini huunganisha tungo mbili zenye maana inayokinzana.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Katika ufundishaji wa ufupisho mara nyingi hulengwa takriban theluthi; maagizo mahususi ya idadi ya maneno ndiyo yafuatwe.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Pikwa ina kiambishi -w- cha kutendwa; pikiwa huonyesha kutendewa.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Seti inafuata vipashio kutoka sauti hadi sentensi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Bata, nyumba, uvivu na Kigoma yote ni nomino.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Tashbiha hulinganisha kwa kama, mithili ya au kiunganishi kingine.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Uandishi unahitaji kufahamu mada vizuri.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Ishara huweza kuambatana moja kwa moja na mazungumzo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Mzizi ni sehemu ya msingi; mofu ni umbo la mofimu; mofimu ni kipashio cha maana; mofu tegemezi haiwezi kujitegemea; kiambishi huongezwa kwenye mzizi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Mzizi ni sehemu ya msingi; mofu ni umbo la mofimu; mofimu ni kipashio cha maana; mofu tegemezi haiwezi kujitegemea; kiambishi huongezwa kwenye mzizi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Mzizi ni sehemu ya msingi; mofu ni umbo la mofimu; mofimu ni kipashio cha maana; mofu tegemezi haiwezi kujitegemea; kiambishi huongezwa kwenye mzizi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Mzizi ni sehemu ya msingi; mofu ni umbo la mofimu; mofimu ni kipashio cha maana; mofu tegemezi haiwezi kujitegemea; kiambishi huongezwa kwenye mzizi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Mzizi ni sehemu ya msingi; mofu ni umbo la mofimu; mofimu ni kipashio cha maana; mofu tegemezi haiwezi kujitegemea; kiambishi huongezwa kwenye mzizi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Faida na Utunzaji wa Miti",
+        "explanation": "Kichwa kiwe kifupi na kibebe ujumbe wa kifungu."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Idadi ya watu imeongezeka na wengi wanategemea kuni na mkaa kwa kukosa nishati mbadala inayopatikana kwa urahisi.",
+        "explanation": "Ongezeko la matumizi huweka shinikizo kwa misitu."
+      },
+      {
+        "label": "3(a)(iii)(i)",
+        "type": "written",
+        "answer": "Hutoa mbao za fanicha.",
+        "explanation": "Taja matumizi manne; madai ya kutumia harufu ya mimea kujikinga na nyoka yasichukuliwe kuwa kinga ya kuaminika."
+      },
+      {
+        "label": "3(a)(iii)(ii)",
+        "type": "written",
+        "answer": "Hutoa matunda.",
+        "explanation": "Taja matumizi manne; madai ya kutumia harufu ya mimea kujikinga na nyoka yasichukuliwe kuwa kinga ya kuaminika."
+      },
+      {
+        "label": "3(a)(iii)(iii)",
+        "type": "written",
+        "answer": "Huchangia hewa ya oksijeni kupitia usanisinuru.",
+        "explanation": "Taja matumizi manne; madai ya kutumia harufu ya mimea kujikinga na nyoka yasichukuliwe kuwa kinga ya kuaminika."
+      },
+      {
+        "label": "3(a)(iii)(iv)",
+        "type": "written",
+        "answer": "Hutoa malighafi za dawa na bidhaa nyingine.",
+        "explanation": "Taja matumizi manne; madai ya kutumia harufu ya mimea kujikinga na nyoka yasichukuliwe kuwa kinga ya kuaminika."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Huelimisha watu kuhusu mazingira, huhamasisha kupanda miti na kusaidia kuwajibika katika kuhifadhi misitu.",
+        "explanation": "Kampeni hubadili maarifa na matendo ili kupunguza ukataji usio endelevu."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Miti husaidia maisha kwa kutoa matunda, hewa, malighafi na vifaa vya matumizi. Kuongezeka kwa watu na kutopatikana kwa nishati mbadala kumeongeza matumizi ya kuni na mkaa. Ukataji usiodhibitiwa huleta uharibifu wa mazingira, ukame na mmomonyoko wa udongo. Serikali inatumia kampeni mbalimbali kuhamasisha upandaji na uhifadhi. Vyombo vya habari vinasaidia kutoa elimu hii. Kila mtu anapaswa kutunza na kulinda misitu kwa manufaa ya sasa na baadaye.",
+        "explanation": "Mfano una takriban maneno 60–70; hakiki idadi ya maneno kwa maagizo ya swali."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "A- katika atakuja huonyesha nafsi ya tatu na umoja wa mtenda.",
+        "explanation": "Dhima mbili zinatoka kwa nafsi, idadi au upatanisho wa kisarufi. Kama mkazo wa nakala unaonekana tofauti, linganisha kiambishi kilichokolezwa badala ya kubadilisha neno."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "U- katika umeanguka huonyesha upatanisho wa ngeli ya ukuta na umoja.",
+        "explanation": "Dhima mbili zinatoka kwa nafsi, idadi au upatanisho wa kisarufi. Kama mkazo wa nakala unaonekana tofauti, linganisha kiambishi kilichokolezwa badala ya kubadilisha neno."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "-m- katika alimfundisha huonyesha yambwa nafsi ya tatu umoja.",
+        "explanation": "Dhima mbili zinatoka kwa nafsi, idadi au upatanisho wa kisarufi. Kama mkazo wa nakala unaonekana tofauti, linganisha kiambishi kilichokolezwa badala ya kubadilisha neno."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "-ku- katika ninakupenda huonyesha yambwa nafsi ya pili umoja.",
+        "explanation": "Dhima mbili zinatoka kwa nafsi, idadi au upatanisho wa kisarufi. Kama mkazo wa nakala unaonekana tofauti, linganisha kiambishi kilichokolezwa badala ya kubadilisha neno."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Si- huonyesha nafsi ya kwanza umoja na ukanushi.",
+        "explanation": "Dhima mbili zinatoka kwa nafsi, idadi au upatanisho wa kisarufi. Kama mkazo wa nakala unaonekana tofauti, linganisha kiambishi kilichokolezwa badala ya kubadilisha neno."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Lima.",
+        "explanation": "Shina la kitenzi linabaki baada ya kuondoa viambishi vya nafsi, wakati na upatanisho; mzizi hauna irabu tamati lakini shina hili lina -a."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Piga.",
+        "explanation": "Shina la kitenzi linabaki baada ya kuondoa viambishi vya nafsi, wakati na upatanisho; mzizi hauna irabu tamati lakini shina hili lina -a."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Cheza.",
+        "explanation": "Shina la kitenzi linabaki baada ya kuondoa viambishi vya nafsi, wakati na upatanisho; mzizi hauna irabu tamati lakini shina hili lina -a."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Anguka.",
+        "explanation": "Shina la kitenzi linabaki baada ya kuondoa viambishi vya nafsi, wakati na upatanisho; mzizi hauna irabu tamati lakini shina hili lina -a."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Chapa.",
+        "explanation": "Shina la kitenzi linabaki baada ya kuondoa viambishi vya nafsi, wakati na upatanisho; mzizi hauna irabu tamati lakini shina hili lina -a."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Lugha ni mfumo wenye kanuni.",
+        "explanation": "Sifa zieleze asili na utendaji wa lugha, si sifa za msemaji mmoja."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Alama zake ni za nasibu.",
+        "explanation": "Sifa zieleze asili na utendaji wa lugha, si sifa za msemaji mmoja."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Hukubaliwa na jamii.",
+        "explanation": "Sifa zieleze asili na utendaji wa lugha, si sifa za msemaji mmoja."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Hubadilika kadiri matumizi yanavyobadilika.",
+        "explanation": "Sifa zieleze asili na utendaji wa lugha, si sifa za msemaji mmoja."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Huwezesha ubunifu wa tungo mpya.",
+        "explanation": "Sifa zieleze asili na utendaji wa lugha, si sifa za msemaji mmoja."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Husaidia kuchagua maneno yanayofaa shughuli.",
+        "explanation": "Rejesta ni uteuzi wa lugha unaolingana na mazingira, mada, wahusika na kusudi."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Huonyesha mahusiano ya washiriki.",
+        "explanation": "Rejesta ni uteuzi wa lugha unaolingana na mazingira, mada, wahusika na kusudi."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Hurahisisha uelewa katika taaluma.",
+        "explanation": "Rejesta ni uteuzi wa lugha unaolingana na mazingira, mada, wahusika na kusudi."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Hutofautisha rasmi na yasiyo rasmi.",
+        "explanation": "Rejesta ni uteuzi wa lugha unaolingana na mazingira, mada, wahusika na kusudi."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Husaidia kufikisha kusudi kwa heshima na usahihi.",
+        "explanation": "Rejesta ni uteuzi wa lugha unaolingana na mazingira, mada, wahusika na kusudi."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Tarbia: kila ubeti una mishororo minne.",
+        "explanation": "Hesabu mistari ya kila ubeti katika shairi."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Ni shairi lenye mtindo wa arudhi na matumizi ya vina; mwisho wa kila ubeti unatofautiana hivyo kuna kimalizio badala ya kibwagizo kimoja kisichobadilika.",
+        "explanation": "Taja muundo wa mistari na marudio ya sauti kwa mifano ya shairi."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Njaa na ukosefu wa mahitaji vinavyowasukuma watoto kuomba msaada.",
+        "explanation": "Ubeti wa pili unataja jalala, kituo na njaa tumboni."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Jamii iwajibike kuwalinda na kuwasaidia watoto wanaoishi katika mazingira magumu.",
+        "explanation": "Ubeti wa mwisho unauliza taifa linalojengwa kwa kuwaacha watoto."
+      },
+      {
+        "label": "8(d)",
+        "type": "written",
+        "answer": "Usipoziba ufa utajenga ukuta.",
+        "explanation": "Methali inaonya kwamba tatizo lisiposhughulikiwa mapema linaweza kuwa kubwa."
+      },
+      {
+        "label": "8(e)",
+        "type": "written",
+        "answer": "Watoto wa Mitaani",
+        "explanation": "Kichwa kina maneno matatu na kinataja mada kuu."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Simulizi huwasilishwa kwa mdomo na vitendo; andishi kwa maandishi.",
+        "explanation": "Linganisha kipengele kilekile; rekodi na usomaji wa hadharani huweza kuunganisha sifa hizi."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Simulizi huhusisha fanani na hadhira wakati wa utendaji; andishi linaweza kusomwa bila mwandishi.",
+        "explanation": "Linganisha kipengele kilekile; rekodi na usomaji wa hadharani huweza kuunganisha sifa hizi."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Simulizi huweza kubadilika kwa hadhira; nakala andishi hubaki thabiti zaidi.",
+        "explanation": "Linganisha kipengele kilekile; rekodi na usomaji wa hadharani huweza kuunganisha sifa hizi."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Simulizi hutumia kiimbo na ishara; andishi hutumia maelezo kuziwakilisha.",
+        "explanation": "Linganisha kipengele kilekile; rekodi na usomaji wa hadharani huweza kuunganisha sifa hizi."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Simulizi hurithishwa pia kwa kumbukumbu; andishi huhifadhiwa katika nakala.",
+        "explanation": "Linganisha kipengele kilekile; rekodi na usomaji wa hadharani huweza kuunganisha sifa hizi."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "HARUNA MASHAKA NIMEIBIWA KARO NITUMIE NYINGINE NEEMA MASHAKA",
+        "explanation": "Ujumbe fupi ubebe mpokeaji, kilichotokea, ombi na mtumaji bila kuzidi maneno kumi."
+      }
+    ]
+  }
+}

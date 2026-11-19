@@ -1,0 +1,415 @@
+{
+  "sourceId": "source-7a52a8429f24dd9e",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Recording transactions is bookkeeping rather than a complete business activity.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Exchange is buying and selling.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Food is a basic need.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Machines last longer than perishable food.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Opportunity cost is the next best alternative sacrificed.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A market is a setting for exchange; the other entries name study fields.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "An entrepreneur starts a venture and bears risk.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "B",
+          "C"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "review",
+        "answer": "All listed qualities can support entrepreneurship.",
+        "explanation": "The unchanged choices do not provide a unique correct exception."
+      },
+      {
+        "label": "1(ix)",
+        "type": "review",
+        "answer": "None of the printed choices names a distinct type of entrepreneurship.",
+        "explanation": "Examples of types include small-business, scalable start-up and social entrepreneurship."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Proactiveness anticipates future situations.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Free goods are obtained without a price.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Consumer goods satisfy consumers directly.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Perishable goods spoil quickly.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Merit goods create social benefits.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Producer goods help make other goods.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Needs are essentials for survival; wants improve comfort beyond essentials.",
+        "explanation": "Food is a need, while jewellery is usually a want."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Goods are tangible products; services are activities supplied to others.",
+        "explanation": "A book can be held; teaching is a service."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Scarcity is limited resources relative to wants; opportunity cost is the best alternative forgone.",
+        "explanation": "Scarcity forces choice and creates opportunity costs."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Production creates goods or services; consumption uses them to satisfy wants.",
+        "explanation": "A bakery produces bread and a household consumes it."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "The printed terms are identical, so they have no difference.",
+        "explanation": "The source repeats Entrepreneurship. If intrapreneurship was intended, it means entrepreneurial activity within an existing organisation."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Economics studies how scarce resources are allocated.",
+        "explanation": "Choices affect production and consumption."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Accounting records and reports financial transactions.",
+        "explanation": "Records support decisions."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Business management plans, organises, leads and controls operations.",
+        "explanation": "These activities coordinate resources."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Entrepreneurship identifies opportunities and creates ventures.",
+        "explanation": "Innovation and risk taking help meet needs."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Commerce examines trade and services that support trade.",
+        "explanation": "Transport, banking and insurance facilitate exchange."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Production: a farmer grows maize.",
+        "explanation": "Creates useful output."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Distribution: a wholesaler moves maize to shops.",
+        "explanation": "Brings output to buyers."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Exchange: a customer pays for maize.",
+        "explanation": "Transfers goods for value."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Consumption: a family cooks and eats maize.",
+        "explanation": "Uses goods to meet needs."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "It develops budgeting and financial decisions.",
+        "explanation": "Learners compare costs and income."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "It prepares people for self-employment.",
+        "explanation": "They can identify viable ventures."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "It teaches management of resources.",
+        "explanation": "Planning reduces waste."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "It supports informed consumer choices.",
+        "explanation": "Consumers assess quality and value."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "It encourages ethical business behaviour.",
+        "explanation": "Honesty protects customers and trust."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Autonomy means making independent decisions and accepting responsibility.",
+        "explanation": "Entrepreneurs choose how to organise their ventures."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Curiosity means wanting to learn and investigate opportunities.",
+        "explanation": "Questions and observation reveal unmet needs."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Optimism means expecting workable opportunities while assessing risks realistically.",
+        "explanation": "Confidence supports persistence."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Passion is strong interest and commitment to the venture.",
+        "explanation": "It sustains effort during difficulties."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Vision is a clear idea of the future direction of the business.",
+        "explanation": "It guides long-term decisions."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "They explain why ventures emerge.",
+        "explanation": "Economic and social conditions influence entry."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "They help identify entrepreneurial skills.",
+        "explanation": "Training can target motivation or innovation."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "They guide policy and support programmes.",
+        "explanation": "Different barriers call for different support."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "They help compare and evaluate business behaviour.",
+        "explanation": "A theory gives a framework for evidence."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Planning: set goals and budgets.",
+        "explanation": "Defines targets and resources."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Organising: assign tasks and equipment.",
+        "explanation": "Coordinates inputs."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Leading: communicate and motivate workers.",
+        "explanation": "People understand their roles."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Controlling: compare results with plans and correct problems.",
+        "explanation": "Feedback improves performance."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Entrepreneurship creates employment, introduces new products, generates income, broadens tax revenue, uses local resources productively and increases competition that can improve quality. For example, a food-processing enterprise buys farm produce, employs workers and sells a longer-lasting product.",
+        "explanation": "Explain six distinct benefits and connect each to how a venture operates. A benefit should have a mechanism or example."
+      }
+    ]
+  }
+}

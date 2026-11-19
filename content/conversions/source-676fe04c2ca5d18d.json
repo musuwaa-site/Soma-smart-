@@ -1,0 +1,376 @@
+{
+  "sourceId": "source-676fe04c2ca5d18d",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Isotopes have the same proton number and therefore the same periodic-table position.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Air is a physical mixture; chemical decomposition does not separate it into its original components.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A properly aerated Bunsen burner produces a blue flame.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Vapour becomes liquid by condensation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Many substances dissolve in water.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Q²⁺ has lost two electrons: 12 − 2 = 10.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A separate supply gas tap is the intended answer, although some burners incorporate a valve.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A glass rod stirs liquids.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Purification is the general treatment process.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "An O2 molecule contains two oxygen nuclei, each with eight protons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "review",
+        "answer": "Hydrogen has one proton, which is missing from the listed responses.",
+        "explanation": "Atomic number one means one proton.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Helium has two protons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Carbon has six protons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Fluorine has nine protons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Beryllium has four protons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3",
+        "type": "written",
+        "answer": "Draw a luminous flame with a dark inner unburnt-gas zone, yellow luminous middle zone and outer complete-combustion zone; mark the blue base.",
+        "explanation": "Yellow light comes from hot soot produced by limited air."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Matter consists of atoms; atoms combine in simple whole-number ratios; chemical reactions rearrange atoms without creating or destroying them.",
+        "explanation": "These are historical Dalton postulates; modern science recognises subatomic structure and isotopes."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Write X with lower atomic number Z and upper mass number Z + A.",
+        "explanation": "The question defines A as neutron number, so mass number equals protons plus neutrons."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "35.5.",
+        "explanation": "0.75 × 35 + 0.25 × 37 = 35.5."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "A: hydrogen, period 1 group I; B: neon, period 2 group 18; C: silicon, period 3 group IV; D: sulfur, period 3 group VI; E: calcium, period 4 group II.",
+        "explanation": "Proton number identifies the element."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "D, sulfur, among these five elements.",
+        "explanation": "It has the strongest attraction for bonding electrons among the listed choices."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "C, silicon.",
+        "explanation": "Its valency is four."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "B, neon.",
+        "explanation": "Neon is a noble gas."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "E, calcium.",
+        "explanation": "It belongs to group II."
+      },
+      {
+        "label": "5(b)(v)",
+        "type": "written",
+        "answer": "A, hydrogen.",
+        "explanation": "Hydrogen burns in oxygen to form water."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Follow the laboratory shutdown procedure: secure gas, power and windows as directed.",
+        "explanation": "Closed windows alone do not prevent fire; reducing oxygen supply is not a substitute for safe shutdown and ventilation."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Cleaner cooler air is often nearer the floor during a smoke-filled fire.",
+        "explanation": "Raise the alarm and leave by a safe exit; do not enter smoke to investigate."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Class A involves ordinary solids and can use suitable water extinguishers; class B involves flammable liquids and uses suitable foam or dry chemical; class C in this school system involves flammable gases and requires safe supply isolation and rated extinguishers under trained control.",
+        "explanation": "Select equipment by the fire and electrical hazards, and evacuate unsafe situations."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Fractional distillation separates ethanol-water by repeated vaporisation and condensation in a fractionating column; the ethanol-rich vapour is condensed and collected before the water-rich fraction.",
+        "explanation": "Ethanol boils near 78 °C and water near 100 °C, but ordinary distillation cannot produce perfectly pure ethanol because of the azeotrope."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Do not eat or taste chemicals, wear protective eyewear and report accidents immediately.",
+        "explanation": "Rules reduce exposure and ensure prompt assistance."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Medicine, agriculture and manufacturing.",
+        "explanation": "Chemistry supplies products and analytical methods in each field."
+      },
+      {
+        "label": "8(c)(i)",
+        "type": "written",
+        "answer": "Red litmus remains red.",
+        "explanation": "Hydrochloric acid does not turn red litmus blue."
+      },
+      {
+        "label": "8(c)(ii)",
+        "type": "written",
+        "answer": "Paper becomes blackened with soot.",
+        "explanation": "Incomplete combustion deposits carbon particles."
+      },
+      {
+        "label": "8(c)(iii)",
+        "type": "written",
+        "answer": "The mixture reacts very rapidly and may explode with a loud report.",
+        "explanation": "A hydrogen-oxygen mixture is dangerous; this is a predicted observation, not an instruction to perform it."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Many simple covalent substances have lower melting points and conduct poorly; ionic compounds usually have high melting points and conduct when molten or dissolved.",
+        "explanation": "Exceptions exist, including giant covalent solids and molecular acids that ionise in water."
+      },
+      {
+        "label": "9(b)",
+        "type": "review",
+        "answer": "Empirical formula C2H6O, formal molecular formula C6H18O3 using the printed molecular mass 138.",
+        "explanation": "52.2/12 : 13/1 : 34.8/16 ≈ 2:6:1; empirical mass 46 and 138/46 = 3. The resulting formula is chemically unusual for an ordinary neutral molecule, so the source data deserve review."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Hydrogen is combustible.",
+        "explanation": "It reacts with oxygen to form water."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "It can reduce some metal oxides.",
+        "explanation": "Hydrogen removes oxygen from an appropriate heated oxide."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "It combines with halogens.",
+        "explanation": "The products include hydrogen halides."
+      },
+      {
+        "label": "10(a)(iv)",
+        "type": "written",
+        "answer": "It combines with nitrogen under industrial conditions.",
+        "explanation": "Ammonia formation is a chemical reaction."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Draw a reaction flask containing zinc and dilute acid, a controlled-addition funnel and a delivery tube leading to a gas collection vessel.",
+        "explanation": "Hydrogen generation requires trained supervision and strict ignition control; label the apparatus and reactants without attempting it independently."
+      }
+    ]
+  }
+}

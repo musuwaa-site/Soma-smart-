@@ -1,0 +1,393 @@
+{
+  "sourceId": "source-2259b4b37a9c7e71",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The Sun is the central star of the solar system."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Rotation is a body’s spin on its axis."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "17° eastward adds 68 minutes to 3 p.m., giving 4:08 p.m."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A 600 m climb at 0.6°C per 100 m reduces 28°C by 3.6°C."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The windward side faces the incoming wind."
+      },
+      {
+        "label": "1(vi)",
+        "type": "review",
+        "answer": "Crossing westward adds one calendar day to the date.",
+        "explanation": "The paper’s “lost” and “gained” wording can be confusing; the calendar rule is unambiguous."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Seasons require Earth’s revolution together with axial tilt."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Evaporation cools the wet bulb more strongly when air is dry."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Ships disappear hull-first and Earth casts a curved shadow during lunar eclipses."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "NNW is halfway between NW 315° and N 360°, or 337.5°."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ],
+        "answer": {
+          "i": "D",
+          "ii": "M",
+          "iii": "G",
+          "iv": "J",
+          "v": "L",
+          "vi": "C",
+          "vii": "N",
+          "viii": "E",
+          "ix": "I",
+          "x": "A"
+        },
+        "explanation": "Empowerment expands women’s rights and opportunities; greenhouse gases retain outgoing heat; global warming is rising average temperature; sedentary stock stays in a permanent area; reclamation improves land; vertical interval separates contours; an oasis is a watered desert site; desertification can result from human land use; pollution contaminates water; altitude affects temperature."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Equal-pressure lines are isobars."
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Merino sheep are bred for wool in Australia."
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Horticulture includes fruits, vegetables and flowers."
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Scale expresses the ratio of map to ground distances."
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "The Moon reflects sunlight."
+      },
+      {
+        "label": "3(vi)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Removing vegetation can degrade drylands."
+      },
+      {
+        "label": "3(vii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Punjab means five waters or rivers; the listed names refer to the traditional five."
+      },
+      {
+        "label": "3(viii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Winds are driven from high toward low pressure."
+      },
+      {
+        "label": "3(ix)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Industrial emissions can pollute air, land and water."
+      },
+      {
+        "label": "3(x)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "TAZARA is the railway; TAZAMA is the oil pipeline."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "14°C.",
+        "explanation": "26 − 12 = 14."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "About 18.7°C.",
+        "explanation": "The monthly temperatures sum to 224°C; divide by twelve."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "876 mm.",
+        "explanation": "Sum the twelve monthly rainfall values."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "Northern Hemisphere Mediterranean climate: warm dry summer, cooler wet winter and a marked seasonal rainfall contrast.",
+        "explanation": "July–August are nearly rainless and warm; the largest totals fall in winter."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "A linear scale and a representative fraction.",
+        "explanation": "The bar and 1:500,000 are two different ways to express scale."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Closely nested contours around the hill indicate highland; the swamp and more open contour spacing indicate lower, gentler land.",
+        "explanation": "Contours show height patterns while swamps tend to occupy poorly drained lowland."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "The railway curves to follow gentler terrain and avoid the steep hill.",
+        "explanation": "Railways need gentle gradients and broad curves."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "review",
+        "answer": "The cited grid references 260144 and 200120 do not both identify visible points on the drawn railway; a unique route length cannot be measured as written.",
+        "explanation": "The line ends short of the stated eastern grid reference and the scale presentations are inconsistent."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "review",
+        "answer": "Count the whole and partial grid squares under the swamp, but do not assign a unique ground area from this copy.",
+        "explanation": "The printed linear and representative scales do not agree, so a verified scale is required for a defensible square-kilometre result."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Rainfall, rivers, lakes, groundwater springs/wells and reservoirs.",
+        "explanation": "These include natural and managed sources of fresh water."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Agricultural clearing, charcoal/fuelwood cutting and timber logging.",
+        "explanation": "They remove forest faster than recovery."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Kidatu, Kihansi, Mtera and Nyumba ya Mungu; other correct Tanzanian hydro stations are acceptable.",
+        "explanation": "These use falling or flowing water to generate electricity."
+      },
+      {
+        "label": "5(d)",
+        "type": "written",
+        "answer": "Availability of raw materials, power, labour and markets; transport and water are also important.",
+        "explanation": "Industrial costs and sales depend on these location factors."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Habitat damage, pressure on water and waste services, wildlife disturbance, price increases, seasonal jobs and possible cultural disruption.",
+        "explanation": "Explain how the number or behaviour of visitors produces each effect."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Renewable sunlight, reduced operating fuel costs, less smoke at point of use, energy in remote areas and reduced woodland pressure.",
+        "explanation": "Solar power can support lighting, water pumping and communications with suitable storage or backup."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Limited capital, small boats, poor cold storage, weak transport, overfishing, pollution and variable weather.",
+        "explanation": "Production and preservation must both improve for sustainable returns."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Protect sources, repair leaks, expand safe supply and treatment, provide toilets and drainage, educate communities and monitor quality.",
+        "explanation": "Safe water supply and disposal of wastes must improve together."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Pests, unreliable rainfall, soil exhaustion, costly inputs, price fluctuations, poor transport and limited credit.",
+        "explanation": "Cotton farms need suitable conditions and access to inputs and profitable markets."
+      }
+    ]
+  }
+}

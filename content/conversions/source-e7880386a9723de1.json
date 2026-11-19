@@ -1,0 +1,320 @@
+{
+  "sourceId": "source-e7880386a9723de1",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "When aligned at full Moon, Earth’s shadow produces a lunar eclipse."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Australia is the smallest continent by area."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Planting trees and draining waterlogged land can restore productivity."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Aircraft can fly over many barriers that constrain surface routes."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Southwest has bearing 225°."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "The historical-site purpose is cultural tourism (A). Since these Tanzanian students travel within Tanzania, it is also domestic tourism (D).",
+        "acceptedAnswers": [
+          "A",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Compression wrinkles rocks into fold mountains."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Movement with stock in search of pasture is nomadic pastoralism."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Domestic, industrial, irrigation and navigation uses are all plausible social or economic uses of river water; the broad question does not isolate one pair.",
+        "acceptedAnswers": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Mangroves occupy sheltered tropical tidal coasts."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "D",
+          "ii": "F",
+          "iii": "C",
+          "iv": "B",
+          "v": "A"
+        },
+        "explanation": "Falling water powers HEP; waves can generate power; underground heat is geothermal; uranium powers nuclear reactors; sunlight supplies solar energy."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Orographic or relief rainfall.",
+        "explanation": "Mountains force moist air upward."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Moist wind rises on the windward slope, expands and cools to condensation; clouds and rain develop. Descending leeward air warms and is drier.",
+        "explanation": "Cooling to saturation produces rain."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Draw sea or a moisture source, arrows up the windward slope, cloud and rain near the crest, and arrows down the dry leeward side. Label windward, leeward, mountain and rain shadow.",
+        "explanation": "The drawing should connect uplift with rain and descent with dryness."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "9:28 a.m.",
+        "explanation": "33°E to 80°W is 113°, equivalent to 452 minutes or 7 h 32 min. Mexico is west, so subtract from 17:00."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "6:04 p.m.",
+        "explanation": "80°W is 16° east of 96°W. Add 64 minutes to 17:00."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Petroleum or crude oil.",
+        "explanation": "Refining produces fuels such as petrol and diesel."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Oil spills pollute water and soil; drilling and infrastructure can destroy habitats.",
+        "explanation": "Extraction disturbs ecosystems and risks contaminant release."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Prevent and contain spills; treat wastes and restore disturbed sites; enforce environmental assessment, monitoring and emergency plans.",
+        "explanation": "Prevention, management and restoration reduce harm."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Textile manufacturing.",
+        "explanation": "Spinning and weaving convert fibres into cloth."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Dyes/processing chemicals in wastewater, fibre dust and smoke from fuel combustion.",
+        "explanation": "Manufacturing can release liquid, solid and air pollutants."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "Access to fibres, labour, power/water, transport and markets.",
+        "explanation": "These reduce costs and support production and sales."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Animal diseases and limited veterinary care; scarce water/feed; weak transport/storage; inadequate finance and improved management.",
+        "explanation": "These reduce productivity and market access."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Both rear livestock for food and income, use pasture and feeds, depend on water and animal health, and face drought or disease risks.",
+        "explanation": "Discuss features actually shared; levels of mechanization differ."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "5741 (four-figure reference).",
+        "explanation": "The school dot lies at easting 57 in the northing 41–42 square; read east then north."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "5245.",
+        "explanation": "The mosque is east of easting 52 and north of northing 45."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "5046.",
+        "explanation": "The church lies in the square between eastings 50–51 and northings 46–47."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Title, key, north arrow and scale; the border/grid is also present.",
+        "explanation": "Each item supports interpretation of this particular sketch."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Grid reference, compass direction and bearing from a known feature.",
+        "explanation": "They express position relative to coordinates or an identified origin."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "review",
+        "answer": "The printed figures describe a cold continental climate with a warm summer, rather than true tundra: the warmest month is 19.4°C and five months reach at least 10°C.",
+        "explanation": "A tundra climate has every monthly mean below 10°C. The Greenland label does not override the actual table."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Very cold winters, a short much warmer summer, a large annual temperature range and modest precipitation with a summer maximum.",
+        "explanation": "January is −18.9°C and July 19.4°C, giving a 38.3°C range."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "Fishing in suitable waters; tourism such as scenery or aurora visits; and scientific research. Seasonal forestry/agriculture is possible only where local conditions support it.",
+        "explanation": "Livelihoods must fit the local climate and actual resources."
+      }
+    ],
+    "10": [
+      {
+        "label": "10 rotation",
+        "type": "written",
+        "answer": "Day/night; local time differences; apparent daily celestial motion; Coriolis deflection of winds and currents.",
+        "explanation": "Rotation takes roughly 24 hours."
+      },
+      {
+        "label": "10 revolution",
+        "type": "written",
+        "answer": "Seasonal changes in heating, changing day length, changing apparent overhead-Sun position and changing seasonal star visibility.",
+        "explanation": "Annual orbit combined with axial tilt produces seasonal geometry."
+      }
+    ]
+  }
+}

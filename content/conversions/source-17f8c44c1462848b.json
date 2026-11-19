@@ -1,0 +1,491 @@
+{
+  "sourceId": "source-17f8c44c1462848b",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Physicists specialise in matter, energy and their interactions."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Quantitative work assigns numerical measurements."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A floating body displaces its own weight of fluid."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Solid particles are closely bound by strong interactions."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Water enters bean cells through selectively permeable membranes by osmosis."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Power is work per unit time, measured in watts."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Lodestone is a naturally magnetised mineral."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "An ideal movable pulley supports the load using two rope sections."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The ice point specifies melting pure ice at standard pressure."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Kinetic and potential energy are mechanical energy forms."
+      },
+      {
+        "label": "1(xi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A lower centre of gravity increases resistance to overturning."
+      },
+      {
+        "label": "1(xii)",
+        "type": "review",
+        "answer": "Zero acceleration only if velocity, including direction, is constant.",
+        "explanation": "Uniform circular motion has constant speed and nonzero acceleration, so the printed statement about speed alone is insufficient."
+      },
+      {
+        "label": "1(xiii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "These have load between effort and fulcrum."
+      },
+      {
+        "label": "1(xiv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A plane mirror produces an upright virtual image of equal size."
+      },
+      {
+        "label": "1(xv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Kinetic energy depends on mass and the square of speed."
+      },
+      {
+        "label": "1(xvi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Water normally rises while mercury is depressed in clean narrow glass tubes."
+      },
+      {
+        "label": "1(xvii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The gravitational field strength is greater at the poles."
+      },
+      {
+        "label": "1(xviii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Pumps and syringes can use pressure differences involving atmospheric pressure."
+      },
+      {
+        "label": "1(xix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A capacitor stores separated electric charges."
+      },
+      {
+        "label": "1(xx)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "R=V/I=48/4=12 Ω."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "answer": {
+          "i": "C",
+          "ii": "G",
+          "iii": "E",
+          "iv": "A",
+          "v": "F"
+        },
+        "explanation": "Correct storage keeps magnets away from heat, nonmagnetic materials are not strongly magnetised, a neutral point has zero resultant field, magnetic field surrounds a magnet and domains contain aligned dipoles."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Fundamental or base physical quantities.",
+        "explanation": "They belong to the independently defined SI base set."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "5 for the usual five-supporting-strand block-and-tackle arrangement.",
+        "explanation": "A pulley diagram is needed to establish the supporting-strand count uniquely; the numbers of pulleys alone do not specify the rope threading."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "10 m/s².",
+        "explanation": "a=F/m=12/1.2."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Electroscope, such as a gold-leaf electroscope.",
+        "explanation": "Leaf separation indicates charge; a known reference charge can help identify its sign."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Diffusion.",
+        "explanation": "Oxygen moves down its concentration or partial-pressure gradient across the respiratory surface."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "A joule is the energy transferred when a force of 1 N moves its point of application 1 m along the force.",
+        "explanation": "1 J=1 N·m."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "A watt is a rate of energy transfer of one joule per second.",
+        "explanation": "1 W=1 J/s."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Energy cannot be created or destroyed, only transferred or transformed.",
+        "explanation": "The total energy of an isolated system remains constant."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "3,125,000 J.",
+        "explanation": "Kinetic energy=½×10000×25²."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "The pull is balanced by opposing friction or drag.",
+        "explanation": "Zero resultant force gives constant velocity even though individual forces are nonzero."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "The total linear momentum of an isolated system remains constant.",
+        "explanation": "The external resultant force must be zero over the interaction."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "18 N in the direction of acceleration.",
+        "explanation": "F=Δp/Δt=0.15(80−20)/0.5."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Friction in bearings and between rope and pulley dissipates energy as heat.",
+        "explanation": "That energy does not become useful load potential energy."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Energy is also spent moving or deforming the pulley blocks and rope.",
+        "explanation": "Real components add loads and other losses beyond the useful lifted load."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Draw effort and load on opposite sides of a central fulcrum.",
+        "explanation": "Order E–F–L illustrates a first-class lever."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Draw the load between the fulcrum and effort.",
+        "explanation": "Order F–L–E illustrates a second-class lever."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "Draw the effort between the fulcrum and load.",
+        "explanation": "Order F–E–L illustrates a third-class lever."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Static equilibrium is rest with balanced forces and moments; dynamic equilibrium is constant velocity with balanced resultant forces.",
+        "explanation": "Neither state has translational acceleration."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "A longer handle gives a larger turning moment for the same perpendicular force.",
+        "explanation": "Moment=force×perpendicular distance from the nut axis."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "2 m.",
+        "explanation": "Distance=moment/force=12000/6000."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "A wide foundation spreads the building’s weight over more ground area.",
+        "explanation": "Lower pressure reduces sinking or excessive stress in the soil."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Magdeburg hemispheres demonstration.",
+        "explanation": "After air is removed, outside atmospheric pressure holds the hemispheres together."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "The inverted water-filled glass with a card, demonstrated under supervision.",
+        "explanation": "Outside air pressure helps support the card and water."
+      },
+      {
+        "label": "8(c)(i)",
+        "type": "written",
+        "answer": "3.2×10⁶ Pa if 2 cm² is total contact area; 1.6×10⁶ Pa if each of two heels has that area.",
+        "explanation": "Weight=640 N. Convert cm² to m² and use P=F/A, stating how the ambiguous shoe area is interpreted."
+      },
+      {
+        "label": "8(c)(ii)",
+        "type": "written",
+        "answer": "The small contact area creates high pressure on weak sand.",
+        "explanation": "The sand yields under the concentrated load."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "v=u+at.",
+        "explanation": "u is initial velocity, v final velocity, a constant acceleration and t elapsed time."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "s=ut+½at².",
+        "explanation": "s is displacement; the expression is the area beneath the straight velocity–time graph."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "v²=u²+2as.",
+        "explanation": "This equation eliminates time for uniformly accelerated straight-line motion."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "6 kg·m/s.",
+        "explanation": "Initial momentum of P=0.5×12."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "5 kg·m/s.",
+        "explanation": "P alone after collision has mass 0.5 kg and stated speed 10 m/s. The total stated final momentum is 9.5 kg·m/s, so the printed overall data would require an external impulse or contain an error."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "A source of potential difference, such as a battery.",
+        "explanation": "It supplies energy to drive charge through the circuit."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "A closed conducting path.",
+        "explanation": "A broken path prevents a sustained current in the intended loop."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Resistance is a property measured in ohms; a resistor is a component designed to provide resistance.",
+        "explanation": "A resistor may be selected for a particular resistance value and power rating."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "Draw a two-cell battery and two bulb symbols in a single closed series loop.",
+        "explanation": "Both bulbs share the same circuit current."
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "sourceId": "source-3e3434753d432bd9",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Earth rotates from west toward east."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Moving the cultivated plot is shifting cultivation."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Mountain uplift of moist wind produces relief rain."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Waves, biomass and tides are renewable sources."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A pipeline continuously carries water to consumers."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Deciduous trees shed leaves in autumn."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Denudation leaves resistant residual mountains."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Dividers can measure a mapped route in short steps."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A point-to-point distance formula does not measure an irregular area."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Fabrication produces components from existing materials."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "D",
+          "ii": "C",
+          "iii": "F",
+          "iv": "A",
+          "v": "G"
+        },
+        "explanation": "The first arrow points to a deep trench, the second a submarine ridge, the third an island protruding above water, the fourth the shallow continental shelf and the fifth sea level."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "5:00 p.m.",
+        "explanation": "Use the printed 10°E and 40°E: 30° equals two hours, added eastward to 3 p.m."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Local mean time or local solar time.",
+        "explanation": "It is calculated from the specific longitude rather than a national zone meridian."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Standard or zone time, such as East Africa Time based on 45°E.",
+        "explanation": "A whole time zone uses an agreed meridian instead of each place’s own local solar time."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "North",
+        "explanation": "Bearing 000°/360°."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "East",
+        "explanation": "Bearing 090°."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "South",
+        "explanation": "Bearing 180°."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "West",
+        "explanation": "Bearing 270°."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Draw eight equally spaced rays labelled N 000°/360°, NE 045°, E 090°, SE 135°, S 180°, SW 225°, W 270°, NW 315°.",
+        "explanation": "Bearings increase clockwise from north in 45° steps."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Coal.",
+        "explanation": "It forms from buried organic plant material over geological time."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Power generation, industrial heat and coke for steelmaking.",
+        "explanation": "Coal provides fuel or a reducing material in appropriate industrial processes."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "High capital costs, limited technology/infrastructure and environmental or safety risks.",
+        "explanation": "These can make extraction difficult or expensive."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Milk supply, household/business income and jobs in farming, processing and distribution.",
+        "explanation": "Commercial dairying links farms to food markets."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Milk-oriented breeds, reliable feeding, regular milking, veterinary care and access to cooling/markets.",
+        "explanation": "Milk is perishable and output depends on feed and animal health."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "Weather",
+        "explanation": "Short-term atmospheric conditions."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Climate",
+        "explanation": "Long-term patterns and averages."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Weather covers hours/days while climate covers decades; weather describes particular events while climate describes distributions/averages; weather fluctuates rapidly while climate patterns change more slowly.",
+        "explanation": "Both concern atmospheric conditions but use different time scales."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Both use temperature, rain, humidity and wind observations; both affect human activities and ecosystems.",
+        "explanation": "The same elements are considered at different time scales."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Assess needs and river resources; consult stakeholders; study feasibility and environmental impacts; design and finance the project; construct, operate and monitor it.",
+        "explanation": "An orderly project process checks suitability before committing resources."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Water supply, irrigation/food output, employment and income, and potentially power or flood management where included.",
+        "explanation": "Benefits depend on the actual works and how they are managed."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Natural forest and planted/artificial forest.",
+        "explanation": "The village may have naturally regenerated woodland and intentionally planted trees."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Overharvesting timber/fuelwood, clearing for agriculture, uncontrolled fires and excessive grazing.",
+        "explanation": "These reduce tree cover or prevent regeneration."
+      }
+    ],
+    "10": [
+      {
+        "label": "10 mountains",
+        "type": "written",
+        "answer": "Elevated landforms, for example Kilimanjaro and the Atlas.",
+        "explanation": "They rise markedly above surrounding land."
+      },
+      {
+        "label": "10 plateaus",
+        "type": "written",
+        "answer": "Broad raised surfaces, for example the Ethiopian and South African plateaus.",
+        "explanation": "Their relatively level tops lie above surrounding lowlands."
+      },
+      {
+        "label": "10 plains",
+        "type": "written",
+        "answer": "Low-relief surfaces, for example Serengeti and the Nile Delta plain.",
+        "explanation": "They are comparatively flat or gently sloping."
+      },
+      {
+        "label": "10 valleys",
+        "type": "written",
+        "answer": "Elongated low areas, for example the East African Rift Valley and Nile Valley.",
+        "explanation": "They lie between higher ground."
+      },
+      {
+        "label": "10 basins",
+        "type": "written",
+        "answer": "Depressions or large low-lying regions, for example Congo and Chad basins.",
+        "explanation": "Water and sediment may gather within them."
+      }
+    ]
+  }
+}

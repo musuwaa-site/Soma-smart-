@@ -1,0 +1,715 @@
+{
+  "sourceId": "source-3a0c9bfebac04715",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "An experiment tests a hypothesis.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Irritability means responding to stimuli.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "The membrane regulates exchange.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Immunity is resistance to infection.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Insufficient oxygen during intense work promotes lactate production and fatigue.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Supportive safe company reduces harmful exposure.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Phloem transports sugars from leaves.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Vitamin D supports calcium absorption and bone mineralisation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Group O plasma normally contains anti-A and anti-B antibodies.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Euglena is traditionally placed in Protoctista.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "A community comprises interacting populations.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "AB is a universal red-cell recipient in the simple ABO model, not a universal donor.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Animal cells lack chloroplasts.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Oxygenation occurs in the lungs, not the liver.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Green plants are producers.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(vi)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Hygiene reduces exposure to pathogens.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(vii)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Plasmodium causes malaria; female Anopheles mosquitoes transmit it.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(viii)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Proteins build and repair tissues.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(ix)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Transpiration supports water transport and cooling, although excess water loss is harmful.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(x)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Valves oppose reverse flow.",
+        "options": [
+          "True",
+          "False"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Constipation affects the digestive system.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "answer": "I",
+        "explanation": "Lipase digests fat.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Amylase breaks starch into maltose.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "answer": "M",
+        "explanation": "Gastric acid makes the stomach acidic.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "Landfills cover deposited waste with soil.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "The duodenum is the first small-intestine segment.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(vii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Incineration burns waste at high temperature.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(viii)",
+        "type": "mcq",
+        "answer": "L",
+        "explanation": "Recycling produces new materials from waste.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A cow is a ruminant.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      {
+        "label": "3(x)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Ferns have true roots, stems and leaves.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Classification groups organisms using shared characteristics and relationships.",
+        "explanation": "It organises biological diversity."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Binomial nomenclature gives each species a two-part scientific name: genus and specific epithet.",
+        "explanation": "For example, Homo sapiens."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Makes organisms easier to study.",
+        "explanation": "Groups organise large amounts of information."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Helps identification.",
+        "explanation": "Shared diagnostic traits distinguish groups."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Shows relationships.",
+        "explanation": "Natural classification reflects common ancestry."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Continuous movement of blood through the heart and blood vessels.",
+        "explanation": "The heart provides the pumping force."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Delivers oxygen and nutrients.",
+        "explanation": "Cells require them for metabolism."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Removes carbon dioxide and other wastes.",
+        "explanation": "Blood carries wastes to exchange and excretory organs."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Carries hormones and distributes heat.",
+        "explanation": "Transport coordinates organs and helps regulate temperature."
+      },
+      {
+        "label": "5(c)(i)",
+        "type": "written",
+        "answer": "Hypertension.",
+        "explanation": "Persistently high arterial pressure damages vessels and organs."
+      },
+      {
+        "label": "5(c)(ii)",
+        "type": "written",
+        "answer": "Sickle-cell anaemia.",
+        "explanation": "Abnormal haemoglobin affects red-cell shape and oxygen transport."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Net particle movement from higher concentration to lower concentration.",
+        "explanation": "Random motion causes movement down a concentration gradient."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Stomata.",
+        "explanation": "Leaf pores permit diffusion."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Lenticels.",
+        "explanation": "Stem openings allow gas exchange."
+      },
+      {
+        "label": "6(c)(i)",
+        "type": "written",
+        "answer": "Supplies carbon dioxide for photosynthesis.",
+        "explanation": "Carbon dioxide provides carbon for sugars."
+      },
+      {
+        "label": "6(c)(ii)",
+        "type": "written",
+        "answer": "Supplies oxygen for respiration and allows waste gases to leave.",
+        "explanation": "Aerobic cells need oxygen for efficient energy transfer."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "The living and non-living surroundings that occur naturally.",
+        "explanation": "Examples include organisms, soil, air and water."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Supplies food, water and raw materials.",
+        "explanation": "People depend on functioning ecosystems."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Provides habitat and regulates climate and nutrient cycles.",
+        "explanation": "These processes support life."
+      },
+      {
+        "label": "7(c)(i)",
+        "type": "written",
+        "answer": "Show how energy passes between organisms.",
+        "explanation": "They identify producers and consumers."
+      },
+      {
+        "label": "7(c)(ii)",
+        "type": "written",
+        "answer": "Help predict changes when a species increases or declines.",
+        "explanation": "Feeding links connect populations."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Understand health and disease.",
+        "explanation": "Biology supports prevention and treatment."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Improve agriculture.",
+        "explanation": "Knowledge of organisms improves crop and animal care."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "Conserve ecosystems.",
+        "explanation": "Ecology explains effects of human activities."
+      },
+      {
+        "label": "8(a)(iv)",
+        "type": "written",
+        "answer": "Prepare for biological careers.",
+        "explanation": "Medicine, agriculture and environmental science use biology."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Chemical reactions in cells that release or transfer usable energy from food.",
+        "explanation": "Respiration supplies energy for cell processes."
+      },
+      {
+        "label": "8(c)(i)",
+        "type": "written",
+        "answer": "Aerobic uses oxygen; anaerobic does not.",
+        "explanation": "Oxygen is the final electron acceptor in aerobic respiration."
+      },
+      {
+        "label": "8(c)(ii)",
+        "type": "written",
+        "answer": "Aerobic breaks glucose down more completely; anaerobic incompletely.",
+        "explanation": "The products retain different amounts of chemical energy."
+      },
+      {
+        "label": "8(c)(iii)",
+        "type": "written",
+        "answer": "Aerobic releases more usable energy per glucose; anaerobic less.",
+        "explanation": "More complete oxidation yields more ATP."
+      },
+      {
+        "label": "8(c)(iv)",
+        "type": "written",
+        "answer": "Aerobic products are carbon dioxide and water; anaerobic animal product is lactate, while yeast produces ethanol and carbon dioxide.",
+        "explanation": "Products depend on organism and pathway."
+      }
+    ],
+    "9": [
+      {
+        "label": "9 meaning",
+        "type": "written",
+        "answer": "Kwashiorkor is severe malnutrition associated with inadequate protein and overall dietary imbalance.",
+        "explanation": "It particularly affects growing children."
+      },
+      {
+        "label": "9 cause",
+        "type": "written",
+        "answer": "Insufficient protein-rich foods, often alongside illness and poor feeding.",
+        "explanation": "Growth raises protein needs."
+      },
+      {
+        "label": "9 symptoms",
+        "type": "written",
+        "answer": "Swollen abdomen or feet, poor growth, muscle wasting and changes in skin or hair.",
+        "explanation": "Oedema distinguishes this form of malnutrition."
+      },
+      {
+        "label": "9 effects",
+        "type": "written",
+        "answer": "Weakness, impaired immunity, delayed growth and potentially death.",
+        "explanation": "Malnutrition disrupts many body systems."
+      },
+      {
+        "label": "9 prevention and control",
+        "type": "written",
+        "answer": "Provide a balanced diet and seek professional treatment for severe malnutrition.",
+        "explanation": "Treatment must be managed carefully, especially when oedema is present."
+      }
+    ],
+    "10": [
+      {
+        "label": "10 cause",
+        "type": "written",
+        "answer": "Mycobacterium tuberculosis.",
+        "explanation": "The bacteria can infect the lungs."
+      },
+      {
+        "label": "10 transmission",
+        "type": "written",
+        "answer": "Inhalation of infectious airborne particles.",
+        "explanation": "Poor ventilation and prolonged close exposure increase risk."
+      },
+      {
+        "label": "10 signs/symptoms",
+        "type": "written",
+        "answer": "Persistent cough, fever, night sweats, weight loss and sometimes coughing blood.",
+        "explanation": "Suspected TB needs testing."
+      },
+      {
+        "label": "10 effects",
+        "type": "written",
+        "answer": "Lung damage, weakness and possible spread to other organs.",
+        "explanation": "Untreated disease can be fatal."
+      },
+      {
+        "label": "10 prevention and control",
+        "type": "written",
+        "answer": "Early diagnosis, completion of prescribed multidrug treatment, good ventilation and respiratory hygiene.",
+        "explanation": "Effective treatment reduces illness and transmission."
+      }
+    ]
+  }
+}

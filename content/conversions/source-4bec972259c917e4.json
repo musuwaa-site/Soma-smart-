@@ -1,0 +1,246 @@
+{
+  "sourceId": "source-4bec972259c917e4",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Historia na maadili ni dhana kuu za somo."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Masimulizi na desturi zimerithiwa kupitia watu."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Lugha na desturi huchangia utambulisho wa kabila."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Chaguo B halielezi kujifunza stadi na maadili ya kijamii."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Majukumu ya pamoja huimarisha uwajibikaji."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Mfumo wa rika ulihusisha majukumu ya watoto, morani, wanawake na wazee."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Kusindika chuma kulitegemea ujuzi wa moto na tanuru."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Uvuvi na utalii ni shughuli za uchumi."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Kauli hiyo inawahimiza raia wote washiriki kupinga rushwa."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Punda walisaidia kusafirisha mizigo."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "C",
+          "iii": "A",
+          "iv": "E",
+          "v": "B"
+        },
+        "explanation": "Nyarubanja ilihusisha ardhi; ubugabire ulihusisha ng’ombe; umwinyi ulikuwa wa pwani; sheha aliongoza eneo la utawala; kundi la vijana wapiganaji ni morani."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Uchunguzi wa matukio ya zamani kwa kutumia ushahidi.",
+        "explanation": "Bainisha dhana inayotajwa kwa sifa yake kuu."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Kanuni zinazotofautisha matendo yanayofaa na yasiyofaa.",
+        "explanation": "Bainisha dhana inayotajwa kwa sifa yake kuu."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Kutoa, kuomba au kupokea faida ili kupotosha uamuzi.",
+        "explanation": "Bainisha dhana inayotajwa kwa sifa yake kuu."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Kipindi ambacho mawe yalikuwa malighafi muhimu ya zana.",
+        "explanation": "Bainisha dhana inayotajwa kwa sifa yake kuu."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Vipengele vya mazingira vilivyorithiwa kama milima, misitu na wanyama.",
+        "explanation": "Bainisha dhana inayotajwa kwa sifa yake kuu."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Kilimanjaro huvutia watalii, Ziwa Victoria hutoa samaki, misitu ya Usambara hulinda vyanzo vya maji, Serengeti hutoa ajira za utalii, na gesi asilia hutoa nishati.",
+        "explanation": "Kila mfano unahitaji faida mahususi pamoja na jina la rasilimali."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Kuelewa matukio ya zamani, kutathmini ushahidi, kutunza urithi, kujenga uzalendo na kuamua kwa maadili mema.",
+        "explanation": "Hoja zinahusisha maarifa ya historia na mwenendo wa raia."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Kilimo hutoa chakula, ufugaji hutoa maziwa na nyama, uvuvi huzalisha chakula na mapato, ufundi hutoa bidhaa, na utalii hutoa ajira.",
+        "explanation": "Eleza bidhaa, huduma au pato linalotokana na kila shughuli."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Mahitaji ya chakula yalichochea kilimo bora; malighafi ya chuma ilichochea uhunzi; biashara ilieneza maarifa; ongezeko la watu lilihitaji uzalishaji mkubwa; mazingira makavu yalihitaji uhifadhi na usambazaji wa maji.",
+        "explanation": "Kila kichocheo kiliunda hitaji la zana mpya au kuboresha zana za zamani."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Rushwa huwanyima maskini huduma, hupoteza fedha za umma, hushusha ubora wa miradi, hufanya uajiri usiwe wa haki na hupunguza imani kwa taasisi.",
+        "explanation": "Athari zinahusu haki za mtu na gharama kwa taifa."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Biashara ya watumwa ilisababisha kupoteza uhuru, familia kutengana na watu kuhama; ukoloni ulipokonya ardhi na mamlaka; baadhi ya utamaduni wa wenyeji ulidhoofishwa.",
+        "explanation": "Taja mifano ya uhusiano wa kihistoria uliosababisha athari hizo."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Ardhi yenye rutuba ilivutia wakulima. Wafugaji walifuata maji na malisho. Baadhi ya jamii zilikimbia vita. Ukame ulilazimisha watu kutafuta maeneo salama. Ongezeko la watu liliongeza ushindani wa ardhi.",
+        "explanation": "Insha ihusishe sababu za kusukumwa kuondoka na sababu za kuvutiwa na makazi mapya."
+      }
+    ]
+  }
+}

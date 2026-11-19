@@ -1,0 +1,360 @@
+{
+  "sourceId": "source-d476660506f85f6a",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "review",
+        "answer": "Moving east from Siberia to Alaska sets the calendar back one day.",
+        "explanation": "The exam’s “gain” and “lose” language can be interpreted differently; the unambiguous rule is to subtract one calendar day."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Earth rotates from west toward east."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Moist air forced over a mountain rises, cools and condenses."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Prolonged denudation can leave resistant residual uplands."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Cartographers make and design maps."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Seasons chiefly involve revolution and axial tilt."
+      },
+      {
+        "label": "1(vii)",
+        "type": "review",
+        "answer": "12:40 p.m., if both longitudes are east. None of the printed choices gives this time.",
+        "explanation": "Morogoro is 10° east of Kigali in the stated data, so add 40 minutes."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The rise is 1,200 m; at 0.6°C per 100 m subtract 7.2°C to get 24.8°C."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "These animals are associated with cold high-latitude conditions, although penguins and polar bears occur in opposite polar regions."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Kilimanjaro is commonly classified as dormant, with Kibo potentially active."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "written",
+        "answer": "G — Earth.",
+        "explanation": "By diameter, Earth is the fifth largest planet."
+      },
+      {
+        "label": "2(ii–v)",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ],
+        "pairs": [
+          "ii",
+          "iii",
+          "v"
+        ],
+        "answer": {
+          "ii": "E",
+          "iii": "A",
+          "v": "F"
+        },
+        "explanation": "Longitudes run north–south and measure angular position east or west; Jupiter’s group are gas/ice giants; the axis is the imaginary line through the poles; inner planets are rocky."
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ],
+        "answer": "H",
+        "acceptedAnswers": [
+          "H",
+          "E"
+        ],
+        "explanation": "The axis is the imaginary line through Earth’s centre from pole to pole; meridians also run from pole to pole on the surface, so the unqualified wording permits longitudes."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Solar energy, for example a solar cooker or solar electric cooking where capacity permits.",
+        "explanation": "It can replace fuel wood without burning biomass."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "It reduces tree cutting, produces no smoke at the point of solar cooking, uses a renewable input and avoids ash or fuel spills.",
+        "explanation": "These benefits follow from collecting sunlight instead of burning wood."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "It reduces time collecting fuel, reduces exposure to smoke, can improve personal safety during fuel collection and frees time for education or paid work.",
+        "explanation": "Time savings and cleaner household energy can widen women’s opportunities."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Mountains such as Kilimanjaro; plateaus such as the Central Plateau; plains such as Serengeti; valleys such as the Rift Valley; and basins such as the Lake Victoria basin.",
+        "explanation": "These are distinct surface forms at different elevations."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Nebular, planetesimal, tidal and interstellar dust hypotheses.",
+        "explanation": "These are historical solar-system origin models. Modern explanations use accretion in a protoplanetary disc."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "Earth is the third planet from the Sun, a rocky world with land, oceans and atmosphere.",
+        "explanation": "It is our home planet."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Title, direction indicator and the grid of latitude/longitude, if visible on the supplied map.",
+        "explanation": "A specific map should be read for its actual elements; a title identifies what is shown and coordinates locate features."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Place A on Africa, south of Europe and between the Atlantic and Indian oceans.",
+        "explanation": "Its equator-crossing landmass narrows toward the south."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Place B on South America, south of North America between the Pacific and Atlantic.",
+        "explanation": "The continent tapers toward Cape Horn."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Place C on Antarctica surrounding the South Pole.",
+        "explanation": "It is the southernmost continent."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "Place D on North America, west of the North Atlantic and north of South America.",
+        "explanation": "It includes Canada, the USA and Mexico."
+      },
+      {
+        "label": "5(c)(i)",
+        "type": "written",
+        "answer": "Indian Ocean: between Africa, southern Asia, Australia and Antarctica.",
+        "explanation": "It lies east of Africa."
+      },
+      {
+        "label": "5(c)(ii)",
+        "type": "written",
+        "answer": "Atlantic Ocean: between the Americas and Europe/Africa.",
+        "explanation": "It separates the Old and New World landmasses."
+      },
+      {
+        "label": "5(c)(iii)",
+        "type": "written",
+        "answer": "Southern Ocean: around Antarctica.",
+        "explanation": "It surrounds the Antarctic continent."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "A mountain.",
+        "explanation": "The description indicates a steep elevated landform rising above its surroundings."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Fold mountains such as the Himalayas; volcanic mountains such as Kilimanjaro; block mountains such as Rwenzori; residual mountains such as resistant remnants in the Matopos.",
+        "explanation": "Compression folds rocks, volcanism accumulates lava, faults displace blocks, and erosion leaves resistant remnants."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "Plains, plateaus, valleys and basins.",
+        "explanation": "These are other major categories of relief."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Aphelion is Earth’s farthest orbital point from the Sun; perihelion is its nearest.",
+        "explanation": "They occur around early July and early January respectively."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "An isthmus is a narrow land link between larger land areas; a strait is a narrow water passage linking larger water bodies.",
+        "explanation": "One is land and the other water."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Umbra is the region of complete shadow; penumbra is partial shadow.",
+        "explanation": "In the penumbra only part of the light source is obscured."
+      },
+      {
+        "label": "7(d)",
+        "type": "written",
+        "answer": "During a lunar eclipse Earth’s shadow reaches the Moon; during a solar eclipse the Moon obscures the Sun from part of Earth.",
+        "explanation": "The relative order of the three bodies changes."
+      },
+      {
+        "label": "7(e)",
+        "type": "written",
+        "answer": "Physical geography studies natural features and processes; practical geography supplies methods such as map reading, fieldwork and surveying.",
+        "explanation": "One focuses on subject matter and the other on skills and methods."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Fold mountain.",
+        "explanation": "Compression bends layers into anticlines and synclines."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "They supply catchments for rivers, habitats and forests, tourist attractions and mineral resources in some ranges.",
+        "explanation": "Explain a benefit through the landform or resource that makes it possible."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Draw initially horizontal layers pushed inward by arrows from both sides, then bent into upward anticlines and downward synclines. Label layers, compression, anticline and syncline.",
+        "explanation": "Compression shortens and folds rock strata."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Day and night; differences in local solar time; apparent daily movement of celestial bodies; Coriolis deflection; and the equatorial bulge.",
+        "explanation": "These observations are consistent with a rotating Earth. Foucault’s pendulum provides direct experimental evidence."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "It bends to avoid dividing countries and island groups into different calendar dates.",
+        "explanation": "Political and economic convenience modifies the ideal 180° meridian."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "An imaginary line through Earth’s centre connecting the North and South poles, around which Earth rotates.",
+        "explanation": "The axis is tilted relative to the orbital plane."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Use a labelled globe photograph; Earth’s curved shadow on the Moon during lunar eclipses; ships disappearing hull-first; changing visible stars with latitude; circumnavigation; and measurements of meridian/equatorial dimensions. Earth is an oblate spheroid with a small equatorial bulge.",
+        "explanation": "Each observation supports a curved, approximately spherical Earth. The measured difference between polar and equatorial radii establishes the flattening."
+      }
+    ]
+  }
+}

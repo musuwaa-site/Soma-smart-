@@ -1,0 +1,639 @@
+{
+  "sourceId": "source-d0962e3d0f9b0de9",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Growth, sensitivity and directed movement are characteristics of life.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A hypothesis is a testable proposed explanation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Mitochondria supply ATP for energy-demanding activity.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Chitin walls and external digestion identify fungi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Viruses have no independent metabolism outside cells.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Only chlorophyll-containing areas made starch.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Villi increase absorption surface area.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "The left ventricle pumps through the whole systemic circuit.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Platelets initiate clotting responses.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The nose filters, warms and moistens air.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Basidia produce basidiospores.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Gills under the pileus bear spore-producing structures.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Mushrooms and toadstools are basidiomycetes.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "review",
+        "answer": "H describes a cup-shaped fungal fruiting body, but not every fruiting body is cup-shaped. The generic phrase in the question does not determine one universal shape.",
+        "explanation": "Some ascomycete fruiting bodies are cup-shaped, but this does not describe every fungal fruiting body.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Yeast and Penicillium are ascomycetes.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Human digestive system.",
+        "explanation": "The diagram shows the alimentary canal and associated glands."
+      },
+      {
+        "label": "3(b)A",
+        "type": "written",
+        "answer": "Liver, with the gallbladder shown beneath it.",
+        "explanation": "The liver produces bile; the gallbladder stores it."
+      },
+      {
+        "label": "3(b)B",
+        "type": "written",
+        "answer": "Pancreas.",
+        "explanation": "The elongated gland below the stomach releases digestive enzymes."
+      },
+      {
+        "label": "3(b)C",
+        "type": "written",
+        "answer": "Small intestine.",
+        "explanation": "The coiled tube carries out digestion and absorption."
+      },
+      {
+        "label": "3(b)D",
+        "type": "written",
+        "answer": "Large intestine.",
+        "explanation": "The wider tube surrounds the small intestine."
+      },
+      {
+        "label": "3(b)E",
+        "type": "written",
+        "answer": "Rectum.",
+        "explanation": "It stores faeces before defecation."
+      },
+      {
+        "label": "3(c)(i)",
+        "type": "written",
+        "answer": "Pancreatic amylase acts on starch.",
+        "explanation": "It breaks starch into smaller sugars."
+      },
+      {
+        "label": "3(c)(ii)",
+        "type": "written",
+        "answer": "Pancreatic lipase acts on fats.",
+        "explanation": "It produces fatty acids and glycerol."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "Bile; it emulsifies fats into small droplets and helps neutralise acidic chyme.",
+        "explanation": "Bile is produced by the liver and stored in the gallbladder. It is not a digestive enzyme."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "An instrument that magnifies small objects so details can be observed.",
+        "explanation": "Microscopes resolve structures too small for unaided vision."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Eyepiece magnifies the image.",
+        "explanation": "It is the lens viewed through."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Objective lens forms a magnified specimen image.",
+        "explanation": "Different objectives provide different magnifications."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Stage supports the slide.",
+        "explanation": "Apertures allow light through."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Coarse adjustment provides rough focus.",
+        "explanation": "Fine adjustment then sharpens focus."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Mirror or lamp illuminates the specimen.",
+        "explanation": "Light is needed to see the image."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "900 times.",
+        "explanation": "15 × 60 = 900."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Butterfly and bird.",
+        "explanation": "Both can fly."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Snake, earthworm and spider.",
+        "explanation": "These listed animals move on land or in soil without flying."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Mosses and mango plant.",
+        "explanation": "They photosynthesise."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Fish.",
+        "explanation": "Fish are adapted to living in water."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Classification.",
+        "explanation": "Organisms are grouped by selected features."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Taxonomist.",
+        "explanation": "A taxonomist studies identification and classification."
+      },
+      {
+        "label": "5(c)(i)",
+        "type": "written",
+        "answer": "Homo sapiens.",
+        "explanation": "Genus precedes the lowercase specific epithet."
+      },
+      {
+        "label": "5(c)(ii)",
+        "type": "written",
+        "answer": "Mangifera indica.",
+        "explanation": "Capitalise the genus only."
+      },
+      {
+        "label": "5(c)(iii)",
+        "type": "written",
+        "answer": "Homo erectus.",
+        "explanation": "Separate the two words."
+      },
+      {
+        "label": "5(c)(iv)",
+        "type": "written",
+        "answer": "Panthera leo.",
+        "explanation": "Italicise the two-part name, or underline each word separately when handwritten."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Eye.",
+        "explanation": "Vision detects colour."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Nose.",
+        "explanation": "Smell detects airborne chemicals."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "Tongue.",
+        "explanation": "Taste receptors detect sweetness."
+      },
+      {
+        "label": "6(a)(iv)",
+        "type": "written",
+        "answer": "Skin.",
+        "explanation": "Touch detects surface texture."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "An organised process of asking questions, testing hypotheses and interpreting evidence.",
+        "explanation": "Conclusions follow recorded observations."
+      },
+      {
+        "label": "6(c)(i)",
+        "type": "written",
+        "answer": "Problem identification.",
+        "explanation": "Richard notices ill health."
+      },
+      {
+        "label": "6(c)(ii)",
+        "type": "written",
+        "answer": "Gathering information.",
+        "explanation": "The doctor asks about symptoms."
+      },
+      {
+        "label": "6(c)(iii)",
+        "type": "written",
+        "answer": "Testing or investigation.",
+        "explanation": "Measurements and samples collect evidence."
+      },
+      {
+        "label": "6(c)(iv)",
+        "type": "written",
+        "answer": "Analysis and interpretation.",
+        "explanation": "The technician identifies parasites."
+      },
+      {
+        "label": "6(c)(v)",
+        "type": "written",
+        "answer": "Conclusion and application.",
+        "explanation": "The diagnosis informs treatment."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "Carries oxygen to tissues.",
+        "explanation": "Cells use it in aerobic respiration."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Carries absorbed nutrients.",
+        "explanation": "They support metabolism and repair."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "Removes wastes.",
+        "explanation": "Carbon dioxide and other wastes reach removal organs."
+      },
+      {
+        "label": "7(a)(iv)",
+        "type": "written",
+        "answer": "Carries hormones and distributes heat.",
+        "explanation": "These help coordination and temperature regulation."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "It generates higher pressure to drive systemic circulation.",
+        "explanation": "The right ventricle pumps only to the lungs."
+      },
+      {
+        "label": "7(c)(i)",
+        "type": "written",
+        "answer": "Valves prevent backflow.",
+        "explanation": "They maintain one-way movement."
+      },
+      {
+        "label": "7(c)(ii)",
+        "type": "written",
+        "answer": "The septum separates the left and right sides.",
+        "explanation": "It limits mixing of oxygenated and deoxygenated blood."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Biological specimens or preserved plant and animal material.",
+        "explanation": "These support organism study."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Microscopes and slides.",
+        "explanation": "They reveal cells and tissues."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "Anatomical models.",
+        "explanation": "They show biological structures."
+      },
+      {
+        "label": "8(a)(iv)",
+        "type": "written",
+        "answer": "Biology charts.",
+        "explanation": "They display systems and classification."
+      },
+      {
+        "label": "8(a)(v)",
+        "type": "written",
+        "answer": "Sampling tools such as quadrats and nets.",
+        "explanation": "They are used in ecological study. Shared equipment alone may not uniquely identify the room."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Follow the teacher’s instructions.",
+        "explanation": "Supervision controls risks."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Wear appropriate protective equipment.",
+        "explanation": "Protection limits exposure."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "Do not eat, drink or taste laboratory materials.",
+        "explanation": "This reduces poisoning."
+      },
+      {
+        "label": "8(b)(iv)",
+        "type": "written",
+        "answer": "Report spills and injuries promptly.",
+        "explanation": "Quick action limits harm."
+      },
+      {
+        "label": "8(b)(v)",
+        "type": "written",
+        "answer": "Handle glass, heat and specimens carefully and wash hands afterwards.",
+        "explanation": "Good technique reduces accidents and contamination."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Cell membrane.",
+        "explanation": "All cells have a boundary membrane."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Cytoplasm.",
+        "explanation": "It contains components and reaction media."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "Genetic material.",
+        "explanation": "DNA provides instructions in living cells."
+      },
+      {
+        "label": "9(a)(iv)",
+        "type": "written",
+        "answer": "Ribosomes.",
+        "explanation": "They produce proteins."
+      },
+      {
+        "label": "9(a)(v)",
+        "type": "written",
+        "answer": "Metabolism.",
+        "explanation": "Cells carry out chemical reactions. Specialised mature cells may lose some structures, so the statement has exceptions."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "Division of labour.",
+        "explanation": "Specialised cells perform particular tasks efficiently."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "Efficient transport.",
+        "explanation": "Red cells and vascular cells have suitable structures."
+      },
+      {
+        "label": "9(b)(iii)",
+        "type": "written",
+        "answer": "Coordinated movement.",
+        "explanation": "Muscle cells contract."
+      },
+      {
+        "label": "9(b)(iv)",
+        "type": "written",
+        "answer": "Rapid communication.",
+        "explanation": "Nerve cells transmit signals."
+      },
+      {
+        "label": "9(b)(v)",
+        "type": "written",
+        "answer": "Complex organs and larger organisms.",
+        "explanation": "Different cell types cooperate in tissues and organs."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(i)",
+        "type": "written",
+        "answer": "Large surface area increases exchange.",
+        "explanation": "Many alveoli provide a broad surface."
+      },
+      {
+        "label": "10(ii)",
+        "type": "written",
+        "answer": "Thin walls increase exchange.",
+        "explanation": "A short distance speeds diffusion."
+      },
+      {
+        "label": "10(iii)",
+        "type": "written",
+        "answer": "A steep concentration gradient increases exchange.",
+        "explanation": "Ventilation and blood flow renew the gases."
+      },
+      {
+        "label": "10(iv)",
+        "type": "written",
+        "answer": "A moist surface permits gases to dissolve.",
+        "explanation": "Dissolved gases cross cell membranes."
+      },
+      {
+        "label": "10(v)",
+        "type": "written",
+        "answer": "A rich blood supply increases exchange.",
+        "explanation": "Capillaries remove oxygen and deliver carbon dioxide."
+      },
+      {
+        "label": "10(vi)",
+        "type": "written",
+        "answer": "Effective ventilation maintains exchange.",
+        "explanation": "Fresh air renews alveolar oxygen and removes carbon dioxide."
+      }
+    ]
+  }
+}

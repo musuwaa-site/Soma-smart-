@@ -40,7 +40,7 @@ def apply(data):
                     sourceTitle=doc['title'], topicIds=[], subtopicIds=[], options=item.get('options', []),
                     sourcePages=pages, media=[dict(role='printed-question',path=doc['pageImages'][n-1],
                     alt=f"{doc['title']}, page {n}") for n in pages],
-                    answerKey=item['answer'], markingGuide=explanation, feedbackExplanation=explanation,
+                    answerKey=item['answer'], requiresDrawing=bool(item.get('requiresDrawing')), markingGuide=explanation, feedbackExplanation=explanation,
                     solutionProvenance='Independent SomaSmart practice solution',
                     marksProvenance='Independent practice points', maximumMarks=len(pairs) or 1,
                     markIncrement=1 if kind != 'short' else 0.5)
@@ -59,7 +59,7 @@ def apply(data):
         paper = dict(common, id=paper_id, title=doc['title'], questionIds=ids, draftQuestionIds=[],
             reviewOnlyItems=review, practiceOrder=order, completePaper=not review, completeScoredPaper=not review, transcriptionComplete=False,
             totalSourceMainQuestions=len(groups), maximumMarks=sum(q['maximumMarks'] for q in records),
-            sourceInstructions=['Use the original printed instructions. SomaSmart awards one practice point per response or matched pair. Written answers allow half credit.'])
+            practiceScoring=True, sourceInstructions=['Use the original printed instructions. SomaSmart awards one practice point per response or matched pair. Written answers allow half credit.'])
         data['questions'] = [q for q in data['questions'] if q.get('paperId') != paper_id] + records
         data['papers'] = [p for p in data['papers'] if p['id'] != paper_id] + [paper]
         doc.update(interactivePaperId=paper_id, questionTranscriptionStatus='page-backed-answerable-items')

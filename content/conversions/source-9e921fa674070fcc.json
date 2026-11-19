@@ -1,0 +1,404 @@
+{
+  "sourceId": "source-9e921fa674070fcc",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)(i)",
+        "type": "written",
+        "answer": "Zamani na Siku Hizi",
+        "explanation": "Kichwa kinaonyesha ulinganisho unaojirudia katika kibwagizo."
+      },
+      {
+        "label": "1(a)(ii)",
+        "type": "written",
+        "answer": "Shairi linalinganisha maisha ya zamani na sasa. Linaonyesha mabadiliko ya nyumba, barabara, magari na thamani ya fedha. Mtunzi anawalaumu baadhi ya viongozi kwa ufisadi na kuonya kuhusu rushwa, ukosefu wa usawa na ukatili. Anataka wasikilizaji watafakari matokeo ya tamaa ya pesa na uwajibikaji katika jamii.",
+        "explanation": "Eleza mawazo muhimu kwa maneno 50–100; mifano itokane na beti."
+      },
+      {
+        "label": "1(a)(iii)",
+        "type": "written",
+        "answer": "Majengo na usafiri vimebadilika; gharama zimepanda; ufisadi na ukosefu wa usawa vinakemewa.",
+        "explanation": "Kipengele hiki kinaendeleza maelezo muhimu yaliyotakiwa katika (ii)."
+      },
+      {
+        "label": "1(b)(i)",
+        "type": "written",
+        "answer": "Wameacha kazi au wajibu wao.",
+        "explanation": "Maana ifuate kauli ya shairi na matumizi ya tamathali."
+      },
+      {
+        "label": "1(b)(ii)",
+        "type": "written",
+        "answer": "Kumpa zawadi au fedha ili kupata mapendeleo.",
+        "explanation": "Maana ifuate kauli ya shairi na matumizi ya tamathali."
+      },
+      {
+        "label": "1(b)(iii)",
+        "type": "written",
+        "answer": "Juu sana, hasa bei.",
+        "explanation": "Maana ifuate kauli ya shairi na matumizi ya tamathali."
+      },
+      {
+        "label": "1(b)(iv)",
+        "type": "written",
+        "answer": "Hali ngumu au adhabu inayompata mtu.",
+        "explanation": "Maana ifuate kauli ya shairi na matumizi ya tamathali."
+      },
+      {
+        "label": "1(b)(v)",
+        "type": "written",
+        "answer": "Nchi za mbali au nje.",
+        "explanation": "Maana ifuate kauli ya shairi na matumizi ya tamathali."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)(i)",
+        "type": "written",
+        "answer": "Nzi ameingia kwenye chai.",
+        "explanation": "Sahihisha muundo na maneno yanayohitajika kufikisha ujumbe kwa usahihi."
+      },
+      {
+        "label": "2(a)(ii)",
+        "type": "written",
+        "answer": "Baba anakwenda safari kesho.",
+        "explanation": "Sahihisha muundo na maneno yanayohitajika kufikisha ujumbe kwa usahihi."
+      },
+      {
+        "label": "2(a)(iii)",
+        "type": "written",
+        "answer": "Humwambia lakini hanielewi.",
+        "explanation": "Sahihisha muundo na maneno yanayohitajika kufikisha ujumbe kwa usahihi."
+      },
+      {
+        "label": "2(a)(iv)",
+        "type": "written",
+        "answer": "Ng’ombe wangu wameibiwa.",
+        "explanation": "Sahihisha muundo na maneno yanayohitajika kufikisha ujumbe kwa usahihi."
+      },
+      {
+        "label": "2(a)(v)",
+        "type": "written",
+        "answer": "Daktari, nina maumivu ya kifua; sijalala usiku kucha.",
+        "explanation": "Sahihisha muundo na maneno yanayohitajika kufikisha ujumbe kwa usahihi."
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "Ujumbe ungekuwa mgumu kueleweka.",
+        "explanation": "Kila tatizo liunganishwe na kazi ya lugha katika jamii."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "Elimu isingerithishwa kwa urahisi.",
+        "explanation": "Kila tatizo liunganishwe na kazi ya lugha katika jamii."
+      },
+      {
+        "label": "2(b)(iii)",
+        "type": "written",
+        "answer": "Mikataba na uratibu wa kazi vingekwama.",
+        "explanation": "Kila tatizo liunganishwe na kazi ya lugha katika jamii."
+      },
+      {
+        "label": "2(b)(iv)",
+        "type": "written",
+        "answer": "Utamaduni na historia vingekuwa vigumu kuhifadhi.",
+        "explanation": "Kila tatizo liunganishwe na kazi ya lugha katika jamii."
+      },
+      {
+        "label": "2(c)(i)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "Fasili hutofautisha kamusi, tanzu za lugha, simo, sarufi maumbo na rejesta.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(c)(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Fasili hutofautisha kamusi, tanzu za lugha, simo, sarufi maumbo na rejesta.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(c)(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Fasili hutofautisha kamusi, tanzu za lugha, simo, sarufi maumbo na rejesta.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(c)(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Fasili hutofautisha kamusi, tanzu za lugha, simo, sarufi maumbo na rejesta.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(c)(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Fasili hutofautisha kamusi, tanzu za lugha, simo, sarufi maumbo na rejesta.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Roza, Sakina, Yolanda, Zakaria, Zena.",
+        "explanation": "Panga kwa herufi ya kwanza, kisha ya pili inapohitajika: Za hutangulia Ze."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Atakueleza huonyesha nafsi na wakati ujao; hikihiki ukaribu na msisitizo; ki- hupatanisha; kiji- hudunisha; kiume huonyesha sifa katika muktadha.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Atakueleza huonyesha nafsi na wakati ujao; hikihiki ukaribu na msisitizo; ki- hupatanisha; kiji- hudunisha; kiume huonyesha sifa katika muktadha.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Atakueleza huonyesha nafsi na wakati ujao; hikihiki ukaribu na msisitizo; ki- hupatanisha; kiji- hudunisha; kiume huonyesha sifa katika muktadha.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Atakueleza huonyesha nafsi na wakati ujao; hikihiki ukaribu na msisitizo; ki- hupatanisha; kiji- hudunisha; kiume huonyesha sifa katika muktadha.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(b)(v)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Atakueleza huonyesha nafsi na wakati ujao; hikihiki ukaribu na msisitizo; ki- hupatanisha; kiji- hudunisha; kiume huonyesha sifa katika muktadha.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(c)",
+        "type": "review",
+        "answer": "Maneno yaliyopigiwa mstari hayaonekani katika nakala hii. Kwa mfano mtoto ni N, alianza ni T, kidogokidogo ni E, na Lo ni H; neno lengwa lazima lionekane ili kupewa jibu moja.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Misimu.",
+        "explanation": "Visakale husimulia yanayosadikiwa ya zamani; visasili hueleza chimbuko. Visakale hakipo katika orodha ya nakala hii."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Methali.",
+        "explanation": "Visakale husimulia yanayosadikiwa ya zamani; visasili hueleza chimbuko. Visakale hakipo katika orodha ya nakala hii."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Ngonjera.",
+        "explanation": "Visakale husimulia yanayosadikiwa ya zamani; visasili hueleza chimbuko. Visakale hakipo katika orodha ya nakala hii."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "Visakale.",
+        "explanation": "Visakale husimulia yanayosadikiwa ya zamani; visasili hueleza chimbuko. Visakale hakipo katika orodha ya nakala hii."
+      },
+      {
+        "label": "4(a)(v)",
+        "type": "written",
+        "answer": "Visasili.",
+        "explanation": "Visakale husimulia yanayosadikiwa ya zamani; visasili hueleza chimbuko. Visakale hakipo katika orodha ya nakala hii."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Mkono mrefu ni nahau ya wizi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "review",
+        "answer": "Jibu la kawaida la kitendawili ni kitunguu, lakini halipo katika chaguo zilizochapishwa.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Kupiga domo ni kusogoa au kuzungumza sana.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Kawia ufike huhimiza mwendo wa subira wenye mafanikio.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Mkanda huzunguka pande mbili za kiuno na kukutana mbele kwenye kifungo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "Kuthamini tabia njema katika uhusiano.",
+        "explanation": "Ushahidi unatokana na marudio ya napenda tabia njema."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "Tabia ina thamani kuliko sura.",
+        "explanation": "Ushahidi unatokana na marudio ya napenda tabia njema."
+      },
+      {
+        "label": "4(c)(iii)",
+        "type": "written",
+        "answer": "Msemaji anahisi mwenzake hakuthamini wema wake.",
+        "explanation": "Ushahidi unatokana na marudio ya napenda tabia njema."
+      },
+      {
+        "label": "4(c)(iv)",
+        "type": "written",
+        "answer": "Uhusiano udumu kwa maadili na kuheshimiana.",
+        "explanation": "Ushahidi unatokana na marudio ya napenda tabia njema."
+      },
+      {
+        "label": "4(c)(v)",
+        "type": "written",
+        "answer": "Nichague mwenendo mzuri na mawasiliano ya heshima badala ya kutegemea mwonekano.",
+        "explanation": "Ushahidi unatokana na marudio ya napenda tabia njema."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "S.L.P. 69, Mwanza. 10/11/2008.\nMkuu wa Shule, Shule ya Sekondari Umoja, S.L.P. 3043, Dar es Salaam.\nYAH: OMBI LA NAFASI YA KIDATO CHA KWANZA\nNdugu Mkuu wa Shule, ninaomba nafasi ya masomo ya Kidato cha Kwanza kwa mwanangu Masumbuko Mtata. Amehitimu elimu ya msingi katika Shule ya Juhudi. Nimesoma tangazo lenu la gazeti la Nipashe la tarehe 02/11/2008. Ninapendezwa na mazingira ya shule, vifaa na walimu mlioeleza. Tafadhali mnipatie fomu na maelekezo ya kuwasilisha matokeo na taarifa zinazohitajika. Nitashukuru ombi hili likizingatiwa.\nWako mwaminifu, Juma Mtata.",
+        "explanation": "Barua ya mzazi iwe na taarifa za mwanafunzi, rejea ya tangazo, ombi na anuani sahihi. Hakiki idadi ya maneno iwe 80–120."
+      }
+    ]
+  }
+}

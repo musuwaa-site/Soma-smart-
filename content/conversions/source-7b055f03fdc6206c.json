@@ -1,0 +1,259 @@
+{
+  "sourceId": "source-7b055f03fdc6206c",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)(i)",
+        "type": "written",
+        "answer": "Tsh 253,000",
+        "explanation": "Subtract both the withdrawal of 106,000 and the 1,000 charge from 360,000."
+      },
+      {
+        "label": "1(a)(ii)",
+        "type": "written",
+        "answer": "Tsh 202,000",
+        "explanation": "From 253,000 deduct the second withdrawal of 50,000 and another 1,000 fee."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "2 43/100",
+        "explanation": "The decimal has 2 whole units and 43 hundredths."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)(i)",
+        "type": "written",
+        "answer": "62 kg",
+        "explanation": "30.7 + 13.44 + 18.26 = 62.40 kg, which rounds down to the nearest kilogram."
+      },
+      {
+        "label": "2(a)(ii)",
+        "type": "written",
+        "answer": "Dog 31 kg, cat 13.4 kg, goat 18.3 kg.",
+        "explanation": "Round the dog to units, the cat to tenths, and the goat to three significant figures."
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "14 km 100 m 9 mm",
+        "explanation": "1,009 mm carries 1 m; 799 + 300 + 1 = 1,100 m carries 1 km."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "14,100.009 m",
+        "explanation": "Convert 14 km to 14,000 m and 9 mm to 0.009 m, and add the 100 m."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Mark A and B on the circumference and trace the curved segment AB.",
+        "explanation": "An arc follows the circumference between its endpoints."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Mark C and D on the circumference and join them with a straight line.",
+        "explanation": "A chord has both endpoints on the circle."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Shade the part bounded by OA, OB and arc AB.",
+        "explanation": "A sector lies between two radii and their connecting arc."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "written",
+        "answer": "Draw the straight line from centre O to point A on the circumference.",
+        "explanation": "A radius joins the centre to a point on the circle."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "49π m², or 154 m² using π = 22/7.",
+        "explanation": "The largest circle fits with diameter 14 m, giving radius 7 m."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "196 − 49π m², or 42 m² using π = 22/7.",
+        "explanation": "Subtract the circle's area from the 14 × 14 m square."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "a = 6 and b = 10.",
+        "explanation": "Multiply the first equation by 10 to get 5a − 2b = 10. Add 5 times the equation −a + 3b = 24, then solve 13b = 130."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Width 5 cm and length 10 cm.",
+        "explanation": "Solve w(w + 5) = 50, or (w − 5)(w + 10) = 0. Lengths must be positive."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Tsh 420,000",
+        "explanation": "Asha receives two of three equal shares of 630,000."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Tsh 7,500,000",
+        "explanation": "The four-year simple interest is 0.03 × 4 times the principal. Divide 900,000 by 0.12."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Tsh 8,400,000",
+        "explanation": "Add the interest of 900,000 to the original 7,500,000."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "p = 8 and q = 10.",
+        "explanation": "Substitute (6,10) into y = 3x − p. Then substitute (q,22) to solve 22 = 3q − 8."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Draw and label a rectangle measuring 5 cm by 2 cm.",
+        "explanation": "Divide each actual length by the scale factor 100."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "100,000 cm² = 10 m²",
+        "explanation": "The drawing area is 10 cm². Scale area by 100², then convert to square metres."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "PQ = −1 − 2√2",
+        "explanation": "Expand (√2 − 3)(√2 + 1) = 2 + √2 − 3√2 − 3."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "P/Q = 5 − 4√2",
+        "explanation": "Multiply numerator and denominator by √2 − 1. The denominator becomes 1 and the numerator is 2 − √2 − 3√2 + 3."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "x = p² − q, so x = 10.",
+        "explanation": "Square both sides and subtract q, then substitute p = 3 and q = −1."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "△FEG ∼ △MNG.",
+        "explanation": "The triangles share angle G and the parallel lines FE and MN give equal corresponding angles."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "16 cm",
+        "explanation": "Corresponding base lengths are EG = 24 cm and NG = 18 cm. Multiply MN = 12 cm by 24/18."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "The triangles are congruent by side–angle–side.",
+        "explanation": "The marked pairs AC and PQ, BC and PR are equal, and both included angles C and P are 48°."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "60°",
+        "explanation": "The angles in triangle PQR sum to 180°; subtract 48° and 72°."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "The frame diagonal is √61 ≈ 7.81 cm, matching 7.8 cm to one decimal place. Exact fit is not determined by the diagonal alone.",
+        "explanation": "Compare 6² + 5² with 7.8². A photograph with the same proportions fits to the stated precision; a different aspect ratio may not."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "4√2 cm, approximately 5.66 cm.",
+        "explanation": "The side is adjacent to 45° with diagonal 8 cm as hypotenuse. Use 8 cos 45°."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "100 villagers",
+        "explanation": "The union contains 1,500 − 300 = 1,200. Subtract this from 600 + 700 to obtain the overlap."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "500 villagers",
+        "explanation": "Subtract the overlap of 100 from the 600 goat keepers."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "600 villagers",
+        "explanation": "Subtract the overlap of 100 from the 700 cow keepers."
+      },
+      {
+        "label": "10(a)(iv)",
+        "type": "written",
+        "answer": "1,200 villagers",
+        "explanation": "Exclude the 300 who keep neither from the 1,500 villagers."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "10 marks",
+        "explanation": "Successive lower limits differ by 10."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "70–79",
+        "explanation": "The largest frequency in the table is 32."
+      },
+      {
+        "label": "10(b)(iii)",
+        "type": "written",
+        "answer": "94.5",
+        "explanation": "The highest interval by mark is 90–99. Its midpoint is (90 + 99)/2."
+      },
+      {
+        "label": "10(b)(iv)",
+        "type": "written",
+        "answer": "76 students",
+        "explanation": "Add the three frequencies at or above 70: 32 + 27 + 17."
+      },
+      {
+        "label": "10(b)(v)",
+        "type": "written",
+        "answer": "24 students",
+        "explanation": "The groups below 70 contain 3 + 21 students."
+      }
+    ]
+  }
+}

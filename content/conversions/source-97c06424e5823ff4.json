@@ -1,0 +1,483 @@
+{
+  "sourceId": "source-97c06424e5823ff4",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Bacteria are prokaryotes without membrane-bound nuclei.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Wildebeests eat producers and are primary consumers.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Mosses and liverworts are bryophytes.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Nasal hairs and mucus trap particles.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The diaphragm controls light through the microscope.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Pulmonary arteries carry blood to lungs.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Avoiding sexual exposure prevents sexual transmission; other safe practices include condoms and screened blood.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Kerosene can poison children if swallowed.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Dietary fibre and adequate fluids help prevent constipation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "The listed bacterial STIs and hepatitis B/HIV can spread sexually.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Liniment is the traditional kit item for muscle discomfort.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Cotton wool was traditionally used around wounds, but sterile gauze is preferred directly on open wounds.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "An adhesive bandage covers a small wound.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "Safety pins can secure a bandage.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "review",
+        "answer": "None of the listed items provides the recommended first treatment for a fresh thermal burn. Cool it with cool running water and seek care when needed. Petroleum jelly may be used later for some minor burns under appropriate guidance.",
+        "explanation": "Petroleum jelly is the printed traditional answer, but fresh burns should first be cooled with cool running water; do not immediately apply grease.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Identify a problem.",
+        "explanation": "Start with a question based on observation."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Gather information.",
+        "explanation": "Review what is already known."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Form a hypothesis.",
+        "explanation": "Propose a testable explanation."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "written",
+        "answer": "Plan and carry out a test.",
+        "explanation": "Control relevant variables."
+      },
+      {
+        "label": "3(a)(v)",
+        "type": "written",
+        "answer": "Record observations and results.",
+        "explanation": "Reliable records provide evidence."
+      },
+      {
+        "label": "3(a)(vi)",
+        "type": "written",
+        "answer": "Analyse and interpret results.",
+        "explanation": "Look for relationships in the evidence."
+      },
+      {
+        "label": "3(a)(vii)",
+        "type": "written",
+        "answer": "Conclude and communicate.",
+        "explanation": "Explain whether the evidence supports the hypothesis."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Eyes.",
+        "explanation": "Sight detects colour."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Nose.",
+        "explanation": "Olfactory receptors detect odours."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "Skin.",
+        "explanation": "Touch receptors detect texture."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Use insecticide-treated bed nets.",
+        "explanation": "They reduce mosquito bites."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Remove or manage standing water near homes.",
+        "explanation": "This can reduce mosquito breeding."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Use indoor residual spraying through trained programmes.",
+        "explanation": "It reduces mosquito survival."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Fit screens and use protective clothing or approved repellent.",
+        "explanation": "These reduce contact with mosquitoes."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Test and promptly treat suspected malaria through healthcare services.",
+        "explanation": "Effective treatment reduces illness and the parasite reservoir."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Light.",
+        "explanation": "It supplies energy."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Chlorophyll.",
+        "explanation": "It absorbs light energy."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Carbon dioxide.",
+        "explanation": "It provides carbon for sugars."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Water.",
+        "explanation": "It supplies hydrogen and electrons."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Produces food and biomass.",
+        "explanation": "Food chains depend on primary production."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Releases oxygen.",
+        "explanation": "Aerobic organisms use oxygen."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Removes carbon dioxide and stores chemical energy.",
+        "explanation": "It contributes to carbon cycling and energy flow."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Oxygen concentration is higher in alveolar air than in arriving blood.",
+        "explanation": "This creates an oxygen diffusion gradient."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Carbon dioxide concentration is higher in arriving blood than in alveolar air.",
+        "explanation": "This drives carbon dioxide diffusion outward."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Gases dissolve in the moist surface.",
+        "explanation": "Dissolved molecules cross membranes."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "The alveolar and capillary walls are very thin.",
+        "explanation": "A short diffusion distance speeds exchange."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Ventilation and blood flow maintain the gradients.",
+        "explanation": "Fresh air and circulating blood renew the exchange media."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Draw a leaf showing lamina, petiole, midrib and veins.",
+        "explanation": "Use a clear outline and accurate labels."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Lamina provides a broad surface for light absorption.",
+        "explanation": "Its area supports photosynthesis."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Veins carry water to and sugars from the leaf, and provide support.",
+        "explanation": "Vascular tissues connect the leaf to the rest of the plant."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Plasmodium: Protoctista; Apicomplexa, traditionally Sporozoa.",
+        "explanation": "It is a unicellular parasitic eukaryote."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Amoeba: Protoctista; Amoebozoa, traditionally Rhizopoda or Sarcodina.",
+        "explanation": "It forms pseudopodia."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "Mushroom: Fungi; Basidiomycota.",
+        "explanation": "Mushrooms bear spores on basidia."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Some amoebae, such as Entamoeba histolytica, cause amoebic dysentery.",
+        "explanation": "Not every amoeba is pathogenic."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Some mushrooms are poisonous and can cause severe illness if eaten.",
+        "explanation": "Many others are edible; safe identification is essential."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)A",
+        "type": "written",
+        "answer": "Root hair.",
+        "explanation": "The projection extends from an epidermal cell."
+      },
+      {
+        "label": "9(a)B",
+        "type": "written",
+        "answer": "Phloem.",
+        "explanation": "Small tissue groups alternate with the xylem."
+      },
+      {
+        "label": "9(a)C",
+        "type": "written",
+        "answer": "Xylem.",
+        "explanation": "The larger vessels conduct water."
+      },
+      {
+        "label": "9(a)D",
+        "type": "written",
+        "answer": "Cortex.",
+        "explanation": "The broad region lies between epidermis and vascular tissues."
+      },
+      {
+        "label": "9(b)A",
+        "type": "written",
+        "answer": "Absorbs water and mineral ions.",
+        "explanation": "A long extension provides surface area."
+      },
+      {
+        "label": "9(b)B",
+        "type": "written",
+        "answer": "Transports sugars and other organic solutes.",
+        "explanation": "Phloem distributes photosynthetic products."
+      },
+      {
+        "label": "9(b)C",
+        "type": "written",
+        "answer": "Transports water and dissolved mineral ions and provides support.",
+        "explanation": "Lignified vessel walls resist collapse."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Blood delivers oxygen, supplies nutrients, removes carbon dioxide, carries other wastes to excretory organs, transports hormones and distributes heat. It also carries immune cells and clotting components.",
+        "explanation": "Transport links exchange surfaces and organs to cells throughout the body."
+      }
+    ]
+  }
+}

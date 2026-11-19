@@ -1,0 +1,465 @@
+{
+  "sourceId": "source-a1578619daa013b2",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Potassium deficiency can produce marginal yellowing and dead leaf tissue.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Liniment was the traditional first-aid-kit answer for muscle discomfort; injury assessment and rest are also important.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Animal anaerobic respiration produces lactate.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Lions, hyenas and leopards are carnivores that can eat herbivores.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Boiling kills cholera bacteria in drinking water.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Cross-matching checks compatibility.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Spirit lamps and Bunsen burners supply heat.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Chewing increases the surface exposed to digestive enzymes.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Viruses reproduce inside living host cells.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Infected rat fleas transmit plague.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Toxic substances can cause poisoning and death.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Flammable substances ignite readily.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "Radioactive materials emit ionising radiation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Corrosives damage living tissue.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Biohazards include infectious microorganisms.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Lungs.",
+        "explanation": "Air reaches gas-exchange surfaces in the alveoli."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Moist skin and lungs in an adult frog.",
+        "explanation": "Both provide surfaces for diffusion."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Stomata.",
+        "explanation": "Leaf pores allow gases to diffuse between air and internal spaces."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "written",
+        "answer": "Gills.",
+        "explanation": "Thin gill surfaces exchange gases with water."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Carbon dioxide enters for photosynthesis.",
+        "explanation": "Plants use it to make carbohydrates."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Oxygen enters for aerobic respiration.",
+        "explanation": "Respiration transfers energy for cell activities."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "Respiratory carbon dioxide and excess photosynthetic oxygen can leave.",
+        "explanation": "Exchange prevents unwanted accumulation and maintains gradients."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Draw a narrow handle with a flat scoop: spatula, used to transfer small solid samples.",
+        "explanation": "The scoop holds a small quantity."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Draw a three-legged stand with a supporting ring: tripod, used to support vessels during heating.",
+        "explanation": "Its legs keep the vessel above the flame."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "Draw a spring clamp: test-tube holder, used to hold a test tube safely.",
+        "explanation": "It keeps hands away from hot glass."
+      },
+      {
+        "label": "4(d)",
+        "type": "written",
+        "answer": "Draw a cone with a narrow stem: filter funnel, used with filter paper in filtration.",
+        "explanation": "The paper traps insoluble material."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Fatigue.",
+        "explanation": "Anaemia reduces oxygen delivery."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Pallor.",
+        "explanation": "A low effective red-cell count reduces normal skin colour."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Jaundice.",
+        "explanation": "Red-cell breakdown produces excess bilirubin."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Episodes of severe pain.",
+        "explanation": "Sickled cells can obstruct small vessels."
+      },
+      {
+        "label": "5(a)(v)",
+        "type": "written",
+        "answer": "Swelling of hands or feet.",
+        "explanation": "Blocked small vessels can affect these areas."
+      },
+      {
+        "label": "5(a)(vi)",
+        "type": "written",
+        "answer": "Recurrent infections or delayed growth.",
+        "explanation": "The disorder can impair health and normal development."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Attend regular specialist care and follow prescribed treatment.",
+        "explanation": "A clinician can recommend disease-modifying treatment and preventive care."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Avoid dehydration and seek prompt care for fever or severe pain.",
+        "explanation": "These symptoms can indicate serious complications."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Both have a cell membrane.",
+        "explanation": "It regulates exchange."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Both have cytoplasm.",
+        "explanation": "Many metabolic reactions occur there."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "Typical cells of both have a nucleus.",
+        "explanation": "It contains genetic material."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Draw a plant cell with cell wall, cell membrane, cytoplasm, nucleus, large vacuole and chloroplasts.",
+        "explanation": "Label each structure accurately; chloroplasts apply to photosynthetic cells."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Artificial classification.",
+        "explanation": "It uses only a few superficial features."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "It may group unrelated organisms together.",
+        "explanation": "A shared visible feature need not indicate close ancestry."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "It may separate related organisms.",
+        "explanation": "A chosen feature may vary within a natural group."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "It ignores many important features.",
+        "explanation": "Internal anatomy and reproduction can provide useful evidence."
+      },
+      {
+        "label": "7(b)(iv)",
+        "type": "written",
+        "answer": "It does not reliably show evolutionary relationships.",
+        "explanation": "Natural classification draws on a wider range of evidence."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Put water in a beaker.",
+        "explanation": "Water provides the surrounding medium."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "If warming is required, heat gently under supervision and remove the flame.",
+        "explanation": "Warmth increases molecular movement; do not handle hot glass with bare hands."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "Place the tea bag in the water without stirring.",
+        "explanation": "Tea particles begin highly concentrated near the bag."
+      },
+      {
+        "label": "8(a)(iv)",
+        "type": "written",
+        "answer": "Observe colour spreading through the water.",
+        "explanation": "Particles spread down a concentration gradient."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Diffusion enables gaseous exchange.",
+        "explanation": "Oxygen and carbon dioxide move across thin surfaces."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Diffusion moves small dissolved substances between cells and their surroundings.",
+        "explanation": "A concentration gradient drives net movement."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Use safe treated or boiled drinking water.",
+        "explanation": "This removes or kills the waterborne bacteria."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Wash hands with soap after using the toilet and before handling food.",
+        "explanation": "Hand hygiene interrupts faecal–oral spread."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Use latrines and dispose of faeces safely.",
+        "explanation": "This limits water contamination."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Cook food thoroughly and eat it safely stored.",
+        "explanation": "Heat and hygiene reduce contamination."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Seek prompt treatment and educate others about hygiene.",
+        "explanation": "Early care reduces deaths and outbreak spread."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Drying removes water; salting binds water; sugaring preserves jams by reducing water availability; refrigeration slows growth; pasteurisation reduces microbes with controlled heat; canning combines heat with airtight storage.",
+        "explanation": "Each method delays spoilage by controlling microbes or their growing conditions. Use hygienic handling and appropriate storage."
+      }
+    ]
+  }
+}

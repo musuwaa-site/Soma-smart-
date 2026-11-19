@@ -1,0 +1,460 @@
+{
+  "sourceId": "source-8bec80d3a1e6f906",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The percentage is a claim that can be checked against results.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Musa is singular and a daily routine takes the simple present.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Each expression in this list orders events in time.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Specific keywords and phrases restrict a search to relevant results.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "My business partner describes the speaker’s relationship with Juma.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "review",
+        "answer": "B is grammatical, though everyone has blood pressure.",
+        "explanation": "For a medical problem one normally says I have high blood pressure. Headache usually needs an article in this context; mumps does not take a."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Plot describes the organised sequence of story events; sequence also names their order.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A dummy entry refers readers elsewhere rather than supplying its own full definition.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Today describes a single arrival here; the other choices signal habitual actions.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The singular subject cow takes the singular present form is.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Somebody Wanted But So Then identifies a participant, aim, difficulty, response and outcome.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "This is the remaining summary strategy in the matching list; SAAC usually prompts State, Assign, Action, Complete.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "When identifies the time.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Why asks for a cause.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "How asks about manner or process.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Noun.",
+        "explanation": "A noun names an entity."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Conjunction.",
+        "explanation": "Conjunctions join or subordinate words and clauses."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Interjection.",
+        "explanation": "An interjection expresses sudden emotion."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "Verb.",
+        "explanation": "A verb expresses an action or state and can carry tense."
+      },
+      {
+        "label": "3(e)",
+        "type": "written",
+        "answer": "Adjective.",
+        "explanation": "An adjective describes a noun."
+      },
+      {
+        "label": "3(f)",
+        "type": "written",
+        "answer": "Pronoun.",
+        "explanation": "A pronoun can stand for a noun phrase."
+      },
+      {
+        "label": "3(g)",
+        "type": "written",
+        "answer": "Adverb.",
+        "explanation": "An adverb modifies a verb, adjective or other adverb."
+      },
+      {
+        "label": "3(h)",
+        "type": "written",
+        "answer": "Preposition.",
+        "explanation": "Prepositions show relationships such as place and direction."
+      },
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Tense or a tensed verb.",
+        "explanation": "Tense places events in time and is expressed through verb forms."
+      },
+      {
+        "label": "3(j)",
+        "type": "written",
+        "answer": "Article or determiner.",
+        "explanation": "The contrasts with a or an to mark definiteness."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Somebody: Juma, a schoolboy in Mwangaza. Wanted: to enter the science competition. But: he lacked money and his classmates mocked him. So: he built a solar lamp from discarded materials. Then: he won first prize and received a scholarship.",
+        "explanation": "The five lines connect Juma’s goal, obstacle, action and outcome in order."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "add",
+        "explanation": "Addition names the action of adding."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "attract",
+        "explanation": "Attract is already the verb. The related noun is attraction."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "beautify",
+        "explanation": "Beautify means make beautiful."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "accept",
+        "explanation": "Acceptance is the noun formed from accept."
+      },
+      {
+        "label": "5(a)(v)",
+        "type": "written",
+        "answer": "build",
+        "explanation": "Building is related to the base verb build."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "illiterate",
+        "explanation": "Il- makes the opposite of literate."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "disobey",
+        "explanation": "Dis- reverses the meaning."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "incorrect",
+        "explanation": "In- negates correct."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "improper",
+        "explanation": "Im- makes the opposite of proper."
+      },
+      {
+        "label": "5(b)(v)",
+        "type": "written",
+        "answer": "unfriendly",
+        "explanation": "Un- gives the opposite of friendly."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "waist",
+        "explanation": "Waist refers to the body measurement; waste has a different meaning."
+      },
+      {
+        "label": "6(ii)",
+        "type": "review",
+        "answer": "The supplied sentence already reads correctly.",
+        "explanation": "Expecting a letter from my mother today contains no required spelling correction."
+      },
+      {
+        "label": "6(iii)",
+        "type": "review",
+        "answer": "The supplied sentence already reads correctly.",
+        "explanation": "Stare means look fixedly and is the correct spelling here."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "stationery shop",
+        "explanation": "Stationery means writing materials and a stationery shop sells them. Stationary means unmoving."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "The dog barks.",
+        "explanation": "Use the base form plus -s for a singular subject."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Keneth eats ugali.",
+        "explanation": "The simple present is eats."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Asnath and Erick watch animal movies.",
+        "explanation": "The plural subject takes watch."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Kin writes a letter.",
+        "explanation": "The name is singular, so use writes."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "We play football tomorrow.",
+        "explanation": "The simple present can describe a scheduled event; we takes play."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "I walk to school every day: habit.",
+        "explanation": "The repeated activity takes the simple present."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Water boils at 100°C at sea level: general truth.",
+        "explanation": "The statement describes a regular physical fact."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "The bus leaves at noon: timetable.",
+        "explanation": "The present tense can describe a scheduled departure."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Asha is my sister: relationship.",
+        "explanation": "Is links Asha to the family relationship."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "He owns a bicycle: possession.",
+        "explanation": "Owns describes a current state."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "I do not eat meat.",
+        "explanation": "Do carries the negative particle."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Does she read English?",
+        "explanation": "Third-person singular takes does, and read stays in the base form."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Asha enjoys chess and I do too.",
+        "explanation": "Do substitutes for enjoy chess."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "They do work hard.",
+        "explanation": "Stressed do emphasises the affirmative statement."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "They do their homework.",
+        "explanation": "Here do is a main verb describing the action, not an auxiliary."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "On Sundays I wake up at six and tidy my bed. After breakfast I wash my clothes and read my notes in the study room. I have lunch with my friends, then we play netball. Before supper I prepare my uniform and books for Monday. In the evening I write to my family and go to bed early.",
+        "explanation": "Use a personal, chronological account and simple present verbs for regular school routines. Other realistic routines are valid."
+      }
+    ]
+  }
+}

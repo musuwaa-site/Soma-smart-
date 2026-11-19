@@ -1,0 +1,390 @@
+{
+  "sourceId": "source-c8b2f4cbdb53027b",
+  "groups": {
+    "1 (multiple choice)": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Mabadiliko yanaweza kuimarisha mshikamano au kuleta migogoro kulingana na mazingira. Kwa neno yanaweza, A na C zote zinaeleza uwezekano.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Ushirikiano na mshikamano husaidia amani.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Ukarimu huonekana katika heshima na huduma.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Historia ya matumizi ya rasilimali hufundisha uhifadhi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Maadili ya taifa ni sehemu ya utambulisho.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Kusaidiana hujenga jamii imara.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Historia hueleza mabadiliko ya taifa.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Thatcher alitaja watu binafsi na familia zao.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Uhamaji wa Kibantu huhusishwa na Afrika Magharibi na Kati.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Makundi ya shule ni Wanilo, Wakushito, Wakichembe na Wabantu.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "1 (matching)": [
+      {
+        "label": "1 (matching)(i)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Mifumo ya uzalishaji imeorodheshwa G.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "1 (matching)(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Kilimo, ufugaji na uvuvi ni shughuli.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "1 (matching)(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Familia huunganishwa kwa damu au ndoa.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "1 (matching)(iv)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "Maadili huongoza tabia njema.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "1 (matching)(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Historia hushughulikia mambo yaliyopita.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "written",
+        "answer": "SI KWELI",
+        "explanation": "Historia huhusu pia uchumi na jamii."
+      },
+      {
+        "label": "2(ii)",
+        "type": "written",
+        "answer": "SI KWELI",
+        "explanation": "Ukoloni ulibadili lugha, elimu na desturi."
+      },
+      {
+        "label": "2(iii)",
+        "type": "written",
+        "answer": "KWELI",
+        "explanation": "Mshikamano unaimarisha kusaidiana."
+      },
+      {
+        "label": "2(iv)",
+        "type": "written",
+        "answer": "KWELI",
+        "explanation": "Masomo hutoa mbinu na maarifa yanayosaidiana."
+      },
+      {
+        "label": "2(v)",
+        "type": "written",
+        "answer": "SI KWELI",
+        "explanation": "Hadzabe na Sandawe huhusishwa na jamii za awali zinazotumia lugha zenye mibofyo."
+      },
+      {
+        "label": "2(vi)",
+        "type": "written",
+        "answer": "KWELI",
+        "explanation": "Kuelewa taifa husaidia uzalendo."
+      },
+      {
+        "label": "2(vii)",
+        "type": "written",
+        "answer": "KWELI, kama iliyokusudiwa ni kupunguza migogoro.",
+        "explanation": "Sentensi imeacha kitu kinachopunguzwa. Maadili yanaweza kusaidia amani."
+      },
+      {
+        "label": "2(viii)",
+        "type": "written",
+        "answer": "Maelezo yanakaribia kabila zaidi kuliko jamii kwa ujumla.",
+        "explanation": "Jamii inaweza kuwa na watu wa lugha na desturi tofauti."
+      },
+      {
+        "label": "2(ix)",
+        "type": "written",
+        "answer": "KWELI",
+        "explanation": "Wabantu ni kundi kubwa katika uainishaji wa kawaida wa shule."
+      },
+      {
+        "label": "2(x)",
+        "type": "written",
+        "answer": "SI KWELI",
+        "explanation": "Uaminifu na ushirikiano huathiri uchumi na maisha ya watu."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Historia ya Tanzania na Maadili",
+        "explanation": "Hizi ndizo dhana mbili za jina la somo."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Wabantu, Wanilo, Wakushito na Wakichembe",
+        "explanation": "Ni makundi ya kawaida ya lugha na jamii katika muktadha wa shule."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Kundi la watu wanaoishi na kushirikiana kwa mahusiano, taasisi au taratibu za pamoja.",
+        "explanation": "Wanajamii wana utegemeano na kanuni za kuishi."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Ukoo",
+        "explanation": "Ukoo huunganisha familia kwa nasaba au asili inayotambuliwa."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Kilimo kwenye vyanzo vya maji, kuchoma misitu ovyo na kuchafua udongo kwa matumizi mabaya ya kemikali.",
+        "explanation": "Vitendo hivyo huharibu mazingira na haki za watumiaji wengine."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Historia ni uchunguzi wa mambo yaliyopita na mabadiliko katika jamii kwa kutumia ushahidi.",
+        "explanation": "Mfano ni kuchunguza harakati za uhuru."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Maadili ni kanuni na thamani zinazoongoza tabia inayokubalika.",
+        "explanation": "Uaminifu na haki ni mifano."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Ukoo ni muungano wa familia zinazotambua nasaba au asili ya pamoja.",
+        "explanation": "Familia kadhaa zinaweza kujitambua kwa babu mmoja."
+      }
+    ],
+    "Unnumbered after 4": [
+      {
+        "label": "Matarajio (i)",
+        "type": "written",
+        "answer": "Kuelewa historia ya taifa.",
+        "explanation": "Matukio husaidia kuelewa maisha ya sasa."
+      },
+      {
+        "label": "Matarajio (ii)",
+        "type": "written",
+        "answer": "Kujenga uzalendo unaoheshimu watu wote.",
+        "explanation": "Uraia una wajibu wa pamoja."
+      },
+      {
+        "label": "Matarajio (iii)",
+        "type": "written",
+        "answer": "Kutumia uaminifu na haki.",
+        "explanation": "Thamani huongoza matendo."
+      },
+      {
+        "label": "Matarajio (iv)",
+        "type": "written",
+        "answer": "Kuchambua ushahidi kabla ya hitimisho.",
+        "explanation": "Historia hutegemea vyanzo."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Ukoloni wa Kijerumani na Kiingereza.",
+        "explanation": "Ulibadili utawala na uzalishaji."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Vita vya Maji Maji, 1905–1907.",
+        "explanation": "Viliathiri makazi, uchumi na upinzani."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Uhuru wa Tanganyika, 1961.",
+        "explanation": "Ulibadili mamlaka ya kisiasa."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Mapinduzi ya Zanzibar, 1964.",
+        "explanation": "Yalibadili utawala wa Zanzibar."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Muungano wa Tanganyika na Zanzibar, 1964.",
+        "explanation": "Uliunda taifa la Tanzania."
+      }
+    ]
+  }
+}

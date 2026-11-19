@@ -1,0 +1,399 @@
+{
+  "sourceId": "source-cb367c115ccc472e",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Uranium has radioactive isotopes.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Food may be contaminated by hazardous chemicals.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Biochemistry studies chemical processes of living organisms.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Emergency equipment must be quickly reachable.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Chemists investigate a substance’s properties.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Goggles protect eyes; specialist radiation protection depends on radiation type.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Permission is required before entering the laboratory.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Cooking oil is mainly a food product.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A pestle crushes solids in a mortar.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Medicines can treat diseases; some also prevent disease.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "Suffocation prevents adequate oxygen supply.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Choking obstructs the airway.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Vomiting expels stomach contents.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Shock means inadequate circulation to vital tissues.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Fainting is a temporary loss of consciousness.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Chemistry supports development and quality testing of medicines.",
+        "explanation": "Medicines have chemical composition and effects."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Soil testing and fertiliser analysis improve farming.",
+        "explanation": "Nutrient and pH measurements guide decisions."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Fuels, lubricants and battery materials support transport.",
+        "explanation": "Their chemical properties suit energy and friction-control needs."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Chemist, pharmacist, chemical engineer and laboratory analyst.",
+        "explanation": "Each career applies chemical understanding or measurement."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Glass is transparent, easy to clean, often chemically resistant and available in heat-resistant grades.",
+        "explanation": "Ordinary glass is not safe for every chemical or temperature."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Enter only with permission; do not eat or taste chemicals; wear eye protection; report spills and injuries.",
+        "explanation": "These rules reduce exposure and enable trained assistance."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Large windows provide light and ventilation.",
+        "explanation": "Ventilation helps remove unwanted vapour under suitable laboratory conditions."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Concentrated chemicals may corrode plumbing and harm water systems.",
+        "explanation": "Use the laboratory’s designated waste procedure."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "A suitable extinguisher enables trained staff to control a small safe-to-approach fire.",
+        "explanation": "Equipment must suit the fire class and remain accessible."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Science develops reasoning, practical skills, understanding of health and environment, and career opportunities.",
+        "explanation": "Evidence-based problem solving has everyday value."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Beaker resembles a cup and holds or mixes liquids.",
+        "explanation": "Its broad opening makes mixing convenient."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Funnel resembles a kitchen funnel and guides pouring.",
+        "explanation": "A narrow stem directs liquid."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Mortar and pestle resemble food-grinding utensils and crush solids.",
+        "explanation": "The pestle applies force against the bowl."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Balance resembles weighing scales and measures mass.",
+        "explanation": "Calibrated comparison gives a mass reading."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Tongs resemble cooking tongs and hold suitable objects.",
+        "explanation": "They keep hands away from the object."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Spills, damaged apparatus, careless handling and blocked work areas can cause accidents.",
+        "explanation": "Safe organisation and supervision reduce these hazards."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Chemistry contributes medicines, clean-water treatment, construction materials and agricultural inputs.",
+        "explanation": "Useful products arise from controlled material changes."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Disposable gloves limit blood contact.",
+        "explanation": "Use clean protective barriers."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Sterile gauze applies gentle direct pressure and covers the cut.",
+        "explanation": "Direct pressure helps control minor bleeding."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Clean dressing protects the wound.",
+        "explanation": "Avoid contamination."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Bandage secures the dressing.",
+        "explanation": "It should not restrict circulation."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Blunt scissors cut dressing material.",
+        "explanation": "Seek medical help for persistent or serious bleeding."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "Move away from heat if safe, alert an adult, cool the burn under cool running water for about 20 minutes, remove loose jewellery before swelling and cover loosely with a clean non-stick dressing; seek medical help.",
+        "explanation": "Do not apply ice, oils or creams or remove clothing stuck to skin."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Immediate help limits ongoing injury, relieves pain, protects from contamination, reduces complications and helps obtain medical treatment.",
+        "explanation": "Severe or extensive burns need urgent professional care."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Fragile; handle gently and keep secure against falls.",
+        "explanation": "The broken-glass symbol warns of breakage."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Explosive; avoid impact and ignition and leave handling to trained staff.",
+        "explanation": "Sudden energy release can cause serious injury."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Corrosive; avoid skin and eye contact using appropriate protection.",
+        "explanation": "The symbol shows damage to tissue."
+      },
+      {
+        "label": "5(d)",
+        "type": "written",
+        "answer": "Flammable; keep away from ignition sources.",
+        "explanation": "Vapour or material can ignite."
+      },
+      {
+        "label": "5(e)",
+        "type": "written",
+        "answer": "Toxic; avoid exposure and follow trained supervision.",
+        "explanation": "The skull warns of acute poisoning danger."
+      }
+    ]
+  }
+}

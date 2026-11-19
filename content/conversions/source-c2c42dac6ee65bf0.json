@@ -1,0 +1,311 @@
+{
+  "sourceId": "source-c2c42dac6ee65bf0",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Baadhi ya maeneo yalikuwa na wafalme na mabaraza ya wazee."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Kabila huwa na utambulisho wa pamoja kama lugha na desturi."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Ukarimu ni kupokea na kuhudumia wageni."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Maadili huongoza tabia na matendo."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Barghash bin Said alijenga Beit al-Ajaib."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Teknolojia ni matumizi ya maarifa katika kutengeneza na kutumia zana."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Waingereza walitumia utawala wa kiuwakala kupitia baadhi ya viongozi wa jadi."
+      },
+      {
+        "label": "1(viii)",
+        "type": "review",
+        "answer": "Mzizi wa Kiarabu khādim humaanisha mtumishi. Karatasi imerudia herufi B; zingatia maana ya kuhudumu.",
+        "explanation": "Hadimu huhusishwa na huduma au uhudumu."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Jiografia hueleza mazingira ambamo matukio ya historia yalitokea."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Mwingiliano na ndoa uliunganisha familia za asili mbalimbali."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "answer": {
+          "i": "C",
+          "ii": "D",
+          "iii": "F",
+          "iv": "G",
+          "v": "B"
+        },
+        "explanation": "Ubeberu unahusishwa na upanuzi wa ubepari. Biashara ilivutia wafanyabiashara wa Kiarabu. Tanganyika ilikuwa sehemu ya Afrika Mashariki ya Kijerumani. Seyyid Said alihamia Zanzibar. Krapf na Rebmann walifanya kazi ya umisionari Afrika Mashariki; kauli ya kuwa wa kwanza Tanzania inahitaji kutofautisha eneo na kipindi."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Wamiliki wa mashamba na wafanyabiashara wakubwa.",
+        "explanation": "Mpangilio ulitegemea umiliki na uhuru wa mtu."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Watu huru wadogo, wakiwemo mafundi na wakulima.",
+        "explanation": "Tofautisha watu huru na wale waliotumikishwa."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Watu waliotumikishwa utumwani.",
+        "explanation": "Watumwa walinyimwa uhuru na haki za kazi."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Umoja wa Mataifa.",
+        "explanation": "Mfumo wa udhamini ulisimamiwa na Umoja wa Mataifa."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Uingereza.",
+        "explanation": "Uingereza iliteuliwa kusimamia Tanganyika."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Mikataba na baadhi ya viongozi.",
+        "explanation": "Taja mbinu ya kupata ushawishi au kudhibiti jamii."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Matumizi ya nguvu za kijeshi.",
+        "explanation": "Upinzani ulizimwa kwa nguvu."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Sera ya kugawa na kutawala.",
+        "explanation": "Mgawanyiko wa jamii ulitumiwa kudhoofisha upinzani."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Ujerumani.",
+        "explanation": "Ujerumani ilitawala kabla ya Vita Kuu ya Kwanza."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Uingereza.",
+        "explanation": "Uingereza ilifuata chini ya mfumo wa mamlaka na baadaye udhamini."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Uongozi wa watalii.",
+        "explanation": "Kila shughuli hutumia urithi kwa njia ya kupata elimu au kipato."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Kuuza kazi za sanaa ya jadi.",
+        "explanation": "Kila shughuli hutumia urithi kwa njia ya kupata elimu au kipato."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Huduma za malazi katika maeneo ya urithi.",
+        "explanation": "Kila shughuli hutumia urithi kwa njia ya kupata elimu au kipato."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Utafiti wa akiolojia.",
+        "explanation": "Kila shughuli hutumia urithi kwa njia ya kupata elimu au kipato."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Maonesho ya ngoma na muziki.",
+        "explanation": "Kila shughuli hutumia urithi kwa njia ya kupata elimu au kipato."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Amani.",
+        "explanation": "Mfano wa thamani inayotambuliwa na kukuzwa na taifa."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Umoja.",
+        "explanation": "Mfano wa thamani inayotambuliwa na kukuzwa na taifa."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Uhuru.",
+        "explanation": "Mfano wa thamani inayotambuliwa na kukuzwa na taifa."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Utu.",
+        "explanation": "Mfano wa thamani inayotambuliwa na kukuzwa na taifa."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Usawa.",
+        "explanation": "Mfano wa thamani inayotambuliwa na kukuzwa na taifa."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Utengano wa baadhi ya jamii ulidhoofisha ushirikiano; wakoloni walikuwa na silaha na fedha nyingi; baadhi ya viongozi walishirikiana nao; njia za mawasiliano za wapinzani zilikuwa na mipaka; ukosefu wa mahitaji muhimu ulidhoofisha upinzani.",
+        "explanation": "Unganisha kila sababu na namna ilivyopunguza uwezo wa kuendeleza upinzani."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Majembe yalirahisisha kilimo; zana za kukata ziliongeza ujenzi; ufundi uliendeleza biashara; uzalishaji wa chakula uliongezeka; watu walipata kazi maalumu za uhunzi.",
+        "explanation": "Eleza mabadiliko ya kijamii au kiuchumi yaliyotokana na zana za chuma."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Ulinzi wa pamoja, ujamaa wa kifamilia, kubadilishana bidhaa, kushirikiana katika kilimo na kusaidiana wakati wa njaa au maradhi.",
+        "explanation": "Kila hoja inaonyesha faida ya kushirikiana au kukaa karibu."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Mataifa ya Ulaya yalitafuta malighafi, masoko, maeneo ya uwekezaji, nguvu kazi, njia za biashara na umaarufu katika ushindani wao wa kisiasa. Mfano ni udhibiti wa bandari ili kusafirisha malighafi na bidhaa.",
+        "explanation": "Eleza kila lengo na athari yake kwa sera za kikoloni."
+      }
+    ]
+  }
+}

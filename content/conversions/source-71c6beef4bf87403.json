@@ -1,0 +1,461 @@
+{
+  "sourceId": "source-71c6beef4bf87403",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Askari ni jina la mtu, si dhana.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Kitomeo ni kidahizo pamoja na taarifa zake.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Mkazo wa kawaida uko silabi ya pili kutoka mwisho, du.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Fonolojia huchunguza sauti na matamshi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Kiwakilishi husimama badala ya nomino katika matumizi hayo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Lafudhi inaweza kuonyesha athari ya lugha ya kwanza.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Mtoto ina silabi m-to-to.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Maneno ya msemaji hutenganishwa kwa alama za kunukuu. Koma hutenga orodha, pumziko au tungo zinazohusiana.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Lugha hujengwa kwa sauti, silabi, maneno na tungo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Alikuwa huunganisha mama na hali ya kuwa nyumbani.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Chetu huonyesha umiliki; wangapi swali; wale kuonyesha; chochote kutobainisha kitu maalumu.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Chetu huonyesha umiliki; wangapi swali; wale kuonyesha; chochote kutobainisha kitu maalumu.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "review",
+        "answer": "Shujaa ni nomino katika “Shujaa amepewa zawadi”, si kiwakilishi. Hakuna aina sahihi ya kiwakilishi katika orodha.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Chetu huonyesha umiliki; wangapi swali; wale kuonyesha; chochote kutobainisha kitu maalumu.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "Chetu huonyesha umiliki; wangapi swali; wale kuonyesha; chochote kutobainisha kitu maalumu.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Mfumo wa sauti au alama za nasibu unaotumiwa na jamii kuwasiliana.",
+        "explanation": "Fasili ieleze sifa kuu inayotofautisha dhana."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Neno linalotaja mtu, kitu, mahali au hali.",
+        "explanation": "Fasili ieleze sifa kuu inayotofautisha dhana."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Kutumia neno la heshima kupunguza ukali wa kauli.",
+        "explanation": "Fasili ieleze sifa kuu inayotofautisha dhana."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Mchakato wa kubadilishana ujumbe.",
+        "explanation": "Fasili ieleze sifa kuu inayotofautisha dhana."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Kitabu au nyenzo ya marejeo inayofafanua maneno.",
+        "explanation": "Fasili ieleze sifa kuu inayotofautisha dhana."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Hurahisisha biashara.",
+        "explanation": "Kila hoja ihusishe lugha na shughuli halisi ya maendeleo."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Huunganisha wananchi.",
+        "explanation": "Kila hoja ihusishe lugha na shughuli halisi ya maendeleo."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Husaidia elimu.",
+        "explanation": "Kila hoja ihusishe lugha na shughuli halisi ya maendeleo."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Huhifadhi utamaduni.",
+        "explanation": "Kila hoja ihusishe lugha na shughuli halisi ya maendeleo."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Hurahisisha huduma za umma.",
+        "explanation": "Kila hoja ihusishe lugha na shughuli halisi ya maendeleo."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Mtoroka.",
+        "explanation": "Nomino huundwa kutokana na mzizi na viambishi vinavyofaa."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Mwimbaji.",
+        "explanation": "Nomino huundwa kutokana na mzizi na viambishi vinavyofaa."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Tangazo.",
+        "explanation": "Nomino huundwa kutokana na mzizi na viambishi vinavyofaa."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Kifo.",
+        "explanation": "Nomino huundwa kutokana na mzizi na viambishi vinavyofaa."
+      },
+      {
+        "label": "5(a)(v)",
+        "type": "written",
+        "answer": "Chakula.",
+        "explanation": "Nomino huundwa kutokana na mzizi na viambishi vinavyofaa."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Amepotea: kitenzi.",
+        "explanation": "Kazi ya neno ndani ya sentensi ndiyo msingi wa uainishaji."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Sana: kielezi.",
+        "explanation": "Kazi ya neno ndani ya sentensi ndiyo msingi wa uainishaji."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Ni: kitenzi kishirikishi.",
+        "explanation": "Kazi ya neno ndani ya sentensi ndiyo msingi wa uainishaji."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "Mrefu: kivumishi.",
+        "explanation": "Kazi ya neno ndani ya sentensi ndiyo msingi wa uainishaji."
+      },
+      {
+        "label": "5(b)(v)",
+        "type": "written",
+        "answer": "Na: kiunganishi.",
+        "explanation": "Kazi ya neno ndani ya sentensi ndiyo msingi wa uainishaji."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Kiimbo ni mpando na mshuko wa sauti wakati wa kusema.",
+        "explanation": "Kiimbo hubeba hisia na kusudi la kauli."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Kutoa maelezo.",
+        "explanation": "Kiimbo pamoja na alama ya mwisho hutofautisha swali, amri na taarifa."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Kutoa amri au himizo.",
+        "explanation": "Kiimbo pamoja na alama ya mwisho hutofautisha swali, amri na taarifa."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "Kuuliza swali.",
+        "explanation": "Kiimbo pamoja na alama ya mwisho hutofautisha swali, amri na taarifa."
+      },
+      {
+        "label": "6(b)(iv)",
+        "type": "written",
+        "answer": "Kutoa maelezo kuhusu Juma.",
+        "explanation": "Kiimbo pamoja na alama ya mwisho hutofautisha swali, amri na taarifa."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Hutumia sauti.",
+        "explanation": "Sifa zionyeshe namna mazungumzo yanavyowasilishwa na kupokelewa."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Kiimbo na mkazo vina nafasi.",
+        "explanation": "Sifa zionyeshe namna mazungumzo yanavyowasilishwa na kupokelewa."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Mrejesho unaweza kutolewa papo hapo.",
+        "explanation": "Sifa zionyeshe namna mazungumzo yanavyowasilishwa na kupokelewa."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Ishara huongeza maana wanapoonana.",
+        "explanation": "Sifa zionyeshe namna mazungumzo yanavyowasilishwa na kupokelewa."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Maneno huteuliwa kwa muktadha na washiriki.",
+        "explanation": "Sifa zionyeshe namna mazungumzo yanavyowasilishwa na kupokelewa."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Hufafanua maana ya kitu.",
+        "explanation": "Picha ziwe na uhusiano wa moja kwa moja na kidahizo au maelezo."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Hutofautisha vitu vinavyofanana.",
+        "explanation": "Picha ziwe na uhusiano wa moja kwa moja na kidahizo au maelezo."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Husaidia wanaojifunza lugha.",
+        "explanation": "Picha ziwe na uhusiano wa moja kwa moja na kidahizo au maelezo."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Hufanya ufafanuzi kuwa rahisi kukumbuka.",
+        "explanation": "Picha ziwe na uhusiano wa moja kwa moja na kidahizo au maelezo."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Huonyesha sehemu na umbo ambalo maneno pekee yanaweza kutofafanua kirahisi.",
+        "explanation": "Picha ziwe na uhusiano wa moja kwa moja na kidahizo au maelezo."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Sikiliza kwa umakini.",
+        "explanation": "Msikilizaji anahitaji kuelewa ujumbe na kutoa mrejesho unaofaa."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Tambua mada na kusudi.",
+        "explanation": "Msikilizaji anahitaji kuelewa ujumbe na kutoa mrejesho unaofaa."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Heshimu zamu ya msemaji.",
+        "explanation": "Msikilizaji anahitaji kuelewa ujumbe na kutoa mrejesho unaofaa."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Bainisha hoja kuu.",
+        "explanation": "Msikilizaji anahitaji kuelewa ujumbe na kutoa mrejesho unaofaa."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Uliza ufafanuzi inapofaa.",
+        "explanation": "Msikilizaji anahitaji kuelewa ujumbe na kutoa mrejesho unaofaa."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "S.L.P. 20, Moshi. 1/12/2025.\nMpendwa Mzazi,\nShikamoo. Nimechaguliwa kushiriki mashindano ya uandishi wa insha ngazi ya Taifa yatakayofanyika Mbeya tarehe 10 Desemba. Kwa hiyo sitaweza kurejea nyumbani mwanzoni mwa likizo. Shule itatusaidia kuratibu safari, na nitawasiliana nawe kuhusu muda wa kurudi. Nitaendelea kujiandaa kwa kusoma na kuandika. Naomba baraka zako.\nMwanao, Ayubu Juma.",
+        "explanation": "Barua ya kirafiki ihifadhi jina, sababu ya kutorudi, mahali na tarehe zilizoelezwa."
+      }
+    ]
+  }
+}

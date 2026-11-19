@@ -1,0 +1,217 @@
+{
+  "sourceId": "source-cb0b71ad8e4e2e39",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "review",
+        "answer": "Hakuna kauli moja yenye makosa ya wazi. Hata kujifunza tulikotoka na tulipo ni umuhimu wa historia.",
+        "explanation": "Jadiliana kuhusu ushahidi wa kila chaguo. Swali hili halihesabiwi kwa ufunguo mmoja."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Thatcher alisisitiza wanaume, wanawake na familia zao."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Muziki hufundisha na kuhifadhi matukio ya kihistoria."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Wahadimu, Wahehe, Wangoni na Wanyakyusa hupangwa miongoni mwa jamii za Kibantu."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Mfumo wa rika ulihusisha majukumu kwa makundi ya umri."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Ziara ya Bagamoyo huwezesha kujifunza urithi wa kihistoria."
+      },
+      {
+        "label": "1(vii)",
+        "type": "review",
+        "answer": "Wairaki wanazungumza lugha ya Kikushito ya kusini. Uhamaji wa muda mrefu hauwezi kuthibitishwa kwa kuchagua taifa moja la kisasa kutoka orodha hii bila chanzo cha ziada.",
+        "explanation": "Jadiliana kuhusu ushahidi wa kila chaguo. Swali hili halihesabiwi kwa ufunguo mmoja."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Beit al-Ajaib ilijengwa mwaka 1883."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Majengo na shughuli za jadi ni urithi wa kiutamaduni."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Hadithi hupitisha maadili kutoka kizazi kimoja kwenda kingine."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ],
+        "answer": {
+          "i": "E",
+          "ii": "F",
+          "iii": "C",
+          "iv": "B",
+          "v": "I"
+        },
+        "explanation": "Morani walikuwa walinzi, laiboni alihusishwa na uongozi wa juu wa kimila, wazee walitoa maamuzi, wanawake walishiriki ujenzi wa makao na watoto wadogo walifanya kazi karibu na nyumbani."
+      }
+    ],
+    "3": [
+      {
+        "label": "3",
+        "type": "written",
+        "answer": "Uaminifu hulinda mali ya pamoja. Haki hupunguza migogoro. Uwajibikaji huimarisha huduma za umma. Heshima huwalinda walio dhaifu. Kusaidiana hujenga mshikamano.",
+        "explanation": "Unganisha kila thamani na matokeo yake kwa watu."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Jiografia huchambua mazingira ya uhamaji. Hisabati husaidia kupanga matukio kwa tarehe. Lugha hutunza masimulizi. Sanaa na michezo huonyesha desturi. Muziki huhifadhi matukio na kufundisha maadili.",
+        "explanation": "Eleza kiungo cha kila somo kwa mfano maalumu."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Kusikiliza watu kabla ya uamuzi, kuwajibika kwa jamii, kupatanisha kwa haki, kutunza rasilimali za pamoja na kushirikisha wenye uzoefu.",
+        "explanation": "Jadili desturi zenye faida ambazo zinaweza kutumika katika mazingira ya leo."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Urithi asilia kama Mlima Kilimanjaro; wa kihistoria kama magofu ya Kaole; na wa kitamaduni kama ngoma za jadi.",
+        "explanation": "Asilia hutokana na mazingira; historia huonyesha matukio yaliyopita; utamaduni huonyesha namna ya maisha. Makundi yanaweza kuingiliana."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Maadili hufundishwa kupitia hadithi na mila. Pia huelekeza namna watu wanavyoshirikiana katika sherehe, malezi na kazi za pamoja.",
+        "explanation": "Ni urithi usioshikika kwa kuwa unaendelezwa kwa maarifa na matendo."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Baadhi ya jamii za Kikushito zilifuga ng’ombe, zililima, zilifanya biashara, zilifanya ufundi na zilishirikiana katika shughuli za kijamii kama malezi. Kwa mfano baadhi ya Wairaki wanajishughulisha na kilimo na ufugaji.",
+        "explanation": "Shughuli hutegemea mazingira na kipindi; onyesha kwa mfano bila kudhani kila jamii ilifanana."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Uwazi mdogo, ukosefu wa uwajibikaji, taratibu ndefu, hofu ya kuripoti na maslahi binafsi vinaweza kukuza rushwa. Kwa mfano, gharama za huduma zisipowekwa wazi mtu anaweza kudai malipo yasiyo halali.",
+        "explanation": "Eleza jinsi kila sababu inavyoweka mazingira ya hongo."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Naweza kuongoza wageni, kutengeneza sanaa kwa malighafi endelevu, kushiriki uhifadhi wa vyanzo vya maji, kutoa huduma za malazi zinazoheshimu mazingira na kufundisha wageni kuhusu wanyama wa eneo. Mapato na uhifadhi vinanufaisha watu na taifa.",
+        "explanation": "Eleza fursa, hatua utakayochukua na faida yake."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Vyakula vya jadi hutoa soko la mazao; ngoma na muziki hutoa ajira; tiba za asili zinaweza kuchunguzwa kisayansi na kudhibitiwa kwa usalama; utafiti wa akiolojia huvutia wageni; Kiswahili hurahisisha biashara. Maonesho huunganisha mafundi na wanunuzi ili pato libaki katika jamii.",
+        "explanation": "Insha iunganishe kila shughuli na ajira, mapato au uuzaji wa huduma."
+      }
+    ]
+  }
+}

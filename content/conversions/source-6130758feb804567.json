@@ -1,0 +1,370 @@
+{
+  "sourceId": "source-6130758feb804567",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Nitrogen makes about 78% of dry air.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Experiments test proposed explanations.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A saturated solution holds its equilibrium maximum solute.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "The rotating collar controls the air-hole opening.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Laboratories support practical scientific investigations.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A syrup is ordinarily a solution; it is also a homogeneous mixture.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A magnet attracts iron but not sulphur.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Flammable substances ignite readily.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "review",
+        "answer": "The outer zone is pale blue and the inner unburnt zone is colourless.",
+        "explanation": "The outer complete-combustion zone is pale blue while the inner unburnt gas zone is colourless; the printed choices do not state this accurately.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Concentrated acids can corrode materials.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Compounds contain chemically bonded elements.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Filtration retains insoluble solids.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Matter has mass and volume.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Incomplete combustion gives soot and yellow light.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "More oxygen supports cleaner combustion.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Chemistry studies matter, its properties, composition and changes.",
+        "explanation": "Chemical study connects substances with their transformations."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Organic chemistry studies carbon compounds; inorganic chemistry other compounds; physical chemistry energy and physical principles; analytical chemistry identifies and measures substances.",
+        "explanation": "Each branch addresses a different chemical question."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Matter is anything with mass that occupies space.",
+        "explanation": "Mass and volume distinguish physical matter."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Solid particles vibrate around fixed positions; liquid particles remain close but slide; gas particles are widely separated and move randomly.",
+        "explanation": "Increasing freedom of particle movement explains shape and volume."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "Solid: ice; liquid: water; gas: water vapour.",
+        "explanation": "These are three physical states of the same substance."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "A solution is a homogeneous mixture of solute and solvent; examples are salt water and sugar water.",
+        "explanation": "The dissolved particles are distributed throughout the liquid."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Pure sodium chloride is a compound: sodium and chlorine are bonded, occur in a fixed ratio, have properties unlike the elements, and require chemical means to separate.",
+        "explanation": "Table salt may contain additives, but the intended pure substance is NaCl."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Chemistry helps test soil, manage pH, select fertilisers, analyse irrigation water and develop crop-protection products.",
+        "explanation": "Chemical analysis supports informed farming decisions and safe use of inputs."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "First aid kit.",
+        "explanation": "It contains supplies for immediate assistance before medical care."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Gloves reduce contact with blood; sterile gauze covers wounds; bandages hold dressings; blunt scissors cut dressing material.",
+        "explanation": "Use clean supplies and seek qualified help for serious injury."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Fuel, heat and oxygen.",
+        "explanation": "Removing one component interrupts combustion."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Water can spread burning flammable liquids and cause splashing.",
+        "explanation": "Use an extinguisher suitable for the burning material."
+      },
+      {
+        "label": "7(c)(i)",
+        "type": "written",
+        "answer": "A cooking-oil fire is class F, or class K under the US system; older school schemes may group liquid fuels under B.",
+        "explanation": "Hot cooking oils have special re-ignition hazards."
+      },
+      {
+        "label": "7(c)(ii)",
+        "type": "written",
+        "answer": "A rated wet-chemical extinguisher is designed for cooking-oil fires; raise the alarm and evacuate if unsafe.",
+        "explanation": "Never apply water to burning cooking oil."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Beaker holds liquids; test tube holds small samples; measuring cylinder measures volume; funnel assists pouring or filtration; balance measures mass.",
+        "explanation": "Select each apparatus for its designed measurement or handling task."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Adequate ventilation, good lighting, clear exits and working safety equipment.",
+        "explanation": "These reduce exposure and enable emergency response."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Luminous flame.",
+        "explanation": "It emits visible yellow light."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Glowing soot particles produce yellow light; its brightness makes it visible.",
+        "explanation": "Use proper lighting for safe practical work, rather than depending on a flame."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "Draw a yellow outer luminous zone, a dark inner unburnt-gas zone and the blue base.",
+        "explanation": "Label each zone with clear lines."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Symbols are concise and internationally standardised.",
+        "explanation": "They avoid long or language-dependent names in formulas."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(1)",
+        "type": "written",
+        "answer": "Broken-glass or fragile warning, as appropriate.",
+        "explanation": "Glass presents breakage and cut hazards."
+      },
+      {
+        "label": "10(a)(2)",
+        "type": "written",
+        "answer": "Flame symbol.",
+        "explanation": "Petrol gives highly flammable vapour."
+      },
+      {
+        "label": "10(a)(3)",
+        "type": "written",
+        "answer": "Corrosion symbol.",
+        "explanation": "Concentrated acids can injure skin and attack materials."
+      },
+      {
+        "label": "10(a)(4)",
+        "type": "written",
+        "answer": "Toxic or harmful symbol as specified by the pesticide label.",
+        "explanation": "Hazard classification depends on the actual formulation."
+      },
+      {
+        "label": "10(a)(5)",
+        "type": "written",
+        "answer": "Oxidiser: flame over a circle.",
+        "explanation": "Concentrated hydrogen peroxide can intensify combustion; exact label depends on concentration."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Evaporation dries clothes; freezing preserves food.",
+        "explanation": "Changes of state transfer energy without creating a new substance."
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "sourceId": "source-5f321d2a9ee47f45",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a) GCF",
+        "type": "written",
+        "answer": "30",
+        "explanation": "90=2×3²×5 and240=2⁴×3×5. Take shared minimum powers."
+      },
+      {
+        "label": "1(a) LCM",
+        "type": "written",
+        "answer": "720",
+        "explanation": "Take maximum powers2⁴×3²×5."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "About200",
+        "explanation": "Round8108 to8000 and37 to40 before dividing. Other reasonable stated estimation methods are acceptable."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)",
+        "type": "written",
+        "answer": "13/7 or1 6/7",
+        "explanation": "The bracket is18/5−3/2=21/10. Divide39/10 by21/10."
+      },
+      {
+        "label": "2(b)",
+        "type": "written",
+        "answer": "1 23/99",
+        "explanation": "Both digits23 repeat. If x=0.2323…,100x−x=23."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Tsh1,440,000",
+        "explanation": "Six months is half a year. P=36000/(0.05×0.5)."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "15 litres",
+        "explanation": "50×300 ml=15,000 ml. Divide by1000."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "30° and60°",
+        "explanation": "Let the smaller angle be a. Then a+2a=90°."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "4 cm each; draw an isosceles triangle with base7 cm and sides4 cm.",
+        "explanation": "Subtract the base from perimeter15, then divide the remaining8 equally."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "x=2",
+        "explanation": "Multiply by2:2−(x+2)=2x−6. Hence3x=6."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "9/16",
+        "explanation": "The coefficient of n is3/2. Half is3/4, whose square is9/16. Add the term to both sides to preserve the equation."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "(7,−3)",
+        "explanation": "The translation vector from(−2,2) to(0,0) is(2,−2)."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "y=2",
+        "explanation": "The two given points have equal y-coordinates."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "z=2(√3+√2)",
+        "explanation": "Rationalise2/(√3−√2) by multiplying by the conjugate."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "△ABC≅△AED by SAS.",
+        "explanation": "AB=AE is marked, BC=ED is marked, and the base angles of isosceles triangle ABE give∠ABC=∠AED."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "−1",
+        "explanation": "Write log8=3log2 and log4=2log2. The quotient is(3−4)/(2−1)."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "80°",
+        "explanation": "P↔L,Q↔M,R↔N. The triangle has angles60°,40° and80°."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "14.283 km",
+        "explanation": "The remaining leg is√(20²−14²)=√204."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "√3/2",
+        "explanation": "2sin60=√3, cos30=√3/2 andtan60=√3; the first and last cancel."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a) n(A∪B)",
+        "type": "written",
+        "answer": "9",
+        "explanation": "Equality of set sizes gives7−2x=5, hence x=1. Add the three regions4+1+4."
+      },
+      {
+        "label": "10(a) n(A)",
+        "type": "written",
+        "answer": "5",
+        "explanation": "The A-only region is7−3=4 and the overlap is1."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "2 hours",
+        "explanation": "The other sectors total105+90+30+60+45=330°. The private-study sector is30°, giving30/360×24=2hours."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "7 hours",
+        "explanation": "The sleeping sector is105°; multiply105/360 by24."
+      }
+    ]
+  }
+}

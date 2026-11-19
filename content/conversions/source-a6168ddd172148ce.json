@@ -1,0 +1,255 @@
+{
+  "sourceId": "source-a6168ddd172148ce",
+  "groups": {
+    "1 (A)": [
+      {
+        "label": "A1(i)",
+        "type": "review",
+        "answer": "Winds drive most surface currents; density differences drive deeper circulation.",
+        "explanation": "Rotation changes current direction. No printed choice accurately states the main driving mechanism."
+      },
+      {
+        "label": "A1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The Atlantic bounds western Africa."
+      },
+      {
+        "label": "A1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Compression folds rock layers."
+      },
+      {
+        "label": "A1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "These four planets are the outer giants."
+      },
+      {
+        "label": "A1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Transport is an economic activity within human geography."
+      },
+      {
+        "label": "A1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "360 divided by 24 equals 15 degrees per hour."
+      },
+      {
+        "label": "A1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "An archipelago is an island group."
+      },
+      {
+        "label": "A1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A sea is saline and partly enclosed by land."
+      },
+      {
+        "label": "A1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Liquid water is essential for known life."
+      },
+      {
+        "label": "A1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Seasons require axial tilt and revolution together.",
+        "acceptedAnswers": [
+          "A",
+          "B"
+        ]
+      }
+    ],
+    "2 (A)": [
+      {
+        "label": "A2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "E",
+          "iii": "D",
+          "iv": "A",
+          "v": "G"
+        },
+        "explanation": "Desert plants tolerate aridity, swamps have persistent wet ground, grassland lacks dense trees, woodland has open trees and aquatic plants live in water."
+      }
+    ],
+    "1 (B)": [
+      {
+        "label": "B1(a)",
+        "type": "written",
+        "answer": "A major division of land on Earth.",
+        "explanation": "A continent includes extensive land and associated islands."
+      },
+      {
+        "label": "B1(b)",
+        "type": "written",
+        "answer": "Africa, Asia, Europe, North America, South America, Australia and Antarctica.",
+        "explanation": "These are the seven conventional continents."
+      }
+    ],
+    "2 (B)": [
+      {
+        "label": "B2",
+        "type": "written",
+        "answer": "Use a sketch for each: ships disappear hull first; Earth casts a round shadow in lunar eclipses; travellers can circumnavigate; different stars become visible with latitude; photographs from orbit show a globe.",
+        "explanation": "Independent observations from land, sea and space support surface curvature."
+      }
+    ],
+    "3 (B)": [
+      {
+        "label": "B3(a)",
+        "type": "written",
+        "answer": "03:00 local solar time.",
+        "explanation": "135 degrees westward corresponds to 9 hours earlier than noon."
+      },
+      {
+        "label": "B3(b)",
+        "type": "written",
+        "answer": "165°W.",
+        "explanation": "Five hours ahead is 75° east of 120°E: 195°E is equivalent to 165°W."
+      }
+    ],
+    "4 (B)": [
+      {
+        "label": "B4(i)",
+        "type": "written",
+        "answer": "Day and night: draw half of rotating Earth in sunlight and half in darkness.",
+        "explanation": "The Sun illuminates only the facing hemisphere."
+      },
+      {
+        "label": "B4(ii)",
+        "type": "written",
+        "answer": "Label Sun, Earth and Moon in that order with the Moon entering Earth’s shadow. Show sunlight travelling from the Sun, the dark umbra and partial penumbra.",
+        "explanation": "Earth’s shadow falls on the Moon."
+      },
+      {
+        "label": "B4(iii)",
+        "type": "written",
+        "answer": "Draw Sun–Moon–Earth and the lunar shadow reaching Earth.",
+        "explanation": "The Moon obscures sunlight from a small terrestrial area."
+      },
+      {
+        "label": "B4(iv)",
+        "type": "written",
+        "answer": "Draw an elliptical orbit with the Sun at a focus; mark perihelion nearest and aphelion farthest.",
+        "explanation": "Distance varies during revolution."
+      }
+    ],
+    "5 (B)": [
+      {
+        "label": "B5(a)",
+        "type": "written",
+        "answer": "The International Date Line is the conventional calendar-date boundary near 180° longitude.",
+        "explanation": "Crossing eastward subtracts a date and westward adds one."
+      },
+      {
+        "label": "B5(b)",
+        "type": "written",
+        "answer": "It bends to avoid splitting countries and island groups into different calendar dates.",
+        "explanation": "Date boundaries follow practical and political arrangements."
+      }
+    ],
+    "6 (B)": [
+      {
+        "label": "B6",
+        "type": "written",
+        "answer": "Fold mountains form when compression buckles rock; block mountains stand above adjacent blocks after fault movement; volcanic mountains accumulate erupted material; residual mountains remain when erosion lowers surrounding land.",
+        "explanation": "Distinguish compression, fault displacement, eruption and differential erosion."
+      }
+    ],
+    "9 (B)": [
+      {
+        "label": "B9",
+        "type": "written",
+        "answer": "From coast to deep ocean label the continental shelf, slope and rise, abyssal plain, mid-ocean ridge, seamount and ocean trench.",
+        "explanation": "A labelled cross-section should show the relative heights, depths and shapes clearly."
+      }
+    ],
+    "10 (C)": [
+      {
+        "label": "C10",
+        "type": "written",
+        "answer": "Latitude and longitude locate places uniquely, support navigation, help relate latitude to climate zones and allow local solar time to be calculated from longitude.",
+        "explanation": "Parallels run east–west and measure north–south position; meridians connect the poles and measure east–west position."
+      }
+    ]
+  }
+}

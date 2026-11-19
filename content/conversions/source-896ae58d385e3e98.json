@@ -1,0 +1,425 @@
+{
+  "sourceId": "source-896ae58d385e3e98",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Suitable extinguishers control small fires when used by trained people.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A fire blanket resists flame and excludes oxygen.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Liquid particles move past one another.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Rock salt contains impurities while the intended pure salt is NaCl.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Bleaching removes colour before dyeing.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Silver chloride is insoluble in water.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Both systems group elements with similar properties.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Aluminium has valency three and bromine one.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Gas particles move freely and spread.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Filtration retains the solid precipitate.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "The boiling flask holds the mixture.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "The fractionating column permits repeated evaporation and condensation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A thermometer monitors vapour temperature.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "The condenser cools vapour.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The receiver collects distillate.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Observation detects relevant changes.",
+        "explanation": "Careful noticing provides evidence."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Measurement assigns quantities using instruments.",
+        "explanation": "Calibrated readings make comparisons possible."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Classification groups substances by properties.",
+        "explanation": "It organises information systematically."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "written",
+        "answer": "Experimentation tests hypotheses with controlled variables.",
+        "explanation": "Evidence can support or challenge an explanation."
+      },
+      {
+        "label": "3(a)(v)",
+        "type": "written",
+        "answer": "Analysis interprets patterns in data.",
+        "explanation": "Conclusions should follow observations."
+      },
+      {
+        "label": "3(a)(vi)",
+        "type": "written",
+        "answer": "Communication reports procedures and findings clearly.",
+        "explanation": "Other people can evaluate and reproduce work."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Bleaching removes unwanted colour.",
+        "explanation": "It prepares fabric for uniform colouring."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Dyeing gives fabric a chosen colour.",
+        "explanation": "Dyes interact with fibres under suitable processing conditions."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "The printed word “Vibration” is unclear. If laboratory was intended, suitable extinguishers allow trained staff to control small fires.",
+        "explanation": "The source wording is preserved; the safety reason concerns a laboratory."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Windows provide light and ventilation.",
+        "explanation": "Ventilation helps prevent accumulation of unwanted vapours."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "Concentrated waste can damage plumbing and harm water systems.",
+        "explanation": "Use designated chemical waste management."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Flame-resistant material such as suitable woven fibreglass.",
+        "explanation": "The material must resist ignition."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "It cuts off oxygen to the burning clothing.",
+        "explanation": "Smothering interrupts the fire triangle."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Call for help and stop the person running; a trained helper uses the blanket to cover the flames while protecting their own hands and face; cool burns and seek medical care.",
+        "explanation": "Avoid inhaling smoke and do not attempt a rescue that puts another person in danger."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Liquid particles remain close but can slide past each other.",
+        "explanation": "Their relative movement permits flow."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Gas particles move randomly through the available space.",
+        "explanation": "Weak attractions and large separation allow spreading."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "Heating increases particle vibration and average separation.",
+        "explanation": "Thermal expansion usually changes volume without changing the substance."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Rock salt contains NaCl and impurities; pure sodium chloride has a fixed bonded composition.",
+        "explanation": "Mixtures vary in composition but a compound has a definite ratio."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Muddy water contains physically mixed particles and water; pure water consists of H2O molecules.",
+        "explanation": "Filtration can separate mud, while decomposition of water needs chemical change."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "The idealised carbon in charcoal is an element and sugar contains chemically bonded carbon, hydrogen and oxygen.",
+        "explanation": "Real charcoal is impure, so it should not literally be called a pure element."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Protons and neutrons are in the nucleus.",
+        "explanation": "The nucleus contains almost all atomic mass."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Electrons occupy regions around the nucleus.",
+        "explanation": "Shell models describe their energy levels."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Proton.",
+        "explanation": "Each proton carries one positive elementary charge."
+      },
+      {
+        "label": "8(d)",
+        "type": "written",
+        "answer": "Proton and neutron.",
+        "explanation": "Each has approximately one atomic mass unit."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Both express periodicity and group similar elements. Mendeleev used relative atomic mass, modern law uses atomic number; isotopes occupy one modern position; anomalous mass ordering is resolved by proton number.",
+        "explanation": "Atomic number is the fundamental property determining electron structure."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "KCl.",
+        "explanation": "K⁺ and Cl⁻ combine 1:1."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "CaS.",
+        "explanation": "Ca²⁺ and S²⁻ combine 1:1."
+      },
+      {
+        "label": "9(b)(iii)",
+        "type": "written",
+        "answer": "LiF.",
+        "explanation": "Li⁺ and F⁻ combine 1:1."
+      },
+      {
+        "label": "9(b)(iv)",
+        "type": "written",
+        "answer": "AlN.",
+        "explanation": "Al³⁺ and N³⁻ combine 1:1."
+      },
+      {
+        "label": "9(b)(v)",
+        "type": "written",
+        "answer": "AlBr3.",
+        "explanation": "Three bromide ions balance one aluminium ion."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(i)",
+        "type": "written",
+        "answer": "AgNO3(aq) + NaCl(aq) → AgCl(s) + NaNO3(aq).",
+        "explanation": "Silver chloride precipitates."
+      },
+      {
+        "label": "10(ii)",
+        "type": "written",
+        "answer": "Ag⁺(aq) + Cl⁻(aq) → AgCl(s).",
+        "explanation": "Sodium and nitrate ions are spectators."
+      },
+      {
+        "label": "10(iii)",
+        "type": "written",
+        "answer": "AgCl.",
+        "explanation": "Its low solubility produces the solid."
+      },
+      {
+        "label": "10(iv)",
+        "type": "written",
+        "answer": "Filter the suspension.",
+        "explanation": "Filter paper retains precipitated silver chloride."
+      },
+      {
+        "label": "10(v)",
+        "type": "written",
+        "answer": "The separate solutions are clear and colourless; after mixing the liquid becomes cloudy with white solid.",
+        "explanation": "Formation of insoluble particles changes the appearance."
+      }
+    ]
+  }
+}

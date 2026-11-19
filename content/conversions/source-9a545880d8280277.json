@@ -1,0 +1,361 @@
+{
+  "sourceId": "source-9a545880d8280277",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "Kifo cha Mke Mpendwa",
+        "explanation": "Kichwa kinabeba tukio kuu la huzuni."
+      },
+      {
+        "label": "1(b)(i)",
+        "type": "written",
+        "answer": "Kufiwa na mkewe baada ya kuugua.",
+        "explanation": "Tukio hilo limeelezwa katika aya ya kwanza."
+      },
+      {
+        "label": "1(b)(ii)",
+        "type": "written",
+        "answer": "Miaka kumi.",
+        "explanation": "Kifungu kinataja miaka kumi ya kuishi pamoja."
+      },
+      {
+        "label": "1(c)(i)",
+        "type": "written",
+        "answer": "Mwaminifu, mwenye ushauri mwema na tabia ya kuigwa.",
+        "explanation": "Mwandishi anasifu tabia pamoja na msaada aliopata."
+      },
+      {
+        "label": "1(c)(ii)",
+        "type": "written",
+        "answer": "Kwa mtazamo wake, alikuwa na sifa za sura na tabia alizozithamini.",
+        "explanation": "Huu ni mtazamo binafsi wa mwandishi kuhusu mkewe."
+      },
+      {
+        "label": "1(d)(i)",
+        "type": "written",
+        "answer": "Kitu au mtu wa thamani kubwa.",
+        "explanation": "Maneno ya picha yanafasiriwa kwa muktadha wa maombolezo."
+      },
+      {
+        "label": "1(d)(ii)",
+        "type": "written",
+        "answer": "Urefu wa wastani.",
+        "explanation": "Maneno ya picha yanafasiriwa kwa muktadha wa maombolezo."
+      },
+      {
+        "label": "1(d)(iii)",
+        "type": "written",
+        "answer": "Nadra kupatikana.",
+        "explanation": "Maneno ya picha yanafasiriwa kwa muktadha wa maombolezo."
+      },
+      {
+        "label": "1(d)(iv)",
+        "type": "written",
+        "answer": "Kifo.",
+        "explanation": "Maneno ya picha yanafasiriwa kwa muktadha wa maombolezo."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "written",
+        "answer": "Mwandishi anasimulia kifo cha mkewe baada ya kuugua kwa muda mfupi. Waliishi pamoja kwa miaka kumi yenye mapenzi, amani na furaha. Mkewe alikuwa mshauri, tegemeo na mwaminifu. Mwandishi anasifu sura na tabia yake. Alimtafuta kwa miaka kumi kabla ya kumuoa. Kifo chake kilileta huzuni kubwa nyumbani na kumfanya mwandishi ashindwe kuzuia machozi kutokana na kumpoteza mtu aliyemthamini sana katika maisha yake.",
+        "explanation": "Hakiki idadi iwe maneno sitini; muhtasari utaje tukio, muda wa ndoa, tabia na hisia za mwandishi."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Toleana.",
+        "explanation": "Kauli ya kutendeana huonyesha kutenda kwa manufaa au uhusiano wa pande mbili."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Fyekeana.",
+        "explanation": "Kauli ya kutendeana huonyesha kutenda kwa manufaa au uhusiano wa pande mbili."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Ondoleana.",
+        "explanation": "Kauli ya kutendeana huonyesha kutenda kwa manufaa au uhusiano wa pande mbili."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "written",
+        "answer": "Pigiana.",
+        "explanation": "Kauli ya kutendeana huonyesha kutenda kwa manufaa au uhusiano wa pande mbili."
+      },
+      {
+        "label": "3(a)(v)",
+        "type": "written",
+        "answer": "Liliana.",
+        "explanation": "Kauli ya kutendeana huonyesha kutenda kwa manufaa au uhusiano wa pande mbili."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Malezi.",
+        "explanation": "Nomino inatokana na mzizi wa kitenzi na viambishi vinavyofaa."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Kinyozi.",
+        "explanation": "Nomino inatokana na mzizi wa kitenzi na viambishi vinavyofaa."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "Mapishi.",
+        "explanation": "Nomino inatokana na mzizi wa kitenzi na viambishi vinavyofaa."
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "written",
+        "answer": "Mchezo.",
+        "explanation": "Nomino inatokana na mzizi wa kitenzi na viambishi vinavyofaa."
+      },
+      {
+        "label": "3(b)(v)",
+        "type": "written",
+        "answer": "Msomaji.",
+        "explanation": "Nomino inatokana na mzizi wa kitenzi na viambishi vinavyofaa."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Ugonjwa.",
+        "explanation": "Nomino dhahania hutaja hali, sifa au dhana isiyoshikika moja kwa moja."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Shibe.",
+        "explanation": "Nomino dhahania hutaja hali, sifa au dhana isiyoshikika moja kwa moja."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Maarifa.",
+        "explanation": "Nomino dhahania hutaja hali, sifa au dhana isiyoshikika moja kwa moja."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Ushindi.",
+        "explanation": "Nomino dhahania hutaja hali, sifa au dhana isiyoshikika moja kwa moja."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Starehe.",
+        "explanation": "Nomino dhahania hutaja hali, sifa au dhana isiyoshikika moja kwa moja."
+      },
+      {
+        "label": "4(vi)",
+        "type": "written",
+        "answer": "Uzuri.",
+        "explanation": "Nomino dhahania hutaja hali, sifa au dhana isiyoshikika moja kwa moja."
+      },
+      {
+        "label": "4(vii)",
+        "type": "written",
+        "answer": "Uvivu, janga.",
+        "explanation": "Nomino dhahania hutaja hali, sifa au dhana isiyoshikika moja kwa moja."
+      },
+      {
+        "label": "4(viii)",
+        "type": "written",
+        "answer": "Ukosefu, njaa.",
+        "explanation": "Nomino dhahania hutaja hali, sifa au dhana isiyoshikika moja kwa moja."
+      },
+      {
+        "label": "4(ix)",
+        "type": "written",
+        "answer": "Anasa, maendeleo.",
+        "explanation": "Nomino dhahania hutaja hali, sifa au dhana isiyoshikika moja kwa moja."
+      },
+      {
+        "label": "4(x)",
+        "type": "written",
+        "answer": "Furaha.",
+        "explanation": "Nomino dhahania hutaja hali, sifa au dhana isiyoshikika moja kwa moja."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Kubadilishana ujumbe; mfano, wanafunzi wanazungumza na mwalimu.",
+        "explanation": "Mawasiliano yana mtumaji, ujumbe na mpokeaji."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Kipashio cha sauti kinachotamkwa kwa pamoja; mfano ba katika baba.",
+        "explanation": "Silabi huwa na kilele cha irabu katika Kiswahili."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Mfumo wa alama au sauti za nasibu unaotumiwa na jamii kuwasiliana; mfano Kiswahili.",
+        "explanation": "Lugha ina kanuni na makubaliano ya watumiaji."
+      },
+      {
+        "label": "5(d)",
+        "type": "written",
+        "answer": "Sauti inayotamkwa bila kizuizi kikubwa cha hewa; mfano /a/.",
+        "explanation": "Irabu za Kiswahili ni a, e, i, o, u."
+      },
+      {
+        "label": "5(e)",
+        "type": "written",
+        "answer": "Tungo inayotoa taarifa au wazo linalojitosheleza katika muktadha; mfano Watoto wanasoma.",
+        "explanation": "Sentensi huunganisha vipashio kwa kanuni za lugha."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Kaa kwenye kiti. / Kaa ametembea ufukweni.",
+        "explanation": "Sentensi mbili zionyeshe maana tofauti za neno lilelile."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Tai amepaa angani. / Baba amevaa tai shingoni.",
+        "explanation": "Sentensi mbili zionyeshe maana tofauti za neno lilelile."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Kata mkate vipande. / Kata yetu ina shule mpya.",
+        "explanation": "Sentensi mbili zionyeshe maana tofauti za neno lilelile."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Kanga anataga mayai. / Mama amenunua kanga ya kuvaa.",
+        "explanation": "Sentensi mbili zionyeshe maana tofauti za neno lilelile."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Ulezi wa watoto unahitaji upendo. / Mkulima amevuna ulezi.",
+        "explanation": "Sentensi mbili zionyeshe maana tofauti za neno lilelile."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Chunguza giza.",
+        "explanation": "Mifano ya ukamilishaji wa semi za kimapokeo; toleo jingine linalotambulika linakubalika. “Jina jema hung’ara gizani” na “Mjukuu si mwana, ni nyongeza” huendeleza dhana za sifa njema na vizazi."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Waulize wasiosoma.",
+        "explanation": "Mifano ya ukamilishaji wa semi za kimapokeo; toleo jingine linalotambulika linakubalika. “Jina jema hung’ara gizani” na “Mjukuu si mwana, ni nyongeza” huendeleza dhana za sifa njema na vizazi."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Hung’ara gizani.",
+        "explanation": "Mifano ya ukamilishaji wa semi za kimapokeo; toleo jingine linalotambulika linakubalika. “Jina jema hung’ara gizani” na “Mjukuu si mwana, ni nyongeza” huendeleza dhana za sifa njema na vizazi."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Haina baraka.",
+        "explanation": "Mifano ya ukamilishaji wa semi za kimapokeo; toleo jingine linalotambulika linakubalika. “Jina jema hung’ara gizani” na “Mjukuu si mwana, ni nyongeza” huendeleza dhana za sifa njema na vizazi."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Ni nyongeza.",
+        "explanation": "Mifano ya ukamilishaji wa semi za kimapokeo; toleo jingine linalotambulika linakubalika. “Jina jema hung’ara gizani” na “Mjukuu si mwana, ni nyongeza” huendeleza dhana za sifa njema na vizazi."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Baiskeli au miguu.",
+        "explanation": "Baiskeli husukumwa kwa nguvu za mtu; kujikwaa ni kuumia bila kutenda kosa; barabara ni ndefu lakini si kamba; popo ana sifa za kuruka na za mamalia; njiti ni wapangaji wa kisanduku."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Kujikwaa.",
+        "explanation": "Baiskeli husukumwa kwa nguvu za mtu; kujikwaa ni kuumia bila kutenda kosa; barabara ni ndefu lakini si kamba; popo ana sifa za kuruka na za mamalia; njiti ni wapangaji wa kisanduku."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Barabara.",
+        "explanation": "Baiskeli husukumwa kwa nguvu za mtu; kujikwaa ni kuumia bila kutenda kosa; barabara ni ndefu lakini si kamba; popo ana sifa za kuruka na za mamalia; njiti ni wapangaji wa kisanduku."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Popo.",
+        "explanation": "Baiskeli husukumwa kwa nguvu za mtu; kujikwaa ni kuumia bila kutenda kosa; barabara ni ndefu lakini si kamba; popo ana sifa za kuruka na za mamalia; njiti ni wapangaji wa kisanduku."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Kiberiti chenye njiti.",
+        "explanation": "Baiskeli husukumwa kwa nguvu za mtu; kujikwaa ni kuumia bila kutenda kosa; barabara ni ndefu lakini si kamba; popo ana sifa za kuruka na za mamalia; njiti ni wapangaji wa kisanduku."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Chagua dhamira na ujumbe.",
+        "explanation": "Kila kipengele kisimamie hadithi yenye mantiki na ujumbe ulio wazi."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Buni wahusika wanaofaa.",
+        "explanation": "Kila kipengele kisimamie hadithi yenye mantiki na ujumbe ulio wazi."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Panga mwanzo, maendeleo na mwisho.",
+        "explanation": "Kila kipengele kisimamie hadithi yenye mantiki na ujumbe ulio wazi."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Chagua mazingira na wakati.",
+        "explanation": "Kila kipengele kisimamie hadithi yenye mantiki na ujumbe ulio wazi."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Tumia lugha inayofaa hadhira.",
+        "explanation": "Kila kipengele kisimamie hadithi yenye mantiki na ujumbe ulio wazi."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "LULU MWENDOKASI SLP1012 MWANZA MAMA ANAUMWA MWASI MWENDOKASI",
+        "explanation": "Anuani na majina yafuate swali; ujumbe utoe habari fupi bila kuongeza ugonjwa au safari isiyoelezwa."
+      }
+    ]
+  }
+}

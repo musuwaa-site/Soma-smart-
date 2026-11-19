@@ -1,0 +1,392 @@
+{
+  "sourceId": "source-430c06188c40852c",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Earth takes approximately 365¼ days to orbit the Sun."
+      },
+      {
+        "label": "1(ii)",
+        "type": "review",
+        "answer": "Approximately 9:42 a.m., using the printed 43°W and 43.9°E; none of the choices is exact.",
+        "explanation": "The longitude difference is 86.9°. Each degree equals four minutes, so subtract 347.6 minutes from 3:30 p.m."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Molten material builds volcanic landforms."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Oceans dominate the Southern Hemisphere."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Isobars indicate pressure, not sunshine."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A 600 m increase cools air by 3.6°C at the stated school lapse rate."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Condensation turns water vapour into droplets."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Climate describes long-term atmospheric conditions."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Read eastings first: 361; then northings: 585."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Reclamation aims to increase the usefulness or productivity of land."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ],
+        "answer": {
+          "i": "I",
+          "ii": "M",
+          "iii": "C",
+          "iv": "L",
+          "v": "A",
+          "vi": "J",
+          "vii": "N",
+          "viii": "D",
+          "ix": "B",
+          "x": "K"
+        },
+        "explanation": "Trenches are narrow ocean depressions; gas supplies heat/power; convection lifts moist air; manufacturing changes materials; bush fallow restores soil; coordinates locate a point; sleet mixes rain/snow; drainage removes water; mining extracts minerals; tension can form rift valleys."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Longitude is measured east or west of Greenwich."
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Excess wastes can pollute air, water or soil."
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Fire removes protective vegetation and can increase erosion."
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Much regional farming uses labour-intensive traditional methods, though skills and technologies vary."
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "A bearing needs a north reference."
+      },
+      {
+        "label": "3(vi)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Acid rain can damage soils and plants rather than reliably improve fertility."
+      },
+      {
+        "label": "3(vii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Tributaries join rivers upstream; distributaries branch near mouths."
+      },
+      {
+        "label": "3(viii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Geothermal and tidal energy show that not all energy comes from the Sun."
+      },
+      {
+        "label": "3(ix)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Forests often promote moisture recycling and infiltration."
+      },
+      {
+        "label": "3(x)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Ranches primarily rear livestock; crop/livestock combination is mixed farming."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Approximately 14.8°C.",
+        "explanation": "The monthly temperature readings are roughly 18,17,16,14,15,12,13,10,14,15,16,17; their mean is 14.75°C."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "About 8°C.",
+        "explanation": "The highest reading is near 18°C and the lowest near 10°C."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Approximately 1,100 mm, allowing graphical reading tolerance.",
+        "explanation": "Add the monthly bars; careful readings are around 25,25,50,75,125,150,175,200,125,75,50,25 mm."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "January.",
+        "explanation": "Its temperature point is the highest on the graph."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Contours and spot heights; layer colouring or hachures are also valid.",
+        "explanation": "They represent elevation and relief."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "Title, scale, direction indicator and key.",
+        "explanation": "They identify the subject, distance relation, orientation and symbols."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(A)",
+        "type": "written",
+        "answer": "North Pole.",
+        "explanation": "A marks the top end of Earth’s axis in the sketch."
+      },
+      {
+        "label": "5(a)(B)",
+        "type": "written",
+        "answer": "Night or the unilluminated hemisphere.",
+        "explanation": "It faces away from the Sun’s rays."
+      },
+      {
+        "label": "5(a)(C)",
+        "type": "written",
+        "answer": "Day or the illuminated hemisphere.",
+        "explanation": "This side receives the Sun’s rays."
+      },
+      {
+        "label": "5(a)(D)",
+        "type": "written",
+        "answer": "Sunlight or solar rays.",
+        "explanation": "The arrows show incoming light."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Expand usable agricultural/settlement land and protect reclaimed areas from flooding.",
+        "explanation": "The Netherlands drains low land and defends it with dykes and pumps."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Hydroelectricity and natural gas; fuelwood and solar energy are also valid sources.",
+        "explanation": "Energy is obtained from different natural resources."
+      },
+      {
+        "label": "5(d)",
+        "type": "written",
+        "answer": "Altitude and latitude; ocean influence, currents and cloud cover also matter.",
+        "explanation": "Elevation and solar angle affect heat supply and loss."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "High capital costs, limited technology, transport/power shortages, difficult deposits, price fluctuations and environmental or safety risks.",
+        "explanation": "Mineral extraction must cover costs while controlling hazards."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Improve extension services, irrigation, soil fertility, seeds, pest control, storage, access roads and affordable finance.",
+        "explanation": "These changes increase yields and reduce post-harvest losses."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Electricity supply, industrial fuel, public revenue, jobs, reduced fuel imports and opportunities for related businesses.",
+        "explanation": "Benefits depend on responsible management and access to markets."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Waterfalls and rapids, seasonal flow, shallow reaches, sandbars, floating vegetation and weak ports/links.",
+        "explanation": "Safe navigation needs continuous sufficient depth and a passable gradient."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Restore trees and grass, manage grazing, conserve soil/water, use efficient cooking energy, improve land management and involve local communities.",
+        "explanation": "These reduce pressure on fragile drylands and help vegetation recover."
+      }
+    ]
+  }
+}

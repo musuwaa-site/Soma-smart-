@@ -1,0 +1,605 @@
+{
+  "sourceId": "source-fcbbbd6f9fd616ba",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Water leaves the cell and its contents shrink away from the wall.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Photosynthesis captures light energy in organic food.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Sugarcane stores sugar in its stem.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Lactate is characteristic of animal anaerobic respiration.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Ferns and mosses are plants.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "These organisms commonly break down dead material.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "An accident is an unexpected harmful event.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A vaccine stimulates immune memory.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Talking while chewing can increase choking risk.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Artery walls withstand high pressure.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Many cells lack chloroplasts.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Cholera spreads by the faecal–oral route.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "During inhalation the diaphragm contracts and flattens.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Venae cavae return blood to the heart.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "review",
+        "answer": "Common sexually transmitted infections are not normally spread by towels. Some parasites such as pubic lice and some skin infections can spread by shared items, so the broad printed claim depends on the condition.",
+        "explanation": "Common STIs are not normally spread by towels; some skin parasites can spread through shared items."
+      },
+      {
+        "label": "2(vi)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Zoology studies animals.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(vii)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "The liver produces bile; the gall bladder stores it.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(viii)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Producers synthesise organic food.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(ix)",
+        "type": "mcq",
+        "answer": "False",
+        "explanation": "Fungi are heterotrophs.",
+        "options": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "label": "2(x)",
+        "type": "mcq",
+        "answer": "True",
+        "explanation": "Sitting upright and eating carefully reduce choking risk.",
+        "options": [
+          "True",
+          "False"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Immunity is resistance to disease.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Infection is invasion by a pathogen.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Vaccination exposes the immune system to a safe antigen preparation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A disease disrupts health.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Vectors carry pathogens between hosts.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Mucus.",
+        "explanation": "The sticky secretion traps airborne particles."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Intercostal muscles.",
+        "explanation": "They move the ribs during ventilation."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Inhalation or inspiration.",
+        "explanation": "Air moves into the lungs."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Anaerobic respiration.",
+        "explanation": "Energy is transferred without oxygen."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Epiglottis.",
+        "explanation": "It helps cover the airway during swallowing."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Eukaryotic cells have a membrane-bound nucleus; prokaryotic cells do not.",
+        "explanation": "Prokaryotic DNA lies in a nucleoid region."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Nucleus controls cell activities through genetic information.",
+        "explanation": "DNA provides instructions for proteins."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Cell membrane regulates substances entering and leaving.",
+        "explanation": "Selective permeability maintains internal conditions."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "The cellulose wall supports the cell, maintains its shape and helps prevent osmotic bursting.",
+        "explanation": "A rigid wall withstands pressure when water enters."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Do not eat, drink or taste materials in the laboratory.",
+        "explanation": "This reduces poisoning and contamination risks."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Follow the teacher’s instructions and wear appropriate protection.",
+        "explanation": "Supervision and protection prevent injury."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "Report spills, breakages and injuries promptly.",
+        "explanation": "Early action limits harm."
+      },
+      {
+        "label": "6(b)(i)A",
+        "type": "written",
+        "answer": "Eyepiece.",
+        "explanation": "The upper lens magnifies the image."
+      },
+      {
+        "label": "6(b)(i)B",
+        "type": "written",
+        "answer": "Coarse adjustment knob.",
+        "explanation": "It moves the tube or stage for rough focus."
+      },
+      {
+        "label": "6(b)(i)C",
+        "type": "written",
+        "answer": "Objective lens.",
+        "explanation": "It forms a magnified image of the specimen."
+      },
+      {
+        "label": "6(b)(i)D",
+        "type": "written",
+        "answer": "Stage.",
+        "explanation": "The slide rests on this platform."
+      },
+      {
+        "label": "6(b)(i)E",
+        "type": "written",
+        "answer": "Mirror.",
+        "explanation": "It directs light upward through the specimen."
+      },
+      {
+        "label": "6(b)(i)F",
+        "type": "written",
+        "answer": "Base.",
+        "explanation": "It supports the microscope."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Reflects light towards the specimen.",
+        "explanation": "Illumination makes the image visible."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "A food chain shows one feeding pathway from a producer to consumers.",
+        "explanation": "Arrows trace energy as organisms are eaten."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Grass → zebra → lion → bacteria.",
+        "explanation": "Bacteria decompose dead organisms."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Grass → zebra → hyena → bacteria.",
+        "explanation": "Hyenas can eat zebras."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "Grass → giraffe → lion → bacteria.",
+        "explanation": "This is a simplified supplied-organism chain; giraffes normally browse woody plants as well."
+      },
+      {
+        "label": "7(b)(iv)",
+        "type": "written",
+        "answer": "Grass → giraffe → hyena → bacteria.",
+        "explanation": "Scavenging can transfer energy to hyenas before decomposition."
+      },
+      {
+        "label": "7(c)(i)",
+        "type": "written",
+        "answer": "Bacteria are decomposers.",
+        "explanation": "They break down remains and recycle nutrients."
+      },
+      {
+        "label": "7(c)(ii)",
+        "type": "written",
+        "answer": "Grasses are producers.",
+        "explanation": "They capture light energy by photosynthesis."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Protein.",
+        "explanation": "The Biuret test produces violet or purple colour with protein."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Growth.",
+        "explanation": "Proteins supply amino acids for building tissues."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Repair of damaged tissues.",
+        "explanation": "Amino acids are used to replace proteins and cells."
+      },
+      {
+        "label": "8(c)(i)",
+        "type": "written",
+        "answer": "Beans.",
+        "explanation": "Legume seeds contain protein."
+      },
+      {
+        "label": "8(c)(ii)",
+        "type": "written",
+        "answer": "Meat.",
+        "explanation": "Muscle tissue is protein-rich."
+      },
+      {
+        "label": "8(c)(iii)",
+        "type": "written",
+        "answer": "Eggs.",
+        "explanation": "Egg white contains albumin."
+      },
+      {
+        "label": "8(c)(iv)",
+        "type": "written",
+        "answer": "Milk.",
+        "explanation": "Milk contains casein and other proteins."
+      },
+      {
+        "label": "8(c)(v)",
+        "type": "written",
+        "answer": "Fish.",
+        "explanation": "Fish muscle provides dietary protein."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Cotton wool can clean intact surrounding skin; use sterile gauze on an open wound.",
+        "explanation": "Loose fibres should not be packed into wounds."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "A new razor blade was traditionally used to cut dressing material.",
+        "explanation": "Prefer safe medical scissors; never use it to cut a snakebite."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "Soap cleans hands and intact skin.",
+        "explanation": "Hand washing removes contaminants."
+      },
+      {
+        "label": "9(a)(iv)",
+        "type": "written",
+        "answer": "Iodine tincture is a skin antiseptic.",
+        "explanation": "Follow product instructions and do not pour it into deep wounds."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "It reassures the person and reduces panic.",
+        "explanation": "Calm behaviour limits unnecessary movement."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "Keeping the person and bitten limb still can limit venom movement.",
+        "explanation": "Avoid walking if assistance is available."
+      },
+      {
+        "label": "9(b)(iii)",
+        "type": "written",
+        "answer": "It supports safe breathing and basic life support if needed.",
+        "explanation": "Observe the person while seeking urgent help."
+      },
+      {
+        "label": "9(b)(iv)",
+        "type": "written",
+        "answer": "It enables prompt transfer to appropriate medical care.",
+        "explanation": "Antivenom and monitoring may be required; do not cut, suck or tightly tourniquet the bite."
+      }
+    ],
+    "10": [
+      {
+        "label": "10 Artificial merits",
+        "type": "written",
+        "answer": "Simple to use; quick identification from obvious features.",
+        "explanation": "Few visible characteristics make it practical for a limited task."
+      },
+      {
+        "label": "10 Artificial demerits",
+        "type": "written",
+        "answer": "Can group unrelated species and separate related species.",
+        "explanation": "A few superficial features may obscure ancestry."
+      },
+      {
+        "label": "10 Natural merits",
+        "type": "written",
+        "answer": "Uses many features and better reflects relationships.",
+        "explanation": "Shared anatomy, reproduction and genetic evidence improve grouping."
+      },
+      {
+        "label": "10 Natural demerits",
+        "type": "written",
+        "answer": "Requires more information and specialist expertise.",
+        "explanation": "Many characters take time to obtain and analyse."
+      }
+    ],
+    "11": [
+      {
+        "label": "11",
+        "type": "written",
+        "answer": "Transport supplies oxygen, delivers nutrients, removes metabolic wastes, carries hormones, distributes heat and moves immune cells or antibodies.",
+        "explanation": "Multicellular bodies need transport because most cells are far from external exchange surfaces."
+      }
+    ]
+  }
+}

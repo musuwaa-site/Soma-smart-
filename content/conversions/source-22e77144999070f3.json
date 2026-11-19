@@ -1,0 +1,477 @@
+{
+  "sourceId": "source-22e77144999070f3",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Photosynthesis produces organic food using light.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The broad lamina intercepts light and exchanges gases.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "All D organisms are arthropods.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Biology informs health and environmental choices.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Plastic smoke can damage breathing.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Rules reduce accidents.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Desertification is an environmental harm.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Genetic material is fundamental to living cells; a cellular organism without DNA or RNA would challenge accepted cell biology.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Binomial names reduce confusion across languages.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "The pancreas is primarily a digestive and endocrine gland, not a main excretory organ.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Musca domestica is house fly.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Felis catus is domestic cat.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Periplaneta americana is cockroach.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Loxodonta africana is African elephant.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "The repeated Felis catus still means cat.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Cell differentiation.",
+        "explanation": "Cells develop specialised structures and functions."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Red blood cells transport oxygen efficiently.",
+        "explanation": "Their haemoglobin and shape suit the task."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Nerve cells transmit signals over long distances.",
+        "explanation": "Long extensions connect body regions."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "Root hair cells absorb water and minerals.",
+        "explanation": "Their projections provide surface area."
+      },
+      {
+        "label": "3(c)(i)",
+        "type": "written",
+        "answer": "Cell: the basic living unit.",
+        "explanation": "Specialised cells perform tasks."
+      },
+      {
+        "label": "3(c)(ii)",
+        "type": "written",
+        "answer": "Tissue: related cells working together.",
+        "explanation": "For example, muscle tissue."
+      },
+      {
+        "label": "3(c)(iii)",
+        "type": "written",
+        "answer": "Organ: several tissues cooperating.",
+        "explanation": "For example, a heart."
+      },
+      {
+        "label": "3(c)(iv)",
+        "type": "written",
+        "answer": "Organ system: organs working together.",
+        "explanation": "For example, the circulatory system."
+      },
+      {
+        "label": "3(c)(v)",
+        "type": "written",
+        "answer": "Organism: the whole living individual.",
+        "explanation": "Systems cooperate to sustain life."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Rana temporaria.",
+        "explanation": "Use two separate words; capitalise Rana and keep temporaria lowercase. Italicise both or underline each separately."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Write genus first.",
+        "explanation": "It begins with a capital."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Write the specific epithet second.",
+        "explanation": "It begins with a lowercase letter."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Use Latin or Latinised names.",
+        "explanation": "The convention is internationally shared."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Italicise typed names or underline handwritten words separately.",
+        "explanation": "This distinguishes scientific names from surrounding text."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Botany is the study of plants.",
+        "explanation": "It covers their structure, function and diversity."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Mycology is the study of fungi.",
+        "explanation": "Examples include mushrooms, moulds and yeast."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "A species is a group of organisms that can normally interbreed to produce fertile offspring.",
+        "explanation": "This biological definition is useful for sexually reproducing organisms."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Anatomy is the study of internal structure.",
+        "explanation": "It examines the organisation of body parts."
+      },
+      {
+        "label": "5(a)(v)",
+        "type": "written",
+        "answer": "Binomial nomenclature is naming a species using genus and specific epithet.",
+        "explanation": "Each name has two parts."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "3.2 times.",
+        "explanation": "Magnification = image size ÷ actual size = 16/5."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "212 °F.",
+        "explanation": "F = 9C/5 + 32 = 180 + 32."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Biological specimens are used.",
+        "explanation": "They permit organism study."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Microscopes and slides reveal cells.",
+        "explanation": "These instruments support microscopy."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "Models and charts show anatomy and life processes.",
+        "explanation": "They help biological explanation."
+      },
+      {
+        "label": "6(a)(iv)",
+        "type": "written",
+        "answer": "Laboratory benches, services and safety equipment support investigations.",
+        "explanation": "Practical work needs controlled conditions."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Glass is transparent.",
+        "explanation": "Contents can be observed."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Suitable laboratory glass tolerates heating.",
+        "explanation": "Heat resistance supports experiments, though sudden temperature change can break it."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "Glass is relatively unreactive and easy to clean.",
+        "explanation": "It can resist many chemicals and be reused safely when intact."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Classification groups organisms; taxonomy includes identifying, naming and classifying them.",
+        "explanation": "Taxonomy encompasses the broader study."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Wings alone can group unrelated organisms.",
+        "explanation": "Bird and insect wings have different evolutionary origins."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "It ignores internal structure.",
+        "explanation": "Pigeons have a backbone and butterflies do not."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "It does not reliably show relationships.",
+        "explanation": "Many features and evidence of ancestry are needed."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Chickens and ducks belong to different species with reproductive barriers.",
+        "explanation": "Sharing a coop does not remove genetic and reproductive incompatibilities."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Identify a problem, gather information, form a hypothesis, plan and perform an experiment, record results, analyse them, draw a conclusion and communicate findings.",
+        "explanation": "Systematic investigation links evidence to the question."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Observation.",
+        "explanation": "Sense organs gather initial information."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Senses have limited precision and can be subjective.",
+        "explanation": "Instruments extend and standardise measurement."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Carry the microscope with one hand on the arm and another under the base.",
+        "explanation": "This prevents dropping."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Clean lenses with appropriate lens paper.",
+        "explanation": "Ordinary cloth can scratch optics."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Begin focusing with low power.",
+        "explanation": "It makes specimen location safer and easier."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Avoid touching lenses or forcing adjustment knobs.",
+        "explanation": "Care prevents damage."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Cover and store it in a dry safe place.",
+        "explanation": "This limits dust and corrosion."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Biology explains health, improves agriculture, supports conservation, develops practical investigation skills, helps informed decisions and prepares students for careers.",
+        "explanation": "Examples include disease prevention, crop care, ecosystem protection and healthcare training."
+      }
+    ]
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "sourceId": "source-a956fd65662a1f92",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A positive past-simple statement takes the negative tag did not.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Every Friday describes a repeated habit.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The future perfect places completion before the future reference time; B is the closest printed choice.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "The two-month limit makes the stay temporary. The present progressive also indicates that the stay is happening now, so A and D are both defensible.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "A",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Acknowledge the other point politely before disagreeing.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A polite greeting and identity check suit a formal call.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Direct wording makes the message understandable.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Use the simple present for a habitual action.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The past unreal conditional implies he did not pay and did not marry.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Abbreviations and main ideas allow faster note taking.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "An aisle seat is beside the passage.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Check-in shows the ticket and registers arrival.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Checking out ends a hotel stay.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A reservation is made in advance.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Vacation means a holiday.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "wanted",
+        "explanation": "The narrative describes a completed desire in the past."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "went",
+        "explanation": "Go has irregular past form went."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "sat",
+        "explanation": "Sit has irregular past form sat."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "rang",
+        "explanation": "Ring has irregular past form rang."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "arrived",
+        "explanation": "A past event takes arrived."
+      },
+      {
+        "label": "3(vi)",
+        "type": "written",
+        "answer": "ate",
+        "explanation": "Eat has irregular past form ate."
+      },
+      {
+        "label": "3(vii)",
+        "type": "written",
+        "answer": "had brought",
+        "explanation": "Bringing happened before eating; brought is also acceptable in a simple sequence."
+      },
+      {
+        "label": "3(viii)",
+        "type": "written",
+        "answer": "stopped",
+        "explanation": "A completed past event takes stopped."
+      },
+      {
+        "label": "3(ix)",
+        "type": "written",
+        "answer": "notice",
+        "explanation": "Did not takes the base form notice."
+      },
+      {
+        "label": "3(x)",
+        "type": "written",
+        "answer": "was",
+        "explanation": "She is singular and the event is past."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Vehicles",
+        "explanation": "These are means of land transport."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Stationery",
+        "explanation": "These objects are writing and classroom supplies."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Furniture",
+        "explanation": "These objects are household furnishings; a door is usually a building fixture."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Domestic animals",
+        "explanation": "These animals are kept by people."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Insects",
+        "explanation": "All the named animals have the insect body plan."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "It is the date the letter was written.",
+        "explanation": "A letter date records when the writer composed it."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Makombo",
+        "explanation": "The name appears in the signature."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "The salutation or greeting",
+        "explanation": "Dear introduces the addressee."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Acceptance of an invitation to Omolo's graduation",
+        "explanation": "The writer confirms attendance."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "To identify the intended event clearly",
+        "explanation": "A day and date help scheduling, although the printed Thursday and 12 November 2024 do not agree on the calendar."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Fact",
+        "explanation": "The cause can be checked using scientific evidence."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Fact",
+        "explanation": "Differences in symptoms are medically observable."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Opinion",
+        "explanation": "The phrase still believe presents an attributed belief."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Fact",
+        "explanation": "The claim is testable against clinical records."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Opinion",
+        "explanation": "It seems marks uncertainty in the statement."
+      },
+      {
+        "label": "6(vi)",
+        "type": "written",
+        "answer": "Opinion",
+        "explanation": "Should expresses advice, even though it may be evidence based."
+      },
+      {
+        "label": "6(vii)",
+        "type": "written",
+        "answer": "Opinion",
+        "explanation": "Might expresses a possibility."
+      },
+      {
+        "label": "6(viii)",
+        "type": "written",
+        "answer": "Opinion",
+        "explanation": "Great possibility expresses an uncertain judgement."
+      },
+      {
+        "label": "6(ix)",
+        "type": "written",
+        "answer": "Fact",
+        "explanation": "Symptoms can be observed and recorded."
+      },
+      {
+        "label": "6(x)",
+        "type": "written",
+        "answer": "Opinion",
+        "explanation": "My view explicitly presents a personal judgement."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Pronunciation",
+        "explanation": "The slashes enclose a phonetic transcription."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Material",
+        "explanation": "The entry word is material."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Synonym",
+        "explanation": "SYN introduces a word with a similar meaning."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Fabric",
+        "explanation": "The first noun sense means cloth."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "She was suitable for university study.",
+        "explanation": "Material is used figuratively for someone with the required qualities."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "going or to go",
+        "explanation": "Love can take an -ing form or a to-infinitive."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "having or to have",
+        "explanation": "Like can take either form."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "walking or to walk",
+        "explanation": "The verb follows like."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "cooking",
+        "explanation": "Hate can take an -ing form."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "making or to make",
+        "explanation": "Like accepts either construction."
+      },
+      {
+        "label": "8(vi)",
+        "type": "written",
+        "answer": "playing or to play",
+        "explanation": "The activity follows love."
+      },
+      {
+        "label": "8(vii)",
+        "type": "written",
+        "answer": "feeding or to feed",
+        "explanation": "This is coordinated with playing."
+      },
+      {
+        "label": "8(viii)",
+        "type": "written",
+        "answer": "lying",
+        "explanation": "The intended activity is reclining on a blanket; lay needs an object."
+      },
+      {
+        "label": "8(ix)",
+        "type": "written",
+        "answer": "watching or to watch",
+        "explanation": "Love accepts both forms."
+      },
+      {
+        "label": "8(x)",
+        "type": "written",
+        "answer": "listening or to listen",
+        "explanation": "Listen takes to before its object."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "That woman, whose daughter passed her final examination outstandingly, is our family friend.",
+        "explanation": "Whose links the daughter to the woman."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Despite the cloudy weather, it did not rain.",
+        "explanation": "Despite takes a noun phrase."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "They would visit us if they had time.",
+        "explanation": "Move the result clause first without changing the conditional."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "He was brushing his shoes while he was listening to the radio.",
+        "explanation": "While joins simultaneous past activities."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Though we sent them a letter, they did not attend the meeting.",
+        "explanation": "Though introduces the contrasting circumstance."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Dear Milembe,\nI hope you are well. Our brother Masanja will graduate in Language Teaching at the University of Dar es Salaam next month. Our family plans to attend and celebrate his achievement. Please join us. I will send the confirmed date and arrangements when I receive them.\nYour brother,\nKulwa",
+        "explanation": "Use an informal letter with an address, date, greeting, clear news and family invitation, suitable closing and the requested signature. Avoid inventing an exact ceremony date as a fact."
+      }
+    ]
+  }
+}

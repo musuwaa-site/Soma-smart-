@@ -1,0 +1,445 @@
+{
+  "sourceId": "source-117f4702ba82f740",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A voltmeter and basic laboratory apparatus are used in school practical work."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The hollow ship has a lower average density than water."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Friction, turning couples and pulling forces all occur while cycling."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A thick handle spreads force over more area, reducing pressure on the hand."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Vernier calipers have internal jaws for this purpose."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Dissolved salts add mass without an equivalent proportional increase in volume."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Elastic deformation is reversed after the force is removed."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Subtract cup mass from total: 71.06−43.63=27.43 g."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "For a fixed force, pressure increases when area decreases."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Kinetic energy=½×5×10²=250 J."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ],
+        "answer": {
+          "i": "G",
+          "ii": "F",
+          "iii": "D",
+          "iv": "A",
+          "v": "H"
+        },
+        "explanation": "Rulers measure length, balances mass, measuring cylinders liquid volume, thermometers temperature and spring balances weight."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Real weight is the gravitational force mg.",
+        "explanation": "Its unit is the newton."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Apparent weight is the force registered by the support or balance under the stated conditions.",
+        "explanation": "Upthrust reduces the scale reading in a liquid."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "10 N.",
+        "explanation": "Upthrust equals weight in air minus apparent weight: 40−30."
+      },
+      {
+        "label": "3(b)(ii)-relative",
+        "type": "written",
+        "answer": "4.",
+        "explanation": "For a fully immersed object, relative density=weight in air/apparent loss in water=40/10."
+      },
+      {
+        "label": "3(b)(ii)-density",
+        "type": "written",
+        "answer": "4,000 kg/m³.",
+        "explanation": "Multiply relative density 4 by water density 1,000 kg/m³."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "A body immersed in fluid experiences upthrust equal to the weight of displaced fluid.",
+        "explanation": "This is Archimedes’ principle."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Measurement compares a quantity with a standard unit of the same kind.",
+        "explanation": "The result includes a number and unit."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Mass measures matter quantity or inertia.",
+        "explanation": "Its SI unit is kilogram."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Volume is the three-dimensional space occupied by a body.",
+        "explanation": "Its SI unit is cubic metre."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Parallax.",
+        "explanation": "Viewing a pointer or meniscus obliquely shifts its apparent position."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Zero error.",
+        "explanation": "The instrument may give a nonzero reading when the measured quantity should be zero."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Poor calibration or damaged apparatus.",
+        "explanation": "An incorrect scale gives systematic measurement errors."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Reaction-time error.",
+        "explanation": "An observer starting or stopping a stopwatch late changes the measured interval."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Pressure is normal force per unit area.",
+        "explanation": "P=F/A with unit Pa."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "10,000 Pa.",
+        "explanation": "Use the printed area 0.002 m²: P=20/0.002."
+      },
+      {
+        "label": "5(c)(i)",
+        "type": "written",
+        "answer": "The hammer spreads its force over a larger area while the pin concentrates it at a sharp point.",
+        "explanation": "The pin gives much greater local pressure. A sufficiently forceful hammer impact can also burst a balloon."
+      },
+      {
+        "label": "5(c)(ii)",
+        "type": "written",
+        "answer": "Water pressure is larger at greater depth.",
+        "explanation": "The thick base withstands greater force per area."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Fundamental quantities are independently defined; derived quantities combine them.",
+        "explanation": "Length is base, while speed=length/time is derived."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Density is mass per volume; relative density is density divided by a reference density.",
+        "explanation": "Density has units; the ratio has none."
+      },
+      {
+        "label": "6(b)-name",
+        "type": "written",
+        "answer": "Micrometer screw gauge.",
+        "explanation": "The fine screw moves a spindle towards a fixed anvil."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Measuring small external thicknesses or diameters, for example wire diameter.",
+        "explanation": "The fine screw provides high resolution over a small range."
+      },
+      {
+        "label": "6(b)(ii)-J",
+        "type": "written",
+        "answer": "Anvil.",
+        "explanation": "It is the fixed measuring face."
+      },
+      {
+        "label": "6(b)(ii)-K",
+        "type": "written",
+        "answer": "Spindle.",
+        "explanation": "It is the moving measuring face advanced by the screw."
+      },
+      {
+        "label": "6(b)(ii)-M",
+        "type": "written",
+        "answer": "Ratchet.",
+        "explanation": "It helps apply a consistent gentle measuring force."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Physics studies matter, energy and their interactions.",
+        "explanation": "Measurements and experiments test physical explanations."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Mechanics.",
+        "explanation": "It studies force and motion."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Optics.",
+        "explanation": "It studies light."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "Thermodynamics.",
+        "explanation": "It studies heat and energy transfers."
+      },
+      {
+        "label": "7(b)(iv)",
+        "type": "written",
+        "answer": "Electromagnetism.",
+        "explanation": "It studies electric and magnetic phenomena."
+      },
+      {
+        "label": "7(c)(i)",
+        "type": "written",
+        "answer": "Cooking uses heat transfer; lamps use electricity; fans use motors.",
+        "explanation": "Each home appliance applies physical principles."
+      },
+      {
+        "label": "7(c)(ii)",
+        "type": "written",
+        "answer": "X-rays, ultrasound and MRI help examine internal structures.",
+        "explanation": "Radiation, sound and magnetic fields provide different forms of medical information."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "A force is a push or pull that can change motion or shape.",
+        "explanation": "Its SI unit is the newton."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Magnetic repulsion.",
+        "explanation": "Like poles of nearby magnets push apart."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Gravitational force or weight.",
+        "explanation": "Earth attracts the mass downwards."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Distance is the total length of the travelled path.",
+        "explanation": "It is a scalar measured in metres."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Displacement is directed change from the initial to final position.",
+        "explanation": "It can be zero for a journey with positive distance."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "v=u+at.",
+        "explanation": "Constant acceleration changes velocity by at."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "s=ut+½at².",
+        "explanation": "This gives displacement for constant acceleration."
+      },
+      {
+        "label": "9(b)(iii)",
+        "type": "written",
+        "answer": "v²=u²+2as.",
+        "explanation": "Time is eliminated from the other two equations."
+      },
+      {
+        "label": "9(c)-speed",
+        "type": "written",
+        "answer": "32/7 ≈ 4.57 m/s.",
+        "explanation": "Total path=20+12=32 m and total time=4+3=7 s."
+      },
+      {
+        "label": "9(c)-velocity",
+        "type": "written",
+        "answer": "8/7 ≈ 1.14 m/s to the right.",
+        "explanation": "Net displacement=20−12=8 m to the right over 7 s."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Work is energy transferred by a force through displacement.",
+        "explanation": "For a constant force along motion, W=Fs."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "Energy is the capacity to do work.",
+        "explanation": "Its SI unit is the joule."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "Power is the rate of work done or energy transferred.",
+        "explanation": "Its unit is watt, equivalent to J/s."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "500 J.",
+        "explanation": "Gravitational potential energy=mgh=2×10×25."
+      }
+    ]
+  }
+}

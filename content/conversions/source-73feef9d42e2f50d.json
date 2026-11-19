@@ -1,0 +1,442 @@
+{
+  "sourceId": "source-73feef9d42e2f50d",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A spectator watches a match.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Nationality identifies the country a person belongs to.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Neema is east of the ball, Baraka is north of it, so Baraka is north-west of Neema.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Negotiating a lower price is bargaining.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "So do I agrees with a simple-present positive statement.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Superior is the opposite of inferior.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Enough money expresses ability to buy.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "review",
+        "answer": "A is natural for involuntary hearing now. B has progressive form but needs a special context of deliberate listening.",
+        "explanation": "The source asks for an ongoing activity but uses the stative verb hear. The progressive alternatives are not normally used for simple auditory perception."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Articles depend on sound: hour starts with a vowel sound, university with /j/.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "C gives a specific claimed cause; the others mark speculation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A dentist treats teeth.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "An author writes books.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "An electrician installs or repairs electrical equipment.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "A mason builds with stone or blocks.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A secretary handles office communication and records.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Cheap mobile phones are made by China.",
+        "explanation": "Use are and the past participle made."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Sheep are kept by my grandfather.",
+        "explanation": "Sheep is plural here, so use are kept."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Kiswahili is spoken in East Africa and northern Mozambique.",
+        "explanation": "Kiswahili becomes the singular subject; spoken is the participle."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Nice coffee is sold by this restaurant.",
+        "explanation": "Coffee is uncountable and takes is sold."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Crop-destructive mice are killed by the farmer.",
+        "explanation": "Mice is plural and killed is the participle."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Habit",
+        "explanation": "Every weekend describes a repeated future activity."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Arrangement",
+        "explanation": "Visiting the friend tomorrow is a planned action."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Certainty",
+        "explanation": "I assure you presents strong confidence."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Promise",
+        "explanation": "The father commits to buying the doll."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Possibility",
+        "explanation": "Presumably signals that a change is possible."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Somebody",
+        "explanation": "sb abbreviates somebody."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Something",
+        "explanation": "sth abbreviates something."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Adjective",
+        "explanation": "adj identifies the word class."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "American English",
+        "explanation": "AmE identifies an American usage."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Adverb",
+        "explanation": "adv identifies the word class."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "The ceremony date, starting time and venue are missing.",
+        "explanation": "Guests need to know when and where to attend."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Mr and Mrs Masanja invite Mr and Mrs Onyango to the wedding of Kulwa and Amalia at [venue] on [date] at [time]. RSVP Mr Masanja, telephone 0255600017.",
+        "explanation": "Retain the given hosts, guests, couple and contact. Insert a consistent proposed date, time and place and label any invented details as examples."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Athletics impresses me.",
+        "explanation": "The subject names a sport as one activity."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Our teacher conducts a class meeting every Friday.",
+        "explanation": "A singular third-person subject takes -s."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "This student speaks fluent English.",
+        "explanation": "Use speaks with this student."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "My mother always cooks delicious meals.",
+        "explanation": "Always marks a habit."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Our president often gives speeches about the precautions against COVID-19.",
+        "explanation": "Often marks a repeated action."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "cheap",
+        "explanation": "It cost less than expected."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "beautiful",
+        "explanation": "This describes attractive appearance."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "four-wheel drive",
+        "explanation": "Drive to four wheels can improve traction."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "brand-new",
+        "explanation": "The mother is its first user."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "economical",
+        "explanation": "It uses relatively little fuel."
+      },
+      {
+        "label": "8(vi)",
+        "type": "written",
+        "answer": "admire",
+        "explanation": "People look at it with approval."
+      },
+      {
+        "label": "8(vii)",
+        "type": "written",
+        "answer": "sheds",
+        "explanation": "Shed light is the natural expression."
+      },
+      {
+        "label": "8(viii)",
+        "type": "written",
+        "answer": "comfortable",
+        "explanation": "Comfortable seats are pleasant to sit on."
+      },
+      {
+        "label": "8(ix)",
+        "type": "written",
+        "answer": "well-trained",
+        "explanation": "The mechanic has relevant skills."
+      },
+      {
+        "label": "8(x)",
+        "type": "written",
+        "answer": "seven-seater",
+        "explanation": "It has space for seven people."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "My mother had cooked ugali before I arrived from school.",
+        "explanation": "Past perfect places cooking before arrival."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "The train did not leave before Wednesday.",
+        "explanation": "Did carries past tense, so use leave."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Had the children not eaten ugali before their parents did?",
+        "explanation": "Invert had and the subject, retaining the printed negative."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Students waited for the teacher for almost an hour, didn't they?",
+        "explanation": "A positive past statement takes a negative did tag."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "My sister no longer cooks dinner for me.",
+        "explanation": "No longer expresses that the former habit has stopped."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "In Mabala the Farmer, Mabala’s laziness, excessive drinking and neglect of family responsibilities make farm life difficult. Laziness reduces food production, drinking wastes time and income, and neglect puts the burden on others. In Kalulu the Hare, discuss three particular episodes from the reader that show deceit, greed or pride, and explain their harmful consequences.",
+        "explanation": "Name two books, identify three habits from each, and support each with a precise event or character action. A response about Kalulu must identify the relevant tale because the collection contains different episodes; accept other text-supported habits."
+      }
+    ]
+  }
+}

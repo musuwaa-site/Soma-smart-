@@ -1,0 +1,618 @@
+{
+  "sourceId": "source-546ec245ba6d02e6",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "review",
+        "answer": "For eldest use youngest; for youngest use eldest.",
+        "explanation": "The referenced bold word is unclear in the available passage. The opposite depends on the marked word."
+      },
+      {
+        "label": "1(ii)",
+        "type": "written",
+        "answer": "Antony.",
+        "explanation": "He shouted Stop when he saw it."
+      },
+      {
+        "label": "1(iii)",
+        "type": "written",
+        "answer": "Class four.",
+        "explanation": "The passage gives his age as eight and his class as four."
+      },
+      {
+        "label": "1(iv)",
+        "type": "review",
+        "answer": "For bravely the class is adverb; for snake it is noun.",
+        "explanation": "The underlined target is unclear. Bravely describes an action and snake names an animal."
+      },
+      {
+        "label": "1(v)",
+        "type": "written",
+        "answer": "Antony and the Snake.",
+        "explanation": "The title identifies the central character and incident."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The school classification distinguishes formal and informal letters.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Passengers board trains at railway stations.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Singular John and yesterday require was eating.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A crowd is a group of people.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "An exchange of talk between people is a conversation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "On describes contact with the surface of the table.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(vii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Homophones share a pronunciation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A fortnight is two weeks.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "What asks about the activity.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(x)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "I takes do not before the base form like.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(xi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Move the auxiliary is before John.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(xii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Will plus travel refers to future time.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(xiii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Pupils is plural, so use were listening.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(xiv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Hospitals provide treatment to sick people.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "2(xv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Saturday and Sunday together form a weekend.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A friendly letter ends with its closing and writer’s name.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The salutation follows the sender’s address and date.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "The date states when it was written.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "The body explains the purpose of the letter.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The sender’s address identifies the writer’s location.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Prefixes are word parts placed before a base to modify meaning.",
+        "explanation": "For example un- reverses the sense of tie."
+      },
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "inter-",
+        "explanation": "Inter- means between or among."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "un-",
+        "explanation": "Remove un- to recover tie."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "de-",
+        "explanation": "De- can indicate reversing an action."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "multi-",
+        "explanation": "Multi- means many."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Suffixes are word parts added after a base.",
+        "explanation": "They may alter meaning or word class."
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "-ness",
+        "explanation": "Kind becomes the noun kindness."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "-ify",
+        "explanation": "The verb simplify is formed with -ify."
+      },
+      {
+        "label": "4(c)(iii)",
+        "type": "written",
+        "answer": "-ation (or -cation in the spelling pattern -ification).",
+        "explanation": "Magnification is the action noun corresponding to magnify."
+      },
+      {
+        "label": "4(c)(iv)",
+        "type": "written",
+        "answer": "-ation",
+        "explanation": "Colonize becomes colonization with an action-noun ending."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Long A in school spelling terminology.",
+        "explanation": "The first vowel of table is actually the diphthong /eɪ/ in the usual British pronunciation."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Long.",
+        "explanation": "Tree has /iː/."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Long.",
+        "explanation": "More is conventionally /mɔː/ in non-rhotic British English."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Long.",
+        "explanation": "School has /uː/."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Long.",
+        "explanation": "Tool has /uː/."
+      },
+      {
+        "label": "5(vi)",
+        "type": "written",
+        "answer": "Long.",
+        "explanation": "Steal has /iː/."
+      },
+      {
+        "label": "5(vii)",
+        "type": "written",
+        "answer": "Long.",
+        "explanation": "See has /iː/."
+      },
+      {
+        "label": "5(viii)",
+        "type": "written",
+        "answer": "Short.",
+        "explanation": "Good has /ʊ/."
+      },
+      {
+        "label": "5(ix)",
+        "type": "written",
+        "answer": "Short.",
+        "explanation": "Wood has /ʊ/."
+      },
+      {
+        "label": "5(x)",
+        "type": "written",
+        "answer": "Short.",
+        "explanation": "Put has /ʊ/."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "confirmation",
+        "explanation": "This names the act of confirming."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "happiness",
+        "explanation": "The adjective happy forms an abstract noun with -ness."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "inspiration",
+        "explanation": "This names the effect or process of inspiring."
+      },
+      {
+        "label": "6(a)(iv)",
+        "type": "written",
+        "answer": "failure",
+        "explanation": "Failure is the noun related to fail."
+      },
+      {
+        "label": "6(a)(v)",
+        "type": "written",
+        "answer": "choice",
+        "explanation": "Choice names the result or act of choosing."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "talkative",
+        "explanation": "This describes someone who talks readily."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "beneficial",
+        "explanation": "This describes something that brings benefit."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "strong",
+        "explanation": "This adjective denotes possession of strength."
+      },
+      {
+        "label": "6(b)(iv)",
+        "type": "written",
+        "answer": "dark",
+        "explanation": "Darken means make dark."
+      },
+      {
+        "label": "6(b)(v)",
+        "type": "written",
+        "answer": "deep",
+        "explanation": "Deepen means make deep."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Although the weather is bad, we are enjoying ourselves.",
+        "explanation": "Although introduces the contrasting circumstance."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "I like black, but he likes yellow.",
+        "explanation": "But connects the contrasting preferences."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Despite the challenges he faced, he passed the exams.",
+        "explanation": "Despite takes a noun phrase."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Neither John nor Musa is tall.",
+        "explanation": "Neither and nor coordinate the two singular subjects."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "He is not only rich but also humble.",
+        "explanation": "The paired connectors link parallel adjectives."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "boxes",
+        "explanation": "Add -es after x."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "children",
+        "explanation": "Child has an irregular plural."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "houses",
+        "explanation": "Add -s."
+      },
+      {
+        "label": "8(a)(iv)",
+        "type": "written",
+        "answer": "buses",
+        "explanation": "Add -es after s."
+      },
+      {
+        "label": "8(a)(v)",
+        "type": "written",
+        "answer": "people",
+        "explanation": "People is the ordinary plural of person."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "ox",
+        "explanation": "Oxen is its irregular plural."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "radius",
+        "explanation": "Radii is its Latin-derived plural."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "fox",
+        "explanation": "Remove plural -es."
+      },
+      {
+        "label": "8(b)(iv)",
+        "type": "written",
+        "answer": "pupil",
+        "explanation": "Remove final plural -s."
+      },
+      {
+        "label": "8(b)(v)",
+        "type": "written",
+        "answer": "computer",
+        "explanation": "Remove final plural -s."
+      },
+      {
+        "label": "8(c)(i)",
+        "type": "written",
+        "answer": "Floods are destroying the crops.",
+        "explanation": "The present participle follows are."
+      },
+      {
+        "label": "8(c)(ii)",
+        "type": "written",
+        "answer": "Her performance impressed the class.",
+        "explanation": "The noun names how she did."
+      },
+      {
+        "label": "8(c)(iii)",
+        "type": "written",
+        "answer": "Practice brought a clear improvement.",
+        "explanation": "The noun names a beneficial change."
+      },
+      {
+        "label": "8(c)(iv)",
+        "type": "written",
+        "answer": "Our organization supports school libraries.",
+        "explanation": "The noun refers to a group."
+      },
+      {
+        "label": "8(c)(v)",
+        "type": "written",
+        "answer": "Mangoes and oranges are fruits.",
+        "explanation": "The plural noun names a class of foods."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "A friendly letter is a personal message written to someone the writer knows.",
+        "explanation": "It usually uses a warm, informal style."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Sender’s address, date, greeting, body, complimentary close and sender’s name.",
+        "explanation": "These locate and date the letter, address its reader, deliver the message and identify the writer."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "The chairperson introduces the motion and recognises speakers. The secretary records the arguments. The timekeeper signals when each speech ends. A chief proposer introduces the case for the motion. A chief opposer challenges it. An adjudicator assesses the evidence and announces the decision.",
+        "explanation": "For example, in a uniform debate the proposer could argue that uniforms reduce costs and the opposer could challenge that evidence. Give a distinct concrete duty for each role; local debate formats may use different titles."
+      }
+    ]
+  }
+}

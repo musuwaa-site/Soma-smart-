@@ -1,0 +1,515 @@
+{
+  "sourceId": "source-d0d40d886c8da009",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "written",
+        "answer": "Cindy is HIV positive and is distressed and unwilling to talk.",
+        "explanation": "Sylvia says that she is HIV positive too and understands Cindy’s withdrawal."
+      },
+      {
+        "label": "1(ii)",
+        "type": "written",
+        "answer": "Cindy’s mother asked Sylvia to tell her own story to encourage Cindy.",
+        "explanation": "The letter offers shared experience and support."
+      },
+      {
+        "label": "1(iii)",
+        "type": "written",
+        "answer": "Sylvia believed William when he said protection was unnecessary.",
+        "explanation": "The question asks what happened in the story. Trust in a partner’s unsupported claim does not establish HIV status."
+      },
+      {
+        "label": "1(iv)",
+        "type": "written",
+        "answer": "She found out through tests at the hospital after becoming ill.",
+        "explanation": "The mother took her for medical assessment."
+      },
+      {
+        "label": "1(v)",
+        "type": "written",
+        "answer": "Her father shouted and her mother cried.",
+        "explanation": "The passage states both reactions."
+      },
+      {
+        "label": "1(vi)",
+        "type": "written",
+        "answer": "Sylvia wanted to be alone and blamed herself.",
+        "explanation": "She describes feeling shocked and distressed."
+      },
+      {
+        "label": "1(vii)",
+        "type": "written",
+        "answer": "The health worker smiled, joked kindly and gave advice and encouragement.",
+        "explanation": "She offered practical support rather than rejection."
+      },
+      {
+        "label": "1(viii)",
+        "type": "written",
+        "answer": "Sylvia is in her last year at college.",
+        "explanation": "She states her current educational position."
+      },
+      {
+        "label": "1(ix)",
+        "type": "written",
+        "answer": "She hopes to go to university and pursue her dreams while staying well.",
+        "explanation": "The ending is hopeful."
+      },
+      {
+        "label": "1(x)",
+        "type": "written",
+        "answer": "Yes, she has had boyfriends since then.",
+        "explanation": "She says she has had a few, while choosing abstinence."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "written",
+        "answer": "Eat a healthy balanced diet.",
+        "explanation": "The passage mentions vegetables and fruit and limiting excess fat and sugar."
+      },
+      {
+        "label": "2(ii)",
+        "type": "written",
+        "answer": "Exercise.",
+        "explanation": "The health worker advises regular activity appropriate to health."
+      },
+      {
+        "label": "2(iii)",
+        "type": "written",
+        "answer": "Get enough rest.",
+        "explanation": "Rest is one of the stated recommendations."
+      },
+      {
+        "label": "2(iv)",
+        "type": "written",
+        "answer": "Attend the HIV clinic for treatment.",
+        "explanation": "The historical passage describes medication when very ill. Current care recommends starting antiretroviral treatment promptly after diagnosis under a clinician’s guidance."
+      },
+      {
+        "label": "2(v)",
+        "type": "written",
+        "answer": "Join a support group.",
+        "explanation": "Meeting other students helps reduce isolation and build hope."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A positive are statement takes aren’t they.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "A positive will statement takes won’t they.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A negative won’t statement takes will they.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A negative am not statement takes am I.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "3(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A simple present positive statement with I takes don’t I.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "mcq",
+        "answer": "3",
+        "explanation": "The oyster moves after the shell has been opened.",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "label": "4(ii)",
+        "type": "mcq",
+        "answer": "5",
+        "explanation": "Its exceptional size is identified after the pearl is seen.",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "label": "4(iv)",
+        "type": "mcq",
+        "answer": "4",
+        "explanation": "Kino lifts the flesh to reveal the pearl.",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "label": "4(v)",
+        "type": "mcq",
+        "answer": "2",
+        "explanation": "The shell opens after he inserts the knife.",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "label": "4(vi)",
+        "type": "mcq",
+        "answer": "6",
+        "explanation": "He finally removes the pearl and sees it shine.",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Mr and Mrs Olusanya invite [guest name] to the birthday celebration of their daughter Zawadi at their home, house 13/B/IV, Maduka Street, on 15 November 2008 from 5:00 p.m. to 8:00 p.m. Regrets only to Mrs Masalu Olusanya, 0752-443388.",
+        "explanation": "Include the hosts, guest, purpose, venue, date, time and contact. The printed contact is for guests who cannot attend."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(1)",
+        "type": "written",
+        "answer": "the",
+        "explanation": "The speakers know which kitchen."
+      },
+      {
+        "label": "6(2)",
+        "type": "written",
+        "answer": "a",
+        "explanation": "Cake is introduced as one unspecified cake."
+      },
+      {
+        "label": "6(3)",
+        "type": "written",
+        "answer": "some",
+        "explanation": "Some is usual in a polite offer."
+      },
+      {
+        "label": "6(4)",
+        "type": "written",
+        "answer": "a",
+        "explanation": "One pot is being introduced."
+      },
+      {
+        "label": "6(5)",
+        "type": "written",
+        "answer": "the",
+        "explanation": "This refers back to the cake already mentioned."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "He was not at the place of the event when the theft occurred.",
+        "explanation": "Negate was by adding not."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "He did not break into the house.",
+        "explanation": "After did not use the base form break."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "He did not threaten to kill the occupants of the house.",
+        "explanation": "Did carries past tense."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "He did not force the wardrobes open.",
+        "explanation": "Use did not plus force."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "He did not take any clothes from the wardrobes.",
+        "explanation": "Use did not take; any is natural in the negative."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "much",
+        "explanation": "Much strengthens the comparative taller."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "sun-glasses",
+        "explanation": "These can be worn and described as black."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "ponytail",
+        "explanation": "Hair can be tied in a ponytail."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "moustache",
+        "explanation": "This is facial hair above the upper lip."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "well-built",
+        "explanation": "This describes a strong physique."
+      },
+      {
+        "label": "8(vi)",
+        "type": "written",
+        "answer": "as",
+        "explanation": "The equality pattern is as fast as."
+      },
+      {
+        "label": "8(vii)",
+        "type": "written",
+        "answer": "wavy",
+        "explanation": "This describes the texture or shape of hair."
+      },
+      {
+        "label": "8(viii)",
+        "type": "written",
+        "answer": "in",
+        "explanation": "The expression is in her late teens."
+      },
+      {
+        "label": "8(ix)",
+        "type": "written",
+        "answer": "wearing",
+        "explanation": "Was wearing describes clothing."
+      },
+      {
+        "label": "8(x)",
+        "type": "written",
+        "answer": "looked",
+        "explanation": "Looked scared describes appearance."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(1)",
+        "type": "written",
+        "answer": "cheek",
+        "explanation": "The arrow points to the side of the face."
+      },
+      {
+        "label": "9(2)",
+        "type": "written",
+        "answer": "ear",
+        "explanation": "The arrow points to the hearing organ."
+      },
+      {
+        "label": "9(3)",
+        "type": "written",
+        "answer": "hair",
+        "explanation": "The arrow points to the hair above the forehead."
+      },
+      {
+        "label": "9(4)",
+        "type": "written",
+        "answer": "forehead",
+        "explanation": "The arrow points above the eyebrows."
+      },
+      {
+        "label": "9(5)",
+        "type": "written",
+        "answer": "eyebrow",
+        "explanation": "The arrow points to hair above the eye."
+      },
+      {
+        "label": "9(6)",
+        "type": "written",
+        "answer": "eyelashes",
+        "explanation": "The arrow points to the edge of the eye."
+      },
+      {
+        "label": "9(7)",
+        "type": "written",
+        "answer": "nostril",
+        "explanation": "The arrow points to the nose opening."
+      },
+      {
+        "label": "9(8)",
+        "type": "written",
+        "answer": "lip",
+        "explanation": "The arrow points to the mouth border."
+      },
+      {
+        "label": "9(9)",
+        "type": "written",
+        "answer": "chin",
+        "explanation": "The arrow points below the mouth."
+      },
+      {
+        "label": "9(10)",
+        "type": "written",
+        "answer": "throat",
+        "explanation": "The arrow points to the front of the neck."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(2)",
+        "type": "written",
+        "answer": "The door was forced open by the thief.",
+        "explanation": "Make the door the subject and use was forced."
+      },
+      {
+        "label": "10(3)",
+        "type": "written",
+        "answer": "The lock was broken.",
+        "explanation": "Use was plus the past participle broken."
+      },
+      {
+        "label": "10(4)",
+        "type": "written",
+        "answer": "What was stolen?",
+        "explanation": "The passive question puts was before the participle."
+      },
+      {
+        "label": "10(5)",
+        "type": "written",
+        "answer": "All the drawers and wardrobes were opened and searched.",
+        "explanation": "Plural subject takes were and two participles."
+      },
+      {
+        "label": "10(6)",
+        "type": "written",
+        "answer": "Some jewellery and some electrical equipment were stolen.",
+        "explanation": "The objects become the subject of the passive clause."
+      }
+    ],
+    "11": [
+      {
+        "label": "11(i)",
+        "type": "written",
+        "answer": "In Mabala the Farmer, Mama Martina must manage the work and household difficulties caused by Mabala’s poor preparation and attitude to farming.",
+        "explanation": "Name the reader and character and connect the challenge to an actual event. Other correctly supported main characters are valid."
+      },
+      {
+        "label": "11(ii)",
+        "type": "written",
+        "answer": "I would seek practical advice, plan farm work and spending, share responsibilities fairly and discuss problems early with my family.",
+        "explanation": "Explain feasible actions that address the stated challenge, while linking the answer to the chosen character."
+      }
+    ],
+    "12": [
+      {
+        "label": "12(i)",
+        "type": "written",
+        "answer": "HIV.",
+        "explanation": "The final line identifies the addressed enemy."
+      },
+      {
+        "label": "12(ii)",
+        "type": "written",
+        "answer": "It leaves families without parents or children through illness and deaths.",
+        "explanation": "Fatherless, motherless and childless describe loss and bereavement."
+      },
+      {
+        "label": "12(iii)",
+        "type": "written",
+        "answer": "Learn accurate HIV prevention, use appropriate protection, avoid sharing needles and obtain testing and timely treatment.",
+        "explanation": "The poem calls for collective action. People living with HIV deserve care and respect; treatment can prevent progression and transmission."
+      }
+    ]
+  }
+}

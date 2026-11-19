@@ -1,0 +1,498 @@
+{
+  "sourceId": "source-64414f6bb0cbda08",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A flammable-gas fire is class C in the school system.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Group I elements have one valence electron.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Damaged apparatus creates hazards during practical work.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Analytical chemistry identifies and measures sample components; biochemistry is also relevant to blood.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "D",
+          "B"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Settling particles must be redistributed in a suspension.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Group I has fewer valence electrons than group II.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A beaker can be supported above a burner using suitable heating equipment.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "CaCO3 decomposes to CaO and CO2.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The metal N is written first and both valencies are two.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Cooling gives gas to liquid to solid and heating reverses it.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "review",
+        "answer": "The isotope must be specified: chlorine-35 has 18 neutrons and chlorine-37 has 20.",
+        "explanation": "A chlorine neutron count needs a particular isotope; relative atomic mass 35.5 is an isotope-weighted mean.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Aluminium-27 has 27−13=14 neutrons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Potassium-39 has 39−19=20 neutrons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Phosphorus-31 has 31−15=16 neutrons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "I",
+        "explanation": "Argon-40 has 40−18=22 neutrons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "NaCl contains chemically bonded sodium and chlorine, has a fixed composition, has new properties and requires chemical decomposition to separate its elements.",
+        "explanation": "These are properties of a compound rather than a mixture."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Pure sugar is a compound with fixed composition and bonded elements; tea is a mixture with variable composition whose constituents retain properties and can be physically separated.",
+        "explanation": "The comparison assumes sugar means pure sucrose rather than an impure commercial sample."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "A burner gives controllable heat, an adjustable flame, a clean non-luminous heating flame and convenient localised heating.",
+        "explanation": "Air and gas adjustments control combustion."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Electric hot plate, heating mantle, water bath and supervised spirit burner.",
+        "explanation": "Choice depends on the substance, temperature and fire risk."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Filtration.",
+        "explanation": "Sand is insoluble and retained by filter paper."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Fractional distillation.",
+        "explanation": "The miscible liquids have different boiling points."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Mechanical pressing or suitable solvent extraction.",
+        "explanation": "Oil must be removed from plant tissue."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Evaporation or crystallisation to obtain salt; distillation to recover water.",
+        "explanation": "Choose the method according to the component required."
+      },
+      {
+        "label": "5(a)(v)",
+        "type": "written",
+        "answer": "Sublimation.",
+        "explanation": "Iodine sublimes while sand remains solid."
+      },
+      {
+        "label": "5(a)(vi)",
+        "type": "written",
+        "answer": "Separating funnel.",
+        "explanation": "The immiscible liquids form separate layers."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Chromatography checks drug identity and purity.",
+        "explanation": "Different compounds move at different rates."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "It detects pollutants or substances in biological samples.",
+        "explanation": "Separation enables identification or quantification."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "It separates and identifies components in chemical mixtures.",
+        "explanation": "Components interact differently with stationary and mobile phases."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "It compares inks or detects prohibited substances in forensic samples.",
+        "explanation": "A chromatogram provides evidence about composition."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Valency is an atom’s combining capacity.",
+        "explanation": "It describes the number of bonds or electrons involved in simple combinations."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Isotopy is the occurrence of atoms of one element with different neutron numbers.",
+        "explanation": "Their proton number remains equal."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "2,8,7.",
+        "explanation": "Seventeen electrons fill the first two shells before the third."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "WZ2.",
+        "explanation": "One W loses two electrons and two Z atoms each gain one."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "2.",
+        "explanation": "W has two outer-shell electrons."
+      },
+      {
+        "label": "6(b)(iv)",
+        "type": "written",
+        "answer": "Ionic bonding.",
+        "explanation": "Electron transfer produces oppositely charged ions."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Na2CO3 + 2HCl → 2NaCl + H2O + CO2; CO3²⁻ + 2H⁺ → H2O + CO2.",
+        "explanation": "Atoms and charge balance; sodium and chloride are spectator ions."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "H2SO4 + 2KOH → K2SO4 + 2H2O; H⁺ + OH⁻ → H2O.",
+        "explanation": "Acid and hydroxide neutralise and spectator ions cancel."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Ca + 2HCl → CaCl2 + H2; Ca + 2H⁺ → Ca²⁺ + H2.",
+        "explanation": "Calcium loses two electrons while hydrogen ions gain them."
+      },
+      {
+        "label": "7(d)",
+        "type": "written",
+        "answer": "Pb(NO3)2 + Na2SO4 → PbSO4 + 2NaNO3; Pb²⁺ + SO4²⁻ → PbSO4.",
+        "explanation": "Insoluble lead sulfate precipitates; soluble spectators cancel."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Au",
+        "explanation": "From aurum."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Cu",
+        "explanation": "From cuprum."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "Na",
+        "explanation": "From natrium."
+      },
+      {
+        "label": "8(a)(iv)",
+        "type": "written",
+        "answer": "K",
+        "explanation": "From kalium."
+      },
+      {
+        "label": "8(a)(v)",
+        "type": "written",
+        "answer": "Sn",
+        "explanation": "From stannum."
+      },
+      {
+        "label": "8(a)(vi)",
+        "type": "written",
+        "answer": "Fe",
+        "explanation": "From ferrum."
+      },
+      {
+        "label": "8(a)(vii)",
+        "type": "written",
+        "answer": "Ag",
+        "explanation": "From argentum."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Symbols are concise, internationally recognised and show composition in formulas.",
+        "explanation": "They avoid long language-specific names."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "L: H, period 1 group I; M: Ne, period 2 group 18; N: Si, period 3 group IV; O: S, period 3 group VI; P: Ca, period 4 group II.",
+        "explanation": "For neutral atoms electron number equals proton number."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "O, sulfur, among these five.",
+        "explanation": "Sulfur attracts bonding electrons most strongly among the listed elements."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "N, silicon.",
+        "explanation": "It has four valence electrons."
+      },
+      {
+        "label": "9(b)(iii)",
+        "type": "written",
+        "answer": "M, neon.",
+        "explanation": "Its outer shell is complete."
+      },
+      {
+        "label": "9(b)(iv)",
+        "type": "written",
+        "answer": "P, calcium.",
+        "explanation": "It is in group II."
+      },
+      {
+        "label": "9(b)(v)",
+        "type": "written",
+        "answer": "L, hydrogen.",
+        "explanation": "Hydrogen combines with oxygen to form water."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(i)",
+        "type": "written",
+        "answer": "Antacids neutralise excess stomach acid.",
+        "explanation": "A suitable weak base reacts with acid."
+      },
+      {
+        "label": "10(ii)",
+        "type": "written",
+        "answer": "Liming acidic soil improves soil pH.",
+        "explanation": "An alkaline amendment neutralises acidity."
+      },
+      {
+        "label": "10(iii)",
+        "type": "written",
+        "answer": "Treatment of acidic industrial waste can reduce corrosivity.",
+        "explanation": "Treatment must use controlled monitoring."
+      },
+      {
+        "label": "10(iv)",
+        "type": "written",
+        "answer": "Toothpaste can help counter acids in the mouth.",
+        "explanation": "Oral acids contribute to enamel damage."
+      },
+      {
+        "label": "10(v)",
+        "type": "written",
+        "answer": "Water-treatment processes adjust pH.",
+        "explanation": "Controlled neutralisation makes water suitable for its intended use."
+      },
+      {
+        "label": "10(vi)",
+        "type": "written",
+        "answer": "Acid or alkali spills can be managed by trained staff using approved neutralising materials.",
+        "explanation": "A planned procedure controls heat, splashing and exposure."
+      }
+    ]
+  }
+}

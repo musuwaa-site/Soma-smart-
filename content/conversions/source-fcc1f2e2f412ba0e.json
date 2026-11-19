@@ -1,0 +1,352 @@
+{
+  "sourceId": "source-fcc1f2e2f412ba0e",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "Haki Sawa kwa Wote",
+        "explanation": "Kichwa kinajumuisha haki za wasichana na wavulana."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "Kuelemea kutetea jinsia moja na kusahau matatizo ya jinsia nyingine.",
+        "explanation": "Mwandishi anasisitiza fursa sawa."
+      },
+      {
+        "label": "1(c)(i)",
+        "type": "written",
+        "answer": "Ndoa za mapema.",
+        "explanation": "Mifano imetajwa katika aya ya tatu."
+      },
+      {
+        "label": "1(c)(ii)",
+        "type": "written",
+        "answer": "Kunyimwa nafasi ya kwenda shule.",
+        "explanation": "Mifano imetajwa katika aya ya tatu."
+      },
+      {
+        "label": "1(d)(i)",
+        "type": "written",
+        "answer": "Matatizo au mambo yanayohitaji juhudi kuyakabili.",
+        "explanation": "Fasili ilingane na matumizi ndani ya kifungu."
+      },
+      {
+        "label": "1(d)(ii)",
+        "type": "written",
+        "answer": "Tofauti au utambulisho wa kuwa mwanamke au mwanamume katika muktadha wa jamii.",
+        "explanation": "Fasili ilingane na matumizi ndani ya kifungu."
+      },
+      {
+        "label": "1(d)(iii)",
+        "type": "written",
+        "answer": "Kuinua hadhi na uwezo.",
+        "explanation": "Fasili ilingane na matumizi ndani ya kifungu."
+      },
+      {
+        "label": "1(d)(iv)",
+        "type": "written",
+        "answer": "Juhudi zinazoendelea za kutimiza lengo.",
+        "explanation": "Fasili ilingane na matumizi ndani ya kifungu."
+      },
+      {
+        "label": "1(d)(v)",
+        "type": "written",
+        "answer": "Vipindi vya miaka kumi.",
+        "explanation": "Fasili ilingane na matumizi ndani ya kifungu."
+      },
+      {
+        "label": "1(e)",
+        "type": "written",
+        "answer": "Harakati za usawa zimewasaidia wasichana waliokabili ndoa za mapema na kukosa elimu. Mashirika na serikali zimeongeza fursa kwao. Hata hivyo, baadhi ya wavulana wanaishi katika mazingira magumu, hukosa shule na kuingizwa katika uhalifu. Mwandishi anataka jitihada zinazolinda haki na fursa za jinsia zote.",
+        "explanation": "Bana hoja za kifungu kwa maneno 40–80. Kikao cha Beijing kilikuwa 1995, ingawa kifungu kimeandika 1985."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)(ii)",
+        "type": "mcq",
+        "answer": "I",
+        "explanation": "Chagua dhana inayolingana na fasili.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(a)(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Chagua dhana inayolingana na fasili.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(a)(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Chagua dhana inayolingana na fasili.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(a)(v)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Chagua dhana inayolingana na fasili.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(a)(vi)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Chagua dhana inayolingana na fasili.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "Jozi ni shilingi elfu ishirini.",
+        "explanation": "Majibu ni mfano; mazungumzo yaonyeshe bei, mapatano na mwendelezo wenye maana."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "Naomba unipunguzie; nina elfu kumi na tano.",
+        "explanation": "Majibu ni mfano; mazungumzo yaonyeshe bei, mapatano na mwendelezo wenye maana."
+      },
+      {
+        "label": "2(b)(iii)",
+        "type": "written",
+        "answer": "Naweza kukuachia kwa elfu kumi na nane.",
+        "explanation": "Majibu ni mfano; mazungumzo yaonyeshe bei, mapatano na mwendelezo wenye maana."
+      },
+      {
+        "label": "2(b)(iv)",
+        "type": "written",
+        "answer": "Nina elfu kumi na tano tu.",
+        "explanation": "Majibu ni mfano; mazungumzo yaonyeshe bei, mapatano na mwendelezo wenye maana."
+      },
+      {
+        "label": "2(b)(v)",
+        "type": "written",
+        "answer": "Ongeza angalau elfu moja, rafiki.",
+        "explanation": "Majibu ni mfano; mazungumzo yaonyeshe bei, mapatano na mwendelezo wenye maana."
+      },
+      {
+        "label": "2(c)(i)",
+        "type": "written",
+        "answer": "Ametumia kitu gani kumpiga? / Amempigia simu kwa sababu gani?",
+        "explanation": "Kila jozi ionyeshe maana mbili zinazotokana na neno au muundo wa sentensi."
+      },
+      {
+        "label": "2(c)(ii)",
+        "type": "written",
+        "answer": "Ameiba kitambaa cha kanga / ndege wa aina ya kanga.",
+        "explanation": "Kila jozi ionyeshe maana mbili zinazotokana na neno au muundo wa sentensi."
+      },
+      {
+        "label": "2(c)(iii)",
+        "type": "written",
+        "answer": "Njoo na nyanya za kupikia / njoo pamoja na bibi.",
+        "explanation": "Kila jozi ionyeshe maana mbili zinazotokana na neno au muundo wa sentensi."
+      },
+      {
+        "label": "2(c)(iv)",
+        "type": "written",
+        "answer": "Una uzio? / una mmea wenye ua?",
+        "explanation": "Kila jozi ionyeshe maana mbili zinazotokana na neno au muundo wa sentensi."
+      },
+      {
+        "label": "2(c)(v)",
+        "type": "written",
+        "answer": "Ni nyumba ya kulaza wageni / nyumba inayomilikiwa na wageni.",
+        "explanation": "Kila jozi ionyeshe maana mbili zinazotokana na neno au muundo wa sentensi."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(ii)",
+        "type": "review",
+        "answer": "Mstari unaobainisha neno lengwa hauonekani katika nakala hii. Bila neno lengwa, sentensi ina aina kadhaa za maneno.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "review",
+        "answer": "Mstari unaobainisha neno lengwa hauonekani katika nakala hii. Bila neno lengwa, sentensi ina aina kadhaa za maneno.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "review",
+        "answer": "Mstari unaobainisha neno lengwa hauonekani katika nakala hii. Bila neno lengwa, sentensi ina aina kadhaa za maneno.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(a)(v)",
+        "type": "review",
+        "answer": "Mstari unaobainisha neno lengwa hauonekani katika nakala hii. Bila neno lengwa, sentensi ina aina kadhaa za maneno.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(a)(vi)",
+        "type": "review",
+        "answer": "Mstari unaobainisha neno lengwa hauonekani katika nakala hii. Bila neno lengwa, sentensi ina aina kadhaa za maneno.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Kusema: mzizi sem; kusemeana; kusemwa.",
+        "explanation": "Tenganisha mzizi na viambishi. Kutendana kwa andika kwa kawaida ni kuandikiana."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Kupiga: mzizi pig; kupigana; kupigwa.",
+        "explanation": "Tenganisha mzizi na viambishi. Kutendana kwa andika kwa kawaida ni kuandikiana."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "Kuomba: mzizi omb; kuombana; kuombwa.",
+        "explanation": "Tenganisha mzizi na viambishi. Kutendana kwa andika kwa kawaida ni kuandikiana."
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "written",
+        "answer": "Kuandika: mzizi andik; kuandikiana; kuandikwa.",
+        "explanation": "Tenganisha mzizi na viambishi. Kutendana kwa andika kwa kawaida ni kuandikiana."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Maana, aina ya neno, matamshi, mifano ya matumizi na asili ya neno.",
+        "explanation": "Kitomeo hujumuisha kidahizo na taarifa zinazokifafanua."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "review",
+        "answer": "Mchoro unaorejelewa haupo. Matawi yanayoweza kutajwa ni sanaa za maonesho, ushairi, uchoraji, uchongaji na usanifu, kutegemea mgawanyo uliokusudiwa.",
+        "explanation": "Tumia maandishi ya asili kama yalivyo; kipengele hakina jibu moja linalothibitishwa katika nakala hii."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Mchoyo hana rafiki.",
+        "explanation": "Linganisha methali au nahau na tabia iliyoelezwa."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Cha ndugu hakitoshi, ongeza chako.",
+        "explanation": "Linganisha methali au nahau na tabia iliyoelezwa."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Kupiga domo.",
+        "explanation": "Linganisha methali au nahau na tabia iliyoelezwa."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Kula rushwa.",
+        "explanation": "Linganisha methali au nahau na tabia iliyoelezwa."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Asiyefunzwa na mamaye hufunzwa na ulimwengu.",
+        "explanation": "Linganisha methali au nahau na tabia iliyoelezwa."
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "Kuhimiza subira na bidii katika elimu.",
+        "explanation": "Jibu lieleze hoja ya utungo kwa ushahidi wa mistari."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "Haraka, husuda na kutegemea mafanikio ya wengine.",
+        "explanation": "Jibu lieleze hoja ya utungo kwa ushahidi wa mistari."
+      },
+      {
+        "label": "4(c)(iii)",
+        "type": "written",
+        "answer": "Soma kwa bidii na usikate tamaa.",
+        "explanation": "Jibu lieleze hoja ya utungo kwa ushahidi wa mistari."
+      },
+      {
+        "label": "4(c)(iv)",
+        "type": "written",
+        "answer": "Maisha ni safari ndefu yenye wakati na fursa tofauti.",
+        "explanation": "Jibu lieleze hoja ya utungo kwa ushahidi wa mistari."
+      },
+      {
+        "label": "4(c)(v)",
+        "type": "written",
+        "answer": "Nitautumia muda kujifunza na kuvumilia changamoto.",
+        "explanation": "Jibu lieleze hoja ya utungo kwa ushahidi wa mistari."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Sanduku la Posta 10, Dodoma. Tarehe 10/11/2013.\nMhariri, Gazeti la Uhuru, Dar es Salaam.\nYAH: KUPUNGUZA AJALI ZA BARABARANI\nNdugu Mhariri, naomba serikali iimarishe ukaguzi wa magari ili yenye hitilafu yasitumike. Pili, elimu endelevu ya usalama itolewe kwa madereva na watembea kwa miguu. Tatu, sheria za mwendo na ulevi zisimamiwe kwa haki na uthabiti. Hatua hizi zitasaidia kulinda maisha.\nWako mwaminifu, Amani Juma.",
+        "explanation": "Barua iwe na anuani, tarehe, mpokeaji, kichwa, salamu, hoja tatu na hitimisho."
+      }
+    ]
+  }
+}

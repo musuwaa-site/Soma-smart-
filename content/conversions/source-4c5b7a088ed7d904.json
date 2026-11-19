@@ -1,0 +1,484 @@
+{
+  "sourceId": "source-4c5b7a088ed7d904",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Protons carry the nuclear positive charge.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Milk is produced biologically rather than manufactured by a chemist.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The collar controls air entry.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Milk is an emulsion of fat droplets in a water-based phase.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Adequate boiling kills many disease-causing microorganisms.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Isotopes have equal atomic numbers and different mass numbers.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Sodium and water yield sodium hydroxide and hydrogen.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Covalent bonds share valence electrons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Silica gel absorbs moisture.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The first shell holds two electrons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Ammonium chloride sublimes.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "The listed best available method is decantation after settling; filtration is usually preferable.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Solvent extraction removes oil.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Evaporation recovers salt.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Fractional distillation separates miscible volatile liquids.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "Heat.",
+        "explanation": "Fuel must reach ignition conditions."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "Variables.",
+        "explanation": "An independent variable is deliberately changed."
+      },
+      {
+        "label": "2(b)(iii)",
+        "type": "written",
+        "answer": "Hydrological or water cycle.",
+        "explanation": "Water circulates through air, land and water bodies."
+      },
+      {
+        "label": "2(b)(iv)",
+        "type": "written",
+        "answer": "Destructive distillation of coal.",
+        "explanation": "Heating without air yields coke and gaseous products."
+      },
+      {
+        "label": "2(b)(v)",
+        "type": "written",
+        "answer": "Carbon.",
+        "explanation": "It has four outer electrons and can share four."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Helium using the usual school atomic-radius trend; radius definitions can affect comparisons of noble gases.",
+        "explanation": "Radius generally decreases across a period."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Potassium.",
+        "explanation": "It begins period four and has a large outer electron shell."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Sodium, magnesium and aluminium.",
+        "explanation": "These period-three metals have three occupied shells."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Lithium, sodium and potassium.",
+        "explanation": "Each group I metal has one outer electron."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "Helium, neon and argon.",
+        "explanation": "Their outer shells are complete."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Chlorate ion.",
+        "explanation": "ClO3⁻ is the chlorate radical."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Phosphate ion.",
+        "explanation": "PO4³⁻ is phosphate."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Nitrogen −3 in NH4Cl.",
+        "explanation": "The ammonium ion has charge +1 and four H contribute +4."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Aluminium +3 in Al2O3.",
+        "explanation": "Three oxygens total −6, balanced by two aluminium atoms."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Sulfur +6 in Na2SO4.",
+        "explanation": "Two sodium ions contribute +2 and oxygen contributes −8."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Oxygen −1 in H2O2.",
+        "explanation": "Oxygen in a peroxide has oxidation number −1."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Luminous",
+        "explanation": "The yellow luminous flame results from less complete combustion; the blue flame gets more air and is cleaner and hotter."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Non-luminous",
+        "explanation": "The yellow luminous flame results from less complete combustion; the blue flame gets more air and is cleaner and hotter."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Luminous",
+        "explanation": "The yellow luminous flame results from less complete combustion; the blue flame gets more air and is cleaner and hotter."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Luminous",
+        "explanation": "The yellow luminous flame results from less complete combustion; the blue flame gets more air and is cleaner and hotter."
+      },
+      {
+        "label": "5(a)(v)",
+        "type": "written",
+        "answer": "Non-luminous",
+        "explanation": "The yellow luminous flame results from less complete combustion; the blue flame gets more air and is cleaner and hotter."
+      },
+      {
+        "label": "5(a)(vi)",
+        "type": "written",
+        "answer": "Non-luminous",
+        "explanation": "The yellow luminous flame results from less complete combustion; the blue flame gets more air and is cleaner and hotter."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "It is bright yellow and emits more visible light.",
+        "explanation": "Glowing soot particles produce luminosity; proper lighting remains necessary for safe work."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "A fully aerated Bunsen flame can reach a higher temperature and has distinct blue inner and outer cones.",
+        "explanation": "The gas-air mixture differs from the fuel supply of a spirit burner."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Draw a bulbous flask with narrow neck and calibration mark; it prepares a fixed volume of solution.",
+        "explanation": "The mark specifies volume at a reference temperature."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Draw a conical funnel with stem; it guides liquids or supports filter paper.",
+        "explanation": "A narrow outlet directs flow."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "Draw an inner tube surrounded by a cooling-water jacket; it condenses vapour.",
+        "explanation": "Heat passes from vapour to cooling water."
+      },
+      {
+        "label": "6(a)(iv)",
+        "type": "written",
+        "answer": "Draw a bulb and narrow calibrated tube; it measures temperature.",
+        "explanation": "A temperature-sensitive property gives a scale reading."
+      },
+      {
+        "label": "6(a)(v)",
+        "type": "written",
+        "answer": "Draw a heavy base, upright rod and clamp; it supports apparatus.",
+        "explanation": "Stable support keeps equipment positioned."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "A saturated solution holds the equilibrium maximum solute at that temperature; an unsaturated solution can dissolve more.",
+        "explanation": "Solubility depends on temperature."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Miscible liquids mix uniformly; immiscible liquids form layers.",
+        "explanation": "Their mutual solubility differs."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "A homogeneous mixture has uniform composition; a heterogeneous mixture does not.",
+        "explanation": "Different phases may be visible in a heterogeneous sample."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Distillation can obtain pure water from muddy water.",
+        "explanation": "Vaporisation leaves nonvolatile mud behind; filtration alone does not remove dissolved solutes."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Separating funnel.",
+        "explanation": "Kerosene and water are immiscible."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Potassium permanganate under supervised heating.",
+        "explanation": "It can release oxygen on thermal decomposition."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Potassium chlorate with a suitable catalyst in a supervised demonstration.",
+        "explanation": "Its decomposition can release oxygen; reagents require trained handling."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Carbon dioxide in excess oxygen.",
+        "explanation": "C + O2 → CO2."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Phosphorus(V) oxide.",
+        "explanation": "Phosphorus forms P4O10 in excess oxygen."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "Sulfur dioxide.",
+        "explanation": "S + O2 → SO2."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Medical oxygen, respiration support, metal cutting, steel production and oxidation in industrial processes.",
+        "explanation": "Oxygen supports oxidation but is not itself a fuel."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Molecular formula gives actual atom numbers in a molecule; empirical formula gives the simplest whole-number ratio.",
+        "explanation": "For example C6H12O6 has empirical formula CH2O."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "PbO2.",
+        "explanation": "86.6/207 ≈ 0.418 mol Pb and 13.4/16 ≈ 0.838 mol O give ratio 1:2."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "Mg²⁺ + 2Cl⁻ forms MgCl2.",
+        "explanation": "One +2 ion balances two −1 ions."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Identify a problem through observation, gather relevant information, propose a testable hypothesis, conduct controlled experiments and analyse and communicate conclusions.",
+        "explanation": "Research is iterative: new evidence can lead to revising the hypothesis or method."
+      }
+    ]
+  }
+}

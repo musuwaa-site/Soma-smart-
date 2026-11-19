@@ -75,3 +75,7 @@ Paper totals distinguish full transcription from complete scoring. Unresolved so
 Run `npm run build` followed by `node scripts/verify_release.mjs` and `python scripts/package.py` for the complete offline ZIP with original PDFs. For the size-limited ChatGPT Site, follow the full build with `node scripts/build_hosted.mjs` and `node scripts/verify_release.mjs --hosted`. Package the contents of `dist-hosted/` as the hosted `dist/` directory. This edition includes every archived exam and guide page for offline reading and practice. Opening the linked archive PDF requires internet access.
 
 Run `node scripts/check_offline_papers.mjs dist-hosted` and `node scripts/check_practice_session.mjs dist-hosted` to exercise the built service worker and student application in the test harness.
+
+Each past paper opens its question practice. Choose immediate feedback or marking at submission. Printed question pages preserve the exact source wording and figures. New paper conversions have separate controls for labelled parts and independently authored explanations. Practice points in these conversions use SomaSmart's scoring scale, shown under the paper instructions. Incomplete or ambiguous source items remain answerable as unscored review activities with the problem explained. Written responses use comparison and self-marking.
+
+Run `python scripts/embed_source_practice.py` to import conversion manifests and `python scripts/exam_completion.py --require-complete` to check the individual-response milestone.

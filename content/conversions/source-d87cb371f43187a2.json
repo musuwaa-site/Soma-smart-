@@ -1,0 +1,432 @@
+{
+  "sourceId": "source-d87cb371f43187a2",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Places on the same meridian have the same local solar time."
+      },
+      {
+        "label": "1(ii)",
+        "type": "review",
+        "answer": "The historical intended choice is Neptune (C), which had eight known moons in the older count. Current discoveries make the statement obsolete.",
+        "explanation": "Moon counts change with discoveries; the present inventory does not identify a planet with only the historical eight moons."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Compression bends rock layers into folds."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Sial refers to silica/alumina-rich continental crust in the older model."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "45° east is three hours ahead of Greenwich."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Mediterranean has a winter-rain pattern unlike the main tropical patterns listed."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Pressure differences push air from high toward low pressure."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A smaller denominator represents a larger map scale."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Isobars connect equal pressure, not sunshine."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "WSW is midway between SW 225° and W 270°, giving 247.5°."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "D",
+          "iii": "H",
+          "iv": "C",
+          "vi": "B",
+          "vii": "E",
+          "viii": "J",
+          "ix": "G",
+          "x": "A"
+        },
+        "explanation": "Physical, human and practical geography are branches; the older planetary list included Pluto; solstices place the overhead Sun at a tropic; annual orbit and tilt alter day length; the atmosphere has named layers; shelf/slope/trench are sea-floor features; weather is short-term atmospheric conditions; convection is solar heating; dividers can step along a route."
+      },
+      {
+        "label": "2(v)",
+        "type": "review",
+        "answer": "Earth’s core is mainly iron and nickel, not the printed manganese-silicate description.",
+        "explanation": "No listed option gives an accurate composition of the core."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Close contours mean a steep slope."
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Latitudes are parallel circles."
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "The main asteroid belt lies between Mars and Jupiter."
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Sea breeze blows from sea to land."
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Victoria, Kyoga and Chad are not standard rift-valley lake examples."
+      },
+      {
+        "label": "3(vi)",
+        "type": "review",
+        "answer": "Crossing westward adds one calendar day to the date.",
+        "explanation": "The words “gains a day” can mean either advancing the date or obtaining extra time, so the date-change rule is clearer."
+      },
+      {
+        "label": "3(vii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Read eastings before northings."
+      },
+      {
+        "label": "3(viii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Penumbra is partial shadow; umbra is full shadow."
+      },
+      {
+        "label": "3(ix)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "A drainage basin collects water; a watershed is its boundary."
+      },
+      {
+        "label": "3(x)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Europe lies north of the Tropic of Cancer."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "review",
+        "answer": "A numerical ground area cannot be assigned reliably because the printed “10m to 0.5km” scale is malformed. Count roughly 13–15 grid squares for the mine, then multiply by the actual verified ground area per square.",
+        "explanation": "The grid alone does not establish the ground distance of a square."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Approximately 045°.",
+        "explanation": "B is four grid intervals north and four east of A, so the clockwise bearing from north is 45°."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Southwest.",
+        "explanation": "A lies southwest of B."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "A: 2114; B: 2518. Six-figure versions at the intersections are A 210140 and B 250180.",
+        "explanation": "Read easting before northing."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Approximately 8°C.",
+        "explanation": "The graph falls from about 18°C to about 10°C."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Approximately 1,100 mm, allowing a reasonable graphical reading tolerance.",
+        "explanation": "Read the twelve bars, approximately 25,25,50,75,125,150,175,200,125,75,50,25 mm, then add them."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "About 91.7 mm per month.",
+        "explanation": "Divide an approximately 1,100 mm annual total by twelve."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Mediterranean-type climate in the Southern Hemisphere.",
+        "explanation": "Cooler months are wet while the warm season is relatively dry."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Winter rainfall maximum and comparatively dry, warmer summer.",
+        "explanation": "The rainfall peak occurs around July–August and temperature is higher around December–January."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Removal of forest cover from an area.",
+        "explanation": "Conversion to non-forest uses or sustained tree removal reduces tree cover."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Agricultural clearance, fuel wood/charcoal cutting and logging.",
+        "explanation": "These remove trees faster than they regenerate."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Road, rail, water and air transport.",
+        "explanation": "They move passengers and cargo through different media."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Limited finance and equipment, pests/diseases, unreliable rainfall and poor storage/transport.",
+        "explanation": "Each lowers yields or market returns."
+      },
+      {
+        "label": "5(d)",
+        "type": "written",
+        "answer": "Poor infrastructure, insecurity, costly services, limited marketing and damage to attractions.",
+        "explanation": "Tourism depends on accessible, attractive and safe destinations."
+      },
+      {
+        "label": "5(e)",
+        "type": "written",
+        "answer": "Improve transport; simplify fair customs procedures; improve product quality; expand market information and finance.",
+        "explanation": "These reduce trading costs and help firms reach customers."
+      },
+      {
+        "label": "5(f)",
+        "type": "written",
+        "answer": "Surface/furrow, basin, sprinkler and drip irrigation.",
+        "explanation": "They apply water through different delivery systems."
+      },
+      {
+        "label": "5(g)",
+        "type": "written",
+        "answer": "Raw materials, power, water, labour, markets and transport.",
+        "explanation": "The importance of each factor depends on the industry."
+      },
+      {
+        "label": "5(h)",
+        "type": "written",
+        "answer": "Flood control, electricity, navigation, irrigation, jobs and recreation.",
+        "explanation": "An integrated river-basin scheme serves several needs."
+      },
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Reliable water and power, irrigation, flood management and employment.",
+        "explanation": "Managing water can increase output and reduce damage."
+      },
+      {
+        "label": "5(j)",
+        "type": "written",
+        "answer": "Secure land rights, access to credit and inputs, agricultural training and inclusion in decision-making.",
+        "explanation": "These increase control over resources and improve productivity."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Limited modern boats, weak cold chains, poor transport, insufficient finance, overfishing, water pollution and variable weather.",
+        "explanation": "These constrain catches, preservation and profitable marketing."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Treat mine wastewater; contain tailings; control dust; rehabilitate land and replant; prevent chemical spills; enforce environmental monitoring.",
+        "explanation": "Control pollution at source and restore disturbed sites."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Productive pasture, suitable climate, skilled farmers, improved breeds, veterinary care, technology, cooperatives, transport and strong markets.",
+        "explanation": "High output per animal depends on feed, animal health, management and market access."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Reduced hygiene, waterborne disease, lower crop output, livestock losses, longer collection journeys and conflict over supplies.",
+        "explanation": "Water shortages affect health, livelihoods and time use."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Permanent settlements allow investment in land improvement, schools, markets and infrastructure; manure and crop residues can be reused; farming skills can improve on known land.",
+        "explanation": "Sedentary farmers cultivate a stable area rather than continually shifting location."
+      }
+    ]
+  }
+}

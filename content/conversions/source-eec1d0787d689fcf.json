@@ -1,0 +1,445 @@
+{
+  "sourceId": "source-eec1d0787d689fcf",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Majengo ya kale na sanaa ni urithi wa kihistoria na kiutamaduni.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Zanzibar ilipata uhuru chini ya usultani mwaka 1963.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Gavana Mkuu alimwakilisha Malkia hadi Tanganyika ilipokuwa jamhuri.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Elimu ya jadi ilifundisha mila, kazi, lugha na wajibu wa kijamii.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Upatanishi husikiliza pande zote ili kutatua ugomvi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Ziara ya kielimu ni kujifunza nje ya darasa.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Wakoloni waliweza kudhoofisha tiba za jadi kwa kuzihusisha na ushirikina.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Ushirikiano wa awali haukuondoa lengo la wakoloni kuwatawala jamii hizo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Udhibiti wa rasilimali uliwapa wenye mali nguvu na ushawishi.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Kiswahili hurahisisha mawasiliano ya biashara na sanaa kuvuka mipaka.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Mkwawa aliongoza upinzani wa Wahehe.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Merere alishirikiana na Wajerumani dhidi ya Wahehe.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "written",
+        "answer": "Mangi Rindi wa Moshi.",
+        "explanation": "Rindi alishirikiana na Wajerumani katika kampeni dhidi ya Kibosho. Mangi Meli alihusishwa na upinzani wa baadaye; kama orodha ya chanzo haimtaji Rindi, hakuna herufi sahihi."
+      },
+      {
+        "label": "2(iv)",
+        "type": "written",
+        "answer": "Chifu Isike wa Unyanyembe.",
+        "explanation": "Isike alipinga utawala wa Kijerumani. Mirambo alifariki kabla ya kuanzishwa kwa utawala huo, kwa hiyo asibadilishwe kimyakimya kuwa jibu la swali hili."
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Machemba wa Wayao alikataa kutii madai ya Wajerumani.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Huhifadhi utambulisho wa jamii.",
+        "explanation": "Urithi hutunza kumbukumbu na lugha."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Husaidia elimu na utafiti.",
+        "explanation": "Vitu na maeneo ni ushahidi wa historia."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Huvutia wageni na mapato.",
+        "explanation": "Utalii huongeza ajira na masoko."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Hulinda viumbe na mazingira.",
+        "explanation": "Urithi asilia huhifadhi makazi na maji."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Huunganisha vizazi.",
+        "explanation": "Maarifa hupitishwa kwa vijana."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Uaminifu huongeza imani katika biashara.",
+        "explanation": "Wateja hurudia huduma zinazoaminika."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Uwajibikaji hupunguza upotevu wa fedha.",
+        "explanation": "Watumishi huwajibika kwa rasilimali."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Bidii huongeza uzalishaji.",
+        "explanation": "Watu hutumia muda na vifaa vizuri."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Haki huimarisha ushirikiano.",
+        "explanation": "Migogoro na ubaguzi hupungua."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Kupinga rushwa hulinda mapato ya umma.",
+        "explanation": "Fedha zinaelekezwa kwenye huduma."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Mabaraza ya wazee yanafunza kusikiliza maoni.",
+        "explanation": "Ushirikishwaji husaidia viongozi kueleza maamuzi."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Ushirikiano katika kazi unaonyesha wajibu wa pamoja.",
+        "explanation": "Wanajamii wanafuatilia matokeo."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Uongozi wenye mipaka huzuia matumizi mabaya ya mamlaka.",
+        "explanation": "Viongozi wanapaswa kujibu kwa jamii."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Usimamizi wa mali ya pamoja hufundisha uwazi.",
+        "explanation": "Matumizi ya rasilimali yanaweza kuripotiwa."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Upatanishi husaidia kutatua migogoro.",
+        "explanation": "Pande zote husikilizwa na makubaliano hufuatiliwa."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Muungano wa Tanganyika na Zanzibar mwaka 1964.",
+        "explanation": "Uliunda Jamhuri ya Muungano wa Tanzania."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Kukuza Kiswahili kuwa lugha ya taifa.",
+        "explanation": "Kulirahisisha mawasiliano ya kitaifa."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Kuondoa mamlaka ya kisiasa ya machifu Tanganyika.",
+        "explanation": "Kulipanua mfumo wa utawala wa taifa."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Kueneza taasisi na huduma za kitaifa.",
+        "explanation": "Wananchi waliunganishwa kupitia elimu na utawala."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Kuimarisha utambulisho wa uraia kuliko ukabila.",
+        "explanation": "Sera na hotuba ziliweka mkazo katika umoja."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Aliongoza TANU iliyoanzishwa mwaka 1954.",
+        "explanation": "Chama kiliratibu madai ya uhuru."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Alihamasisha wananchi mijini na vijijini.",
+        "explanation": "Ushiriki ulipanua nguvu ya harakati."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Alitetea uhuru katika Umoja wa Mataifa.",
+        "explanation": "Alitoa madai ya Tanganyika kwenye jukwaa la kimataifa."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Alitetea njia za kisiasa na mazungumzo.",
+        "explanation": "Mpito uliweza kujengwa kupitia taasisi na uchaguzi."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Alisisitiza umoja wa watu wa makabila na dini tofauti.",
+        "explanation": "Umoja uliimarisha lengo la kujitawala."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Elimu ya jadi ilitolewa sana katika familia na jamii; elimu ya sasa hutolewa pia shuleni.",
+        "explanation": "Linganisha mazingira ya kujifunzia."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Jadi ilisisitiza kazi za maisha ya karibu; sasa kuna taaluma nyingi za kitaalamu.",
+        "explanation": "Malengo hutegemea uchumi na jamii."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Jadi ilitumia sana vitendo na masimulizi; sasa maandishi na teknolojia hutumika pia.",
+        "explanation": "Mbinu zinaweza kuingiliana."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Walimu wa jadi walikuwa wazazi na wenye uzoefu; sasa walimu hufundishwa kitaaluma.",
+        "explanation": "Tofauti ni mfumo wa maandalizi."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Jadi ilipima uwezo katika maisha; sasa mitihani na vyeti hutumika sana.",
+        "explanation": "Linganisha namna ya kupima maendeleo."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Zana za mawe hutumia jiwe; za chuma hutumia madini yaliyochakatwa.",
+        "explanation": "Tofauti ya malighafi."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Mawe huchongwa; chuma huyeyushwa au kufuliwa.",
+        "explanation": "Tofauti ya utengenezaji."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Zana za chuma kwa kawaida zinaweza kuwa kali zaidi.",
+        "explanation": "Husaidia kukata na kuchimba kwa ufanisi."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Chuma huweza kutengenezwa upya kinapochakaa.",
+        "explanation": "Urekebishaji hutofautiana na kuchonga jiwe."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Uhunzi ulihitaji tanuu na ujuzi maalumu.",
+        "explanation": "Teknolojia iliunda kazi za ufundi na biashara."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(i)",
+        "type": "written",
+        "answer": "Utawala wa Waingereza ulitumia machifu katika utawala usio wa moja kwa moja.",
+        "explanation": "Viongozi wa jadi walipewa majukumu chini ya wakoloni."
+      },
+      {
+        "label": "10(ii)",
+        "type": "written",
+        "answer": "Mipaka na maeneo ya kiutawala yalipangwa upya.",
+        "explanation": "Utawala uliendeshwa kupitia majimbo na wilaya."
+      },
+      {
+        "label": "10(iii)",
+        "type": "written",
+        "answer": "Sheria na mahakama za kikoloni ziliimarishwa.",
+        "explanation": "Mamlaka ya jamii yaliwekewa mipaka."
+      },
+      {
+        "label": "10(iv)",
+        "type": "written",
+        "answer": "Ushiriki wa Waafrika katika maamuzi ya juu ulikuwa mdogo.",
+        "explanation": "Mamlaka makuu yalibaki kwa wakoloni."
+      },
+      {
+        "label": "10(v)",
+        "type": "written",
+        "answer": "Baadaye mabaraza na uwakilishi vilipanuliwa taratibu.",
+        "explanation": "Mabadiliko hayo yaliendana na shinikizo la kudai uhuru."
+      }
+    ]
+  }
+}

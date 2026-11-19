@@ -1,0 +1,347 @@
+{
+  "sourceId": "source-887f9f64255ec06f",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Capillarity draws kerosene along narrow spaces in the wick."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A twisting force is torsion."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The original extension 0.005 m increases fourfold with four times the force."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A pendulum exchanges gravitational potential and kinetic energy."
+      },
+      {
+        "label": "1(v)",
+        "type": "review",
+        "answer": "The options do not supply an unambiguously correct example of mathematical language.",
+        "explanation": "A numerical law such as density = mass/volume would be suitable. Option B incorrectly uses area, and the other choices are verbal descriptions."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Both are mechanical energy forms."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Friction wears surfaces in contact."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Elasticity is the ability to recover shape after unloading."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The universe includes space, time, matter and energy."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "One-sixth of 30,000 N is 5,000 N."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M"
+        ],
+        "answer": {
+          "i": "B",
+          "ii": "M",
+          "iii": "G",
+          "iv": "A",
+          "v": "F"
+        },
+        "explanation": "Cohesion joins like molecules, adhesion joins unlike ones, viscosity opposes fluid-layer motion, surface tension acts along a liquid surface and capillarity changes liquid height in narrow tubes."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Surface tension supports the carefully placed light needle; the ball breaks through and has insufficient buoyancy to float.",
+        "explanation": "The needle must avoid breaking the surface. Its density alone does not explain this temporary support."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Surface tension tends to minimise surface area, making small drops approximately spherical.",
+        "explanation": "A sphere encloses a fixed volume with the least surface area; large falling drops can be distorted by air resistance."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "On Earth weight is approximately 10m newtons for mass m kilograms; on the Moon it is about one-sixth as much.",
+        "explanation": "Mass stays the same while gravitational field strength changes."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "0.3 m/s².",
+        "explanation": "The rocket’s mass is 10000/10=1000 kg; g on X=300/1000."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Mass measures inertia or matter quantity; weight is gravitational force.",
+        "explanation": "The relation is W=mg."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Mass has SI unit kilogram; weight has SI unit newton.",
+        "explanation": "A force combines kg, m and s in kg·m/s²."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Mass is unchanged by moving between planets; weight changes with local gravity.",
+        "explanation": "The same m is multiplied by different g."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Approximately 8.16.",
+        "explanation": "Density=41.6/5.1≈8.16 g/cm³. Divide by water’s 1 g/cm³."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "A ship encloses a large volume of air, lowering its average density.",
+        "explanation": "The complete ship can be less dense than water despite its metal walls."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "The hull displaces enough water to provide an upward force equal to its weight.",
+        "explanation": "Archimedes’ principle gives the upthrust."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "A compact coin displaces too little water before submerging.",
+        "explanation": "Its weight exceeds the maximum buoyancy available for its small volume."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "4.4 N.",
+        "explanation": "The upthrust is the displaced water’s weight, 1.1 N. Add it to the apparent weight 3.3 N."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Pressure is force per unit area, rather than a force by itself.",
+        "explanation": "Pressure has unit N/m² whereas force has unit N."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "For the same force, a sharper, smaller contact area produces greater pressure.",
+        "explanation": "Cutting also depends on sharpness, blade shape and material; a knife can cut effectively when equally sharp."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "3.33×10⁶ Pa.",
+        "explanation": "P=F/A=20/0.000006."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Dry low-pressure air can dry and irritate nasal tissues and contribute to bleeding; rapid pressure changes can also affect delicate vessels.",
+        "explanation": "Altitude does not necessarily cause bleeding in everyone; a simple claim that blood pressure alone bursts all vessels is incomplete."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "The outside pressure decreases before pressure in the middle ear equalises. Yawning opens the Eustachian tube.",
+        "explanation": "Air moves between the throat and middle ear to reduce the pressure difference across the eardrum."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Distance is total path length; displacement is directed change between endpoints.",
+        "explanation": "Draw a curved path from A to B and a straight arrow A→B; label the curve distance and the arrow displacement."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "A round trip has positive distance and zero displacement.",
+        "explanation": "Start and finish coincide, so there is no net position change."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "0 m/s at the end of the whole motion; 42 m/s at the end of the first stage.",
+        "explanation": "The wording says it eventually stops. During acceleration v=10+4×8=42."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "Draw straight segments from (0,10) to (8,42), then to (16,0). Distance in the first 8 s is 208 m.",
+        "explanation": "The velocity–time trapezium area is ½(10+42)×8."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Work is energy transferred by a force acting through displacement; unit joule.",
+        "explanation": "W=Fs for force parallel to movement."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "Power is the rate of doing work; unit watt.",
+        "explanation": "P=W/t and 1 W=1 J/s."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "Energy is the capacity to do work; unit joule.",
+        "explanation": "It can change form while total energy is conserved."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "Yes, if the cart moves.",
+        "explanation": "The cow’s pulling force has a component along the displacement."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "No mechanical work on a stationary book.",
+        "explanation": "Its displacement is zero despite the upward support force."
+      },
+      {
+        "label": "10(b)(iii)",
+        "type": "written",
+        "answer": "Yes, the aircraft gains gravitational potential energy.",
+        "explanation": "The upward displacement requires work against gravity."
+      },
+      {
+        "label": "10(b)(iv)",
+        "type": "written",
+        "answer": "Gravity does no work in level flight; engine thrust may do work against drag.",
+        "explanation": "Weight is perpendicular to horizontal displacement. The net work is zero at constant speed."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "0.4 kW.",
+        "explanation": "Height=25×0.20=5 m; P=mgh/t=80×10×5/10=400 W."
+      }
+    ]
+  }
+}

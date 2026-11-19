@@ -1,0 +1,382 @@
+{
+  "sourceId": "source-d57b149cf9465339",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Jamii ni mkusanyiko wa watu wenye mahusiano.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Maadili huongoza tabia na matendo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Wakichembe hutajwa kama jamii za awali.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Mila na desturi ni utambulisho wa kitamaduni.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Ukoloni na utumwa vilibadili jamii.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Kukaribisha wageni kwa heshima ni ukarimu.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Dhana mbili ni historia ya Tanzania na maadili.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Makundi hayo yanatumika katika uainishaji wa shule.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Wanilo huhusishwa na uhamaji kutoka eneo la kusini mwa Sudani.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Wairaki, Wagorowa na Waburungi ni jamii za Kikushito.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Wahadimu ni jamii ya Zanzibar.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Wagogo ni jamii ya Kibantu.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Historia huhusu mambo yaliyopita.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Mawe na mifupa yalitumika kutengeneza zana.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Mfumo wa rika ulitumika katika baadhi ya jamii za Wanilo.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Kilimo, ufugaji na ufundi kama uhunzi.",
+        "explanation": "Shughuli zilitegemea mazingira; jamii zote hazikufanya shughuli moja."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Maeneo ya Kamerun na Nigeria ya sasa hutajwa katika kueleza chimbuko la uhamaji wa Kibantu.",
+        "explanation": "Uhamaji ulitokea kwa muda mrefu kabla ya mipaka ya nchi za sasa."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Tunu za taifa ni thamani zinazotambulisha na kuongoza taifa, kama utu, amani na umoja.",
+        "explanation": "Hutoa msingi wa mahusiano ya kitaifa."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Maadili ni kanuni na thamani za tabia inayokubalika.",
+        "explanation": "Haki na uaminifu huongoza maamuzi."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Jiografia ni uchunguzi wa mazingira, maeneo na mahusiano ya watu na mazingira.",
+        "explanation": "Huunganisha dunia asilia na shughuli za watu."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Jamii ni watu wenye mahusiano na utaratibu wa kuishi na kushirikiana.",
+        "explanation": "Watu hutegemeana."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Wajibu ni jukumu mtu analopaswa kutekeleza.",
+        "explanation": "Mfano ni kutunza mali ya shule."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Husaidia amani.",
+        "explanation": "Watu hutatua tofauti kwa haki."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Hujenga imani.",
+        "explanation": "Uaminifu huimarisha ushirikiano."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Hulinda mali ya pamoja.",
+        "explanation": "Uwajibikaji hupunguza ubadhirifu."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Huwalinda walio katika mazingira magumu.",
+        "explanation": "Heshima huzuia unyanyasaji."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Huimarisha uzalishaji na huduma.",
+        "explanation": "Bidii na uwazi hupunguza upotevu."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Kwa Durkheim, jamii ni mfumo wa watu, taasisi na kanuni za kijamii unaowaunganisha na kuathiri matendo yao.",
+        "explanation": "Jamii ina nguvu ya pamoja inayozidi mtu mmoja."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Familia, ukoo na kabila ni makundi matatu ya kijamii katika muktadha huu.",
+        "explanation": "Uhusiano hupangwa kuanzia familia hadi makundi mapana."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Jamii za Wakichembe zilikuwepo Tanzania kabla ya uhamaji mkubwa wa Kibantu.",
+        "explanation": "Ni tofauti ya historia ya makazi."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Lugha za Hadzabe na Sandawe zina mibofyo; lugha za Kibantu ni familia tofauti.",
+        "explanation": "Makundi ya lugha yasichukuliwe kuwa tabia za watu wote."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Baadhi ya jamii za Wakichembe ziliishi kwa uwindaji na ukusanyaji.",
+        "explanation": "Shughuli zilibadilika kwa wakati."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Jamii nyingi za Kibantu zilijihusisha sana na kilimo.",
+        "explanation": "Mazao yalitegemea mazingira."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Baadhi ya jamii za Kibantu ziliendeleza uhunzi na biashara kwa kiwango kikubwa.",
+        "explanation": "Teknolojia na mahusiano yalitofautiana kwa jamii."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Pembe za ndovu.",
+        "explanation": "Ziliuzwa katika biashara ya Bahari ya Hindi."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Ngozi.",
+        "explanation": "Zilitokana na uzalishaji wa ndani."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Nguo.",
+        "explanation": "Ziliagizwa kutoka sehemu nyingine."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Shanga.",
+        "explanation": "Zilitumika katika biashara na mapambo."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Vyombo vya kauri.",
+        "explanation": "Vilifika kupitia mitandao ya baharini."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Rushwa ni kutoa, kupokea au kuomba faida isiyostahili ili kupotosha uamuzi, wajibu au huduma.",
+        "explanation": "Faida inaweza kuwa pesa au kitu kingine."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Huduma kutolewa bila haki; upotevu wa fedha za umma; kupungua kwa imani; na kuongezeka kwa gharama za maisha au biashara.",
+        "explanation": "Kila athari ionyeshe namna rushwa inavyoleta madhara."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "review",
+        "answer": "Hakuna orodha moja iliyoainishwa katika swali. Kauli zinazotajwa katika historia ya viongozi ni, kwa mfano, Nyerere: “Rushwa ni adui wa haki”; Mwinyi: “Ruksa”; Mkapa: uwazi na ukweli; Kikwete: “Ari mpya, nguvu mpya, kasi mpya”; Magufuli: “Hapa kazi tu”. Si zote ni kauli mahususi za kupinga rushwa.",
+        "explanation": "Thibitisha kauli na kipindi kwa chanzo cha hotuba. Swali linachanganya kauli za jumla za utawala na kauli maalumu za kupinga rushwa, hivyo majibu haya yafanyiwe mjadala badala ya ufunguo mmoja."
+      }
+    ]
+  }
+}

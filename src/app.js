@@ -518,7 +518,13 @@ function answerInput(q) {
           `<label>${esc(p.left)}<select data-match="${q.id}" data-key="${esc(p.id)}" ${(draft.submitted || draft.checkedAnswers?.[q.id]) ? "disabled" : ""}><option value="">Choose</option>${q.options.map((o) => `<option ${answer?.[p.id] === o ? "selected" : ""}>${esc(o)}</option>`).join("")}</select></label>`,
       )
       .join("");
-  return `<textarea data-answer="${q.id}" aria-label="Answer to question ${q.questionNumber}" ${draft.submitted ? "readonly" : ""} placeholder="Write your answer or working here…">${esc(answer || "")}</textarea>${q.requiresDrawing ? '<p>Include the required drawing below or on paper before self-assessing drawing marks.</p>' : ''}<details ${draft.drawings?.[q.id] ? 'open' : ''}><summary>Drawing or diagram</summary><canvas data-drawing="${q.id}" width="640" height="360" aria-label="Drawing for question ${esc(q.questionNumber)}" style="width:100%;height:auto;background:white;border:1px solid #aabdb5;touch-action:none"></canvas>${draft.submitted ? '' : `<p>Draw with your finger or pointer. Your diagram is saved with this attempt.</p><button class="secondary" data-clear-drawing="${q.id}">Clear drawing</button>`}</details>`;
+  const parts = q.sourceParts?.length ? q.sourceParts : q.subquestions || [];
+  const individual = parts.length > 1 && (!answer || draft.partAnswers?.[q.id]);
+  const fields = individual ? parts.map((part, i) => {
+    const label = part.questionNumber || part.label || String(i + 1);
+    return `<label>Answer ${esc(label)}<textarea data-answer="${q.id}" data-subpart="${i}" ${draft.submitted ? 'readonly' : ''}>${esc(draft.partAnswers?.[q.id]?.[i] || '')}</textarea></label>`;
+  }).join('') : `<textarea data-answer="${q.id}" aria-label="Answer to question ${esc(q.questionNumber)}" ${draft.submitted ? "readonly" : ""} placeholder="Write your answer or working here…">${esc(answer || "")}</textarea>`;
+  return `${fields}${q.requiresDrawing ? '<p>Include the required drawing below or on paper before self-assessing drawing marks.</p>' : ''}<details ${draft.drawings?.[q.id] ? 'open' : ''}><summary>Drawing or diagram</summary><canvas data-drawing="${q.id}" width="640" height="360" aria-label="Drawing for question ${esc(q.questionNumber)}" style="width:100%;height:auto;background:white;border:1px solid #aabdb5;touch-action:none"></canvas>${draft.submitted ? '' : `<p>Draw with your finger or pointer. Your diagram is saved with this attempt.</p><button class="secondary" data-clear-drawing="${q.id}">Clear drawing</button>`}</details>`;
 }
 function sourceParts(q) {
   const seen = new Set();
@@ -570,17 +576,21 @@ function exam() {
     return;
   }
   const instant = draft.feedbackMode === 'immediate' && !draft.submitted;
+  const sourceDoc = data.sourceDocuments.find(doc => doc.id === draft.questions[0]?.sourceDocumentId);
+  const cover = draft.questions[0]?.sourcePagePrompt && sourceDoc ? sourceDoc.pageImages[0] : null;
   const r = result(draft.questions, draft.answers, draft.marks);
   frame(
-    `${dashboardButton()}<p class="eyebrow">${draft.submitted ? "Review & marking" : "Saved examination draft"} / Form ${draft.form}</p><h1>${esc(draft.title)}</h1><p class="muted">${draft.questions.length} questions • ${r.maximum} available marks • Written answers require your self-assessment.</p>${draft.sourceInstructions?.length ? `<details class="card"><summary>Original source instructions</summary>${draft.sourceInstructions.map(text => `<p>${esc(text)}</p>`).join("")}<p class="muted">A custom selection may contain fewer items than the original source paper.</p></details>` : ""}<div class="save-status" id="saved" role="status">Saved on this device</div>${draft.submitted ? `<section class="card"><span class="score">${r.earned}/${r.maximum}</span><p>${r.pending ? `${r.pending} written answers await self-marking. Score is provisional.` : "Marking complete."}</p></section>` : ""}${draft.questions
+    `${dashboardButton()}<p class="eyebrow">${draft.submitted ? "Review & marking" : "Saved examination draft"} / Form ${draft.form}</p><h1>${esc(draft.title)}</h1><p class="muted">${draft.questions.length} questions • ${r.maximum} available marks • Written answers require your self-assessment.</p>${draft.sourceInstructions?.length ? `<details class="card"><summary>Paper instructions and practice scoring</summary>${cover ? `<img loading="lazy" src="${esc(cover)}" alt="Original paper cover and instructions" style="max-width:100%">` : ""}${draft.sourceInstructions.map(text => `<p>${esc(text)}</p>`).join("")}<p class="muted">A custom selection may contain fewer items than the original source paper.</p></details>` : ""}<div class="save-status" id="saved" role="status">Saved on this device</div>${draft.submitted ? `<section class="card"><span class="score">${r.earned}/${r.maximum}</span><p>${r.pending ? `${r.pending} written answers await self-marking. Score is provisional.` : "Marking complete."}</p></section>` : ""}${draft.questions
       .map((q, i) => {
         const row = r.rows[i];
         const showPrintedPages = !q.sourcePagePrompt || draft.questions[i-1]?.groupId !== q.groupId;
+        const earlierWorking = q.sourcePagePrompt && showPrintedPages ?
+          sourcePractice[q.sourceDocumentId]?.answers?.[q.mainQuestionNumber] : '';
         const objective = ['mcq', 'matching'].includes(q.type);
         const reveal = draft.submitted || (instant && draft.checkedAnswers?.[q.id]);
         const status = {review:'Source question · unscored', correct:'Correct', incorrect:'Incorrect', partial:'Partly correct', unanswered:'Unanswered', pending:'Self-mark your answer'}[row.status] || 'Review your answer';
         const explanation = q.feedbackExplanation || data.questions.find(item => item.id === q.id)?.feedbackExplanation || q.workedSolution || q.markingGuide;
-        return `<section class="card question"><div class="row"><span class="pill">${esc(q.sourceTitle)}</span><span class="muted">${q.reviewOnly ? "Unscored" : q.maximumMarks + " marks"} · ${esc(q.type)}</span></div><h3>${q.sourceType === "original" ? i + 1 : esc(q.questionNumber)}. ${verbatimContent(q)}</h3>${q.sharedContent ? `<p class="source-stem">${esc(q.sharedContent).replaceAll("\n", "<br>")}</p>` : ""}${q.instructions ? `<p>${esc(q.instructions)}</p>` : ""}${(showPrintedPages ? q.media || [] : []).map((m) => m.role === "source-page" ? `<details><summary>View original source page</summary><img src="${esc(m.path)}" alt="${esc(m.alt)}" loading="lazy" style="max-width:100%"></details>` : `<img src="${esc(m.path)}" alt="${esc(m.alt)}" loading="lazy" style="max-width:100%">`).join("")}${q.passage ? `<blockquote>${esc(q.passage)}</blockquote>` : ""}${q.table ? `<table>${q.table.map((row) => `<tr>${row.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</table>` : ""}${sourceParts(q)}${answerInput(q)}${instant && !objective && !reveal ? `<button class="secondary" data-compare="${esc(q.id)}">Compare with model answer</button>` : ''}${reveal ? `<div class="feedback" role="status"><strong>${esc(status)}</strong><p><b>Model answer</b><br>${esc(displayAnswer(q))}</p><p>${esc(explanation)}</p>${guidedReview(q)}${draft.submitted && !q.reviewOnly && !objective && draft.answers[q.id]?.trim() ? `<label>Your earned marks (0–${q.maximumMarks}, steps of ${q.markIncrement})<input data-marks="${q.id}" type="number" min="0" max="${q.maximumMarks}" step="${q.markIncrement}" value="${draft.marks[q.id] ?? ""}"></label>` : ""}</div>` : ""}</section>`;
+        return `<section class="card question"><div class="row"><span class="pill">${esc(q.sourceTitle)}</span><span class="muted">${q.reviewOnly ? "Unscored" : q.maximumMarks + " marks"} · ${esc(q.type)}</span></div><h3>${q.sourceType === "original" ? i + 1 : esc(q.questionNumber)}. ${q.sourcePagePrompt ? "Answer the labelled part on the page above" : verbatimContent(q)}</h3>${q.sharedContent ? `<p class="source-stem">${esc(q.sharedContent).replaceAll("\n", "<br>")}</p>` : ""}${q.instructions ? `<p>${esc(q.instructions)}</p>` : ""}${(showPrintedPages ? q.media || [] : []).map((m) => m.role === "source-page" ? `<details><summary>View original source page</summary><img src="${esc(m.path)}" alt="${esc(m.alt)}" loading="lazy" style="max-width:100%"></details>` : `<img src="${esc(m.path)}" alt="${esc(m.alt)}" loading="lazy" style="max-width:100%">`).join("")}${q.passage ? `<blockquote>${esc(q.passage)}</blockquote>` : ""}${q.table ? `<table>${q.table.map((row) => `<tr>${row.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</table>` : ""}${sourceParts(q)}${earlierWorking ? `<details><summary>Your earlier saved working</summary><p>${esc(earlierWorking)}</p></details>` : ''}${answerInput(q)}${instant && !objective && !reveal ? `<button class="secondary" data-compare="${esc(q.id)}">Compare with model answer</button>` : ''}${reveal ? `<div class="feedback" role="status"><strong>${esc(status)}</strong><p><b>Model answer</b><br>${esc(displayAnswer(q))}</p><p>${esc(explanation)}</p>${guidedReview(q)}${draft.submitted && !q.reviewOnly && !objective && draft.answers[q.id]?.trim() ? `<label>Your earned marks (0–${q.maximumMarks}, steps of ${q.markIncrement})<input data-marks="${q.id}" type="number" min="0" max="${q.maximumMarks}" step="${q.markIncrement}" value="${draft.marks[q.id] ?? ""}"></label>` : ""}</div>` : ""}</section>`;
       })
       .join(
         "",
@@ -621,7 +631,12 @@ function exam() {
     });
   });
   document.querySelectorAll('[data-drawing]').forEach(canvas => {
-    const id = canvas.dataset.drawing, context = canvas.getContext('2d');
+    const details = canvas.closest('details');
+    let initialized = false;
+    const initialize = () => {
+      if (initialized || !details.open) return;
+      initialized = true;
+      const id = canvas.dataset.drawing, context = canvas.getContext('2d');
     context.lineWidth = 2.5; context.lineCap = 'round'; context.strokeStyle = '#142f28';
     if (draft.drawings?.[id]) { const saved = new Image(); saved.onload = () => context.drawImage(saved,0,0); saved.src = draft.drawings[id]; }
     if (draft.submitted) return;
@@ -640,12 +655,20 @@ function exam() {
       if (draft.answers[id]==='[Drawing supplied; review the diagram below.]') { draft.answers[id]=''; document.querySelector(`[data-answer="${id}"]`).value=''; }
       try { await persist(); } catch(error) { document.querySelector('#saved').textContent='Not saved: '+error.message; }
     };
+    };
+    details.addEventListener('toggle', initialize);
+    initialize();
   });
   document.querySelectorAll("[data-answer]").forEach(
     (el) =>
       (el.oninput = async () => {
         const id = el.dataset.answer;
-        draft.answers[id] = el.value;
+        if (el.dataset.subpart !== undefined) {
+          draft.partAnswers ??= {};
+          const parts = draft.partAnswers[id] ??= {};
+          parts[el.dataset.subpart] = el.value;
+          draft.answers[id] = Object.values(parts).filter(text => text.trim()).join('\n');
+        } else draft.answers[id] = el.value;
         const check = instant && el.type === 'radio';
         if (check) (draft.checkedAnswers ??= {})[id] = true;
         try {

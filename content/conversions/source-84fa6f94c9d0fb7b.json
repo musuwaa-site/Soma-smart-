@@ -1,0 +1,363 @@
+{
+  "sourceId": "source-84fa6f94c9d0fb7b",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Geography connects people with their environment."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Title, key, direction, margin and scale help read a map."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Eastward rotation produces apparent westward solar motion."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Replacing small farms with plantations does not directly improve the existing small-scale system."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Livestock taxes and trade can supply public revenue."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Conservation sustains products as well as ecological services."
+      },
+      {
+        "label": "1(vii)",
+        "type": "review",
+        "answer": "Statement or verbal scale. That term is absent from the printed alternatives, which repeat linear scale.",
+        "explanation": "A sentence such as “one centimetre represents one kilometre” is a verbal scale; a linear scale is a drawn bar."
+      },
+      {
+        "label": "1(viii)",
+        "type": "review",
+        "answer": "External atmospheric pressure supports the paper, but the question calls it a force “inside” the jar.",
+        "explanation": "Air pressure acts on the outside surface. A correct explanation must identify the pressure difference rather than accept the misplaced word."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Two hours equals 30° longitude."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "These are standard climatic elements measured over long periods."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "D",
+          "ii": "F",
+          "iii": "A",
+          "iv": "E",
+          "v": "B"
+        },
+        "explanation": "Planets orbit the Sun; comets can show tails; incoming bodies cause meteors; moons are satellites; Earth’s natural satellite is the Moon."
+      },
+      {
+        "label": "2(i) note",
+        "type": "review",
+        "answer": "Both planets (D) and asteroids (C) can be solid bodies revolving around the Sun.",
+        "explanation": "The printed description is too broad to uniquely distinguish the two categories."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Gas reserves are depleted far faster than they form."
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Earth’s curved shadow in lunar eclipses is evidence for a spherical Earth."
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Precipitation is water falling from the atmosphere, not deposition of air."
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "The arrangement of planetary bodies describes the solar system, not solar energy."
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Planimeters and division into regular shapes are alternatives to grid squares."
+      },
+      {
+        "label": "3(vi)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "A single longitude is a semicircle; opposite meridians complete a great circle."
+      },
+      {
+        "label": "3(vii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "River water dilutes seawater and affects salinity."
+      },
+      {
+        "label": "3(viii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Both small and large farms may irrigate."
+      },
+      {
+        "label": "3(ix)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Hydropower is driven by water rather than wind."
+      },
+      {
+        "label": "3(x)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Seasons involve revolution/tilt and eclipses involve alignment, not rotation alone."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Mountains, plateaus, plains, valleys and basins.",
+        "explanation": "Elevation and slope distinguish these relief categories."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Rivers such as Rufiji, lakes such as Victoria, and oceans such as the Indian Ocean.",
+        "explanation": "They are flowing inland, standing inland and large marine waters."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "The ocean basin is the main large natural depression; a local example is the Indian Ocean basin. If a continental basin is intended, the Lake Victoria basin is acceptable.",
+        "explanation": "The video is described as Tanzanian, so locally appropriate examples are preferable."
+      },
+      {
+        "label": "4(d)",
+        "type": "written",
+        "answer": "Volcanic, fold, block and residual mountains.",
+        "explanation": "The question asks for categories of the elevated feature; these classify mountains by origin."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Mining.",
+        "explanation": "It extracts geological materials from Earth."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Gold, coal and diamonds.",
+        "explanation": "These are examples of mineral resources extracted commercially."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Open-cast excavation for near-surface deposits; underground shafts/tunnels for deep deposits; alluvial recovery from loose sediments.",
+        "explanation": "The method follows the position and nature of the deposit."
+      },
+      {
+        "label": "5(d)",
+        "type": "written",
+        "answer": "Land degradation, loss of vegetation, water pollution, dust/air pollution and habitat loss.",
+        "explanation": "Extraction and waste handling can disturb ecosystems."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Grid reference, coordinates of latitude/longitude, and bearing/direction from a known point.",
+        "explanation": "These establish where a feature lies."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Mark a starting point on paper; align a short straight reach; mark its end; pivot to follow the next reach and repeat; then measure the accumulated length and convert with scale.",
+        "explanation": "The accumulated short segments approximate the curved river."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "Count grid squares, divide into regular shapes or use a planimeter.",
+        "explanation": "Estimate boundary fractions when necessary."
+      },
+      {
+        "label": "6(d)",
+        "type": "written",
+        "answer": "Large-scale, medium-scale and small-scale maps. Physical, topographic or thematic categories are also acceptable if explained.",
+        "explanation": "Maps can be classified by scale or purpose."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Congestion, accidents, high fuel/maintenance costs, weather damage and low bulk-carrying capacity compared with rail or shipping.",
+        "explanation": "Explain how each limitation increases time, expense or risk."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Jobs, tax/royalty revenue, foreign exchange, infrastructure development and demand for local supplies.",
+        "explanation": "Link extraction and mineral sales to each economic benefit."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Food processing, textiles, chemicals, building materials and metal fabrication. Give examples such as milling, cloth, soap, cement and utensils.",
+        "explanation": "Manufacturing transforms raw or intermediate materials into products."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Small plots, limited capital, substantial family labour, simple tools and production mainly for household needs with some surplus sold.",
+        "explanation": "These are common tendencies rather than features of every small farm."
+      }
+    ]
+  }
+}

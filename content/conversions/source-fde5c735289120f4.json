@@ -1,0 +1,301 @@
+{
+  "sourceId": "source-fde5c735289120f4",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "Tofauti ya VVU na UKIMWI",
+        "explanation": "Kichwa kinaonyesha kiini cha maelezo ya afya."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "Upungufu wa Kinga Mwilini.",
+        "explanation": "Hiki ndicho kirefu kinachotolewa katika kifungu."
+      },
+      {
+        "label": "1(c)",
+        "type": "written",
+        "answer": "VVU hushambulia chembechembe zinazosaidia kinga na kuudhoofisha mwili bila matibabu yanayofaa.",
+        "explanation": "Maambukizi yanaweza kudhibitiwa kwa dawa na ufuatiliaji wa afya."
+      },
+      {
+        "label": "1(d)(i)",
+        "type": "written",
+        "answer": "Mtu anaweza kuishi na VVU bila kufikia hali ya UKIMWI; UKIMWI ni hatua ya maambukizi ambayo kinga imedhoofika sana.",
+        "explanation": "Tiba huzuia au kuchelewesha kudhoofika kwa kinga."
+      },
+      {
+        "label": "1(d)(ii)",
+        "type": "written",
+        "answer": "Chembechembe nyeupe husaidia kutambua na kupambana na maambukizi.",
+        "explanation": "Hizi ni sehemu muhimu za mfumo wa kinga."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "written",
+        "answer": "VVU ni virusi vinavyoshambulia chembechembe zinazolinda mwili dhidi ya magonjwa. Maambukizi yasipodhibitiwa yanaweza kuudhoofisha mfumo wa kinga na kufikia hali ya UKIMWI. Mtu anaweza kuishi na VVU bila dalili kwa muda mrefu, hivyo mwonekano hauonyeshi hali yake. Kupima, kupata ushauri na kuzingatia matibabu ni muhimu kwa afya.",
+        "explanation": "Lenga maneno 50–60 na ubane maelezo ya kifungu; usichanganye virusi na hatua ya ugonjwa."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Sehemu ya msingi ya neno inayobeba maana kuu, mfano lim katika analima.",
+        "explanation": "Fasili zitofautishe mzizi, mofimu na kidahizo."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Kipashio kidogo chenye maana kisarufi au kileksika kisichogawanyika zaidi bila kubadili maana hiyo.",
+        "explanation": "Fasili zitofautishe mzizi, mofimu na kidahizo."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Neno kuu linaloelezwa katika kamusi.",
+        "explanation": "Fasili zitofautishe mzizi, mofimu na kidahizo."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Imbisha.",
+        "explanation": "Kutendesha huonyesha kusababisha au kumwezesha mwingine kutenda."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Limisha.",
+        "explanation": "Kutendesha huonyesha kusababisha au kumwezesha mwingine kutenda."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Zolesha.",
+        "explanation": "Kutendesha huonyesha kusababisha au kumwezesha mwingine kutenda."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "Pigisha.",
+        "explanation": "Kutendesha huonyesha kusababisha au kumwezesha mwingine kutenda."
+      },
+      {
+        "label": "4(a)(v)",
+        "type": "written",
+        "answer": "Somesha.",
+        "explanation": "Kutendesha huonyesha kusababisha au kumwezesha mwingine kutenda."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Mkavu: kivumishi cha sifa.",
+        "explanation": "Kila kipashio kinafafanua nomino iliyotangulia kwa sifa, idadi, kuonyesha, uhusiano au umiliki."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Wanne: kivumishi cha idadi.",
+        "explanation": "Kila kipashio kinafafanua nomino iliyotangulia kwa sifa, idadi, kuonyesha, uhusiano au umiliki."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Yule: kivumishi kionyeshi.",
+        "explanation": "Kila kipashio kinafafanua nomino iliyotangulia kwa sifa, idadi, kuonyesha, uhusiano au umiliki."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "La kuku: kivumishi cha uhusiano.",
+        "explanation": "Kila kipashio kinafafanua nomino iliyotangulia kwa sifa, idadi, kuonyesha, uhusiano au umiliki."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Wangu: kivumishi kimilikishi.",
+        "explanation": "Kila kipashio kinafafanua nomino iliyotangulia kwa sifa, idadi, kuonyesha, uhusiano au umiliki."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Amempiga kwa kutumia nini? / Amempigia simu kwa sababu gani?",
+        "explanation": "Maana mbili zinatokana na matumizi tofauti ya kitenzi au nomino; usibadili maneno ya swali."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Mnyama mbuzi / kifaa cha kukunia nazi.",
+        "explanation": "Maana mbili zinatokana na matumizi tofauti ya kitenzi au nomino; usibadili maneno ya swali."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Eda amefaulu mashindano / amekaa shuleni siku nzima.",
+        "explanation": "Maana mbili zinatokana na matumizi tofauti ya kitenzi au nomino; usibadili maneno ya swali."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Njoo na mboga nyanya / njoo na bibi.",
+        "explanation": "Maana mbili zinatokana na matumizi tofauti ya kitenzi au nomino; usibadili maneno ya swali."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Mnyama tembo / kinywaji cha kienyeji kinachoitwa tembo.",
+        "explanation": "Maana mbili zinatokana na matumizi tofauti ya kitenzi au nomino; usibadili maneno ya swali."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Kiranja Mkuu alimwakilisha Mkuu wa Shule katika mkutano huo.",
+        "explanation": "Mwakilishi husimama kwa niaba; mpangaji hukodi; wingi wa saa ni saa; tahajia ni dazeni; sisi hupatana na sote; daftari lina wingi madaftari."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Sisi hatuna nyumba; tumepanga kwa mzee Juma.",
+        "explanation": "Mwakilishi husimama kwa niaba; mpangaji hukodi; wingi wa saa ni saa; tahajia ni dazeni; sisi hupatana na sote; daftari lina wingi madaftari."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Diwani alihutubia kwa muda wa saa sita.",
+        "explanation": "Mwakilishi husimama kwa niaba; mpangaji hukodi; wingi wa saa ni saa; tahajia ni dazeni; sisi hupatana na sote; daftari lina wingi madaftari."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Amenunua dazeni mbili za sufuria.",
+        "explanation": "Mwakilishi husimama kwa niaba; mpangaji hukodi; wingi wa saa ni saa; tahajia ni dazeni; sisi hupatana na sote; daftari lina wingi madaftari."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Sisi sote tu abiria, kelele za nini?",
+        "explanation": "Mwakilishi husimama kwa niaba; mpangaji hukodi; wingi wa saa ni saa; tahajia ni dazeni; sisi hupatana na sote; daftari lina wingi madaftari."
+      },
+      {
+        "label": "6(vi)",
+        "type": "written",
+        "answer": "Mwalimu alisahihisha madaftari ya wanafunzi wake.",
+        "explanation": "Mwakilishi husimama kwa niaba; mpangaji hukodi; wingi wa saa ni saa; tahajia ni dazeni; sisi hupatana na sote; daftari lina wingi madaftari."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Ngano ni hadithi za kubuni zenye ujumbe.",
+        "explanation": "Kila kipera kitofautishwe kwa mada, umbo au kusudi lake."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Vigano ni hadithi fupi zenye mafunzo au mifano ya jambo.",
+        "explanation": "Kila kipera kitofautishwe kwa mada, umbo au kusudi lake."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Soga ni masimulizi mafupi ya kuburudisha au kuchekesha.",
+        "explanation": "Kila kipera kitofautishwe kwa mada, umbo au kusudi lake."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Tarihi ni masimulizi yanayohusu historia.",
+        "explanation": "Kila kipera kitofautishwe kwa mada, umbo au kusudi lake."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Visasili ni masimulizi ya kueleza chimbuko la watu, vitu au hali.",
+        "explanation": "Kila kipera kitofautishwe kwa mada, umbo au kusudi lake."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Kujiingiza mwenyewe katika matatizo.",
+        "explanation": "Fasiri semi kwa maana ya mafumbo. Mla mbuzi hulipa ng’ombe huonya juu ya gharama za kosa; si ahadi ya faida."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Kubadilika msimamo kulingana na hali.",
+        "explanation": "Fasiri semi kwa maana ya mafumbo. Mla mbuzi hulipa ng’ombe huonya juu ya gharama za kosa; si ahadi ya faida."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Kumchafua mtu jina au kumzushia mambo.",
+        "explanation": "Fasiri semi kwa maana ya mafumbo. Mla mbuzi hulipa ng’ombe huonya juu ya gharama za kosa; si ahadi ya faida."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Anayetenda kosa dogo anaweza kulipa fidia au adhabu kubwa.",
+        "explanation": "Fasiri semi kwa maana ya mafumbo. Mla mbuzi hulipa ng’ombe huonya juu ya gharama za kosa; si ahadi ya faida."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Mtu mwenye maneno makali yanayoumiza wengine.",
+        "explanation": "Fasiri semi kwa maana ya mafumbo. Mla mbuzi hulipa ng’ombe huonya juu ya gharama za kosa; si ahadi ya faida."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Boga.",
+        "explanation": "Majani ya boga husambaa kama mkeka lakini tunda hulala ardhini; kalamu huacha alama; ngoma ikipigwa watu hucheza; konokono hubeba gamba; uyoga una shina moja chini ya mwavuli."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Kalamu.",
+        "explanation": "Majani ya boga husambaa kama mkeka lakini tunda hulala ardhini; kalamu huacha alama; ngoma ikipigwa watu hucheza; konokono hubeba gamba; uyoga una shina moja chini ya mwavuli."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Ngoma.",
+        "explanation": "Majani ya boga husambaa kama mkeka lakini tunda hulala ardhini; kalamu huacha alama; ngoma ikipigwa watu hucheza; konokono hubeba gamba; uyoga una shina moja chini ya mwavuli."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Konokono.",
+        "explanation": "Majani ya boga husambaa kama mkeka lakini tunda hulala ardhini; kalamu huacha alama; ngoma ikipigwa watu hucheza; konokono hubeba gamba; uyoga una shina moja chini ya mwavuli."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Uyoga.",
+        "explanation": "Majani ya boga husambaa kama mkeka lakini tunda hulala ardhini; kalamu huacha alama; ngoma ikipigwa watu hucheza; konokono hubeba gamba; uyoga una shina moja chini ya mwavuli."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "MWALIKO WA SIKU YA KUZALIWA\nFamilia ya Bwana na Bibi Furahisha inayo furaha kumwalika Sikitu Mwala kwenye sherehe ya siku ya kuzaliwa kwa Faraja tarehe 22 Desemba. Muda na mahali vitafahamishwa na waandaaji. Tunafurahi kusherehekea siku hii pamoja nawe.\nWenyeji: Bwana na Bibi Furahisha.",
+        "explanation": "Tumia majina na tarehe zilizotolewa; swali halitoi saa na mahali, hivyo vipengele hivyo viwekwe kama taarifa za mfano au zitakazothibitishwa, si maelezo ya asili yaliyobuniwa."
+      }
+    ]
+  }
+}

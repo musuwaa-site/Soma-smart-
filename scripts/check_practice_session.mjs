@@ -166,3 +166,30 @@ for (const doc of documents.filter(doc => doc.interactivePaperId)) {
   opened++;
 }
 console.log('Opened', opened, 'papers and found an individual answer control for every included item.');
+
+local.delete('draft');
+local.delete('savedExams');
+app = await openApp('#/exams', 'Exam dashboard');
+const switching = documents.slice(0,3);
+for (const doc of switching) {
+  app.location.hash = '#/paper/' + doc.id;
+  await app.render();
+  assert.equal(app.location.hash,'#/exams/attempt');
+  assert.equal(local.get('draft').questions[0].paperId,doc.interactivePaperId);
+  const choice={dataset:{mode:'end'}};
+  const question=local.get('draft').questions[0];
+  const answer={dataset:{answer:question.id},value:'My saved work for '+doc.id,type:'textarea'};
+  app.controls.set('[data-mode]',[choice]);
+  app.controls.set('[data-answer]',[answer]);
+  await app.render();
+  await choice.onclick();
+  await answer.oninput();
+}
+app = await openApp('#/exams', 'Exam dashboard');
+for (const doc of switching) {
+  app.location.hash='#/paper/'+doc.id;
+  await app.render();
+  assert.equal(local.get('draft').questions[0].paperId,doc.interactivePaperId);
+  assert(Object.values(local.get('draft').answers).includes('My saved work for '+doc.id));
+}
+console.log('Switching among unfinished exams works and restores each answer after restart.');

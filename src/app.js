@@ -7,6 +7,7 @@ import { loadLibrary, withStorageTimeout } from './startup.js';
 const app = document.querySelector("#app");
 let sourceAnswers = {};
 let sourcePractice = {};
+let savedExams = {};
 const esc = (v) =>
   String(v ?? "").replace(
     /[&<>"']/g,
@@ -337,7 +338,7 @@ function exams() {
     doc.form === profile.form && doc.subjectId === examFilter.subjectId && doc.publicationStatus === 'published');
   const scoredCount = subjectPapers.filter(doc => doc.interactivePaperId).length;
   frame(
-    `<span class="eyebrow">Examination centre</span><h1>Exam dashboard</h1>${draft ? `<section class="card"><h2>${esc(draft.title)}</h2>${link("exams/attempt", draft.submitted ? "Resume marking and review" : "Resume saved exam")}</section>` : ""}<p class="muted">Build a test from the actual embedded question bank.</p><section class="card"><div class="formgrid"><label>Subject<select id="exam-subject">${data.subjects.map((s) => `<option value="${s.id}" ${s.id === examFilter.subjectId ? "selected" : ""}>${esc(s.name)}</option>`).join("")}</select></label><label>Source<select id="exam-source">${[
+    `<span class="eyebrow">Examination centre</span><h1>Exam dashboard</h1>${Object.values(savedExams).filter(item => !item.submitted && item.id !== draft?.id).map(item => `<section class="card"><h2>${esc(item.title)}</h2>${link("exams/resume/"+item.id, "Resume saved exam")}</section>`).join('')}${draft ? `<section class="card"><h2>${esc(draft.title)}</h2>${link("exams/attempt", draft.submitted ? "Resume marking and review" : "Resume saved exam")}</section>` : ""}<p class="muted">Build a test from the actual embedded question bank.</p><section class="card"><div class="formgrid"><label>Subject<select id="exam-subject">${data.subjects.map((s) => `<option value="${s.id}" ${s.id === examFilter.subjectId ? "selected" : ""}>${esc(s.name)}</option>`).join("")}</select></label><label>Source<select id="exam-source">${[
       ["original", "Original practice"],
       ["authentic", "Genuine papers only"],
       ["school", "School"],
@@ -454,16 +455,7 @@ function exams() {
   document.querySelectorAll("[data-review]").forEach(
     (b) =>
       (b.onclick = async () => {
-        if (draft && !draft.submitted) {
-          document.querySelector("#exam-message").textContent = "Resume or discard your saved exam before opening a previous attempt.";
-          window.scrollTo(0, 0);
-          return;
-        }
-        draft = structuredClone(
-          attempts.find((a) => a.id === b.dataset.review),
-        );
-        await set("draft", draft);
-        location.hash = "#/exams/attempt";
+        await activateExam(structuredClone(attempts.find(a => a.id === b.dataset.review)));
       }),
   );
 }
@@ -473,23 +465,28 @@ function openScoredPaper(id) {
   const eligibleIds = new Set(eligible(data,{form:paper.form,subjectId:paper.subjectId,source:'authentic'}).map(q=>q.id));
   const questions = paper.questionIds.map(id=>data.questions.find(q=>q.id===id));
   if (!questions.length || questions.some(q=>!q || !eligibleIds.has(q.id))) throw Error('This source selection contains unresolved items.');
-  if (draft?.questions?.[0]?.paperId === id && draft.title === paper.title) {
-    location.hash = '#/exams/attempt';
-    return;
-  }
   const byId = new Map([...questions, ...(paper.reviewOnlyItems || [])].map(q => [q.id, q]));
   const practice = paper.practiceOrder ? paper.practiceOrder.map(id => byId.get(id)) : questions;
   return startExam(practice,paper.title);
 }
-async function startExam(questions, title) {
+async function activateExam(next) {
+  if (!next) throw Error('Saved exam unavailable.');
   if (draft && !draft.submitted) {
-    routeError =
-      "Resume or discard your existing draft before starting another test.";
-    location.hash = "#/exams";
-    render();
-    return;
+    savedExams[draft.id] = structuredClone(draft);
+    await set('savedExams', savedExams);
   }
-  draft = {
+  await set('draft', next);
+  draft = next;
+  routeError = '';
+  if (location.hash === '#/exams/attempt') exam();
+  else location.hash = '#/exams/attempt';
+}
+async function startExam(questions, title) {
+  const paperId = questions[0]?.paperId;
+  const saved = [draft, ...Object.values(savedExams)].find(item =>
+    item && paperId && item.title === title && item.questions[0]?.paperId === paperId && !item.submitted);
+  if (saved) return activateExam(structuredClone(saved));
+  const next = {
     id: crypto.randomUUID(),
     created: new Date().toISOString(),
     form: questions[0].form,
@@ -504,8 +501,7 @@ async function startExam(questions, title) {
     submitted: false,
     final: false,
   };
-  await set("draft", draft);
-  location.hash = "#/exams/attempt";
+  await activateExam(next);
 }
 function answerInput(q) {
   const answer = draft.answers[q.id];
@@ -725,12 +721,16 @@ function exam() {
   if (finish)
     finish.onclick = async () => {
       await record();
+      delete savedExams[draft.id];
+      await set("savedExams", savedExams);
       draft = null;
       await set("draft", null);
       location.hash = "#/exams";
     };
   document.querySelector("#discard").onclick = async () => {
     if (!draft.submitted && !confirm("Discard this unfinished test?")) return;
+    delete savedExams[draft.id];
+    await set("savedExams", savedExams);
     draft = null;
     await set("draft", null);
     location.hash = "#/exams";
@@ -773,6 +773,7 @@ async function render() {
     else if (page === "study") study(id);
     else if (page === "lesson" || page === "workbook")
       await reader(id, page === "workbook");
+    else if (page === "exams" && id === "resume") await activateExam(structuredClone(savedExams[subpage]));
     else if (page === "exams" && id === "attempt" && draft) exam();
     else if (page === "exams") exams();
     else if (page === "progress") progress();
@@ -861,8 +862,8 @@ async function boot() {
       recent: [],
       lastLesson: null,
     }));
-    [attempts,draft,privateDocs,sourceAnswers,sourcePractice] = await withStorageTimeout(Promise.all([
-      get('attempts',[]),get('draft',null),get('privateDocuments',[]),get('sourceAnswers',{}),get('sourcePractice',{})
+    [attempts,draft,privateDocs,sourceAnswers,sourcePractice,savedExams] = await withStorageTimeout(Promise.all([
+      get('attempts',[]),get('draft',null),get('privateDocuments',[]),get('sourceAnswers',{}),get('sourcePractice',{}),get('savedExams',{})
     ]));
     await render();
     await provision();

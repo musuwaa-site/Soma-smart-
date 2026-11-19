@@ -46,3 +46,5 @@ All 49 Node tests and 24 Python tests passed. The conversion completion gate fou
 The new conversion manifests cover 156 papers. Source questions remain displayed in their original page images, with response controls for labelled parts and independent feedback. Practice scoring uses one point per response or matching pair, with half credit for written work. The 210 unscored responses identify missing information, ambiguous wording, or unresolved source allocation. They remain available for learning. Tests use browser API simulations; physical Android testing is pending.
 
 The hosting provider rejected the first 0.15.0 archive because a formatted JSON file exceeded its 25 MiB file limit. The delivery build now emits compact JSON, and release validation enforces the per-file limit. The compact hosted library is 23,073,037 bytes and contains the same parsed records. The 180-paper interaction harness passed again.
+
+The exam navigation regression harness opens three different papers while each is unfinished, restarts the app, and verifies that each paper's saved response is restored. Existing checks still open all 180 papers and verify answer controls.

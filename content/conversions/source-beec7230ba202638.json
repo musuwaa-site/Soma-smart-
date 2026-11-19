@@ -1,0 +1,214 @@
+{
+  "sourceId": "source-beec7230ba202638",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "Arithmetic studies numbers and operations such as addition, subtraction, multiplication and division.",
+        "explanation": "Award one mark for numbers and one for explaining operations or giving examples.",
+        "marks": 2
+      },
+      {
+        "label": "1(b)(i)",
+        "type": "written",
+        "answer": "Physics: speed = distance/time.",
+        "explanation": "The example shows how a numerical relationship is used in this subject.",
+        "marks": 2
+      },
+      {
+        "label": "1(b)(ii)",
+        "type": "written",
+        "answer": "Biology: use sample counts to estimate population size.",
+        "explanation": "The example shows how a numerical relationship is used in this subject.",
+        "marks": 2
+      },
+      {
+        "label": "1(b)(iii)",
+        "type": "written",
+        "answer": "Chemistry: apply ratios to amounts of reacting substances.",
+        "explanation": "The example shows how a numerical relationship is used in this subject.",
+        "marks": 2
+      },
+      {
+        "label": "1(b)(iv)",
+        "type": "written",
+        "answer": "Business Studies: profit = revenue − costs.",
+        "explanation": "The example shows how a numerical relationship is used in this subject.",
+        "marks": 2
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)",
+        "type": "written",
+        "answer": "The dots above 2 and 7 mean both digits repeat. Set x = 0.272727… . Then 100x − x = 27, so x = 27/99 = 3/11. The sum in lowest terms is 3 + 11 = 14.",
+        "explanation": "One mark each for interpreting the repeating digits, shifting the decimal, subtracting, simplifying and adding.",
+        "marks": 5
+      },
+      {
+        "label": "2(b)",
+        "type": "written",
+        "answer": "The square root requires 5x − 1 ≥ 0, giving x ≥ 1/5. Squaring √(5x − 1) ≤ 3 gives 5x − 1 ≤ 9, hence x ≤ 2. Draw solid dots at 1/5 and 2 and shade between them.",
+        "explanation": "Two marks for the lower bound, two for the upper bound and one for the closed segment.",
+        "marks": 5
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "86.5",
+        "explanation": "The hundredths digit is 6, so round the tenths up.",
+        "marks": 2
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "86.46",
+        "explanation": "The thousandths digit is 3, so keep the hundredths unchanged.",
+        "marks": 2
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "86.5",
+        "explanation": "The third significant digit is the tenths digit; the following 6 rounds it up.",
+        "marks": 2
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "5,268,000",
+        "explanation": "The final 910 rounds the thousands up.",
+        "marks": 2
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "31.78",
+        "explanation": "The third decimal digit is 4, so keep the second decimal digit.",
+        "marks": 2
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Multiply 1/2 and 1/6 by 6 to get C:B = 3:1. Multiply 1/3 and 1/5 by 15 to get A:C = 5:3. Both ratios now have C = 3, so C:B:A = 3:1:5.",
+        "explanation": "Two marks for each simplified ratio and one for combining them in the requested order.",
+        "marks": 5
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Speed = 200/50 = 4 metres per second. Time = 1000/4 = 250 seconds (4 minutes 10 seconds).",
+        "explanation": "Two marks for setting up speed or an equivalent proportion, one for the scale factor or speed, and two for elapsed time with units.",
+        "marks": 5
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Write the integers as n and n + 1. Then 2n + 1 = 37, giving n = 18. The numbers are 18 and 19.",
+        "explanation": "One mark for representing the pair, one for the equation or equivalent reasoning and one for the pair.",
+        "marks": 3
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Multiply the printed equation by 10 to obtain 15x + 2x = 25x − 50. Then 8x = 50, giving x = 25/4.",
+        "explanation": "One mark each for clearing denominators, collecting like terms and the solution.",
+        "marks": 3
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Subtract 2x − y = 3 from 3x − y = 2 to obtain x = −1. Substitute into 2x − y = 3 to obtain −2 − y = 3. Thus y = −5.",
+        "explanation": "One mark each for elimination, x, substitution and y.",
+        "marks": 4
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Gradient = (−8 + 4)/(−4 + 2) = 2. Using (−2, −4), the intercept satisfies −4 = 2(−2) + c, so c = 0 and y = 2x.",
+        "explanation": "Two marks for finding the gradient, two for the intercept calculation and one for the final equation.",
+        "marks": 5
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Gradient RT = (0 − 5)/(4 + 1) = −1. Using (4, 0), the line is y = −x + 4. At Q, 3 = −m + 4, so m = 1.",
+        "explanation": "Two marks for the gradient, one for the line or equal-gradient relation, one for substitution and one for m.",
+        "marks": 5
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "A shopping budget helps a family keep spending within its income. Measuring ingredients keeps a recipe in proportion. Calculating distance divided by walking speed helps plan when to leave for school.",
+        "explanation": "Two marks for each distinct use with an explanation. Accept other valid everyday applications.",
+        "marks": 6
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "5,000,000 ÷ 40,000 = 125 weekly withdrawals. At the stated rate this covers 125 × 7 = 875 days of expenses.",
+        "explanation": "Two marks for calculating the withdrawals and two for converting that number of weeks to days with units.",
+        "marks": 4
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Use 3.485 ≈ 3.5, √35.95 ≈ √36 = 6 and 349.95 ≈ 350. The estimate is 21/350 = 0.06, which rounds to 0.1 to one decimal place.",
+        "explanation": "Two marks for suitable approximations, one for substitution, one for evaluation and one for rounding. Accept direct evaluation with correct rounding.",
+        "marks": 5
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Three parts magnesium combine with two parts oxygen. One part weighs 1.4/2 = 0.7 kg, so the magnesium required weighs 3 × 0.7 = 2.1 kg.",
+        "explanation": "Two marks for matching the ratio to the substances, one for the unit part and two for the final mass with units.",
+        "marks": 5
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Let the numerator be n. The changed fraction satisfies (n − 4)/(n + 5) = 2/5. Thus 5n − 20 = 2n + 10 and n = 10. The original fraction is 10/15, equivalent to 2/3.",
+        "explanation": "One mark each for representing the denominator, the changed fraction, cross-multiplication, solving and reporting the original fraction.",
+        "marks": 5
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "The given line crosses the y-axis at (0, −5). Through this point and (2, −2), the gradient is [−2 − (−5)]/2 = 3/2. Hence y = (3/2)x − 5.",
+        "explanation": "Two marks for the intercept, two for the gradient and one for the equation.",
+        "marks": 5
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "A rational number equals p/q for integers p and q with q ≠ 0, as in 1/4. An irrational number cannot be written this way. Its decimal expansion continues without repeating, as in √2.",
+        "explanation": "Two marks for each accurate distinction, accepting correct equivalent explanations.",
+        "marks": 4
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "For x + y = 3, plot (0, 3) and (3, 0). For x − y = 1, plot (0, −1) and (1, 0). Draw both lines on the same labelled axes. Their intersection is (2, 1), so x = 2 and y = 1.",
+        "explanation": "Two marks per correctly plotted line, one for locating the intersection and one for reading the solution.",
+        "marks": 6
+      }
+    ]
+  }
+}

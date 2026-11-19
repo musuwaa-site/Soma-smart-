@@ -1,0 +1,415 @@
+{
+  "sourceId": "source-0d43d9ce96e02fdb",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The auxiliary do comes before the subject in this yes/no question.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The superlative the tallest compares Muhongo with everyone in the group.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "University begins with the consonant sound /j/, so it takes a.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Swedish is the adjective of nationality for Sweden.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Shan’t means shall not and expresses future non-attendance.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Without water the plant dries out.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Glad describes pleasure at receiving the gift.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Love is a simple present verb; always indicates a regular or continuing feeling.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Different from is the intended construction. A precise comparison is different from my sister’s.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Tired of expresses annoyance or impatience with repeated behaviour.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "written",
+        "answer": "C",
+        "explanation": "All the listed examples in C are body parts."
+      },
+      {
+        "label": "2(ii)",
+        "type": "written",
+        "answer": "A",
+        "explanation": "Stool is furniture like a chair. The source also includes building components in A, so the category is imperfect."
+      },
+      {
+        "label": "2(iii)",
+        "type": "written",
+        "answer": "E is a possible food-related match; there is no list consisting only of liquids.",
+        "explanation": "Oil, milk and water are liquids. Tea in E and oil in D overlap with the set; neither option consists wholly of liquids."
+      },
+      {
+        "label": "2(iv)",
+        "type": "written",
+        "answer": "B",
+        "explanation": "These are geographical names, although the entries in the two lists do not all refer to the same kind of region."
+      },
+      {
+        "label": "2(v)",
+        "type": "written",
+        "answer": "F is a possible match.",
+        "explanation": "Gold and copper in F are metals, like tin and iron. The source includes non-metals as well, so F is only a partial fit."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "3",
+        "explanation": "After introducing and naming the school, the speaker can describe its buildings."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "4",
+        "explanation": "One of the buildings refers back to the two buildings already introduced."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "1",
+        "explanation": "Once upon a time introduces the setting and establishes the school."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "2",
+        "explanation": "Naming the school after introducing it makes the later description easy to follow. A coherent alternative sequence can also be justified."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "5",
+        "explanation": "The blue and white buildings refer back to the colours already mentioned."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "feet",
+        "explanation": "Foot has an irregular plural with a changed vowel."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "teachers",
+        "explanation": "Add -s to this regular count noun."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "men",
+        "explanation": "Man changes its vowel in the plural."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "ladies",
+        "explanation": "A consonant plus y changes to -ies."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "homes",
+        "explanation": "Home is a regular count noun."
+      },
+      {
+        "label": "4(vi)",
+        "type": "written",
+        "answer": "water",
+        "explanation": "Water is normally uncountable. Waters occurs in special senses such as territorial waters."
+      },
+      {
+        "label": "4(vii)",
+        "type": "written",
+        "answer": "money",
+        "explanation": "Money is normally uncountable. Monies is a specialised word for separate sums."
+      },
+      {
+        "label": "4(viii)",
+        "type": "written",
+        "answer": "armies",
+        "explanation": "Replace consonant plus y with -ies."
+      },
+      {
+        "label": "4(ix)",
+        "type": "written",
+        "answer": "factories",
+        "explanation": "The ending -ry becomes -ries."
+      },
+      {
+        "label": "4(x)",
+        "type": "written",
+        "answer": "trees",
+        "explanation": "Add -s after the vowel ending."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "A shopkeeper or general dealer.",
+        "explanation": "This person sells assorted goods in a shop. Chandler is a more specialised answer for a seller of candles or related supplies."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "A chauffeur.",
+        "explanation": "A chauffeur drives a car for another person."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "An architect.",
+        "explanation": "Architects design buildings."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "A surgeon.",
+        "explanation": "Surgeons perform operations."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "A judge or magistrate.",
+        "explanation": "These officials hear and decide court cases."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "At six o’clock in the morning.",
+        "explanation": "The first sentence about the morning routine gives the time."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "They greet their parents.",
+        "explanation": "The passage marks this action with first."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "They do their morning chores, including washing dishes and making beds.",
+        "explanation": "The word then introduces the chores."
+      },
+      {
+        "label": "6(d)",
+        "type": "written",
+        "answer": "They brush their teeth, shower and get dressed for school.",
+        "explanation": "These actions occur just before breakfast in the passage."
+      },
+      {
+        "label": "6(e)",
+        "type": "written",
+        "answer": "They take their bags and leave for school.",
+        "explanation": "After that connects this final action to breakfast."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "In the eastern part of the school.",
+        "explanation": "The passage locates the food store using the direction east."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Next to the teachers’ staff room.",
+        "explanation": "The text describes the office as next to the teachers’ area."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Beside the bathroom.",
+        "explanation": "If the bathroom is adjacent to the mosque, the mosque is adjacent to the bathroom."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "In the southern part of the school.",
+        "explanation": "The text directly gives south as the location."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Ally sits on my chair every day.",
+        "explanation": "The verb sit takes -s with the singular subject Ally."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "My grandfather keeps sheep for meat.",
+        "explanation": "Sheep names an animal and has the same singular and plural forms."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "My brother rides a horse every day.",
+        "explanation": "Ride describes travelling on a horse; a singular subject takes rides."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "My uncle watches television every day.",
+        "explanation": "Watch is the usual verb for viewing television. The spelling is television."
+      },
+      {
+        "label": "8(vi)",
+        "type": "written",
+        "answer": "My grandmother’s sheep eat grass.",
+        "explanation": "Sheep names the grazing animals. Ships are vessels."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Students can find information in digital reference books.",
+        "explanation": "Online catalogues and searches widen access to sources."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "They can find recent facts and news.",
+        "explanation": "Checking publication dates helps students select current material."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "They can compare independent sources.",
+        "explanation": "Comparing evidence helps them recognise unreliable claims."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "They can study explanations at their own pace.",
+        "explanation": "Saved resources can be revisited when a concept is difficult."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "They can find audio, diagrams and demonstrations.",
+        "explanation": "Different formats can make a topic clearer than a single printed description."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Dear Yusrat, I still remember the morning I first went to Luqman Seminary School. I arrived before the gate was crowded because I was afraid of getting lost. Two older students noticed that I was holding my admission letter and showed me where to go. I thanked them and walked to the office. A secretary checked my name and introduced me to one of the teachers. Soon the bell rang and we were asked to assemble in the courtyard. Our head teacher welcomed us and explained which paths led to the classrooms and the library. I followed my class to a bright room with a map on the wall. Our first lesson was English, a subject I had always wanted to speak more confidently. We worked in pairs and introduced ourselves. At break time my new partner showed me the sports field and helped me remember the names of three classmates. At lunch time we washed our hands and ate rice and beans together. Later we prepared for swalaa and returned quietly to our studies. By the time the afternoon bell rang I could find my own way back to the gate. I went home tired but pleased, knowing I had already made a friend and learned something important.",
+        "explanation": "The account exceeds 200 words, uses the required vocabulary in context and recounts the first day in chronological order. Other original accounts meeting the instructions are valid."
+      }
+    ]
+  }
+}

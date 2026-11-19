@@ -1,0 +1,345 @@
+{
+  "sourceId": "source-2429bf79a19c64e0",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "One owner indicates a sole proprietorship."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Land is a natural factor of production."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Social enterprise addresses a social issue while generating revenue."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The entrepreneur starts and manages a venture."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Vaccination generates benefits beyond the recipient."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Entrepreneurs assess risk rather than avoid every risk."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Exchange involves buying and selling."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Raw materials go into further production."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Arithmetic measures sales, costs and profit."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Buying for resale at a profit is business."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "D",
+          "ii": "A",
+          "iii": "F",
+          "iv": "G",
+          "v": "E"
+        },
+        "explanation": "Uncertain continuity concerns business lifespan. Capital finances operations; the sole proprietor owns the business, leadership influences others and business studies spans disciplines."
+      }
+    ],
+    "3": [
+      {
+        "label": "3",
+        "type": "written",
+        "answer": "Production creates output; distribution takes it to buyers; exchange transfers ownership; consumption uses the good.",
+        "explanation": "For example, flour is milled, transported, sold and used for cooking."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Mathematics",
+        "explanation": "Calculate prices, sales and profit."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Music and theatre arts",
+        "explanation": "Performances and jingles can promote products."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Languages",
+        "explanation": "Clear language supports bargaining and customer service."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Agriculture",
+        "explanation": "Farm enterprises supply goods and raw materials to markets."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Learn to identify opportunities, research customers, prepare budgets, keep records, manage staff and evaluate risk.",
+        "explanation": "These skills help turn an idea into a financially viable operation."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Merit",
+        "explanation": "Vaccination benefits population health."
+      },
+      {
+        "label": "6(ii)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Demerit",
+        "explanation": "Smoking has private and external health costs."
+      },
+      {
+        "label": "6(iii)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Merit",
+        "explanation": "Libraries improve access to learning."
+      },
+      {
+        "label": "6(iv)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Demerit",
+        "explanation": "Alcohol misuse can harm users and others."
+      },
+      {
+        "label": "6(v)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Merit",
+        "explanation": "Education yields long-term social benefits."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Enterprises create employment, supply useful products, pay taxes, stimulate their suppliers, introduce innovations and generate household income.",
+        "explanation": "Explain five effects on households, workers and the wider economy."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Business entrepreneurship pursues commercial opportunities; social entrepreneurship addresses community problems; intrapreneurship pursues innovation inside an established organisation.",
+        "explanation": "The categories distinguish where and why entrepreneurial activity occurs."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Durable goods last through repeated use.",
+        "explanation": "Example: furniture."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Perishable goods spoil over time.",
+        "explanation": "Example: milk."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Producer goods assist further production.",
+        "explanation": "Example: a tractor."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Demerit goods have harmful consumption effects.",
+        "explanation": "Example: cigarettes."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Economic goods are scarce and have an opportunity cost.",
+        "explanation": "Example: clothing."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Leadership",
+        "explanation": "Motivate and direct staff."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Communication",
+        "explanation": "Explain product benefits clearly."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Networking",
+        "explanation": "Build contacts with customers and suppliers."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Decision-making",
+        "explanation": "Choose between alternatives after assessing risk."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Financial management",
+        "explanation": "Plan and monitor cash and costs."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "Maria is a sole proprietor. Challenges include unlimited liability, limited capital, dependence on one manager, heavy workload and uncertain continuity.",
+        "explanation": "One person owns the venture and bears its risks."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Budget and reinvest earnings; diversify suppliers; develop skills or hire help; prepare succession plans; insure against appropriate risks.",
+        "explanation": "Each action reduces a specific threat to survival."
+      }
+    ]
+  }
+}

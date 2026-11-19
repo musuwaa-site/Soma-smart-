@@ -1,0 +1,286 @@
+{
+  "sourceId": "source-b2da0c9d2a0861e9",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Adam is the only named owner."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Land is a standard factor of production."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Raw materials are inputs to production."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A certificate and technical competence indicate skilled labour."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A high initial capital requirement is not a defining feature."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Distribution, trade and transport are tertiary activities."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "200,000 − 20,000 = TZS 180,000 profit."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Hiring an employee is part of staffing."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Interest is the price paid for using borrowed funds."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Stock control tracks inventory levels and values."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "G",
+          "ii": "D",
+          "iii": "E",
+          "iv": "C",
+          "v": "A"
+        },
+        "explanation": "Leadership influences others, networking builds contacts, proactiveness seeks opportunities, passion expresses intense dedication and innovation commercialises ideas."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Human-made",
+        "explanation": "Tools are produced rather than naturally occurring."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Used for further production",
+        "explanation": "Ovens help produce bread."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Can accumulate",
+        "explanation": "Reinvestment adds machinery."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Often mobile",
+        "explanation": "Tools may be transferred between businesses."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Depreciates",
+        "explanation": "Use and obsolescence reduce the value of equipment."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Financial management plans cash, monitors costs and prepares budgets.",
+        "explanation": "It keeps the venture solvent."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Leadership directs and motivates people.",
+        "explanation": "It aligns effort with objectives."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Sales and marketing identify demand and communicate the offer.",
+        "explanation": "Products must reach willing buyers."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Decision-making compares alternatives.",
+        "explanation": "Costs and benefits guide choice."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Networking develops relationships.",
+        "explanation": "Contacts lead to information, suppliers and customers."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Value of the next-best alternative forgone.",
+        "explanation": "Scarcity forces a choice."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "The benefit of helping sell fruit, including the income forgone.",
+        "explanation": "Ally selects tuition instead."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Consumer goods such as rice; perishables such as tomatoes; durable household items such as bowls.",
+        "explanation": "Choose goods with local demand, appropriate storage and acceptable turnover."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Compare expected returns, risk of loss and the need to retain cash for operating expenses.",
+        "explanation": "Reinvestment should leave the club able to meet obligations."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Profit TZS 150,000.",
+        "explanation": "500,000 − 350,000 = 150,000."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Loss TZS 250,000.",
+        "explanation": "100,000 − 350,000 = −250,000."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Family funding. Advantages include trust, flexible terms and convenient access. Disadvantages include limited funds, strained relationships if losses occur, and possible interference or unclear repayment expectations.",
+        "explanation": "Explain the actual family agreement; money can be given as a gift or loan."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Identify an opportunity, research demand, prepare a plan, obtain capital, register the name and relevant permits, and secure stock and premises to open.",
+        "explanation": "These steps turn a proposed sole proprietorship into an operating shop."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Production meets needs, adds value, generates income, creates jobs, supplies inputs to other firms and enables trade and tax revenue.",
+        "explanation": "For each benefit, connect an output to a consumer, worker or other enterprise."
+      }
+    ]
+  }
+}

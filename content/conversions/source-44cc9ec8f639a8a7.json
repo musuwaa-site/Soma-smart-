@@ -1,0 +1,296 @@
+{
+  "sourceId": "source-44cc9ec8f639a8a7",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Sarufi inahusu maumbo, maana, miundo na matamshi."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": "D",
+        "explanation": "Silabi ni fungu la sauti linalotamkwa pamoja."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": "C",
+        "explanation": "Amekuwa husaidia kueleza hali ya kuwa mtoro katika tungo hii kulingana na matumizi yaliyoainishwa kwenye swali."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": "C",
+        "explanation": "Njeo hubainisha wakati wa tendo."
+      },
+      {
+        "label": "1(v)",
+        "type": "written",
+        "answer": "A au C: Nina budi / Sina budi kusoma kwa bidii ili nifaulu mtihani wangu.",
+        "explanation": "Nina budi kusoma ina maana ya kulazimika kusoma; nifaulu huonyesha kusudi. Pia C hukubalika katika matumizi ya lazima kulingana na mwongozo."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": "D",
+        "explanation": "Lugha fasaha hufuata kanuni za matumizi sahihi."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": "B",
+        "explanation": "Ingawa huunganisha mawazo yenye hali ya kinyume: amependeza ingawa ameazima."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": "B",
+        "explanation": "Afya, utajiri, furaha na amani ni dhana badala ya vitu vinavyoshikika."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": "C",
+        "explanation": "Kiimbo ni kupanda na kushuka kwa sauti."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "answer": "B",
+        "explanation": "Lugha ni nyenzo ya jamii ya kuhifadhi na kuwasilisha utamaduni."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "answer": {
+          "i": "B",
+          "ii": "G",
+          "iii": "D",
+          "iv": "E",
+          "v": "C"
+        },
+        "explanation": "Mkazo ni nguvu ya matamshi. Ufupisho hubana hadithi. Vifaa vilivyotajwa ni vya TEHAMA. Hotuba na midahalo ni mazungumzo changamani. Tafsida hupunguza ukali wa kauli."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Kidahizo ni neno kuu la kamusi. Kitomeo ni kidahizo pamoja na taarifa zote zinazokieleza.",
+        "explanation": "Taja sifa ya kwanza halafu ionyeshe tofauti yake na ya pili."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Kamusi wahidiya hufafanua kwa lugha moja. Kamusi thaniya hutoa visawe au tafsiri kwa lugha mbili.",
+        "explanation": "Taja sifa ya kwanza halafu ionyeshe tofauti yake na ya pili."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Mzungumzaji hutuma ujumbe. Msikilizaji huupokea na kuufasiri.",
+        "explanation": "Taja sifa ya kwanza halafu ionyeshe tofauti yake na ya pili."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Kihusishi huonyesha uhusiano, kama “kwa”. Kihisishi hudokeza hisia, kama “Lo!”.",
+        "explanation": "Taja sifa ya kwanza halafu ionyeshe tofauti yake na ya pili."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Aya ni mkusanyiko wa sentensi juu ya wazo kuu. Insha ni maandishi yanayokuza mada katika aya kadhaa.",
+        "explanation": "Taja sifa ya kwanza halafu ionyeshe tofauti yake na ya pili."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Kukosa umakini, kelele, sauti hafifu, kutofahamu msamiati na kutotambua muktadha.",
+        "explanation": "Hali hizi huzuia kusikia ujumbe au kuufasiri kwa maana iliyokusudiwa."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Kiswahili kinaendelea nchini. Sasa kinatumika katika sayansi na teknolojia. Matumizi haya yanatoa nafasi ya kukiendeleza kitaaluma. Mikakati ya muda mrefu inahitajika. Utaalamu unahitajika ili lugha iweze kutimiza mahitaji mapya.",
+        "explanation": "Sentensi tano zinabeba mawazo ya kifungu bila kuingiza mifano mipya."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Nakataa dai hilo. Kiswahili hurahisisha mawasiliano, huimarisha umoja, huhifadhi utamaduni, hutumika katika elimu na hurahisisha biashara.",
+        "explanation": "Mifano hii inaonyesha matumizi yanayoendelea katika kipindi cha utandawazi."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Asha alisoma; vilevile aliandika maelezo. Tulipanda miche. Aidha tuliimwagilia. Alifanya mazoezi. Hata hivyo, hakushinda. Mvua iliongezeka. Kwa hiyo tuliahirisha safari. Tulimaliza mtihani. Baada ya hapo tulipumzika.",
+        "explanation": "Kila kiunganishi kinaonyesha uhusiano wa kimantiki wa mawazo."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Msemaji na msikilizaji hubadilishana zamu; kiimbo huonyesha hisia; mkazo hubainisha jambo muhimu; msikilizaji anaweza kuuliza mara moja; ishara huongezea maana wanapoonana.",
+        "explanation": "Sifa zinahusu kusikia sauti na kupokea mrejesho katika mazungumzo."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "Unarara → unalala.",
+        "explanation": "Badili konsonanti ili kupata tahajia sahihi."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Alilia → alibweka, kuhusu mbwa.",
+        "explanation": "Chagua kitenzi maalumu cha sauti ya mbwa."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "Sipendagi → sipendi.",
+        "explanation": "Ondoa kiambishi kisicho cha Kiswahili sanifu katika tungo hii."
+      },
+      {
+        "label": "7(a)(iv)",
+        "type": "written",
+        "answer": "Wote → sote, kwa kundi linalomjumuisha msemaji.",
+        "explanation": "Nafsi ya kwanza wingi inahitaji sote."
+      },
+      {
+        "label": "7(a)(v)",
+        "type": "written",
+        "answer": "Usomage → usome.",
+        "explanation": "Usome ni umbo la kutoa himizo."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Hakuna uhusiano wa lazima kati ya sauti na maana. Kitu kilekile huitwa maji au water katika lugha tofauti. Jamii hujifunza na kukubaliana kuhusu matumizi. Majina hubadilika kihistoria. Neno moja pia linaweza kuwa na maana tofauti kulingana na makubaliano na muktadha.",
+        "explanation": "Unasibu unahusu uhusiano wa alama na maana; kanuni za lugha bado zinafuatwa."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Ujumbe unaweza kupotoshwa, mawazo kukosa mtiririko, maandishi kuwa magumu kusoma, msikilizaji kuelewa tofauti na kusudi na hoja kupoteza nguvu.",
+        "explanation": "Onyesha kwa kila hoja jinsi kosa la kisarufi linavyoathiri mawasiliano."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Insha ni utungo wa maandishi unaokuza mada kwa mpangilio wa mawazo katika aya.",
+        "explanation": "Mada na mtiririko huipa insha umoja."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Kichwa hutaja mada. Utangulizi hufungua mjadala. Kiini huendeleza hoja kwa mifano katika aya. Hitimisho hukusanya au kutoa msimamo wa mwisho.",
+        "explanation": "Eleza kazi ya kila sehemu pamoja na kuitaja."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "MMOMONYOKO WA MAADILI KWA VIJANA\nMaadili huonekana katika maamuzi ya kila siku. Kijana anayesema ukweli hata anapohofia kuadhibiwa anajenga uaminifu. Tunaposema maadili yanamomonyoka, tunamaanisha kwamba tabia zinazolinda watu na mali zinaanza kupuuzwa. Si sahihi kuwahukumu vijana wote kwa makosa ya wachache.\nShuleni hali hii huonekana pale baadhi ya wanafunzi wanapowania sifa kwa kudanganya katika mitihani. Mwanafunzi anayenakili anaweza kupata alama nzuri, lakini hukosa nafasi ya kutambua udhaifu wake. Wengine hueneza uvumi kwenye simu bila kujiuliza kama habari ni kweli. Mtu anayetajwa anaweza kuumia hata baada ya ujumbe kufutwa.\nShinikizo la marafiki linaweza kumfanya kijana akubali kutenda jambo analolijua kuwa baya. Pia vijana wanapowaona watu wazima wakipata manufaa kwa rushwa, wanaweza kudhani kuwa uaminifu hauna faida. Hivyo wajibu wa kubadilisha hali hii unaihusu jamii nzima.\nTuanze kwa kusikiliza vijana badala ya kuwakemea kila wakati. Walimu wanaweza kuendesha mijadala inayowapa wanafunzi nafasi ya kutafakari matokeo ya maamuzi yao. Wazazi waonyeshe kwa vitendo jinsi ya kutimiza ahadi na kuomba msamaha wanapokosea. Vijana nao wanaweza kuchagua marafiki wanaowasaidia kukataa udanganyifu.\nMwisho, mazingira ya kuaminiana yatasaidia kila kijana kusema anapohitaji msaada. Kila tendo dogo la haki na uwajibikaji linaweza kuimarisha maadili ya shule na jamii kwa muda mrefu. Hapo mafundisho ya darasani yatakuwa sehemu ya maisha yetu ya kila siku.",
+        "explanation": "Mfano una kichwa, utangulizi, dalili, sababu, hatua za kurekebisha hali na hitimisho. Linganisha pia urefu na kikomo cha maneno cha swali."
+      }
+    ]
+  }
+}

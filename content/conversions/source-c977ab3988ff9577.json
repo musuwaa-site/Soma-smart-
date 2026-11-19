@@ -1,0 +1,273 @@
+{
+  "sourceId": "source-c977ab3988ff9577",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The consumer uses the output."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Recording transactions is a bookkeeping function."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A holiday is a want beyond the essentials."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Intangible benefits provided through work are services."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The bicycle forgone is the opportunity cost of the laptop."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "A",
+          "iii": "D",
+          "iv": "E",
+          "v": "C"
+        },
+        "explanation": "Long life means durable; production inputs are producer goods; goods with a price are economic; short life means perishable; abundant natural goods can be free."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Supplying goods or services to customers, normally for profit.",
+        "explanation": "A shop serves customer demand."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Combining inputs to produce useful goods or services.",
+        "explanation": "Timber becomes furniture."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Buying and selling.",
+        "explanation": "Ownership passes between parties."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "Moving output towards final users.",
+        "explanation": "Delivery makes products available."
+      },
+      {
+        "label": "3(e)",
+        "type": "written",
+        "answer": "Using goods or services to satisfy wants.",
+        "explanation": "A household uses its furniture."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Needs are essentials; wants are additional desires.",
+        "explanation": "Food is essential; jewellery is optional."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Goods are tangible, whereas services are intangible activities.",
+        "explanation": "A chair is a good; transport is a service."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Buy suitable timber and other inputs.",
+        "explanation": "These supply the workshop."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Make the furniture.",
+        "explanation": "Production transforms the wood."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Promote the products.",
+        "explanation": "Publicity reaches prospective buyers."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Transport or display the furniture at a sales outlet.",
+        "explanation": "Distribution brings the product to market."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Sell and deliver to the customer.",
+        "explanation": "Exchange completes the transaction for final use."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Meet demand for meals.",
+        "explanation": "Customers need convenient food."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Earn profit.",
+        "explanation": "Revenue should exceed costs."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Create employment.",
+        "explanation": "The restaurant hires staff."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Generate income for the owner.",
+        "explanation": "The enterprise supports a livelihood."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Grow the enterprise.",
+        "explanation": "Reinvestment can fund expansion."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Land",
+        "explanation": "Nature supplies inputs such as timber."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Labour",
+        "explanation": "Workers supply effort and skill."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Capital",
+        "explanation": "Machines and tools support production."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Entrepreneurship",
+        "explanation": "The organiser combines the inputs and takes risks."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Marketing",
+        "explanation": "Find and serve customer needs."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Accounting",
+        "explanation": "Record and report financial transactions."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Finance",
+        "explanation": "Obtain and manage funds."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Management",
+        "explanation": "Plan and coordinate people and resources."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Entrepreneurship",
+        "explanation": "Recognise and develop business opportunities."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Business studies helps households budget, compare prices, save and borrow responsibly, understand customer needs and identify income opportunities.",
+        "explanation": "Each skill links classroom knowledge to a practical daily decision."
+      }
+    ]
+  }
+}

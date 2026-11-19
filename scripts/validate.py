@@ -20,7 +20,7 @@ def validate(d):
   if q.get('sourceType')!='original' and (q.get('rightsStatus') not in CLEAR or q.get('verificationStatus')!='verified' or q.get('paperId') not in paper_ids or not q.get('sourceReference')):errors.append(f'{q["id"]}: source not cleared/verified')
   if q.get('sourceType')=='original' and (q.get('rightsStatus')!='original' or q.get('paperId')):errors.append(f'{q["id"]}: original provenance invalid')
   if q.get('form') not in [1,2] or q.get('subjectId') not in subject_ids:errors.append(f'{q["id"]}: invalid form/subject')
-  if not q.get('topicIds') or any(t not in lesson_ids for t in q['topicIds']):errors.append(f'{q["id"]}: invalid topic mapping')
+  if (not q.get('topicIds') and not q.get('sourcePagePrompt')) or any(t not in lesson_ids for t in q['topicIds']):errors.append(f'{q["id"]}: invalid topic mapping')
   if not (q.get('content') or q.get('sourceParts')) or not q.get('answerKey') or not q.get('markingGuide'):errors.append(f'{q["id"]}: missing answer or rubric')
   m=q.get('maximumMarks');inc=q.get('markIncrement')
   if not isinstance(m,(float,int)) or not isinstance(inc,(float,int)) or not math.isfinite(m) or not math.isfinite(inc) or m<=0 or inc<=0 or abs(m/inc-round(m/inc))>1e-8:errors.append(f'{q["id"]}: invalid marking increments')

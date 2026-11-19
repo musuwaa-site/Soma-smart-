@@ -1,0 +1,319 @@
+{
+  "sourceId": "source-45a6c3ce3aaa29ea",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The listed business curriculum distinguishes commercial, social and internal entrepreneurship."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A bank loan is borrowed money repayable with interest."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Production for sale is indirect production."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Each description gives one owner; no partnership or corporate ownership is specified.",
+        "acceptedAnswers": [
+          "A",
+          "D"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "250,000 − 70,000 = TZS 180,000 profit."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "An optimistic entrepreneur expects improvement despite setbacks."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The sole owner bears business debts personally."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Cooperatives are member-owned organisations serving common needs."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Staffing deals with recruitment, placement and separation."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Entrepreneurship, accounting and business management all belong to business studies."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "D",
+          "ii": "C",
+          "iii": "F",
+          "iv": "A",
+          "v": "B"
+        },
+        "explanation": "Wants are desires, scarcity limits satisfaction, services are intangible, resources are productive inputs and opportunity cost is the forgone alternative."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Consumer goods",
+        "explanation": "Bread is consumed directly."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Producer goods",
+        "explanation": "A lathe makes other goods."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Durable goods",
+        "explanation": "A desk can be used repeatedly."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Perishable goods",
+        "explanation": "Fresh fruit spoils quickly."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Merit goods",
+        "explanation": "Education benefits both the learner and society."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Creates jobs.",
+        "explanation": "New ventures hire workers."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Supplies useful goods.",
+        "explanation": "Businesses respond to unmet needs."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Encourages innovation.",
+        "explanation": "New methods can cut costs."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Raises revenue.",
+        "explanation": "Profitable firms pay taxes."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Promotes local growth.",
+        "explanation": "Enterprises purchase inputs from suppliers."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Direct production serves the producer’s own needs; indirect production serves exchange.",
+        "explanation": "Growing maize to eat differs from growing it to sell."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Needs are essentials; wants are desired extras.",
+        "explanation": "Water is essential; jewellery is optional."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Labour is human effort; capital is a produced input.",
+        "explanation": "A carpenter is labour and a saw is capital."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Skilled labour needs extensive training; semi-skilled labour needs some task-specific training.",
+        "explanation": "Their typical preparation and independence differ."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Production creates useful output; consumption uses it.",
+        "explanation": "Making bread precedes eating it."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Land",
+        "explanation": "Nature supplies inputs such as timber."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Labour",
+        "explanation": "Workers supply effort and skill."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Capital",
+        "explanation": "Machines and tools support production."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Entrepreneurship",
+        "explanation": "The organiser combines the inputs and takes risks."
+      }
+    ],
+    "7": [
+      {
+        "label": "7 advantages",
+        "type": "written",
+        "answer": "No interest or repayments, immediate access to saved funds and full decision-making control.",
+        "explanation": "Internal funds need no lender’s approval."
+      },
+      {
+        "label": "7 disadvantages",
+        "type": "written",
+        "answer": "Capital is limited, personal emergency reserves shrink, and the owner bears the loss if the venture fails.",
+        "explanation": "The proprietor puts personal wealth at risk."
+      }
+    ],
+    "8": [
+      {
+        "label": "8 challenges",
+        "type": "written",
+        "answer": "Limited finance, skill gaps and weak continuity.",
+        "explanation": "One owner has limited resources and time."
+      },
+      {
+        "label": "8 solutions",
+        "type": "written",
+        "answer": "Retain profit or obtain affordable credit; take training or hire expertise; prepare a succession plan.",
+        "explanation": "Match each proposed remedy to its corresponding challenge."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Personal savings are a common starting source for small ventures. They are directly available and incur no interest or collateral requirement.",
+        "explanation": "The appropriate choice depends on the owner’s resources and financing needs."
+      }
+    ]
+  }
+}

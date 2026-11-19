@@ -1,0 +1,414 @@
+{
+  "sourceId": "source-c53d5ab5436e540b",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ushirikiano hurahisisha uzalishaji na miradi ya maendeleo."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Zana za ulinzi zilikuwa matumizi ya ufundi katika usalama."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Maulidi na Krismasi ni sherehe za kidini."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Wavulana wadogo walichunga mifugo kulingana na umri wao."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Mafundisho ya maadili yanaweza kutolewa pia kupitia dini."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Mfumo wa umri na rika ulikuwa muhimu kwa Wamasai."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Historia inaonyesha mbinu za jadi na matokeo ya matumizi ya rasilimali."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Kuimarika kwa elimu hakukulazimisha watu kuondoka kama vile migogoro au uhaba wa ardhi."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ufugaji, kilimo, biashara na ufundi vilikuwa miongoni mwa shughuli za jamii hizi."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Vikapu vilisukwa na vyungu vya kuhifadhia maji vilifinyangwa."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "answer": {
+          "i": "G",
+          "ii": "F",
+          "iii": "A",
+          "iv": "D",
+          "v": "B"
+        },
+        "explanation": "Wazee husimulia historia. Vitabu huchambua matukio, makumbusho huhifadhi vitu, akiolojia huchunguza masalia, na vyombo vya habari hutoa ripoti."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Kiswahili Urithi Wetu",
+        "explanation": "Maneno matatu yanabeba wazo kuu la kifungu."
+      },
+      {
+        "label": "3(ii)(a)",
+        "type": "written",
+        "answer": "Kisukuma",
+        "explanation": "Mfano wa lugha ya asili iliyotajwa katika kifungu. Jibu lingine sahihi kutoka kifunguni linakubalika."
+      },
+      {
+        "label": "3(ii)(b)",
+        "type": "written",
+        "answer": "Kizigua",
+        "explanation": "Mfano wa lugha ya asili iliyotajwa katika kifungu. Jibu lingine sahihi kutoka kifunguni linakubalika."
+      },
+      {
+        "label": "3(ii)(c)",
+        "type": "written",
+        "answer": "Kiha",
+        "explanation": "Mfano wa lugha ya asili iliyotajwa katika kifungu. Jibu lingine sahihi kutoka kifunguni linakubalika."
+      },
+      {
+        "label": "3(ii)(d)",
+        "type": "written",
+        "answer": "Kinyakyusa",
+        "explanation": "Mfano wa lugha ya asili iliyotajwa katika kifungu. Jibu lingine sahihi kutoka kifunguni linakubalika."
+      },
+      {
+        "label": "3(ii)(e)",
+        "type": "written",
+        "answer": "Kigindo",
+        "explanation": "Mfano wa lugha ya asili iliyotajwa katika kifungu. Jibu lingine sahihi kutoka kifunguni linakubalika."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Mfumo wa mawasiliano ya watu kupitia maneno yanayotamkwa au kuandikwa.",
+        "explanation": "Fasili inatajwa katika sentensi ya kwanza."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "UNESCO.",
+        "explanation": "Hili ni Shirika la Umoja wa Mataifa la Elimu, Sayansi na Utamaduni."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Kinatuunganisha na kututambulisha Afrika na duniani.",
+        "explanation": "Lugha ya pamoja inarahisisha kuelewana licha ya tofauti za lugha za asili."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Ufinyanzi ulizalisha vyungu vya udongo.",
+        "explanation": "Taja aina ya uzalishaji na bidhaa yake. Mifano inaweza kutolewa kwa mpangilio wowote."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Ususi ulizalisha mikeka na vikapu.",
+        "explanation": "Taja aina ya uzalishaji na bidhaa yake. Mifano inaweza kutolewa kwa mpangilio wowote."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Uhunzi ulitengeneza zana za chuma.",
+        "explanation": "Taja aina ya uzalishaji na bidhaa yake. Mifano inaweza kutolewa kwa mpangilio wowote."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Uchongaji ulitoa vifaa vya mbao.",
+        "explanation": "Taja aina ya uzalishaji na bidhaa yake. Mifano inaweza kutolewa kwa mpangilio wowote."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Utengenezaji wa chumvi ulitumia maji au udongo wenye chumvi.",
+        "explanation": "Taja aina ya uzalishaji na bidhaa yake. Mifano inaweza kutolewa kwa mpangilio wowote."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Kuwafanya mateka wa vita kuwa watumwa.",
+        "explanation": "Huu ni mfano wa unyonyaji uliohusika katika biashara ya watumwa."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Kuwauza watu waliodaiwa madeni.",
+        "explanation": "Huu ni mfano wa unyonyaji uliohusika katika biashara ya watumwa."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Kuuza watu waliohukumiwa kwa makosa.",
+        "explanation": "Huu ni mfano wa unyonyaji uliohusika katika biashara ya watumwa."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Utekaji wa watu wakati wa uvamizi.",
+        "explanation": "Huu ni mfano wa unyonyaji uliohusika katika biashara ya watumwa."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Kuwadanganya watu na kuwanyima uhuru wao.",
+        "explanation": "Huu ni mfano wa unyonyaji uliohusika katika biashara ya watumwa."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Ushirikiano uliunganisha watu kufanya kazi pamoja.",
+        "explanation": "Unganisha kila tendo la maadili na matokeo yake kwa jamii."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Heshima kwa wazee ilisaidia ushauri na maridhiano.",
+        "explanation": "Unganisha kila tendo la maadili na matokeo yake kwa jamii."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Uaminifu uliimarisha mahusiano ya biashara.",
+        "explanation": "Unganisha kila tendo la maadili na matokeo yake kwa jamii."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Kusaidiana kulilinda familia wakati wa shida.",
+        "explanation": "Unganisha kila tendo la maadili na matokeo yake kwa jamii."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Uvumilivu ulipunguza migogoro.",
+        "explanation": "Unganisha kila tendo la maadili na matokeo yake kwa jamii."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Kilimo kilihitaji zana bora.",
+        "explanation": "Kila hoja inaonyesha hitaji lililochochea uvumbuzi au kuboresha teknolojia."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Biashara ilieneza maarifa ya ufundi.",
+        "explanation": "Kila hoja inaonyesha hitaji lililochochea uvumbuzi au kuboresha teknolojia."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Magonjwa yalichochea uchunguzi wa tiba.",
+        "explanation": "Kila hoja inaonyesha hitaji lililochochea uvumbuzi au kuboresha teknolojia."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Mazingira tofauti yalihitaji nyumba na zana tofauti.",
+        "explanation": "Kila hoja inaonyesha hitaji lililochochea uvumbuzi au kuboresha teknolojia."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Ongezeko la watu liliongeza mahitaji ya uzalishaji wa chakula.",
+        "explanation": "Kila hoja inaonyesha hitaji lililochochea uvumbuzi au kuboresha teknolojia."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Huduma za waongoza wageni katika magofu ya Kilwa.",
+        "explanation": "Kila fursa inahusisha rasilimali au urithi na shughuli ya kiuchumi inayoweza kuihifadhi."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Biashara ya kazi za mikono, kwa mfano vinyago vya Makonde.",
+        "explanation": "Kila fursa inahusisha rasilimali au urithi na shughuli ya kiuchumi inayoweza kuihifadhi."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Huduma za malazi karibu na mbuga za taifa.",
+        "explanation": "Kila fursa inahusisha rasilimali au urithi na shughuli ya kiuchumi inayoweza kuihifadhi."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Mafunzo ya utamaduni katika makumbusho.",
+        "explanation": "Kila fursa inahusisha rasilimali au urithi na shughuli ya kiuchumi inayoweza kuihifadhi."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Tamasha za muziki na ngoma za jadi.",
+        "explanation": "Kila fursa inahusisha rasilimali au urithi na shughuli ya kiuchumi inayoweza kuihifadhi."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Kuelimisha wananchi kuhusu namna ya kuripoti rushwa.",
+        "explanation": "Hatua za kuzuia, kubaini na kushughulikia rushwa hulinda haki."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Kulinda watoa taarifa.",
+        "explanation": "Hatua za kuzuia, kubaini na kushughulikia rushwa hulinda haki."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Kuchunguza malalamiko kwa ushahidi.",
+        "explanation": "Hatua za kuzuia, kubaini na kushughulikia rushwa hulinda haki."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Kuweka wazi taratibu na gharama za huduma.",
+        "explanation": "Hatua za kuzuia, kubaini na kushughulikia rushwa hulinda haki."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Kuwafikisha watuhumiwa mbele ya sheria kwa haki.",
+        "explanation": "Hatua za kuzuia, kubaini na kushughulikia rushwa hulinda haki."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Vita vilivuruga mshikamano. Biashara ya watumwa ilikiuka utu. Tamaa ya mali ilishawishi baadhi ya viongozi kuwatendea watu isivyo haki. Matabaka yalileta upendeleo. Migongano ya njia za kugawa ardhi na mali iliathiri usawa. Changamoto hizo zilihitaji mazungumzo, sheria na uwajibikaji wa viongozi.",
+        "explanation": "Jenga kila hoja kwa mfano wa jinsi tendo au hali ilivyodhoofisha maadili katika mazingira yake."
+      }
+    ]
+  }
+}

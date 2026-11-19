@@ -1,0 +1,455 @@
+{
+  "sourceId": "source-01685f87a6f1dc96",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Detergents, disinfectants and air fresheners are made for household care.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Suffocation means insufficient oxygen reaches body tissues.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Deposition is the direct change from gas to solid.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Random motion of small suspended particles reflects collisions with moving molecules.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Liquid water evaporates from fabric.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "The symbol indicates acute toxicity.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A slippery laboratory floor increases the risk of falls.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Silica gel absorbs moisture from the surrounding air, reducing corrosion risk.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Evaporation, condensation and precipitation form the water cycle.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Chemists investigate physical and chemical properties and changes.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "L",
+        "explanation": "Gold has the symbol Au from aurum.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Potassium has the symbol K from kalium.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "The symbol W derives from wolfram.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "Lead has the symbol Pb from plumbum.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Silver has the symbol Ag from argentum.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "A blue, non-luminous flame.",
+        "explanation": "A well-aerated gas flame gives efficient heating."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "It is hot, gives steady controlled heating and leaves little soot on the kettle.",
+        "explanation": "An adequate oxygen supply promotes more complete combustion."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "It is blue, relatively hot, almost invisible in bright light and normally produces little soot.",
+        "explanation": "These features distinguish it from a luminous yellow flame."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "Draw a blue cone with an inner region of unburnt gas, an inner blue reaction cone and an outer combustion zone. Label the hottest region just above the inner blue cone.",
+        "explanation": "The zones represent different extents of mixing and combustion."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Many plastics soften with heat, scratch easily, are attacked by some solvents and can stain or absorb substances.",
+        "explanation": "Suitability depends on the polymer and reagent; heat-resistant laboratory glass tolerates many heating operations that ordinary plastic cannot."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Condenser.",
+        "explanation": "Cooling removes heat from vapour, changing it to liquid."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Graduated syringe or gas syringe as appropriate.",
+        "explanation": "The plunger draws in a fluid and graduations show the volume."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Wire gauze.",
+        "explanation": "Placed on a tripod it distributes heat under the vessel."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Tongs, or a test-tube holder for a hot tube.",
+        "explanation": "The tool keeps hands away from the hot surface."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Labelled reagent bottle.",
+        "explanation": "A suitable bottle keeps the contents contained and identified."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Wear a lab coat and eye protection, closed shoes, and secure long hair and loose clothing. Use suitable protective gloves when required.",
+        "explanation": "These measures reduce exposure to splashes, broken glass and flames."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Possible challenges include an unsafe scene, insufficient equipment, difficulty communicating with an injured person and delayed professional help.",
+        "explanation": "The first aider protects themselves, calls for assistance and works within their training."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Concentrates can corrode drains, react dangerously or pollute water. Follow the laboratory’s waste procedure.",
+        "explanation": "The drain does not treat chemical waste."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "A fume cupboard captures harmful vapours and keeps them away from users.",
+        "explanation": "Local exhaust reduces inhalation exposure."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "An unidentified substance can have unexpected hazards or reactions.",
+        "explanation": "A label establishes identity and handling requirements."
+      },
+      {
+        "label": "6(a)(iv)",
+        "type": "written",
+        "answer": "A whistle can signal for urgent help.",
+        "explanation": "Its sound attracts attention when a voice cannot carry."
+      },
+      {
+        "label": "6(a)(v)",
+        "type": "written",
+        "answer": "Solids have a fixed shape and resist flowing.",
+        "explanation": "Their particles generally vibrate about fixed positions instead of moving past one another."
+      },
+      {
+        "label": "6(c)(i)",
+        "type": "written",
+        "answer": "An outward-opening door makes emergency evacuation easier.",
+        "explanation": "People moving towards the exit need not step back to pull the door open."
+      },
+      {
+        "label": "6(c)(ii)",
+        "type": "written",
+        "answer": "Intact paint separates iron from water and oxygen.",
+        "explanation": "Rusting requires both moisture and oxygen."
+      },
+      {
+        "label": "6(c)(iii)",
+        "type": "written",
+        "answer": "The liquids are miscible and both volatile. A fractionating column improves their separation by repeated vaporisation and condensation.",
+        "explanation": "The vapour is enriched in the more volatile component."
+      },
+      {
+        "label": "6(c)(iv)",
+        "type": "written",
+        "answer": "Many metals lose electrons in reactions and donate them to another species.",
+        "explanation": "An electron donor reduces the recipient while itself being oxidised."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Cooking oil.",
+        "explanation": "The hot oil supplies combustible material."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "A wet-chemical extinguisher rated for cooking-oil fires (class F or K).",
+        "explanation": "It cools the oil and forms a surface layer that helps prevent reignition."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Raise the alarm; evacuate people; call the fire service from safety; isolate heat only if safely accessible. A trained adult may tackle a small contained fire with the rated extinguisher while keeping an escape route.",
+        "explanation": "A large spreading fire calls for evacuation and professional response."
+      },
+      {
+        "label": "7(d)",
+        "type": "written",
+        "answer": "Never throw water on burning oil, never move the burning pan and keep a clear escape route; move away from smoke.",
+        "explanation": "Water can flash to steam and scatter burning oil."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "It gives a hot flame, allows control of heating and can provide a clean non-sooty flame.",
+        "explanation": "The gas flow and air inlet control the flame."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Draw and label the base, gas inlet, nozzle, adjustable collar with air hole, barrel and flame above the barrel.",
+        "explanation": "Show where air mixes with gas before the mixture burns."
+      },
+      {
+        "label": "8(d)",
+        "type": "written",
+        "answer": "ii, iv, i, v, iii.",
+        "explanation": "Symptoms prompt questions, tests provide data, the technician interprets them, and the doctor draws the conclusion."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "A solid has a definite volume; plasma has no definite volume and can expand.",
+        "explanation": "Plasma consists of mobile charged particles."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "In a solid particles vibrate about fixed positions; in plasma particles move freely.",
+        "explanation": "Ionised gas lacks a solid lattice."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "A solid is difficult to compress; plasma is generally much more compressible.",
+        "explanation": "There is much more space between particles in a dilute plasma."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Heating can cause melting and vaporisation; cooling can cause condensation and freezing. At a fixed pressure a pure substance can change phase at constant temperature as latent heat is exchanged.",
+        "explanation": "Energy changes particle arrangement and attractions during a phase transition."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "Matter has mass and occupies space.",
+        "explanation": "Both conditions are required."
+      },
+      {
+        "label": "9(e)",
+        "type": "written",
+        "answer": "A solution is homogeneous, contains molecular or ionic solute, does not settle and passes through ordinary filter paper. A suspension is heterogeneous, contains larger particles, may settle and can usually be separated by filtration.",
+        "explanation": "Particle size accounts for the differences in settling and filtering."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Examples include testing drinking water, developing medicines, making fertilisers, choosing materials for construction, producing soaps for hygiene and monitoring industrial pollution.",
+        "explanation": "Explain each link to society: safer water, treatment of illness, improved crop nutrition, useful buildings, cleanliness and environmental protection."
+      }
+    ]
+  }
+}

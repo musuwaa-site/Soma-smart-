@@ -1,0 +1,172 @@
+{
+  "sourceId": "source-889faaee681eeb5f",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "Mathematics is the study of quantities, shapes, patterns and relationships through logical reasoning.",
+        "explanation": "Award up to four marks for an accurate definition, accepting equivalent wording. Credit an example that clarifies the definition.",
+        "marks": 4
+      },
+      {
+        "label": "1(b)(i)",
+        "type": "written",
+        "answer": "Prepare a budget by adding expenses.",
+        "explanation": "Accept any distinct everyday use explained with an example.",
+        "marks": 2
+      },
+      {
+        "label": "1(b)(ii)",
+        "type": "written",
+        "answer": "Measure ingredients in kilograms or litres.",
+        "explanation": "Accept any distinct everyday use explained with an example.",
+        "marks": 2
+      },
+      {
+        "label": "1(b)(iii)",
+        "type": "written",
+        "answer": "Estimate travel time by dividing distance by average speed.",
+        "explanation": "Accept any distinct everyday use explained with an example.",
+        "marks": 2
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "written",
+        "answer": "Physics: calculate speed from distance and time.",
+        "explanation": "A correct example links a mathematical method to a task in another subject.",
+        "marks": 2
+      },
+      {
+        "label": "2(ii)",
+        "type": "written",
+        "answer": "Geography: convert a map length to ground distance using scale.",
+        "explanation": "A correct example links a mathematical method to a task in another subject.",
+        "marks": 2
+      },
+      {
+        "label": "2(iii)",
+        "type": "written",
+        "answer": "Business: subtract costs from revenue to find profit.",
+        "explanation": "A correct example links a mathematical method to a task in another subject.",
+        "marks": 2
+      },
+      {
+        "label": "2(iv)",
+        "type": "written",
+        "answer": "Chemistry: compare reactant quantities in a ratio.",
+        "explanation": "A correct example links a mathematical method to a task in another subject.",
+        "marks": 2
+      },
+      {
+        "label": "2(v)",
+        "type": "written",
+        "answer": "Biology: use repeated sample counts to estimate abundance.",
+        "explanation": "A correct example links a mathematical method to a task in another subject.",
+        "marks": 2
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Draw a scaled number line and mark the point at positive 5, five units to the right of zero.",
+        "explanation": "Two marks for the consistent scale, one for locating zero and two for correctly marking and labelling 5.",
+        "marks": 5
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Divide the distance between 3 and 4 into four equal parts and mark the third division after 3, at 3¾.",
+        "explanation": "One mark for each labelled endpoint, one for four equal intervals and two for the correct marked point.",
+        "marks": 5
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "x = 1/3 and y = 2/3. Therefore y² = 4/9, while x² + x = 1/9 + 1/3 = 4/9. The two sides are equal.",
+        "explanation": "Two marks per correct conversion, two for the left side, three for the right side and one for the conclusion.",
+        "marks": 10
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Mark −3 and 5 with filled circles and draw the segment between them.",
+        "explanation": "One per correctly placed endpoint, one per filled circle and one for the segment.",
+        "marks": 5
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Mark 2 and 5¼ with open circles and draw the segment between them.",
+        "explanation": "One per correctly placed endpoint, one per open circle and one for the segment.",
+        "marks": 5
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "For w weeks, 500,000 − 40,000w ≥ 200,000, so w ≤ 7.5. She can make seven full weekly withdrawals. Seven leave 220,000 TZS, while eight leave 180,000 TZS.",
+        "explanation": "Three marks for the budget inequality, two for isolating w, one for 7.5, two for the whole-week answer and two for a valid interpretation or check.",
+        "marks": 10
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "x − 2 ≤ −4 or x − 2 ≥ 4. Hence x ≤ −2 or x ≥ 6, including both endpoints.",
+        "explanation": "Four marks for the two branches, four for the two solution bounds and two for including both boundaries in the final answer.",
+        "marks": 10
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Approximation gives a value close to an exact quantity, usually by rounding to a useful level of precision.",
+        "explanation": "Two marks for closeness to the exact value, one for expressing the idea of estimation or rounding and one for a valid example or precision explanation.",
+        "marks": 4
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "For example, estimate the cost of shopping before paying and estimate travel time from distance and average speed.",
+        "explanation": "Three marks per distinct valid use with explanation or an example. Accept other plausible uses.",
+        "marks": 6
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "8.74. The third decimal digit is 5, so the hundredths digit increases from 3 to 4 under the usual school rounding rule.",
+        "explanation": "Two marks for identifying the hundredths and next digit, one for the rounding decision and two for the result.",
+        "marks": 5
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "9,340,000. The ten-thousands digit is 3 and the thousands digit is 5, so round up and replace the lower digits with zeroes.",
+        "explanation": "Two marks for locating the relevant digits, one for the rounding decision and two for the result.",
+        "marks": 5
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "15,248,412 + 18,450,356 = 33,698,768. To the nearest ten thousand, the result is 33,700,000 people.",
+        "explanation": "Four marks for the correct total, two for identifying the rounding place and deciding to round up, and four for the final rounded population, including the carry.",
+        "marks": 10
+      }
+    ]
+  }
+}

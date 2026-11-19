@@ -1,0 +1,448 @@
+{
+  "sourceId": "source-2822d80d7883fb53",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A generous person willingly gives or helps others.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "In spite of being injured means the injury was already present when he scored.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "At noon specifies a time. The other at-phrases identify places.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Almost every Friday indicates a repeated habit.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "An earthquake is a natural event capable of causing a disaster.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Understand normally describes a state, so simple present is natural even for current understanding.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "No water means there was not any water.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Keeping quiet gives the host no notice or explanation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Will not be able expresses inability to attend in the future.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Lesson presentations contain ideas a learner should record.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Synonyms have the same or similar meanings.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "An antonym has an opposite meaning.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Etymology traces the origin and history of a word.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "The right guide word identifies the last entry on the dictionary page.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The word together with its dictionary information is an entry.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "went",
+        "explanation": "Last holiday places the journey in the past."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "was not",
+        "explanation": "The singular subject car takes was; not makes it negative."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "travelled",
+        "explanation": "This completed trip needs the simple past. Traveled is also valid."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "had",
+        "explanation": "Had never been places the lack of previous experience before that trip."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "was",
+        "explanation": "I takes was in this past-tense narrative."
+      },
+      {
+        "label": "3(vi)",
+        "type": "written",
+        "answer": "stood",
+        "explanation": "Stand has the irregular past form stood."
+      },
+      {
+        "label": "3(vii)",
+        "type": "written",
+        "answer": "asked",
+        "explanation": "Asked is a completed action coordinated with stood."
+      },
+      {
+        "label": "3(viii)",
+        "type": "written",
+        "answer": "saw",
+        "explanation": "The past form of see is saw."
+      },
+      {
+        "label": "3(ix)",
+        "type": "written",
+        "answer": "took",
+        "explanation": "The journey took a stated amount of time."
+      },
+      {
+        "label": "3(x)",
+        "type": "written",
+        "answer": "enjoyed",
+        "explanation": "The speaker is recalling a completed experience."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "feeling",
+        "explanation": "Feeling well is the normal expression for being in good health."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "joints",
+        "explanation": "The plural noun agrees with are aching."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "headache",
+        "explanation": "A bad headache can accompany dizziness."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "dizziness",
+        "explanation": "The speaker describes a sensation after the headache."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "stomach-ache",
+        "explanation": "The doctor asks about a different symptom."
+      },
+      {
+        "label": "4(vi)",
+        "type": "written",
+        "answer": "much",
+        "explanation": "Not that much answers a question about food intake."
+      },
+      {
+        "label": "4(vii)",
+        "type": "written",
+        "answer": "nausea",
+        "explanation": "Nausea is a feeling of wanting to vomit."
+      },
+      {
+        "label": "4(viii)",
+        "type": "written",
+        "answer": "vomit",
+        "explanation": "The present-tense verb describes what happens next."
+      },
+      {
+        "label": "4(ix)",
+        "type": "written",
+        "answer": "tests",
+        "explanation": "Doctors conduct tests to help establish a diagnosis."
+      },
+      {
+        "label": "4(x)",
+        "type": "written",
+        "answer": "injection",
+        "explanation": "An injection contrasts with taking a pill."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "I bought a pair of shoes.",
+        "explanation": "Shoes normally come as a pair."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "I bought a set of chairs.",
+        "explanation": "Set describes several chairs sold together."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "I bought a bunch of bananas.",
+        "explanation": "Bunch is conventional for bananas attached together."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "I bought a packet of matchboxes.",
+        "explanation": "Packet can describe several boxes sold in one package."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "I bought a loaf of bread.",
+        "explanation": "Loaf counts a unit of bread."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "I get up early each morning. I brush my teeth before I leave home. At school we line up in the courtyard. The prefect carries out an inspection. We attend assembly before going to class.",
+        "explanation": "The paragraph uses all five prompts in a sequence of two home activities followed by three school activities."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Telephone message. To: Mr Mpenja. From: Headmaster, Amani Secondary School. Message: The Headmaster called while you were out. Please attend the parents’ meeting at school on 8 December at 9:00 a.m. Taken by: Hope.",
+        "explanation": "A usable message identifies the caller and recipient, reports the purpose and meeting details and gives the receiver’s name."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Tanzania has several large rivers, including the Rufiji.",
+        "explanation": "The article names the Rufiji among the country’s large rivers."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Tanzania shares Lake Victoria with neighbouring countries.",
+        "explanation": "Victoria is among the three shared lakes identified."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Tanzania uses water from lakes and rivers for irrigation.",
+        "explanation": "Irrigation is one of the named uses."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Tanzania has populated islands including Pemba.",
+        "explanation": "The article includes Pemba among the islands."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "Tanzania has high mountains such as Kilimanjaro.",
+        "explanation": "Kilimanjaro is one of the mountain examples."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "It opens with Dear Seth.",
+        "explanation": "The writer greets his friend by first name."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "It uses conversational questions.",
+        "explanation": "How are you? is a familiar personal opening."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "It describes family plans.",
+        "explanation": "The trip with an uncle is personal news."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "It speaks directly to the reader.",
+        "explanation": "The writer asks whether Seth would like to travel with him."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "It closes with Yours and the first name Frank.",
+        "explanation": "The informal closing shows a personal relationship."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "In Hawa the Bus Driver, Hawa earns a living as a professional driver. Handling a large passenger vehicle demonstrates skill and responsibility. Doing the job despite assumptions about women challenges the idea that driving is exclusively men’s work. In Mabala the Farmer, Mama Martina works in agriculture to support the family. Her practical knowledge helps her judge the demands of farming more realistically than Mabala does. Her example and advice make her a source of guidance within the household. Both readers therefore portray women as economically active and capable of leadership beyond cooking.",
+        "explanation": "Use three supported points per reader, naming the women and linking their work, skills or influence to the claim. Other accurate examples from the listed readers are valid."
+      }
+    ]
+  }
+}

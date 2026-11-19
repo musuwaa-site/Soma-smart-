@@ -1,0 +1,405 @@
+{
+  "sourceId": "source-8741fd7cb28631b1",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Isolate the electricity safely before touching the casualty.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Lamp spirit is a readily ignitable liquid.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A magnet attracts iron but not sand.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Chemists study the properties and changes of substances.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Closing the air holes restricts air mixing and produces the yellow luminous flame.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Class F covers cooking oils and fats.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A Liebig condenser removes heat from vapour.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The three named products are widely used for care and hygiene.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Particles in solids are packed close together.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Experiments test predictions from a hypothesis.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "A test tube holds small samples for brief heating.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A burette dispenses measured volumes.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "A volumetric pipette delivers a specified volume.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A flask holds and mixes liquids and a suitable flask can be heated.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A beaker can hold liquid and estimate volume using rough graduations.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Evaporation of sweat cools the body, evaporation and condensation recycle water, and freezing helps preserve foods.",
+        "explanation": "Explain the benefit of each named change of state."
+      },
+      {
+        "label": "3(b)1",
+        "type": "written",
+        "answer": "Luminous flame.",
+        "explanation": "Restricted oxygen makes this flame cooler than the blue flame."
+      },
+      {
+        "label": "3(b)2",
+        "type": "written",
+        "answer": "Non-luminous flame.",
+        "explanation": "More complete combustion leaves little soot."
+      },
+      {
+        "label": "3(b)3",
+        "type": "written",
+        "answer": "Luminous flame.",
+        "explanation": "Glowing soot particles produce bright yellow light."
+      },
+      {
+        "label": "3(b)4",
+        "type": "written",
+        "answer": "Non-luminous flame in the school three-zone model.",
+        "explanation": "The model describes an inner unburnt region, a blue reaction cone and an outer burning zone."
+      },
+      {
+        "label": "3(b)5",
+        "type": "written",
+        "answer": "Non-luminous flame.",
+        "explanation": "Open air holes promote mixing with oxygen."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Preserve life, prevent the condition worsening, relieve suffering and support recovery while obtaining professional help.",
+        "explanation": "First aid addresses immediate threats until appropriate care is available."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Cover a wound or apply pressure to bleeding.",
+        "explanation": "Sterile gauze limits contamination."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Protect clean, dry or chafed skin.",
+        "explanation": "Petroleum jelly acts as a moisture barrier; avoid applying it to a fresh burn."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Reduce microorganisms on intact skin as directed.",
+        "explanation": "Antiseptics are intended for appropriate use on living tissue."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Cut tape, dressings or clothing away from an injury.",
+        "explanation": "Blunt-ended scissors reduce the risk of accidental cuts."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Draw arrows solid ⇄ liquid ⇄ gas ⇄ plasma. Label melting/freezing, vaporisation/condensation and ionisation/recombination. Add solid ⇄ gas for sublimation/deposition.",
+        "explanation": "Each forward arrow and its reverse represent different physical processes."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Matter is anything that has mass and occupies space.",
+        "explanation": "A material can be matter in any of the four states."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Draw a fire triangle labelled fuel, oxygen and heat.",
+        "explanation": "Combustion requires all three; removing one interrupts it."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Carbon dioxide (CO₂).",
+        "explanation": "The pressurised gas displaces oxygen near the fire."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Water-based foam concentrate with foaming agents mixed with air.",
+        "explanation": "The foam forms a blanket above the fuel."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "Dry powder such as monoammonium phosphate (ABC) or bicarbonate (BC).",
+        "explanation": "The formulation depends on the extinguisher rating."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Soil pH testing, selecting fertilisers, testing irrigation water and managing pests with suitable controls.",
+        "explanation": "Each application uses chemical knowledge to improve soil, nutrients, water or crop protection."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Physical change.",
+        "explanation": "Cloud droplets coalesce into larger drops; water remains water."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Physical change.",
+        "explanation": "Magnetising rearranges magnetic domains without forming a new substance."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "Chemical change.",
+        "explanation": "Decomposition produces new substances."
+      },
+      {
+        "label": "7(b)(iv)",
+        "type": "written",
+        "answer": "Chemical change.",
+        "explanation": "Acids react with and dissolve tooth minerals."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Na.",
+        "explanation": "Sodium’s symbol comes from natrium."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Fe.",
+        "explanation": "Iron’s symbol comes from ferrum; Ir represents iridium."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "Cl, capital C and lowercase l.",
+        "explanation": "Element symbols use a capital first letter and a lowercase second letter where needed."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "An element consists of atoms with the same proton number.",
+        "explanation": "Chemical methods cannot decompose it into simpler substances."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "A mixture contains two or more substances physically combined in variable proportions.",
+        "explanation": "Its components retain their identities."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Typical metals conduct heat and electricity well and are malleable. Typical non-metals conduct poorly and solid ones are often brittle.",
+        "explanation": "These are general tendencies with exceptions such as graphite."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "A homogeneous mixture has uniform composition and one visible phase. A heterogeneous mixture is non-uniform and has distinct regions or phases.",
+        "explanation": "Salt solution illustrates the first, and sand in water the second."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Painting, oiling, plastic coating, galvanising with zinc and attaching a sacrificial metal can prevent rust.",
+        "explanation": "The first three block air and moisture. Zinc and other more reactive metals can oxidise preferentially to iron."
+      }
+    ]
+  }
+}

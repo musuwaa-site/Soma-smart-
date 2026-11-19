@@ -1,0 +1,280 @@
+{
+  "sourceId": "source-040b48814517ee64",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Applying mobile payments locally is innovation."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A degree and ICT expertise indicate skilled labour."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Business studies integrates management and economics."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Services deliver intangible benefits."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Deferred payment is settlement after purchase."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Teaching, banking and health care are services."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "The concert is the next-best choice forgone."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Vaccination benefits recipients and the community."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A consumer uses outputs; the other options are inputs."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "All three subjects are components of business studies."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "H",
+          "ii": "B",
+          "iii": "G",
+          "iv": "A",
+          "v": "F"
+        },
+        "explanation": "Business supplies customers, land means natural resources, labour provides effort, capital is produced equipment and entrepreneurship organises inputs."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Capital: produced means of production, such as a milling machine.",
+        "explanation": "Capital assists in making other outputs."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Skilled labour: trained work such as electrical installation by a qualified technician.",
+        "explanation": "Specialised knowledge or training is required."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Opportunity cost: the value of the best alternative forgone.",
+        "explanation": "Buying a textbook can mean forgoing a concert."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Direct production: producing for one’s own use, such as growing food to eat.",
+        "explanation": "The output is consumed by its producer."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Marketing",
+        "explanation": "Find and serve customer needs."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Accounting",
+        "explanation": "Record and report financial transactions."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Finance",
+        "explanation": "Obtain and manage funds."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Management",
+        "explanation": "Plan and coordinate people and resources."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Entrepreneurship",
+        "explanation": "Recognise and develop business opportunities."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Use owner savings, a loan, family funding, supplier credit or proceeds from selling an unused asset.",
+        "explanation": "Describe how each provides working capital or reduces the immediate cash needed for stock."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Production supplies useful goods, creates employment, adds value, generates income and supports trade.",
+        "explanation": "For example, milling turns grain into flour and provides jobs and a saleable product."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Geography",
+        "explanation": "Location, transport and resources influence site selection."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Accounting",
+        "explanation": "Records show costs, income and profit."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Mathematics",
+        "explanation": "Percentages and arithmetic support pricing and budgeting."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Agriculture",
+        "explanation": "Farming supplies food and industrial raw materials."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Languages",
+        "explanation": "Communication supports advertising, negotiation and contracts."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Initiative, creativity, calculated risk-taking, persistence and adaptability help entrepreneurs identify and pursue opportunities.",
+        "explanation": "Explain how each quality supports a concrete business decision."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Small farms supply food, employ local workers, generate household income, supply inputs to processors and create demand for transport and trading services.",
+        "explanation": "Relate each benefit to the production and sale of Neema’s tomatoes."
+      }
+    ]
+  }
+}

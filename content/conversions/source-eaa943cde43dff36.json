@@ -1,0 +1,388 @@
+{
+  "sourceId": "source-eaa943cde43dff36",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Biology encompasses the study of living things.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Botany is the study of plants.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Pines are cone-bearing seed plants.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Influenza is caused by a virus.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The broad lamina exposes a large surface to light and air.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "These animals have jointed appendages and an exoskeleton, features of arthropods.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A seed is a reproductive structure; bulbs, corms and rhizomes are modified storage organs.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A cell is the smallest independently functioning unit of living structure.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Mosses trap water and help keep the soil moist.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The objective lens forms the enlarged specimen image; a dirty or damaged lens can make it unclear.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Nematodes are roundworms with unsegmented cylindrical bodies.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Flatworms have a dorsoventrally flattened body.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A chitinous external skeleton characterises arthropods.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Many annelids have chaetae for gripping surfaces.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "A notochord is a defining chordate feature.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3",
+        "type": "written",
+        "answer": "Insects pollinate crops, produce honey, produce silk, decompose organic matter and control crop pests as predators or parasitoids.",
+        "explanation": "For example, bees transfer pollen, silkworms spin silk, and ladybirds eat aphids."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Photosynthesis uses light energy to make sugars from carbon dioxide and water in chlorophyll-containing cells; oxygen is released.",
+        "explanation": "Light energy is converted into chemical energy."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Carbon dioxide and water.",
+        "explanation": "Light and chlorophyll are needed conditions rather than the raw materials."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "It builds food at the base of food chains, stores solar energy, releases oxygen, removes atmospheric carbon dioxide and produces biomass for materials and fuel.",
+        "explanation": "The process supplies organic matter and maintains gases used by living organisms."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Black bread mould (Rhizopus).",
+        "explanation": "Its visible threads are hyphae; the rounded tips bear spores."
+      },
+      {
+        "label": "5(b) Kingdom",
+        "type": "written",
+        "answer": "Fungi.",
+        "explanation": "It obtains nutrients from organic matter rather than photosynthesising."
+      },
+      {
+        "label": "5(b) Phylum",
+        "type": "written",
+        "answer": "Zygomycota in the classification used in this paper.",
+        "explanation": "Rhizopus is the bread mould traditionally placed in this group."
+      },
+      {
+        "label": "5(c) Advantages",
+        "type": "written",
+        "answer": "Fungi decompose dead matter, provide food such as mushrooms, support bread making with yeast, and provide useful medicines such as penicillin.",
+        "explanation": "These examples cover nutrient cycling, nutrition, fermentation and medicine."
+      },
+      {
+        "label": "5(c) Disadvantages",
+        "type": "written",
+        "answer": "Fungi spoil food, cause plant diseases such as rust, and cause human infections such as ringworm.",
+        "explanation": "Distinguish damage to stored food, crops and human health."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Skin.",
+        "explanation": "Touch receptors detect a rough or smooth surface."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Nose.",
+        "explanation": "Olfactory receptors detect volatile substances."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "Ear when listening to the sloshing; skin if feeling vibration by touch.",
+        "explanation": "The relevant organ depends on whether vibration is heard or felt."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Identify the problem; ask a question and gather background information; propose a hypothesis; design and carry out an experiment; collect data; analyse and interpret results; conclude and communicate.",
+        "explanation": "The test produces evidence that can support or contradict the hypothesis."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "A bacterial cell is prokaryotic and lacks a membrane-bound nucleus; an onion cell is eukaryotic and has one.",
+        "explanation": "The nuclear envelope distinguishes the two cell organisations."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "A tissue consists of similar cells performing a task, e.g. muscle tissue. An organ consists of different tissues working together, e.g. the heart.",
+        "explanation": "An organ is a higher level of organisation."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Differentiation is the process by which a cell becomes specialised in structure and function.",
+        "explanation": "A specialised cell develops features suited to its job."
+      },
+      {
+        "label": "7(b)(ii) Plants",
+        "type": "written",
+        "answer": "Root hair cell, guard cell and palisade mesophyll cell.",
+        "explanation": "These respectively absorb water, control stomata and photosynthesise."
+      },
+      {
+        "label": "7(b)(ii) Animals",
+        "type": "written",
+        "answer": "Nerve cell, red blood cell and muscle cell.",
+        "explanation": "These carry signals, transport oxygen and contract."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Typical monocots have one cotyledon, parallel leaf veins and fibrous roots. Typical dicots have two cotyledons, netted veins and a taproot.",
+        "explanation": "Pair each feature with its counterpart in the other group."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Draw a leaf blade attached to a petiole with the midrib running through it; label the lamina, margin, apex, midrib, veins and petiole.",
+        "explanation": "Draw side veins branching from the midrib and use distinct label lines."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "A storage root such as cassava and a stem tuber such as potato.",
+        "explanation": "Both organs can store surplus carbohydrate."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Pathogenic Entamoeba histolytica can cause amoebic dysentery.",
+        "explanation": "It can damage the intestinal lining."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Plasmodium causes malaria.",
+        "explanation": "Its infection of red blood cells contributes to fever and anaemia."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "African trypanosomes can cause sleeping sickness.",
+        "explanation": "The disease can affect the nervous system."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Plant-like: Euglena contains chloroplasts and photosynthesises. Animal-like: it swims using a flagellum and can obtain organic nutrients heterotrophically.",
+        "explanation": "It combines photosynthetic and motile, heterotrophic features."
+      },
+      {
+        "label": "9(c)(i)",
+        "type": "written",
+        "answer": "Viruses are acellular and cannot metabolise or reproduce independently.",
+        "explanation": "They rely on host cells to produce new viral particles."
+      },
+      {
+        "label": "9(c)(ii)",
+        "type": "written",
+        "answer": "Biology also studies fungi, bacteria and protists and processes such as heredity, physiology and ecology.",
+        "explanation": "Its scope includes living systems at many levels."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Bacteria decompose dead matter, fix nitrogen, support food fermentation, help treat sewage and provide useful industrial products. Some also spoil food and cause disease in crops, livestock or people.",
+        "explanation": "Explain each contribution: nitrogen fixation enriches soil; fermentation produces useful foods; decomposition recycles nutrients; spoilage and disease create losses."
+      }
+    ]
+  }
+}

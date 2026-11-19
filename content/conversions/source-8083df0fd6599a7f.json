@@ -1,0 +1,460 @@
+{
+  "sourceId": "source-8083df0fd6599a7f",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Weight is a force obtained from mass and gravitational acceleration."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Each of these is a force measured in newtons."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Tides and flowing water recur naturally, and biogas can be generated from renewable organic matter."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "An unmagnetised iron sample can be attracted; repulsion by a known pole establishes magnetisation."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "At Earth, light from the distant Sun is treated as locally parallel."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Surface tension and adhesion can temporarily support a small water drop."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The main scale reads 62 mm; the remaining 0.3 mm is the vernier contribution."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The constriction holds the mercury column for reading after removal."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "I = 12/120 = 0.1 A."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The image appears behind the mirror and is laterally inverted."
+      },
+      {
+        "label": "1(xi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "V = 150/0.03 = 5,000 cm³."
+      },
+      {
+        "label": "1(xii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Fahrenheit = 9 × 100/5 + 32 = 212."
+      },
+      {
+        "label": "1(xiii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Work transfers energy, so both are measured in joules."
+      },
+      {
+        "label": "1(xiv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Electrons can move between surfaces during rubbing."
+      },
+      {
+        "label": "1(xv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "First aid is immediate care while professional assistance is obtained."
+      },
+      {
+        "label": "1(xvi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The area gives displacement; if motion is one-way this equals distance covered."
+      },
+      {
+        "label": "1(xvii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "MA = 50/10 = 5; efficiency = 100 × 5/15 ≈ 33%."
+      },
+      {
+        "label": "1(xviii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Read the bottom of the concave water meniscus at eye level."
+      },
+      {
+        "label": "1(xix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "An elastic body returns to its original dimensions after unloading within its elastic range."
+      },
+      {
+        "label": "1(xx)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Sugar is sold by mass in units such as kilograms."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "v",
+          "vi",
+          "vii",
+          "viii"
+        ],
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "k",
+          "l",
+          "m",
+          "n"
+        ],
+        "answer": {
+          "i": "a",
+          "ii": "c",
+          "iii": "m",
+          "v": "e",
+          "vi": "l",
+          "vii": "i",
+          "viii": "g"
+        },
+        "explanation": "The intended pairs identify declination, water’s unusual 0–4°C behaviour, a microphone, lunar eclipse, dielectric, manometer, hydrometer and floating objects."
+      },
+      {
+        "label": "2(iv)",
+        "type": "written",
+        "answer": "j or k: lunar eclipse.",
+        "explanation": "Earth blocks sunlight reaching the Moon. The printed choices repeat the same answer twice."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Neutral points.",
+        "explanation": "The magnetic fields cancel vectorially there."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "In the usual integer-ratio symmetric arrangement, n = 360°/θ − 1.",
+        "explanation": "Two inclined mirrors repeatedly reflect their images. Noninteger ratios and off-bisector arrangements require additional conditions."
+      },
+      {
+        "label": "3(c)(i)",
+        "type": "written",
+        "answer": "Wind transferring energy to surface water.",
+        "explanation": "Winds generate most ocean surface waves; wave devices can extract some of this energy."
+      },
+      {
+        "label": "3(c)(ii)",
+        "type": "written",
+        "answer": "Heat energy from within Earth.",
+        "explanation": "Hot rock or steam may provide heat directly or drive a power station."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "The study of electric charges at rest and their effects.",
+        "explanation": "Attraction and repulsion between charged objects are electrostatic phenomena."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Draw a brass cap joined to a vertical brass rod through an insulating stopper. Label the brass plate at the rod’s lower end, the thin gold leaf beside it, and the surrounding earthed metal case.",
+        "explanation": "Charge travels along the conductor to the plate and leaf. The insulating stopper separates it from the case."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "A device that changes the magnitude or direction of a force to make a task easier.",
+        "explanation": "Examples include levers and inclined planes."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Ramp length divided by vertical height.",
+        "explanation": "VR compares the distance moved by the effort with the rise of the load."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "For an ideal block and tackle, the number of rope sections supporting the moving block.",
+        "explanation": "Each section shortens by the distance the load rises."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Liquids are nearly incompressible and transmit an applied pressure through an enclosed system with little volume change.",
+        "explanation": "A gas would compress substantially and absorb some of the input displacement instead of moving the load directly."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Current is proportional to potential difference across an ohmic conductor at constant temperature and physical conditions.",
+        "explanation": "The proportionality is expressed as V = IR with constant R."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "8/3 A ≈ 2.67 A.",
+        "explanation": "I = V/R = 8/3, assuming negligible internal and lead resistance."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "The point at which the resultant weight of a body can be treated as acting.",
+        "explanation": "It determines the gravitational moment about a pivot."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Draw a horizontal 50 cm rule, a downward 40 g mass weight at 2 cm, upward pivot reaction at 15 cm and rule weight down at 25 cm.",
+        "explanation": "The uniform rule’s centre lies at its midpoint. Label the arms 13 cm and 10 cm."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "52 g.",
+        "explanation": "Taking moments about 15 cm: 40 × 13 = m × 10."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Let T be the initial acceleration time printed as “?”. Join (0,0), (T,20), (T+20,20), (T+30,0) on velocity versus time axes.",
+        "explanation": "Straight slopes describe uniform changes; the middle segment is horizontal."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "20/T m/s². If the intended duration is 2 s, this is 10 m/s².",
+        "explanation": "Divide the velocity gain of 20 m/s by the acceleration time."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Deceleration magnitude 2 m/s².",
+        "explanation": "The speed drops by 20 m/s in 10 s."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "10T + 500 m. If T = 2 s, the distance is 520 m.",
+        "explanation": "Sum the two triangular areas and the rectangular area under the velocity–time graph."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "The capacity to do work.",
+        "explanation": "Energy can be stored or transferred and is measured in joules."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Energy is conserved: total energy in an isolated system remains constant as it changes form.",
+        "explanation": "A decrease in one store is balanced by an increase in another or a transfer across the system boundary."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "2,000 J.",
+        "explanation": "W = Fd = 200 × 10 for force parallel to displacement."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "A body partly or fully immersed in a fluid experiences an upthrust equal to the weight of displaced fluid.",
+        "explanation": "The pressure difference between its lower and upper surfaces produces this net upward force."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "250 cm³.",
+        "explanation": "The buoyant force is 2 N, equivalent to the weight of 200 g of displaced fluid. Volume = 200/0.8."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "4 g/cm³ or 4,000 kg/m³.",
+        "explanation": "Body mass = 10/10 = 1 kg. Its submerged volume is 250 cm³, so density = 1,000/250 g/cm³."
+      }
+    ]
+  }
+}

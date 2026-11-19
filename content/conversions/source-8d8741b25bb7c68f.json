@@ -1,0 +1,491 @@
+{
+  "sourceId": "source-8d8741b25bb7c68f",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Pedology examines soil formation, properties and distribution."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Climatology studies long-term atmospheric conditions, part of physical geography."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Spiral, elliptical and irregular are familiar galaxy classes; regular is not a class in this list."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Geography uses concepts and methods from both natural and social sciences."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The Southern Hemisphere has much more ocean surface than land."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Venus has a dense carbon dioxide atmosphere that traps heat."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Demography studies the size, composition and distribution of populations."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Antarctica has research stations but no permanent native population."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Oceans cover approximately 71% of Earth’s surface."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Apparent size depends on distance. The Sun is the nearest star."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "E",
+          "ii": "A",
+          "iii": "B",
+          "iv": "F",
+          "v": "C"
+        },
+        "explanation": "A meteor is a visible streak in the sky; a meteorite is material that reaches the ground. The Moon is a natural satellite, asteroids occur in the main belt, and planets orbit the Sun."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Study of places, environments and spatial relationships, including how people interact with nature.",
+        "explanation": "Geographers ask where phenomena occur and why."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "The branch studying natural features and processes on Earth.",
+        "explanation": "Examples include landforms, rivers, weather and soils."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "The curved path of one body around another under gravity.",
+        "explanation": "Earth follows an approximately elliptical orbit around the Sun."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "The third planet from the Sun and the planet where we live.",
+        "explanation": "Earth has a rocky surface, liquid water and an atmosphere."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "The surroundings and conditions in which organisms live.",
+        "explanation": "Living and non-living components both affect organisms."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Solar nebular hypothesis — Kant and Laplace.",
+        "explanation": "Planets form from material in a rotating disc around a young star."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Planetesimal hypothesis — Chamberlin and Moulton.",
+        "explanation": "This historical model proposed that small bodies accumulated into planets."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Tidal hypothesis — Jeans and Jeffreys.",
+        "explanation": "This historical proposal invoked a close stellar encounter."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "Interstellar dust hypothesis — Otto Schmidt.",
+        "explanation": "This historical account proposed that captured dust accumulated into planets."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Big Bang theory.",
+        "explanation": "It describes expansion of the universe from an early hot, dense state."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "It does not explain why the earliest conditions existed or directly explain how Earth formed.",
+        "explanation": "Planet formation occurred much later and requires additional models."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Mathematics",
+        "explanation": "Geography draws on this discipline to calculate map scales and distances."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Geology",
+        "explanation": "Geography draws on this discipline to relate rocks to landform development."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Biology",
+        "explanation": "Geography draws on this discipline to relate vegetation patterns to climate."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Economics",
+        "explanation": "Geography draws on this discipline to analyse the location of industries."
+      },
+      {
+        "label": "5(a)(v)",
+        "type": "written",
+        "answer": "Physics",
+        "explanation": "Geography draws on this discipline to explain atmospheric pressure and winds."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "Mathematics helps geographers calculate map scales and distances.",
+        "explanation": "A specific use demonstrates the connection between the two disciplines."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Geology helps geographers relate rocks to landform development.",
+        "explanation": "A specific use demonstrates the connection between the two disciplines."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Biology helps geographers relate vegetation patterns to climate.",
+        "explanation": "A specific use demonstrates the connection between the two disciplines."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "Economics helps geographers analyse the location of industries.",
+        "explanation": "A specific use demonstrates the connection between the two disciplines."
+      },
+      {
+        "label": "5(b)(v)",
+        "type": "written",
+        "answer": "Physics helps geographers explain atmospheric pressure and winds.",
+        "explanation": "A specific use demonstrates the connection between the two disciplines."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "The Sun and the objects gravitationally bound to it.",
+        "explanation": "These include planets, moons, asteroids and comets."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Mercury",
+        "explanation": "Mercury is planet number 1 counting outward from the Sun."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Venus",
+        "explanation": "Venus is planet number 2 counting outward from the Sun."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "Earth",
+        "explanation": "Earth is planet number 3 counting outward from the Sun."
+      },
+      {
+        "label": "6(b)(iv)",
+        "type": "written",
+        "answer": "Mars",
+        "explanation": "Mars is planet number 4 counting outward from the Sun."
+      },
+      {
+        "label": "6(b)(v)",
+        "type": "written",
+        "answer": "Jupiter",
+        "explanation": "Jupiter is planet number 5 counting outward from the Sun."
+      },
+      {
+        "label": "6(b)(vi)",
+        "type": "written",
+        "answer": "Saturn",
+        "explanation": "Saturn is planet number 6 counting outward from the Sun."
+      },
+      {
+        "label": "6(b)(vii)",
+        "type": "written",
+        "answer": "Uranus",
+        "explanation": "Uranus is planet number 7 counting outward from the Sun."
+      },
+      {
+        "label": "6(b)(viii)",
+        "type": "written",
+        "answer": "Neptune",
+        "explanation": "Neptune is planet number 8 counting outward from the Sun."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "Interpret maps.",
+        "explanation": "Map skills support route finding."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Plan settlements.",
+        "explanation": "Relief, transport and hazards affect site choice."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "Manage resources.",
+        "explanation": "Distribution and renewal rates influence sustainable use."
+      },
+      {
+        "label": "7(a)(iv)",
+        "type": "written",
+        "answer": "Understand environmental problems.",
+        "explanation": "Field evidence helps explain erosion and pollution."
+      },
+      {
+        "label": "7(a)(v)",
+        "type": "written",
+        "answer": "Prepare for geography-related work.",
+        "explanation": "Surveying and planning use spatial data."
+      },
+      {
+        "label": "7(c)(i)",
+        "type": "written",
+        "answer": "Geology",
+        "explanation": "Rock properties help explain landforms."
+      },
+      {
+        "label": "7(c)(ii)",
+        "type": "written",
+        "answer": "Meteorology",
+        "explanation": "Weather observations explain atmospheric patterns."
+      },
+      {
+        "label": "7(c)(iii)",
+        "type": "written",
+        "answer": "Pedology",
+        "explanation": "Soil surveys identify soil distribution and fertility."
+      },
+      {
+        "label": "7(c)(iv)",
+        "type": "written",
+        "answer": "Demography",
+        "explanation": "Population data describe settlements and migration."
+      },
+      {
+        "label": "7(c)(v)",
+        "type": "written",
+        "answer": "Cartography",
+        "explanation": "Mapmaking techniques represent location and scale."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Liquid water",
+        "explanation": "Water provides a medium for biochemical reactions."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Moderate temperatures",
+        "explanation": "Much of the surface remains within a range compatible with life."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "Atmosphere",
+        "explanation": "The atmosphere supplies gases required by many organisms."
+      },
+      {
+        "label": "8(a)(iv)",
+        "type": "written",
+        "answer": "Solar energy",
+        "explanation": "Light powers photosynthesis and food webs."
+      },
+      {
+        "label": "8(a)(v)",
+        "type": "written",
+        "answer": "Essential chemical nutrients",
+        "explanation": "Rocks, soils and oceans supply elements used by living cells."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Climate change",
+        "explanation": "Warming changes rainfall patterns and sea levels."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Deforestation",
+        "explanation": "Tree loss destroys habitat and increases erosion."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "Pollution",
+        "explanation": "Waste can contaminate soil, water and air."
+      },
+      {
+        "label": "8(b)(iv)",
+        "type": "written",
+        "answer": "Resource depletion",
+        "explanation": "Extraction can outpace natural replenishment."
+      },
+      {
+        "label": "8(b)(v)",
+        "type": "written",
+        "answer": "Biodiversity loss",
+        "explanation": "Extinctions reduce ecosystem resilience."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "A lunar eclipse occurs when the Moon moves through Earth’s shadow.",
+        "explanation": "This requires approximate alignment with Earth between the Sun and full Moon."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Draw Sun → Earth → Moon, light rays passing Earth and a shadow cone reaching the Moon. Label the three bodies and Earth’s shadow.",
+        "explanation": "In a lunar eclipse it is the Moon, rather than Earth, that enters the shadow."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Illustrate five observations: Earth’s circular shadow in lunar eclipses; a departing ship’s hull disappearing first; circumnavigation; different stars visible at different latitudes; and satellite photographs showing a globe. Label each sketch and explain the observation.",
+        "explanation": "These observations support a curved Earth. Measurements show its equatorial radius is slightly larger than its polar radius."
+      }
+    ]
+  }
+}

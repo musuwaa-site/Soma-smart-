@@ -1,0 +1,151 @@
+{
+  "sourceId": "source-56bb7e30744c8188",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "Mathematics studies numbers, quantities, patterns, shapes and their relationships using logical reasoning.",
+        "explanation": "It includes algebraic, numerical and geometric problems."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "Count goods, measure ingredients, compare prices, estimate journey time and interpret weather graphs.",
+        "explanation": "Each skill helps turn numerical information into a practical decision. Accept five relevant examples with explanations."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)",
+        "type": "written",
+        "answer": "−6/35.",
+        "explanation": "The numerator is −6; the denominator is (23 − 16)(9 − 4) = 35."
+      },
+      {
+        "label": "2(b)",
+        "type": "written",
+        "answer": "a = 5, b = 55 and c = 333 in lowest terms.",
+        "explanation": "The repeating block is 165. Subtract its decimal from 1,000 times itself to obtain the fraction 165/999 = 55/333."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "<.",
+        "explanation": "−26 lies to the left of −14 on a number line."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "<.",
+        "explanation": "Multiplication by a negative reverses a strict inequality."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "Use open endpoints at −1 and 1/2; shade left of −1 and right of 1/2.",
+        "explanation": "The word “or” combines the two disjoint intervals."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "Shade [−6,−2], using filled circles at both endpoints.",
+        "explanation": "Both inequalities must hold, and both permit equality."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "7/12.",
+        "explanation": "Take the absolute value of (5/2)(7/8)(−4/15) = −7/12."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "About 100 bags per farmer.",
+        "explanation": "Round 40,376 to 40,000 and 392 to 400 before dividing."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "A:B:C = 6:10:7; A:C = 6:7.",
+        "explanation": "Double the first ratio to match A = 6 in the second ratio."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "36 oranges.",
+        "explanation": "Mwakareli exceeds Mwalongo by one part of the 4:5 ratio, so Mwalongo has 84. Mwambene has 3/7 of 84."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "5.89 cm.",
+        "explanation": "One map centimetre represents 100 km on the ground; divide 589 by 100."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "10/15 (equivalent to 2/3).",
+        "explanation": "With original numerator n, solve (n − 4)/(n + 5) = 2/5 to get n = 10."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "x = 23/19.",
+        "explanation": "Multiply by 6 to get 30x − 2(x − 2) = 30 + 3(3x − 1). Collect terms to get 19x = 23."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "x = 0 and y = 1.",
+        "explanation": "Multiply the first equation by 2 and the second by 3, then add to eliminate y. The result forces x = 0."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "TSh 3,400.",
+        "explanation": "Let a and b be the prices: 4a + 5b = 6000, 6a + 8b = 9400. Elimination gives b = 800 and a = 500; use 2a + 3b."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "x = 260/11.",
+        "explanation": "The four interior angles total 360°. Combining the printed expressions gives 11x + 100 = 360."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "If the second total means TSh 24,000, the costs are TSh 400 for markers and TSh 1,000 for correction fluid per box. Reading the printed 24,0000 as 240,000 gives a negative marker price and no physically possible answer.",
+        "explanation": "The orders differ by 40 boxes of markers. Subtract the second total from the first and divide by 40 to find the marker price; substitute to obtain the other price."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "Mark 0 and 10/3 on the number line.",
+        "explanation": "Equal absolute values require x − 5 = 5 − 2x or x − 5 = 2x − 5."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Mark −5 and 10 on the number line.",
+        "explanation": "The left side is 15. Solve 2x − 5 = 15 or −15."
+      }
+    ]
+  }
+}

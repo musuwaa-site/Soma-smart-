@@ -1,0 +1,285 @@
+{
+  "sourceId": "source-dc990931c03b742e",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Creativity helps identify new products and solutions."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A sole trader owns the enterprise individually."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A sole trader often supplies capital from personal savings."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Economic goods are scarce and command a price."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The final user consumes the good or service."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Buying used clothes for resale at a profit is commercial activity."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "BRELA handles business-name registration in mainland Tanzania."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Starting a salon involves organising resources and assuming risk."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Entrepreneurship creates output and employment."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "One owner can establish the business and make decisions directly."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "A",
+          "ii": "E",
+          "iii": "F",
+          "iv": "B",
+          "v": "C"
+        },
+        "explanation": "Opportunity cost is the forgone alternative; distribution moves goods; exchange changes ownership; production creates output; goods are tangible items."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Scarcity is limited resources relative to wants.",
+        "explanation": "It makes choice necessary."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Needs are essentials for life, such as food and shelter.",
+        "explanation": "Going without them threatens basic well-being."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Wants are desired goods or services beyond essentials.",
+        "explanation": "Their satisfaction adds comfort or enjoyment."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "Business involves supplying goods or services, normally to earn profit.",
+        "explanation": "The firm serves customers and receives income."
+      },
+      {
+        "label": "3(e)",
+        "type": "written",
+        "answer": "Services are intangible activities meeting needs, such as teaching.",
+        "explanation": "The benefit comes from work performed."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Free goods",
+        "explanation": "Sunlight and naturally available air ordinarily have no purchase price."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Demerit goods",
+        "explanation": "Consumption can impose harmful health and social costs."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Producer goods",
+        "explanation": "Machines and raw materials serve as inputs."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Perishable goods",
+        "explanation": "Fresh produce and milk spoil quickly."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Merit goods",
+        "explanation": "Education, health and clean water generate wider social benefits."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Land includes timber and the workshop site; labour includes carpenters; capital includes saws and benches; entrepreneurship coordinates inputs and takes business risks.",
+        "explanation": "A furniture workshop requires natural resources, human effort, produced tools and management."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Waste accumulation → paid collection; poor transport → bicycle taxi; food shortage → affordable meals; plastic litter → recycling; unreliable lighting → solar lamp sales.",
+        "explanation": "Each business opportunity offers a service for which affected households may pay."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Budgeting controls costs; marketing attracts customers; communication helps negotiate; leadership coordinates staff; self-discipline supports reliable delivery.",
+        "explanation": "Explain the practical effect of each skill on a venture."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Packaged locally roasted groundnuts in sealed 100 g bags.",
+        "explanation": "Identify a product and a distinguishing feature."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Commuters and workers seeking a portable snack.",
+        "explanation": "The product meets a specific customer need."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "For example, TZS 500–1,000 per bag, subject to local costs.",
+        "explanation": "A workable range covers costs and stays competitive."
+      },
+      {
+        "label": "8(d)",
+        "type": "written",
+        "answer": "Nearby groundnut vendors and sellers of competing packaged snacks.",
+        "explanation": "Competitors target the same customer need."
+      },
+      {
+        "label": "8(e)",
+        "type": "written",
+        "answer": "Offer samples at the market and display prices clearly.",
+        "explanation": "Sampling introduces the product to potential customers."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "A sole proprietor faces unlimited liability, limited capital, a heavy workload, reliance on one person’s skills and poor continuity if the owner becomes ill.",
+        "explanation": "Sole ownership concentrates finance, management and risk in one person."
+      }
+    ]
+  }
+}

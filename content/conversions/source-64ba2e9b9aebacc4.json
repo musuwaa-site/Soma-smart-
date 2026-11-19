@@ -1,0 +1,433 @@
+{
+  "sourceId": "source-64ba2e9b9aebacc4",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Zoology studies animals.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Nutrition involves obtaining and using nutrients.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "An aquarium is for aquatic organisms.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Magnification makes cellular detail visible.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Fine adjustment moves the optical system in small increments.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Different species cannot normally produce fertile offspring together.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Biology supports understanding and conservation of nature.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A variable can change between trials.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Sociology focuses on human social life; the other subjects directly apply biological knowledge.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A virus has genetic material enclosed in a protein coat.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "A fish net scoops aquatic organisms.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "A dissecting kit contains the relevant instruments.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A spatula transfers powders.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "J",
+        "explanation": "A mounting needle can position delicate specimens.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A pooter collects small insects.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Typical owl cells lack a wall and plastids, lack a large central vacuole, have a flexible outline and may store glycogen. Onion bulb cells have a cellulose wall, non-green plastids, a large vacuole, a more regular outline and store plant carbohydrates rather than glycogen.",
+        "explanation": "Compare bulb tissue with animal cells; underground onion bulb cells usually lack visible chloroplasts."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "A cell is the basic structural and functional unit of living organisms.",
+        "explanation": "It carries out life processes."
+      },
+      {
+        "label": "3(c)A",
+        "type": "written",
+        "answer": "The cell loses its main genetic control centre and normal division is impaired.",
+        "explanation": "Nuclear DNA directs gene expression."
+      },
+      {
+        "label": "3(c)B",
+        "type": "written",
+        "answer": "Loss of all mitochondria greatly reduces aerobic ATP production.",
+        "explanation": "Most aerobic energy transfer occurs there."
+      },
+      {
+        "label": "3(c)C",
+        "type": "written",
+        "answer": "Many metabolic reactions cease and organelles lose their supporting medium.",
+        "explanation": "The cytoplasm contains enzymes and dissolved reactants."
+      },
+      {
+        "label": "3(c)D",
+        "type": "written",
+        "answer": "The contents leak and the cell loses control of exchange with its surroundings.",
+        "explanation": "The membrane is a selectively permeable boundary."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Veterinary medicine and entomology.",
+        "explanation": "Knowledge of the tsetse fly and its role in disease informs cattle protection."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Environmental conservation and ecology.",
+        "explanation": "Protecting vegetation and the catchment helps maintain stream flow."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "Medicine, particularly orthopaedics and anatomy.",
+        "explanation": "Knowledge of bones helps diagnose and treat fractures."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Trees absorb CO₂, protect soil from erosion, provide wildlife habitats and shade the land.",
+        "explanation": "Roots bind soil and canopies reduce the force of rainfall."
+      }
+    ],
+    "5": [
+      {
+        "label": "5I",
+        "type": "written",
+        "answer": "A biology laboratory is a specially equipped place for practical study of living things.",
+        "explanation": "It provides suitable specimens, apparatus and working conditions."
+      },
+      {
+        "label": "5II",
+        "type": "written",
+        "answer": "Biology is the scientific study of life and living organisms.",
+        "explanation": "It encompasses their structures, functions and interactions."
+      },
+      {
+        "label": "5III",
+        "type": "written",
+        "answer": "Binomial nomenclature gives a species a two-part scientific name.",
+        "explanation": "The two parts are the genus and species epithet."
+      },
+      {
+        "label": "5IV",
+        "type": "written",
+        "answer": "A microscope is an instrument for magnifying small objects and resolving detail.",
+        "explanation": "It permits study of structures invisible to the unaided eye."
+      },
+      {
+        "label": "5V",
+        "type": "written",
+        "answer": "Cell differentiation is development of specialised cell structure and function.",
+        "explanation": "It results in cell types adapted to different tasks."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "To observe specimens, carry out practical investigations safely and develop skills with specialised apparatus.",
+        "explanation": "Practical work tests ideas against observations."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "Food or drink may be contaminated by laboratory substances.",
+        "explanation": "Keeping it outside prevents accidental ingestion."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "Ventilation provides fresh air and helps remove stale air.",
+        "explanation": "Specific hazardous fumes require suitable local exhaust."
+      },
+      {
+        "label": "6(b)(iii)",
+        "type": "written",
+        "answer": "A first-aid kit provides supplies for immediate care following an accident.",
+        "explanation": "Prompt care can limit injury while help is obtained."
+      },
+      {
+        "label": "6(b)(iv)",
+        "type": "written",
+        "answer": "The laboratory provides specimens and instruments for direct investigation.",
+        "explanation": "Practical lessons connect theory to evidence."
+      },
+      {
+        "label": "6(b)(v)",
+        "type": "written",
+        "answer": "Most individual cells are too small to resolve with the unaided eye.",
+        "explanation": "A microscope provides magnification and resolution."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "Use two Latin or Latinised words, capitalise the genus, lowercase the species epithet, and italicise the words in print or underline each separately by hand.",
+        "explanation": "These rules distinguish the name consistently across languages."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Biology helps people understand health and hygiene, choose a balanced diet, improve crops and livestock, conserve ecosystems and prepare for healthcare or agricultural careers.",
+        "explanation": "Each reason applies knowledge of living organisms to a concrete need."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Monera, Protoctista, Fungi, Plantae and Animalia.",
+        "explanation": "These are the five kingdoms in the classification used by the paper."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "The scientific method is a systematic process of observation, testing and reasoning to investigate questions.",
+        "explanation": "Conclusions must be open to checking against evidence."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Identify a problem, gather information, state a hypothesis, design and conduct a test, record observations, analyse the results and draw and communicate a conclusion.",
+        "explanation": "The conclusion must be based on the evidence collected."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Bread mould.",
+        "explanation": "Common black bread mould belongs to Rhizopus."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "Zygomycota in the classification used in this paper.",
+        "explanation": "Rhizopus is the bread mould traditionally placed in this group."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Fungi.",
+        "explanation": "It obtains nutrients from organic matter rather than photosynthesising."
+      },
+      {
+        "label": "9(d)",
+        "type": "written",
+        "answer": "Fungi decompose dead matter, provide edible mushrooms, ferment dough, help produce cheese and provide antibiotics.",
+        "explanation": "Different species have different ecological and commercial roles."
+      }
+    ],
+    "10": [
+      {
+        "label": "10 Introduction",
+        "type": "written",
+        "answer": "Bacteria are microscopic, single-celled prokaryotes found in many habitats.",
+        "explanation": "Introduce their diversity before discussing effects."
+      },
+      {
+        "label": "10 Merits",
+        "type": "written",
+        "answer": "Bacteria decompose dead material, fix nitrogen for plants and ferment foods such as yoghurt.",
+        "explanation": "Explain the benefits to nutrient cycling, soil fertility and food production."
+      },
+      {
+        "label": "10 Demerits",
+        "type": "written",
+        "answer": "Some bacteria cause human disease, cause crop disease and spoil food.",
+        "explanation": "Harm depends on the species; many bacteria live harmlessly or benefit hosts."
+      }
+    ]
+  }
+}

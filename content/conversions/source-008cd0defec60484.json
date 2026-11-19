@@ -1,0 +1,163 @@
+{
+  "sourceId": "source-008cd0defec60484",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "Multiples of 4: 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48. Multiples of 5: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60. Common entries: 20, 40.",
+        "explanation": "List 4n and 5n for n = 1 to 12 and look for shared entries."
+      },
+      {
+        "label": "1(b)(i)",
+        "type": "written",
+        "answer": "0.06.",
+        "explanation": "2/25 × 0.737 = 0.05896. For one significant figure, round the 5 upwards."
+      },
+      {
+        "label": "1(b)(ii)",
+        "type": "written",
+        "answer": "0.059.",
+        "explanation": "Round the thousandths digit of 0.05896 using the fourth decimal digit, 9."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)",
+        "type": "written",
+        "answer": "3/8, 5/9, 4/7, 2/3.",
+        "explanation": "Their respective decimals are approximately 0.375, 0.556, 0.571 and 0.667."
+      },
+      {
+        "label": "2(b)",
+        "type": "written",
+        "answer": "3,024 people.",
+        "explanation": "8% of 2,800 is 224. Add this increase to the original population."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "40,000 kg per school.",
+        "explanation": "1,000 tonnes is 1,000,000 kg; divide by 25."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Profit Sh 16,000; selling price Sh 96,000.",
+        "explanation": "Profit equals 0.20 × 80,000. The selling price includes cost plus profit."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "a = 40°, b = 120°, c = 140°.",
+        "explanation": "The two bases are parallel. The corresponding angle at C is 40°, and adjacent interior angles at each leg are supplementary."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Perimeter 20 m; area 25 m².",
+        "explanation": "A square of side 5 has four sides of length 5 and area 5 × 5."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "y = 5.88 (3 significant figures).",
+        "explanation": "Cross multiplying gives 6(6y + 1) = 20(y + 5), hence 16y = 94 and y = 5.875."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "x = 3 or −2/3.",
+        "explanation": "Divide by 3, transpose the constant and complete the square: (x − 7/6)² = 121/36."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "−7/4.",
+        "explanation": "Divide the vertical change −5 − 2 by the horizontal change 3 − (−1)."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Reflection in x-axis: (−3,−7); in y-axis: (3,7). Successive reflections in both axes: (3,−7).",
+        "explanation": "Reflection changes the sign of the coordinate perpendicular to its mirror axis."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "n = 14/3.",
+        "explanation": "Express 16 as 2⁴. Comparing exponents gives 4(3 − n) + (1 + n) = −1, so 3n = 14."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "x = −2 or 2.",
+        "explanation": "Combine the left logarithms: 4(2x² + 1) = 7x² + 8. This gives x² = 4; both signs give positive log arguments."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "AE = 3.6 cm.",
+        "explanation": "Parallel lines give similar triangles ADE and ABC. AD/AB = 3/(3 + 5), so AE = 9.6 × 3/8."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Angles ABD and ACD are equal.",
+        "explanation": "AB = AC, BD = CD and AD is common; triangles ABD and ACD are congruent by SSS."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "37.3 m.",
+        "explanation": "Height is opposite the 25° angle and the 80 m horizontal distance is adjacent, so multiply 80 by tan 25°."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "10 m.",
+        "explanation": "BC is the hypotenuse; its square equals 6² + 8² = 100."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "460 students.",
+        "explanation": "Count those present at least once as 250 + 350 − 150 = 450, then add the 10 absent both days."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "7/12.",
+        "explanation": "Kiswahili occupies 210° of the full 360°."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "33⅓%.",
+        "explanation": "120/360 of the circle equals one third."
+      },
+      {
+        "label": "10(b)(iii)",
+        "type": "written",
+        "answer": "41⅔%.",
+        "explanation": "Mathematics and Chemistry together span 120° + 30° = 150°; compute 150/360 × 100%."
+      }
+    ]
+  }
+}

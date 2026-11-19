@@ -37,7 +37,7 @@ async function openApp(hash, expectedText) {
   const controls = new Map();
   const document = { querySelector: node, querySelectorAll: selector => controls.get(selector) || [], createElement: () => ({relList: {supports: () => true}}) };
   runInNewContext(bundle, {
-    document, location, crypto: webcrypto, navigator: {}, window: { addEventListener: (k, cb) => handlers.set(k, cb), scrollTo() {} },
+    document, location, confirm: () => true, crypto: webcrypto, navigator: {}, window: { addEventListener: (k, cb) => handlers.set(k, cb), scrollTo() {} },
     indexedDB: {open() {
       const request = { result: db };
       queueMicrotask(() => request.onsuccess());
@@ -136,9 +136,33 @@ assert.equal(app.location.hash, '#/exams/attempt');
 await app.render();
 assert(app.node('#app').innerHTML.includes('Check each answer'));
 const selfCheck = indexed.find(d => !d.interactivePaperId);
+if (selfCheck) {
 app.location.hash = '#/paper/' + selfCheck.id;
 await app.render();
 assert.equal(app.location.hash, base(selfCheck.id));
 await app.render();
 assert(app.node('#app').innerHTML.includes('Review at the end'));
+}
 console.log('Paper links enter scored or self-check practice directly.');
+
+local.delete('draft');
+app = await openApp('#/exams', 'Exam dashboard');
+let opened = 0;
+for (const doc of documents.filter(doc => doc.interactivePaperId)) {
+  app.location.hash = '#/paper/' + doc.id;
+  await app.render();
+  const saved = local.get('draft');
+  assert.equal(saved.questions[0].paperId,doc.interactivePaperId);
+  const choice = {dataset:{mode:'immediate'}};
+  app.controls.set('[data-mode]', [choice]);
+  await app.render();
+  await choice.onclick();
+  const html = app.node('#app').innerHTML;
+  for (const question of saved.questions) {
+    const control = question.type === 'matching' ? 'data-match' : 'data-answer';
+    assert(html.includes(control + '="' + question.id + '"'), question.id);
+  }
+  await app.node('#discard').onclick();
+  opened++;
+}
+console.log('Opened', opened, 'papers and found an individual answer control for every included item.');

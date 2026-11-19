@@ -1,0 +1,271 @@
+{
+  "sourceId": "source-71fb156d9c45fb57",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "0",
+        "explanation": "A quarter of 24 is 6, so subtract 6 from 6."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "−7",
+        "explanation": "Start at −4 on the number line and move three units left."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)",
+        "type": "written",
+        "answer": "7 29/30",
+        "explanation": "The fractional parts in thirtieths are 20/30 + 15/30 + 24/30 = 59/30. Add the six whole units."
+      },
+      {
+        "label": "2(b)",
+        "type": "written",
+        "answer": "n = −4",
+        "explanation": "Move the decimal four places right to obtain 7.01, then multiply by 10⁻⁴."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "9,876,531",
+        "explanation": "Arrange all seven digits in decreasing order."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "1,356,789",
+        "explanation": "Arrange the digits in increasing order."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "480,000 cm",
+        "explanation": "4 km and 8 hm total 4,800 m. Each metre is 100 cm."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "86,400 s",
+        "explanation": "Multiply 24 by 60 minutes per hour and 60 seconds per minute."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "−0.2219",
+        "explanation": "log(0.6) = log 2 + log 3 − log 10 = 0.3010 + 0.4771 − 1."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "35,990,000",
+        "explanation": "The thousands digit is 6, so round the ten-thousands digit up."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "52°",
+        "explanation": "Supplementary and corresponding angles give z = 70°, x + y = 70° and 2x − 3y = 110°. Thus x = 64° and 3x − 2z = 52°."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "90°",
+        "explanation": "Substitute y = 6° and z = 70° into y/2 + z + 17°."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "6",
+        "explanation": "Substitute A = 3 and B = 2 into AB + 3B − 2A."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "15/4",
+        "explanation": "5x + 3x − 10 = 20, so 8x = 30."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "b = 6",
+        "explanation": "At (0,2) the equation becomes 2b = 12."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Fatma Tsh 300,000; David Tsh 500,000; Sameera Tsh 700,000.",
+        "explanation": "The fifteen equal parts are worth Tsh 100,000 each. Multiply by 3, 5 and 7 respectively."
+      }
+    ],
+    "11": [
+      {
+        "label": "11(a)",
+        "type": "written",
+        "answer": "(2√3 − √2)/5",
+        "explanation": "Multiply numerator and denominator by 2√3 − √2. The denominator becomes 12 − 2 = 10."
+      },
+      {
+        "label": "11(b)",
+        "type": "written",
+        "answer": "P = (3, 2)",
+        "explanation": "Set −2x/3 + 4 equal to 3x − 7. Solving gives x = 3 and y = 2."
+      }
+    ],
+    "12": [
+      {
+        "label": "12(a)",
+        "type": "written",
+        "answer": "A:C = r:2",
+        "explanation": "πr² divided by 2πr equals r/2."
+      },
+      {
+        "label": "12(b)",
+        "type": "written",
+        "answer": "22/7",
+        "explanation": "Reduce the fraction 44/14 by dividing both numbers by 2."
+      }
+    ],
+    "13": [
+      {
+        "label": "13",
+        "type": "written",
+        "answer": "196.9408 litres",
+        "explanation": "The depth is 80 cm. The volume is 3.14 × 28² × 80 cm³. Divide by 1,000."
+      }
+    ],
+    "14": [
+      {
+        "label": "14",
+        "type": "written",
+        "answer": "2ab(3a − c)(3a + c)",
+        "explanation": "Take out 2ab and factor the remaining difference of squares."
+      }
+    ],
+    "15": [
+      {
+        "label": "15",
+        "type": "written",
+        "answer": "The equation gives x + 3y = 5 + log₃72. A unique pair cannot be determined.",
+        "explanation": "Combine the powers to get 3^(x + 3y − 5) = 72. Any real y gives a corresponding x; a second independent condition is missing."
+      }
+    ],
+    "16": [
+      {
+        "label": "16",
+        "type": "written",
+        "answer": "R = 8MT/(1 + V²)",
+        "explanation": "Multiply by 8M and factor out R on the right."
+      }
+    ],
+    "17": [
+      {
+        "label": "17",
+        "type": "written",
+        "answer": "13.5 cm²",
+        "explanation": "Corresponding areas scale by the square of the length ratio: 6 × (3/2)²."
+      }
+    ],
+    "18": [
+      {
+        "label": "18(a)",
+        "type": "written",
+        "answer": "(4,12)",
+        "explanation": "Add the translation vector (4,8) to (0,4)."
+      },
+      {
+        "label": "18(b)",
+        "type": "written",
+        "answer": "(−6,16)",
+        "explanation": "Add 4 to −10 and 8 to 8."
+      }
+    ],
+    "19": [
+      {
+        "label": "19",
+        "type": "written",
+        "answer": "x = 13 cm",
+        "explanation": "The longest side is x. Expanding (x − 1)² + (x − 8)² = x² gives (x − 5)(x − 13) = 0. A side x − 8 must be positive."
+      }
+    ],
+    "20": [
+      {
+        "label": "20",
+        "type": "written",
+        "answer": "5/9",
+        "explanation": "Use the 3–4–5 triangle: sin θ = 3/5 and cos θ = 4/5. Substitute these ratios."
+      }
+    ],
+    "21": [
+      {
+        "label": "21(a)",
+        "type": "written",
+        "answer": "b = 5; 36 students scored at least 55%.",
+        "explanation": "The frequencies sum to 4b + 30 = 50. Exclude the 6 + 8 students who scored below 55%."
+      },
+      {
+        "label": "21(b)",
+        "type": "written",
+        "answer": "58.5%",
+        "explanation": "Multiply each mark by its frequency, sum to 2,925, then divide by 50."
+      }
+    ],
+    "22": [
+      {
+        "label": "22",
+        "type": "written",
+        "answer": "135.81",
+        "explanation": "Evaluate the cube root of 6.734 and square root of 71.63, then calculate 608.7 × 1.8884… / 8.4634… before rounding."
+      }
+    ],
+    "23": [
+      {
+        "label": "23",
+        "type": "written",
+        "answer": "18",
+        "explanation": "Inclusion–exclusion gives 45 + 32 − 59."
+      }
+    ],
+    "24": [
+      {
+        "label": "24",
+        "type": "written",
+        "answer": "70.07 cm assuming both observation points are on the same side of the building on level ground.",
+        "explanation": "The nearer distance is h/tan 45° = h. Thus h/(tan 35°) − h = 30. If the building lies between the points, replace the difference with a sum and obtain 12.36 cm."
+      }
+    ],
+    "25": [
+      {
+        "label": "25(a)",
+        "type": "written",
+        "answer": "{(5,3), (−3,−5)}",
+        "explanation": "Use y = x − 2. The first equation reduces to (x − 5)(x + 3) = 0."
+      },
+      {
+        "label": "25(b)",
+        "type": "written",
+        "answer": "m = 2, p = −2, k = 7",
+        "explanation": "Complete the square to get 2(x − 2)² + 7."
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "sourceId": "source-040c2128ed32e508",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Meat is susceptible to rapid spoilage."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A consumer uses the product."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Cash is an asset and an increase is debited.",
+        "acceptedAnswers": [
+          "A",
+          "C"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Taking possession immediately and paying instalments is characteristic of hire purchase."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "One named owner indicates sole proprietorship."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Saving means retaining income for future use."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Personal assets may be used to settle business debts."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The consumer is the user of output."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Merit goods provide wider social benefits."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Teaching and medical treatment are intangible services."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "E",
+          "iii": "G",
+          "iv": "C",
+          "v": "A"
+        },
+        "explanation": "Free goods cost nothing; consumer goods are for final use; durable goods last; producer goods make output; public goods are collectively enjoyed."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "The owner is personally responsible for all business debts.",
+        "explanation": "Business debts can be recovered from personal property."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Insurance exchanges a premium for agreed protection against a specified risk.",
+        "explanation": "It pools risk across many policyholders."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Production creates useful goods or services by combining inputs.",
+        "explanation": "Output satisfies a need or want."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "Intangible activities that meet needs, such as banking.",
+        "explanation": "A service delivers a benefit through work."
+      },
+      {
+        "label": "3(e)",
+        "type": "written",
+        "answer": "Resources cannot meet all wants.",
+        "explanation": "Scarcity forces choices."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Merit",
+        "explanation": "Donated blood supports medical treatment."
+      },
+      {
+        "label": "4(ii)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Demerit",
+        "explanation": "Discarded plastics impose environmental costs."
+      },
+      {
+        "label": "4(iii)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Merit",
+        "explanation": "Cleaning shared spaces benefits all residents."
+      },
+      {
+        "label": "4(iv)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Merit",
+        "explanation": "Health care improves individual and public health."
+      },
+      {
+        "label": "4(v)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Merit",
+        "explanation": "Vaccination protects recipients and limits disease spread."
+      },
+      {
+        "label": "4(vi)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Demerit",
+        "explanation": "The classification in this task concerns harmful consumption."
+      },
+      {
+        "label": "4(vii)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Merit",
+        "explanation": "Sanitation prevents contamination and disease."
+      },
+      {
+        "label": "4(viii)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Demerit",
+        "explanation": "The exercise classifies harmful overuse as the social cost."
+      },
+      {
+        "label": "4(ix)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Merit",
+        "explanation": "Shared transport improves access and can reduce traffic."
+      },
+      {
+        "label": "4(x)",
+        "type": "mcq",
+        "options": [
+          "Merit",
+          "Demerit"
+        ],
+        "answer": "Merit",
+        "explanation": "Education benefits learners and wider society."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Personal savings; retained profit; a bank loan; supplier credit; family or friends’ funds.",
+        "explanation": "Explain how each provides cash, preserves cash or postpones payment."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Keep records, prepare budgets, retain profits, train in missing skills and arrange a succession plan.",
+        "explanation": "These measures address weak controls, limited finance, skill shortages and continuity."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Advantages: simple formation, quick decisions and retained profit. Drawbacks: unlimited liability, limited capital and weak continuity.",
+        "explanation": "One owner enjoys control but bears all risk and responsibility."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Enterprises create employment, supply useful products, pay taxes, stimulate their suppliers, introduce innovations and generate household income.",
+        "explanation": "Use the mill, transport enterprise and market to illustrate links between jobs, supplies and access to services."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Production: sew uniforms from fabric. Distribution: transport them to schools. Exchange: parents pay for uniforms. Consumption: children wear them.",
+        "explanation": "Follow the uniforms from inputs to final use."
+      }
+    ]
+  }
+}

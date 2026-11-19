@@ -1,0 +1,391 @@
+{
+  "sourceId": "source-cc7f479d2ce9f28f",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "The conventional British-English classroom inventory has twelve monophthongs and eight diphthongs. Accents can differ.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Firefox is web browser software. The other choices name devices.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The passage mentions information, study and entertainment. Building discipline is a different activity.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Listening means attending to and understanding spoken language.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Paying attention helps the learner follow the lesson and respond to instructions.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A tongue twister repeats similar sounds to challenge pronunciation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Whispering uses a very quiet voice so nearby people cannot easily hear.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A female child is her parent's daughter.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Ball has one vowel nucleus and is pronounced in a single beat.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Unstressed syllables receive less prominence than stressed ones.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "written",
+        "answer": "C",
+        "explanation": "Sick and seek differ in their vowel sounds: /ɪ/ and /iː/."
+      },
+      {
+        "label": "2(ii)",
+        "type": "written",
+        "answer": "D",
+        "explanation": "Gate and get keep the same initial and final consonants but change the vowel."
+      },
+      {
+        "label": "2(iii)",
+        "type": "written",
+        "answer": "B",
+        "explanation": "Road and load differ in their initial consonants."
+      },
+      {
+        "label": "2(iv)",
+        "type": "written",
+        "answer": "A (pen) or G (hen)",
+        "explanation": "Both pen and hen differ from ten only in the initial consonant. Accept either match."
+      },
+      {
+        "label": "2(v)",
+        "type": "written",
+        "answer": "E",
+        "explanation": "Leave and live differ in their vowel sound when live is the verb."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "The boy felt sick before he left home.",
+        "explanation": "Sick describes the boy's ill health."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "He went to the clinic to seek help.",
+        "explanation": "Seek is a verb meaning to look for something."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Ten people were waiting outside.",
+        "explanation": "Ten states how many people were there."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "A dog was resting by the door.",
+        "explanation": "Dog names the animal at the entrance."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "The boy stepped over a log on the path.",
+        "explanation": "Log names a piece of wood."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "The cat sat on the mat.",
+        "explanation": "Cat, sat and mat contain the short vowel /æ/."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "I left a pen on the desk.",
+        "explanation": "Pen contains the short vowel /e/."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "The fish is in the tin.",
+        "explanation": "Fish and tin contain /ɪ/."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "The pot is hot.",
+        "explanation": "Pot and hot contain /ɒ/ in many British accents."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "The sun is up.",
+        "explanation": "Sun and up contain /ʌ/. Other meaningful short-vowel examples are valid."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Sells and shells.",
+        "explanation": "Only their initial consonants differ, /s/ and /ʃ/."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Three and free.",
+        "explanation": "Both end in /riː/ and begin with different consonants."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Nine and nice.",
+        "explanation": "Both begin with /naɪ/ and their final consonants differ."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Big and bug.",
+        "explanation": "Both begin with /b/ and end in /ɡ/, but their vowels differ."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Butter and bitter.",
+        "explanation": "These words share their consonants but differ in the first vowel."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "cor-RECT",
+        "explanation": "The adjective correct has stress on the second syllable."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "ENG-lish",
+        "explanation": "English has stress on its first syllable."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "SCHOOL",
+        "explanation": "School is a one-syllable content word and can receive sentence stress."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "BRUSHED; TEETH",
+        "explanation": "The two underlined content words can carry emphasis; the possessive their is usually weaker."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Amina: Hello, I am Amina. What is your name? Musa: I am Musa. Nice to meet you! Amina: Nice to meet you too. Which class are you in? Musa: Form One B. Shall we walk there together? Amina: Yes, thank you.",
+        "explanation": "Both speakers greet each other, introduce themselves and respond naturally to a question."
+      }
+    ],
+    "8": [
+      {
+        "label": "8 /a:/",
+        "type": "written",
+        "answer": "father, arm",
+        "explanation": "The stressed vowels can be pronounced /ɑː/ in British English."
+      },
+      {
+        "label": "8 /i:/",
+        "type": "written",
+        "answer": "see, green",
+        "explanation": "These words contain /iː/."
+      },
+      {
+        "label": "8 /ai/",
+        "type": "written",
+        "answer": "time, kite",
+        "explanation": "These words contain the diphthong /aɪ/."
+      },
+      {
+        "label": "8 /ei/",
+        "type": "written",
+        "answer": "day, rain",
+        "explanation": "These words contain the diphthong /eɪ/."
+      },
+      {
+        "label": "8 /u:/",
+        "type": "written",
+        "answer": "food, moon",
+        "explanation": "These words contain /uː/."
+      }
+    ],
+    "9": [
+      {
+        "label": "9 four",
+        "type": "written",
+        "answer": "four – for",
+        "explanation": "The numeral and the preposition can both be pronounced /fɔː/."
+      },
+      {
+        "label": "9 flour",
+        "type": "written",
+        "answer": "flour – flower",
+        "explanation": "These words sound alike despite referring to different things."
+      },
+      {
+        "label": "9 by",
+        "type": "written",
+        "answer": "by – buy",
+        "explanation": "Both are pronounced /baɪ/."
+      },
+      {
+        "label": "9 to",
+        "type": "written",
+        "answer": "to – two",
+        "explanation": "The strong form of to sounds like the number two."
+      },
+      {
+        "label": "9 dew",
+        "type": "written",
+        "answer": "dew – due",
+        "explanation": "The words share a pronunciation in many accents."
+      },
+      {
+        "label": "9 week",
+        "type": "written",
+        "answer": "week – weak",
+        "explanation": "Both are pronounced /wiːk/."
+      },
+      {
+        "label": "9 see",
+        "type": "written",
+        "answer": "see – sea",
+        "explanation": "Both are pronounced /siː/."
+      },
+      {
+        "label": "9 hi",
+        "type": "written",
+        "answer": "hi – high",
+        "explanation": "Both are pronounced /haɪ/."
+      },
+      {
+        "label": "9 no",
+        "type": "written",
+        "answer": "no – know",
+        "explanation": "The k in know is silent; both have the same vowel."
+      },
+      {
+        "label": "9 ant",
+        "type": "written",
+        "answer": "ant – aunt",
+        "explanation": "These are homophones in accents that pronounce aunt with /æ/."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Good morning, everyone. My name is Rehema. I am a Form One student from Morogoro. I enjoy reading stories and playing netball. English is my favourite subject because I like meeting people and sharing ideas. This term I hope to improve my writing. I look forward to learning with you. Thank you.",
+        "explanation": "A suitable introduction greets the audience, gives personal details and interests in connected first-person sentences and ends politely. Use your own details."
+      }
+    ]
+  }
+}

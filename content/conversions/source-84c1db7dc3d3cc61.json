@@ -1,0 +1,394 @@
+{
+  "sourceId": "source-84c1db7dc3d3cc61",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Amoeba extends pseudopodia to move and engulf food.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Viruses depend on living cells to reproduce.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Rules reduce the risk of accidents.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "In the five-kingdom classification bacteria belong to Monera.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Mitochondria perform most stages of aerobic respiration in eukaryotes.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Flowering plants occur in many habitats and vary greatly in size; attractiveness alone does not explain their success.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Ferns have vascular tissues and true roots, stems and leaves.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Many fungi obtain nutrients by digesting dead organic matter outside their bodies.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Specimen cages and biological models are characteristic equipment.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A taproot is typical of dicots; most monocots have fibrous roots.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The eyepiece further magnifies the image formed by the objective.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "The body tube maintains the optical path between the lenses.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "An objective forms the first magnified image.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Coarse adjustment moves the tube or stage markedly for initial focus.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Fine adjustment makes small movements to sharpen focus.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Medicine, particularly orthopaedics and anatomy.",
+        "explanation": "Knowledge of bones helps diagnose and treat fractures."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Veterinary medicine and entomology.",
+        "explanation": "Knowledge of the tsetse fly and its role in disease informs cattle protection."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Environmental conservation and ecology.",
+        "explanation": "Protecting vegetation and the catchment helps maintain stream flow."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "A biology laboratory has microscopes, specimens, biological models and specialist equipment such as collecting nets or specimen cages.",
+        "explanation": "These facilities support observation and investigation of living things."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Observation, measurement, comparison, classification, recording, interpreting and communication are useful skills.",
+        "explanation": "They turn observations into evidence that can be evaluated."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Examples in the school classification: Ascomycota—yeast; Basidiomycota—mushroom; Zygomycota—Rhizopus.",
+        "explanation": "Pair each fungal group with a representative organism."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Fungi recycle nutrients, provide edible mushrooms, ferment bread or drinks, and yield useful medicines.",
+        "explanation": "Each point shows a different benefit."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Draw an animal cell with a cell membrane surrounding cytoplasm, a nucleus, and mitochondria; label each.",
+        "explanation": "A typical rabbit cell lacks a cell wall and chloroplasts."
+      },
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Nucleus.",
+        "explanation": "It contains genes that regulate cell activities."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Cell membrane.",
+        "explanation": "It encloses the cell and regulates entry and exit."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Mitochondrion.",
+        "explanation": "Aerobic respiration supplies ATP."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Cytoplasm.",
+        "explanation": "Organelles lie within it."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Differentiation is development of specialised cell structure and function.",
+        "explanation": "It produces different cell types from initially similar cells."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Guard cells open and close stomata, root hair cells absorb water and mineral ions, and palisade cells photosynthesise.",
+        "explanation": "Each structure is adapted to its task."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Spherical cocci, rod-shaped bacilli, spiral spirilla and comma-shaped vibrios.",
+        "explanation": "Shape is a basic morphological feature used in description."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Bacteria decompose organic matter, fix nitrogen, ferment milk into yoghurt, help treat sewage and support digestion in animals.",
+        "explanation": "Different species perform different beneficial activities."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "Certain Entamoeba cause amoebic dysentery.",
+        "explanation": "Pathogenic species can damage the intestinal wall."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Plasmodium causes malaria.",
+        "explanation": "Red blood cell infection contributes to illness."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "Certain Trypanosoma cause African sleeping sickness.",
+        "explanation": "Infection can affect the nervous system."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Insects pollinate crops, produce honey or silk, recycle waste and control pests.",
+        "explanation": "For example, bees pollinate flowers and ladybirds consume aphids."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Kingdom, phylum or division, class, order, family, genus, species.",
+        "explanation": "The hierarchy moves from broad groups to increasingly specific groups; domain may be placed above kingdom."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Lions and leopards are separate species and are reproductively isolated in nature.",
+        "explanation": "The usual biological species criterion concerns fertile offspring under natural conditions; rare captive hybrids complicate the wording."
+      },
+      {
+        "label": "8(c)(i)",
+        "type": "written",
+        "answer": "Musca domestica.",
+        "explanation": "Capitalise the genus, lowercase the species epithet and italicise both or underline separately when handwritten."
+      },
+      {
+        "label": "8(c)(ii)",
+        "type": "written",
+        "answer": "Panthera leo.",
+        "explanation": "The genus starts with a capital letter and the species epithet is lowercase."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Draw a moss with a leafy shoot, rhizoids below and a stalk bearing a capsule above; label these parts.",
+        "explanation": "Bryophytes are a school example of early land plants."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Plantae.",
+        "explanation": "Moss is a multicellular photosynthetic land plant."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "Bryophyta.",
+        "explanation": "Mosses are non-vascular plants."
+      },
+      {
+        "label": "9(d)",
+        "type": "written",
+        "answer": "Mosses retain moisture, help form soil and reduce erosion.",
+        "explanation": "Their mats absorb water and protect the surface."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Photosynthesis uses light captured by chlorophyll to make organic food from carbon dioxide and water. Glucose is a conventional overall product and oxygen is released. The process stores light energy, supports food chains and replenishes atmospheric oxygen.",
+        "explanation": "Connect the definition, inputs, outputs and ecological importance in a coherent essay; the overall equation is 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂."
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "sourceId": "source-1632ec0fa4b3350c",
+  "groups": {
+    "1": [
+      {
+        "label": "1",
+        "type": "written",
+        "answer": "90",
+        "explanation": "The first three positive common multiples are 15, 30 and 45. Add them."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "written",
+        "answer": "The first number is 5 and the second is 2.",
+        "explanation": "Subtract x − 2y = 1 from x + y = 7 to get 3y = 6, then substitute back."
+      }
+    ],
+    "3": [
+      {
+        "label": "3",
+        "type": "written",
+        "answer": "5/6, 3/4, 2/3, 7/12, 1/2",
+        "explanation": "In twelfths the numerators are 10, 9, 8, 7 and 6."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "4,854 animals",
+        "explanation": "0.70 × 1,200 = 840 black cows; 0.223 × 18,000 = 4,014 white goats. Add."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "2,150 m",
+        "explanation": "The first leg is 1,300 m and the next is 850 m."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "0.00768",
+        "explanation": "Start counting significant digits at the 7. The fourth digit, 8, rounds the third digit up."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "125°",
+        "explanation": "An exterior angle equals the sum of the two opposite interior angles: 50° + 75°."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "3a + 3b + 6c",
+        "explanation": "Collect the coefficients of each variable separately."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "9m² + 42mn + 49n²",
+        "explanation": "Use (u + v)² = u² + 2uv + v²."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "14 and 19",
+        "explanation": "With smaller number t, solve t(t + 5) = 266. The factorisation is (t − 14)(t + 19) = 0; keep the positive case."
+      }
+    ],
+    "11": [
+      {
+        "label": "11",
+        "type": "written",
+        "answer": "George 14 mangoes and Asha 21.",
+        "explanation": "35 divided into five equal parts gives seven mangoes per part."
+      }
+    ],
+    "12": [
+      {
+        "label": "12",
+        "type": "written",
+        "answer": "−7/2",
+        "explanation": "Write the line as y = −7x/2 + 4. The coefficient of x is the slope."
+      }
+    ],
+    "13": [
+      {
+        "label": "13",
+        "type": "written",
+        "answer": "775 m²",
+        "explanation": "Subtract 25 × 5 from 30 × 30."
+      }
+    ],
+    "14": [
+      {
+        "label": "14",
+        "type": "written",
+        "answer": "4 + √15",
+        "explanation": "Multiply by (√5 + √3)/(√5 + √3). The numerator is 8 + 2√15 and the denominator is 2."
+      }
+    ],
+    "15": [
+      {
+        "label": "15",
+        "type": "written",
+        "answer": "−64g¹⁵",
+        "explanation": "Cube −4 and multiply the exponent 5 by 3."
+      }
+    ],
+    "16": [
+      {
+        "label": "16",
+        "type": "written",
+        "answer": "Mother 40 years and child 10 years.",
+        "explanation": "Using current ages 4x and x, solve (4x − 5)(x − 5) = 175. The positive solution is x = 10."
+      }
+    ],
+    "17": [
+      {
+        "label": "17",
+        "type": "written",
+        "answer": "Let u = logₐM and v = logₐN. Then MN = aᵘaᵛ = a^(u+v), so logₐ(MN) = u + v.",
+        "explanation": "Use the power product rule and the definition of logarithm, for M,N,a positive and a ≠ 1."
+      }
+    ],
+    "18": [
+      {
+        "label": "18",
+        "type": "written",
+        "answer": "△ABC ∼ △ZXY.",
+        "explanation": "The angle sums give B = 31° and Y = 69°. A corresponds to Z (80°), B to X (31°) and C to Y (69°). Use angle–angle similarity."
+      }
+    ],
+    "19": [
+      {
+        "label": "19",
+        "type": "written",
+        "answer": "P′(1,−4), Q′(3,−4), R′(3,−2), S′(1,−2).",
+        "explanation": "Reflection across the x-axis maps (x,y) to (x,−y)."
+      }
+    ],
+    "20": [
+      {
+        "label": "20(a)",
+        "type": "written",
+        "answer": "Does not fit.",
+        "explanation": "33² + 55² = 4,114, whereas 65² = 4,225."
+      },
+      {
+        "label": "20(b)",
+        "type": "written",
+        "answer": "Does not fit.",
+        "explanation": "15² + 30² = 1,125, whereas 35² = 1,225."
+      }
+    ],
+    "21": [
+      {
+        "label": "21",
+        "type": "written",
+        "answer": "{4,16}",
+        "explanation": "Among the perfect squares below 29 (1,4,9,16,25), only 4 and 16 are multiples of four."
+      }
+    ],
+    "22": [
+      {
+        "label": "22",
+        "type": "written",
+        "answer": "23.0 m",
+        "explanation": "Let the height be h. The difference of horizontal distances is h/tan 25° − h/tan 50° = 30. Solve before rounding."
+      }
+    ],
+    "23": [
+      {
+        "label": "23",
+        "type": "written",
+        "answer": "57–61: 12; 62–66: 16; 67–71: 8; 72–76: 4. Modal class: 62–66 kg.",
+        "explanation": "Tally each mass in exactly one class. The frequencies total 40 and the highest frequency is 16."
+      }
+    ],
+    "24": [
+      {
+        "label": "24",
+        "type": "written",
+        "answer": "5.239",
+        "explanation": "Add the logs of 17.83 and 246.9 and subtract those of 256.2 and 3.28. Taking the antilog gives about 5.23865."
+      }
+    ],
+    "25": [
+      {
+        "label": "25",
+        "type": "written",
+        "answer": "MN = 8 cm and YM = 10/3 cm.",
+        "explanation": "YZ is parallel to MN. The ratio XN/XZ = 12/9 scales YZ = 6 to MN and XY = 10 to XM. Subtract XY from XM to find YM."
+      }
+    ]
+  }
+}

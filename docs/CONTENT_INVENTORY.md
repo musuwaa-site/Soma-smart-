@@ -25,21 +25,24 @@ Generated from published student data and locally available acquisition metadata
 - candidatePaperDocumentsAcquired: 287
 - acquiredOfficialReferencePDFs: 14
 - extractedPapers: 10
-- publishedPapers: 24
-- fullyPublishedPapers: 10
-- partiallyPublishedPaperSources: 14
-- authenticMainQuestions: 224
-- authenticAnswerableParts: 845
-- scoredQuestionsWithMarking: 3702
+- publishedPapers: 81
+- fullyPublishedPapers: 58
+- partiallyPublishedPaperSources: 23
+- authenticMainQuestions: 832
+- authenticAnswerableParts: 3182
+- scoredQuestionsWithMarking: 5904
 - completeAuthenticTranscriptions: 23
-- transcribedAuthenticRecords: 786
+- transcribedAuthenticRecords: 792
 - heldAuthenticRecords: 66
-- automaticallyScoredAuthenticRecords: 195
-- authenticScoredRecords: 676
+- automaticallyScoredAuthenticRecords: 816
+- authenticScoredRecords: 2878
 - independentPracticeGuides: 6
 - interactiveSelfCheckPapers: 158
 - interactiveSelfCheckGroups: 1615
 - sourcePapersWithoutInteractiveSelection: 0
+- pageBackedScoredRecords: 2196
+- sourcePapersWithoutScoredItems: 99
+- separatelyInteractiveUnscoredItems: 92
 
 | Form | Subject | Chapters | Textbook words¹ | Original questions | Distinct workbook tasks | Partially supported official activities |
 |---|---|---:|---:|---:|---:|---:|
@@ -66,14 +69,14 @@ Generated from published student data and locally available acquisition metadata
 
 | Subject | Form One | Form Two | Page-based self-check only | Scored builder | Total |
 |---|---:|---:|---:|---:|---:|
-| Chemistry | 8 | 8 | 13 | 3 | 16 |
-| Physics | 10 | 15 | 22 | 3 | 25 |
-| Biology | 11 | 11 | 19 | 3 | 22 |
-| Mathematics | 11 | 13 | 19 | 5 | 24 |
-| Kiswahili | 9 | 15 | 21 | 3 | 24 |
-| Geography | 10 | 12 | 20 | 2 | 22 |
-| Business Studies | 10 | 5 | 13 | 2 | 15 |
-| Historia ya Tanzania na Maadili | 10 | 4 | 13 | 1 | 14 |
-| English Language | 11 | 7 | 16 | 2 | 18 |
+| Chemistry | 8 | 8 | 10 | 6 | 16 |
+| Physics | 10 | 15 | 13 | 12 | 25 |
+| Biology | 11 | 11 | 13 | 9 | 22 |
+| Mathematics | 11 | 13 | 8 | 16 | 24 |
+| Kiswahili | 9 | 15 | 19 | 5 | 24 |
+| Geography | 10 | 12 | 17 | 5 | 22 |
+| Business Studies | 10 | 5 | 1 | 14 | 15 |
+| Historia ya Tanzania na Maadili | 10 | 4 | 9 | 5 | 14 |
+| English Language | 11 | 7 | 9 | 9 | 18 |
 
 ¹Explanations and worked examples, excluding exercises, glossary and repeated book references. All books remain partial; no 100% curriculum coverage is claimed. Original revision papers reuse references to existing original items and do not increase the distinct-question total. Full source-paper documents are counted separately from structured scored paper selections. Original revision papers are never counted as genuine past papers. Published genuine source counts distinguish partially reviewed selections from complete papers. Source-allocated whole-question marks and independently prepared self-assessment rubrics are distinguished in every genuine record.

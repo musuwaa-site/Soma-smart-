@@ -87,3 +87,28 @@ test('every published genuine scored item has a student-facing explanation', () 
     assert(!/https?:\/\//.test(q.feedbackExplanation), q.id);
   }
 });
+
+test('page-backed attempts preserve every original group with keyed, independent responses', () => {
+  const published = studentRelease(data);
+  const bank = new Map(published.questions.map(q=>[q.id,q]));
+  for (const p of published.papers.filter(p => p.practiceOrder)) {
+    const unscored = p.reviewOnlyItems || [];
+    const expected = [...p.questionIds,...unscored.map(q=>q.id)];
+    assert.equal(new Set(p.practiceOrder).size,expected.length,p.id);
+    assert.deepEqual(new Set(p.practiceOrder),new Set(expected));
+    for (const item of unscored) {
+      assert.equal(item.maximumMarks,0);
+      assert.equal(result([item],{[item.id]:'response'}).maximum,0);
+      assert(item.answerKey && item.feedbackExplanation);
+    }
+    if (!p.id.startsWith('page-items-')) continue;
+    const doc = published.sourceDocuments.find(doc => doc.id === p.sourceDocumentId);
+    const items=[...p.questionIds.map(id => bank.get(id)), ...unscored];
+    assert.deepEqual(new Set(items.map(q=>q.mainQuestionNumber)),new Set(doc.practiceIndex.groups.map(g=>g.label)));
+    for (const q of items) {
+      assert(q.media.some(m=>m.role === 'printed-question'));
+      if (!q.reviewOnly && ['mcq','matching'].includes(q.type))
+        assert.equal(mark(q,q.answerKey).earned,q.maximumMarks);
+    }
+  }
+});

@@ -1,0 +1,215 @@
+{
+  "sourceId": "source-4831676f0d03963e",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "Mathematics studies quantities, shapes, patterns and relationships using reasoning.",
+        "explanation": "Numbers describe quantities; geometry describes shapes and measurements."
+      },
+      {
+        "label": "1(b)(i)",
+        "type": "written",
+        "answer": "Arithmetic",
+        "explanation": "Arithmetic concerns numbers and operations. Any order of the three branches is valid."
+      },
+      {
+        "label": "1(b)(ii)",
+        "type": "written",
+        "answer": "Algebra",
+        "explanation": "Algebra uses letters and equations to describe relationships."
+      },
+      {
+        "label": "1(b)(iii)",
+        "type": "written",
+        "answer": "Geometry",
+        "explanation": "Geometry studies shapes, positions and their properties."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)(i)",
+        "type": "mcq",
+        "answer": "TRUE",
+        "explanation": "Each integer n is the ratio n/1. Whole and natural numbers are integers.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      },
+      {
+        "label": "2(a)(ii)",
+        "type": "mcq",
+        "answer": "TRUE",
+        "explanation": "A rational decimal either terminates or eventually repeats.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      },
+      {
+        "label": "2(a)(iii)",
+        "type": "mcq",
+        "answer": "FALSE",
+        "explanation": "An irrational number and its opposite can sum to zero: √2 + (−√2) = 0.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      },
+      {
+        "label": "2(a)(iv)",
+        "type": "mcq",
+        "answer": "FALSE",
+        "explanation": "The positive number 9 has the rational square root 3.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "8, −4, −5 3/7, −√9, 22/7, 0, 8.3, 2/3.",
+        "explanation": "Each is expressible as a ratio of integers. A terminating or repeating 8.3 is rational in either reading."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "√11 and 2π + 1.",
+        "explanation": "11 is not a perfect square. If 2π + 1 were rational, subtracting 1 and dividing by 2 would make π rational."
+      },
+      {
+        "label": "2(b)(iii)",
+        "type": "written",
+        "answer": "8, −4, −√9 and 0.",
+        "explanation": "The negative square root of 9 equals −3, a whole-valued number."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Draw a filled segment between −1/2 and 2 with both endpoints included.",
+        "explanation": "The inequality includes both limits and all real numbers between them."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Shade left from a filled point at 3/2.",
+        "explanation": "All smaller values and the endpoint satisfy x ≤ 3/2."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "8/9.",
+        "explanation": "0.222… is 2/9 and 0.666… is 6/9, so their sum is 8/9."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Both sides equal 4/9.",
+        "explanation": "Here x = 1/3 and y = 2/3; x² + x = 1/9 + 3/9 = 4/9."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "−6/35.",
+        "explanation": "The numerator is −2 × 3 and the denominator is 7 × 5."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "TSh 50,000.",
+        "explanation": "After fuel, 200,000 remains. Food uses half, and other expenses use half of the remaining 100,000."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "1, 2, 3, 4, 5.",
+        "explanation": "Counting numbers begin at 1 and must be below 6."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "0, 1, 2, 3, 4.",
+        "explanation": "Whole numbers include zero; 4 is included by the inequality."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "1/6.",
+        "explanation": "4/3 − 3/2 = 8/6 − 9/6 = −1/6, whose distance from zero is 1/6."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "3.14.",
+        "explanation": "The five measurements total 15.690787. Divide by five and round 3.1381574 to three significant figures."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "About 66.",
+        "explanation": "Approximate the factors by 60, 110, 2 and 50 to obtain 6600/100. State your rounding."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "157/30.",
+        "explanation": "Subtract 10x from 100x for x = 5.2333… . This gives 90x = 471."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Place a point halfway between −3 and −2.",
+        "explanation": "The midpoint has coordinate −2.5."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "2.",
+        "explanation": "Moving five units right adds 5 to −3."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "0.",
+        "explanation": "Moving two units left subtracts 2 from 2."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "4/6, 6/9, 8/12 and 10/15.",
+        "explanation": "Multiply both terms of 2/3 by the same nonzero integer."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "Seventeen million eight hundred and sixteen thousand two hundred and seventy-three kilograms.",
+        "explanation": "Read each three-digit group in its place-value period."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "270.",
+        "explanation": "The units digit is 4, so rounding to tens leaves the tens digit unchanged."
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "sourceId": "source-be5bcf634dc9a761",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Geography studies Earth, places, environments and their relationship with people."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Landforms, rivers and climate are physical features and processes."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Terrain, water, soil and climate help determine suitable farmland."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A depressed block between parallel faults forms a rift valley."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Of these choices the Big Bang addresses the early universe. Earth itself formed much later by accretion."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A curved shadow across the Moon is visible during a lunar eclipse."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Travelling continuously around the globe can return a traveller to the starting point."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "30 degrees eastward adds two hours to 3 p.m., giving 5 p.m."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Eastward rotation makes the Sun appear to move westward."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Perihelion is the point in Earth’s orbit closest to the Sun."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i–iv)",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv"
+        ],
+        "answer": {
+          "i": "D",
+          "ii": "E",
+          "iii": "F",
+          "iv": "A"
+        },
+        "explanation": "The expanding universe, rising sea level, plant cover and travel around the globe correspond to D, E, F and A."
+      },
+      {
+        "label": "2(v)",
+        "type": "review",
+        "answer": "Agricultural geography relates soils, climate, water and land use to farming. No printed option states this.",
+        "explanation": "Option C describes political geography and cannot correctly describe the relationship with agriculture."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Earth’s spin on its axis from west to east.",
+        "explanation": "One rotation takes approximately 24 hours."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Imaginary half-circles linking the poles and marking longitude.",
+        "explanation": "They measure angular position east or west of Greenwich."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "One of two times each year when the Sun reaches its greatest northerly or southerly declination.",
+        "explanation": "Axial tilt gives one hemisphere its longest day at its summer solstice."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "An agreed date-change boundary running roughly along longitude 180°.",
+        "explanation": "Crossing it requires changing the calendar date."
+      },
+      {
+        "label": "3(e)",
+        "type": "written",
+        "answer": "Major divisions of Earth’s landmass, such as Africa and Asia.",
+        "explanation": "They are conventionally grouped into seven continents."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "The Big Bang describes the expansion of the universe from an early hot, dense state. Much later the solar system formed, and Earth grew by accretion.",
+        "explanation": "The Big Bang established the conditions for stars and galaxies; it did not directly form Earth."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Earth has liquid water, moderate surface temperatures and an atmosphere containing oxygen.",
+        "explanation": "Human life depends on water, suitable temperatures and respiration."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "A block mountain or horst.",
+        "explanation": "The upland block is bounded by faults."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Faulting raises a crustal block relative to its neighbours or lowers the blocks alongside it.",
+        "explanation": "Relative displacement leaves the central block standing higher."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "The Rwenzori, Vosges and Black Forest mountains.",
+        "explanation": "These ranges include uplifted fault blocks."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "About 71%.",
+        "explanation": "Oceans account for almost all the water-covered surface area."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Rivers, lakes, seas and oceans.",
+        "explanation": "These encompass moving inland water and large standing water bodies."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "Victoria, Tanganyika, Nyasa, Rukwa and Manyara.",
+        "explanation": "These lakes lie wholly or partly in Tanzania."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "The surface of Earth’s crust beneath the ocean water.",
+        "explanation": "It has both elevated and depressed features."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Draw a coastal cross-section through shelf, slope, abyssal plain, mid-ocean ridge and trench. Label each feature.",
+        "explanation": "The shelf is shallow, the slope descends steeply, the plain is broad and deep, a ridge rises and a trench cuts downward."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Revolution.",
+        "explanation": "Earth travels around the Sun."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "About four years between leap years.",
+        "explanation": "The approximately quarter-day remainder accumulates to a day in about four years; century exceptions refine the calendar."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "A year; seasonal changes in solar altitude; seasonal changes in daylight length; and changing seasons.",
+        "explanation": "The last three arise from revolution combined with axial tilt."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "An eclipse.",
+        "explanation": "One body blocks sunlight reaching another body or observer."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Alignment obscures the Sun or places the Moon in shadow.",
+        "explanation": "An eclipse requires the bodies to line up closely enough."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "Solar and lunar eclipses.",
+        "explanation": "The names distinguish what appears obscured."
+      },
+      {
+        "label": "9(d)",
+        "type": "written",
+        "answer": "Lunar eclipse.",
+        "explanation": "Earth is between Sun and Moon."
+      },
+      {
+        "label": "9(e)",
+        "type": "written",
+        "answer": "A full Moon passes through Earth’s penumbra or umbra.",
+        "explanation": "Earth blocks some or all direct sunlight from reaching the lunar surface."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Vegetation produces oxygen; stores carbon; supplies food; reduces erosion; provides medicines; and supplies timber and fibre for livelihoods.",
+        "explanation": "Photosynthesis drives oxygen production and carbon uptake. Roots stabilise soil, and plant tissues supply raw materials."
+      }
+    ]
+  }
+}

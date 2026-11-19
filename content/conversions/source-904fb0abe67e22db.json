@@ -1,0 +1,247 @@
+{
+  "sourceId": "source-904fb0abe67e22db",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Kuchukua mali ya taasisi kwa manufaa binafsi ni wizi."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Urithi ni mali ya taifa zima na kila raia ana wajibu wa kuulinda."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Damu, ndoa au kuasili huunda familia."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Historia hueleza uhusiano wa yaliyopita na hali ya leo."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Jando na unyago yalitumika kuandaa vijana kwa majukumu ya utu uzima katika baadhi ya jamii."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Kupokea wageni na kuwatendea mema ni ukarimu."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Wazungumzaji wa lugha za Kibantu ndio kundi kubwa Tanzania."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Mapenzi kwa nchi ni uzalendo."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Julius Kambarage Nyerere alikuwa waziri mkuu wakati wa uhuru mwaka 1961."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Utukutu unakiuka nidhamu ya shule."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "D",
+          "iii": "B",
+          "iv": "I",
+          "v": "E"
+        },
+        "explanation": "Morani walihusika na ulinzi. Laibon alikuwa kiongozi wa kiroho mwenye ushawishi wa kisiasa. Wazee walifanya maamuzi, wanawake walijenga nyumba, na watoto wadogo walibaki karibu na makazi."
+      }
+    ],
+    "3": [
+      {
+        "label": "3",
+        "type": "written",
+        "answer": "Kilimo, ufugaji, uvuvi, uwindaji na ufinyanzi.",
+        "explanation": "Shughuli hizi zilitoa chakula, malighafi na vyombo vya matumizi."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Wizi, uongo, udanganyifu, uonevu na rushwa.",
+        "explanation": "Matendo haya yanadhuru watu, yanakiuka haki zao au yanaharibu uaminifu."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Kuelewa historia ya taifa, kutambua mchango wa mashujaa, kujifunza kutokana na makosa, kuthamini urithi na kujenga uraia wenye uwajibikaji.",
+        "explanation": "Somo linahusisha ushahidi wa zamani na maamuzi ya kimaadili ya sasa."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Kanuni za kutofautisha mema na mabaya katika mwenendo.",
+        "explanation": "Hapa lengo ni kutoa sifa inayofafanua dhana husika."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Watu wanaoishi na kushirikiana kwa taratibu na mahusiano fulani.",
+        "explanation": "Hapa lengo ni kutoa sifa inayofafanua dhana husika."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Watu wenye uhusiano wa damu, ndoa au kuasili.",
+        "explanation": "Hapa lengo ni kutoa sifa inayofafanua dhana husika."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Familia zenye asili au nasaba inayotambulika kwa pamoja.",
+        "explanation": "Hapa lengo ni kutoa sifa inayofafanua dhana husika."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "Jamii yenye utambulisho wa pamoja kama lugha, historia na desturi.",
+        "explanation": "Hapa lengo ni kutoa sifa inayofafanua dhana husika."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Uaminifu huimarisha biashara, heshima hupunguza migogoro, haki huleta amani, ushirikiano hurahisisha miradi na uwajibikaji hulinda mali ya umma.",
+        "explanation": "Kila mfano unaonyesha uhusiano wa maadili na ustawi wa jamii."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Kutafuta ardhi yenye rutuba, maji, malisho, usalama dhidi ya vita na maeneo salama baada ya mafuriko au ukame.",
+        "explanation": "Uhamaji ulikuwa njia ya kupata mahitaji ya maisha na kukwepa hatari."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Kurudisha mali iliyookotwa, kusema ukweli, kusaidia mwanafunzi aliyeumia, kuheshimu wengine na kutunza vitabu vya shule.",
+        "explanation": "Haya ni matendo yanayoonekana ya uaminifu, huruma na uwajibikaji."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Natarajia kuelewa historia ya taifa langu, kutathmini ushahidi, kuthamini urithi, kujifunza mchango wa viongozi na kutekeleza wajibu wangu kwa uadilifu. Kwa mfano, kutembelea makumbusho kunaweza kunisaidia kupima simulizi kwa kutumia vitu vya zamani. Nitayatumia maarifa haya kuhifadhi urithi na kuheshimu haki za wengine.",
+        "explanation": "Insha ihusishe kila matarajio na namna litakavyomsaidia mwanafunzi katika jamii."
+      }
+    ]
+  }
+}

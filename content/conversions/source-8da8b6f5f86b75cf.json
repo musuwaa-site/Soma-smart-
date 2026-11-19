@@ -1,0 +1,315 @@
+{
+  "sourceId": "source-8da8b6f5f86b75cf",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Recording daily transactions is bookkeeping."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Mussa provides goods in exchange for payment."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Shoe repair supplies a service."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Money available for materials is working capital."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Seeking opportunities and improving operations demonstrates entrepreneurship."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "One owner controls a sole proprietorship."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Neighbours buy the soap for direct household use."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Business studies includes market needs and risk."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Employment creation benefits society."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "WhatsApp marketing applies digital technology."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "E",
+          "ii": "D",
+          "iii": "C",
+          "iv": "B",
+          "v": "A"
+        },
+        "explanation": "The process is entrepreneurship; taking a calculated risk accepts uncertainty; creativity develops ideas and innovation applies them. An entrepreneur is the person."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "An economic activity supplying goods or services, usually for profit.",
+        "explanation": "Selling juice for payment is an example."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "She makes a product, sells to customers, records money flows and reinvests profit.",
+        "explanation": "Production, exchange, bookkeeping and reinvestment each appear in the scenario."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Meet customers’ needs and earn profit.",
+        "explanation": "Successful service supports continuing income."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a) Wages",
+        "type": "written",
+        "answer": "Pay for work, such as the salon assistant’s earnings.",
+        "explanation": "Wages compensate labour."
+      },
+      {
+        "label": "4(a) Profit",
+        "type": "written",
+        "answer": "Revenue remaining after expenses.",
+        "explanation": "The owner must cover costs before determining profit."
+      },
+      {
+        "label": "4(a) Capital",
+        "type": "written",
+        "answer": "Funds or productive assets invested in the business.",
+        "explanation": "Chairs and dryers are examples of physical capital."
+      },
+      {
+        "label": "4(a) Customer",
+        "type": "written",
+        "answer": "A person buying a good or service.",
+        "explanation": "A client paying for a haircut is a customer."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Revenue is sales income; expenses are costs of operation, such as rent.",
+        "explanation": "These are used to calculate profit."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Study of how people establish, finance, organise and operate businesses.",
+        "explanation": "It includes business decisions and the environment in which they are made."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Learn budgeting, market research, record keeping and opportunity identification.",
+        "explanation": "Each supports better financial or business decisions."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Accountant and marketing officer.",
+        "explanation": "Both use financial or commercial knowledge."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Trait or “born” view: predispositions influence enterprise. Learning or “made” view: experience and training develop entrepreneurial abilities.",
+        "explanation": "The scenario contrasts inborn qualities with acquired skills."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Initiative, creativity, persistence and willingness to take calculated risks.",
+        "explanation": "These help turn an opportunity into a working venture."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "A business owned and controlled by one person.",
+        "explanation": "One owner is entitled to its profit."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Single ownership, personal control, unlimited liability and limited continuity.",
+        "explanation": "The business depends heavily on its proprietor."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Quick decisions and keeping profit after expenses and taxes.",
+        "explanation": "The owner need not share control or returns with partners."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Identify an opportunity, assess demand, plan finances, choose a name, register as required, organise supplies and open.",
+        "explanation": "Planning and compliance prepare the business to operate."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "A proposed business name, owner identification and the business address/activity details.",
+        "explanation": "Registration identifies the proprietor and trading name."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Legal recognition and greater credibility when dealing with banks or suppliers.",
+        "explanation": "An identifiable business can more readily establish commercial relationships."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Limited capital, competition and a heavy workload.",
+        "explanation": "One owner has limited resources and management time."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Budget and reinvest earnings; differentiate products; obtain training or skilled help.",
+        "explanation": "These address financing, competition and capability."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "Early action prevents losses from growing and helps maintain customer confidence.",
+        "explanation": "Small problems may become harder to reverse over time."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "A stationery kiosk near school, because students regularly need pens and paper.",
+        "explanation": "A clear customer need justifies the idea."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Study demand, estimate capital, compare suppliers, assess the location and check legal requirements.",
+        "explanation": "These determine whether customers can be served reliably and profitably."
+      }
+    ]
+  }
+}

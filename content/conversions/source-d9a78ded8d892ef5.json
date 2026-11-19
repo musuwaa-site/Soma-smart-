@@ -1,0 +1,547 @@
+{
+  "sourceId": "source-d9a78ded8d892ef5",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)(i)",
+        "type": "written",
+        "answer": "How a Debate Is Conducted",
+        "explanation": "The passage explains the roles and stages of a debate."
+      },
+      {
+        "label": "1(a)(ii)",
+        "type": "written",
+        "answer": "Contrasting arguments and audience participation.",
+        "explanation": "Each side answers the other and the audience can join the discussion."
+      },
+      {
+        "label": "1(a)(iii)",
+        "type": "written",
+        "answer": "The chairperson directs proceedings and gives speakers permission to speak.",
+        "explanation": "The chair also introduces the motion and announces the result."
+      },
+      {
+        "label": "1(a)(iv)",
+        "type": "written",
+        "answer": "The opposition, or opposing side.",
+        "explanation": "Opponents argue against the motion."
+      },
+      {
+        "label": "1(a)(v)",
+        "type": "written",
+        "answer": "It lets people examine different arguments before deciding on an issue.",
+        "explanation": "The audience hears both sides before voting."
+      },
+      {
+        "label": "1(b)(i)",
+        "type": "mcq",
+        "answer": "FALSE",
+        "explanation": "The speeches and arguments are delivered orally.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      },
+      {
+        "label": "1(b)(ii)",
+        "type": "mcq",
+        "answer": "FALSE",
+        "explanation": "The passage calls it a public meeting and sets no school-only restriction.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      },
+      {
+        "label": "1(b)(iii)",
+        "type": "mcq",
+        "answer": "TRUE",
+        "explanation": "A motion has a supporting and an opposing side.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      },
+      {
+        "label": "1(b)(iv)",
+        "type": "mcq",
+        "answer": "TRUE",
+        "explanation": "The proposer argues in favour of the motion.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      },
+      {
+        "label": "1(b)(v)",
+        "type": "mcq",
+        "answer": "FALSE",
+        "explanation": "Harm means damage or injury.",
+        "options": [
+          "TRUE",
+          "FALSE"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "straight ahead",
+        "explanation": "This tells the traveller to continue forwards.",
+        "options": [
+          "between",
+          "zebra crossing",
+          "left",
+          "behind",
+          "straight ahead"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "zebra crossing",
+        "explanation": "This is a marked place to cross the road.",
+        "options": [
+          "between",
+          "zebra crossing",
+          "left",
+          "behind",
+          "straight ahead"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "left",
+        "explanation": "After crossing, the instruction specifies which way to turn.",
+        "options": [
+          "between",
+          "zebra crossing",
+          "left",
+          "behind",
+          "straight ahead"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "between",
+        "explanation": "The restaurant lies in the space separating two other places.",
+        "options": [
+          "between",
+          "zebra crossing",
+          "left",
+          "behind",
+          "straight ahead"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "behind",
+        "explanation": "This locates the road relative to the restaurant.",
+        "options": [
+          "between",
+          "zebra crossing",
+          "left",
+          "behind",
+          "straight ahead"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "A granddaughter is a female child of your son or daughter.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Your parent's sister is your aunt.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Your parent's mother is your grandmother.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Your sibling's daughter is your niece.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A daughter of the same parents is your sister.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "mcq",
+        "answer": "OPINION",
+        "explanation": "Might signals a prediction without established evidence of rain.",
+        "options": [
+          "FACT",
+          "OPINION"
+        ]
+      },
+      {
+        "label": "4(b)",
+        "type": "mcq",
+        "answer": "FACT",
+        "explanation": "In the intended ordinary daytime context this is an observable description.",
+        "options": [
+          "FACT",
+          "OPINION"
+        ]
+      },
+      {
+        "label": "4(c)",
+        "type": "mcq",
+        "answer": "OPINION",
+        "explanation": "Better expresses a value judgement.",
+        "options": [
+          "FACT",
+          "OPINION"
+        ]
+      },
+      {
+        "label": "4(d)",
+        "type": "mcq",
+        "answer": "OPINION",
+        "explanation": "A favourite or most beautiful colour is a personal preference.",
+        "options": [
+          "FACT",
+          "OPINION"
+        ]
+      },
+      {
+        "label": "4(e)",
+        "type": "mcq",
+        "answer": "FACT",
+        "explanation": "The intended claim about assessment policy can be checked against school requirements, rather than settled by preference. It refers to the relevant Tanzanian Form Two cohort.",
+        "options": [
+          "FACT",
+          "OPINION"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "North.",
+        "explanation": "C is at the top of the conventional compass."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "West.",
+        "explanation": "B is on the left."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "South.",
+        "explanation": "D lies opposite north."
+      },
+      {
+        "label": "5(d)",
+        "type": "written",
+        "answer": "East.",
+        "explanation": "A is on the right."
+      },
+      {
+        "label": "5(e)",
+        "type": "written",
+        "answer": "It shows directions, for example when orienting a map.",
+        "explanation": "The arms show how the four cardinal directions relate to each other."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "We met people on our way to school.",
+        "explanation": "I and my become we and our; people is the usual plural of person."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "They saw ships in the Indian Ocean.",
+        "explanation": "Change he to they and ship to ships; the ocean keeps its proper name."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "Our schools are located at Masaki.",
+        "explanation": "Schools requires the plural verb are."
+      },
+      {
+        "label": "6(d)",
+        "type": "written",
+        "answer": "Students were required to study hard.",
+        "explanation": "Remove a, add -s to student and use were."
+      },
+      {
+        "label": "6(e)",
+        "type": "written",
+        "answer": "Our books have very nice covers.",
+        "explanation": "The subject and object become plural and have agrees with books."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "ours",
+        "explanation": "An independent possessive pronoun replaces our farm."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "mine",
+        "explanation": "Mine means belonging to me and stands without a noun."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "theirs",
+        "explanation": "The office belongs to the teachers."
+      },
+      {
+        "label": "7(a)(iv)",
+        "type": "written",
+        "answer": "his",
+        "explanation": "Use a possessive determiner before book."
+      },
+      {
+        "label": "7(a)(v)",
+        "type": "written",
+        "answer": "her",
+        "explanation": "Her modifies car and refers back to my mother."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Unless you eat a balanced diet, you will get sick.",
+        "explanation": "Unless already means if not, so use an affirmative following clause."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "Ali neither rides a bicycle nor drives a car.",
+        "explanation": "Neither and nor join parallel verb phrases."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "The boy whose parents work in Unguja is playing football.",
+        "explanation": "Whose links the boy to his parents."
+      },
+      {
+        "label": "7(b)(iv)",
+        "type": "written",
+        "answer": "Both Upendo and Halima are good women.",
+        "explanation": "Both ... and forms a plural subject."
+      },
+      {
+        "label": "7(b)(v)",
+        "type": "written",
+        "answer": "He is not only a hard worker but also polite.",
+        "explanation": "The construction adds a second positive quality."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "trust",
+        "explanation": "Use simple present for a continuing belief."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "went",
+        "explanation": "Yesterday signals the simple past."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "brought",
+        "explanation": "Has requires the past participle."
+      },
+      {
+        "label": "8(a)(iv)",
+        "type": "written",
+        "answer": "celebrating",
+        "explanation": "Were plus -ing forms the past continuous."
+      },
+      {
+        "label": "8(a)(v)",
+        "type": "written",
+        "answer": "teaching",
+        "explanation": "Has been plus -ing expresses a continuing activity."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "tallest",
+        "explanation": "The tallest compares one girl with the whole class."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "better",
+        "explanation": "Than introduces a comparison; better is the comparative of good."
+      },
+      {
+        "label": "8(b)(iii)",
+        "type": "written",
+        "answer": "biggest",
+        "explanation": "The superlative doubles g before -est."
+      },
+      {
+        "label": "8(b)(iv)",
+        "type": "written",
+        "answer": "most",
+        "explanation": "The most intelligent is the superlative form."
+      },
+      {
+        "label": "8(b)(v)",
+        "type": "written",
+        "answer": "careful",
+        "explanation": "After be, use the adjective careful."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Mabala the Farmer.",
+        "explanation": "This is one of the listed class readers; answers to the remaining parts should use the same book."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "R. S. Mabala.",
+        "explanation": "The reading list credits R. S. Mabala as its author."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "Mabala.",
+        "explanation": "The story follows his attempt to become a farmer."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "He is willing to take on a new occupation.",
+        "explanation": "He leaves his familiar way of life to try farming."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "He overestimates his ability to farm without practical experience.",
+        "explanation": "His assumptions about farming lead to mistakes that experience could have prevented."
+      },
+      {
+        "label": "9(d)",
+        "type": "written",
+        "answer": "People sometimes begin new businesses without first learning the skills involved.",
+        "explanation": "Mabala's experience illustrates the risks of treating unfamiliar work as easy."
+      },
+      {
+        "label": "9(e)",
+        "type": "written",
+        "answer": "Farming requires knowledge, effort and willingness to learn.",
+        "explanation": "The gap between Mabala's expectations and experience supports this lesson."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "The lines describing the red and white cheeks and charmingly curled hair in stanza one.",
+        "explanation": "These details show what the speaker first found beautiful."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Yes. Repeated phrases and rhymes such as world and curled give it a musical quality.",
+        "explanation": "An answer should link its suitability for singing to features of the poem."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "Dears addresses the listeners affectionately and acts like a refrain.",
+        "explanation": "Its repetition contributes to the intimate, song-like tone."
+      },
+      {
+        "label": "10(d)",
+        "type": "written",
+        "answer": "A child remembering a beloved doll.",
+        "explanation": "The speaker recalls playing, crying over the loss and loving the doll despite its damage."
+      },
+      {
+        "label": "10(e)",
+        "type": "written",
+        "answer": "People can treasure familiar things because of memories rather than outward appearance.",
+        "explanation": "The damaged doll remains beautiful to the speaker for old times’ sake."
+      }
+    ]
+  }
+}

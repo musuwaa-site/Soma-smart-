@@ -1,0 +1,382 @@
+{
+  "sourceId": "source-6bdac1b165c6b6df",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Physics investigates matter and energy and the interactions between them."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "The metre is the SI base unit for length."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A beam balance compares the object with known masses."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Density is mass divided by occupied volume."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Multiply 11.3 by the density of water, 1 g/cm³, to obtain 11.3 g/cm³."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A thermometer responds to temperature changes."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A pointer that starts at zero prevents a constant offset."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A vector specifies a magnitude and a direction."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Earth’s gravity accelerates the stone downwards."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Wind is continually replenished by atmospheric processes."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "answer": {
+          "i": "B",
+          "ii": "D",
+          "iii": "A",
+          "iv": "E",
+          "v": "C"
+        },
+        "explanation": "Gravity attracts masses. The strong interaction binds nucleons. Friction opposes sliding, electromagnetic forces arise from charges, and tension pulls along a taut rope."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Physics is the study of matter, energy and their interactions.",
+        "explanation": "It explains observable changes such as movement, heating and light emission."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Measurement is the comparison of a quantity with a defined unit of the same kind.",
+        "explanation": "A measurement specifies both the numerical magnitude and its unit."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Mechanics, optics and thermodynamics.",
+        "explanation": "These branches investigate motion, light and thermal phenomena respectively."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Length—metre (m); mass—kilogram (kg); time—second (s).",
+        "explanation": "These base quantities have independently defined SI units."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "A floating body displaces fluid of weight equal to its own weight.",
+        "explanation": "The upward buoyant force balances its weight when floating at rest."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Designing ships, operating hydrometers, and supporting people with life jackets.",
+        "explanation": "Each floats when the displaced fluid weighs as much as the floating system."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "2,000 kg/m³.",
+        "explanation": "500 g = 0.500 kg and 250 cm³ = 0.000250 m³. Divide mass by volume."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Friction is a contact force opposing relative sliding or the tendency to slide between surfaces.",
+        "explanation": "It acts parallel to the contact surfaces."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Benefits: grip for walking and braking. Drawbacks: wear of moving parts and energy loss as heat.",
+        "explanation": "Friction helps when traction is needed but resists useful machine motion."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "No, assuming the stated 2,000 N is the maximum available static friction.",
+        "explanation": "Static friction can balance the 1,500 N pull without sliding."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Yes, with a 500 N resultant in the direction of the pull.",
+        "explanation": "The pulling force exceeds the opposing force: 1,500 − 1,000 = 500 N."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "The bottom experiences greater water pressure and must withstand larger forces.",
+        "explanation": "Hydrostatic pressure increases with water depth."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "The diver has the greatest height of water above them at the bottom.",
+        "explanation": "The pressure increase below the surface is ρgh."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Greatest: 250 Pa. Least: 125 Pa, taking g = 10 N/kg.",
+        "explanation": "Weight = 15 N. Divide by the smallest area (0.20 × 0.30 m²) or largest (0.40 × 0.30 m²). With g = 9.8, the values are 245 and 122.5 Pa."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "Density is mass per unit volume. Relative density compares density with that of a reference, usually water for solids and liquids.",
+        "explanation": "The first has units such as kg/m³; the density ratio has none."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "Base quantities are independently defined; derived quantities combine them mathematically.",
+        "explanation": "Length and time are base quantities; speed is length divided by time."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Its density decreases.",
+        "explanation": "The same mass occupies a larger volume, so m/V becomes smaller."
+      },
+      {
+        "label": "7(c)(i)",
+        "type": "written",
+        "answer": "Vernier calipers.",
+        "explanation": "The external jaws measure opposite faces and can resolve dimensions to a fraction of a millimetre."
+      },
+      {
+        "label": "7(c)(ii)",
+        "type": "written",
+        "answer": "10.0 cm³.",
+        "explanation": "Volume = 4.00 × 2.50 × 1.00 cm³."
+      },
+      {
+        "label": "7(c)(iii)",
+        "type": "written",
+        "answer": "30 g/cm³.",
+        "explanation": "Divide 300 g by 10.0 cm³."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Soap lowers water’s surface tension and helps suspend oily dirt so it can be rinsed away.",
+        "explanation": "Water wets the fabric more effectively; the oil-attracting and water-attracting ends of soap molecules help disperse grease."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "A meniscus is the curved surface of a liquid near the sides of its container.",
+        "explanation": "Adhesion to the wall and cohesion within the liquid affect the curvature."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Concave.",
+        "explanation": "Water wets glass and rises at its edges."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Convex.",
+        "explanation": "Mercury’s cohesion is stronger than its adhesion to glass and the edge curves downwards."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Yes. Gravity does positive work on the object.",
+        "explanation": "Earth’s downward pull is in the direction of the falling object’s displacement."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "Electrical energy becomes rotational kinetic energy, with some heat and sound.",
+        "explanation": "The motor makes the blades turn."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "review",
+        "answer": "The printed process “wood sprinting” is unclear.",
+        "explanation": "Splitting wood converts mechanical work to fracture and heat. Burning wood releases chemical energy as heat and light. The wording does not select between processes."
+      },
+      {
+        "label": "9(b)(iii)",
+        "type": "written",
+        "answer": "As the stone rises, kinetic energy becomes gravitational potential energy.",
+        "explanation": "Its speed falls as its height increases."
+      },
+      {
+        "label": "9(b)(iv)",
+        "type": "written",
+        "answer": "Chemical energy in the battery becomes electrical energy and then light and heat.",
+        "explanation": "The battery powers the lamp."
+      },
+      {
+        "label": "9(b)(v)",
+        "type": "written",
+        "answer": "Kinetic energy of the strike becomes vibration and then sound.",
+        "explanation": "The vibrating fork sets the surrounding air moving."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Distance is the total path length; displacement is the directed change from start to finish.",
+        "explanation": "A round trip has positive distance but zero displacement."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "Speed is distance per time; velocity is displacement per time and has direction.",
+        "explanation": "Both use m/s, but velocity records direction."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "Plot time in seconds horizontally and velocity in m/s vertically. Join (0,0), (5,20), (25,20) and (28,0) with straight lines.",
+        "explanation": "Uniform acceleration and braking give straight slopes. Constant speed gives a horizontal segment."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "20 m/s.",
+        "explanation": "Starting at rest gives v = at = 4 × 5."
+      },
+      {
+        "label": "10(b)(iii)",
+        "type": "written",
+        "answer": "480 m.",
+        "explanation": "The velocity–time areas are ½ × 5 × 20 = 50 m, 20 × 20 = 400 m and ½ × 3 × 20 = 30 m."
+      }
+    ]
+  }
+}

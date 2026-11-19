@@ -1,0 +1,221 @@
+{
+  "sourceId": "source-07ed95157992d9d1",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Urithi unanufaisha wanaoishi sasa na watakaofuata."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Katika uainishaji wa kitabu, Wakichembe wanatajwa miongoni mwa wakazi wa awali."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Moto ulisaidia kuzuia wanyama wakali."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Wachaga na Wapare walihusika katika njia ya kaskazini."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Sultani Barghash alijenga jumba hilo mwaka 1883."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Utafiti huboresha uelewa na uhifadhi."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Rushwa hupunguza heshima ya taasisi."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Sherehe hufundisha desturi na kuunganisha watu."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Uenezi wa Uislamu si hitaji la viwanda vya Ulaya."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Sindimba inahusishwa na Wamakonde."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "A",
+          "iii": "G",
+          "iv": "D",
+          "v": "C"
+        },
+        "explanation": "Mila hujumuisha taratibu za ibada. Lugha huwasilisha mafundisho, ufundi huzalisha vifaa, malikale ni masalia na sanaa hutumia maumbo kuwasilisha ujumbe."
+      }
+    ],
+    "3": [
+      {
+        "label": "3",
+        "type": "written",
+        "answer": "Uaminifu hulinda mali ya pamoja. Haki hupunguza migogoro. Uwajibikaji huimarisha huduma za umma. Heshima huwalinda walio dhaifu. Kusaidiana hujenga mshikamano.",
+        "explanation": "Kila thamani ina matokeo katika ustawi wa taifa."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Elimu ya jadi ilifundisha kilimo na ufugaji kwa vitendo, ufundi kwa uanagenzi, historia kwa masimulizi, maadili kwa mifano, na ushirikiano kupitia kazi za pamoja.",
+        "explanation": "Onyesha maarifa na njia zilizotumika kuyafundisha."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Viwanda vilihitaji malighafi, vyanzo vya nishati, mitaji, wafanyakazi na masoko. Mahitaji haya yalichangia upanuzi wa uzalishaji na baadaye utafutaji wa masoko na maeneo ya uwekezaji nje.",
+        "explanation": "Tofautisha mahitaji ya uzalishaji na matokeo ya kuongezeka kwa uzalishaji."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Mamlaka ya kimila yalidhoofishwa; ardhi ilinyakuliwa; kodi zililazimisha kazi ya ujira; mazao ya biashara yalipewa kipaumbele; ubaguzi wa rangi uliathiri haki za wenyeji.",
+        "explanation": "Hoja zionyeshe mabadiliko katika jamii, utawala na uchumi."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Biashara ilipanua masoko, ikakuza miji ya pwani, ikaeneza maarifa ya urambazaji, ikasaidia ukuaji wa Kiswahili na kuleta bidhaa na mbinu mpya za ufundi.",
+        "explanation": "Toa mfano wa mwingiliano kama ukuaji wa mji wa Kilwa."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Mahitaji ya chakula yalichochea kilimo bora; malighafi ya chuma ilichochea uhunzi; biashara ilieneza maarifa; ongezeko la watu lilihitaji uzalishaji mkubwa; mazingira makavu yalihitaji uhifadhi na usambazaji wa maji.",
+        "explanation": "Unganisha hitaji la maisha na mabadiliko ya zana au maarifa."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Ardhi yenye rutuba ilivutia wakulima. Wafugaji walifuata maji na malisho. Baadhi ya jamii zilikimbia vita. Ukame ulilazimisha watu kutafuta maeneo salama. Ongezeko la watu liliongeza ushindani wa ardhi.",
+        "explanation": "Sababu zinahusisha mazingira, usalama na uchumi."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Wazazi wawe mfano wa uaminifu. Shule ziwape wanafunzi nafasi ya kusuluhisha migogoro kwa haki. Vyombo vya habari vihimize uwajibikaji. Wananchi waripoti rushwa. Jamii zihifadhi na kufundisha desturi zinazoheshimu utu. Hatua hizi zinajenga mazingira ambamo maadili yanafundishwa na kutendwa.",
+        "explanation": "Pendekeza hatua zinazoweza kutekelezwa na ueleze mchango wake."
+      }
+    ]
+  }
+}

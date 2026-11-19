@@ -1,0 +1,382 @@
+{
+  "sourceId": "source-44f8608a340bb962",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Water adheres to glass. The curved surface and surface tension lift water in the narrow tube."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "An elastic material recovers its original shape when unloaded."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The newton is the SI derived unit kg·m/s²."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Capillary rise is inversely proportional to tube radius."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Time is an SI base quantity; the others combine base quantities."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Friction opposes relative sliding or its tendency at a contact."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "An angled line of sight shifts the apparent pointer position."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A spring balance measures force, including gravitational weight."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Litres are a convenient everyday measure of liquid volume; the cubic metre also measures volume in SI."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Finishing at the starting point gives zero change in position."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "vi",
+          "vii"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "answer": {
+          "i": "B",
+          "ii": "D",
+          "iii": "F",
+          "vi": "C",
+          "vii": "A"
+        },
+        "explanation": "Distance measures path length, velocity is directed speed, displacement is directed position change, g is about 10 m/s², and acceleration measures velocity change per time."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "It helps us use electrical devices safely and estimate everyday distances, times or speeds.",
+        "explanation": "For example, insulation protects against electric shock and speed relates journey distance to duration."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Medical imaging uses waves to examine patients; generators supply electricity through electromagnetic induction.",
+        "explanation": "Both technologies apply experimentally tested physical laws."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Ships and aircraft.",
+        "explanation": "Buoyancy supports a floating ship; aerodynamic lift can support a moving aircraft."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "A scalar has magnitude only. A vector also has direction.",
+        "explanation": "Mass is scalar; force requires a size and direction."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Measurement compares a physical quantity with a standard unit of its kind.",
+        "explanation": "Report a numerical value and a unit."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "0.82 mm.",
+        "explanation": "Observed reading = 0.50 + 27 × 0.01 = 0.77 mm. Subtract the negative zero error, −0.005 cm = −0.05 mm."
+      },
+      {
+        "label": "4(d)",
+        "type": "written",
+        "answer": "16 cm³.",
+        "explanation": "The rise in volume, 81 − 65, equals the immersed volume."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "A push or pull that can change an object's motion or shape. SI unit: newton (N).",
+        "explanation": "Net force produces acceleration; forces can also deform a body."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "80 N in the direction of the pull.",
+        "explanation": "Subtract the 20 N opposing force from the 100 N pull."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "0.325.",
+        "explanation": "On a level surface the normal force is mg = 80 N. Divide 26 by 80."
+      },
+      {
+        "label": "5(d)",
+        "type": "written",
+        "answer": "It remains at rest if static friction can reach 2,000 N.",
+        "explanation": "A 1,500 N pull can be balanced without sliding."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Density = mass per volume. Relative density = density of sample divided by density of the reference, usually water.",
+        "explanation": "Density has units. The ratio has none."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "5 g.",
+        "explanation": "Mass = density × volume = 2.5 × 2."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "5 g/cm³.",
+        "explanation": "Displaced volume is 70 − 60 = 10 cm³. Divide 50 g by 10 cm³."
+      },
+      {
+        "label": "6(d)",
+        "type": "written",
+        "answer": "8.",
+        "explanation": "The density is 40/5 = 8 g/cm³. Divide by water’s density of 1 g/cm³."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Water adheres to clean glass and spreads. Strong cohesion in mercury favours droplets instead.",
+        "explanation": "Wetting depends on the balance of attraction to the surface and attraction within the liquid."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Surface tension helps support their light bodies.",
+        "explanation": "Their water-repellent legs spread the load and depress the surface without breaking through."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Detergent improves wetting and disperses oily dirt.",
+        "explanation": "It lowers surface tension and contains molecules that interact with both grease and water."
+      },
+      {
+        "label": "7(d)",
+        "type": "written",
+        "answer": "Within the proportional limit, the extension of a spring is proportional to the applied force.",
+        "explanation": "The relation is F = kx for a spring of constant k."
+      },
+      {
+        "label": "7(e)",
+        "type": "written",
+        "answer": "24 N.",
+        "explanation": "Use x = 0.30 m: F = 80 × 0.30."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Distance is total path length; displacement is the directed change of position.",
+        "explanation": "Different paths between two endpoints have the same displacement."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "Speed is distance per time; velocity is displacement per time in a specified direction.",
+        "explanation": "A complete circuit has nonzero average speed but zero average velocity."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "1,000 m.",
+        "explanation": "Two laps × 500 m per lap."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "0 m.",
+        "explanation": "She finishes where she started."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Average speed = 32/7 ≈ 4.57 m/s; average velocity = 8/7 ≈ 1.14 m/s right.",
+        "explanation": "Total distance is 32 m, net displacement is 8 m to the right, and total time is 7 s."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Work is energy transferred by a force acting through a displacement. Energy is the capacity to do work.",
+        "explanation": "Both are measured in joules, but work describes transfer."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Potential energy is stored by position or configuration; kinetic energy is due to motion.",
+        "explanation": "A raised stationary stone has gravitational potential energy; a moving stone also has kinetic energy."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "400 J.",
+        "explanation": "The force acts along the displacement, so W = 80 × 5."
+      },
+      {
+        "label": "9(d)",
+        "type": "written",
+        "answer": "250 J.",
+        "explanation": "Kinetic energy = ½ × 5 × 10²."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Yes, if the cow moves the cart.",
+        "explanation": "The pulling force has a component along the cart’s displacement."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "No mechanical work on the stationary book.",
+        "explanation": "There is an upward support force but zero displacement."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "Yes, work is done in lifting the aircraft.",
+        "explanation": "Its gravitational potential energy increases as it gains height."
+      },
+      {
+        "label": "10(a)(iv)",
+        "type": "written",
+        "answer": "Gravity does no work during level flight. The engines may still do positive work against drag.",
+        "explanation": "Weight is perpendicular to horizontal displacement; thrust acts along it. At constant speed net work is zero."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "1 J.",
+        "explanation": "Elastic energy = ½kx² = ½ × 50 × 0.2²."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "2,000 W.",
+        "explanation": "Work = mgh = 400 × 10 × 2 = 8,000 J. Divide by 4 s."
+      }
+    ]
+  }
+}

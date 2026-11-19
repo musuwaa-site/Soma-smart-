@@ -85,6 +85,14 @@ export function generate(bank, count, seed = 1) {
   return result;
 }
 export function mark(q, answer, selfMark) {
+  if (q.reviewOnly) {
+    if (q.reviewKeyAvailable) {
+      const possible = q.type === 'matching' ? q.pairs.length : 1;
+      const feedback = mark({...q, reviewOnly:false, maximumMarks:possible, markIncrement:1}, answer);
+      return {status:feedback.status, earned:0};
+    }
+    return {status: "review", earned: 0};
+  }
   if (answer === undefined || answer === null || String(answer).trim() === "")
     return { status: "unanswered", earned: 0 };
   if (q.type === "mcq") {

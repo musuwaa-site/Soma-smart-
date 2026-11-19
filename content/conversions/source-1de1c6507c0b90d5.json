@@ -1,0 +1,425 @@
+{
+  "sourceId": "source-1de1c6507c0b90d5",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The metre measures length."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "For millimetre graduations, half a division is 0.5 mm."
+      },
+      {
+        "label": "1(iii)",
+        "type": "review",
+        "answer": "Resistance, measured in ohms.",
+        "explanation": "No printed option names this quantity."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Diffusion is a process of spreading rather than a force."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "v = 0 + 6 × 7 = 42 m/s."
+      },
+      {
+        "label": "1(vi)",
+        "type": "review",
+        "answer": "3,150 J, using g = 10 m/s².",
+        "explanation": "mgh = 45 × 10 × 7. No printed option gives this work."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Temperature measures hotness."
+      },
+      {
+        "label": "1(viii)",
+        "type": "review",
+        "answer": "Both A (induction) and C (conduction).",
+        "explanation": "Charging by contact transfers electrons. Charging by induction can occur without contact with the inducing charge."
+      },
+      {
+        "label": "1(ix)",
+        "type": "review",
+        "answer": "Isolate the electricity safely, call for emergency help and follow trained first-aid guidance.",
+        "explanation": "Treatment depends on breathing and other clinical signs. Unconditional artificial respiration is inappropriate."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "V = IR = 0.2 × 20 = 4 V."
+      },
+      {
+        "label": "1(xi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Upthrust equals the weight of displaced air and therefore decreases."
+      },
+      {
+        "label": "1(xii)",
+        "type": "review",
+        "answer": "A and D both apply.",
+        "explanation": "Newton’s third law describes the opposing interaction forces. An isolated system conserves total momentum."
+      },
+      {
+        "label": "1(xiii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Constant velocity has zero rate of change."
+      },
+      {
+        "label": "1(xiv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Narrow spaces in a wick permit capillary rise."
+      },
+      {
+        "label": "1(xv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Weight loss = 3.0 − 2.2 = 0.8 N."
+      },
+      {
+        "label": "1(xvi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Changing location alone does not alter mass."
+      },
+      {
+        "label": "1(xvii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "At a given fluid density, pressure increases with depth below the surface."
+      },
+      {
+        "label": "1(xviii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Mobile electrons are transferred when the materials rub."
+      },
+      {
+        "label": "1(xix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Collect displaced water and measure its volume in the cylinder."
+      },
+      {
+        "label": "1(xx)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A penumbra is a partial shadow."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "vi"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M"
+        ],
+        "answer": {
+          "i": "B",
+          "ii": "E",
+          "iii": "A",
+          "iv": "L",
+          "vi": "F"
+        },
+        "explanation": "Scissors pivot between load and effort; gravity attracts objects to Earth; adhesion acts between dissimilar materials. Relative density has no units and a hydrometer compares liquid densities."
+      },
+      {
+        "label": "2(v)",
+        "type": "review",
+        "answer": "Field lines show magnetic field direction and strength.",
+        "explanation": "None of the choices clearly defines a magnetic field line."
+      },
+      {
+        "label": "2(vii)",
+        "type": "review",
+        "answer": "Impulse is measured in N·s.",
+        "explanation": "The printed N/s is different from N·s and has no corresponding item."
+      },
+      {
+        "label": "2(viii)",
+        "type": "review",
+        "answer": "A wheelbarrow or nutcracker.",
+        "explanation": "A second-class lever has the load between fulcrum and effort. The choices do not include one."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Time.",
+        "explanation": "Mass, length and time form a base set in mechanics."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Identify materials by mass-to-volume ratio, and choose flotation materials that give a low average density.",
+        "explanation": "Density helps distinguish equal-sized samples and predict buoyancy."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Straight lines in a uniform transparent medium.",
+        "explanation": "An opaque body blocks only the rays that would pass through it."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "1.25 g/cm³.",
+        "explanation": "Liquid mass = 75 − 50 = 25 g. Divide by 20 cm³."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "1.25.",
+        "explanation": "Divide the liquid density by water’s density in the same units."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Power is work done or energy transferred per unit time.",
+        "explanation": "P = W/t."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "360 W for g = 10 m/s².",
+        "explanation": "Height = 12 × 0.20 = 2.4 m. P = 75 × 10 × 2.4/5."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "The incident ray, normal and reflected ray share a plane; incidence and reflection angles are equal.",
+        "explanation": "Both angles are measured relative to the normal at the reflection point."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Draw a mirror with a perpendicular normal; add an incoming ray and an outgoing ray symmetrically about the normal. Label i and r.",
+        "explanation": "Mark arrowheads towards and away from the surface respectively."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "i = r.",
+        "explanation": "Specular reflection has equal incident and reflected angles."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "0.417 m/s².",
+        "explanation": "15 km/h = 4.167 m/s; divide the change from rest by 10 s."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "20.8 m.",
+        "explanation": "Average speed for uniform acceleration = (0 + 4.167)/2 m/s. Multiply by 10 s."
+      },
+      {
+        "label": "7(b)",
+        "type": "review",
+        "answer": "t = u/1.8, with u in m/s.",
+        "explanation": "The printed question gives a retardation but no initial speed for the locomotive."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "0.60 A.",
+        "explanation": "Series emf = 3 V; total resistance = 1 + 2 + 2 = 5 Ω."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "0.75 A.",
+        "explanation": "Identical parallel cells provide 1.5 V with equivalent internal resistance 1 Ω. Total resistance = 2 Ω."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Pressure exerted by the surrounding air.",
+        "explanation": "The atmosphere’s weight creates pressure on surfaces."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "About 88,400 Pa for g = 10 m/s², or 86,700 Pa using standard gravity.",
+        "explanation": "Use ρgh with mercury density 13,600 kg/m³ and h = 0.650 m."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Draw a circle with A inside and a terminal line on each side.",
+        "explanation": "A identifies an ammeter."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "Draw two parallel lines of unequal length with external leads.",
+        "explanation": "The longer line is the positive terminal."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "Draw a break in a lead with a hinged arm angled away from the other contact.",
+        "explanation": "The separated contacts show an open switch."
+      },
+      {
+        "label": "10(a)(iv)",
+        "type": "written",
+        "answer": "Draw a resistor with a diagonal arrow through it.",
+        "explanation": "The arrow indicates an adjustable resistance."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "Draw opposite charge signs and field lines running from positive to negative.",
+        "explanation": "The lines join the unlike charges."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "Draw like charges, with lines bending away from the region between them. Arrows point out of positive charges or into negative ones.",
+        "explanation": "The lines do not connect like charges and do not cross."
+      }
+    ]
+  }
+}

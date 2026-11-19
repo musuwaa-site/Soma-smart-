@@ -1,0 +1,199 @@
+{
+  "sourceId": "source-7466233652259dd5",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)(i)",
+        "type": "written",
+        "answer": "30 cm",
+        "explanation": "The greatest common divisor of 420 cm and 270 cm is 30 cm."
+      },
+      {
+        "label": "1(a)(ii)",
+        "type": "written",
+        "answer": "126 tiles",
+        "explanation": "Place 14 squares along the length and 9 across the width. Their product is 126."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "90 minutes",
+        "explanation": "The least common multiple of 18 and 30 is 90. Each cyclist has completed a whole number of laps."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)",
+        "type": "written",
+        "answer": "50/9 = 5.555…",
+        "explanation": "The two numbers are 28/9 and 22/9 because 0.111… = 1/9."
+      },
+      {
+        "label": "2(b)",
+        "type": "written",
+        "answer": "0.25 m",
+        "explanation": "Juma and three friends make four people, so divide 1 m by 4."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "5/8",
+        "explanation": "In fifty-sixths the fractions are 35/56 and 32/56."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "x ≤ −5/3 or x ≥ 3; use filled endpoints and shade outwards.",
+        "explanation": "Solve 3x − 2 ≤ −7 or 3x − 2 ≥ 7."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "73.6",
+        "explanation": "The hundredths digit 8 rounds the tenths up."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "70",
+        "explanation": "The first significant digit is 7 and the next digit is 3."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "73.6",
+        "explanation": "Nearest tenth and one decimal place mean the same precision."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "70",
+        "explanation": "The units digit 3 is below 5."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "About 280 m",
+        "explanation": "For a one-significant-figure estimate use 70 × 4. Other reasonable estimates depend on the stated rounding."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "a:c = 3:10 and a:b:c = 6:15:20",
+        "explanation": "Match b at 15 by multiplying the first ratio by 3 and the second by 5."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "9⅓ kg",
+        "explanation": "Three parts weigh 4 kg, so seven parts weigh 7 × 4/3 kg."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "6p²q − 3r²s + 7",
+        "explanation": "Combine each pair of like terms separately."
+      },
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "6",
+        "explanation": "9 − 3 gives the coefficient of p²q."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "3",
+        "explanation": "The simplified expression contains three unlike terms."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "7",
+        "explanation": "The terms without variables combine as 16 − 9."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "45 years",
+        "explanation": "The father and son have six age-parts in total. Each part is 9 years; five parts are 45."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "63",
+        "explanation": "30/42 = 45/x gives x = 42 × 45/30."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "750 girls",
+        "explanation": "One part represents 1200/8 = 150 pupils. Five parts represent 750."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "1,950 pupils",
+        "explanation": "Add 750 girls and 1,200 boys."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "80 and 44",
+        "explanation": "Adding x + y = 124 to x − y = 36 yields 2x = 160; substitute x = 80 to find y."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Length 9 cm; width 5 cm",
+        "explanation": "L − W = 4 and 3L = 4W + 7. Substitute L = W + 4 to get W = 5."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "3x − y − 1 = 0",
+        "explanation": "The gradient is 12/4 = 3. Substitution of (3,8) gives intercept −1."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "5/2",
+        "explanation": "Rearranging gives y = (5/2)x + 4."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "4, at (0,4)",
+        "explanation": "Set x to zero in the original equation."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "y = −3x/2 + 9; gradient −3/2; y-intercept 9.",
+        "explanation": "Subtract 3x and divide by 2."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "y = 5x/4 + 3; gradient 5/4; y-intercept 3.",
+        "explanation": "Add 5x and divide by 4."
+      }
+    ]
+  }
+}

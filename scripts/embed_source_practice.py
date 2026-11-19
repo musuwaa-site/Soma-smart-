@@ -60,7 +60,13 @@ if __name__ == '__main__':
             question['feedbackExplanation'] = explanations.pop(question['id'])
     if explanations:
         raise SystemExit('Feedback references missing questions')
-    data['version'] = '0.14.0'
+    from complete_first_math import apply as complete_math
+    complete_math(data)
+    from import_page_items import apply as apply_page_items
+    apply_page_items(data)
+    from attach_extra_practice import apply as attach_extra_practice
+    attach_extra_practice(data)
+    data['version'] = '0.15.0'
     problems = validate(data)
     if problems:
         raise SystemExit('\n'.join(problems))

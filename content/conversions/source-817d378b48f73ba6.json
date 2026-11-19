@@ -1,0 +1,300 @@
+{
+  "sourceId": "source-817d378b48f73ba6",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "These are instruments for school laboratory experiments."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "If safely accessible, isolating the main supply disconnects the faulty circuit before anyone approaches it."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Relative density divides two densities so units cancel."
+      },
+      {
+        "label": "1(iv)",
+        "type": "review",
+        "answer": "The Moon has weaker surface gravity and lower escape speed.",
+        "explanation": "None of the printed statements gives the reason accurately: the universal constant G is the same everywhere."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Upthrust in water is 0.20 N and in the unknown liquid 0.16 N. Equal displaced volumes give a density ratio 0.16/0.20 = 0.8."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Gas particles have much more empty space between them."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Water pressure increases with depth, so the base must withstand greater stress."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Lightning produces light naturally in an atmospheric discharge."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A force perpendicular to motion transfers zero work since cos 90° = 0."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A capacitance of one farad stores one coulomb per volt."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "answer": {
+          "i": "E",
+          "ii": "F",
+          "iii": "B",
+          "iv": "H",
+          "v": "A"
+        },
+        "explanation": "Displacement is directed change of position, distance sums path length, reference axes locate positions, velocity measures displacement change and acceleration measures velocity change."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Bar, horseshoe, disc and ring magnets.",
+        "explanation": "These names distinguish different geometries."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Field lines form closed loops, never cross, and are more closely spaced in stronger fields.",
+        "explanation": "The tangent gives the field direction; two crossing lines would give conflicting directions at one point."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "Celsius, kelvin and Fahrenheit.",
+        "explanation": "Each uses defined reference values and increments for temperature."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "Dyed alcohol is suitable for low temperatures: it remains liquid in the cold, expands appreciably and its meniscus can be seen. Mercury also works over a suitable warmer range, expands predictably and does not wet glass, but is toxic.",
+        "explanation": "Choose a liquid whose volume changes predictably and remains liquid over the required temperature range. Water expands anomalously near 4°C."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Limited range near human body temperature. Clean the thermometer between patients and avoid exposing it to temperatures beyond its calibrated range.",
+        "explanation": "A clinical thermometer is designed for body temperature, and contamination can transmit infection."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "The body initially keeps its forward velocity as the feet meet the ground.",
+        "explanation": "Inertia carries the upper body forward while friction slows the feet."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "A swimmer pushes water backwards and water pushes the swimmer forwards. A walker pushes backwards on the ground and the ground pushes the walker forwards.",
+        "explanation": "Each pair consists of equal, opposite forces exchanged by two bodies."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "They act on different bodies.",
+        "explanation": "Only forces on the same body can cancel in that body’s resultant force."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "320 m, assuming the bird falls from rest and air resistance is negligible.",
+        "explanation": "h = v²/(2g) = 80²/(2 × 10)."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "8 s under the same assumption.",
+        "explanation": "t = (v − u)/g = (80 − 0)/10."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Lever, pulley, inclined plane and wheel-and-axle.",
+        "explanation": "Each can change the magnitude or direction of an applied effort."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "3.",
+        "explanation": "Mechanical advantage = load/effort = 225/75."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "75%.",
+        "explanation": "Efficiency = MA/VR × 100% = 3/4 × 100%."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "To increase stability against overturning.",
+        "explanation": "The line of action of the weight then stays inside the base of support for greater tilts."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "A metre rule, a knife-edge pivot and a known weight with a loop to suspend it.",
+        "explanation": "The pivot allows the rule and known load to balance at measured lever arms."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "Balance the rule alone to locate its centre of gravity C. Shift the pivot P away from C and hang a known weight W on the opposite side. Adjust until horizontal. Sketch W↓ — distance a — P↑ — distance b — C↓. Rule weight = Wa/b.",
+        "explanation": "At equilibrium the clockwise and anticlockwise moments about P are equal."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "Thermal energy from within Earth.",
+        "explanation": "Hot underground water, steam and rocks can transfer energy to the surface."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "Bring geothermal steam or hot water to a plant, use steam or a secondary vapour to turn a turbine, drive a generator, then condense and return the working fluid or water.",
+        "explanation": "Thermal energy becomes rotation and then electrical energy by induction."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Wind varies, windy sites may be far from demand, and turbines can disturb wildlife or nearby residents.",
+        "explanation": "Variable output needs storage or complementary supply; siting and transmission affect practicality."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "A low-voltage DC source, test resistor, rheostat, ammeter and voltmeter, with connecting leads.",
+        "explanation": "The rheostat varies the current. The meters record current through and voltage across the test resistor."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Draw a loop containing the cell, ammeter, rheostat and test resistor in series. Draw a voltmeter branch connected across the test resistor.",
+        "explanation": "The series components carry the same current, while the parallel meter samples the potential difference between the resistor’s ends."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "Place the ammeter in series and the voltmeter in parallel across the test component. Observe meter polarity for DC.",
+        "explanation": "An ammeter has low resistance to pass circuit current. A voltmeter has high resistance to draw little current."
+      }
+    ]
+  }
+}

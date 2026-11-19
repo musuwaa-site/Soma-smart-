@@ -1,0 +1,450 @@
+{
+  "sourceId": "source-b58457eeb37bed01",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A genus can contain several species that do not interbreed freely.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Coarse focus can drive the high-power objective into the slide.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Many chloroplasts increase light absorption.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A living cell without hereditary material would challenge a key feature of modern cell theory.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Benches, water and heat sources identify a practical laboratory.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "All three are animals.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Observation, measurement and experimentation generate testable evidence.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Total magnification is 10 × 20 = 200.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "A quadrat samples a known area for estimating grass abundance.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Scientific procedure is the systematic approach to investigating a question.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Observation uses the senses or instruments.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "A hypothesis is a testable proposed explanation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Experiments test a hypothesis under controlled conditions.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Interpreting data identifies patterns and their significance.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Conclusions can suggest new questions and experiments.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Biology studies microorganisms, fungi and the processes that all living systems share, including heredity and ecology.",
+        "explanation": "It extends beyond botany and zoology."
+      },
+      {
+        "label": "3(b)(i)",
+        "type": "written",
+        "answer": "A pooter collects small invertebrates.",
+        "explanation": "It transfers small specimens into a container."
+      },
+      {
+        "label": "3(b)(ii)",
+        "type": "written",
+        "answer": "A sweep net samples insects on vegetation.",
+        "explanation": "Its wide opening sweeps through grass or foliage."
+      },
+      {
+        "label": "3(b)(iii)",
+        "type": "written",
+        "answer": "A hand lens magnifies small features.",
+        "explanation": "Its lens produces an enlarged view."
+      },
+      {
+        "label": "3(b)(iv)",
+        "type": "written",
+        "answer": "A thermometer measures temperature.",
+        "explanation": "Temperature is an important environmental variable."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Draw a light microscope and use roman labels i–v on the coarse focus, fine focus, mirror, condenser and diaphragm respectively.",
+        "explanation": "Place the mirror below the stage and the focusing controls beside the support."
+      },
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Coarse adjustment knob.",
+        "explanation": "It makes large movements for initial focus."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Fine adjustment knob.",
+        "explanation": "Small movements sharpen the image."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Mirror.",
+        "explanation": "It directs light into the illumination path."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Condenser.",
+        "explanation": "It concentrates light on the specimen."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Iris diaphragm.",
+        "explanation": "It varies the aperture to control illumination."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Bread mould.",
+        "explanation": "Common black bread mould belongs to Rhizopus."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Ascomycota, Basidiomycota and Zygomycota in the school classification.",
+        "explanation": "These include yeasts, mushrooms and Rhizopus respectively."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Fungi decompose dead matter, provide edible mushrooms, ferment dough, help produce cheese and provide antibiotics.",
+        "explanation": "Different species have different ecological and commercial roles."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "A green cell deprived of its chloroplasts could no longer photosynthesise.",
+        "explanation": "Its chlorophyll and photosynthetic membranes are in those organelles."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Medicine, particularly orthopaedics and anatomy.",
+        "explanation": "Knowledge of bones helps diagnose and treat fractures."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Veterinary medicine and entomology.",
+        "explanation": "Knowledge of the tsetse fly and its role in disease informs cattle protection."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "Environmental conservation and ecology.",
+        "explanation": "Protecting vegetation and the catchment helps maintain stream flow."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Biology supports understanding of health and hygiene, nutrition, agriculture and environmental conservation.",
+        "explanation": "Connect each reason to a practical example, such as choosing balanced meals or protecting habitats."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Photosynthesis.",
+        "explanation": "It captures light energy to build organic molecules."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Photosynthesis is the use of light energy to form organic food from carbon dioxide and water in chlorophyll-containing organisms.",
+        "explanation": "Oxygen is released during oxygenic photosynthesis."
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "Chloroplast.",
+        "explanation": "It contains chlorophyll and the photosynthetic membranes."
+      },
+      {
+        "label": "7(d)",
+        "type": "written",
+        "answer": "Sugar and oxygen are net products. Water also appears among products in the expanded equation 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O.",
+        "explanation": "The net equation cancels water on both sides; starch is subsequently made from sugars."
+      },
+      {
+        "label": "7(e)",
+        "type": "written",
+        "answer": "It supplies food for most ecosystems, releases oxygen for aerobic respiration and helps remove atmospheric CO₂.",
+        "explanation": "Photosynthesis supports most, though not literally all, ecosystems."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Classification.",
+        "explanation": "It groups organisms."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Biological classification arranges organisms into groups based on shared features and relationships.",
+        "explanation": "The groups make biodiversity easier to study."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Artificial classification uses selected convenient traits. Natural classification uses many characteristics and evolutionary relationships.",
+        "explanation": "The two approaches may place organisms in different groups."
+      },
+      {
+        "label": "8(d)",
+        "type": "written",
+        "answer": "It facilitates identification, consistent communication, comparison of traits and inference about relationships.",
+        "explanation": "Groups summarise similarities and differences."
+      },
+      {
+        "label": "8(e)",
+        "type": "written",
+        "answer": "Taxonomist.",
+        "explanation": "Taxonomy includes identification, naming and classification."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Both typical cells have a membrane, nucleus and cytoplasm. Onion epidermal cells have a cellulose wall, large central vacuole and regular outline; cheek cells lack a wall, have no such large vacuole and are irregular or flattened.",
+        "explanation": "A bulb onion epidermis typically lacks visible chloroplasts."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Draw a brick-shaped onion epidermal cell with wall, membrane, nucleus, cytoplasm and large vacuole. Draw an irregular cheek cell with membrane, cytoplasm and nucleus.",
+        "explanation": "Show the wall and large vacuole only on the onion cell."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(i)",
+        "type": "written",
+        "answer": "Use genetics, plant physiology and ecology to breed crops and manage pests.",
+        "explanation": "This improves crop production."
+      },
+      {
+        "label": "10(ii)",
+        "type": "written",
+        "answer": "Use anatomy, physiology and disease biology to diagnose and treat illness.",
+        "explanation": "Body structure and function inform clinical care."
+      },
+      {
+        "label": "10(iii)",
+        "type": "written",
+        "answer": "Identify nutrient needs and plan balanced diets.",
+        "explanation": "Nutritional biology explains deficiency and energy requirements."
+      },
+      {
+        "label": "10(iv)",
+        "type": "written",
+        "answer": "Study forest growth, biodiversity and conservation.",
+        "explanation": "This supports sustainable forest management."
+      },
+      {
+        "label": "10(v)",
+        "type": "written",
+        "answer": "Use knowledge of organisms and body systems to develop and assess medicines.",
+        "explanation": "For example, biological testing helps evaluate therapeutic effects."
+      },
+      {
+        "label": "10(vi)",
+        "type": "written",
+        "answer": "Use animal biology to prevent and treat livestock disease.",
+        "explanation": "Knowledge of animal anatomy and disease cycles guides veterinary care."
+      }
+    ]
+  }
+}

@@ -1,0 +1,683 @@
+{
+  "sourceId": "source-51f00554e2a9cb41",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "c",
+        "explanation": "Dialogue means a conversation involving speakers taking turns.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "a",
+        "explanation": "May I go out? politely asks permission and Sir or Madam addresses the teacher respectfully.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "d",
+        "explanation": "Listening gives access to spoken information and knowledge from many sources.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "d",
+        "explanation": "A horse neighs.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "d",
+        "explanation": "They refers to two people who are neither the speaker nor the listener.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "c",
+        "explanation": "Magembe is the last name given and the passage identifies her as Tanzanian.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "d",
+        "explanation": "Your sister's son is your nephew.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "b",
+        "explanation": "A dictionary gives spellings, meanings and pronunciations.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "c",
+        "explanation": "The initials stand for smile, breathe, think and talk.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "a",
+        "explanation": "Every weekend signals a habit, expressed by simple present washes.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "b",
+        "explanation": "A cobbler repairs shoes.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "e",
+        "explanation": "A barber cuts hair.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "a",
+        "explanation": "A carpenter makes wooden furniture.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "c",
+        "explanation": "A pilot flies an aircraft.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "f",
+        "explanation": "A doctor treats sick people.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "went",
+        "explanation": "Last holiday places the journey in the past."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "was not",
+        "explanation": "The singular subject car takes was; not makes it negative."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "travelled",
+        "explanation": "This completed trip needs the simple past. Traveled is also valid."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "had",
+        "explanation": "Had never been places the lack of previous experience before that trip."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "was",
+        "explanation": "I takes was in this past-tense narrative."
+      },
+      {
+        "label": "3(vi)",
+        "type": "written",
+        "answer": "stood",
+        "explanation": "Stand has the irregular past form stood."
+      },
+      {
+        "label": "3(vii)",
+        "type": "written",
+        "answer": "asked",
+        "explanation": "Asked is a completed action coordinated with stood."
+      },
+      {
+        "label": "3(viii)",
+        "type": "written",
+        "answer": "saw",
+        "explanation": "The past form of see is saw."
+      },
+      {
+        "label": "3 (take)",
+        "type": "written",
+        "answer": "took",
+        "explanation": "The journey took a stated amount of time."
+      },
+      {
+        "label": "3 (enjoy)",
+        "type": "written",
+        "answer": "enjoyed",
+        "explanation": "The speaker is recalling a completed experience."
+      }
+    ],
+    "4": [
+      {
+        "label": "4 soldiers",
+        "type": "written",
+        "answer": "I saw an army of soldiers.",
+        "explanation": "Army is a collective term for soldiers."
+      },
+      {
+        "label": "4 drawers",
+        "type": "written",
+        "answer": "I saw a chest of drawers.",
+        "explanation": "A chest holds a group of drawers."
+      },
+      {
+        "label": "4 sheep",
+        "type": "written",
+        "answer": "I saw a flock of sheep.",
+        "explanation": "Flock names a group of sheep."
+      },
+      {
+        "label": "4 singers",
+        "type": "written",
+        "answer": "I saw a choir of singers.",
+        "explanation": "Choir names singers performing together."
+      },
+      {
+        "label": "4 stars",
+        "type": "written",
+        "answer": "I saw a constellation of stars.",
+        "explanation": "Constellation names a pattern of stars."
+      },
+      {
+        "label": "4 books",
+        "type": "written",
+        "answer": "I saw a collection of books.",
+        "explanation": "Collection groups the books together."
+      },
+      {
+        "label": "4 soap",
+        "type": "written",
+        "answer": "I saw a bar of soap.",
+        "explanation": "Bar is a unit used with soap."
+      },
+      {
+        "label": "4 shoes",
+        "type": "written",
+        "answer": "I saw a pair of shoes.",
+        "explanation": "Two corresponding shoes form a pair."
+      },
+      {
+        "label": "4 firewood",
+        "type": "written",
+        "answer": "I saw a bundle of firewood.",
+        "explanation": "Bundle describes sticks gathered together."
+      }
+    ],
+    "Unnumbered between 4 and 6": [
+      {
+        "label": "5(a) 1",
+        "type": "written",
+        "answer": "Google Search.",
+        "explanation": "A search engine finds web pages relevant to search terms."
+      },
+      {
+        "label": "5(a) 2",
+        "type": "written",
+        "answer": "Bing.",
+        "explanation": "Bing indexes information and returns search results."
+      },
+      {
+        "label": "5(a) 3",
+        "type": "written",
+        "answer": "Firefox.",
+        "explanation": "Firefox is a browser for opening websites."
+      },
+      {
+        "label": "5(a) 4",
+        "type": "written",
+        "answer": "Chrome.",
+        "explanation": "Chrome displays web pages and can use a search engine."
+      },
+      {
+        "label": "5(b) 1",
+        "type": "written",
+        "answer": "Access English reading materials.",
+        "explanation": "Digital libraries provide texts at different reading levels."
+      },
+      {
+        "label": "5(b) 2",
+        "type": "written",
+        "answer": "Check unfamiliar vocabulary.",
+        "explanation": "An online dictionary supplies definitions and examples."
+      },
+      {
+        "label": "5(b) 3",
+        "type": "written",
+        "answer": "Hear spoken English.",
+        "explanation": "Audio recordings model sounds and stress patterns."
+      },
+      {
+        "label": "5(b) 4",
+        "type": "written",
+        "answer": "Practise writing and revising.",
+        "explanation": "Word processors allow students to edit and compare drafts."
+      },
+      {
+        "label": "5(c) 1",
+        "type": "written",
+        "answer": "Online distractions can interrupt practice.",
+        "explanation": "Messages and entertainment can divert attention from a task."
+      },
+      {
+        "label": "5(c) 2",
+        "type": "written",
+        "answer": "Unreliable information can teach errors.",
+        "explanation": "Students need to evaluate the credibility of digital sources."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i) A",
+        "type": "written",
+        "answer": "Forehead.",
+        "explanation": "The forehead is the front of the head above the eyes."
+      },
+      {
+        "label": "6(i) B",
+        "type": "written",
+        "answer": "Arm.",
+        "explanation": "The arm is the upper limb."
+      },
+      {
+        "label": "6(i) C",
+        "type": "written",
+        "answer": "Toes.",
+        "explanation": "Toes are the digits of the foot."
+      },
+      {
+        "label": "6(i) D",
+        "type": "written",
+        "answer": "Eye.",
+        "explanation": "The eye is the organ of sight."
+      },
+      {
+        "label": "6(i) E",
+        "type": "written",
+        "answer": "Mouth.",
+        "explanation": "The mouth is the opening used in speaking."
+      },
+      {
+        "label": "6(i) F",
+        "type": "written",
+        "answer": "Stomach or abdomen.",
+        "explanation": "The label points to the belly area."
+      },
+      {
+        "label": "6(i) G",
+        "type": "written",
+        "answer": "Ear.",
+        "explanation": "The ear is the organ of hearing."
+      },
+      {
+        "label": "6(i) H",
+        "type": "written",
+        "answer": "Nose.",
+        "explanation": "The nose lies above the mouth."
+      },
+      {
+        "label": "6(i) I",
+        "type": "written",
+        "answer": "Shoulder.",
+        "explanation": "The shoulder joins the arm to the trunk."
+      },
+      {
+        "label": "6(i) J",
+        "type": "written",
+        "answer": "Leg.",
+        "explanation": "The leg is the lower limb."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "Brain, eyes, ears and mouth.",
+        "explanation": "These support thinking, reading, listening and speaking during a lesson."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "The brain understands ideas; eyes read and observe; ears hear the teacher; the mouth helps articulate responses.",
+        "explanation": "Each organ has a distinct role in receiving, processing or expressing language."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "we",
+        "explanation": "We is the first-person plural subject pronoun."
+      },
+      {
+        "label": "7(ii) He",
+        "type": "written",
+        "answer": "they",
+        "explanation": "They is the plural subject form of he."
+      },
+      {
+        "label": "7(ii) me",
+        "type": "written",
+        "answer": "us",
+        "explanation": "The plural object form of me is us."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "they",
+        "explanation": "They is the plural subject form of she."
+      },
+      {
+        "label": "7(iv) You",
+        "type": "written",
+        "answer": "you",
+        "explanation": "English uses you for one or more listeners."
+      },
+      {
+        "label": "7(iv) your",
+        "type": "written",
+        "answer": "your",
+        "explanation": "Your can be singular or plural."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "our",
+        "explanation": "Our refers to possession by several people including the speaker."
+      },
+      {
+        "label": "7(vi)",
+        "type": "written",
+        "answer": "them",
+        "explanation": "The plural object form of him is them."
+      },
+      {
+        "label": "7(vii)",
+        "type": "written",
+        "answer": "them",
+        "explanation": "The object her becomes them for more than one person."
+      },
+      {
+        "label": "7(viii)",
+        "type": "written",
+        "answer": "these",
+        "explanation": "These refers to several nearby things."
+      },
+      {
+        "label": "7(ix)",
+        "type": "written",
+        "answer": "those",
+        "explanation": "Those refers to several more distant things."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "I wake up early each morning.",
+        "explanation": "The first sentence describes an activity at home and uses early."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "I brush my teeth before breakfast.",
+        "explanation": "This is the second activity at home."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "At school we line up outside our classrooms.",
+        "explanation": "This begins the school routine."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Our prefect carries out an inspection.",
+        "explanation": "The noun inspection names the check."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "We attend assembly before our first lesson.",
+        "explanation": "The final sentence completes the sequence. Other coherent routines using the required words are valid."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)(i)",
+        "type": "written",
+        "answer": "a",
+        "explanation": "Pair starts with a consonant sound and is first mentioned."
+      },
+      {
+        "label": "9(a)(ii)",
+        "type": "written",
+        "answer": "an",
+        "explanation": "Umbrella begins with a vowel sound and is introduced here."
+      },
+      {
+        "label": "9(a)(iii)",
+        "type": "written",
+        "answer": "a",
+        "explanation": "The boy is newly introduced in the narrative."
+      },
+      {
+        "label": "9(a)(iv)",
+        "type": "written",
+        "answer": "the",
+        "explanation": "The boy has already been identified."
+      },
+      {
+        "label": "9(a)(v)",
+        "type": "written",
+        "answer": "the",
+        "explanation": "The umbrella refers to the one Neema bought."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "who",
+        "explanation": "Who is the subject of stole and refers to the boy."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "whose",
+        "explanation": "Whose shows that the daughter is related to the man."
+      },
+      {
+        "label": "9(b)(iii)",
+        "type": "written",
+        "answer": "which",
+        "explanation": "Which introduces a relative clause about the stick."
+      },
+      {
+        "label": "9(b)(iv)",
+        "type": "written",
+        "answer": "whom",
+        "explanation": "Whom refers to the boy as the object of about."
+      },
+      {
+        "label": "9(b)(v)",
+        "type": "written",
+        "answer": "what",
+        "explanation": "What I wanted means the thing that I wanted."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "Two stanzas.",
+        "explanation": "The marking guide groups the ten lines into two stanzas."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Five lines in each stanza.",
+        "explanation": "The word verses is used here for individual lines."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "The poet feels happy and proud.",
+        "explanation": "Pride, delight and glee express joy over the examination."
+      },
+      {
+        "label": "10(d)",
+        "type": "written",
+        "answer": "Like birds singing in the sky.",
+        "explanation": "Like introduces the comparison."
+      }
+    ],
+    "11": [
+      {
+        "label": "11(a)",
+        "type": "written",
+        "answer": "Hawa the Bus Driver.",
+        "explanation": "This is one example of a suitable class reader."
+      },
+      {
+        "label": "11(b)",
+        "type": "written",
+        "answer": "Richard S. Mabala.",
+        "explanation": "Mabala wrote Hawa the Bus Driver."
+      },
+      {
+        "label": "11(c)",
+        "type": "written",
+        "answer": "Hawa and Seleman; Saada and Hassan are members of the family.",
+        "explanation": "Use characters from the reader named in part (a)."
+      },
+      {
+        "label": "11(d)",
+        "type": "written",
+        "answer": "I admire Hawa because she is courageous and pursues her profession as a bus driver.",
+        "explanation": "The reason links the personal preference to what Hawa does."
+      },
+      {
+        "label": "11(e)",
+        "type": "written",
+        "answer": "Women can carry out skilled jobs traditionally assumed to belong to men.",
+        "explanation": "Hawa's work as a bus driver supports this lesson."
+      }
+    ]
+  }
+}

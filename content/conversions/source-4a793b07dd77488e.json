@@ -1,0 +1,405 @@
+{
+  "sourceId": "source-4a793b07dd77488e",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Positive protons account for nuclear charge.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Oxygen supports common combustion reactions.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Nitrogen gas is not part of the overall aerobic respiration equation.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Dissolved magnesium sulfate causes permanent hardness.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "review",
+        "answer": "No listed option applies to all four substances.",
+        "explanation": "Oxygen and nitrogen are elements rather than compounds; hydrogen sulfide is not a major constituent of air."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "In the main groups, the elements have corresponding outer-shell electron configurations.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "review",
+        "answer": "The words “is always” make this item ambiguous.",
+        "explanation": "Free elemental metals have oxidation state zero, whereas metals commonly have positive oxidation states in compounds."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "207 − 82 gives 125 neutrons; a neutral atom also has 82 electrons.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Iron rusts when both oxygen and water are available.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Negative evidence can lead to a revised hypothesis and further testing.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)(i)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Helium, atomic number 2, is a noble gas.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(a)(ii)",
+        "type": "mcq",
+        "answer": "G",
+        "explanation": "Non-metals commonly share electrons in covalent bonds.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(a)(iii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Several non-metals occur in these main groups, although not every member is a non-metal.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(a)(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Vertical columns are groups.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(a)(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Alkali metals react readily with water.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(b)(i)",
+        "type": "written",
+        "answer": "During experimentation.",
+        "explanation": "The predicted outcome is compared with measurements."
+      },
+      {
+        "label": "2(b)(ii)",
+        "type": "written",
+        "answer": "Temperature and pressure, together with the strength of intermolecular attraction.",
+        "explanation": "A substance may be solid, liquid or gas as conditions change."
+      },
+      {
+        "label": "2(b)(iii)",
+        "type": "written",
+        "answer": "Bulk physical properties such as density, boiling range or colour.",
+        "explanation": "Changing composition changes the contribution of each component."
+      },
+      {
+        "label": "2(b)(iv)",
+        "type": "written",
+        "answer": "Atoms.",
+        "explanation": "Elements consist of atoms, which can bond into molecules or other structures."
+      },
+      {
+        "label": "2(b)(v)",
+        "type": "written",
+        "answer": "Electrons, particularly outer-shell electrons.",
+        "explanation": "Electron transfer occurs in redox reactions; other reactions can involve sharing or rearrangement."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "A candle gives relatively low, poorly adjustable heat and may deposit soot.",
+        "explanation": "Its luminous flame undergoes incomplete combustion."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Luminous: yellow, bright, cooler, sooty, less complete combustion with restricted air. Non-luminous: blue, less visible, hotter, clean, more complete combustion with air admitted.",
+        "explanation": "Link the differences to oxygen supply and combustion completeness."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Dalton proposed that matter consists of atoms, atoms of each element share properties, atoms combine in simple whole-number ratios, and chemical reactions rearrange atoms without creating or destroying them.",
+        "explanation": "This is the historical theory; isotopes differ in mass and atoms have internal structure."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Calcium: group 2, period 4.",
+        "explanation": "Electron arrangement ends in 4s²."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Hydrogen: group 1, period 1.",
+        "explanation": "It has one electron in its first shell."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Chlorine: group 17 (VII), period 3.",
+        "explanation": "It has seven outer electrons in its third shell."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Boron: group 13 (III), period 2.",
+        "explanation": "It has three outer electrons in the second shell."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Aluminium: group 13 (III), period 3.",
+        "explanation": "Its three outer electrons are in the third shell."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Medicine: test whether a treatment improves recovery. Agriculture: compare crop growth under different fertiliser treatments.",
+        "explanation": "Both require controlled comparisons and measurable outcomes."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Independent variable: deliberately changed. Dependent variable: measured outcome. Controlled variables: kept constant.",
+        "explanation": "Control of other factors helps identify the cause of an observed change."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "Unsustainable charcoal production removes trees and burning charcoal releases carbon dioxide and other pollutants.",
+        "explanation": "Forest loss and emissions have environmental costs."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "Charcoal can be locally available, easy to store and use with inexpensive stoves, especially where alternative fuels are costly or inaccessible.",
+        "explanation": "Cost and infrastructure influence household fuel choice."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "About 83.5 K (83.5 °C rise), assuming all heat goes to the water without boiling.",
+        "explanation": "Q = 0.0200 × 43640 = 872.8 kJ; ΔT = 872.8/(2.5 × 4.18) ≈ 83.5 K."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Petrol gives off readily ignitable vapour and spills can spread a fire rapidly.",
+        "explanation": "It creates unnecessary fire and vapour hazards in a classroom."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Electric hotplate, electric kettle and a suitable laboratory water heater or heating mantle for a suitable flask.",
+        "explanation": "Each transfers heat without a Bunsen burner."
+      },
+      {
+        "label": "7(c)",
+        "type": "review",
+        "answer": "The printed sequence has no unique safe six-step answer.",
+        "explanation": "A and F repeat closing the air hole; opening gas fully before ignition risks releasing unburnt gas. Follow a teacher’s approved procedure."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)(i)",
+        "type": "written",
+        "answer": "Little or no rust while fully immersed in oxygen-depleted boiling water.",
+        "explanation": "Boiling drives dissolved oxygen out; oxygen can re-enter when water cools in air."
+      },
+      {
+        "label": "8(a)(ii)",
+        "type": "written",
+        "answer": "No rust where paint is intact.",
+        "explanation": "The coating excludes oxygen and water."
+      },
+      {
+        "label": "8(a)(iii)",
+        "type": "written",
+        "answer": "Rust forms.",
+        "explanation": "Unboiled water contains dissolved oxygen."
+      },
+      {
+        "label": "8(a)(iv)",
+        "type": "written",
+        "answer": "No rust where an unbroken oil layer protects iron.",
+        "explanation": "Oil excludes moisture and oxygen."
+      },
+      {
+        "label": "8(a)(v)",
+        "type": "written",
+        "answer": "No iron rust forms.",
+        "explanation": "Aluminium is not iron and usually forms its own protective oxide."
+      },
+      {
+        "label": "8(a)(vi)",
+        "type": "written",
+        "answer": "No rust if it remains dry.",
+        "explanation": "Dry cotton alone does not exclude later moisture."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Paint, oil or grease, coat with plastic, or galvanise with zinc.",
+        "explanation": "Barrier layers block water and oxygen; zinc also protects sacrificially."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "H₂O₂ and KMnO₄.",
+        "explanation": "Both compounds can release oxygen on decomposition."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "Colourless, odourless and only slightly soluble in water under ordinary conditions.",
+        "explanation": "These are physical characteristics rather than chemical reactions."
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "It enables aerobic respiration in animals, plants and microbes, sustains aquatic organisms as dissolved oxygen, supports useful combustion and supports aerobic decomposition.",
+        "explanation": "Use five distinct applications or ecological roles and explain their dependence on oxygen."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Cuts from broken glass: inspect and handle glass carefully. Burns from hot equipment: use tongs. Eye splashes: use goggles. Inhalation of fumes: use appropriate ventilation. Slips on spills: isolate and clean spills according to instructions.",
+        "explanation": "For each accident connect a realistic cause to a precaution that interrupts it."
+      }
+    ]
+  }
+}

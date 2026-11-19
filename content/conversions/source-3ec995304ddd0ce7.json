@@ -1,0 +1,203 @@
+{
+  "sourceId": "source-3ec995304ddd0ce7",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Maadili huongoza mwenendo."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Uaminifu huwezesha watu kushirikiana."
+      },
+      {
+        "label": "1(iii)",
+        "type": "review",
+        "answer": "Historia inaweza kutufundisha uongozi na kuelewa mapinduzi. Swali halibainishi lengo moja kati ya B na D.",
+        "explanation": "Jadiliana kuhusu ushahidi wa kila chaguo. Swali hili halihesabiwi kwa ufunguo mmoja."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Rushwa inahusisha faida ili kupotosha uamuzi au huduma."
+      },
+      {
+        "label": "1(v)",
+        "type": "review",
+        "answer": "Hakukuwa na kiongozi mmoja kwa jamii zote. Baadhi ziliongozwa na mtemi au mfalme, nyingine na wazee au viongozi wa ukoo.",
+        "explanation": "Jadiliana kuhusu ushahidi wa kila chaguo. Swali hili halihesabiwi kwa ufunguo mmoja."
+      },
+      {
+        "label": "1(vi)",
+        "type": "review",
+        "answer": "Jibu hutegemea eneo. Madaraka ya machifu Tanganyika yalipunguzwa baada ya uhuru, na usultani Zanzibar uliisha mwaka 1964.",
+        "explanation": "Jadiliana kuhusu ushahidi wa kila chaguo. Swali hili halihesabiwi kwa ufunguo mmoja."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Maadili ni sehemu ya utambulisho wa jamii."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Makumbusho huhifadhi na kutafsiri vitu vya urithi."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Mila ziliweka utaratibu wa kuheshimiana."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Utawala wa kikoloni ulibadili mamlaka na taasisi zilizokuwapo."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "answer": {
+          "i": "E",
+          "ii": "C",
+          "iii": "A",
+          "iv": "F",
+          "v": "G"
+        },
+        "explanation": "Wabantu walihusishwa na Afrika Magharibi; Wakichembe ni miongoni mwa wakazi wa awali; Waalawa na Wagorowa ni jamii za Kikushito; ufugaji ulihusishwa na Wanilo na Wahadimu waliishi kusini na kati mwa Unguja."
+      }
+    ],
+    "3": [
+      {
+        "label": "3",
+        "type": "written",
+        "answer": "Urithi hutunza utambulisho, kumbukumbu na maarifa; hifadhi asilia hulinda viumbe na vyanzo vya maji; zote pia huwezesha utafiti, elimu na utalii.",
+        "explanation": "Onyesha faida za urithi wa utamaduni na faida za kuhifadhi mazingira."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Kulinda misitu na vyanzo vya maji; kuripoti ujangili; kupanda miti ya asili; kutotupa taka kwenye mito; kushiriki katika elimu na mipango ya hifadhi.",
+        "explanation": "Hifadhi inahitaji vitendo binafsi na ushirikiano wa jamii."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Kuelimisha watu juu ya haki zao; kuweka taratibu na gharama za huduma hadharani; kuripoti rushwa kwa TAKUKURU; kuwakinga watoa taarifa; kuchunguza na kuwawajibisha wahusika kwa mujibu wa sheria.",
+        "explanation": "Kuzuia rushwa kunahitaji uwazi, elimu, ulinzi na sheria."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Kujifunza kwa vitendo, uanagenzi, kutumia lugha ya jamii, kusimulia historia na kuwajibika kwa kazi za pamoja.",
+        "explanation": "Taja vipengele vinavyoweza kuboresha elimu ya leo bila kuendeleza ubaguzi."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Mafundisho ya dini huhimiza ukweli na huruma; taasisi za dini husaidia wahitaji, kusuluhisha migogoro na kufundisha uwajibikaji.",
+        "explanation": "Toa mfano wa tendo linalohusisha imani na maadili."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Uwezo wa kusuluhisha migogoro, uzoefu, kutunza maslahi ya watu, uhalali wa kimila na kusikiliza baraza la wazee.",
+        "explanation": "Kiongozi aliheshimika kwa majukumu na utendaji wake; hali ilitofautiana kati ya jamii."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Rushwa, shinikizo la rika, unyanyasaji, habari za uongo na viongozi kutowajibika.",
+        "explanation": "Eleza namna kila changamoto inavyoharibu uaminifu au haki."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Wazee walishauri viongozi, kusuluhisha migogoro, kuhifadhi historia, kuelekeza vijana na kusimamia matumizi ya rasilimali. Kwa mfano, baraza lingeweza kupatanisha familia zilizogombania ardhi.",
+        "explanation": "Hoja tano zionyeshe majukumu ya wazee na athari zake katika utawala."
+      }
+    ]
+  }
+}

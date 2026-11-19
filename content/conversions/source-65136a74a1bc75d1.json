@@ -1,0 +1,306 @@
+{
+  "sourceId": "source-65136a74a1bc75d1",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "c",
+        "explanation": "Physics studies the interactions of matter and energy."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "a",
+        "explanation": "Scientists specialising in physics are physicists."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "b",
+        "explanation": "Practical work is a method used across branches."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "b",
+        "explanation": "Matter occupies space and has mass."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "a",
+        "explanation": "Theories in the natural sciences are tested by observation and experiment."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "c",
+        "explanation": "Laboratory rules reduce the risk of injury and damage."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "b",
+        "explanation": "Get emergency help; ensure the electricity is safely disconnected before touching the person. Follow trained emergency instructions."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "d",
+        "explanation": "The metre is the SI base unit for length."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "a",
+        "explanation": "A timetable is less essential to performing experiments safely than the listed safety equipment. The comparison with a bookshelf depends on local arrangements."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "a",
+        "explanation": "Pipettes, measuring cylinders and burettes all measure liquid volume."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "A",
+          "iii": "H",
+          "iv": "D",
+          "v": "B"
+        },
+        "explanation": "Astronomy studies celestial bodies, electronics concerns electrons in materials and devices, geophysics applies physics to Earth, electromagnetism links electric and magnetic fields, and mechanics studies force and motion."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "A room equipped for practical investigation of physical phenomena.",
+        "explanation": "Measuring instruments and apparatus allow students to test predictions."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Follow instructions; use protective equipment; keep walkways clear; avoid food and drink; report breakages and accidents.",
+        "explanation": "These rules reduce hazards from equipment, spills and accidental exposure."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Outward-opening doors help people evacuate quickly.",
+        "explanation": "A crowd moving towards the exit can push the door in its direction of travel."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "A slippery polished floor increases the risk of falls.",
+        "explanation": "A nonslip surface provides grip, especially around equipment."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "A stocked first-aid kit enables prompt basic care for injuries while appropriate help is sought.",
+        "explanation": "Quick attention can reduce harm."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "X-rays reveal internal structures, ultrasound images tissues, MRI images organs and optical microscopes magnify cells.",
+        "explanation": "These applications use radiation, sound, magnetism and lenses."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Brakes use friction, ships use buoyancy, aircraft use lift and engines convert energy to motion.",
+        "explanation": "Physical laws explain how vehicles move, float and stop."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "Thermometers measure temperature, barometers pressure, anemometers wind speed and radar detects precipitation.",
+        "explanation": "Measurements describe the atmosphere and help forecast weather."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "Mobile phones, radio, fibre-optic links and satellite communications transmit information.",
+        "explanation": "They encode signals in electromagnetic waves or pulses of light."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Physics explains everyday events, develops measurement skills, helps us use technology safely and prepares students for engineering or medical careers.",
+        "explanation": "Examples include predicting travel time, handling electrical equipment and understanding lenses."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Draw a scale and a pointer slightly above it. Draw three sight lines: directly above and to each side. Only the perpendicular sight line gives the correct reading.",
+        "explanation": "An oblique view appears to shift the pointer along the scale. For a liquid level, bring the eye level with the meniscus."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Metre rule, measuring tape, Vernier calipers, micrometer screw gauge and a trundle wheel.",
+        "explanation": "Each measures a length, with a range and precision suited to different objects or distances."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Base quantities such as length and time are defined independently, have base units and form the chosen base set. Derived quantities such as speed follow equations using base quantities, use combinations of base units and can be defined in many combinations.",
+        "explanation": "For example, speed = distance/time, so its SI unit is m/s."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "604,800 s.",
+        "explanation": "7 × 24 hours/day × 60 minutes/hour × 60 seconds/minute."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "SMS, email, instant message or fax.",
+        "explanation": "Each can transmit a written message rapidly when the corresponding service is available."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Physics tests predictions using observations, experiments and measurements.",
+        "explanation": "Repeated evidence can support a model or show that it needs revision."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Length, specifically waist circumference.",
+        "explanation": "Circumference measures the distance around the waist."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "A flexible measuring tape.",
+        "explanation": "It follows the curved waistline and gives a length reading."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "Stars, the Moon and visible planets such as Venus or Jupiter.",
+        "explanation": "These are astronomical objects that can be seen from Earth when viewing conditions permit."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "0.065 kg.",
+        "explanation": "Divide grams by 1,000."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "85,000 dm.",
+        "explanation": "1 dam = 10 m = 100 dm. Multiply 850 by 100."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "Sunlight would cease, Earth would cool profoundly and photosynthesis would stop. Also, without the Sun’s gravity Earth would no longer follow its present orbit.",
+        "explanation": "Sunlight supplies heat and energy for food production, and solar gravity maintains Earth’s orbit."
+      }
+    ]
+  }
+}

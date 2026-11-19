@@ -1,0 +1,353 @@
+{
+  "sourceId": "source-76ba5b7bc68bc768",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "c",
+        "explanation": "Immunology studies the body’s defence against disease.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "b",
+        "explanation": "Magnification equals drawing length divided by actual length: 8/2 = 4.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "c",
+        "explanation": "A controlled variable is deliberately kept constant.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "b",
+        "explanation": "Bacteria are single-celled prokaryotes.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "c",
+        "explanation": "Chloroplasts carry out photosynthesis.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "b",
+        "explanation": "Most of the genetic material in an animal cell is in its nucleus.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "c",
+        "explanation": "Cocos nucifera is coconut palm.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "c",
+        "explanation": "A bacteriophage is a virus whose hosts are bacteria.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "b",
+        "explanation": "Saccharomyces yeasts belong to Ascomycota.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "c",
+        "explanation": "Some flagellates such as Trypanosoma swim using a flagellum associated with an undulating membrane.",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "E. coli is a common cause of urinary tract infections.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Trypanosoma brucei causes African sleeping sickness.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Entamoeba histolytica causes amoebic dysentery.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Streptococcus pneumoniae is a bacterial cause of pneumonia.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Treponema pallidum causes syphilis.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Keeping other factors constant helps isolate the effect of the independent variable.",
+        "explanation": "An uncontrolled difference could otherwise explain the observed result."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Identify a problem, gather information, state a hypothesis, design and conduct a test, record observations, analyse the results and draw and communicate a conclusion.",
+        "explanation": "The conclusion must be based on the evidence collected."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)(a)",
+        "type": "written",
+        "answer": "Mycelium, a network of hyphae; the visible mushroom is the fruiting body or basidiocarp.",
+        "explanation": "Distinguish the feeding body from the reproductive structure."
+      },
+      {
+        "label": "4(i)(b)",
+        "type": "written",
+        "answer": "Glycogen.",
+        "explanation": "Fungi store carbohydrate mainly as glycogen."
+      },
+      {
+        "label": "4(i)(c)",
+        "type": "written",
+        "answer": "Draw the cap with gills underneath, stalk, ring where present, and basal mycelium; label each.",
+        "explanation": "The gills bear the spore-producing surfaces."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Fungi recycle nutrients through decomposition, provide edible mushrooms and ferment dough or drinks through yeast.",
+        "explanation": "Each example shows a distinct ecological or economic benefit."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Xylem transports water and mineral ions; phloem transports sugars made in leaves.",
+        "explanation": "These are the specialised vascular tissues of plants."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Living organisms consist of one or more cells; cells are the basic units of structure and function; new cells arise from existing cells; cells contain hereditary information passed on during division; energy transformations occur in cells; cells share basic chemical composition.",
+        "explanation": "Modern cell theory extends the original three statements to cover heredity, metabolism and composition."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "Conditions: light and chlorophyll. Raw materials: carbon dioxide and water.",
+        "explanation": "Raw materials are consumed to form products."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ in the presence of light and chlorophyll.",
+        "explanation": "Carbon, hydrogen and oxygen atoms balance on both sides."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "Photosynthesis is the overall process of using light to synthesise organic compounds. Photolysis is the splitting of water during its light-dependent reactions.",
+        "explanation": "Photolysis releases electrons, hydrogen ions and oxygen."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "Magnesium for chlorophyll; phosphorus or potassium for flowering and fruit development.",
+        "explanation": "Magnesium is part of chlorophyll; adequate phosphorus and potassium support reproductive growth."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Use the genus and species epithet, capitalise only the genus, and italicise both words in print or underline each separately by hand.",
+        "explanation": "These conventions identify a binomial scientific name."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Mango: Mangifera indica. Coconut palm: Cocos nucifera.",
+        "explanation": "The same binomials are recognised across languages."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Kingdom Plantae; flowering plants (division Magnoliophyta or Angiospermophyta); monocots (class Liliopsida or Monocotyledonae).",
+        "explanation": "Maize is a flowering plant with one cotyledon."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)(a)",
+        "type": "written",
+        "answer": "Sugarcane is a monocot; avocado is a dicot in the school classification.",
+        "explanation": "The groups differ in seed-leaf number."
+      },
+      {
+        "label": "8(i)(b)",
+        "type": "written",
+        "answer": "Sugarcane: parallel veins, scattered stem vascular bundles, fibrous roots, one cotyledon. Avocado: netted veins, vascular bundles in a ring, taproot, two cotyledons.",
+        "explanation": "Compare the same feature in both plants."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Male cones bear pollen sacs and release pollen. Female cones bear ovules on scales and develop seeds after fertilisation.",
+        "explanation": "Reproductive structures identify cone sex more reliably than size alone."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Bryophytes usually remain small because they lack well-developed vascular and supporting tissues.",
+        "explanation": "Pteridophytes have xylem and phloem for long-distance transport."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Agriculture applies plant and animal biology in crop breeding, livestock nutrition and pest management. Forestry applies plant ecology to managing trees and protecting forest biodiversity.",
+        "explanation": "Both fields apply knowledge of organisms and their environment."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Possible reasons are to understand health, improve agricultural practice and prepare for a career in conservation or medicine.",
+        "explanation": "Give three distinct personal reasons linked to biological knowledge."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(i)",
+        "type": "written",
+        "answer": "One longitudinal plane divides the body into approximately mirror-image left and right halves.",
+        "explanation": "Bilateral refers to the two sides."
+      },
+      {
+        "label": "10(ii)",
+        "type": "written",
+        "answer": "Bees pollinate crops and produce honey; silkworms make silk; prawns are food; dung beetles recycle organic matter; ladybirds control aphids.",
+        "explanation": "Tie each of the six benefits to a fitting example."
+      }
+    ]
+  }
+}

@@ -1,0 +1,521 @@
+{
+  "sourceId": "source-8302435c3f20ce3c",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A general encyclopaedia primarily explains topics; a dictionary is the usual reference for pronunciations. Some digital encyclopaedias also supply audio.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Ship /ɪ/ contrasts with sheep /iː/. In many accents the vowels differ in both length and quality.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Suffer from is the normal construction with a disease.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Those stands independently and points out particular books.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "We takes the base form eat in the simple present.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "She will drink expresses an action in the future.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Through describes a path from one side of the window to the other.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "The verb is stressed on the second syllable and the noun on the first.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "A pronoun can stand for an already identified noun phrase.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Proper names begin with capital letters.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "Sick and seek have the same consonants but different vowels.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "H",
+        "explanation": "Flesh and fresh differ in /l/ and /r/.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Gate and get differ in vowel.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "written",
+        "answer": "B or G",
+        "explanation": "Glow and grow differ in /l/ and /r/. Glow and slow also differ by a single initial consonant, so both are defensible."
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Road and load contrast /r/ with /l/.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "was",
+        "explanation": "It is singular and the sentence describes the past."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "were",
+        "explanation": "People is plural."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "was",
+        "explanation": "The person named Simkwai takes singular was."
+      },
+      {
+        "label": "3(iv)",
+        "type": "review",
+        "answer": "There is no grammatical one-word completion from the box. A corrected sentence is It was cloudy.",
+        "explanation": "The printed wording There ... cloudy lacks the usual weather subject it."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "were",
+        "explanation": "Birds is plural."
+      },
+      {
+        "label": "3(vi)",
+        "type": "written",
+        "answer": "was",
+        "explanation": "Was raining is the past continuous."
+      },
+      {
+        "label": "3(vii)",
+        "type": "written",
+        "answer": "was",
+        "explanation": "Was being describes conduct in progress."
+      },
+      {
+        "label": "3(viii)",
+        "type": "written",
+        "answer": "were",
+        "explanation": "Villagers is plural."
+      },
+      {
+        "label": "3(ix)",
+        "type": "written",
+        "answer": "was, had or has",
+        "explanation": "Was prepared describes readiness; had or has prepared describes the action of getting ready."
+      },
+      {
+        "label": "3(x)",
+        "type": "written",
+        "answer": "were",
+        "explanation": "Her parents is a plural subject."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "goes",
+        "explanation": "Third-person singular go takes -es."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "likes",
+        "explanation": "Mwajuma is a singular subject."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "write",
+        "explanation": "Juma and Juliet form a plural subject."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "walk",
+        "explanation": "We takes the base form."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "wash",
+        "explanation": "They takes the base form."
+      },
+      {
+        "label": "4(vi)",
+        "type": "written",
+        "answer": "speak",
+        "explanation": "Use the base form with I."
+      },
+      {
+        "label": "4(vii)",
+        "type": "written",
+        "answer": "drive",
+        "explanation": "With we use drive, even when often intervenes."
+      },
+      {
+        "label": "4(viii)",
+        "type": "written",
+        "answer": "sweeps",
+        "explanation": "Third-person singular she takes -s."
+      },
+      {
+        "label": "4(ix)",
+        "type": "written",
+        "answer": "picks",
+        "explanation": "The subject he requires picks."
+      },
+      {
+        "label": "4(x)",
+        "type": "written",
+        "answer": "teaches",
+        "explanation": "Teach takes -es with a singular subject."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Imma writes to Rehema.",
+        "explanation": "The salutation names the recipient and the closing names the sender."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "An invitation to a birthday party.",
+        "explanation": "Imma explicitly mentions planning a birthday party."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "Tabata Relini, on Saturday 12 November.",
+        "explanation": "The invitation labels the place and date."
+      },
+      {
+        "label": "5(d)",
+        "type": "written",
+        "answer": "Wear comfortable blue clothing.",
+        "explanation": "Guests can choose their clothes provided that they are blue."
+      },
+      {
+        "label": "5(e)",
+        "type": "written",
+        "answer": "At 2:00 p.m.",
+        "explanation": "The invitation gives this as the starting time."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "doctor",
+        "explanation": "A doctor treats patients at a hospital."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "teacher",
+        "explanation": "A teacher helps students acquire knowledge."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "dentist",
+        "explanation": "A dentist treats problems affecting teeth."
+      },
+      {
+        "label": "6(a)(iv)",
+        "type": "written",
+        "answer": "designer",
+        "explanation": "A designer develops designs."
+      },
+      {
+        "label": "6(a)(v)",
+        "type": "written",
+        "answer": "pilot",
+        "explanation": "A pilot flies aircraft."
+      },
+      {
+        "label": "6(a)(vi)",
+        "type": "written",
+        "answer": "typist",
+        "explanation": "A typist types documents."
+      },
+      {
+        "label": "6(a)(vii)",
+        "type": "written",
+        "answer": "butcher",
+        "explanation": "A butcher prepares or sells meat."
+      },
+      {
+        "label": "6(a)(viii)",
+        "type": "written",
+        "answer": "tailor",
+        "explanation": "A tailor makes or alters clothes."
+      },
+      {
+        "label": "6(a)(ix)",
+        "type": "written",
+        "answer": "receptionist",
+        "explanation": "A receptionist welcomes visitors."
+      },
+      {
+        "label": "6(a)(x)",
+        "type": "written",
+        "answer": "mechanic",
+        "explanation": "A mechanic repairs vehicles and machinery."
+      }
+    ],
+    "7": [
+      {
+        "label": "7 5:30–6:00",
+        "type": "written",
+        "answer": "I wash my face and brush my teeth.",
+        "explanation": "A morning hygiene activity fits the first period after waking."
+      },
+      {
+        "label": "7 6:00–6:30",
+        "type": "written",
+        "answer": "I dress and eat breakfast.",
+        "explanation": "These activities prepare me for school."
+      },
+      {
+        "label": "7 6:30–6:40",
+        "type": "written",
+        "answer": "I pack my books.",
+        "explanation": "This is plausible in a ten-minute interval."
+      },
+      {
+        "label": "7 6:40–7:30",
+        "type": "written",
+        "answer": "I walk to school.",
+        "explanation": "The longer interval can be used for the journey."
+      },
+      {
+        "label": "7 7:30–7:40",
+        "type": "written",
+        "answer": "I line up for assembly.",
+        "explanation": "The final school activity fits the end of the timetable. Other realistic personal routines are valid."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Information and Communication Technology.",
+        "explanation": "ICT covers technology for storing, processing and sharing information."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Books, radio broadcasts and educational websites.",
+        "explanation": "These supply written, spoken or multimedia information."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Facebook, LinkedIn and Instagram.",
+        "explanation": "These social networking services can carry information from organisations and individuals."
+      },
+      {
+        "label": "8(d)",
+        "type": "written",
+        "answer": "Google Search and Bing.",
+        "explanation": "Both locate online resources using search terms."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Kazi na Utu + Fatuma → Eliud and Ellen. Eliud + Ester → Enock and Eliza. Enock + Eva → Emmy. Emmy + Emma → Enel and Eliza. Ellen + Elisha → Evan. Evan + Evodia → Erick and Emil.",
+        "explanation": "Connect each child to the correct couple, distinguish the two people named Eliza, and use the shape convention printed in the question."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "Great-great-grandfather.",
+        "explanation": "For Emmy’s children Enel and Eliza, follow four parent-child links back through Emmy, Enock and Eliud to Kazi na Utu."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "Aunt.",
+        "explanation": "Ellen is the sister of their father Eliud."
+      },
+      {
+        "label": "9(b)(iii)",
+        "type": "written",
+        "answer": "Sisters-in-law.",
+        "explanation": "Ester is married to Ellen's brother Eliud."
+      },
+      {
+        "label": "9(b)(iv)",
+        "type": "written",
+        "answer": "Parents-in-law.",
+        "explanation": "Emma married Emmy, whose parents are Enock and Eva."
+      },
+      {
+        "label": "9(b)(v)",
+        "type": "written",
+        "answer": "Fatuma, Ester, Eva, Ellen and Evodia are identifiable wives. Emmy and Emma are also a married couple.",
+        "explanation": "The passage does not explicitly say which partner of that last couple is the wife; do not decide solely from the names."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "P.O. Box 14, Mbeya. 16 November 2025. Dear Asha, I was deeply saddened to hear of the death of your mother. I remember how kindly she welcomed us when we visited your home. I am thinking of you and your family. If it would help, I can bring you the class notes or come and sit with you after school. Please accept my heartfelt condolences. Your friend, Rehema.",
+        "explanation": "A personal condolence letter acknowledges the loss gently, expresses sympathy and offers appropriate support before closing warmly."
+      }
+    ]
+  }
+}

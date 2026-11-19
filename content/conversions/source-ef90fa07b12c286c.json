@@ -1,0 +1,464 @@
+{
+  "sourceId": "source-ef90fa07b12c286c",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Physics connects matter, energy and their interactions."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Laboratory rules address hazards, injuries and safe use of apparatus."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Measurements assign numbers with units to observable quantities."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Density is kg divided by cubic metres."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A torque produces torsion or twisting."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A body floating steadily has balanced gravity and buoyancy."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Attraction between unlike substances is adhesion."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A manometer uses a liquid column to compare pressures."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "From P = F/A, F = PA."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Temperature quantifies how hot or cold a body is."
+      },
+      {
+        "label": "1(xi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A low freezing point keeps the liquid usable at very low temperatures."
+      },
+      {
+        "label": "1(xii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "One joule is the work done by 1 N acting through 1 m along the force."
+      },
+      {
+        "label": "1(xiii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Plane mirrors give virtual laterally reversed images of unchanged size."
+      },
+      {
+        "label": "1(xiv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "An effort between fulcrum and load identifies a third-class lever."
+      },
+      {
+        "label": "1(xv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The ideal-machine principle of work follows from conservation of energy."
+      },
+      {
+        "label": "1(xvi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A higher centre of gravity increases overturning tendency."
+      },
+      {
+        "label": "1(xvii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Latent heat accompanies a change of phase at constant temperature."
+      },
+      {
+        "label": "1(xviii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Inertia keeps the upper body at rest as the feet accelerate with the bus."
+      },
+      {
+        "label": "1(xix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "By V = IR, R = m/n ohms."
+      },
+      {
+        "label": "1(xx)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Stroking, induction and current in a coil can align magnetic domains."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O",
+          "P"
+        ],
+        "answer": {
+          "i": "P",
+          "ii": "I",
+          "iii": "L",
+          "iv": "A",
+          "v": "E",
+          "vi": "C",
+          "vii": "B",
+          "viii": "N"
+        },
+        "explanation": "An insulator resists charge flow, osmosis is solvent transport across a selectively permeable membrane toward higher solute concentration, penumbra is partial shadow, moment is force times arm, and friction resists motion. A spring balance measures weight; a translucent material scatters transmitted light."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Neutral point.",
+        "explanation": "The individual magnetic fields cancel vectorially."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Elasticity.",
+        "explanation": "An elastic object recovers after the deforming load is removed."
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "Reduce friction and wear.",
+        "explanation": "A film of lubricant separates sliding surfaces."
+      },
+      {
+        "label": "3(d)",
+        "type": "written",
+        "answer": "Water adheres strongly to clean glass; in mercury the attraction between mercury atoms dominates adhesion to glass.",
+        "explanation": "The balance between cohesion and adhesion controls wetting."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Conduction, convection and radiation.",
+        "explanation": "Energy can travel through contact between particles, bulk fluid motion or electromagnetic waves."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Draw a bar marked N and S. Surround it with smooth closed loops pointing from N to S outside and back inside; space lines closer near the poles.",
+        "explanation": "Arrows show magnetic field direction and spacing indicates field strength."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "A device that transmits or changes the magnitude or direction of a force to help do work.",
+        "explanation": "An ideal machine exchanges force for distance."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "MA = load force/effort force.",
+        "explanation": "It compares output force with input force."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "VR = distance moved by effort/distance moved by load.",
+        "explanation": "Measure both over the same operation."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "Efficiency = useful work output/work input × 100%.",
+        "explanation": "The fraction excludes energy dissipated by friction."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "100°C; any temperature at which the water is liquid.",
+        "explanation": "At standard sea-level pressure bubbles form throughout boiling water, but energetic surface molecules can escape below boiling."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Throughout the liquid.",
+        "explanation": "Bubbles form in the bulk during boiling."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "Pressure and dissolved impurities.",
+        "explanation": "Changing either affects equilibrium between ice and liquid water."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "V₁/T₁ = V₂/T₂ for fixed mass and constant pressure, with temperatures in kelvin.",
+        "explanation": "Gas volume is proportional to absolute temperature."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "P₁V₁ = P₂V₂ for fixed mass at constant temperature.",
+        "explanation": "Pressure varies inversely with volume."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Draw the mirror, a perpendicular normal through the incidence point, and incoming and outgoing rays equally inclined to the normal. Label the angles i and r: i = r.",
+        "explanation": "The law of reflection uses angles measured from the normal."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Mass measures inertia; weight is the gravitational force on the body.",
+        "explanation": "They are related by W = mg."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Mass is measured in kilograms; weight in newtons.",
+        "explanation": "A newton is a unit of force."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Mass is scalar; weight is a vector.",
+        "explanation": "Weight points along the local gravitational field."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Mass is independent of position; weight changes when gravity changes.",
+        "explanation": "The same mass weighs less on the Moon."
+      },
+      {
+        "label": "8(v)",
+        "type": "written",
+        "answer": "A beam balance compares masses; a spring balance measures weight.",
+        "explanation": "The spring extends in response to force."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Upthrust on a partly or wholly immersed object equals the weight of displaced fluid.",
+        "explanation": "Fluid pressure increases with depth and gives a net upward force."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "100 N.",
+        "explanation": "Apparent weight loss = 500 − 400 N."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "9 m/s² deceleration.",
+        "explanation": "Speed falls by 90 m/s over 10 s."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Like charges repel; unlike charges attract.",
+        "explanation": "The sign of the charges determines the direction of the electrical force."
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "The ammeter is shown in parallel and the voltmeter in series. Swap their positions before closing the switch.",
+        "explanation": "An ammeter measures the series current; a voltmeter measures voltage across the resistor."
+      }
+    ]
+  }
+}

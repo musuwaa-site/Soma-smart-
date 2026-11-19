@@ -1,0 +1,395 @@
+{
+  "sourceId": "source-4d11c09ae81c2634",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Astrology interprets celestial positions rather than studying living organisms.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Forestry science seeks to protect vegetation and reduce desertification.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Botany studies plants.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Teeth serve chewing; they are not one of the five named sense organs.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A beaker is a separate laboratory vessel.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Animals usually move their bodies from place to place. Nutrition is also defensible: green plants generally make food and animals obtain it by feeding.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "acceptedAnswers": [
+          "D",
+          "C"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A variable is a measurable condition that can take different values.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Irritability is sensitivity and response to a stimulus.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The ring stimulates hearing and picking up the phone involves movement.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The cell carries out the basic processes of life.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "A tape measures distance or length.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Fahrenheit is a temperature scale.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "A calibrated balance or scale indicates mass.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "At standard pressure pure water freezes at 0 °C.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "The second is the SI unit of time. A day is also a unit of time.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "acceptedAnswers": [
+          "C",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Observation or identification of a problem.",
+        "explanation": "John notices symptoms that need an explanation."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Gathering information or questioning.",
+        "explanation": "The doctor collects a history before testing possible explanations."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Testing the hypothesis or experimentation.",
+        "explanation": "Measurements and samples provide evidence for investigating a possible diagnosis."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Analysis and interpretation of data.",
+        "explanation": "The technician interprets the laboratory observations."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Drawing a conclusion.",
+        "explanation": "The doctor uses the evidence to conclude that John has malaria."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Prokaryotic cells lack a membrane-bound nucleus; eukaryotic cells have one.",
+        "explanation": "The nuclear envelope is the key distinction."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "A tissue is a group of similar specialised cells; an organ contains different tissues working together.",
+        "explanation": "For example, muscle tissue is one of several tissues in the heart."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "Mycology is the study of fungi.",
+        "explanation": "It includes organisms such as mushrooms and yeasts."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "Parasitology is the study of parasites and their relationships with hosts.",
+        "explanation": "A parasite obtains resources from a host at the host’s expense."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Botany studies plants; zoology studies animals; microbiology studies microorganisms.",
+        "explanation": "Each branch is named for the organisms it studies."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Guard cells regulate stomatal opening; root hair cells absorb water and mineral ions; palisade cells photosynthesise.",
+        "explanation": "Each cell’s structure suits its function: changing guard-cell shape controls the pore, a root hair provides surface area, and palisade cells contain many chloroplasts."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(i)",
+        "type": "written",
+        "answer": "Scoop net.",
+        "explanation": "The net can catch a frog in shallow water for external observation."
+      },
+      {
+        "label": "7(ii)",
+        "type": "written",
+        "answer": "Sweep net or collecting pooter for small insects.",
+        "explanation": "A sweep net collects insects from grass and foliage."
+      },
+      {
+        "label": "7(iii)",
+        "type": "written",
+        "answer": "Quadrat.",
+        "explanation": "Counting individuals in an area of known size allows density to be estimated."
+      },
+      {
+        "label": "7(iv)",
+        "type": "written",
+        "answer": "Mortar and pestle.",
+        "explanation": "The pestle crushes material against the mortar."
+      },
+      {
+        "label": "7(v)",
+        "type": "written",
+        "answer": "Hand lens or microscope.",
+        "explanation": "A convex lens enlarges the image of a specimen."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(i)",
+        "type": "written",
+        "answer": "Stopwatch; second (s).",
+        "explanation": "Time intervals are measured in seconds."
+      },
+      {
+        "label": "8(ii)",
+        "type": "written",
+        "answer": "Balance; kilogram (kg).",
+        "explanation": "The SI base unit of mass is the kilogram."
+      },
+      {
+        "label": "8(iii)",
+        "type": "written",
+        "answer": "Thermometer; kelvin (K).",
+        "explanation": "Kelvin is the SI base unit of thermodynamic temperature."
+      },
+      {
+        "label": "8(iv)",
+        "type": "written",
+        "answer": "Ruler or measuring tape; metre (m).",
+        "explanation": "A length is compared with a calibrated distance scale."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Biology helps people understand health and hygiene, choose a balanced diet, improve crops and livestock, conserve ecosystems and prepare for healthcare or agricultural careers.",
+        "explanation": "Each reason applies knowledge of living organisms to a concrete need."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "Both typically have a cell membrane and cytoplasm. Nuclei and mitochondria are other shared structures in typical living cells.",
+        "explanation": "Plants and animals are eukaryotes."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Draw an animal cell with an outer membrane, cytoplasm, nucleus and mitochondria; use clear label lines.",
+        "explanation": "Unlike a typical plant cell, the diagram should not have a cell wall or chloroplasts."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "Mitochondrion.",
+        "explanation": "Aerobic respiration transfers energy to ATP."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "Nucleus.",
+        "explanation": "It contains genetic instructions that regulate cellular activities."
+      },
+      {
+        "label": "10(b)(iii)",
+        "type": "written",
+        "answer": "Cytoplasm.",
+        "explanation": "Organelles are supported in the cell’s cytoplasm."
+      },
+      {
+        "label": "10(b)(iv)",
+        "type": "written",
+        "answer": "Cell membrane.",
+        "explanation": "The membrane regulates substances entering and leaving the cell."
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "sourceId": "source-5b2a1fe88807b36f",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)(i)",
+        "type": "written",
+        "answer": "30 cm.",
+        "explanation": "The greatest common divisor of the side lengths 270 cm and 150 cm is 30."
+      },
+      {
+        "label": "1(a)(ii)",
+        "type": "written",
+        "answer": "45 tiles.",
+        "explanation": "Nine tiles fit along the room and five across it."
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "72 minutes.",
+        "explanation": "The least common multiple of 24 and 36 is 72."
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)",
+        "type": "written",
+        "answer": "x = 2.6 and y = 2.83, as printed.",
+        "explanation": "The prompt already gives both values and specifies no operation. Reading the decimals as finite gives 13/5 and 283/100."
+      },
+      {
+        "label": "2(b)",
+        "type": "written",
+        "answer": "0.333… m.",
+        "explanation": "Three people share one metre equally, receiving one third each."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "3/7.",
+        "explanation": "The common denominator 28 gives 12/28 versus 7/28."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "x ≤ −2 or x ≥ 1; mark the endpoints with filled circles and shade outwards.",
+        "explanation": "The expression 2x + 1 must be at most −3 or at least 3."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "86.5.",
+        "explanation": "The hundredths digit 6 rounds the tenths up."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "90.",
+        "explanation": "The next significant digit 6 rounds the tens up."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "86.5.",
+        "explanation": "Nearest tenth means one decimal place."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "90.",
+        "explanation": "The units digit 6 rounds the tens up."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Approximately 240 metres.",
+        "explanation": "Using one significant figure per factor gives 60 × 4. Accept a reasonable estimate supported by stated rounding."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "a:c = 3:10; a:b:c = 3:6:10.",
+        "explanation": "Set b = 6 parts in each ratio."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "7.5 kg.",
+        "explanation": "Two parts of rice weigh 3 kg. Corn has five parts at 1.5 kg per part."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "4m²n − 3a²c + 6.",
+        "explanation": "Collect each group of like terms separately."
+      },
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "4.",
+        "explanation": "The m²n coefficient is 8 − 4."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "3.",
+        "explanation": "The result comprises two variable terms and one constant."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "6.",
+        "explanation": "14 − 8 gives the constant."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "40 years.",
+        "explanation": "The five age-parts total 50 years. Four age-parts are 40."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "30.",
+        "explanation": "Solve 42/36 = 35/x by cross multiplication."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "805 girls.",
+        "explanation": "One ratio part is 1,380/12 = 115, giving seven parts of 805 in total."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "2,185 students.",
+        "explanation": "Add 805 girls and 1,380 boys."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "69 and 40.",
+        "explanation": "Add the sum and difference equations to get 2x = 138. Substitute x = 69 in the sum."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Length 8 cm; width 5 cm.",
+        "explanation": "Use L − W = 3 and 2L = 3W + 1. Substitution gives W = 5."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "2x − y − 1 = 0.",
+        "explanation": "The gradient is 12/6 = 2, and the intercept is 7 − 2 × 4 = −1."
+      },
+      {
+        "label": "9(b)(i)",
+        "type": "written",
+        "answer": "−4.",
+        "explanation": "Write y = −4x − 6 and read the coefficient of x."
+      },
+      {
+        "label": "9(b)(ii)",
+        "type": "written",
+        "answer": "−6, at (0,−6).",
+        "explanation": "Putting x = 0 gives y = −6."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "y = −2x + 14; gradient −2 and intercept 14.",
+        "explanation": "Subtract 4x from both sides and divide by 2."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "y = 4x/3 + 10/3; gradient 4/3 and intercept 10/3.",
+        "explanation": "Add 4x and divide all terms by 3."
+      }
+    ]
+  }
+}

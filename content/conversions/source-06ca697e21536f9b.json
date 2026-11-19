@@ -1,0 +1,303 @@
+{
+  "sourceId": "source-06ca697e21536f9b",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Buying, repackaging and reselling sugar for profit is business activity."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "John commits resources and bears uncertainty."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Identifying demand and acting on it is entrepreneurship."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Sales depend on meeting customer needs as well as earning income."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Changing the display to attract buyers applies innovation."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "An unimplemented plan is a business idea."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Selecting what and when to sell is decision making."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Recognising unmet needs is opportunity awareness."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "80,000 − 50,000 = TZS 30,000 profit."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Employing others creates jobs."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "B",
+          "ii": "F",
+          "iii": "D",
+          "iv": "C",
+          "v": "G"
+        },
+        "explanation": "The risk bearer is an entrepreneur; a stationery gap is an opportunity; sales less costs is profit; starting a venture is entrepreneurship; a proposed venture is an idea."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)(i)",
+        "type": "written",
+        "answer": "Goods for final use.",
+        "explanation": "For example, bread bought for breakfast."
+      },
+      {
+        "label": "3(a)(ii)",
+        "type": "written",
+        "answer": "Goods used in production.",
+        "explanation": "For example, a baker’s oven."
+      },
+      {
+        "label": "3(a)(iii)",
+        "type": "written",
+        "answer": "Goods that spoil quickly.",
+        "explanation": "For example, fresh milk."
+      },
+      {
+        "label": "3(a)(iv)",
+        "type": "written",
+        "answer": "Goods suitable for repeated long-term use.",
+        "explanation": "For example, a table."
+      },
+      {
+        "label": "3(a)(v)",
+        "type": "written",
+        "answer": "Goods available without payment under ordinary conditions.",
+        "explanation": "For example, natural sunlight."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Goods are tangible items that meet needs or wants, such as food or exercise books.",
+        "explanation": "They can be physically possessed."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Sell stationery at school with permission: students regularly need pens and exercise books.",
+        "explanation": "The business fits a local, recurring demand."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "Survey demand.",
+        "explanation": "Ask students what they need."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "Prepare a budget.",
+        "explanation": "Estimate stock costs, prices and cash needs."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "Obtain permission and finance.",
+        "explanation": "The project needs authorised space and startup capital."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "Find suppliers.",
+        "explanation": "Compare price and reliability."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "Sell, record and review.",
+        "explanation": "Use sales and stock records to restock wisely."
+      },
+      {
+        "label": "4(c)(i)",
+        "type": "written",
+        "answer": "Saves students time.",
+        "explanation": "Supplies are nearby."
+      },
+      {
+        "label": "4(c)(ii)",
+        "type": "written",
+        "answer": "Generates income.",
+        "explanation": "Sales can exceed operating costs."
+      },
+      {
+        "label": "4(c)(iii)",
+        "type": "written",
+        "answer": "Builds management skills.",
+        "explanation": "Stock and cash must be tracked."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Prepare a personal budget and compare prices before purchasing.",
+        "explanation": "Budgeting controls spending; comparing prices improves purchasing decisions."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Identify opportunities, calculate profit, understand customers and manage resources.",
+        "explanation": "These abilities support informed business and household choices."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Sell pens and exercise books; supply other classroom materials or offer copying near school.",
+        "explanation": "Both address unmet demand close to students."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Initiative, creativity, persistence and calculated risk-taking.",
+        "explanation": "These help her act on the gap, adapt stock and manage uncertainty."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Enterprises create employment, supply useful products, pay taxes, stimulate their suppliers, introduce innovations and generate household income.",
+        "explanation": "Link five distinct effects to people and organisations in the community."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Limited savings restrict stock; established firms compete for customers; lack of experience raises costly errors; uncertain demand threatens cash flow; credit may be expensive.",
+        "explanation": "Explain how each obstacle affects start-up or survival."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Market research identifies demand; budgeting controls costs; communication informs customers; negotiation secures supplies; leadership coordinates the team.",
+        "explanation": "Link each skill to a task in the student venture."
+      }
+    ]
+  }
+}

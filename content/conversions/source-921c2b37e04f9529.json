@@ -1,0 +1,278 @@
+{
+  "sourceId": "source-921c2b37e04f9529",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "b",
+        "explanation": "Making drinks transforms inputs into an output."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "b",
+        "explanation": "Paid human effort is labour."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "d",
+        "explanation": "Selling transfers ownership in return for payment."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "d",
+        "explanation": "Cut flowers spoil quickly."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "b",
+        "explanation": "A tractor helps produce farm output."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "c",
+        "explanation": "A household buying food for its own use is a consumer."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "c",
+        "explanation": "Education, banking and health care deliver services."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "c",
+        "explanation": "Available maize falls short of demand."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "a",
+        "explanation": "Profit per litre is 5,000 − 3,000 = TZS 2,000."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "answer": "c",
+        "explanation": "The concert is the next-best alternative given up."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ],
+        "answer": {
+          "i": "H",
+          "ii": "F",
+          "iii": "C",
+          "iv": "B",
+          "v": "J",
+          "vi": "I",
+          "vii": "G",
+          "viii": "E",
+          "ix": "A",
+          "x": "D"
+        },
+        "explanation": "Consumer goods serve final users, wants are non-essential desires, needs are essentials, and distributions move products to buyers. Scarcity concerns limited resources; opportunity cost is the alternative forgone."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "Labour is human productive effort."
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "A service is an activity or benefit rather than a physical item."
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "A commercial business generally aims to earn profit."
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "F",
+        "explanation": "Wants can expand beyond available resources."
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "options": [
+          "T",
+          "F"
+        ],
+        "answer": "T",
+        "explanation": "These foods have short shelf lives."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Business is an activity supplying goods or services to customers, usually for profit; a grocery shop is an example.",
+        "explanation": "A business serves demand through exchange."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Producer goods, such as a tractor, are used to make other goods or services.",
+        "explanation": "Their productive use distinguishes them from final consumption."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Consumption means using a good or service to meet a need, such as eating bread.",
+        "explanation": "It is the final use of the product."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Exchange is trading goods or services for money or other goods, as when a shop sells bread.",
+        "explanation": "Ownership changes hands."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Entrepreneurship involves identifying an opportunity, organising resources and accepting risk to create a venture, such as a bakery.",
+        "explanation": "The entrepreneur brings the factors of production together."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Local enterprises create jobs, supply needed goods, buy from local suppliers, pay taxes supporting public services and introduce better products.",
+        "explanation": "Connect each benefit to the change residents experience, such as income from jobs or shorter journeys to shops."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Earn profit; meet a customer need; earn an independent livelihood; create jobs; introduce a new product or service.",
+        "explanation": "These are distinct financial, personal and social reasons to start a venture."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Social entrepreneurship: the grocery earns revenue while deliberately employing people who lack housing.",
+        "explanation": "Its business activity pursues a specific social goal alongside financial sustainability."
+      }
+    ]
+  }
+}

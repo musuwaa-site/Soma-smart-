@@ -1,0 +1,224 @@
+{
+  "sourceId": "source-f041cceff6adf8e7",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "review",
+        "answer": "Windward side. None of the printed choices is the standard term.",
+        "explanation": "Windward faces the incoming wind; leeward faces away."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The axis is tilted approximately 23.5 degrees from the perpendicular to the orbital plane."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Earth rotates eastwards."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Illumination produces daytime."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Moving east across the date line takes the calendar date back one day."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Sponge is not a season."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The equator divides the Northern and Southern Hemispheres."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Aphelion is the farthest point from the Sun."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The Moon passes between Sun and Earth."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Water covers about 71% and land about 29%."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi"
+        ],
+        "answer": {
+          "i": "F",
+          "ii": "G",
+          "iii": "C",
+          "iv": "B",
+          "v": "H",
+          "vi": "D"
+        },
+        "explanation": "Eratosthenes is associated with early geography, Kant with the nebular hypothesis, Lemaître and Hubble with an expanding universe, Magellan’s expedition with circumnavigation, Schmidt with interstellar dust, and the Sun with radiation."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Africa, Antarctica, Asia, Australia, Europe, North America and South America.",
+        "explanation": "These are the seven continents in the classification used here."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Antarctica.",
+        "explanation": "Its extreme environment limits residents mainly to rotating station teams."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Liquid water, moderate temperatures, light for photosynthesis and an atmosphere supporting respiration.",
+        "explanation": "These conditions allow metabolism, growth and functioning food webs."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Sun, planets, natural satellites and asteroids.",
+        "explanation": "All belong to the gravitational system centred on the Sun."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Cartographer, surveyor, meteorologist, environmental planner and geography teacher.",
+        "explanation": "All use spatial data, Earth science or interpretation of places."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Physical geography studies processes and features of nature, such as rivers or climate. Human geography studies people and their use of space, such as settlement and trade.",
+        "explanation": "The two branches overlap in human–environment interactions."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Draw the Sun at the centre and label outward orbits Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. Distinguish the inner four from the outer four.",
+        "explanation": "The asteroid belt separates the inner rocky planets from the outer giant planets."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Geography helps interpret maps, locate resources, reduce environmental damage, plan land use and prepare for careers such as surveying.",
+        "explanation": "Each point links geographical information to a decision or practical skill."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Earth is approximately spherical, slightly flattened at its poles. Sketch and explain a ship disappearing hull first, Earth’s curved eclipse shadow, circumnavigation, changing star visibility with latitude and photographs from orbit.",
+        "explanation": "Together these observations support surface curvature in different directions."
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "sourceId": "source-6a69809a412db331",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The textbook classification distinguishes business, social and internal entrepreneurship."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Borrowed bank funds repayable with interest constitute a loan."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Q’s costs are only 5,000 + 2,000 + 2,000 = TZS 9,000; revenues are equal."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Making snacks for sale is indirect production."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Baraka alone owns the restaurant."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "250,000 less 70,000 gives TZS 180,000 profit."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Optimism is maintaining positive expectations."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Unlimited liability exposes personal assets to business claims."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Stock control keeps quantities sufficient through records and checks."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A smart warehouse integrates automation and information systems."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "D",
+          "ii": "C",
+          "iii": "F",
+          "iv": "A",
+          "v": "B"
+        },
+        "explanation": "Wants are desires, scarcity limits satisfaction, services are intangible, resources are productive inputs and opportunity cost is the forgone alternative."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Consumer goods",
+        "explanation": "Bread is consumed directly."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Producer goods",
+        "explanation": "A lathe makes other goods."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Durable goods",
+        "explanation": "A desk can be used repeatedly."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Perishable goods",
+        "explanation": "Fresh fruit spoils quickly."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Merit goods",
+        "explanation": "Education benefits both the learner and society."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Creates jobs.",
+        "explanation": "New ventures hire workers."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Supplies useful goods.",
+        "explanation": "Businesses respond to unmet needs."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Encourages innovation.",
+        "explanation": "New methods can cut costs."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Raises revenue.",
+        "explanation": "Profitable firms pay taxes."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Promotes local growth.",
+        "explanation": "Enterprises purchase inputs from suppliers."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Direct production serves the producer’s own needs; indirect production serves exchange.",
+        "explanation": "Growing maize to eat differs from growing it to sell."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Needs are essentials; wants are desired extras.",
+        "explanation": "Water is essential; jewellery is optional."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Labour is human effort; capital is a produced input.",
+        "explanation": "A carpenter is labour and a saw is capital."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Skilled labour needs extensive training; semi-skilled labour needs some task-specific training.",
+        "explanation": "Their typical preparation and independence differ."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Production creates useful output; consumption uses it.",
+        "explanation": "Making bread precedes eating it."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Debit receipts: opening 100,000; Oct 2 sales 50,000; Oct 4 Anna 52,000; Oct 5 sales 42,000; Oct 10 Ali 20,000; Oct 25 sales 25,000; Oct 26 sales 35,000. Total TZS 324,000. Credit payments: Oct 3 purchases 67,000; Oct 6 rent 80,000; Oct 8 electricity 36,000; Oct 20 transport 5,000; Oct 27 purchases 11,000; Oct 30 wages 10,000. Closing balance carried down TZS 115,000; each side totals 324,000.",
+        "explanation": "Cash received is debited; total payments are TZS 209,000. The difference is carried forward as a debit balance."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Poultry report: research the market for eggs; budget for feed; select reliable suppliers; train and coordinate staff; negotiate buyer agreements; monitor sales and costs.",
+        "explanation": "Show how each action improves bird care, sales or financial control, and close the report with a recommendation."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "Kipese identifies furniture demand, raises capital, buys tools and timber, recruits staff, sets quality standards, and bears the risk of loss.",
+        "explanation": "The entrepreneur coordinates inputs and decides how to produce for customers."
+      }
+    ],
+    "9": [
+      {
+        "label": "9 advantages",
+        "type": "written",
+        "answer": "No interest, no creditor approval and full control.",
+        "explanation": "Savings allow the owner to decide how to spend funds."
+      },
+      {
+        "label": "9 disadvantages",
+        "type": "written",
+        "answer": "Limited available capital, loss of emergency reserves and personal exposure to losses.",
+        "explanation": "Using savings concentrates risk in the owner’s household."
+      }
+    ]
+  }
+}

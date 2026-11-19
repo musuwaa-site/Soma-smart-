@@ -1,0 +1,424 @@
+{
+  "sourceId": "source-ae8bdba961b173b9",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Physics investigates matter and energy."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Equal moments on opposite equal arms give equal masses."
+      },
+      {
+        "label": "1(iii)",
+        "type": "review",
+        "answer": "Both C and D explain the recoil.",
+        "explanation": "Newton’s third law gives the interaction forces; conservation of momentum gives the corresponding momentum changes."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Transparent materials transmit light with little scattering."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The support must act on the vertical line through the centre of gravity."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The reversed cell subtracts its emf, leaving only one cell’s net emf."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A hydrometer measures relative density."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Friction dissipates energy as heat."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "The same weight on a smaller contact area produces greater pressure."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The slope of distance against time is speed."
+      },
+      {
+        "label": "1(xi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "For a fixed surface area and conditions, evaporation rate is not set by the bulk amount of liquid."
+      },
+      {
+        "label": "1(xii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Upthrust balances the weight of displaced fluid."
+      },
+      {
+        "label": "1(xiii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Nickel and cobalt are ferromagnetic; soft iron readily loses magnetisation."
+      },
+      {
+        "label": "1(xiv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "White fabric reflects more incident sunlight."
+      },
+      {
+        "label": "1(xv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Molecules spread from high to low concentration through random motion."
+      },
+      {
+        "label": "1(xvi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "One joule is the unit of both energy and work."
+      },
+      {
+        "label": "1(xvii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "A charged comb can cause the electroscope leaf to diverge."
+      },
+      {
+        "label": "1(xviii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Effort = 1,200/3 = 400 N."
+      },
+      {
+        "label": "1(xix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "C = (176 − 32) × 5/9 = 80."
+      },
+      {
+        "label": "1(xx)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Different thermal expansion coefficients make the two bonded strips curve."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ],
+        "answer": {
+          "i": "H",
+          "ii": "A",
+          "iii": "C",
+          "iv": "B",
+          "v": "G",
+          "vi": "D",
+          "vii": "E",
+          "viii": "F"
+        },
+        "explanation": "Upthrust reduces apparent weight; cohesion attracts similar molecules; load/effort is MA. Grease lubricates, surface tension acts tangentially, melting occurs at the melting point, lunar alignment can produce a solar eclipse, and direct solid-to-gas change is sublimation."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Boiling occurs throughout the liquid; evaporation occurs at its surface.",
+        "explanation": "Only in boiling do vapour bubbles form in the bulk."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "At fixed pressure boiling occurs at the boiling temperature; evaporation can occur below it.",
+        "explanation": "Some surface molecules escape even at lower temperatures."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Boiling is generally rapid; evaporation can occur gradually.",
+        "explanation": "Bubble formation increases the rate of vapour production."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "A boiling pure liquid stays at its boiling temperature while supplied with heat; evaporation can cool the remaining liquid.",
+        "explanation": "Fast molecules preferentially escape the surface."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "The net force is zero.",
+        "explanation": "There is no resultant translational acceleration."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "The net moment about any point is zero.",
+        "explanation": "Clockwise moments must equal anticlockwise moments for rotational equilibrium."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Stroking with a magnet, induction, and use of a current-carrying solenoid.",
+        "explanation": "The applied magnetic field aligns magnetic domains."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Both measure small lengths accurately.",
+        "explanation": "Both combine a main scale with an auxiliary scale for fractional readings."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Heat is energy transferred because of a temperature difference; temperature indicates how hot or cold something is.",
+        "explanation": "Heat is measured in joules; SI temperature is measured in kelvin."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Friction and other losses convert some input energy into heat or sound.",
+        "explanation": "Useful output falls below total input in a real machine."
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "0.2 Pa.",
+        "explanation": "2 N divided by 10 m² equals 0.2 N/m²."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Acceleration is the rate of change of velocity. Deceleration is acceleration that reduces speed.",
+        "explanation": "An acceleration directed opposite the velocity causes slowing."
+      },
+      {
+        "label": "7(b)",
+        "type": "review",
+        "answer": "No unique answer as printed. If the intended first stage was rest to 480 m/s, the answers are 9.6 m/s² and 4.8 m/s².",
+        "explanation": "The intermediate speed is needed; the text only specifies a starting speed and the final stop."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "0.20 taking g = 9.8 m/s².",
+        "explanation": "Limiting static friction = μmg, so μ = 1.96/(1 × 9.8)."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "380 J/(kg·K).",
+        "explanation": "c = 38,000/[2 × (90 − 40)]."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Draw the two-cell battery, open switch, resistor and ammeter in a series loop with the voltmeter across the resistor. Indicate the conventional current from positive to negative when the switch closes.",
+        "explanation": "The open switch actually interrupts current; the arrow shows its prospective direction."
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "40 V.",
+        "explanation": "V = 2 × 20."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Kinetic energy.",
+        "explanation": "Motion gives a body kinetic energy."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "Potential energy.",
+        "explanation": "Configuration or position can store mechanical energy."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "400 J for g = 10 m/s².",
+        "explanation": "Gravitational energy gained = 10 × 10 × 4."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "Gravitational potential energy.",
+        "explanation": "Raising the body changes its position in Earth’s field."
+      }
+    ]
+  }
+}

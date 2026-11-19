@@ -1,0 +1,235 @@
+{
+  "sourceId": "source-8efb486855404b8e",
+  "groups": {
+    "1": [
+      {
+        "label": "1(a)",
+        "type": "written",
+        "answer": "Mathematics studies quantities, structures, patterns and relationships through reasoning. It includes measurements, geometry and algebra, in addition to calculations involving money.",
+        "explanation": "One mark for a clear definition, one for scope beyond money, and one for a suitable example.",
+        "marks": 3
+      },
+      {
+        "label": "1(b)",
+        "type": "written",
+        "answer": "Science uses measurement and graphs to describe experiments. Geography uses scales and coordinates to measure distances and locate places.",
+        "explanation": "One mark per correct subject link and one for a relevant supporting example.",
+        "marks": 3
+      },
+      {
+        "label": "1(c)",
+        "type": "written",
+        "answer": "For example, budgeting, measuring ingredients, estimating travel time and comparing prices.",
+        "explanation": "One mark per distinct valid reason.",
+        "marks": 4
+      }
+    ],
+    "2": [
+      {
+        "label": "2(a)",
+        "type": "written",
+        "answer": "3/4 and 1/5 are rational. The total is 15/20 + 4/20 = 19/20.",
+        "explanation": "One mark for recognising the fractions as rational, one for a common denominator and one for the total.",
+        "marks": 3
+      },
+      {
+        "label": "2(b)",
+        "type": "written",
+        "answer": "√5 and π are irrational. Neither is the quotient of two integers with a nonzero denominator. √5 is the square root of a non-square integer.",
+        "explanation": "One mark for each named irrational number and one for the correct explanation.",
+        "marks": 3
+      },
+      {
+        "label": "2(c)",
+        "type": "written",
+        "answer": "All four are real. √16 = 4, so −3 + 0 + 4.5 + 4 = 5.5.",
+        "explanation": "One mark for identifying all the real numbers, one for √16, one for the working and one for 5.5.",
+        "marks": 4
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Let p be the price of a pen in TZS and n the number bought. Then 0 < p < 500 and np ≤ 2000. Four pens are affordable at any qualifying price. The largest affordable quantity is ⌊2000/p⌋ and depends on p.",
+        "explanation": "One mark for the strict price inequality, one for the budget relation and one for explaining the quantity or giving the four-pen guarantee. Accept an equivalent interpretation supported by working.",
+        "marks": 3
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "No. |−7| = 7 because distance from zero is nonnegative.",
+        "explanation": "One mark for rejecting the claim, one for 7 and one for a valid explanation.",
+        "marks": 3
+      },
+      {
+        "label": "3(c)",
+        "type": "written",
+        "answer": "5x − 10 = 15 or 5x − 10 = −15, giving x = 5 or x = −1. Both make the expression’s magnitude 15.",
+        "explanation": "One mark for each case set up, one for both roots and one for interpreting or checking them.",
+        "marks": 4
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "88 km.",
+        "explanation": "One mark for using the tenths digit to decide and one for the rounded value.",
+        "marks": 2
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Nearest thousand: 175,000 TZS. Nearest hundred: 175,000 TZS.",
+        "explanation": "Two marks per result, including a correct explanation or rounding step.",
+        "marks": 4
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "38.2 rounds to 40 and 41.9 rounds to 40. Estimated total: 80.",
+        "explanation": "One mark per rounding, one for addition and one for the correct estimate.",
+        "marks": 4
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "6.31 kg.",
+        "explanation": "Identify the first three significant digits, use the next digit and state the rounded value with units, one mark each.",
+        "marks": 3
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "0.0056 m.",
+        "explanation": "Ignore the leading zeroes, use the third significant digit to decide and give the result with units, one mark each.",
+        "marks": 3
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "3.415 + 0.00879 = 3.42379, which is 3.42 to three significant figures.",
+        "explanation": "Two marks for the sum, one for selecting the first three significant digits and one for 3.42.",
+        "marks": 4
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Eight ratio parts. The girls account for 5/8 × 40 = 25.",
+        "explanation": "One mark for eight parts, one for the girls’ share and one for 25.",
+        "marks": 3
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Sand is 20 × 3/2 = 30 kg.",
+        "explanation": "One mark for the ratio, one for substitution and one for the result with units.",
+        "marks": 3
+      },
+      {
+        "label": "6(c)",
+        "type": "written",
+        "answer": "Speed is 180 ÷ 3 = 60 km/h. Distance in five hours is 60 × 5 = 300 km.",
+        "explanation": "One mark for the speed relation, one for 60 km/h, one for multiplying by five and one for 300 km.",
+        "marks": 4
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "x + 3 fruits.",
+        "explanation": "One mark for each quantity and one for using addition.",
+        "marks": 3
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "2(x + 3) − 4(x − 2) = 2x + 6 − 4x + 8 = −2x + 14.",
+        "explanation": "One mark per correct expansion and one for collecting terms.",
+        "marks": 3
+      },
+      {
+        "label": "7(c)",
+        "type": "written",
+        "answer": "At x = 5, x² + 5x + 6 = 25 + 25 + 6 = 56.",
+        "explanation": "One each for substitution, the square, the product and the correct sum.",
+        "marks": 4
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "2x + 3 years.",
+        "explanation": "One mark for doubling x, one for adding three and one for correctly expressing the age.",
+        "marks": 3
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "3x = 15, so x = 5.",
+        "explanation": "One mark for adding five to both sides, one for dividing by three and one for the result.",
+        "marks": 3
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Let the number be n. Then n + 2n = 18, so 3n = 18 and n = 6.",
+        "explanation": "One mark each for defining the variable, forming the equation, simplifying and solving.",
+        "marks": 4
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "Let p be the price of a pencil and b the price of a pen. 2p + b = 1500 and p + 2b = 2000.",
+        "explanation": "One mark for the definitions and one per correct equation.",
+        "marks": 3
+      },
+      {
+        "label": "9(b)",
+        "type": "written",
+        "answer": "b = 1500 − 2p. Substitute to get p + 3000 − 4p = 2000, hence p = 1000/3 and b = 2500/3.",
+        "explanation": "One mark for isolating b, one for substitution and one for each price.",
+        "marks": 4
+      },
+      {
+        "label": "9(c)",
+        "type": "written",
+        "answer": "A pencil costs 1000/3 TZS (about 333.33 TZS). A pen costs 2500/3 TZS (about 833.33 TZS). The exact values satisfy both totals.",
+        "explanation": "One mark for each contextual interpretation and one for checking or explaining rounding.",
+        "marks": 3
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "On labelled x and y axes, place A at (2, 3) and B at (4, 7).",
+        "explanation": "One mark for suitable axes and scale and one per correctly plotted point.",
+        "marks": 3
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "m = (7 − 3)/(4 − 2) = 2.",
+        "explanation": "One mark each for the slope relation, substitution and result.",
+        "marks": 3
+      },
+      {
+        "label": "10(c)",
+        "type": "written",
+        "answer": "y − 3 = 2(x − 2), so y = 2x − 1. Both points satisfy it.",
+        "explanation": "One mark for using the slope, one for substituting a point, one for the equation and one for a check or valid working.",
+        "marks": 4
+      }
+    ]
+  }
+}

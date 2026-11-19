@@ -1,0 +1,252 @@
+{
+  "sourceId": "source-c043bb387510cb23",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Under the paper’s classification political entrepreneurship is the exception."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A bank advances a repayable loan."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Positive expectations are optimism."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "A sole trader may have to pay debts from personal assets."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Five employees and this level of capital fit the small-enterprise category used here."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "The restaurant has one named owner."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Business Studies covers elementary business organisation."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Recording transactions is bookkeeping."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "The refrigerator is an input to commercial production."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Schumpeter emphasised the entrepreneur as innovator."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "answer": {
+          "i": "C",
+          "ii": "E",
+          "iii": "F",
+          "iv": "A",
+          "v": "D"
+        },
+        "explanation": "Tangible things are goods; activities are services; freely abundant goods are free; durable goods last, while perishables spoil."
+      }
+    ],
+    "3": [
+      {
+        "label": "3",
+        "type": "written",
+        "answer": "Enterprises create employment, supply useful products, pay taxes, stimulate their suppliers, introduce innovations and generate household income.",
+        "explanation": "Explain how five distinct outcomes foster community or economic development."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(i)",
+        "type": "written",
+        "answer": "Direct production serves the producer’s own needs; indirect production serves exchange.",
+        "explanation": "Growing maize to eat differs from growing it to sell."
+      },
+      {
+        "label": "4(ii)",
+        "type": "written",
+        "answer": "Needs are essentials; wants are desired extras.",
+        "explanation": "Water is essential; jewellery is optional."
+      },
+      {
+        "label": "4(iii)",
+        "type": "written",
+        "answer": "Labour is human effort; capital is a produced input.",
+        "explanation": "A carpenter is labour and a saw is capital."
+      },
+      {
+        "label": "4(iv)",
+        "type": "written",
+        "answer": "Skilled labour needs extensive training; semi-skilled labour needs some task-specific training.",
+        "explanation": "Their typical preparation and independence differ."
+      },
+      {
+        "label": "4(v)",
+        "type": "written",
+        "answer": "Production creates useful output; consumption uses it.",
+        "explanation": "Making bread precedes eating it."
+      }
+    ],
+    "5": [
+      {
+        "label": "5",
+        "type": "written",
+        "answer": "Market research identifies demand; budgeting controls costs; communication informs customers; negotiation secures supplies; leadership coordinates the team.",
+        "explanation": "Connect each skill to a decision or task facing the business."
+      }
+    ],
+    "6": [
+      {
+        "label": "6",
+        "type": "written",
+        "answer": "Immediate use of goods; time to earn money before settlement; easier cash-flow management; ability to buy needed stock; and spreading large payments when instalments are agreed.",
+        "explanation": "Deferred payment separates receipt of goods from settlement; fees and interest can reduce the benefit."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "Land is naturally given, geographically immobile, limited in aggregate area, variable in quality and capable of alternative uses.",
+        "explanation": "Land’s supply and characteristics differ from produced capital and human labour."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Human physical or mental effort in production.",
+        "explanation": "Labour supplies productive work."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Skilled labour requires specialised training; semi-skilled labour needs some task-specific training; unskilled labour needs little formal training.",
+        "explanation": "The categories distinguish preparation required for the work."
+      }
+    ],
+    "9": [
+      {
+        "label": "9",
+        "type": "written",
+        "answer": "Plan objectives, organise resources, staff the operation, direct and motivate workers, and control results against targets.",
+        "explanation": "Management links decisions to coordinated action and corrective feedback."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Possible causes include poor cash-flow control, excessive borrowing, weak marketing, falling demand and high operating costs.",
+        "explanation": "Explain how each could reduce sales, raise costs or leave too little cash to continue."
+      }
+    ]
+  }
+}

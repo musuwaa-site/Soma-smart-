@@ -1,0 +1,330 @@
+{
+  "sourceId": "source-3cb4fd78472135b9",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Lafudhi ni namna ya kutamka inayoweza kuashiria jamii au eneo la mzungumzaji."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Kuunganisha Watanzania pekee hakuonyeshi matumizi ya kimataifa."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Neno la kwanza linaeleza vyombo, la pili linasimamia vyombo, la tatu linaeleza tendo la kupanga."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Ushikamani huunganisha mawazo; urefu wa aya si lengo lake."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Kiimbo ni mpando na mshuko wa sauti."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Salamu, mavazi na vyakula huonyesha desturi za jamii."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Lugha hubeba majina, maarifa na simulizi za jamii."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Mwongozo wa paperi hii unahesabu nchi kama silabi moja yenye irabu i."
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "U huunganisha mhusika wewe na sifa mwembamba."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Majadiliano huhusisha ubadilishanaji wa mawazo baina ya washiriki."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "answer": {
+          "i": "B",
+          "ii": "G",
+          "iii": "D",
+          "iv": "E",
+          "v": "C"
+        },
+        "explanation": "Mkazo ni nguvu ya matamshi. Ufupisho hubana hadithi. Vifaa vilivyotajwa ni vya TEHAMA. Hotuba na midahalo ni mazungumzo changamani. Tafsida hupunguza ukali wa kauli."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "written",
+        "answer": "Kidahizo ni neno kuu la kamusi. Kitomeo ni kidahizo pamoja na taarifa zote zinazokieleza.",
+        "explanation": "Tofautisha kazi ya kila dhana na kazi ya mwenzake."
+      },
+      {
+        "label": "3(ii)",
+        "type": "written",
+        "answer": "Kamusi wahidiya hufafanua kwa lugha moja. Kamusi thaniya hutoa visawe au tafsiri kwa lugha mbili.",
+        "explanation": "Tofautisha kazi ya kila dhana na kazi ya mwenzake."
+      },
+      {
+        "label": "3(iii)",
+        "type": "written",
+        "answer": "Mzungumzaji hutuma ujumbe. Msikilizaji huupokea na kuufasiri.",
+        "explanation": "Tofautisha kazi ya kila dhana na kazi ya mwenzake."
+      },
+      {
+        "label": "3(iv)",
+        "type": "written",
+        "answer": "Kihusishi huonyesha uhusiano, kama “kwa”. Kihisishi hudokeza hisia, kama “Lo!”.",
+        "explanation": "Tofautisha kazi ya kila dhana na kazi ya mwenzake."
+      },
+      {
+        "label": "3(v)",
+        "type": "written",
+        "answer": "Nomino hutaja mtu, kitu au hali. Kiwakilishi husimama badala ya nomino, kama “yeye”.",
+        "explanation": "Tofautisha kazi ya kila dhana na kazi ya mwenzake."
+      }
+    ],
+    "4": [
+      {
+        "label": "4",
+        "type": "written",
+        "answer": "Hujenga uwezo wa kuzungumza kwa ufasaha, kufasiri maandishi, kuandika kwa usahihi, kubuni kazi za fasihi na kutumia lugha kulingana na muktadha.",
+        "explanation": "Manufaa yanahusisha matumizi halisi ya lugha shuleni na nje ya shule."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(i)",
+        "type": "written",
+        "answer": "Nzi ameingia kwenye uji wako.",
+        "explanation": "Nzi ndiye aliyeingia kwenye uji."
+      },
+      {
+        "label": "5(ii)",
+        "type": "written",
+        "answer": "Hakika, kijana yule ametuwakilisha vyema.",
+        "explanation": "Kuwakilisha ni kuwasimamia wengine; kuwasilisha ni kupeleka au kutoa kitu."
+      },
+      {
+        "label": "5(iii)",
+        "type": "written",
+        "answer": "Samahani kwa kosa nililotenda.",
+        "explanation": "Neno la kuomba radhi ni samahani."
+      },
+      {
+        "label": "5(iv)",
+        "type": "written",
+        "answer": "Haikuwa rahisi sana kufika hapa.",
+        "explanation": "Tahajia sahihi ni rahisi."
+      },
+      {
+        "label": "5(v)",
+        "type": "written",
+        "answer": "Joshua, wanafunzi wanafanya mtihani.",
+        "explanation": "Koma hutenga jina la mtu anayeitwa na kauli inayofuata."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)",
+        "type": "written",
+        "answer": "Lugha ni mfumo wa alama au sauti za nasibu ambazo jamii huzitumia kuwasiliana.",
+        "explanation": "Lugha hutegemea kanuni na matumizi ya pamoja."
+      },
+      {
+        "label": "6(b)",
+        "type": "written",
+        "answer": "Sauti kama /b/ na /a/ huunda silabi ba; silabi ba na ba huunda neno baba; maneno huungana kuunda sentensi, kwa mfano “Baba amerudi.”",
+        "explanation": "Mfano unaonyesha jinsi vipashio vidogo vinavyounda vipashio vikubwa."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)",
+        "type": "written",
+        "answer": "Asha alisoma; vilevile aliandika maelezo. Tulipanda miche. Aidha tuliimwagilia. Alifanya mazoezi. Hata hivyo, hakushinda. Mvua iliongezeka. Kwa hiyo tuliahirisha safari. Tulimaliza mtihani. Baada ya hapo tulipumzika.",
+        "explanation": "Viunganishi vinaonyesha kuongeza wazo, kupinga, kutoa matokeo au kufuata kwa wakati."
+      },
+      {
+        "label": "7(b)",
+        "type": "written",
+        "answer": "Msemaji na msikilizaji hubadilishana zamu; kiimbo huonyesha hisia; mkazo hubainisha jambo muhimu; msikilizaji anaweza kuuliza mara moja; ishara huongezea maana wanapoonana.",
+        "explanation": "Mazungumzo yanategemea sauti, zamu na mrejesho wa washiriki."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Mtoto anasoma kitabu haraka.",
+        "explanation": "Mtoto ni nomino, anasoma ni kitenzi, kitabu ni nomino na haraka ni kielezi."
+      },
+      {
+        "label": "8(b)",
+        "type": "written",
+        "answer": "Baba na mama wanacheka.",
+        "explanation": "Na kinaunganisha nomino mbili kabla ya kitenzi."
+      },
+      {
+        "label": "8(c)",
+        "type": "written",
+        "answer": "Juma aliwaita Asha na Rehema.",
+        "explanation": "Nomino zinaunganishwa na na baada ya kitenzi."
+      },
+      {
+        "label": "8(d)",
+        "type": "written",
+        "answer": "Nani alikuwa anachuma maua?",
+        "explanation": "Nani ni kiwakilishi, alikuwa ni kisaidizi na anachuma ni kitenzi kikuu."
+      },
+      {
+        "label": "8(e)",
+        "type": "written",
+        "answer": "Yeye ni mrefu sana.",
+        "explanation": "Yeye ni kiwakilishi, ni ni kitenzi kishirikishi, mrefu ni kivumishi na sana ni kielezi."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Mpole ni kivumishi cha sifa.",
+        "explanation": "Hueleza tabia ya muuguzi."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Kinywa ni kipashio cha jina kinachokamilisha maana ya kifungua katika kifungua kinywa.",
+        "explanation": "Majina mawili yanaungana kutaja kifungua kinywa; mwongozo hukita katika uhusiano wa jina kwa jina."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Mlemavu ni jina linaloeleza mtu katika tungo hii.",
+        "explanation": "Hutumika kufafanua jina mtu."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Yao ni kivumishi kimilikishi.",
+        "explanation": "Huonyesha wenye matunda."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "Zipi ni kivumishi kiulizi.",
+        "explanation": "Huuliza ni idara gani."
+      }
+    ],
+    "10": [
+      {
+        "label": "10",
+        "type": "written",
+        "answer": "Kamusi hufafanua maana, huonyesha tahajia, hutoa matamshi, hutaja aina za maneno, huonyesha mifano ya matumizi na hutoa visawe au tafsiri. Kwa hiyo msomaji anaweza kuchagua neno sahihi na kulitumia kwa muktadha unaofaa.",
+        "explanation": "Muhtasari unabana mjadala katika hoja sita tofauti kuhusu matumizi ya kamusi."
+      }
+    ]
+  }
+}

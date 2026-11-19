@@ -1,0 +1,449 @@
+{
+  "sourceId": "source-34eec3c15ad4699d",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Physics investigates matter and energy."
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Make the scene safe, isolate the electricity and summon emergency help; never touch a casualty still connected to a live supply."
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "A micrometer measures small wire diameters precisely."
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Cooking oil is generally less dense than water and does not mix with it."
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Work is an energy transfer measured in joules."
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Weight is the gravitational pull towards Earth’s centre."
+      },
+      {
+        "label": "1(vii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Mercury beads rather than spreading because of its strong cohesion relative to its adhesion to glass."
+      },
+      {
+        "label": "1(viii)",
+        "type": "review",
+        "answer": "C and D both follow for a fully immersed egg in neutral equilibrium.",
+        "explanation": "The egg’s average density equals the liquid density, so its weight is balanced by buoyancy."
+      },
+      {
+        "label": "1(ix)",
+        "type": "review",
+        "answer": "A and B: liquid density and depth.",
+        "explanation": "Gauge pressure = ρgh and depends on both quantities."
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "For a standard tackle with three supporting rope sections the load rises one unit per three units of effort travel."
+      },
+      {
+        "label": "1(xi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "The signed area is displacement; it equals distance for motion in one direction."
+      },
+      {
+        "label": "1(xii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Translucent glass admits light but scatters it, obscuring details."
+      },
+      {
+        "label": "1(xiii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Radiation carries solar energy through space."
+      },
+      {
+        "label": "1(xiv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Temperature quantifies hotness."
+      },
+      {
+        "label": "1(xv)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "C",
+        "explanation": "Tread promotes grip and helps channel water away."
+      },
+      {
+        "label": "1(xvi)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Expansion gaps provide room for heated rails to lengthen."
+      },
+      {
+        "label": "1(xvii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "D",
+        "explanation": "Heat flows from hotter A at 100°C to cooler B at 25°C."
+      },
+      {
+        "label": "1(xviii)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Ice, liquid water and water vapour are the three common states."
+      },
+      {
+        "label": "1(xix)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "Electric current has SI unit ampere."
+      },
+      {
+        "label": "1(xx)",
+        "type": "mcq",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "B",
+        "explanation": "Magnetic flux lines follow the direction a north pole points."
+      }
+    ],
+    "2": [
+      {
+        "label": "2",
+        "type": "matching",
+        "pairs": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "viii"
+        ],
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ],
+        "answer": {
+          "i": "G",
+          "ii": "E",
+          "iii": "C",
+          "iv": "H",
+          "v": "A",
+          "vi": "B",
+          "viii": "D"
+        },
+        "explanation": "Apparent weight loss equals buoyant force. Melting requires latent heat. Lever classes follow the position of fulcrum and load. Water expands on cooling from 4°C to 0°C. Balanced moments give rotational equilibrium. Cooling removes thermal energy."
+      },
+      {
+        "label": "2(vii)",
+        "type": "review",
+        "answer": "Gravitational field strength for gravitational force per mass, or acceleration for net force per mass.",
+        "explanation": "The list gives weight, which is a force, and lacks a quantity with units N/kg."
+      }
+    ],
+    "3": [
+      {
+        "label": "3(a)",
+        "type": "written",
+        "answer": "Velocity.",
+        "explanation": "Velocity measures change in position per time and specifies direction."
+      },
+      {
+        "label": "3(b)",
+        "type": "written",
+        "answer": "Acceleration.",
+        "explanation": "Slope = change of velocity divided by elapsed time."
+      },
+      {
+        "label": "3(c)(i)",
+        "type": "written",
+        "answer": "The incident ray, reflected ray and normal lie in one plane.",
+        "explanation": "This plane contains both rays at the point of incidence."
+      },
+      {
+        "label": "3(c)(ii)",
+        "type": "written",
+        "answer": "Angle of incidence equals angle of reflection.",
+        "explanation": "Measure both angles from the normal."
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)",
+        "type": "written",
+        "answer": "Stable, unstable and neutral equilibrium.",
+        "explanation": "After a small displacement the body tends to return, move away, or settle in the new position, respectively."
+      },
+      {
+        "label": "4(b)",
+        "type": "written",
+        "answer": "Lever.",
+        "explanation": "A rigid bar turns about a fulcrum."
+      },
+      {
+        "label": "4(c)",
+        "type": "written",
+        "answer": "Pulley.",
+        "explanation": "A rope runs in the groove around the wheel."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)",
+        "type": "written",
+        "answer": "Heat capacity is the heat required per unit temperature increase of the whole body.",
+        "explanation": "C = Q/ΔT, measured in J/K."
+      },
+      {
+        "label": "5(b)",
+        "type": "written",
+        "answer": "Gravitational potential energy, 400 J (using g = 10 m/s²).",
+        "explanation": "mgh = 10 × 10 × 4."
+      },
+      {
+        "label": "5(c)",
+        "type": "written",
+        "answer": "8.",
+        "explanation": "Compare 8,000 kg/m³ with water at 1,000 kg/m³."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(a)(i)",
+        "type": "written",
+        "answer": "A single cell.",
+        "explanation": "The long and short parallel lines indicate opposite terminals."
+      },
+      {
+        "label": "6(a)(ii)",
+        "type": "written",
+        "answer": "A fixed resistor.",
+        "explanation": "The zigzag symbol represents resistance."
+      },
+      {
+        "label": "6(a)(iii)",
+        "type": "written",
+        "answer": "A battery of cells.",
+        "explanation": "Multiple long–short terminal pairs indicate cells in series."
+      },
+      {
+        "label": "6(a)(iv)",
+        "type": "written",
+        "answer": "Electric bell or buzzer (bell-shaped symbol).",
+        "explanation": "The curved dome indicates a signalling device."
+      },
+      {
+        "label": "6(a)(v)",
+        "type": "written",
+        "answer": "An open switch.",
+        "explanation": "The break between contacts interrupts current."
+      },
+      {
+        "label": "6(a)(vi)",
+        "type": "written",
+        "answer": "Variable resistor or rheostat.",
+        "explanation": "The arrow across the resistor indicates adjustment."
+      },
+      {
+        "label": "6(b)(i)",
+        "type": "written",
+        "answer": "A and B are like south poles.",
+        "explanation": "The field lines point towards both magnet ends and bend away from the midpoint."
+      },
+      {
+        "label": "6(b)(ii)",
+        "type": "written",
+        "answer": "X is a neutral point.",
+        "explanation": "Equal opposing fields cancel there."
+      }
+    ],
+    "7": [
+      {
+        "label": "7",
+        "type": "written",
+        "answer": "20 m.",
+        "explanation": "At maximum height v = 0, so h = 20²/(2 × 10)."
+      }
+    ],
+    "8": [
+      {
+        "label": "8(a)",
+        "type": "written",
+        "answer": "Potential difference is proportional to current through an ohmic conductor under constant physical conditions.",
+        "explanation": "V/I remains constant when temperature is fixed."
+      },
+      {
+        "label": "8(b)(i)",
+        "type": "written",
+        "answer": "Draw one closed loop from the positive battery terminal through the 15 Ω resistor back to the negative terminal. Label the battery 12 V and arrow the external conventional current from + to −.",
+        "explanation": "A complete loop connects the resistor across the battery."
+      },
+      {
+        "label": "8(b)(ii)",
+        "type": "written",
+        "answer": "0.8 A.",
+        "explanation": "The current magnitude is I = V/R = 12/15."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(a)",
+        "type": "written",
+        "answer": "0.2 Pa.",
+        "explanation": "P = F/A = 2/10."
+      },
+      {
+        "label": "9(b)",
+        "type": "review",
+        "answer": "The printed directions conflict. For a temperature change of magnitude 25 K, the magnitude of specific heat capacity would be 320 J/(kg·K).",
+        "explanation": "A falling temperature and positive absorbed heat cannot represent the stated simple warming process."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)",
+        "type": "written",
+        "answer": "Effort = 125 N.",
+        "explanation": "Useful output = 500 × 5 = 2,500 J. Input = 2,500/0.8 = 3,125 J. Divide input by 25 m."
+      },
+      {
+        "label": "10(b)",
+        "type": "written",
+        "answer": "Work done on the load = 2,500 J; total input = 3,125 J.",
+        "explanation": "Efficiency is the ratio of useful output to input; 625 J is lost."
+      }
+    ]
+  }
+}

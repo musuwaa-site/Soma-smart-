@@ -1,0 +1,576 @@
+{
+  "sourceId": "source-8e2f9260031a5b15",
+  "groups": {
+    "1": [
+      {
+        "label": "1(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Synonyms are words with the same or similar meanings.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "People watching a sports event are spectators.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "Listening involves attention and interpretation of sounds.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(iv)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "Summarising reduces a message to its principal points.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(v)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "Stress in English nouns varies: TAble, hoTEL and engiNEER illustrate different positions. First-syllable stress is common among two-syllable nouns, not universal.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vi)",
+        "type": "mcq",
+        "answer": "A",
+        "explanation": "The programme is heard; the notes derive from spoken information.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(vii)",
+        "type": "written",
+        "answer": "B; A and C are also defensible.",
+        "explanation": "Facebook is a social network. Chrome and Firefox are browsers, so the printed except question admits multiple answers; Baidu is a search engine."
+      },
+      {
+        "label": "1(viii)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "The third-person singular president takes impresses.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(ix)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "You does the action in You may go, so it is a subject pronoun.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "label": "1(x)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Use as ... as for a comparison of equality.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "label": "2(i)",
+        "type": "mcq",
+        "answer": "B",
+        "explanation": "A syllable is a unit of pronunciation usually built around a vowel.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(ii)",
+        "type": "mcq",
+        "answer": "F",
+        "explanation": "Vowels have a relatively open passage for the outgoing air.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iii)",
+        "type": "mcq",
+        "answer": "C",
+        "explanation": "Consonants involve narrowing or closing part of the vocal tract.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(iv)",
+        "type": "mcq",
+        "answer": "D",
+        "explanation": "A minimal pair differs by a single sound and has different meanings.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      {
+        "label": "2(v)",
+        "type": "mcq",
+        "answer": "E",
+        "explanation": "A diphthong glides between two vowel qualities in the same syllable.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "label": "3(i)",
+        "type": "mcq",
+        "answer": "NON-FACTUAL",
+        "explanation": "The statement expresses a personal and unsupported belief.",
+        "options": [
+          "FACTUAL",
+          "NON-FACTUAL"
+        ]
+      },
+      {
+        "label": "3(ii)",
+        "type": "mcq",
+        "answer": "FACTUAL",
+        "explanation": "The printed statement attributes a measurable rate to census evidence. A real report should identify the census and period.",
+        "options": [
+          "FACTUAL",
+          "NON-FACTUAL"
+        ]
+      },
+      {
+        "label": "3(iii)",
+        "type": "mcq",
+        "answer": "FACTUAL",
+        "explanation": "Earth’s orbit around the Sun is independently verifiable.",
+        "options": [
+          "FACTUAL",
+          "NON-FACTUAL"
+        ]
+      },
+      {
+        "label": "3(iv)",
+        "type": "mcq",
+        "answer": "FACTUAL",
+        "explanation": "Mountain elevations can be measured and compared.",
+        "options": [
+          "FACTUAL",
+          "NON-FACTUAL"
+        ]
+      },
+      {
+        "label": "3(v)",
+        "type": "mcq",
+        "answer": "NON-FACTUAL",
+        "explanation": "Surprise is a predicted reaction; it has not yet been observed.",
+        "options": [
+          "FACTUAL",
+          "NON-FACTUAL"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "label": "4(a)(i)",
+        "type": "written",
+        "answer": "me",
+        "explanation": "Ordered needs an object pronoun."
+      },
+      {
+        "label": "4(a)(ii)",
+        "type": "written",
+        "answer": "us, or we with an understood were",
+        "explanation": "Better than us is idiomatic; better than we were compares two clauses."
+      },
+      {
+        "label": "4(a)(iii)",
+        "type": "written",
+        "answer": "him",
+        "explanation": "Trust takes the object pronoun."
+      },
+      {
+        "label": "4(a)(iv)",
+        "type": "written",
+        "answer": "she or he",
+        "explanation": "Either can refer to the person seen. The sentence provides no information choosing between them."
+      },
+      {
+        "label": "4(a)(v)",
+        "type": "written",
+        "answer": "ours",
+        "explanation": "An independent possessive follows is without a noun."
+      },
+      {
+        "label": "4(b)(i)",
+        "type": "written",
+        "answer": "washes",
+        "explanation": "Every day indicates a habit; Asha is singular."
+      },
+      {
+        "label": "4(b)(ii)",
+        "type": "written",
+        "answer": "was cooking",
+        "explanation": "The activity was in progress when the speaker arrived."
+      },
+      {
+        "label": "4(b)(iii)",
+        "type": "written",
+        "answer": "is writing",
+        "explanation": "Now and the singular subject call for present continuous."
+      },
+      {
+        "label": "4(b)(iv)",
+        "type": "written",
+        "answer": "saw",
+        "explanation": "Last Sunday places the action in the past."
+      },
+      {
+        "label": "4(b)(v)",
+        "type": "written",
+        "answer": "done",
+        "explanation": "Have is followed by the past participle done."
+      }
+    ],
+    "5": [
+      {
+        "label": "5(a)(i)",
+        "type": "written",
+        "answer": "since",
+        "explanation": "Since marks the starting point of a continuing illness."
+      },
+      {
+        "label": "5(a)(ii)",
+        "type": "written",
+        "answer": "for or at",
+        "explanation": "Sell for a fair price is idiomatic; sell at a fair price also states the price level."
+      },
+      {
+        "label": "5(a)(iii)",
+        "type": "written",
+        "answer": "with",
+        "explanation": "With identifies the instrument."
+      },
+      {
+        "label": "5(a)(iv)",
+        "type": "written",
+        "answer": "to",
+        "explanation": "The construction is access to something."
+      },
+      {
+        "label": "5(a)(v)",
+        "type": "written",
+        "answer": "from",
+        "explanation": "Suffer from is the usual expression for illness."
+      },
+      {
+        "label": "5(b)(i)",
+        "type": "written",
+        "answer": "John was exhausted.",
+        "explanation": "Exhausted conveys being very tired."
+      },
+      {
+        "label": "5(b)(ii)",
+        "type": "written",
+        "answer": "Salome is extremely attractive.",
+        "explanation": "The alternative keeps the approving description of her appearance."
+      },
+      {
+        "label": "5(b)(iii)",
+        "type": "written",
+        "answer": "My father has more money.",
+        "explanation": "This preserves the comparative meaning of wealthier."
+      },
+      {
+        "label": "5(b)(iv)",
+        "type": "written",
+        "answer": "My friends and I were there together.",
+        "explanation": "The same people and place are described."
+      },
+      {
+        "label": "5(b)(v)",
+        "type": "written",
+        "answer": "I felt very enthusiastic.",
+        "explanation": "The paraphrase keeps the strong positive emotion."
+      }
+    ],
+    "6": [
+      {
+        "label": "6(i)",
+        "type": "written",
+        "answer": "It enables rapid communication through messages or calls.",
+        "explanation": "People at different locations can exchange information."
+      },
+      {
+        "label": "6(ii)",
+        "type": "written",
+        "answer": "It gives learners access to digital books.",
+        "explanation": "A searchable collection makes it easier to find relevant texts."
+      },
+      {
+        "label": "6(iii)",
+        "type": "written",
+        "answer": "It supports distance learning.",
+        "explanation": "A learner can attend an online lesson remotely."
+      },
+      {
+        "label": "6(iv)",
+        "type": "written",
+        "answer": "It distributes news and public information.",
+        "explanation": "Official notices can reach many readers quickly."
+      },
+      {
+        "label": "6(v)",
+        "type": "written",
+        "answer": "It provides useful demonstrations.",
+        "explanation": "A learner can replay a video to examine a process step by step."
+      }
+    ],
+    "7": [
+      {
+        "label": "7(a)(i)",
+        "type": "written",
+        "answer": "a",
+        "explanation": "Hat is a singular count noun introduced for the first time."
+      },
+      {
+        "label": "7(a)(ii)",
+        "type": "written",
+        "answer": "the",
+        "explanation": "The Earth identifies a unique planet. Earth can also function as a proper name without an article."
+      },
+      {
+        "label": "7(a)(iii)",
+        "type": "written",
+        "answer": "a",
+        "explanation": "University begins with /j/, a consonant sound."
+      },
+      {
+        "label": "7(a)(iv)",
+        "type": "written",
+        "answer": "an",
+        "explanation": "Hour begins with a vowel sound because h is silent."
+      },
+      {
+        "label": "7(a)(v)",
+        "type": "written",
+        "answer": "No article.",
+        "explanation": "Breakfast normally takes no article when used for the routine meal."
+      },
+      {
+        "label": "7(b)(i)",
+        "type": "written",
+        "answer": "Not much. How are you?",
+        "explanation": "This is an informal response to an informal greeting."
+      },
+      {
+        "label": "7(b)(ii)",
+        "type": "written",
+        "answer": "It’s all right. Thank you for apologising.",
+        "explanation": "The response acknowledges the accidental contact and apology."
+      },
+      {
+        "label": "7(b)(iii)",
+        "type": "written",
+        "answer": "You’re welcome.",
+        "explanation": "This politely acknowledges thanks."
+      },
+      {
+        "label": "7(b)(iv)",
+        "type": "written",
+        "answer": "I’m very sorry for your loss.",
+        "explanation": "This expresses sympathy for a bereaved person."
+      },
+      {
+        "label": "7(b)(v)",
+        "type": "written",
+        "answer": "Goodbye, and have a safe journey.",
+        "explanation": "This returns the farewell and wishes the traveller well."
+      }
+    ],
+    "8": [
+      {
+        "label": "8",
+        "type": "written",
+        "answer": "P.O. Box 8, Kigoma. 20 November 2025. Dear Asha, I am sorry I missed your thirteenth birthday party after accepting your invitation. I had to accompany my sister to the clinic and could not reach you in time. I hope you enjoyed celebrating with your friends. May I visit you on Saturday to wish you a happy birthday in person? Your friend, Shauri Jema.",
+        "explanation": "A friendly letter includes a salutation, clear apology, explanation and warm closing. Sign with the name requested."
+      }
+    ],
+    "9": [
+      {
+        "label": "9(i)",
+        "type": "written",
+        "answer": "Joseph + Stella → Ali, Charles, Pendo. Ali + Aggie → Martha, Julius. Pendo + Kenneth → Amani, Amon.",
+        "explanation": "The tree shows each couple and connects the children to the correct parents."
+      },
+      {
+        "label": "9(ii)",
+        "type": "written",
+        "answer": "Amon is Stella’s grandson; she is his grandmother.",
+        "explanation": "Amon is the child of Stella’s daughter Pendo."
+      },
+      {
+        "label": "9(iii)",
+        "type": "written",
+        "answer": "Father-in-law.",
+        "explanation": "Joseph is the father of Kenneth’s wife."
+      },
+      {
+        "label": "9(iv)",
+        "type": "written",
+        "answer": "Amani or Amon.",
+        "explanation": "They are children of Martha’s father’s sister."
+      },
+      {
+        "label": "9(v)",
+        "type": "written",
+        "answer": "His nephew.",
+        "explanation": "Amon is the son of Charles’s sister Pendo."
+      },
+      {
+        "label": "9(vi)",
+        "type": "written",
+        "answer": "His grandchildren.",
+        "explanation": "They are the children of Joseph’s children Ali and Pendo."
+      }
+    ],
+    "10": [
+      {
+        "label": "10(a)(i)",
+        "type": "written",
+        "answer": "Tone.",
+        "explanation": "Tone conveys an attitude through the choice and delivery of words."
+      },
+      {
+        "label": "10(a)(ii)",
+        "type": "written",
+        "answer": "Intimate style or register.",
+        "explanation": "This style is used in very close, private relationships."
+      },
+      {
+        "label": "10(a)(iii)",
+        "type": "written",
+        "answer": "Angry, serious or disapproving tone.",
+        "explanation": "The description concerns forceful expression of disapproval."
+      },
+      {
+        "label": "10(a)(iv)",
+        "type": "written",
+        "answer": "Register or level of formality.",
+        "explanation": "Language choices vary with audience, purpose and situation."
+      },
+      {
+        "label": "10(a)(v)",
+        "type": "written",
+        "answer": "Mood.",
+        "explanation": "Mood describes a state of mind such as happiness or sadness."
+      },
+      {
+        "label": "10(b)(i)",
+        "type": "written",
+        "answer": "Listen for the main idea.",
+        "explanation": "Identify what the speaker is chiefly explaining."
+      },
+      {
+        "label": "10(b)(ii)",
+        "type": "written",
+        "answer": "Notice supporting details.",
+        "explanation": "Examples help you interpret and check the central message."
+      },
+      {
+        "label": "10(b)(iii)",
+        "type": "written",
+        "answer": "Pay attention to tone and emphasis.",
+        "explanation": "These can indicate feelings, priorities or implied meaning."
+      },
+      {
+        "label": "10(b)(iv)",
+        "type": "written",
+        "answer": "Avoid distractions and interruptions.",
+        "explanation": "Sustained attention helps you follow the sequence."
+      },
+      {
+        "label": "10(b)(v)",
+        "type": "written",
+        "answer": "Clarify unclear points or summarise them back.",
+        "explanation": "Checking your interpretation reduces misunderstandings."
+      }
+    ]
+  }
+}

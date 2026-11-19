@@ -10,7 +10,7 @@ for (const doc of data.sourceDocuments) {
       throw Error("Incomplete source in full build: " + resource.id);
     const source = new URL(resource.sourceReference);
     if (source.protocol !== "https:") throw Error("Expected a secure original source for " + resource.id);
-    routes[resource.sourcePdf] = `#/paper/${doc.id}/1${resource === doc ? "" : "/answers"}`;
+    routes[resource.sourcePdf] = `#/paper-pages/${doc.id}/1${resource === doc ? "" : "/answers"}`;
     delete resource.sourcePdf;
   }
 }

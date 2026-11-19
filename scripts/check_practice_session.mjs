@@ -2,6 +2,7 @@
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { runInNewContext } from 'node:vm';
+import { webcrypto } from 'node:crypto';
 
 const directory = process.argv[2] || 'dist-hosted';
 const library = readFileSync(directory + '/library.json');
@@ -32,10 +33,11 @@ async function openApp(hash, expectedText) {
     return nodes.get(selector);
   };
   const handlers = new Map();
-  const location = { hash };
-  const document = { querySelector: node, querySelectorAll: () => [], createElement: () => ({relList: {supports: () => true}}) };
+  const location = { hash, replace(next) { this.hash = next; } };
+  const controls = new Map();
+  const document = { querySelector: node, querySelectorAll: selector => controls.get(selector) || [], createElement: () => ({relList: {supports: () => true}}) };
   runInNewContext(bundle, {
-    document, location, navigator: {}, window: { addEventListener: (k, cb) => handlers.set(k, cb), scrollTo() {} },
+    document, location, crypto: webcrypto, navigator: {}, window: { addEventListener: (k, cb) => handlers.set(k, cb), scrollTo() {} },
     indexedDB: {open() {
       const request = { result: db };
       queueMicrotask(() => request.onsuccess());
@@ -51,7 +53,7 @@ async function openApp(hash, expectedText) {
   for (let turn = 0; turn < 100 && !node('#app').innerHTML; turn++)
     await new Promise(resolve => setImmediate(resolve));
   assert(expectedText ? node('#app').innerHTML?.includes(expectedText) : node('#app').innerHTML?.includes('Questions to practise') || node('#app').innerHTML?.includes('My answer and working'));
-  return { node, location, render: () => handlers.get('hashchange')() };
+  return { node, controls, location, render: () => handlers.get('hashchange')() };
 }
 
 const indexed = documents.filter(doc => doc.practiceIndex);
@@ -101,3 +103,42 @@ app.location.hash = '#/exams/attempt';
 await app.render();
 assert(app.node('#app').innerHTML.includes('Saved student response'));
 console.log('Saved exam returns to dashboard and resumes with response intact.');
+
+const mcq = JSON.parse(library).questions.find(q => q.type === 'mcq' && q.sourceType !== 'original');
+for (const mode of ['immediate','end']) {
+  local.set('draft', {id:'timing', title:'Timing', questions:[mcq], answers:{}, marks:{},
+    feedbackMode:null, submitted:false, form:mcq.form});
+  app = await openApp('#/exams/attempt', 'When would you like feedback?');
+  const choice = {dataset:{mode}};
+  const option = {type:'radio', value:mode === 'immediate' ? mcq.answerKey : mcq.options.find(o => o !== mcq.answerKey), dataset:{answer:mcq.id}};
+  app.controls.set('[data-mode]', [choice]);
+  app.controls.set('[data-answer]', [option]);
+  await app.render();
+  await choice.onclick();
+  assert(!app.node('#app').innerHTML.includes('Model answer'));
+  await option.oninput();
+  if (mode === 'end') {
+    assert(!app.node('#app').innerHTML.includes('Model answer'));
+    await app.node('#submit').onclick();
+  }
+  const review = app.node('#app').innerHTML;
+  assert(review.includes(mode === 'immediate' ? 'Correct' : 'Incorrect') && review.includes(mcq.feedbackExplanation) && review.includes('Model answer') && review.includes('Guided review conversation'));
+  assert(!review.includes('Open source paper PDF') && !review.includes('Original source marking guide'));
+}
+console.log('Immediate and end-of-exam feedback verified with a genuine multiple-choice item.');
+
+local.delete('draft');
+app = await openApp('#/exams', 'Exam dashboard');
+const scoredPaper = documents.find(d => d.interactivePaperId);
+app.location.hash = '#/paper/' + scoredPaper.id + '/1';
+await app.render();
+assert.equal(app.location.hash, '#/exams/attempt');
+await app.render();
+assert(app.node('#app').innerHTML.includes('Check each answer'));
+const selfCheck = indexed.find(d => !d.interactivePaperId);
+app.location.hash = '#/paper/' + selfCheck.id;
+await app.render();
+assert.equal(app.location.hash, base(selfCheck.id));
+await app.render();
+assert(app.node('#app').innerHTML.includes('Review at the end'));
+console.log('Paper links enter scored or self-check practice directly.');

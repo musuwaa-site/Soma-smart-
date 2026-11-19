@@ -51,7 +51,7 @@ if (hosted) {
     if (!copy) throw Error("Hosted paper missing: " + doc.id);
     for (const resource of [doc, doc.answerGuide].filter(Boolean)) {
       const hostedResource = resource === doc ? copy : copy.answerGuide;
-      const route = `#/paper/${doc.id}/1${resource === doc ? "" : "/answers"}`;
+      const route = `#/paper-pages/${doc.id}/1${resource === doc ? "" : "/answers"}`;
       if (data.sourceReaderRoutes[resource.sourcePdf] !== route || existsSync(directory + resource.sourcePdf) ||
           JSON.stringify(hostedResource?.pageImages) !== JSON.stringify(resource.pageImages))
         throw Error("Hosted reader and full archive disagree: " + resource.id);

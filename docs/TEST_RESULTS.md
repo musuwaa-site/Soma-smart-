@@ -36,3 +36,5 @@ With the network disabled after installation in the service-worker harness, both
 
 The manual offline download update passed 46 Node tests and 24 Python tests. Worker tests cover zero download requests on installation, explicit start, abort on pause, resumption, offline fallback and cache validation.
 The student navigation harness verified leaving a scored exam for the dashboard and reopening its saved answer. The hosted and full offline packages passed integrity checks.
+
+Release 0.14.0 passed 47 Node tests and 24 Python tests. The built application harness opened old paper links into practice, checked a correct immediate response, withheld feedback for an incorrect end-mode response until submission, and verified saved answers after reopening. Both packages passed integrity validation. Offline worker checks exercised all 180 papers. All 676 published genuine scored records have an offline student-facing explanation.

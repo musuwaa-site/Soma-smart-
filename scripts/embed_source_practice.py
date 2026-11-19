@@ -52,7 +52,15 @@ if __name__ == '__main__':
     data = apply(data)
     from import_markaz_math import apply as apply_math
     apply_math(data)
-    data['version'] = '0.13.0'
+    explanations = {}
+    for filename in ('028-objective-explanations.json', '029-matching-explanations.json', '030-written-science-explanations.json', '031-written-language-explanations.json', '032-written-other-explanations.json'):
+        explanations.update(json.loads((batches / filename).read_text()))
+    for question in data['questions']:
+        if question['id'] in explanations:
+            question['feedbackExplanation'] = explanations.pop(question['id'])
+    if explanations:
+        raise SystemExit('Feedback references missing questions')
+    data['version'] = '0.14.0'
     problems = validate(data)
     if problems:
         raise SystemExit('\n'.join(problems))

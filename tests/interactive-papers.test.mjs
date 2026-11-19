@@ -78,3 +78,12 @@ test('NECTA whole-question scoring preserves each original part and cites the so
   const originals = data.questions.filter(q => q.scoredInQuestionId === whole.id);
   assert.deepEqual(whole.sourceParts.map(p => [p.questionNumber,p.content]), originals.map(q => [q.questionNumber,q.content]));
 });
+
+test('every published genuine scored item has a student-facing explanation', () => {
+  const items = data.questions.filter(q => q.publicationStatus === 'published' && q.sourceType !== 'original');
+  assert(items.length >= 676);
+  for (const q of items) {
+    assert(q.feedbackExplanation?.trim(), q.id);
+    assert(!/https?:\/\//.test(q.feedbackExplanation), q.id);
+  }
+});

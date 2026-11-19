@@ -62,3 +62,7 @@ Release 0.13.0 adds 14 Form One and 41 Form Two papers for a total of 90 per for
 The target for distinct papers has been reached. Further scoring work should convert the 156 self-check-only sources and complete the 14 partial scored sources. The curriculum manuscript work is paused. Physical Android acceptance remains open.
 
 Offline provisioning is user-controlled. Opening SomaSmart registers the worker in passive mode. A student can start, pause and resume the library download from the header. Completed cached assets and local exam responses survive a pause.
+
+## Examination feedback update
+
+The default paper entry opens scored practice when a scored selection exists, and opens question selection for a self-check paper. The two modes for scored attempts are **Check each answer** and **Mark at the end**. Immediate objective checks keep the first submitted choice. Matching responses are checked after the last pair is filled. Written work supports comparison with the model and self-marking. The results display keeps the guided review conversation. Existing saved attempts retain end-of-exam marking. No additional paper is counted as fully scored from this interface change.

@@ -23,5 +23,5 @@ cpSync("dist", "dist-hosted", {
 // Keep source links in scored questions and answer guides usable without a connection.
 data.sourceReaderRoutes = routes;
 writeFileSync("dist-hosted/library.json", JSON.stringify(data, (_, value) =>
-  typeof value === "string" && Object.hasOwn(routes, value) ? routes[value] : value, 2));
+  typeof value === "string" && Object.hasOwn(routes, value) ? routes[value] : value));
 writeOfflineManifest("dist-hosted");

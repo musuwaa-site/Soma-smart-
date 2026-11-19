@@ -22,5 +22,5 @@ execFileSync('python', ['scripts/compact_source_previews.py', 'dist', previewMap
 const previewPaths = JSON.parse(readFileSync(previewMap));
 rmSync(previewMap);
 writeFileSync('dist/library.json', JSON.stringify(published, (_, value) =>
-  typeof value === 'string' && Object.hasOwn(previewPaths, value) ? previewPaths[value] : value, 2));
+  typeof value === 'string' && Object.hasOwn(previewPaths, value) ? previewPaths[value] : value));
 writeOfflineManifest("dist");

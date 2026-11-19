@@ -13,6 +13,8 @@ for (const asset of manifest.assets) {
   const path = directory + asset.url;
   const contents = readFileSync(path);
   bytes += contents.length;
+  if (hosted && contents.length > 25 * 1024 ** 2)
+    throw Error("Hosted asset exceeds the 25 MiB per-file limit: " + asset.url);
   if (createHash("sha256").update(contents).digest("hex") !== asset.sha256)
     throw Error("Corrupted offline asset: " + asset.url);
 }

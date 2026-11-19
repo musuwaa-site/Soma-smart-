@@ -29,6 +29,7 @@ const lesson = (id) => data.lessons.find((s) => s.id === id);
 const link = (path, text, cls = "button") =>
   `<a class="${cls}" href="#/${path}">${esc(text)}</a>`;
 const notice = (text) => `<div class="notice">${esc(text)}</div>`;
+const dashboardButton = () => link('exams', '← Back to exam dashboard', 'button secondary');
 async function saveProfile() {
   await set("profile", profile);
 }
@@ -198,7 +199,7 @@ function sourcePaperReader(id, pageNumber=1, section='paper') {
   const originalLink = resource.sourcePdf
     ? `<a href="${esc(resource.sourcePdf)}" download>Download the complete ${fileLabel} PDF</a>`
     : `<a href="${esc(resource.sourceReference)}" target="_blank" rel="noopener noreferrer">Open the original ${fileLabel} at its source (internet required)</a>`;
-  frame(`${link('exams','← Examination centre','')}<article class="reader"><h1>${esc(doc.title)}</h1><p class="muted">${showingAnswers?'Source answer guide':'Original paper'} · page ${n} of ${resource.pageCount}</p><p>${esc(showingAnswers ? resource.provenance : doc.note)}</p><div class="book-tabs">${link('paper/'+id+'/1','Question paper',showingAnswers?'button secondary':'button')}${doc.answerGuide?link('paper/'+id+'/1/answers','Source answer guide',showingAnswers?'button':'button secondary'):''}</div><div class="row">${n > 1 ? link(path(n-1),'← Previous page','button secondary') : '<span></span>'}${n < resource.pageCount ? link(path(n+1),'Next page →') : '<span>Last page</span>'}</div><figure><img src="${esc(resource.pageImages[n-1])}" alt="${showingAnswers?'Answer guide':'Original paper'} ${esc(doc.title)}, page ${n}." style="width:100%;height:auto"></figure><details><summary>My answers and working · saved on this device</summary><label for="paper-working">Use the original question numbers and subpart labels.</label><textarea id="paper-working" rows="12" placeholder="1(a)… 1(b)…">${esc(sourceAnswers[id]||'')}</textarea><p id="paper-save-status" class="save-status" role="status">Your paper notebook stays local. Source documents are not automatically graded.</p></details><p>${originalLink}</p><p class="muted">Source: ${esc(resource.sourceReference)}</p>${doc.practiceIndex && !showingAnswers ? `<p>${link("paper-practice/"+id,"Choose practice questions →")}</p>` : ""}${doc.interactivePaperId ? `<p><button data-source-exam="${esc(doc.interactivePaperId)}">Practise scored questions from this paper</button></p>` : ''}</article>`,'exams');
+  frame(`${dashboardButton()}<article class="reader"><h1>${esc(doc.title)}</h1><p class="muted">${showingAnswers?'Source answer guide':'Original paper'} · page ${n} of ${resource.pageCount}</p><p>${esc(showingAnswers ? resource.provenance : doc.note)}</p><div class="book-tabs">${link('paper/'+id+'/1','Question paper',showingAnswers?'button secondary':'button')}${doc.answerGuide?link('paper/'+id+'/1/answers','Source answer guide',showingAnswers?'button':'button secondary'):''}</div><div class="row">${n > 1 ? link(path(n-1),'← Previous page','button secondary') : '<span></span>'}${n < resource.pageCount ? link(path(n+1),'Next page →') : '<span>Last page</span>'}</div><figure><img src="${esc(resource.pageImages[n-1])}" alt="${showingAnswers?'Answer guide':'Original paper'} ${esc(doc.title)}, page ${n}." style="width:100%;height:auto"></figure><details><summary>My answers and working · saved on this device</summary><label for="paper-working">Use the original question numbers and subpart labels.</label><textarea id="paper-working" rows="12" placeholder="1(a)… 1(b)…">${esc(sourceAnswers[id]||'')}</textarea><p id="paper-save-status" class="save-status" role="status">Your paper notebook stays local. Source documents are not automatically graded.</p></details><p>${originalLink}</p><p class="muted">Source: ${esc(resource.sourceReference)}</p>${doc.practiceIndex && !showingAnswers ? `<p>${link("paper-practice/"+id,"Choose practice questions →")}</p>` : ""}${doc.interactivePaperId ? `<p><button data-source-exam="${esc(doc.interactivePaperId)}">Practise scored questions from this paper</button></p>` : ''}</article>`,'exams');
   document.querySelector('[data-source-exam]')?.addEventListener('click', event => openScoredPaper(event.currentTarget.dataset.sourceExam));
   document.querySelector('#paper-working').oninput = async event => {
     sourceAnswers[id] = event.target.value;
@@ -213,7 +214,7 @@ function showSourcePractice(id, label) {
   const saved = sourcePractice[id] ??= { selected: [], answers: {}, checked: {} };
   saved.marks ??= {};
   const route = 'paper-practice/' + id;
-  const back = link('exams', '← Examination centre', '');
+  const back = dashboardButton();
   const original = link('paper/' + id + '/1', 'Full original paper', 'button secondary');
   const guide = doc.answerGuide ? link('paper/' + id + '/1/answers', 'Source answer guide', 'button secondary') : '';
   const persistPractice = async () => {
@@ -266,7 +267,7 @@ function showSourcePractice(id, label) {
   const group = selected[position];
   const model = doc.independentPracticeGuide?.groups[group.label];
   const groupLink = (item, title) => link(route + '/' + encodeURIComponent(item.label), title, 'button secondary');
-  frame(`${link(route, '← Change selection', '')}<article class="reader">
+  frame(`${back} ${link(route, '← Change selection', '')}<article class="reader">
     <h1>${esc(doc.title)}</h1>
     <h2>Question ${esc(group.label)}</h2>
     <p>${position + 1} of ${selected.length} selected · ${selected.filter(q => saved.checked[q.label]).length} reviewed</p>
@@ -329,10 +330,6 @@ function showSourcePractice(id, label) {
 }
 
 function exams() {
-  if (draft) {
-    exam();
-    return;
-  }
   examFilter ??= {
     form: profile.form,
     subjectId: "chemistry",
@@ -344,7 +341,7 @@ function exams() {
     doc.form === profile.form && doc.subjectId === examFilter.subjectId && doc.publicationStatus === 'published');
   const scoredCount = subjectPapers.filter(doc => doc.interactivePaperId).length;
   frame(
-    `<span class="eyebrow">Examination centre</span><h1>Practise with purpose.</h1><p class="muted">Build a test from the actual embedded question bank.</p><section class="card"><div class="formgrid"><label>Subject<select id="exam-subject">${data.subjects.map((s) => `<option value="${s.id}" ${s.id === examFilter.subjectId ? "selected" : ""}>${esc(s.name)}</option>`).join("")}</select></label><label>Source<select id="exam-source">${[
+    `<span class="eyebrow">Examination centre</span><h1>Exam dashboard</h1>${draft ? `<section class="card"><h2>${esc(draft.title)}</h2>${link("exams/attempt", draft.submitted ? "Resume marking and review" : "Resume saved exam")}</section>` : ""}<p class="muted">Build a test from the actual embedded question bank.</p><section class="card"><div class="formgrid"><label>Subject<select id="exam-subject">${data.subjects.map((s) => `<option value="${s.id}" ${s.id === examFilter.subjectId ? "selected" : ""}>${esc(s.name)}</option>`).join("")}</select></label><label>Source<select id="exam-source">${[
       ["original", "Original practice"],
       ["authentic", "Genuine papers only"],
       ["school", "School"],
@@ -461,11 +458,16 @@ function exams() {
   document.querySelectorAll("[data-review]").forEach(
     (b) =>
       (b.onclick = async () => {
+        if (draft && !draft.submitted) {
+          document.querySelector("#exam-message").textContent = "Resume or discard your saved exam before opening a previous attempt.";
+          window.scrollTo(0, 0);
+          return;
+        }
         draft = structuredClone(
           attempts.find((a) => a.id === b.dataset.review),
         );
         await set("draft", draft);
-        exam();
+        location.hash = "#/exams/attempt";
       }),
   );
 }
@@ -499,8 +501,7 @@ async function startExam(questions, title) {
     final: false,
   };
   await set("draft", draft);
-  location.hash = "#/exams";
-  exam();
+  location.hash = "#/exams/attempt";
 }
 function answerInput(q) {
   const answer = draft.answers[q.id];
@@ -554,19 +555,20 @@ function displayAnswer(q) {
 function exam() {
   const r = result(draft.questions, draft.answers, draft.marks);
   frame(
-    `<span class="eyebrow">${draft.submitted ? "Review & marking" : "Saved examination draft"} / Form ${draft.form}</span><h1>${esc(draft.title)}</h1><p class="muted">${draft.questions.length} questions • ${r.maximum} available marks • Written answers require your self-assessment.</p>${draft.sourceInstructions?.length ? `<details class="card"><summary>Original source instructions</summary>${draft.sourceInstructions.map(text => `<p>${esc(text)}</p>`).join("")}<p class="muted">A custom selection may contain fewer items than the original source paper.</p></details>` : ""}<div class="save-status" id="saved" role="status">Saved on this device</div>${draft.submitted ? `<section class="card"><span class="score">${r.earned}/${r.maximum}</span><p>${r.pending ? `${r.pending} written answers await self-marking. Score is provisional.` : "Marking complete."}</p></section>` : ""}${draft.questions
+    `${dashboardButton()}<p class="eyebrow">${draft.submitted ? "Review & marking" : "Saved examination draft"} / Form ${draft.form}</p><h1>${esc(draft.title)}</h1><p class="muted">${draft.questions.length} questions • ${r.maximum} available marks • Written answers require your self-assessment.</p>${draft.sourceInstructions?.length ? `<details class="card"><summary>Original source instructions</summary>${draft.sourceInstructions.map(text => `<p>${esc(text)}</p>`).join("")}<p class="muted">A custom selection may contain fewer items than the original source paper.</p></details>` : ""}<div class="save-status" id="saved" role="status">Saved on this device</div>${draft.submitted ? `<section class="card"><span class="score">${r.earned}/${r.maximum}</span><p>${r.pending ? `${r.pending} written answers await self-marking. Score is provisional.` : "Marking complete."}</p></section>` : ""}${draft.questions
       .map((q, i) => {
         const row = r.rows[i];
         return `<section class="card question"><div class="row"><span class="pill">${esc(q.sourceTitle)}</span><span class="muted">${q.maximumMarks} marks · ${esc(q.type)}</span></div><h3>${q.sourceType === "original" ? i + 1 : esc(q.questionNumber)}. ${verbatimContent(q)}</h3>${q.sharedContent ? `<p class="source-stem">${esc(q.sharedContent).replaceAll("\n", "<br>")}</p>` : ""}${q.instructions ? `<p>${esc(q.instructions)}</p>` : ""}${(q.media || []).map((m) => m.role === "source-page" ? `<details><summary>View original source page</summary><img src="${esc(m.path)}" alt="${esc(m.alt)}" style="max-width:100%"></details>` : `<img src="${esc(m.path)}" alt="${esc(m.alt)}" style="max-width:100%">`).join("")}${q.sourcePdf ? `<p>${paperResourceLink(q.sourcePdf, "Open source paper PDF", "Read original paper")}</p>` : ""}${q.passage ? `<blockquote>${esc(q.passage)}</blockquote>` : ""}${q.table ? `<table>${q.table.map((row) => `<tr>${row.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</table>` : ""}${sourceParts(q)}${answerInput(q)}${draft.submitted ? `<div class="feedback"><strong>${esc(row.status)} · ${row.earned}/${q.maximumMarks}</strong><p>Model answer: ${esc(displayAnswer(q))}</p><p>${esc(q.markingGuide)}</p>${q.guideDiscrepancy ? `<p class="notice">${esc(q.guideDiscrepancy)}</p>` : ""}${q.answerGuidePdf ? `<p>${paperResourceLink(q.answerGuidePdf, "Original source marking guide", "Read original marking guide")}</p>` : ""}${q.workedSolution ? `<p><strong>Worked solution</strong><br>${esc(q.workedSolution)}</p>` : ""}<small>${esc(q.solutionProvenance)} • ${esc(q.sourceReference)}</small>${q.markFormatEvidence ? `<p><a href="${esc(q.markFormatEvidence.sourceUrl)}" target="_blank" rel="noopener">NECTA marking format, page ${q.markFormatEvidence.pdfPage}</a></p>` : ""}${guidedReview(q)}${!["mcq", "matching"].includes(q.type) && draft.answers[q.id]?.trim() ? `<label>Your earned marks (0–${q.maximumMarks}, steps of ${q.markIncrement})<input data-marks="${q.id}" type="number" min="0" max="${q.maximumMarks}" step="${q.markIncrement}" value="${draft.marks[q.id] ?? ""}"></label>` : ""}</div>` : ""}</section>`;
       })
       .join(
         "",
-      )}<div class="row">${!draft.submitted ? '<button id="submit">Submit for marking</button>' : '<button id="finish">Save review & return</button>'}<button id="discard" class="secondary">${draft.submitted ? "Close review" : "Discard draft"}</button></div><p id="mark-error" role="alert"></p>`,
+      )}<div class="row">${dashboardButton()}${!draft.submitted ? '<button id="submit">Submit for marking</button>' : '<button id="finish">Save review & return</button>'}<button id="discard" class="secondary">${draft.submitted ? "Close review" : "Discard draft"}</button></div><p id="mark-error" role="alert"></p>`,
     "exams",
   );
   async function persist() {
     await set("draft", draft);
-    document.querySelector("#saved").textContent = "Saved on this device";
+    const saved = document.querySelector("#saved");
+    if (saved) saved.textContent = "Saved on this device";
   }
   document.querySelectorAll('[data-guided-review]').forEach(panel => {
     const question = draft.questions.find(q => q.id === panel.dataset.guidedReview);
@@ -667,13 +669,13 @@ function exam() {
       await record();
       draft = null;
       await set("draft", null);
-      exams();
+      location.hash = "#/exams";
     };
   document.querySelector("#discard").onclick = async () => {
     if (!draft.submitted && !confirm("Discard this unfinished test?")) return;
     draft = null;
     await set("draft", null);
-    exams();
+    location.hash = "#/exams";
   };
 }
 async function record() {
@@ -705,6 +707,7 @@ async function render() {
     else if (page === "study") study(id);
     else if (page === "lesson" || page === "workbook")
       await reader(id, page === "workbook");
+    else if (page === "exams" && id === "attempt" && draft) exam();
     else if (page === "exams") exams();
     else if (page === "progress") progress();
     else home();

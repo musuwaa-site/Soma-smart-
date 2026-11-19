@@ -25,7 +25,7 @@ const db = {
     return tx;
   },
 };
-async function openApp(hash) {
+async function openApp(hash, expectedText) {
   const nodes = new Map();
   const node = selector => {
     if (!nodes.has(selector)) nodes.set(selector, {});
@@ -33,7 +33,7 @@ async function openApp(hash) {
   };
   const handlers = new Map();
   const location = { hash };
-  const document = { querySelector: node, createElement: () => ({relList: {supports: () => true}}) };
+  const document = { querySelector: node, querySelectorAll: () => [], createElement: () => ({relList: {supports: () => true}}) };
   runInNewContext(bundle, {
     document, location, navigator: {}, window: { addEventListener: (k, cb) => handlers.set(k, cb), scrollTo() {} },
     indexedDB: {open() {
@@ -50,7 +50,7 @@ async function openApp(hash) {
   });
   for (let turn = 0; turn < 100 && !node('#app').innerHTML; turn++)
     await new Promise(resolve => setImmediate(resolve));
-  assert(node('#app').innerHTML?.includes('Questions to practise') || node('#app').innerHTML?.includes('My answer and working'));
+  assert(expectedText ? node('#app').innerHTML?.includes(expectedText) : node('#app').innerHTML?.includes('Questions to practise') || node('#app').innerHTML?.includes('My answer and working'));
   return { node, location, render: () => handlers.get('hashchange')() };
 }
 
@@ -87,3 +87,17 @@ for (const doc of indexed) {
   assert(app.node('#app').innerHTML.includes('Undo reviewed status'));
 }
 console.log(directory, indexed.length, 'paper selections, typed answers and review states restored after application restart.');
+
+const question = JSON.parse(library).questions.find(q => q.type === 'short');
+assert(question);
+local.set('draft', {id:'saved-exam', title:'Saved exam', created:0, form:question.form,
+  questions:[question], answers:{[question.id]:'Saved student response'}, marks:{}, submitted:false});
+app = await openApp('#/exams/attempt', 'Back to exam dashboard');
+assert.match(app.node('#app').innerHTML, /href="#\/exams">← Back to exam dashboard/);
+app.location.hash = '#/exams';
+await app.render();
+assert.match(app.node('#app').innerHTML, /href="#\/exams\/attempt">Resume saved exam/);
+app.location.hash = '#/exams/attempt';
+await app.render();
+assert(app.node('#app').innerHTML.includes('Saved student response'));
+console.log('Saved exam returns to dashboard and resumes with response intact.');

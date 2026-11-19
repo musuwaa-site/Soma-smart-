@@ -25,7 +25,7 @@ The ZIP is `artifacts/somasmart-development-web.zip`. Serve **all** of `dist/` a
 
 ## Installation
 
-Open the HTTPS site on Android Chrome; wait for **Library ready offline**, then use the browser's Install/Add to Home Screen action. Readiness checks every bundled asset, not merely the service-worker registration. If setup fails, free storage and reconnect/reload to retry. Device storage eviction may require reprovisioning. Clearing site data erases progress. Android installation and physical-device behaviour remain unverified.
+Open the HTTPS site in Android Chrome to study online. Offline download starts paused. Tap **Download for offline use** to start or resume, or **Pause download** to stop. After **Library ready offline** appears, use the browser’s Install/Add to Home Screen action. Readiness checks every bundled asset, not merely the service-worker registration. If setup fails, free storage, reconnect and tap the download button to retry. Device storage eviction may require reprovisioning. Clearing site data erases progress. Android installation and physical-device behaviour remain unverified.
 
 ## Included
 

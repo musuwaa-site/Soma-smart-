@@ -21,7 +21,7 @@ const storage = {
   put: async (url, response) => cached.set(url, await response.arrayBuffer()),
 };
 runInNewContext(readFileSync(directory + '/sw.js', 'utf8'), {
-  self: worker, caches: { open: async () => storage }, URL, Uint8Array, crypto: webcrypto,
+  self: worker, caches: { open: async () => storage }, Response, AbortController, URL, Uint8Array, crypto: webcrypto,
   fetch: async url => {
     assert(connected, 'Worker tried to reach the network for ' + url);
     return new Response(readFileSync(directory + url));
@@ -41,6 +41,8 @@ async function offlineRead(path) {
 
 await dispatch('install');
 await dispatch('activate');
+assert.equal(cached.size, 0);
+await dispatch('message', {data: {type: 'START'}});
 connected = false;
 const data = await (await offlineRead('/library.json')).json();
 const questions = new Map(data.questions.map(q => [q.id, q]));

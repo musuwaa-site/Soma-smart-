@@ -420,3 +420,4 @@ summary {
 .review-messages p:first-child { font-weight: 650; }
 .guided-review button { margin-block: .25rem; }
 .feedback p { white-space: pre-wrap; }
+button[hidden] { display: none; }

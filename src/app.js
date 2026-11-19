@@ -19,7 +19,8 @@ let data,
   profile,
   attempts,
   draft,
-  offline = "Installing offline library…",
+  offline = "Offline download paused",
+  offlineMode = "initial",
   routeError = "",
   examFilter,
   privateDocs = [];
@@ -32,7 +33,7 @@ async function saveProfile() {
   await set("profile", profile);
 }
 function frame(body, active = "home") {
-  app.innerHTML = `<header><a class="brand" href="#/"><img src="/icon.svg" alt="">SomaSmart</a><div class="row"><small id="offline" role="status">${esc(offline)}</small><select id="form" aria-label="Select form"><option value="1" ${profile.form === 1 ? "selected" : ""}>Form One</option><option value="2" ${profile.form === 2 ? "selected" : ""}>Form Two</option></select></div></header><main class="shell">${routeError ? notice(routeError) : ""}${body}<p class="footer">Development edition • Growing learning library • One local student profile. Clearing browser storage or changing devices can erase your progress.</p></main><nav aria-label="Main">${[
+  app.innerHTML = `<header><a class="brand" href="#/"><img src="/icon.svg" alt="">SomaSmart</a><div class="row"><small id="offline" role="status">${esc(offline)}</small><button type="button" class="secondary" id="offline-action" hidden></button><select id="form" aria-label="Select form"><option value="1" ${profile.form === 1 ? "selected" : ""}>Form One</option><option value="2" ${profile.form === 2 ? "selected" : ""}>Form Two</option></select></div></header><main class="shell">${routeError ? notice(routeError) : ""}${body}<p class="footer">Development edition • Growing learning library • One local student profile. Clearing browser storage or changing devices can erase your progress.</p></main><nav aria-label="Main">${[
     ["home", "", "Home"],
     ["study", "study", "Study"],
     ["exams", "exams", "Exams"],
@@ -44,6 +45,7 @@ function frame(body, active = "home") {
     .join(
       "",
     )}</nav><dialog id="definition"><h2 id="term-title"></h2><p id="term-definition"></p><button id="close-definition">Close</button></dialog>`;
+  updateOfflineButton();
   document.querySelector("#form").onchange = async (e) => {
     profile.form = Number(e.target.value);
     await saveProfile();
@@ -719,40 +721,61 @@ function setOffline(text) {
   const el = document.querySelector("#offline");
   if (el) el.textContent = text;
 }
+function updateOfflineButton() {
+  const button = document.querySelector('#offline-action');
+  if (!button) return;
+  button.hidden = !['paused', 'running'].includes(offlineMode);
+  button.textContent = offlineMode === 'running' ? 'Pause download' : 'Download for offline use';
+  button.onclick = () => {
+    const worker = navigator.serviceWorker?.controller;
+    if (!worker) return;
+    const pause = offlineMode === 'running';
+    offlineMode = pause ? 'pausing' : 'running';
+    setOffline(pause ? 'Pausing download…' : 'Starting offline download…');
+    updateOfflineButton();
+    worker.postMessage({type: pause ? 'PAUSE' : 'START'});
+  };
+}
+function offlineState(mode, text) {
+  offlineMode = mode;
+  setOffline(text);
+  updateOfflineButton();
+}
 async function provision() {
-  const hadController = !!navigator.serviceWorker?.controller;
-  if ('serviceWorker' in navigator) navigator.serviceWorker.addEventListener('controllerchange', () => {
-    if (!hadController || document.querySelector('#reload-content')) return;
-    const button = document.createElement('button');
-    button.id = 'reload-content'; button.className = 'secondary'; button.textContent = 'Updated content ready · refresh';
-    button.onclick = () => location.reload();
-    document.querySelector('header')?.append(button);
-  });
-
-  if (!("serviceWorker" in navigator)) {
-    setOffline("Offline installation unsupported in this browser");
+  const service = navigator.serviceWorker;
+  if (!service) {
+    offlineState('unsupported', 'Online use');
     return;
   }
-  navigator.serviceWorker.addEventListener("message", (event) => {
+  function status() {
+    const worker = service.controller;
+    if (!worker) return;
+    const channel = new MessageChannel();
+    channel.port1.onmessage = ({data}) => {
+      channel.port1.close();
+      if (worker !== service.controller || typeof data.running !== 'boolean') return;
+      if (data.ready) offlineState('ready', 'Library ready offline');
+      else if (data.running) offlineState('running', 'Downloading offline library…');
+      else offlineState('paused', 'Offline download paused');
+    };
+    worker.postMessage({type: 'STATUS'}, [channel.port2]);
+  }
+  service.addEventListener('controllerchange', status);
+  service.addEventListener('message', event => {
+    if (event.source !== service.controller) return;
     const m = event.data;
-    if (m.type === "PROGRESS")
-      setOffline(`Installing offline: ${m.done}/${m.total}`);
-    if (m.type === "ERROR") setOffline("Setup incomplete: " + m.message);
+    if (m.type === 'PROGRESS' && offlineMode !== 'pausing')
+      offlineState('running', `Downloading offline: ${m.done}/${m.total}`);
+    if (m.type === 'READY') offlineState('ready', 'Library ready offline');
+    if (m.type === 'PAUSED') offlineState('paused', 'Offline download paused');
+    if (m.type === 'ERROR') offlineState('paused', 'Download stopped: ' + m.message);
   });
   try {
-    const reg = await navigator.serviceWorker.register("/sw.js");
-    await navigator.serviceWorker.ready;
-    const channel = new MessageChannel();
-    channel.port1.onmessage = (e) => {
-      if (e.data.ready) setOffline("✓ Library ready offline");
-      else
-        setOffline("Offline setup incomplete — reconnect and reload to retry");
-    };
-    const worker = reg.active || navigator.serviceWorker.controller;
-    worker?.postMessage({ type: "STATUS" }, [channel.port2]);
-    if (navigator.storage?.persist) await navigator.storage.persist();
-  } catch (e) {
-    setOffline("Offline setup incomplete — reconnect and reload. " + e.message);
+    await service.register('/sw.js', {updateViaCache: 'none'});
+    await service.ready;
+    status();
+  } catch {
+    offlineState('unsupported', 'Online use · offline setup unavailable');
   }
 }
 async function boot() {

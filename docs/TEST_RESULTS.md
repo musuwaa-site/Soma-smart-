@@ -33,3 +33,5 @@ With the network disabled after installation in the service-worker harness, both
 ## Release 0.13.0
 
 45 Node tests and 24 Python tests passed. Both builds verified 180 distinct papers. The full release validated 1,909 assets and the hosted release validated 1,697. After simulated network disconnection, both service workers served the published library and the original pages for every one of 1,615 question groups. All 158 page-based selections restored typed answers and review status on restart in the application harness. The scored-bank tests exercised automatic marking and written self-assessment, including both newly converted 100-mark papers. A second import produced an identical canonical library SHA-256. Physical Android testing remains pending.
+
+The manual offline download update passed 46 Node tests and 24 Python tests. Worker tests cover zero download requests on installation, explicit start, abort on pause, resumption, offline fallback and cache validation.
